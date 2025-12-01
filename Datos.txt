@@ -1,0 +1,17 @@
+Nº	Fuente	Tipo de datos	Estado actual
+1. NASA C-MAPSS	Sensores de motores turbofan con degradación progresiva (FD001–FD004)	Datos
+https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/
+	
+2. NASA ASRS	Reportes reales de incidentes de pilotos/técnicos (texto libre)	Sintaxis 
+https://asrs.arc.nasa.gov/search/database.html
+	
+3. FAA SDR (Service Difficulty Reports)	Incidentes estructurados de mantenimiento y fallos	⏳ Pendiente de descarga y limpieza	
+
+
+4. FAA Advisory Circulars (ACs)	Documentos normativos técnicos (AC 43.13, 20-107, etc.)	🔜 Pendiente (indexación semántica y resumen PDF → texto)
+
+https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.list/topicID/140
+	
+5. EASA Regulations & CS	Normas europeas de mantenimiento/certificación (Part-145, CS-25…)	🔜 Pendiente de indexar	
+6. Airbus FAST Magazine	Artículos técnicos reales Airbus	🔜 Pendiente de descargar e integrar	
+7. Synthetic Reports (GPT)	Datos simulados propios de mantenimiento	🔜 Pendiente de generación (para aumentar volumen de casos)
