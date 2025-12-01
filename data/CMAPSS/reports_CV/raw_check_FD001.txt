@@ -1,0 +1,6 @@
+=== Nulos train ===
+Series([], dtype: int64)
+=== Nulos test ===
+Series([], dtype: int64)
+Unidades test: 100, RUL rows: 100
+Filas train: 20631, filas test: 13096
