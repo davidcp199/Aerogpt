@@ -1,0 +1,4 @@
+alg,mse,mae,rmse,model_file
+GRU,1368.8319,23.091902,36.99773,C:\Users\David\Documents\Master-Big-Data-Data-Sciencee-e-Inteligencia-Artificial\TFM\AeroGPT\data\CMAPSS\models_4\FD003_GRU_final.pth
+LSTM,1117.1952,21.754265,33.42447,C:\Users\David\Documents\Master-Big-Data-Data-Sciencee-e-Inteligencia-Artificial\TFM\AeroGPT\data\CMAPSS\models_4\FD003_LSTM_final.pth
+RNN,1724.25,26.013186,41.52409,C:\Users\David\Documents\Master-Big-Data-Data-Sciencee-e-Inteligencia-Artificial\TFM\AeroGPT\data\CMAPSS\models_4\FD003_RNN_final.pth

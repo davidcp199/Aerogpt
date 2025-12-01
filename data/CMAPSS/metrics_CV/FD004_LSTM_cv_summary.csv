@@ -1,0 +1,6 @@
+fold,mse,mae,rmse,hist
+1,2701.8625,35.461987,51.979443,C:\Users\David\Documents\Master-Big-Data-Data-Sciencee-e-Inteligencia-Artificial\TFM\AeroGPT\data\CMAPSS\metrics_4\FD004_LSTM_fold1_hist.csv
+2,1794.4661,28.950077,42.361137,C:\Users\David\Documents\Master-Big-Data-Data-Sciencee-e-Inteligencia-Artificial\TFM\AeroGPT\data\CMAPSS\metrics_4\FD004_LSTM_fold2_hist.csv
+3,2305.638,33.685165,48.01706,C:\Users\David\Documents\Master-Big-Data-Data-Sciencee-e-Inteligencia-Artificial\TFM\AeroGPT\data\CMAPSS\metrics_4\FD004_LSTM_fold3_hist.csv
+4,1966.6938,31.273165,44.347424,C:\Users\David\Documents\Master-Big-Data-Data-Sciencee-e-Inteligencia-Artificial\TFM\AeroGPT\data\CMAPSS\metrics_4\FD004_LSTM_fold4_hist.csv
+5,2089.8337,29.04547,45.7147,C:\Users\David\Documents\Master-Big-Data-Data-Sciencee-e-Inteligencia-Artificial\TFM\AeroGPT\data\CMAPSS\metrics_4\FD004_LSTM_fold5_hist.csv
