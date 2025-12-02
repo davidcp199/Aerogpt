@@ -89,6 +89,15 @@ def extract_cmapss_action(state):
     fd = parsed.get("modelo_seleccionado", "FD001")
     try:
         pred = predict_RUL(df_user, base_path, fd=fd)
+
+        # Decisión de seguimiento
+        if pred["predicted_RUL"] < 20:
+            state.needs_followup = True
+            state.next_agent = "Criticidad"
+        else:
+            state.needs_followup = False
+            state.next_agent = None
+
     except Exception as e:
         logger.exception("Error en predict_RUL: %s", e)
         return {"messages": [AIMessage(content=f"Error al predecir RUL: {e}")]}
@@ -96,10 +105,13 @@ def extract_cmapss_action(state):
     # Generar texto salida
     sensor_values = df_user.to_dict(orient="records")[0]  # dict de sensores
     chain = PROMPT_RUL_RESPONSE | llm_creative
+    
     rul_text = chain.invoke({
         "predicted_RUL": pred["predicted_RUL"],
         "sensor_values": sensor_values
     }).content.strip()
     
-    return {"messages": [AIMessage(content=rul_text)]}
+    #return {"messages": [AIMessage(content=rul_text)]}
+    state.messages.append(AIMessage(content=rul_text))
+    return state
 
