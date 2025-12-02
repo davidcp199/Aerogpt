@@ -68,17 +68,17 @@ def extract_cmapss_tool(message: str) -> str:
     """Extrae datos CMAPSS desde un texto del usuario usando el LLM."""
     try:
         chain = PROMPT_EXTRACT_CMAPSS | llm_deterministic
-        print(">>> LLM que se usará en esta chain:", type(llm_deterministic), getattr(llm_deterministic, "model_name", None))
         
         response = chain.invoke({"message": message})
         tool_output = response.content.strip()
-        # Quitar backticks si existen
+
         tool_output = tool_output.replace("```json", "").replace("```", "").strip()
         print(f"TOOL: {tool_output}")
         return tool_output
+    
     except Exception as e:
         logger.exception("Error en extract_cmapss_tool: %s", e)
         return '{"error": "No se pudo procesar el mensaje"}'
 
-# Registrar en ToolRegistry
+
 ToolRegistry.register("extract_cmapss", extract_cmapss_tool)

@@ -1,15 +1,12 @@
-# utils/llm_provider.py
-# CAMBIO: LLM centralizado — todas las partes toman las instancias desde aquí
 from langchain_openai import ChatOpenAI
 from utils.config_loader import load_all_configs
 import os
 from functools import lru_cache
 
-@lru_cache()  # CAMBIO: cachear la creación de LLMs
+@lru_cache()
 def create_llms(repo_root: str = None):
     model_cfg, paths_cfg, settings_cfg = load_all_configs(repo_root)
 
-    # Asegurar la variable de entorno para OpenAI
     os.environ["OPENAI_API_KEY"] = settings_cfg["settings"].get("openai_api_key", os.getenv("OPENAI_API_KEY", ""))
 
     det = model_cfg["models"]["deterministic"]
@@ -29,7 +26,6 @@ def create_llms(repo_root: str = None):
     return {"deterministic": llm_deterministic, "creative": llm_creative, "paths": paths_cfg, "settings": settings_cfg}
 
 
-# Exponer instancias listas para usar
 _llms_cache = create_llms()
 
 llm_deterministic = _llms_cache["deterministic"]

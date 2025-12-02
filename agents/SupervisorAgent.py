@@ -1,5 +1,3 @@
-# agents/SupervisorAgent.py
-# CAMBIO: usa llm centralizado y devuelve messages explícitos
 from langchain_core.prompts import ChatPromptTemplate
 from utils.llm_provider import llm_deterministic
 import logging
@@ -32,10 +30,9 @@ def supervisor_action(state):
     response = chain.invoke({"user_message": state.messages[-1].content})
     decision = response.content.strip()
     if decision not in ("extract", "none"):
-        # CAMBIO: normalización por seguridad
         logger.warning("Supervisor devolvió valor inesperado '%s' — forzando 'none'", decision)
         decision = "none"
 
     logger.debug("Supervisor decisión: %s", decision)
-    # CAMBIO: devolvemos mensajes explícitos vacíos para evitar comportamiento ambiguo
+
     return {"decision": decision, "messages": []}
