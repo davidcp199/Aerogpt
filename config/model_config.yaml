@@ -1,0 +1,9 @@
+models:
+  deterministic:
+    name: "gpt-4o-mini"
+    temperature: 0
+
+  creative:
+    name: "gpt-4o-mini"
+    temperature: 0.7
+    max_tokens: 150

@@ -4,7 +4,14 @@ import pandas as pd
 import torch
 from torch import nn
 import joblib
+from utils.config_loader import load_all_configs
 
+# Cargar configs
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+_, paths_cfg, _ = load_all_configs(ROOT)
+
+# Acceso a directorios
+MODEL_DIR = paths_cfg["paths"]["model_dir"]
 
 # ============================================================
 # 1. MODELO GRU IDENTICO AL ENTRENADO
@@ -36,8 +43,8 @@ WINDOW_SIZE = 30
 def load_model(base_path, fd_code="FD001"):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-    model_path = os.path.join(base_path, "models", f"best_model_{fd_code}.pth")
-    scaler_path = os.path.join(base_path, "models", f"scaler_{fd_code}.pkl")
+    model_path = os.path.join(MODEL_DIR, f"best_model_{fd_code}.pth")
+    scaler_path = os.path.join(MODEL_DIR, f"scaler_{fd_code}.pkl")
 
     if not os.path.exists(model_path):
         raise FileNotFoundError(f"Modelo no encontrado: {model_path}")
@@ -53,6 +60,7 @@ def load_model(base_path, fd_code="FD001"):
     scaler = joblib.load(scaler_path)
 
     return model, scaler, device
+
 
 
 # ============================================================

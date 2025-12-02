@@ -1,0 +1,7 @@
+paths:
+  base: "."
+  data_directory: "data"
+  cmapss_data: "data/CMAPSS"
+  model_dir: "models/cmapss"
+  logs_dir: "logs"
+  figures_dir: "figures"
