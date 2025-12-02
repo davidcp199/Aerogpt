@@ -6,16 +6,12 @@ from torch import nn
 import joblib
 from utils.config_loader import load_all_configs
 
-# Cargar configs
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 _, paths_cfg, _ = load_all_configs(ROOT)
-
-# Acceso a directorios
 MODEL_DIR = paths_cfg["paths"]["model_dir"]
 
-# ============================================================
-# 1. MODELO GRU IDENTICO AL ENTRENADO
-# ============================================================
+
+# 1. Modelo. GRU igual a entrenamiento
 class GRUModel(nn.Module):
     def __init__(self, input_dim=24, hidden_dim1=256, hidden_dim2=128, dropout=0.3):
         super(GRUModel, self).__init__()
@@ -30,16 +26,13 @@ class GRUModel(nn.Module):
         return self.linear(out)
 
 
-# ============================================================
-# 2. FEATURE COLUMNS
-# ============================================================
+# 2. FEATURES
 FEATURE_COLS = ['setting_1','setting_2','setting_3'] + [f's_{i}' for i in range(1,22)]
 WINDOW_SIZE = 30
 
 
-# ============================================================
-# 3. CARGA DE MODELO + SCALER
-# ============================================================
+# 3. CARGA DE MODELO y SCALER
+
 def load_model(base_path, fd_code="FD001"):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -62,10 +55,8 @@ def load_model(base_path, fd_code="FD001"):
     return model, scaler, device
 
 
+# 4. SI EL USUARIO SOLO DA 1 CICLO SE GENERAR HISTORIA SINTÉTICA
 
-# ============================================================
-# 4. SI EL USUARIO SOLO DA 1 CICLO → GENERAR HISTORIA SINTÉTICA
-# ============================================================
 def generate_synthetic_history(row, length=30):
     """
     Genera una historia temporal suave y consistente con el ciclo actual.
@@ -83,9 +74,8 @@ def generate_synthetic_history(row, length=30):
     return pd.DataFrame(seq, columns=row.index)
 
 
-# ============================================================
 # 5. PREPROCESAMIENTO DEL INPUT
-# ============================================================
+
 def preprocess_user_data(df, scaler):
     df = df.copy()
 
@@ -100,9 +90,9 @@ def preprocess_user_data(df, scaler):
     return df
 
 
-# ============================================================
+
 # 6. VENTANA PARA EL MODELO
-# ============================================================
+
 def make_window(df, window_size=30):
     seq = df[FEATURE_COLS].values
 
@@ -115,13 +105,13 @@ def make_window(df, window_size=30):
     return np.expand_dims(seq, axis=0)
 
 
-# ============================================================
+
 # 7. PREDICCIÓN FINAL DE RUL
-# ============================================================
+
 def predict_RUL(user_df, base_path, fd="FD001"):
     model, scaler, device = load_model(base_path, fd)
 
-    # Si solo hay 1 ciclo → generar historia sintética
+    # Si solo hay 1 ciclo
     if len(user_df) == 1:
         user_df = generate_synthetic_history(user_df.iloc[0], length=WINDOW_SIZE)
 
@@ -138,21 +128,3 @@ def predict_RUL(user_df, base_path, fd="FD001"):
     return {
         "predicted_RUL": y_pred
     }
-
-
-# ============================================================
-# 8. EJEMPLO DE USO LOCAL
-# ============================================================
-if __name__ == "__main__":
-    data = {
-        "setting_1": [0.5],
-        "setting_2": [0.1],
-        "setting_3": [0.3],
-        **{f"s_{i}": [1000.0] for i in range(1,22)}
-    }
-    df_user = pd.DataFrame(data)
-
-    base_path = r"C:\Users\David\Documents\Master-Big-Data-Data-Sciencee-e-Inteligencia-Artificial\TFM\AeroGPT\data\CMAPSS"
-
-    pred = predict_RUL(df_user, base_path, "FD004")
-    print(pred)

@@ -1,4 +1,3 @@
-# agents/State.py
 from pydantic import BaseModel
 from typing import Optional, Literal
 from langgraph.graph.message import add_messages

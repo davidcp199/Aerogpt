@@ -1,5 +1,3 @@
-# utils/tool_registry.py
-# CAMBIO: registry global para registrar/invocar tools de forma consistente y extensible
 from typing import Callable, Dict, Any
 
 class ToolRegistry:
@@ -23,8 +21,6 @@ class ToolRegistry:
         if tool is None:
             raise KeyError(f"Tool '{name}' not registrada.")
 
-        # CAMBIO: intentamos .invoke() (langchain tools), luego .run(), luego callable()
-        # Esto hace robusta la invocación ante variantes de implementación.
         if hasattr(tool, "invoke") and callable(getattr(tool, "invoke")):
             return tool.invoke(dict(zip(["message"] if args else [], args), **kwargs))
         if hasattr(tool, "run") and callable(getattr(tool, "run")):

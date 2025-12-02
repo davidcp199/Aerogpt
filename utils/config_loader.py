@@ -1,4 +1,3 @@
-# utils/config_loader.py
 import yaml
 from pathlib import Path
 from functools import lru_cache
@@ -24,7 +23,7 @@ def load_all_configs(repo_root: str = None):
     else:
         repo_root = Path(repo_root)
 
-    # Cargar .env desde la raíz del proyecto
+    # Cargar .env
     env_path = repo_root / ".env"
     load_dotenv(env_path)
 
@@ -34,18 +33,17 @@ def load_all_configs(repo_root: str = None):
     paths_cfg = load_yaml(config_dir / "paths.yaml")
     settings_cfg = load_yaml(config_dir / "settings.yaml")
 
-    # Construir rutas absolutas desde base
+    # Rutas absolutas
     base_path = (repo_root / paths_cfg["paths"].get("base", ".")).resolve()
     paths_cfg["paths"]["base"] = base_path
 
     for key, value in paths_cfg["paths"].items():
         if key != "base":
-            # Convertir a Path absoluto
             paths_cfg["paths"][key] = (Path(str(value)).expanduser() 
                                        if Path(str(value)).is_absolute() 
                                        else (base_path / str(value)).resolve())
 
-    # Garantizar API key
+    # API KEY
     settings_cfg["settings"]["openai_api_key"] = os.getenv(
         "OPENAI_API_KEY",
         settings_cfg["settings"].get("openai_api_key")

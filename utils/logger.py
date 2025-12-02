@@ -1,5 +1,3 @@
-# utils/logger.py
-# CAMBIO: sustituimos prints por logger consistente
 import logging
 
 def setup_logger(name: str = "aerogpt", level: str = "DEBUG"):
