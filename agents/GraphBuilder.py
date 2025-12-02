@@ -10,37 +10,39 @@ class GraphBuilder:
     def __init__(self):
         pass
 
-    # Decide qué agente ejecutar según la decisión del supervisor
     def supervisor_decision(self, state: AgentState):
-        if state.decision == "RUL":
-            return "RULAgent"
-        elif state.decision == "Criticidad":
-            return "CriticidadAgent"
-        elif state.decision == "Reparacion":
-            return "ReparacionAgent"
-        elif state.decision == "Regulacion":
-            return "RegulacionAgent"
+        """Decide el siguiente agente basado en la decisión del Supervisor."""
+        if state.decision in ["RUL", "Criticidad", "Reparacion", "Regulacion"]:
+            return state.decision
         return END
 
-    # Todos los agentes terminan en END
+    def followup_decision(self, state: AgentState):
+        """Si un agente indica que se necesita otro agente, se invoca."""
+        if state.needs_followup and state.next_agent:
+            return state.next_agent
+        return END
+
     def agent_end(self, state: AgentState):
+        """Marca el final del flujo de un agente."""
         return END
 
     def build(self):
         graph = StateGraph(AgentState)
 
-        # Nodos
+        # nodos
         graph.add_node("Supervisor", supervisor_action)
-        graph.add_node("RULAgent", extract_cmapss_action)
-        graph.add_node("CriticidadAgent", criticidad_action)
-        graph.add_node("ReparacionAgent", reparacion_action)
-        graph.add_node("RegulacionAgent", regulacion_action)
+        graph.add_node("RUL", extract_cmapss_action)
+        graph.add_node("Criticidad", criticidad_action)
+        graph.add_node("Reparacion", reparacion_action)
+        graph.add_node("Regulacion", regulacion_action)
 
-        # Edges
+        # edges
         graph.add_edge(START, "Supervisor")
         graph.add_conditional_edges("Supervisor", self.supervisor_decision)
 
-        for agent in ["RULAgent", "CriticidadAgent", "ReparacionAgent", "RegulacionAgent"]:
-            graph.add_conditional_edges(agent, self.agent_end)
+        # agentes individuales pueden disparar followup
+        for agent_name in ["RUL", "Criticidad", "Reparacion", "Regulacion"]:
+            graph.add_conditional_edges(agent_name, self.followup_decision)
+            graph.add_conditional_edges(agent_name, self.agent_end)
 
         return graph.compile()

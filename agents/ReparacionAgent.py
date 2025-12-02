@@ -19,3 +19,8 @@ Genera instrucciones de reparación o mantenimiento correctivo:
     # return {"messages": [AIMessage(content=response.content)]}
     print(">>> Reparacion")
     return {"messages": [AIMessage(content="Reparacion")]}
+
+
+# if accion_requiere_normativa:
+#     state.needs_followup = True
+#     state.next_agent = "Regulacion"
