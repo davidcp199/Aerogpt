@@ -6,4 +6,4 @@ from typing import Annotated
 
 class AgentState(BaseModel):
     messages: Annotated[list[BaseMessage], add_messages]
-    decision: Optional[Literal["extract", "none"]] = None
+    decision: Optional[Literal["RUL", "Criticidad", "Reparacion", "Regulacion", "none"]] = None
