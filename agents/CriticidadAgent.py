@@ -18,11 +18,8 @@ Devuelve un texto con nivel de severidad y recomendaciones de seguridad.
     # return {"messages": [AIMessage(content=response.content)]}
     state.needs_followup = False
     state.next_agent = None
+    state.decision = None
     print(">>> CRITICIDAD")
-    #return {"messages": [AIMessage(content=output_text)], "state": state}
-    return {"messages": [AIMessage(content="FIN")], "state": state}
-    #return {"messages": [AIMessage(content="Criticidad")]}
 
-# if riesgo_severidad > 3:
-#     state.needs_followup = True
-#     state.next_agent = "Reparacion"
+    return {"messages": [], "state": state}
+

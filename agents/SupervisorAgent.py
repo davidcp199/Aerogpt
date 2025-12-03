@@ -57,12 +57,6 @@ def supervisor_action(state):
     Decide qué agente ejecutar según el mensaje del usuario.
     Devuelve siempre un dict con 'messages' y 'state'.
     """
-    # Si ya hay un agente definido por el flujo anterior, lo usamos
-    if hasattr(state, "next_agent") and state.next_agent:
-        agent = state.next_agent
-        # Reset para que no vuelva a entrar en bucle
-        state.next_agent = None
-        return {"decision": agent, "state": state}
 
     # Si no hay next_agent, consultar LLM para decidir
     user_msg = state.messages[-1].content
@@ -76,12 +70,16 @@ def supervisor_action(state):
             agent = "none"
 
         # Guardar el agente elegido en el state para que GraphBuilder lo use
+        state.decision = agent
         state.next_agent = agent
+
+        print(">>> SUPERVISOR DECIDE:", agent)
+
 
     except Exception as e:
         logger.exception("Error en supervisor LLM: %s", e)
         state.next_agent = "none"
         agent = "none"
 
-    return {"decision": agent, "state": state}
+    return {"messages": [], "state": state}
 

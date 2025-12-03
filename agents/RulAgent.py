@@ -92,8 +92,10 @@ def extract_cmapss_action(state):
 
         # Decisión de seguimiento
         if pred["predicted_RUL"] < 20:
+            print(">>> ENtro")
             state.needs_followup = True
             state.next_agent = "Criticidad"
+            print(">>> RUL indica followup a Criticidad")
         else:
             state.needs_followup = False
             state.next_agent = None
@@ -110,8 +112,8 @@ def extract_cmapss_action(state):
         "predicted_RUL": pred["predicted_RUL"],
         "sensor_values": sensor_values
     }).content.strip()
-    
+    print(rul_text)
     #return {"messages": [AIMessage(content=rul_text)]}
     state.messages.append(AIMessage(content=rul_text))
-    return state
+    return {"messages": [], "state": state}
 
