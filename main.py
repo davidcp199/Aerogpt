@@ -26,21 +26,39 @@ logger.info("Iniciando AeroGPT")
 graph = GraphBuilder().build()
 
 try:
-    user_input = input("\nPregunta del usuario ('stop' para salir): ")
-    while user_input != "stop":
-        result = graph.invoke({"messages": [HumanMessage(content=user_input)]})
+    # Inicializar el estado global
+    state = {
+        "messages": [],
+        "next_agent": None,
+        "needs_followup": False
+    }
 
-        # Impresión robusta del resultado (el formato depende del nodo final)
-        try:
-            last_msg = result["messages"][-1]
+    while True:
+        user_input = input("Pregunta del usuario ('stop' para salir): ")
+
+        if user_input.lower() == "stop":
+            break
+
+        # Guardar el mensaje del usuario
+        state["messages"].append(HumanMessage(content=user_input))
+
+        # Ejecutar el grafo con TODO el estado acumulado
+        result = graph.invoke(state)
+
+        # Guardar el nuevo estado actualizado
+        state = result
+
+        # Mostrar la última respuesta de la IA
+        ia_msgs = [m for m in state["messages"] if m.__class__.__name__ == "AIMessage"]
+
+        if ia_msgs:
             print("\n>>> RESPUESTA:")
-            print(last_msg.content)
-        except Exception:
-            # Si StateGraph devuelve otra estructura
-            print("\n>>> Resultado bruto:")
-            print(result)
+            print(ia_msgs[-1].content)
+        else:
+            print("\n(No hubo respuesta de IA)")
 
-        user_input = input("\nPregunta del usuario ('stop' para salir): ")
+    print("AeroGPT terminado.")
+
 except KeyboardInterrupt:
     print("\nSaliendo...")
     logger.info("Interrupción por teclado, cerrando.")

@@ -5,6 +5,7 @@ from agents.RulAgent import extract_cmapss_action
 from agents.CriticidadAgent import criticidad_action
 from agents.ReparacionAgent import reparacion_action
 from agents.RegulacionAgent import regulacion_action
+from agents.GeneralAgent import general_action
 
 class GraphBuilder:
     def __init__(self):
@@ -12,7 +13,7 @@ class GraphBuilder:
 
     def supervisor_decision(self, state: AgentState):
         """Decide el siguiente agente basado en la decisión del Supervisor."""
-        if state.decision in ["RUL", "Criticidad", "Reparacion", "Regulacion"]:
+        if state.decision in ["RUL", "Criticidad", "Reparacion", "Regulacion", "General"]:
             return state.decision
         return END
 
@@ -31,13 +32,16 @@ class GraphBuilder:
         graph.add_node("Criticidad", criticidad_action)
         graph.add_node("Reparacion", reparacion_action)
         graph.add_node("Regulacion", regulacion_action)
+        graph.add_node("General", general_action)
 
         # edges
         graph.add_edge(START, "Supervisor")
         graph.add_conditional_edges("Supervisor", self.supervisor_decision)
 
+        graph.add_conditional_edges("General", self.followup_decision)
         graph.add_conditional_edges("RUL", self.followup_decision)
         graph.add_edge("Criticidad", END)
+        
         # agentes individuales pueden disparar followup
         # for agent_name in ["RUL", "Criticidad", "Reparacion", "Regulacion"]:
         #     graph.add_conditional_edges(agent_name, self.followup_decision)

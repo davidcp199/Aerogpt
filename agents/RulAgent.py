@@ -64,7 +64,9 @@ def extract_cmapss_action(state):
         tool_out = ToolRegistry.invoke("extract_cmapss", user_msg)
     except Exception as e:
         logger.exception("Error invocando extract_cmapss tool: %s", e)
-        return {"messages": [AIMessage(content=f"Error extrayendo datos: {e}")]}
+        msg = AIMessage(content=f"Error extrayendo datos: {e}")
+        state.messages.append(msg)
+        return {"messages": state.messages, "state": state}
 
     # parsear y validar
     try:
@@ -75,14 +77,18 @@ def extract_cmapss_action(state):
             parsed = json.loads(s)
         except Exception as ex:
             logger.exception("No se pudo parsear salida de la tool: %s", ex)
-            return {"messages": [AIMessage(content="No pude interpretar la información extraída del mensaje.")]}
+            msg = AIMessage(content="No pude interpretar la información extraída del mensaje.")
+            state.messages.append(msg)
+            return {"messages": state.messages, "state": state}
         
     # Convertir a DataFrame
     try:
         df_user = tool_output_to_df(parsed)
     except Exception as e:
         logger.exception("Error convirtiendo a DataFrame: %s", e)
-        return {"messages": [AIMessage(content="Error formateando las medidas enviadas por el usuario.")]}
+        msg = AIMessage(content="Error formateando las medidas enviadas por el usuario.")
+        state.messages.append(msg)
+        return {"messages": state.messages, "state": state}
     
     # Predicción RUL
     base_path = paths_config["paths"]["data_directory"]
@@ -100,7 +106,9 @@ def extract_cmapss_action(state):
 
     except Exception as e:
         logger.exception("Error en predict_RUL: %s", e)
-        return {"messages": [AIMessage(content=f"Error al predecir RUL: {e}")]}
+        msg = AIMessage(content=f"Error al predecir RUL: {e}")
+        state.messages.append(msg)
+        return {"messages": state.messages, "state": state}
 
     # Generar texto salida
     sensor_values = df_user.to_dict(orient="records")[0]  # dict de sensores
@@ -115,5 +123,6 @@ def extract_cmapss_action(state):
 
     #return {"messages": [AIMessage(content=rul_text)]}
     state.messages.append(AIMessage(content=rul_text))
-    return state
+    return {"messages": state.messages, "state": state}
+
 

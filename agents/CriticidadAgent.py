@@ -20,7 +20,7 @@ Devuelve un texto con nivel de severidad y recomendaciones de seguridad.
     state.next_agent = None
     print(">>> CRITICIDAD")
     #return {"messages": [AIMessage(content=output_text)], "state": state}
-    return {"messages": [AIMessage(content="FIN")], "state": state}
+    return {"messages": state.messages, "state": state}
     #return {"messages": [AIMessage(content="Criticidad")]}
 
 # if riesgo_severidad > 3:

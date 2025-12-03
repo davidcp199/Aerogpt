@@ -7,7 +7,7 @@ logger = logging.getLogger(__name__)
 PROMPT_SUPERVISOR = ChatPromptTemplate.from_template(
 """
 Eres un supervisor que decide qué agente debe responder según el mensaje del usuario.
-Tienes cinco posibles decisiones: RUL, Criticidad, Reparacion, Regulacion, none.
+Tienes cinco posibles decisiones: RUL, Criticidad, Reparacion, Regulacion, General.
 
 Agentes disponibles:
 
@@ -28,11 +28,12 @@ Agentes disponibles:
    - Consultas sobre normativas, certificaciones, reglamentación aeronáutica.  
    - Referencias a FAA ACs, EASA CS, regulaciones legales.  
 
-5. **none**  
-   - Si el mensaje del usuario no aplica a ninguno de los casos anteriores.  
+5. **General**  
+   - Todo lo demás: preguntas generales sobre aviación, motores, conceptos técnicos, contexto de la conversación o dudas no cubiertas por los agentes anteriores.  
+   - Puede derivar a un agente especializado si detecta que la pregunta requiere análisis más técnico.
 
 **Reglas generales**:
-- Debes elegir **exactamente uno** de los cinco agentes: RUL, Criticidad, Reparacion, Regulacion o none.  
+- Debes elegir **exactamente uno** de los cinco agentes: RUL, Criticidad, Reparacion, Regulacion o General.  
 - No añadas explicaciones ni comentarios adicionales.  
 - No inventes categorías.  
 
@@ -45,10 +46,10 @@ Opciones válidas:
 - Criticidad
 - Reparacion
 - Regulacion
-- none
-
+- General
 """
 )
+
 
 from langchain_core.messages import AIMessage
 
@@ -72,7 +73,7 @@ def supervisor_action(state):
         agent = response.content.strip()
 
         # Validar que sea uno de los agentes conocidos
-        if agent not in ["RUL", "Criticidad", "Reparacion", "Regulacion", "none"]:
+        if agent not in ["RUL", "Criticidad", "Reparacion", "Regulacion", "General"]:
             agent = "none"
 
         # Guardar el agente elegido en el state para que GraphBuilder lo use
@@ -83,5 +84,8 @@ def supervisor_action(state):
         state.next_agent = "none"
         agent = "none"
 
-    return {"decision": agent, "state": state}
-
+    return {
+         "decision": agent,
+         "messages": state.messages,
+         "state": state
+      }
