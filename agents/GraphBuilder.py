@@ -15,10 +15,10 @@ class GraphBuilder:
         Devuelve el nodo que debe ejecutarse según la decisión del supervisor.
         Si la decisión no es un nodo válido, devuelve END.
         """
-        print(f"EJ DEC {state.next_agent}")
-        if state.next_agent in ["RUL", "Criticidad", "Reparacion", "Regulacion"]:
-            print(f"SUP DEC {state.next_agent}")
-            return state.next_agent
+        print(f"EJ DEC {state.decision}")
+        if state.decision in ["RUL", "Criticidad", "Reparacion", "Regulacion"]:
+            print(f"SUP DEC {state.decision}")
+            return state.decision
         return END
 
 
