@@ -71,6 +71,14 @@ def extract_cmapss_action(state):
     # parsear y validar
     try:
         parsed = json.loads(tool_out) if isinstance(tool_out, str) else tool_out
+
+        # state.pre_rul_data = {
+        #     "unidad": parsed.get("unidad", 0),
+        #     "tiempo_ciclos": parsed.get("tiempo_ciclos", 0),
+        #     "configuraciones_operativas": parsed.get("configuraciones_operativas", [0,0,0]),
+        #     "mediciones_sensores": df_user.to_dict(orient="records")[0],
+        #     "modelo_seleccionado": parsed.get("modelo_seleccionado", "FD001")
+        # }
     except Exception as e:
         try:
             s = str(tool_out).replace("```json", "").replace("```", "")

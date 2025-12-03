@@ -6,6 +6,7 @@ from agents.CriticidadAgent import criticidad_action
 from agents.ReparacionAgent import reparacion_action
 from agents.RegulacionAgent import regulacion_action
 from agents.GeneralAgent import general_action
+from agents.PreRulAgent import pre_rul_action
 
 class GraphBuilder:
     def __init__(self):
@@ -13,7 +14,8 @@ class GraphBuilder:
 
     def supervisor_decision(self, state: AgentState):
         """Decide el siguiente agente basado en la decisión del Supervisor."""
-        if state.decision in ["RUL", "Criticidad", "Reparacion", "Regulacion", "General"]:
+        print(f">>> Decision {state.decision}")
+        if state.decision in ["PreRUL", "Criticidad", "Reparacion", "Regulacion", "General"]:
             return state.decision
         return END
 
@@ -28,6 +30,7 @@ class GraphBuilder:
 
         # nodos
         graph.add_node("Supervisor", supervisor_action)
+        graph.add_node("PreRUL", pre_rul_action)
         graph.add_node("RUL", extract_cmapss_action)
         graph.add_node("Criticidad", criticidad_action)
         graph.add_node("Reparacion", reparacion_action)
@@ -37,8 +40,8 @@ class GraphBuilder:
         # edges
         graph.add_edge(START, "Supervisor")
         graph.add_conditional_edges("Supervisor", self.supervisor_decision)
-
-        graph.add_conditional_edges("General", self.followup_decision)
+        graph.add_conditional_edges("PreRUL", self.followup_decision)
+        #graph.add_conditional_edges("General", self.followup_decision)
         graph.add_conditional_edges("RUL", self.followup_decision)
         graph.add_edge("Criticidad", END)
         
