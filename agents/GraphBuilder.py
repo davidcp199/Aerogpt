@@ -22,10 +22,6 @@ class GraphBuilder:
             return state.next_agent
         return END
 
-    def agent_end(self, state: AgentState):
-        """Marca el final del flujo de un agente."""
-        return END
-
     def build(self):
         graph = StateGraph(AgentState)
 
