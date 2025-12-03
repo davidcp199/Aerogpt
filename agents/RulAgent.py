@@ -93,12 +93,9 @@ def extract_cmapss_action(state):
         # Decisión de seguimiento
         if pred["predicted_RUL"] < 20:
             print(">>> ENtro")
-            state.needs_followup = True
-            state.next_agent = "Criticidad"
+            #state.needs_followup = True
+            #state.next_agent = "Criticidad"
             print(">>> RUL indica followup a Criticidad")
-        else:
-            state.needs_followup = False
-            state.next_agent = None
 
     except Exception as e:
         logger.exception("Error en predict_RUL: %s", e)

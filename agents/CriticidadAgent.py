@@ -16,9 +16,7 @@ Devuelve un texto con nivel de severidad y recomendaciones de seguridad.
 """
     # response = llm_creativo.invoke({"message": prompt})
     # return {"messages": [AIMessage(content=response.content)]}
-    state.needs_followup = False
-    state.next_agent = None
-    state.decision = None
+
     print(">>> CRITICIDAD")
 
     return {"messages": [], "state": state}

@@ -10,29 +10,20 @@ class GraphBuilder:
     def __init__(self):
         pass
 
+    # Decide qué agente ejecutar según la decisión del supervisor
     def supervisor_decision(self, state: AgentState):
-        """
-        Devuelve el nodo que debe ejecutarse según la decisión del supervisor.
-        Si la decisión no es un nodo válido, devuelve END.
-        """
-        print(f"EJ DEC {state.decision}")
-        if state.decision in ["RUL", "Criticidad", "Reparacion", "Regulacion"]:
-            print(f"SUP DEC {state.decision}")
-            return state.decision
+        if state.decision == "RUL":
+            return "RULAgent"
+        elif state.decision == "Criticidad":
+            return "CriticidadAgent"
+        elif state.decision == "Reparacion":
+            return "ReparacionAgent"
+        elif state.decision == "Regulacion":
+            return "RegulacionAgent"
         return END
 
-
-    def followup_rul(self, state: AgentState):
-        if state.needs_followup and state.next_agent == "Criticidad":
-            next_agent = state.next_agent
-            state.needs_followup = False
-            state.next_agent = None
-            print(">>> FOLLOWUP a:", next_agent)
-            return next_agent
-        return END
-
+    # Todos los agentes terminan en END
     def agent_end(self, state: AgentState):
-        """Marca el final del flujo de un agente."""
         return END
 
     def build(self):
@@ -40,24 +31,16 @@ class GraphBuilder:
 
         # Nodos
         graph.add_node("Supervisor", supervisor_action)
-        graph.add_node("RUL", extract_cmapss_action)
-        graph.add_node("Criticidad", criticidad_action)
-        graph.add_node("Reparacion", reparacion_action)
-        graph.add_node("Regulacion", regulacion_action)
+        graph.add_node("RULAgent", extract_cmapss_action)
+        graph.add_node("CriticidadAgent", criticidad_action)
+        graph.add_node("ReparacionAgent", reparacion_action)
+        graph.add_node("RegulacionAgent", regulacion_action)
 
-        # START → Supervisor
+        # Edges
         graph.add_edge(START, "Supervisor")
-
-        # Branch condicional Supervisor
         graph.add_conditional_edges("Supervisor", self.supervisor_decision)
 
-        # Followup: RUL solo puede llamar a Criticidad
-        graph.add_conditional_edges("RUL", self.followup_rul)
-        graph.add_edge("RUL", END)  # termina si no hay followup
-
-        # Criticidad, Reparacion y Regulacion → END
-        graph.add_edge("Criticidad", END)
-        graph.add_edge("Reparacion", END)
-        graph.add_edge("Regulacion", END)
+        for agent in ["RULAgent", "CriticidadAgent", "ReparacionAgent", "RegulacionAgent"]:
+            graph.add_conditional_edges(agent, self.agent_end)
 
         return graph.compile()
