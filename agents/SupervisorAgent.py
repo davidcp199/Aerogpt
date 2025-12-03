@@ -55,31 +55,21 @@ from langchain_core.messages import AIMessage
 def supervisor_action(state):
     """
     Decide qué agente ejecutar según el mensaje del usuario.
-    Devuelve siempre un dict con 'messages' y 'state'.
     """
 
-    # Si no hay next_agent, consultar LLM para decidir
-    user_msg = state.messages[-1].content
-    try:
-        chain = PROMPT_SUPERVISOR | llm_deterministic
-        response = chain.invoke({"user_message": user_msg})
-        agent = response.content.strip()
 
-        # Validar que sea uno de los agentes conocidos
-        if agent not in ["RUL", "Criticidad", "Reparacion", "Regulacion", "none"]:
-            agent = "none"
-
-        # Guardar el agente elegido en el state para que GraphBuilder lo use
-        state.decision = agent
-        state.next_agent = agent
-
-        print(">>> SUPERVISOR DECIDE:", agent)
+    chain = PROMPT_SUPERVISOR | llm_deterministic
+    response = chain.invoke({"user_message": state.messages[-1].content})
+    decision = response.content.strip()
+    # if decision not in ("extract", "none"):
+    #     logger.warning("Supervisor devolvió valor inesperado '%s' — forzando 'none'", decision)
+    #     decision = "none"
 
 
-    except Exception as e:
-        logger.exception("Error en supervisor LLM: %s", e)
-        state.next_agent = "none"
-        agent = "none"
+
+    print(">>> SUPERVISOR DECIDE:", decision)
+    logger.debug("Supervisor decisión: %s", decision)
+
 
     return {"messages": [], "state": state}
 
