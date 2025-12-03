@@ -7,11 +7,11 @@ logger = logging.getLogger(__name__)
 PROMPT_SUPERVISOR = ChatPromptTemplate.from_template(
 """
 Eres un supervisor que decide qué agente debe responder según el mensaje del usuario.
-Tienes cinco posibles decisiones: RUL, Criticidad, Reparacion, Regulacion, General.
+Tienes cinco posibles decisiones: PreRUL, Criticidad, Reparacion, Regulacion, General.
 
 Agentes disponibles:
 
-1. **RUL (Vida útil del motor / Predicción de RUL)**  
+1. **PreRUL (Vida útil del motor / Predicción de RUL)**  
    - Consultas sobre la vida útil restante de un motor aeronáutico.  
    - Cuando el usuario menciona valores de sensores, configuraciones operativas, ciclos de operación o FD001/FD002/FD003/FD004.  
    - Cuando quiere calcular RUL, prever degradación, o analizar el estado actual de un motor usando datos CMAPSS.  
@@ -33,7 +33,7 @@ Agentes disponibles:
    - Puede derivar a un agente especializado si detecta que la pregunta requiere análisis más técnico.
 
 **Reglas generales**:
-- Debes elegir **exactamente uno** de los cinco agentes: RUL, Criticidad, Reparacion, Regulacion o General.  
+- Debes elegir **exactamente uno** de los cinco agentes: PreRUL, Criticidad, Reparacion, Regulacion o General.  
 - No añadas explicaciones ni comentarios adicionales.  
 - No inventes categorías.  
 
@@ -42,7 +42,7 @@ Mensaje del usuario: {user_message}
 Solo devuelve **una palabra**, sin explicaciones: 
 
 Opciones válidas:
-- RUL
+- PreRUL
 - Criticidad
 - Reparacion
 - Regulacion
@@ -73,7 +73,7 @@ def supervisor_action(state):
         agent = response.content.strip()
 
         # Validar que sea uno de los agentes conocidos
-        if agent not in ["RUL", "Criticidad", "Reparacion", "Regulacion", "General"]:
+        if agent not in ["PreRUL", "RUL", "Criticidad", "Reparacion", "Regulacion", "General"]:
             agent = "none"
 
         # Guardar el agente elegido en el state para que GraphBuilder lo use
