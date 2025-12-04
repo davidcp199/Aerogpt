@@ -11,19 +11,34 @@ logger = logging.getLogger(__name__)
 # Prompt principal para decidir acción del usuario
 PROMPT_PRE_RUL = ChatPromptTemplate.from_template(
     """
-Eres un asistente que gestiona la información previa al cálculo de la RUL de un motor aeronáutico.
-Analiza el mensaje del usuario y responde con una sola palabra indicando la acción que desea:
-- "Update" → actualizar datos del motor.
-- "Calculate" → calcular la RUL del motor.
-- "Exit" → salir.
-- "Status" → mostrar estado actual del motor.
-
-Si no entiendes claramente la acción, responde "Clarify".
+Eres un asistente experto en motores aeronáuticos y en CMAPSS.
+Analiza el último mensaje del usuario y decide una sola palabra que indique la acción:
+- "Update" → si el usuario quiere actualizar información del motor (sensores, configuraciones, unidad, ciclos).
+- "Calculate" → si el usuario quiere calcular la RUL del motor.
+- "Exit" → si el usuario quiere finalizar la sesión.
+- "Chat" → si el mensaje es distinto a los anteriores.
 
 Último mensaje del usuario:
 {user_message}
 """
 )
+
+PROMPT_CHAT = ChatPromptTemplate.from_template(
+    """
+Eres un asistente experto en motores aeronáuticos y en el dataset CMAPSS para predicción de RUL.
+Responde de forma clara, concisa y técnica a cualquier pregunta del usuario sobre motores, sensores, degradación o predicción de RUL.
+
+Instrucciones:
+- Mantén el contexto de CMAPSS y RUL aunque el usuario pregunte algo general.
+- Ofrece explicaciones precisas y consejos de experto si es necesario.
+- Nunca inventes valores de sensores ni datos de RUL.
+- Al final de tu respuesta, recuerda al usuario las posibles acciones que puede hacer a continuación: "Update" para actualizar datos del motor, "Calculate" para calcular la RUL, o "Exit" para finalizar la sesión.
+
+Mensaje del usuario:
+{user_message}
+"""
+)
+
 
 def pre_rul_action(state):
     """
@@ -121,7 +136,7 @@ def pre_rul_action(state):
             if model:
                 state.pre_rul_data["modelo_seleccionado"] = model
 
-            state.messages.append(AIMessage(content="Datos actualizados correctamente."))
+            state.messages.append(AIMessage(content="Datos actualizados correctamente. Diga Calcular RUL si quiere hacerlo con estos datos"))
             state.needs_followup = False
             state.next_agent = "PreRUL"
             return state
@@ -143,6 +158,15 @@ def pre_rul_action(state):
             print("Estado actual del motor:")
             print(json.dumps(state.pre_rul_data, indent=2, ensure_ascii=False))
             state.messages.append(AIMessage(content="Se ha mostrado el estado actual del motor en consola."))
+            state.needs_followup = False
+            state.next_agent = "PreRUL"
+            return state
+        
+        elif "chat" in action_lower:
+            # Usar PROMPT_CHAT para generar respuesta experta
+            chat_chain = PROMPT_CHAT | llm_deterministic
+            chat_response = chat_chain.invoke({"user_message": last_user_msg})
+            state.messages.append(AIMessage(content=chat_response.content))
             state.needs_followup = False
             state.next_agent = "PreRUL"
             return state
