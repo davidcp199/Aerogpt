@@ -53,10 +53,10 @@ def general_action(state):
         state.messages.append(AIMessage(content=content))
 
         # Solo devuelve el historial actualizado
-        return {"messages": state.messages, "state": state}
+        return state
 
     except Exception as e:
         logger.exception("Error en GeneralAgent: %s", e)
         fallback_msg = "Lo siento, no pude procesar tu solicitud correctamente."
         state.messages.append(AIMessage(content=fallback_msg))
-        return {"messages": state.messages, "state": state}
+        return state

@@ -18,7 +18,7 @@ Genera instrucciones de reparación o mantenimiento correctivo:
     # response = llm_creativo.invoke({"message": prompt})
     # return {"messages": [AIMessage(content=response.content)]}
     print(">>> Reparacion")
-    return {"messages": [AIMessage(content="Reparacion")]}
+    return state
 
 
 # if accion_requiere_normativa:
