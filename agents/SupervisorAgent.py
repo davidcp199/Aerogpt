@@ -63,7 +63,8 @@ def supervisor_action(state):
         agent = state.next_agent
         # Reset para que no vuelva a entrar en bucle
         state.next_agent = None
-        return {"decision": agent, "state": state}
+        return state
+        #return {"decision": agent, "state": state}
 
     # Si no hay next_agent, consultar LLM para decidir
     user_msg = state.messages[-1].content
@@ -83,9 +84,6 @@ def supervisor_action(state):
         logger.exception("Error en supervisor LLM: %s", e)
         state.next_agent = "none"
         agent = "none"
-
-    return {
-         "decision": agent,
-         "messages": state.messages,
-         "state": state
-      }
+   
+    state.decision = agent  # guarda la decisión interna
+    return state

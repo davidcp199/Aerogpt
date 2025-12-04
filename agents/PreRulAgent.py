@@ -8,7 +8,7 @@ import json
 logger = logging.getLogger(__name__)
 
 PROMPT_PRE_RUL = ChatPromptTemplate.from_template(
-    """
+"""
 Eres un asistente que gestiona los datos previos a calcular la RUL de un motor aeronáutico.
 Tu tarea es:
 
@@ -30,19 +30,21 @@ Datos actuales del motor:
 
 Genera una respuesta adecuada indicando los pasos a seguir.
 Siempre que presentes los valores presentes tiene que ser con todos estos datos rellenos con lo que corresponde:
+{{
   "unidad": 0,
   "tiempo_ciclos": 0,
   "configuraciones_operativas": [0,0,0],
-  "mediciones_sensores": {
+  "mediciones_sensores": {{
         "s_1": 0, "s_2": 0, "s_3": 0, "s_4": 0, "s_5": 0,
         "s_6": 0, "s_7": 0, "s_8": 0, "s_9": 0, "s_10": 0,
         "s_11": 0, "s_12": 0, "s_13": 0, "s_14": 0, "s_15": 0,
         "s_16": 0, "s_17": 0, "s_18": 0, "s_19": 0, "s_20": 0, "s_21": 0
-  },
+  }},
   "modelo_seleccionado": "FD001"
-}
+}}
 """
 )
+
 
 def pre_rul_action(state):
     """
@@ -52,14 +54,15 @@ def pre_rul_action(state):
     last_user_msg = state.messages[-1].content if state.messages else ""
 
     # Inicializar pre_rul_data si no existe
-    if not hasattr(state, "pre_rul_data") or state.pre_rul_data is None:
-        state.pre_rul_data = {
+    if state.pre_rul_data is None:
+        state.update_pre_rul_data({
             "unidad": 0,
             "tiempo_ciclos": 0,
             "configuraciones_operativas": [0, 0, 0],
             "mediciones_sensores": {f"s_{i}": 0 for i in range(1, 22)},
             "modelo_seleccionado": "FD001"
-        }
+        })
+
 
     # --- Actualización de datos con extract_cmapss_tool ---
     try:
@@ -69,28 +72,11 @@ def pre_rul_action(state):
         logger.exception("Error procesando actualización de datos: %s", e)
         updated_data = {}
 
-    # Actualizamos solo los valores presentes en updated_data
+    # Reemplaza todo el bloque de actualización por:
     if updated_data:
-        pre_data = state.pre_rul_data
-        # unidad
-        if "unidad" in updated_data and updated_data["unidad"] != 0:
-            pre_data["unidad"] = updated_data["unidad"]
-        # tiempo_ciclos
-        if "tiempo_ciclos" in updated_data and updated_data["tiempo_ciclos"] != 0:
-            pre_data["tiempo_ciclos"] = updated_data["tiempo_ciclos"]
-        # configuraciones operativas
-        if "configuraciones_operativas" in updated_data:
-            for i, val in enumerate(updated_data["configuraciones_operativas"]):
-                if val != 0:
-                    pre_data["configuraciones_operativas"][i] = val
-        # sensores
-        if "mediciones_sensores" in updated_data:
-            for sensor, val in updated_data["mediciones_sensores"].items():
-                if val != 0:
-                    pre_data["mediciones_sensores"][sensor] = val
-        # modelo seleccionado
-        if "modelo_seleccionado" in updated_data:
-            pre_data["modelo_seleccionado"] = updated_data["modelo_seleccionado"]
+        state.update_pre_rul_data(updated_data)
+
+
 
     # --- Preparar resumen para el LLM ---
     pre_rul_text = (
@@ -119,8 +105,12 @@ def pre_rul_action(state):
             state.needs_followup = True
             state.next_agent = "General"
         else:
-            state.needs_followup = True
-            state.next_agent = "PreRUL"  # Continuar gestionando datos
+            # Pregunta al usuario qué desea hacer, sin reiniciar PreRUL automáticamente
+            fallback_msg = "Por favor indícame si deseas calcular el RUL ahora o actualizar algún dato."
+            state.messages.append(AIMessage(content=fallback_msg))
+            state.needs_followup = False
+            state.next_agent = None
+
 
     except Exception as e:
         logger.exception("Error en PreRULAgent: %s", e)
@@ -128,5 +118,4 @@ def pre_rul_action(state):
         state.messages.append(AIMessage(content=fallback_msg))
         state.needs_followup = True
         state.next_agent = "PreRUL"
-
-    return {"messages": state.messages, "state": state}
+    return state

@@ -57,6 +57,7 @@ PROMPT_RUL_RESPONSE = ChatPromptTemplate.from_template(
 
 
 def extract_cmapss_action(state):
+    print(">>> RUL")
     user_msg = state.messages[-1].content
 
     # Llamar al llm
@@ -66,19 +67,11 @@ def extract_cmapss_action(state):
         logger.exception("Error invocando extract_cmapss tool: %s", e)
         msg = AIMessage(content=f"Error extrayendo datos: {e}")
         state.messages.append(msg)
-        return {"messages": state.messages, "state": state}
-
+        return state
     # parsear y validar
     try:
         parsed = json.loads(tool_out) if isinstance(tool_out, str) else tool_out
 
-        # state.pre_rul_data = {
-        #     "unidad": parsed.get("unidad", 0),
-        #     "tiempo_ciclos": parsed.get("tiempo_ciclos", 0),
-        #     "configuraciones_operativas": parsed.get("configuraciones_operativas", [0,0,0]),
-        #     "mediciones_sensores": df_user.to_dict(orient="records")[0],
-        #     "modelo_seleccionado": parsed.get("modelo_seleccionado", "FD001")
-        # }
     except Exception as e:
         try:
             s = str(tool_out).replace("```json", "").replace("```", "")
@@ -87,7 +80,7 @@ def extract_cmapss_action(state):
             logger.exception("No se pudo parsear salida de la tool: %s", ex)
             msg = AIMessage(content="No pude interpretar la información extraída del mensaje.")
             state.messages.append(msg)
-            return {"messages": state.messages, "state": state}
+            return state
         
     # Convertir a DataFrame
     try:
@@ -96,7 +89,7 @@ def extract_cmapss_action(state):
         logger.exception("Error convirtiendo a DataFrame: %s", e)
         msg = AIMessage(content="Error formateando las medidas enviadas por el usuario.")
         state.messages.append(msg)
-        return {"messages": state.messages, "state": state}
+        return state
     
     # Predicción RUL
     base_path = paths_config["paths"]["data_directory"]
@@ -116,7 +109,7 @@ def extract_cmapss_action(state):
         logger.exception("Error en predict_RUL: %s", e)
         msg = AIMessage(content=f"Error al predecir RUL: {e}")
         state.messages.append(msg)
-        return {"messages": state.messages, "state": state}
+        return state
 
     # Generar texto salida
     sensor_values = df_user.to_dict(orient="records")[0]  # dict de sensores
@@ -131,6 +124,6 @@ def extract_cmapss_action(state):
 
     #return {"messages": [AIMessage(content=rul_text)]}
     state.messages.append(AIMessage(content=rul_text))
-    return {"messages": state.messages, "state": state}
+    return state
 
 

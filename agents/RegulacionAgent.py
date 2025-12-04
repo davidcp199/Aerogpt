@@ -17,4 +17,5 @@ Proporciona normativa aplicable (FAA ACs, EASA CS, ACs):
     # response = llm_creativo.invoke({"message": prompt})
     # return {"messages": [AIMessage(content=response.content)]}
     print(">>> Regulacion")
-    return {"messages": [AIMessage(content="Regulacion")]}
+    #return {"messages": [AIMessage(content="Regulacion")]}
+    return state
