@@ -14,7 +14,8 @@ Agentes disponibles:
 1. **PreRUL (Vida útil del motor / Predicción de RUL)**  
    - Consultas sobre la vida útil restante de un motor aeronáutico.  
    - Cuando el usuario menciona valores de sensores, configuraciones operativas, ciclos de operación o FD001/FD002/FD003/FD004.  
-   - Cuando quiere calcular RUL, prever degradación, o analizar el estado actual de un motor usando datos CMAPSS.  
+   - Cuando quiere calcular o menciona RUL, prever degradación, o analizar el estado actual de un motor usando datos CMAPSS.
+   - CuandomMenciona actualizar datos del motor, sensores o configuraciones o quiere saber su estado.
 
 2. **Criticidad (Riesgos / Safety)**  
    - Consultas sobre riesgo de fallo, gravedad de fallos, seguridad operacional.  
