@@ -1,129 +1,111 @@
+# agents/rul_agent.py
 import json
 import logging
 from langchain_core.messages import AIMessage
+from langchain_core.prompts import ChatPromptTemplate
+from utils.llm_provider import llm_creative, paths_config
 from utils.tool_registry import ToolRegistry
 from tools.tool_output_to_df import tool_output_to_df
-from utils.llm_provider import paths_config
-from utils.llm_provider import llm_creative
 from utils.Predictor_RUL import predict_RUL
-from langchain_core.prompts import ChatPromptTemplate
 
 logger = logging.getLogger(__name__)
 
 PROMPT_RUL_RESPONSE = ChatPromptTemplate.from_template(
-
     """
-    Eres un asistente experto en mantenimiento de motores aeronáuticos.
-    Se te entrega la siguiente información:
-    - Predicción RUL del motor: {predicted_RUL} ciclos
-    - Valores de sensores: {sensor_values}
-    Instrucciones:
-    1. Evalúa el nivel de desgaste del motor según RUL:
-       - RUL > 80: "Desgaste bajo. Continuar operación normal."
-       - RUL > 40: "Desgaste moderado. Programar inspección preventiva."
-       - RUL > 20: "Desgaste significativo. Evaluar inspección avanzada."
-       - RUL > 5 : "Riesgo elevado. Requiere monitorización constante."
-       - RUL <=5 : "ALERTA CRÍTICA: Recomendada retirada inmediata del motor."
-    2. Detecta degradación asociada a sensores clave del motor (adaptado a señales típicas de CMAPSS):
-       - Temperatura / Compresor: s_3
-       - Presión HPC: s_4
-       - Vibraciones: s_7
-       - Fan speed / núcleo: s_9
-       - Fuel flow: s_14
-       Observa si cada sensor está fuera de su rango normal respecto al promedio y desviación estándar (simular lógica).
+Eres un asistente experto en mantenimiento de motores aeronáuticos.
+Se te entrega la siguiente información:
+- Predicción RUL del motor: {predicted_RUL} ciclos
+- Valores de sensores: {sensor_values}
+Instrucciones:
+1. Evalúa el nivel de desgaste del motor según RUL:
+   - RUL > 80: "Desgaste bajo. Continuar operación normal."
+   - RUL > 40: "Desgaste moderado. Programar inspección preventiva."
+   - RUL > 20: "Desgaste significativo. Evaluar inspección avanzada."
+   - RUL > 5 : "Riesgo elevado. Requiere monitorización constante."
+   - RUL <=5 : "ALERTA CRÍTICA: Recomendada retirada inmediata del motor."
+2. Detecta degradación asociada a sensores clave:
+   - Temperatura / Compresor: s_3
+   - Presión HPC: s_4
+   - Vibraciones: s_7
+   - Fan speed / núcleo: s_9
+   - Fuel flow: s_14
+3. Traduce patrones a modos de fallo probables (usa lenguaje claro y conciso).
 
-    3. Traduce los patrones de degradación a modos de fallo probables:
-       - compresor → "Degradación del compresor HPC (High Pressure Compressor)"
-       - presión → "Ineficiencia en el sistema de presurización del núcleo"
-       - vibración → "Desgaste mecánico – rodamientos o fan rotor"
-       - rpm → "Pérdida de empuje – posible daño en fan blades"
-       - combustible → "Baja eficiencia térmica – cámara de combustión degradada"
-
-    4. Genera un texto explicativo al usuario incluyendo:
-       - Estado de desgaste según RUL
-       - Señales de degradación detectadas
-       - Modos de fallo probables
-       - Lenguaje claro, profesional y conciso
-
-    Formato de salida:
-    - Texto en lenguaje natural, no JSON.
-    - No incluyas instrucciones ni código, solo el análisis.
-
-    Datos de entrada:
-    RUL: {predicted_RUL}
-    Sensores: {sensor_values}
-    """
+Formato de salida: texto en lenguaje natural, profesional y conciso (NO JSON).
+"""
 )
 
 
 def extract_cmapss_action(state):
-    print(">>> RUL")
-    user_msg = state.messages[-1].content
-
-    # Llamar al llm
+    """
+    Acción del agente RUL: toma state.pre_rul_data, lo convierte en DataFrame, predice RUL y genera explicación.
+    """
+    print(">>>RUL")
     try:
-        tool_out = ToolRegistry.invoke("extract_cmapss", user_msg)
-    except Exception as e:
-        logger.exception("Error invocando extract_cmapss tool: %s", e)
-        msg = AIMessage(content=f"Error extrayendo datos: {e}")
-        state.messages.append(msg)
-        return state
-    # parsear y validar
-    try:
-        parsed = json.loads(tool_out) if isinstance(tool_out, str) else tool_out
-
-    except Exception as e:
-        try:
-            s = str(tool_out).replace("```json", "").replace("```", "")
-            parsed = json.loads(s)
-        except Exception as ex:
-            logger.exception("No se pudo parsear salida de la tool: %s", ex)
-            msg = AIMessage(content="No pude interpretar la información extraída del mensaje.")
-            state.messages.append(msg)
-            return state
-        
-    # Convertir a DataFrame
-    try:
-        df_user = tool_output_to_df(parsed)
-    except Exception as e:
-        logger.exception("Error convirtiendo a DataFrame: %s", e)
-        msg = AIMessage(content="Error formateando las medidas enviadas por el usuario.")
-        state.messages.append(msg)
-        return state
-    
-    # Predicción RUL
-    base_path = paths_config["paths"]["data_directory"]
-    fd = parsed.get("modelo_seleccionado", "FD001")
-    try:
-        pred = predict_RUL(df_user, base_path, fd=fd)
-
-        # Decisión de seguimiento
-        if pred["predicted_RUL"] < 20:
+        if not hasattr(state, "pre_rul_data") or state.pre_rul_data is None:
+            state.messages.append(AIMessage(content="No hay datos previos. Por favor, actualiza los datos antes de calcular."))
             state.needs_followup = True
-            state.next_agent = "Criticidad"
-        else:
+            state.next_agent = "PreRUL"
+            return state
+
+        # Convertir pre_rul_data a DataFrame
+        try:
+            df_user = tool_output_to_df(state.pre_rul_data)
+        except Exception as e:
+            logger.exception("Error convirtiendo pre_rul_data a DataFrame: %s", e)
+            state.messages.append(AIMessage(content=f"Error formateando las medidas: {e}"))
+            state.needs_followup = True
+            state.next_agent = "PreRUL"
+            return state
+
+        base_path = paths_config["paths"]["data_directory"]
+        fd = state.pre_rul_data.get("modelo_seleccionado", "FD001")
+        try:
+            pred = predict_RUL(df_user, base_path, fd=fd)
+        except Exception as e:
+            logger.exception("Error en predict_RUL: %s", e)
+            state.messages.append(AIMessage(content=f"Error al predecir RUL: {e}"))
+            state.needs_followup = True
+            state.next_agent = "PreRUL"
+            return state
+
+        predicted_RUL = pred.get("predicted_RUL", None)
+        if predicted_RUL is None:
+            state.messages.append(AIMessage(content="El modelo no devolvió una predicción válida."))
+            state.needs_followup = True
+            state.next_agent = "PreRUL"
+            return state
+
+        # Preparar sensor_values como dict simple para la explicación
+        sensor_values = df_user.to_dict(orient="records")[0]
+
+        # Generar texto explicativo final
+        chain = PROMPT_RUL_RESPONSE | llm_creative
+        rul_text = chain.invoke({
+            "predicted_RUL": predicted_RUL,
+            "sensor_values": sensor_values
+        }).content.strip()
+
+        # Añadir la salida al historial
+        state.messages.append(AIMessage(content=rul_text))
+
+        # Seguimiento: si RUL crítico, cambiar agente next
+        try:
+            if isinstance(predicted_RUL, (int, float)) and predicted_RUL < 20:
+                state.needs_followup = True
+                state.next_agent = "Criticidad"
+            else:
+                state.needs_followup = False
+                state.next_agent = None
+        except Exception:
             state.needs_followup = False
             state.next_agent = None
 
-    except Exception as e:
-        logger.exception("Error en predict_RUL: %s", e)
-        msg = AIMessage(content=f"Error al predecir RUL: {e}")
-        state.messages.append(msg)
         return state
 
-    # Generar texto salida
-    sensor_values = df_user.to_dict(orient="records")[0]  # dict de sensores
-    chain = PROMPT_RUL_RESPONSE | llm_creative
-    
-    rul_text = chain.invoke({
-        "predicted_RUL": pred["predicted_RUL"],
-        "sensor_values": sensor_values
-    }).content.strip()
-    
-    print(f">>> RUL AGENT: {rul_text}")
-
-    #return {"messages": [AIMessage(content=rul_text)]}
-    state.messages.append(AIMessage(content=rul_text))
-    return state
-
-
+    except Exception as e:
+        logger.exception("Error en extract_cmapss_action (RUL): %s", e)
+        state.messages.append(AIMessage(content=f"Error interno del agente RUL: {e}"))
+        state.needs_followup = True
+        state.next_agent = "PreRUL"
+        return state
