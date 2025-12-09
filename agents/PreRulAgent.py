@@ -24,10 +24,11 @@ Analiza el último mensaje del usuario y decide la acción correcta.
 
 **Importante**: Si el usuario menciona cualquier valor concreto de sensor/configuración, se debe elegir "Update" incluso si dice "calcular RUL".
 
+Último mensaje de IA (si existe): {last_ai_message}
 Último mensaje del usuario:
 {user_message}
 
-Responde SOLO con una de las siguientes palabras EXACTAS (sin explicaciones ni texto adicional): "Update", "Calculate", "Exit", "Chat".
+Responde SOLO con una de las siguientes palabras EXACTAS (sin explicaciones ni texto adicional): "Update", "Calculate", "Status", "Reset", "Exit", "Chat".
 """
 )
 
@@ -65,9 +66,18 @@ def pre_rul_action(state):
             state.pre_rul_data = pd.DataFrame()
             print("Inicializando DataFrame vacío para medidas CMAPSS...")
 
+        last_ai_msg = None
+        for m in reversed(state.messages):
+            if isinstance(m, AIMessage):
+                last_ai_msg = m.content
+                break
+
         # Preguntar al LLM qué acción tomar
         chain = PROMPT_PRE_RUL | llm_deterministic
-        response = chain.invoke({"user_message": last_user_msg})
+        response = chain.invoke({
+         "user_message": last_user_msg,
+         "last_ai_message": last_ai_msg or ""
+        })
         action = response.content.strip()
         state.messages.append(AIMessage(content=action))
 
@@ -104,7 +114,7 @@ def pre_rul_action(state):
             # Actualizar modelo seleccionado
             state.modelo_seleccionado = parsed.get("modelo_seleccionado", state.modelo_seleccionado)
 
-            state.messages.append(AIMessage(content=f"Nueva medición registrada. ({len(state.pre_rul_data)} filas acumuladas)"))
+            state.messages.append(AIMessage(content=f"Nueva medición registrada. ({len(state.pre_rul_data)} filas acumuladas). ¿Quiere Calcular RUL ahora?"))
             state.needs_followup = False
             state.next_agent = "PreRUL"
             return state

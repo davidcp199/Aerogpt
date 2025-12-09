@@ -38,6 +38,7 @@ Agentes disponibles:
 - No añadas explicaciones ni comentarios adicionales.  
 - No inventes categorías.  
 
+Último mensaje de IA (si existe): {last_ai_message}
 Mensaje del usuario: {user_message}
 
 Solo devuelve **una palabra**, sin explicaciones: 
@@ -69,9 +70,19 @@ def supervisor_action(state):
 
     # Si no hay next_agent, consultar LLM para decidir
     user_msg = state.messages[-1].content
+    last_ai_msg = None
+    for m in reversed(state.messages):
+      if isinstance(m, AIMessage):
+         last_ai_msg = m.content
+         break
+
     try:
         chain = PROMPT_SUPERVISOR | llm_deterministic
-        response = chain.invoke({"user_message": user_msg})
+        response = chain.invoke({
+         "user_message": user_msg,
+         "last_ai_message": last_ai_msg or ""
+        })
+
         agent = response.content.strip()
 
         # Validar que sea uno de los agentes conocidos
