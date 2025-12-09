@@ -8,6 +8,7 @@ from utils.llm_provider import paths_config, settings_config  # inicializa LLMs 
 from agents.GraphBuilder import GraphBuilder
 from langchain_core.messages import HumanMessage, AIMessage
 from agents.State import AgentState
+import tools.extract_cmapss
 
 warnings.filterwarnings("ignore")
 

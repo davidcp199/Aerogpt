@@ -2,7 +2,7 @@
 from langgraph.graph import StateGraph, START, END
 from agents.State import AgentState
 from agents.SupervisorAgent import supervisor_action
-from agents.RulAgent import extract_cmapss_action
+from agents.RulAgent import rul_action
 from agents.CriticidadAgent import criticidad_action
 from agents.ReparacionAgent import reparacion_action
 from agents.RegulacionAgent import regulacion_action
@@ -36,7 +36,7 @@ class GraphBuilder:
         # --- nodos ---
         graph.add_node("Supervisor", supervisor_action)
         graph.add_node("PreRUL", pre_rul_action)
-        graph.add_node("RUL", extract_cmapss_action)
+        graph.add_node("RUL", rul_action)
         graph.add_node("Criticidad", criticidad_action)
         graph.add_node("Reparacion", reparacion_action)
         graph.add_node("Regulacion", regulacion_action)

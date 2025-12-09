@@ -1,6 +1,7 @@
 # agents/pre_rul.py
 import json
 import logging
+import pandas as pd
 from langchain_core.messages import AIMessage
 from langchain_core.prompts import ChatPromptTemplate
 from utils.llm_provider import llm_deterministic
@@ -8,21 +9,29 @@ from utils.tool_registry import ToolRegistry
 
 logger = logging.getLogger(__name__)
 
-# Prompt principal para decidir acción del usuario
+# --- Prompt principal para decidir acción ---
 PROMPT_PRE_RUL = ChatPromptTemplate.from_template(
     """
 Eres un asistente experto en motores aeronáuticos y en CMAPSS.
-Analiza el último mensaje del usuario y decide una sola palabra que indique la acción:
-- "Update" → si el usuario quiere actualizar información del motor (sensores, configuraciones, unidad, ciclos).
-- "Calculate" → si el usuario quiere calcular la RUL del motor.
+Analiza el último mensaje del usuario y decide la acción correcta.
+
+- "Update" → si el usuario menciona nuevos valores de sensores, configuraciones, unidad, ciclos, o motor (FD).
+- "Calculate" → solo si el usuario quiere calcular el RUL explícitamente y **no hay nuevos valores a registrar**.
+- "Status" → si quiere ver el historial de mediciones acumuladas, si quiere que le enseñe los datos del motor hasta ahora.
+- "Reset" → si quiere reiniciar los datos o indicar un nuevo motor.
 - "Exit" → si el usuario quiere finalizar la sesión.
-- "Chat" → si el mensaje es distinto a los anteriores.
+- "Chat" → si el mensaje es general o no tiene relación con actualizar/calcular/exit.
+
+**Importante**: Si el usuario menciona cualquier valor concreto de sensor/configuración, se debe elegir "Update" incluso si dice "calcular RUL".
 
 Último mensaje del usuario:
 {user_message}
+
+Responde SOLO con una de las siguientes palabras EXACTAS (sin explicaciones ni texto adicional): "Update", "Calculate", "Exit", "Chat".
 """
 )
 
+# --- Prompt para chat experto ---
 PROMPT_CHAT = ChatPromptTemplate.from_template(
     """
 Eres un asistente experto en motores aeronáuticos y en el dataset CMAPSS para predicción de RUL.
@@ -30,37 +39,31 @@ Responde de forma clara, concisa y técnica a cualquier pregunta del usuario sob
 
 Instrucciones:
 - Mantén el contexto de CMAPSS y RUL aunque el usuario pregunte algo general.
-- Ofrece explicaciones precisas y consejos de experto si es necesario.
 - Nunca inventes valores de sensores ni datos de RUL.
-- Al final de tu respuesta, recuerda al usuario las posibles acciones que puede hacer a continuación: "Update" para actualizar datos del motor, "Calculate" para calcular la RUL, o "Exit" para finalizar la sesión.
+- Al final de tu respuesta, recuerda al usuario las posibles acciones que puede hacer a continuación: "Update" para actualizar datos, "Calculate" para calcular la RUL, o "Exit" para finalizar la sesión.
 
 Mensaje del usuario:
 {user_message}
 """
 )
 
+# --- Función principal ---
 
 def pre_rul_action(state):
     """
     Gestiona la conversación con el usuario:
-    - Identifica la acción: Update, Calculate, Exit o Status
-    - En caso de Update, llama a extract_cmapss_tool y mergea los datos
-    - En caso de Status, imprime el estado actual
-    - Retorna estado actualizado
+    - Identifica acción: Update, Calculate, Exit o Chat
+    - Update: extrae nuevos valores y añade al DataFrame
+    - Calculate: va al cálculo de RUL si hay datos
     """
     print("<<<PRERUL")
     try:
         last_user_msg = state.messages[-1].content if state.messages else ""
 
-        # Inicializar pre_rul_data si no existe
-        if not hasattr(state, "pre_rul_data") or state.pre_rul_data is None:
-            state.pre_rul_data = {
-                "unidad": 0,
-                "tiempo_ciclos": 0,
-                "configuraciones_operativas": [0, 0, 0],
-                "mediciones_sensores": {f"s_{i}": 0 for i in range(1, 22)},
-                "modelo_seleccionado": "FD001"
-            }
+        # Inicializar DataFrame si no existe
+        if state.pre_rul_data is None:
+            state.pre_rul_data = pd.DataFrame()
+            print("Inicializando DataFrame vacío para medidas CMAPSS...")
 
         # Preguntar al LLM qué acción tomar
         chain = PROMPT_PRE_RUL | llm_deterministic
@@ -73,97 +76,90 @@ def pre_rul_action(state):
         print(action_lower)
 
         if "update" in action_lower:
-            # Llamar a la tool con argumentos correctos
-            try:
-                tool_response = ToolRegistry.invoke(
-                    "extract_cmapss",
-                    message=last_user_msg, 
-                    pre_rul_data=dict(state.pre_rul_data)
-                )
-            except TypeError:
-                # fallback
-                tool_response = ToolRegistry.invoke(
-                    "extract_cmapss",
-                    message=last_user_msg,
-                    pre_rul_data=state.pre_rul_data
-                )
+            # Llamar a la tool solo con el mensaje del usuario
+            tool_response = ToolRegistry.invoke("extract_cmapss", message=last_user_msg)
+            parsed = json.loads(tool_response)
 
-
-            # Parsear respuesta
-            if isinstance(tool_response, dict):
-                parsed = tool_response
-            else:
-                try:
-                    parsed = json.loads(tool_response)
-                except Exception as e:
-                    logger.exception("No pude parsear la salida de la tool: %s", e)
-                    state.messages.append(AIMessage(
-                        content="Error: no pude interpretar la información extraída."))
-                    state.needs_followup = False
-                    state.next_agent = "PreRUL"
-                    return state
-
-            # Revisar errores de la tool
             if parsed.get("error"):
-                state.messages.append(AIMessage(
-                    content=f"Error en extractor: {parsed.get('error')}"))
+                state.messages.append(AIMessage(content=f"Error: {parsed['error']}"))
                 state.needs_followup = False
-                state.next_agent = "PreRUL"
                 return state
 
-            # Merge seguro de datos
-            state.pre_rul_data["unidad"] = int(parsed.get("unidad", state.pre_rul_data.get("unidad", 0)))
-            state.pre_rul_data["tiempo_ciclos"] = int(parsed.get("tiempo_ciclos", state.pre_rul_data.get("tiempo_ciclos", 0)))
+            # Crear fila con valores extraídos
+            fila = {
+                "unidad": parsed.get("unidad", 0),
+                "tiempo_ciclos": parsed.get("tiempo_ciclos", 0),
+                "setting_1": parsed.get("configuraciones_operativas", [0,0,0])[0],
+                "setting_2": parsed.get("configuraciones_operativas", [0,0,0])[1],
+                "setting_3": parsed.get("configuraciones_operativas", [0,0,0])[2],
+            }
 
-            # Configuraciones operativas
-            new_settings = parsed.get("configuraciones_operativas", [0, 0, 0])
-            if isinstance(new_settings, (list, tuple)):
-                s = list(new_settings)[:3]
-                while len(s) < 3:
-                    s.append(0)
-                state.pre_rul_data["configuraciones_operativas"] = s
+            # Sensores
+            for i in range(1, 22):
+                fila[f"s_{i}"] = parsed.get("mediciones_sensores", {}).get(f"s_{i}", 0)
 
-            # Sensores: sobreescribir solo los mencionados
-            new_sensors = parsed.get("mediciones_sensores", {})
-            if isinstance(new_sensors, dict):
-                for i in range(1, 22):
-                    key = f"s_{i}"
-                    if key in new_sensors:
-                        state.pre_rul_data["mediciones_sensores"][key] = new_sensors.get(key, 0)
+            # Añadir al DataFrame
+            state.pre_rul_data = pd.concat([state.pre_rul_data, pd.DataFrame([fila])], ignore_index=True)
 
-            # Modelo seleccionado
-            model = parsed.get("modelo_seleccionado")
-            if model:
-                state.pre_rul_data["modelo_seleccionado"] = model
+            # Actualizar modelo seleccionado
+            state.modelo_seleccionado = parsed.get("modelo_seleccionado", state.modelo_seleccionado)
 
-            state.messages.append(AIMessage(content="Datos actualizados correctamente. Diga Calcular RUL si quiere hacerlo con estos datos"))
+            state.messages.append(AIMessage(content=f"Nueva medición registrada. ({len(state.pre_rul_data)} filas acumuladas)"))
             state.needs_followup = False
             state.next_agent = "PreRUL"
             return state
 
         elif "calculate" in action_lower:
-            # Revisar si hay datos completos antes de calcular
-            state.messages.append(AIMessage(content="Iniciando cálculo de RUL."))
+            if state.pre_rul_data is None or len(state.pre_rul_data) == 0:
+                state.messages.append(AIMessage(content="No hay datos suficientes para calcular el RUL. Primero use 'Update'."))
+                return state
+
+            state.messages.append(AIMessage(content="Calculando RUL con histórico actual..."))
             state.needs_followup = True
             state.next_agent = "RUL"
             return state
 
-        elif "exit" in action_lower:
-            state.messages.append(AIMessage(content="Finalizando sesión."))
-            state.needs_followup = False
-            state.next_agent = "END"
-            return state
-
         elif "status" in action_lower:
-            print("Estado actual del motor:")
-            print(json.dumps(state.pre_rul_data, indent=2, ensure_ascii=False))
-            state.messages.append(AIMessage(content="Se ha mostrado el estado actual del motor en consola."))
+            if state.pre_rul_data is None or state.pre_rul_data.empty:
+                state.messages.append(AIMessage(content="No hay datos registrados todavía."))
+            else:
+                # Convertir a string con encabezado completo
+                df_str = state.pre_rul_data.to_string(index=False)
+                state.messages.append(AIMessage(content=f"Estado actual de mediciones:\n{df_str}"))
             state.needs_followup = False
             state.next_agent = "PreRUL"
             return state
-        
+
+        elif "reset" in action_lower:
+            # Extraer info nueva si hay
+            if "nuevo motor" in last_user_msg.lower() or "nuevo" in last_user_msg.lower() or "update" in last_user_msg.lower():
+                # Si hay datos nuevos, crear solo la nueva fila
+                tool_response = ToolRegistry.invoke("extract_cmapss", message=last_user_msg)
+                parsed = json.loads(tool_response)
+                fila = {
+                    "unidad": parsed.get("unidad", 0),
+                    "tiempo_ciclos": parsed.get("tiempo_ciclos", 0),
+                    "setting_1": parsed.get("configuraciones_operativas", [0,0,0])[0],
+                    "setting_2": parsed.get("configuraciones_operativas", [0,0,0])[1],
+                    "setting_3": parsed.get("configuraciones_operativas", [0,0,0])[2],
+                }
+                for i in range(1, 22):
+                    fila[f"s_{i}"] = parsed.get("mediciones_sensores", {}).get(f"s_{i}", 0)
+
+                state.pre_rul_data = pd.DataFrame([fila])
+                state.modelo_seleccionado = parsed.get("modelo_seleccionado", "FD001")
+                state.messages.append(AIMessage(content="Datos reseteados y nueva medición registrada."))
+            else:
+                # Solo reset explícito: DataFrame vacío
+                state.pre_rul_data = pd.DataFrame()
+                state.modelo_seleccionado = "FD001"
+                state.messages.append(AIMessage(content="Datos reseteados a cero."))
+            state.needs_followup = False
+            state.next_agent = "PreRUL"
+            return state
+
         elif "chat" in action_lower:
-            # Usar PROMPT_CHAT para generar respuesta experta
+            # Usar PROMPT_CHAT
             chat_chain = PROMPT_CHAT | llm_deterministic
             chat_response = chat_chain.invoke({"user_message": last_user_msg})
             state.messages.append(AIMessage(content=chat_response.content))
@@ -171,18 +167,21 @@ def pre_rul_action(state):
             state.next_agent = "PreRUL"
             return state
 
+        elif "exit" in action_lower:
+            state.messages.append(AIMessage(content="Cerrando sesión."))
+            state.needs_followup = False
+            state.next_agent = None
+            return state
+
         else:
-            # Clarify / repetir
-            state.messages.append(AIMessage(
-                content="No entendí la acción. Por favor responde 'Update', 'Calculate', 'Status' o 'Exit'."))
+            state.messages.append(AIMessage(content="No entendí la acción. Responde 'Update', 'Calculate', 'Status' o 'Exit'."))
             state.needs_followup = False
             state.next_agent = "PreRUL"
             return state
 
     except Exception as e:
         logger.exception("Error en pre_rul_action: %s", e)
-        state.messages.append(AIMessage(
-            content="No pude procesar tu solicitud. Por favor indícame qué deseas hacer."))
+        state.messages.append(AIMessage(content="No pude procesar tu solicitud. Por favor indícame qué deseas hacer."))
         state.needs_followup = False
         state.next_agent = "PreRUL"
         return state

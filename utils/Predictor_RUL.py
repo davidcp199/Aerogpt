@@ -59,19 +59,45 @@ def load_model(base_path, fd_code="FD001"):
 
 def generate_synthetic_history(row, length=30):
     """
-    Genera una historia temporal suave y consistente con el ciclo actual.
-    Útil si el usuario solo entrega 1 fila.
+    Genera datos sintéticos suaves basados en la última fila disponible.
     """
-    base = row.values.flatten()
+    base = row.values.astype(float)
     seq = []
 
     for i in range(length):
-        noise = np.random.normal(0, 0.01, size=len(base))
-        decay = (length - i) / length
-        synthetic = base * (0.98 + 0.02 * decay) + noise
+        noise = np.random.normal(0, 0.015, size=len(base))
+
+        # Suavizado progresivo
+        factor = 1 - (i / (length * 50))  # degradación muy ligera
+        synthetic = base * factor + noise
+
         seq.append(synthetic)
 
     return pd.DataFrame(seq, columns=row.index)
+
+
+def expand_history_to_30(df):
+    """
+    Expande el dataframe del usuario hasta 30 filas.
+    - Si tiene 1 fila → genera 30 totalmente sintéticas.
+    - Si tiene entre 2 y 29 → añade filas sintéticas hasta llegar a 30.
+    - Si tiene ≥ 30 → usa las últimas 30.
+    """
+    n = len(df)
+
+    # Caso 1: solo 1 fila → generar 30 sintéticas basadas en ella
+    if n == 1:
+        return generate_synthetic_history(df.iloc[0], length=WINDOW_SIZE)
+
+    # Caso 2: entre 2 y 29 → completar con sintéticas
+    if n < WINDOW_SIZE:
+        needed = WINDOW_SIZE - n
+        last_row = df.iloc[-1]
+        synthetic = generate_synthetic_history(last_row, length=needed)
+        return pd.concat([df, synthetic], ignore_index=True)
+
+    # Caso 3: 30 o más → tomar las últimas 30
+    return df.tail(WINDOW_SIZE).reset_index(drop=True)
 
 
 # 5. PREPROCESAMIENTO DEL INPUT
@@ -111,9 +137,8 @@ def make_window(df, window_size=30):
 def predict_RUL(user_df, base_path, fd="FD001"):
     model, scaler, device = load_model(base_path, fd)
 
-    # Si solo hay 1 ciclo
-    if len(user_df) == 1:
-        user_df = generate_synthetic_history(user_df.iloc[0], length=WINDOW_SIZE)
+    # Expandir la historia (nuevo comportamiento)
+    user_df = expand_history_to_30(user_df)
 
     df_clean = preprocess_user_data(user_df, scaler)
 

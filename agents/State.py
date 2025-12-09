@@ -1,32 +1,22 @@
-from pydantic import BaseModel
-from typing import Optional, Literal
-from langgraph.graph.message import add_messages
+from pydantic import BaseModel, field_validator
+import pandas as pd
+from typing import Optional, List
 from langchain_core.messages import BaseMessage
-from typing import Annotated, List, Dict, Any
 
 class AgentState(BaseModel):
+    model_config = {
+        "arbitrary_types_allowed": True
+    }
+
     messages: List[BaseMessage]
-    pre_rul_data: Optional[Dict[str, Any]] = None
-    decision: Optional[str] = None         # decisión interna del nodo
-    next_agent: Optional[str] = None       # siguiente nodo en el grafo
+    pre_rul_data: Optional[pd.DataFrame] = None
+    modelo_seleccionado: Optional[str] = "FD001"
+    decision: Optional[str] = None
+    next_agent: Optional[str] = None
     needs_followup: bool = False
 
-    def update_pre_rul_data(self, updates: Dict[str, Any]):
-        if self.pre_rul_data is None:
-            self.pre_rul_data = {
-                "unidad": 0,
-                "tiempo_ciclos": 0,
-                "configuraciones_operativas": [0,0,0],
-                "mediciones_sensores": {f"s_{i}": 0 for i in range(1, 22)},
-                "modelo_seleccionado": "FD001"
-            }
-        for k, v in updates.items():
-            if v is not None:
-                if isinstance(v, dict) and k in self.pre_rul_data:
-                    self.pre_rul_data[k].update(v)
-                elif isinstance(v, list) and k in self.pre_rul_data:
-                    for i, val in enumerate(v):
-                        if val != 0:
-                            self.pre_rul_data[k][i] = val
-                else:
-                    self.pre_rul_data[k] = v
+    @field_validator("pre_rul_data", mode="before")
+    def convert_to_df(cls, v):
+        if isinstance(v, dict):
+            return pd.DataFrame([v])  # lo convierte automáticamente
+        return v
