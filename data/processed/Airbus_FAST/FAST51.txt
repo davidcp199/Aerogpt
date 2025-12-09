@@ -1,0 +1,2197 @@
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+1
+5
+T
+S
+A
+F
+FAST
+51
+J A N U A R Y 2 0 1 3
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+Customer Services
+events
+Just happened Structure Trainings and new Consumable Material
+Lists (CML). A dedicated NDT (Non-Destructive
+Testing) workshop allowed the participants to
+Airbus Lessors Conference
+practice on Pulse Thermography and Ultrasonic
+The 9th Lessors Conference took place in October
+Phased Array methods.
+in the United States with over 140 participants
+from 90 leasing companies. The lessors appreciated
+the initiative of the presentations to promote an Technical Data Support & Services symposium
+interactive approach with the audience and an An impressive participation of more than
+exchange with Airbus’ Customer Services & 160 attendees from operators, suppliers and MROs
+Support senior management team. attended this sixth Technical Data symposium held
+Many important technical subjects have been in Istanbul (Turkey).
+raised with a focus on Upgrade Services. Fleet “Supporting your Digital Operations!” was this
+performance, new regulations, requirements, safety edition’s motto covering solutions for technical
+enhancements and solutions, including the Sharklet data in the fields of Maintenance & Repair,
+retrofit presentations have been shown. Spares & Suppliers, Scheduled Maintenance,
+In addition to services for lessors and improvements Service Bulletins and Flight Operations. More
+in the efficiency of aircraft transitions, a new service than 30 presentations, demos and workshops were
+was presented which is part of an EASA process delivered by Airbus and some additional subjects
+when required to import/export an aircraft to/from were kindly presented by guest speakers from Qatar
+the European Union. Airways, TAP Maintenance & Engineering and
+Zodiac Aerospace. After an interesting caucus, the
+attendees highlighted the exceptional networking
+Airbus Material, Logistics, Suppliers
+opportunity in such events and delivered strong
+and Warranty symposium
+encouragements to keep up the good work in the
+The overwhelmingly positive feedback that Airbus future!
+received for this year’s symposium in Bangkok
+(Thailand) has once again proven that ‘Material Coming soon
+Matters!’. This event gathered 109 customers and
+22 suppliers who received an update on the latest
+developments and initiatives that were taken. Material Management seminars 2013
+Interactive discussions in various workshops Cost reduction and increased operational efficiency
+and caucus sessions facilitated the right frame are permanent objectives in today’s challenging
+to commonly develop solutions and get prepared times. In order to respond, Airbus has scheduled
+for the anticipated market growth. Airbus has 11 seminars in 2013 with different levels of
+listened carefully to the customers’ requirements, specialization in different locations around the world,
+is evaluating them and will take actions accordingly specifically developed to support more efficient
+with the aim of presenting the results at the next material management. The training portfolio has
+symposium. been extended by including now a “Tools and GSE
+Detailed information is available on the dedicated seminar”. Airbus also offers on-site courses fully
+e-site on the AirbusWorld homepage (in the “What’s tailored to suit the customers’ needs.
+new” box). For further details, please contact:
+spares.training@airbus.com or see the detailed
+A successful Structure seminar schedule with dates and locations on the AirbusWorld
+Early November in Toulouse (France), over Material Management community homepage.
+116 worldwide representatives from airlines,
+lessors and MRO organisations participated to this Airbus 2013 events’ agenda
+seminar, creating a unique opportunity for the At the time of FAST magazine going to press, the
+structure community to share relevant subjects 2013 event agenda is being organized and major
+and gather the overall experience, knowledge and Airbus events such as the A380 symposium or the
+support necessary to empower the motto: “Structure Airbus 11th Training symposium are taking place,
+Support: A joint effort”. both events in Dubai (United Arab Emirates).
+Airbus structure specialists provided technical In the next edition, we will provide you with the
+presentations, including maintenance programme outcome of these events and the fixed dates of the
+topics and in-service fleet issues. Demonstrations upcoming events.
+were provided on IDOLS, Repair Manager,
+15
+TSAF
+J A N U A R Y 2 0 1 3
+J U L Y 2 0 0 5
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+Customer Services
+Events
+eTaxi
+Taxiing aircraft with engines stopped
+Yann NICOLAS
+A320 Family Sharklet retrofit
+Hunting down fuel burn
+Publisher: Bruno PIQUET Simon GALPIN
+Editor: Lucas BLUMENFELD François HUGO
+Widespread Fatigue Damage
+Page layout: quatcoul
+A300B: Compliance to the ageing
+Cover: Sharklet retrofit aircraft regulation
+Photo by: Philippe MASCLET
+Nicolas TURREL
+Authorisation for reprint of FAST Magazine articles should be requested Didier AURICHE
+from the editor at the FAST Magazine e-mail address given below
+Optimized spare parts investment
+Customer Services Communications
+Tel: +33 (0)5 61 93 43 88 Initial Provisioning influencing
+Fax: +33 (0)5 61 93 47 73 A350 XWB development
+e-mail: fast.magazine@airbus.com
+Printer: Amadio Stefan TRINKER
+Daniel SCHWARZER
+FAST Magazine may be read on Internet
+http://www.airbus.com/support/publications
+under ‘Quick references’ Managing aircraft security
+ISSN 1293-5476 A new challenge for the air
+transportation community
+© AIRBUS S.A.S. 2012. AN EADS COMPANY
+All rights reserved. Proprietary document Pascal ANDREI
+By taking delivery of this Magazine (hereafter “Magazine”), you accept on behalf Gernot LADSTAETTER
+of your company to comply with the following. No other property rights are granted Isabelle DUFEU
+by the delivery of this Magazine than the right to read it, for the sole purpose of
+information. This Magazine, its content, illustrations and photos shall not be modified
+nor reproduced without prior written consent of Airbus S.A.S. This Magazine and the
+Airport taxiing
+materials it contains shall not, in whole or in part, be sold, rented, or licensed to any
+third party subject to payment or not. This Magazine may contain market-sensitive A new era relieving animals
+or other information that is correct at the time of going to press. This information
+involves a number of factors which could change over time, affecting the true public
+representation. Airbus assumes no obligation to update any information contained in
+Customer Services Worldwide
+this document or with respect to the information described herein. The statements
+made herein do not constitute an offer or form part of any contract. They are based on Around the clock... Around the world
+Airbus information and are expressed in good faith but no warranty or representation
+is given as to their accuracy. When additional information is required, Airbus S.A.S
+can be contacted to provide further details. Airbus S.A.S shall assume no liability for
+any damage in connection with the use of this Magazine and the materials it contains,
+even if Airbus S.A.S has been advised of the likelihood of such damages. This licence
+is governed by French law and exclusive jurisdiction is given to the courts and tribunals
+of Toulouse (France) without prejudice to the right of Airbus to bring proceedings for
+infringement of copyright or any other intellectual property right in any other court of
+competent jurisdiction.
+Airbus, its logo, A300, A310, A318, A319, A320, A321, A330,
+A340, A350, A380 and A400M are registered trademarks.
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+15
+TSAF
+51
+2
+11
+17
+24
+29
+36
+37
+This issue of FAST Magazine has been printed
+on paper produced without using chlorine, to reduce
+Photo copyright Airbus
+Photo credits: waste and help conserve natural resources.
+Airbus Photographic Library, Airbus Flight Test Photo Lab, EADS Corporate Heritage, ExM Company, Eurocontrol. Every little helps!
+1
+ETAXI-TAXIING AIRCRAFT WITH ENGINES STOPPED
+15
+TSAF
+eTaxi
+Taxiing aircraft with
+engines stopped
+The idea to taxi aircraft without the main engine its products and develop environmental-friendly
+thrust is not recent. When Aerospatiale’s (one of solutions, Airbus’ Research and Technology
+Airbus’ founder partners) design office provided programme has revisited this case with various
+its conclusions on a study for “motorised wheels solutions in the recent years. Today’s improved
+for autonomous taxiing for a 76 tonnes subsonic technologies considering more electrical equip-
+aircraft” back in 1977 (figure 1), the technology ment power over the equipment mass ratio, higher
+and oil prices were not at today’s high level, reliability figures and fuel prices together with a
+making this idea a “must” to offer. As part of longer taxi time, are making an onboard solution
+Airbus’ commitment to continuously improve for autonomous taxiing more and more attractive.
+Yann NICOLAS
+Research and Technology
+Programme Leader
+Aircraft Control
+Airbus S.A.S.
+2
+15
+TSAF
+ETAXI-TAXIING AIRCRAFT WITH ENGINES STOPPED
+eTaxi for which
+aircraft? eTaxi system and TaxiBot
+While eTaxi is an on-board solution, 100 seats (both Airbus and non-
+Aircraft taxiing is today performed TaxiBot is a product that enables Airbus types).
+through the use of engine thrust. aircraft taxiing with engines It will target a deployment on the
+On twin-engine aircraft, one or the stopped and APU running, using major airports where such concept
+two engines are used while taxiing, a diesel-electric tractor controlled makes sense.
+depending on the operator’s policy by the aircraft’s pilot through his There will be two TaxiBot variants:
+and operational conditions. regular controls (tiller and brake One for single-aisle aircraft (Narrow
+The eTaxi system offers: pedals). -Body TaxiBot) and the other for
+(cid:201)(cid:1)(cid:1)Taxi-out and taxi-in with all When taxi-out is completed, twin-aisle types (Wide-Body
+engines stopped capability, TaxiBot is disconnected from the TaxiBot).
+(cid:201)(cid:1)(cid:1)A total aircraft autonomy aircraft Nose Landing Gear by the The first prototype is currently in
+allowing the aircraft to TaxiBot driver, who then drives test phase at Châteauroux (France),
+“pushback” without any tractor. back the vehicle to the apron. with an operational test under
+Unlike eTaxi which is specific to real conditions to be conducted
+The eTaxi system is an onboard A320, this concept of tow-bar-less at Frankfurt am Main Airport
+solution. This means that there towing aims at the capability to tow (Germany) in spring 2013.
+is some significant hardware all types of aircraft with more than
+to be installed on the aircraft,
+consequently some weight to be
+added.
+This explains why such a
+eTaxi electric motor and transmission
+technology is only considered for
+installation on Main Landing Gear
+short and medium range aircraft,
+and not for long haul flights in Figure 2
+which the aircraft would burn the
+fuel saved on ground, in flight.
+So it is intended to propose eTaxi
+as an option available for the A320
+Family fleet, only.
+Airbus is working with the
+objective to propose both forward
+fit and retrofit.
+Motorized wheels’ principle
+designed by Aerospatiale in 1977
+Figure 1
+3
+llewyenoH
+&
+NARFAS
+fo
+ysetruoC
+15
+TSAF
+ETAXI-TAXIING AIRCRAFT WITH ENGINES STOPPED
+eTaxi system
+performances and
+architecture
+Whereas eTaxi system perfor-
+mances and characteristics are still
+under construction and refinement,
+some key design objectives are
+On-going testing
+emerging.
+Airbus testing: the Landing Gear configuration,
+Airbus is using the APTV (Accelerated to MTOW, and centre of gravity of TAXI-OUT AND TAXI-IN OPERATIONS
+Pavement Testing Vehicle) so-called an A320. The “MOSART“ (Modular
+the “Turtle” (figures 3 & 4), in an Simulator for Airbus Research Tests) Studies have been conducted to
+A320 configuration, to measure key simulator is used by flight test pilots propose the best operational
+sizing parameters. Amongst them, to evaluate the most appropriate compromise between the eTaxi
+the simulation of the “breakaway” eTaxi control device. More than five performance (speed, acceleration,
+forces needed to move the aircraft different manoeuvrability concepts aircraft weight, external condi-
+with almost “square tyres”, to test (HMI – Human Machine Interface) tions, etc.) and the sizing (hence
+the phenomenon after a long stop. have already been tested. additional hardware weight
+This “Turtle” vehicle has been used onboard).
+for the HTPT (High Tyre Pressure Partners’ testing: Airbus is aiming to achieve a
+Testing - read FAST 48 magazine) Major partners have already performance requirement for taxi
+but the Main Landing Gear beams pre-evaluated some concepts. They speed of 20kts (knots).
+have been displaced and the are now assembling prototypes for This speed is fully compatible with
+weight adjusted to correspond to full scale testing. airport ground traffic and does
+not impact taxi time, whether the
+aircraft will be equipped, or not,
+with the eTaxi system. This has been
+confirmed after having conducted
+ground traffic simulations in
+The Turtle
+several major airports.
+Figure 3
+4
+15
+TSAF
+ETAXI-TAXIING AIRCRAFT WITH ENGINES STOPPED
+An acceleration capability of 0 to The choice of the Main Landing
+20kts in 90 seconds is considered as Gear versus the Nose Landing Gear
+fully sufficient from an operational is to allow the eTaxi operations
+view point, as well. in all usual operational cases
+dd e f i n i t i o n
+(i.e.: On wet taxiways, at MTOW
+REARWARD (“PUSHBACK”) (Maximum Take-Off Weight) PPoowweerr eelleecctronics is the appli-
+OPERATION: and at the rear centre of gravity cation of solid-state electro nics
+for the control and conversion of
+location). A Nose Landing Gear
+electrical power in order to drive
+The rearward operation is a key solution would provide a limited
+the electric motor at a variable
+feature offered by the eTaxi system. traction capability due to a weaker
+rotational speed. Hence, power
+The pilot controls the backup of the vertical load on this gear.
+electronics converts electrical
+aircraft from the cockpit thanks to power (at frequency and voltage
+an onboard device, at a maximum The power electronics which levels) from aircraft electrical
+speed of 3kts. supplies and controls the electric network to the electric motors.
+motors is air cooled and installed
+ETAXI SYSTEM ARCHITECTURE close to the Main Landing Gear
+bay, requiring no cargo space.
+The eTaxi system includes electrical The eTaxi system is fully controlled
+motors and their associated power from the cockpit. Additional
+electronics, electrical power pro- control means, indications and
+tections, wires, cockpit control warnings are added for the pilot’s
+devices and control laws. control and awareness, during the
+Large air cooled electric motors eTaxi phase.
+are integrated in between the Main
+Landing Gear wheels. The eTaxi control laws shall be
+These electric motors are sized to integrated in the aircraft avionics.
+provide the required torque to move Various solutions are investigated
+the aircraft (breakaway force due to (e.g.: Dedicated control unit or
+“square tyre effect” as simulated in eTaxi control software can be
+figure 4) and to insure the required hosted into the existing computer,
+acceleration and taxi cruise speed such as the Braking and Steering
+in most conditions (taxiway slope, Control Unit - BSCU). Test installation for torque
+measurement on the Turtle
+adverse wind, etc.).
+Figure 4
+5
+15
+TSAF
+ETAXI-TAXIING AIRCRAFT WITH ENGINES STOPPED
+Where does the However, the taxi performance with
+both engines stopped cannot be
+electric power
+the nominal one in all conditions.
+come from? While acceptable on many airports,
+it may not be sufficient at large
+airports with long taxiways
+The technical and commercial as there is not enough electric
+electrical needs are still ensured and power to supply both, the normal
+the bleed power is still available electrical loads and the eTaxi
+for the Environmental Control system for a full performance.
+System (ECS). Several operational As an example, an A320 at
+options and design solutions can be MTOW (Maximum Take-Off
+considered: Weight) of 78 tonnes would only
+reach a maximum speed of 12kts.
+Base eTaxi solution The performance is, of course,
+Keeping today’s APU, both better for a lighter aircraft of
+engines stopped but accepting 69 tonnes at 13.5kts.
+reduced performance. Using the
+existing APU (Auxiliary Power Hybrid eTaxi solution
+Unit) with its actual generator of Keeping today’s APU, one engine
+90kVA (kilo Volt Ampere) is the at idle benefitting from a full
+favourite and simplest solution to performance. By still keeping the
+go for a minimum change. existing APU and APU generator
+ON, one engine can be kept at idle
+Usual flight operations versus
+during the eTaxi operation.
+eTaxi
+Figure 5
+Cruise
+b D
+m e
+Taxi-out Cli s c
+e
+n
+t Taxi-in
+P
+u s h b a c
+E
+k
+n
+gi n e st
+T
+a u rt g di s c o n n e
+cti o n
+E n
+gi n e dri v e n t a
+xii n g
+Fli
+g h t
+gi
+n e
+dri v e n t a xii n g Today
+n
+E
+a c k n g n)
+A ut o n o m o u s P p u o s t ( e h n n b o t i a t u l g ti m di e s c s o a n v E n i l e e c c t t r i o i c t a xii n g E n gi n e st ar E t n gi n e dri v e n t a xii n g* Fli g h t
+E n
+gi n e dri v e n t a xii n g*
+El e
+ctri c t a xii n g e W T i a t x h i
+(*) Engine warm-up and cool-down phases
+6
+15
+TSAF
+ETAXI-TAXIING AIRCRAFT WITH ENGINES STOPPED
+This solution offers all the sizing and in consequence, to adapt
+required electric power for a full the APU. Trade-off studies are still
+performance (20kts on A320 on-going by Airbus for an APU
+at MTOW) as the engine IDG modification, aiming to increase, dd e f i n i t i o n
+(Integrated Drive Generator) and or not, its available electric power.
+APU generator are used together AAiirrccrraafftt mmarshalling is the
+to supply the aircraft normal loads signaling and communication
+eTaxi operation
+and eTaxi system. Nevertheless, between the ground handling
+there is still a significant fuel saving personnel and pilots. The usual
+with this solution (even compared equipment of a marshaller is a
+NO TUG TO WAIT FOR PUSHBACK
+to usual single engine taxiing) due reflecting safety vest, a helmet
+to the engine thrust of the aircraft with acoustic earmuffs, gloves or
+By switching the eTaxi push-
+not being used to accelerate - the marshalling wands and handheld
+button ON with the APU running,
+acceleration being taken in charge illuminated beacons.
+the pilot activates eTaxi and
+by the eTaxi system. Obviously,
+configures various other systems.
+there is still the full benefit of the
+“autonomous pushback” done with
+The Yellow hydraulic circuit
+both engines stopped and with the
+(figure 6) Electrical Motor Pump
+APU only.
+(EMP) which is electrically
+supplied by the APU generator,
+Full eTaxi solution
+provides the required hydraulic
+Modified APU with a new APU
+power for the nose wheel steering
+generator. The only way to get
+and for alternate braking (the
+a full eTaxi performance with
+Power Transfer Unit is turned off).
+all engines stopped in every
+conditions (notably taking in Then, the pilot is ready to backup
+consideration the aircraft weight) the aircraft guided by one or two Three independent hydraulic
+circuits on the A320 Family
+is to increase the APU generator marshallers.
+Figure 6
+Blue circuit Green circuit Yellow circuit
+EMP RAT EDP EDP EMP
+Hydraulic eTaxi
+PTU configuration
+Primary Flight Primary Flight EDP: Engine Driven Pump
+Controls
+Controls EMP: Electric Motor Pump
+Primary Flight PTU: Power Transfer Unit
+Controls
+Flaps RAT: Ram Air Turbine
+Slats
+Slats & Flaps
+Reverse
+Brake
+Engine #2
+Hydraulic
+Reverse Accumulator
+Emergency Engine #1 Nose Wheel
+Generator Steering
+Landing Gear
+Alternate Brakes
+Normal Brakes
+Cargo Doors
+These three circuits supply several systems such as flight controls, high-lift, landing gear extension/retraction, braking, etc.
+The Green circuit supplies the normal braking system while the Yellow circuit supplies the alternate braking
+and nose wheel steering. Yellow alternate braking is backed-up by the brake hydraulic accumulator, in case of Yellow
+hydraulic system failure.
+Note: The nose wheel steering has been powered by the Yellow hydraulic circuit system since the MSN 1939.
+7
+15
+TSAF
+ETAXI-TAXIING AIRCRAFT WITH ENGINES STOPPED
+TAXI-OUT TAXI-IN
+When the backup operation The engines are switched-off after
+is completed, the pilot may landing, the pilot exits the runway,
+immediately proceed to the eTaxi the APU is started and the eTaxi
+forward phase without waiting for mode is switched ON. There is no
+the tractor’s disconnection. need to stop the aircraft to engage
+The pilot uses the eTaxi control the eTaxi mode.
+device from the cockpit to
+accelerate and the usual brake Depending on whether the high
+pedals to slow down or stop the thrust has been applied or not
+Average taxi time aircraft. It also allows switching during the reverse thrust, it may
+off the electric motor power supply be required to wait approximately
+from Airbus study
+to gently decelerate the aircraft three minutes to let the engines
+A320 Family in-service statis tics without using any brakes at all. cool down before switching them
+12 months fleet average off.
+(April 2012) As the engines must be started
+4 to 5 minutes prior to take-off Finally, the aircraft is electrically
+(cid:201)(cid:1)A(cid:1)verage flight duration: for warm-up, the eTaxi system is driven up to the gate, with no need
+1.8 Flight Hours (FH) designed to allow the engine start- for tug, which may be mandatory
+(cid:201)(cid:1)A(cid:1)verage daily utilisation: up while eTaxiing the aircraft. when local restrictions prohibit the
+8.9 FH/day
+The eTaxi system automatically engine use close to the apron.
+(cid:201)(cid:1)A(cid:1)verage taxi time:
+disengages when both engines are
+20 minutes (0.3 FH/flight)
+ON or above 20kts.
+eTaxi reduces
+In average, an A320 spends
+Remark: In case of Hybrid eTaxi fuel burn
+more than 15% of its time
+taxiing. (i.e. With one engine at idle), the
+aircraft operation will be very
+similar to the existing single engine Taxiing and queuing penalize
+taxi operations. the optimisation of an aircraft’s
+performance. A short and medium
+The main difference is that range aircraft may spend from 10
+acceleration control is done only to 30% of its time on taxiways
+by using the eTaxi control device (statistics based on 35 major
+in one case, and by using the European airports, absorbing
+engine thrust control lever in the 50% of European departures).
+other case. Consequently, aircraft of these
+ranges burn up to 10% of their fuel
+on ground.
+Fuel burn reduction on ground
+depends on several parameters
+such as:
+(cid:201)(cid:1)(cid:1)Reference scenario (today’s
+operation): One or two engines
+taxi-out/taxi-in,
+(cid:201)(cid:1)(cid:1)Taxi-out and taxi-in duration,
+(cid:201)(cid:1)(cid:1)Taxiing: Number of stops
+and starts.
+8
+9
+15
+TSAF
+ETAXI-TAXIING AIRCRAFT WITH ENGINES STOPPED
+Estimated fuel savings
+with eTaxi
+Figure 7
+Block fuel = Trip fuel + Taxi fuel
+Trip fuel
+Thee eeTTaxi system adds some weight; however the impact on block fuel is limiitteedd..
+OOnn a 500 NM flight, +400kg* represents an additional 16kg fuel burn.
+* Weight non-contractual
+Taxi fuel
+2 engines taxi 12.5 kg/min Hybrid eTaxi 7 kg/min
+(one engine at idle + APU)
+Today eTaxi
+S + in A g P l U e engine taxi 9.5 kg/min F (A u P l U l e o T nl a y) xi 2 kg/min
+BBllockk ffuellll saviingg
+Case of Full eTaxi versuus single engine taxi
+Fuel saving=16 kg - ( 9.5 kg/min - 2 kg/min ) x ( 20 min - ( 5 min + 3 min ) ) = - 74 kg
+Trip fuel One Engine
+degradation engine APU Total warm-up
+on 500 NM taxi taxi time + cooling
+time
+Remark: Tractor disconnection
+saving time not included.
+Full eTaxi versus two engines taxi -110 kg
+Full eTaxi versus single engine taxi -74 kg Block
+fuel
+Example of A320 with CFM56-5B4/3 Hybrid eTaxi versus two engines taxi -50 kg saving
+(similar results with IAE):
+(cid:201)(cid:1)(cid:1)(cid:22)(cid:17)(cid:17)(cid:1)(cid:47)(cid:46)(cid:1)(cid:9)(cid:47)(cid:66)(cid:86)(cid:85)(cid:74)(cid:68)(cid:66)(cid:77)(cid:1)(cid:46)(cid:74)(cid:77)(cid:70)(cid:10)(cid:1)(cid:71)(cid:77)(cid:74)(cid:72)(cid:73)(cid:85) Hybrid eTaxi versus single engine taxi -14 kg
+(cid:201)(cid:1)(cid:1)(cid:19)(cid:17)(cid:1)(cid:78)(cid:74)(cid:79)(cid:86)(cid:85)(cid:70)(cid:84)(cid:1)(cid:71)(cid:80)(cid:83)(cid:1)(cid:85)(cid:66)(cid:89)(cid:74)(cid:14)(cid:80)(cid:86)(cid:85)(cid:1)(cid:81)(cid:77)(cid:86)(cid:84)(cid:1)(cid:85)(cid:66)(cid:89)(cid:74)(cid:14)(cid:74)(cid:79)
+(cid:201)(cid:1)(cid:1)(cid:22)(cid:1)(cid:78)(cid:74)(cid:79)(cid:86)(cid:85)(cid:70)(cid:84)(cid:1)(cid:68)(cid:80)(cid:79)(cid:84)(cid:74)(cid:69)(cid:70)(cid:83)(cid:70)(cid:69)(cid:1)(cid:71)(cid:80)(cid:83)(cid:1)(cid:70)(cid:79)(cid:72)(cid:74)(cid:79)(cid:70)(cid:1)(cid:88)(cid:66)(cid:83)(cid:78)(cid:14)(cid:86)(cid:81)(cid:1)
+and 3 minutes for engine cooling
+700 NM Sector length (NM)
+250 500 750 1000 1250 1500 1750 2000
+1%
+Hybrid eTaxi offers
+0%
+about 1.5% fuel burn
+reduction* for typical - 1,5% -1%
+A320 sector and taxi time
+- 2%
+- 3%
+Full eTaxi offers
+- 4%
+about 3% fuel burn
+reduction* for typical - 5%
+A320 sector and taxi time Fuel burn - 6%
+reduction
+-7%
+* versus 2 engines taxi
+- 8%
+- 9%
+- 10%
+14 min total taaxxii ttiimme 22 minn ttootal taxi tiimmee
+9
+15
+TSAF
+ETAXI-TAXIING AIRCRAFT WITH ENGINES STOPPED
+Expected eTaxi (cid:201)(cid:1)(cid:1)More autonomy versus airport
+infrastructures (no waiting
+benefits
+for tug, no tug to pay for),
+(cid:201)(cid:1)(cid:1)Overall flight time savings by
+By allowing the taxi with the main eliminating time disconnecting
+engines stopped, the eTaxi solution the tug after pushback,
+brings a direct fuel burn reduction (cid:201)(cid:1)(cid:1)Less use of wheel brakes
+and: during taxi as there is no engine
+(cid:201)(cid:1)(cid:1)A major reduction in ground residual thrust, leading to
+emissions (COx and NOx), potential brake wear reduction,
+(cid:201)(cid:1)(cid:1)Noise reduction on ramp with (cid:201)(cid:1)(cid:1)Less risk of engine ingestion of
+obvious benefits for ground damaging debris (Foreign Object
+staff, Damage - FOD) and no engine
+jet blast blowing close to the
+gate,
+(cid:201)(cid:1)(cid:1)Improved safety for ground staff,
+(cid:201)(cid:1)(cid:1)High precision manoeuvring
+(no engine spool-up lag and
+inertia).
+Evidently, the use of eTaxi does
+not impair aircraft operation
+capabilities and passenger comfort.
+CONTACT DETAILS
+Yann NICOLAS
+Research and Technology
+Programme Leader
+Aircraft Control
+Airbus S.A.S.
+Tel: +33 (0)5 61 93 68 20
+Conclusion
+The eTaxi (electric taxiing) system is a very In the long term, another generation
+promising system that provides aircraft of eTaxi will likely emerge with the
+autonomy, reducing the use of engines next generation of short-medium range
+during the taxi operations. It leads to aircraft. As an example, we already know
+substantial fuel savings while reducing that eTaxi may offer many additional
+emissions. functionalities and benefits, when fully
+Airbus is actually investigating, in close integrated in the aircraft design from
+collaboration with several industrial the beginning, This is especially true when
+partners, different architectures and we consider the more electrical aircraft
+technologies for the best possible architectures which are being studied by
+integration at aircraft level. A fully mature Airbus, targeting a more efficient aircraft.
+solution which preserves the recognized The “More Electrical Aircraft”, or even
+A320 Family Operational Reliability (OR) in the future the “All Electrical Aircraft”
+is targeted. Airbus is using all its available concepts, are aiming to make the electrical
+development, tests and certification power the main or sole source of on-board
+resources to converge toward the most power for flight controls, high-lift, the
+optimized solution. Environmental Control System, wing
+eTaxi must be easy to install, remove, anti-ice, etc. This would allow the hydraulic
+operate, and also easy to maintain. and bleed systems’ deletion.
+10
+15
+TSAF
+A320 FAMILY SHARKLET RETROFIT - HUNTING DOWN FUEL BURN
+A320 Family
+Sharklet retrofit
+Hunting down fuel burn
+With the evolution of fuel prices in the last years aerodynamics and therefore, improve the fuel-
+and the pressure to limit the environmental impact efficiency of an aircraft amongst other operational
+of aviation, reducing fuel burn has become a enhancements.
+matter of great importance for airlines. This article presents the Sharklet retrofit solution
+To meet this challenge, Airbus decided in 2009 Airbus is proposing for the A320 Family aircraft,
+to offer A320 Family customers the option of highlights the benefits that this new device will
+ordering Sharklets on new-build aircraft and give the airlines, and also presents the challenges
+launched the “Sharklet Project”. Sharklets are Airbus’ engineers faced during the development
+large wing-tip devices designed to optimize the of this project.
+Simon GALPIN François HUGO
+Head of Airframe Development Sharklet Retrofit Engineering
+Sharklet Retrofit Project Coordination Manager
+Airbus Operations Airbus S.A.S.
+11
+A320 FAMILY SHARKLET RETROFIT - HUNTING DOWN FUEL BURN
+15
+TSAF
+Aerodynamic drag There are a number of means
+to reduce the vortex drag of an
+reduction
+aircraft by:
+(cid:201)(cid:1)(cid:1)Increasing the wing span,
+The aerodynamic efficiency of an (cid:201)(cid:1)(cid:1)Increasing the effective span
+aircraft wing depends on its drag, by adding near vertical elements
+which is made up of: to the wing tip, effectively
+(cid:201)(cid:1)(cid:1)Profile drag - driven by surface increasing the length of trailing
+area of the total airframe, edge,
+(cid:201)(cid:1)(cid:1)Wave drag - driven by transonic (cid:201)(cid:1)(cid:1)Adjusting how the lift generated
+dd e f i n i t i o n
+shocks, mostly on the wing, by the wing is distributed along
+VVoorrtteexx sshheeddding is an unsteady (cid:201)(cid:1)(cid:1)Vortex drag (also known as its span.
+oscillating flow that takes place induced drag) - driven by lift
+when a fluid such as air or water creation. Unfortunately, all of the above is
+flows past a blunt cylindrical body usually accompanied by weight
+at certain velocities. Sharklets especially act to reduce increase, hence the need to balance
+the vortex drag. When the faster drag and weight very carefully in
+moving air along the top of the coming up with an optimum wing
+wing meets the slow moving air design.
+underneath the wing tip, it creates
+swirling vortex of air known as a The wing tip fences shown in
+“wing tip vortex”. Through this, figure 1 - as seen on the A380
+the wing is continuously shedding and the A320 ceo (current engine
+vorticity (related to vortices) option) - work by modifying the
+into its wake; this shedding is wing lift distribution. Such devices
+particularly concentrated in have particular advantages. As
+the wing tip region, resulting in they are compact in span, they
+the wing tip vortices which are can easily be added to wings
+commonly visible when aircraft where the wing box tip is already
+are flying in suitable atmospheric close to the aircraft’s airport gate
+conditions. limit. They also lead to relatively
+small increases in the aircraft and
+In fact, the vortex drag component especially wing loads. However,
+for transport aircraft flying at the benefit they provide is
+transonic speeds represents around correspondingly modest.
+50% of the total aircraft drag.
+Since engine thrust is required to Sharklets provide larger induced
+overcome this drag, it is clearly drag reductions than wing tip
+essential to achieve the lowest fences by creating much more
+vortex drag level possible for an significant changes to the wing
+aircraft in order to minimize its loading and effective span.
+fuel burn, so long as the measures These offer the scope for large
+involved are suitably traded against fuel burn reductions in cruise and
+A320 with wing tip fences weight. significant improvements in climb
+performance.
+Figure 1
+The Sharklet
+retrofit for the
+in-service fleet
+After the success of the Sharklet
+option for new aircraft and
+following customers’ requests,
+Airbus has started the Sharklet
+retrofit project.
+12
+This retrofit option will provide The aerodynamic benefits of
+customers with the opportunity Sharklets have proven to reduce
+to upgrade their existing fleet of drag. Hence, the retrofit package
+A319s and A320s (followed by will offer operators reduced fuel
+the A321 at a later stage of the costs – fuel being one of the
+project) with Sharklets. Thanks to most significant operating costs
+the Sharklet retrofit (figure 2), the for airlines. Thanks to lower fuel
+residual values of the A320 Family burn, Sharklets also reduce CO
+2
+(new and in-service fleets) will be emissions and the environmental
+protected, or even improved. footprint of the airline.
+The Sharklet upgrade package that Another advantage for airlines
+Airbus offers includes: is the possibility to operate new
+(cid:201)(cid:1)(cid:1)The Sharklets and attachment longer routes. With the fuel burn
+ribs, reduction, retrofitted aircraft will
+(cid:201)(cid:1)(cid:1)Outer wing reinforcements, be able to reach further destinations
+(cid:201)(cid:1)(cid:1)Pre-assembled reinforcement with the same tank capacity. The
+kits, device creates new opportunities
+(cid:201)(cid:1)(cid:1)A detailed Service Bulletin for airlines. Sharklet-equipped
+(SB) including embodiment aircraft either will be able to reach
+instructions, new destinations, or will be able to
+(cid:201)(cid:1)(cid:1)An assessment of avionics increase the number of passengers
+pre-requisites and existing onboard. Currently, on certain
+“Repairs and Concessions” routes and due to fuel restrictions,
+for the individual aircraft. airlines cannot operate at maximum
+passenger capacity. Thanks again
+The challenge was to be able to offer to Sharklets, the retrofitted-fleet
+a cost/weight effective solution airline will be able to receive more
+with minimum aircraft downtime passengers onboard, for these
+during the retrofit embodiment. restricted routes.
+From the onset, one of the top-
+level requirements was to minimize Sharklet equipped aircraft can
+the modification to the wing. provide benefits to airlines in
+The retrofit programme had the climb-limited airports. Indeed,
+benefit of being able to use a lot thanks to better climb capabilities,
+of transferable work from the new a Sharklet equipped aircraft has
+aircraft, allowing the programme better take-off performance. Hence,
+to rapidly progress from its initial it can operate more efficiently
+launch to a maturity suitable to from high, hot, obstacle-limited,
+offer to Airbus customers. weight-limited and noise-restricted
+airports. Airlines can also recover
+Advantages better payload capability thanks to
+Sharklets.
+for airlines
+Due to a reduced overall aircraft
+From the beginning, it was decided drag, a retrofitted aircraft needs
+that both the Sharklet retrofit and lower engine thrust in cruise and
+the linefit Sharklet devices should in some cases, at take-off and
+be identical, and therefore fully during climb. Therefore, engine
+interchangeable. Therefore, the maintenance cost diminishes and
+benefits of the retrofit solution are the engine’s life is extended.
+nearly the same as those of the
+production Sharklet option.
+15
+TSAF
+A320 FAMILY SHARKLET RETROFIT - HUNTING DOWN FUEL BURN
+Airbus Sharklet
+Figure 2
+nn o t e s
+LLiinnee ffiitt // ffooorrward fit:
+The aircraft comes equipped from
+the Final Assembly Line (FAL).
+13
+A320 FAMILY SHARKLET RETROFIT - HUNTING DOWN FUEL BURN
+The Sharklet The added challenge was that the
+solution needed to use typical
+retrofit challenges
+MRO (Maintenance Repair and
+Overhaul) organisation methods
+Attaching the Sharklets increases and tools.
+the static and fatigue loads in the
+A319 and A320 wings. The third major challenge for the
+Therefore, their original wing reinforcement design was that it
+design had to be reinforced to be needed to be embodied on existing
+able to carry the additional loads aircraft and was restricted to the
+introduced by the Sharklet. The wing. Therefore, the reinforcement
+forward fit wing reinforcement needed to be integrated into the
+design is ideal for production, existing structure and systems
+but it would require a very long including high lift, fuel, control
+downtime and the associated costs systems, and consider variants
+would be too high. This means of the aircraft to enable the
+the retrofit design team needed to modification to apply to as many
+create a unique solution. A319/A320 aircraft as possible.
+The first major design challenge The last challenge is called the
+was to create a wing reinforcement “downtime challenge”. Downtime
+strategy that did not downgrade the refers to the time an aircraft is
+aircraft’s performance, compared to not flying and not profitable
+the forward fit. Therefore, the wing for the airline. Therefore, the
+shape, twist, and stiffness of the design, kitting and embodiment
+retrofit wings needed to be similar process had to be optimized to
+to the forward fit. In addition, the minimize aircraft downtime and
+reinforcement kit weight could not to be possibly installed in MRO
+exceed 200 kilograms, since all facilities.
+added weight would have offset
+the benefit of the Sharklet device. In summary, the Sharklet retrofit
+is a significant multi-disciplinary
+The second major challenge was design challenge!
+to create a retrofit package that
+would be attractive and viable The demonstrator
+for customers. Therefore as a
+programme
+baseline, the retrofit package has
+been designed so that the aircraft
+retrofit embodiment time would Airbus launched a demonstrator
+be minimized and the impact on programme (figure 3) in order to
+structural fatigue be reduced. support the design and development
+of the Sharklet retrofit solution by
+running a series of realistic trials
+for the modification.
+The advantage of demonstrator
+programmes is to offer a retrofit
+solution based on feedback gained
+from realistic trials, matching a
+similar scenario that could be
+found in an MRO organisation
+environment. Therefore, Airbus’
+design department was able to
+deliver a design solution based
+on the feedback received, which
+worked in theory and in practice
+(figure 4), either at a customer’s
+and/or in MRO facilities.
+15
+TSAF
+Trials on a scrap wing
+at Airbus Filton (U.K.)
+Figure 3
+MSN1 during working party
+Figure 4
+14
+15
+TSAF
+A320 FAMILY SHARKLET RETROFIT - HUNTING DOWN FUEL BURN
+The demonstrator programme PHASE 2:
+was split into three embodiment
+phases, using scrap aircraft wings The phase 2 aimed for further
+to realistically test the embodiment assessing and confirming the
+design (figure 5) at various stages retrofit embodiment strategy.
+of the design development: This trial supported the detailed
+design of the retrofit modifications
+THE THREE PHASES and tooling design. During the
+series of tests, the design team
+PHASE 1: have further investigated and
+refined the system’s removal,
+During this trial, Airbus’ engineers skin reinforcement and bathtub
+have used half a scrap wing. They installation. In addition, Airbus has
+have disassembled the outer wing, taken the opportunity to test new
+investigated the reinforcement technologies including a hand held
+methods and tested the outer wing accurate geometry laser scanner
+(bathtub) installation. This phase and an e-drill.
+has provided the design team with
+valuable feedback in relation to PHASE 3:
+the operator’s access, structural
+constraints and the embodiment This phase of the embodiment
+steps. trial demonstrated the embodiment
+strategy by realistically simulating
+the Sharklet retrofit using tools
+and representative kit parts on a
+complete aircraft. This trial has
+been timed to allow an accurate
+assessment of the downtime
+The Sharklet retrofit wing
+required for customers to retrofit
+reinforcement parts
+their aircraft with Sharklets.
+Figure 5
+Lower Cover:
+Replaced skin Rib 25 outboard
+new Stringer sections
+Upper Cover:
+Redesigned with increased
+thickness and optimized
+stringer geometries
+Rib 27:
+Indentical to foward fit
+Spars:
+Replaced from Rib 24,
+includes crack stopper
+Rib 23 to 26:
+Replaced
+15
+A320 FAMILY SHARKLET RETROFIT - HUNTING DOWN FUEL BURN
+15
+TSAF
+The retrofit kit
+Based on the wing reinforcement (cid:201)(cid:1)(cid:1)Outer wing reinforcements,
+strategy, the retrofit kit includes: including stringer reinforcements
+(cid:201)(cid:1)(cid:1)Sharklets, and outer wing joining parts,
+(cid:201)(cid:1)(cid:1)New outer wing assemblies (cid:201)(cid:1)(cid:1)Retrofit embodiment tooling,
+including the Sharklet (cid:201)(cid:1)(cid:1)Supporting methodology for
+attachment ribs and a new top airlines and MRO organisations
+The Sharklet retrofit kit skin from position 21 to 27, to be able to install the retrofit
+package.
+Figure 6
+A B
+C D
+A: Stringer reinforcement
+B: Sharklet
+C: Top cover
+D: Bathtub
+CONTACT DETAILS
+Simon GALPIN François HUGO
+Head of Airframe Development Sharklet Retrofit Engineering
+Sharklet Retrofit Project Coordination Manager
+Airbus Operations Airbus S.A.S.
+Tel: +44 (0)117 936 7517 Tel: +33 (0)5 62 11 81 37
+simon.galpin@airbus.com francois.hugo@airbus.com
+Conclusion
+Thanks to improved aerodynamics, and the aircraft downtime must be
+Sharklet-equipped aircraft will benefit from reasonable in order for the solution to be
+(but not only) reduced fuel burn, lowered interesting for the airlines. Airbus’ engineers
+CO emissions and additional passenger have undertaken a long and complex set
+2
+revenue potential. of trials in order to adapt the Sharklets to
+The Sharklet retrofit project is the result a retrofit solution and to empirically test the
+of Airbus engineers’ work. Adapting retrofit approach. To date, the project has
+the Sharklet solution to a retrofit situation succeeded in facing the challenges.
+is not an easy task due to technical Available for the A319 and A320 aircraft
+and operational constraints. The wing in the first phase, and the A321 at a later
+reinforcement must be light enough to not stage, the first Sharklet-retrofitted aircraft
+downgrade the performance improvement is expected to enter into service mid 2014.
+16
+15
+TSAF
+WIDESPREAD FATIGUE DAMAGE - A300B: COMPLIANCE TO THE AGEING AIRCRAFT REGULATION
+Widespread Fatigue
+Damage
+A300B: Compliance with ageing
+aircraft regulation
+In April 1988, an ageing aircraft suffered major The aviation regulation evolved over the last 20
+structural damage to its pressurized fuselage, due years, and the latest WFD regulation is effective
+to undetected fatigue cracking of the primary from 14th January 2011.
+structure. These cracks, at multiple structural Additional activities have been carried out by
+locations, grew and linked up quickly to cause Airbus in 2012 to demonstrate its compliance
+sudden failure of a large section of the fuselage. with this latest aviation regulation.
+Airbus decided then to significantly invest in the It has led to the creation of eight new maintenance
+assessment, for over 15 years, of the A300B’s tasks (four new inspections and four new
+airframe structure and define the necessary modifications), which have to be implemented in
+maintenance actions. The results of this initial the aircraft operators’ maintenance programmes,
+Widespread Fatigue Damage (WFD) assessment starting in July 2013.
+were published in 2003, in the frame of the The operation of the A300B is ensured for the
+Extended Service Goal (ESG) study. decades to come, leading the path for Airbus’
+entire fleet.
+Nicolas TURREL Didier AURICHE
+Structure Analysis Aircraft Airframe & Installation
+Policies & Programmes Airworthiness
+Airbus S.A.S. Airbus S.A.S.
+17
+Circumferential joints and
+Stringers (MSD/MED)
+Latches and Hinges of
+Non-plug Doors (MSD/MED)
+Stringer to Frame
+attachments (MED)
+Shear Clip End Fasteners
+on Shear Tied Fuselage Frames
+(MSD/MED)
+Longitudinal Skin Joints, Frames,
+and Tear Straps (MSD/MED) Fuselage Frames
+(MED)
+15
+TSAF
+WIDESPREAD FATIGUE DAMAGE - A300B: COMPLIANCE TO THE AGEING AIRCRAFT REGULATION
+Fatigue cracking of Widespread
+metallic structures Fatigue Damage
+phenomenon
+As the aircraft accumulates Flight
+Cycles (FC) or Flight Hours (FH), WFD is characterized by the
+Crack initiation from a fastener cracks may initiate in fatigue presence of multiple cracks at
+hole (Airbus test specimen) sensitive areas (figure 1). adjacent locations over large
+Appropriate inspections and struc- areas (figure 2). Adjacent cracks
+Figure 1
+tural modifications are defined may interact with each other and
+and implemented in the operators’ coalesce in longer cracks (i.e.:
+maintenance programme to main- Small cracks coalesce when they
+tain the structural strength of the grow up to the point that they
+airframe throughout the service life form a single long crack - Multiple
+of the aircraft. Site Damage) in a relatively short
+period.
+Example of structures susceptible
+to WFD as per FAA regulation
+Figure 3
+MSD: Multiple Site Damage
+MED: Multiple Element Damage
+18
+Skin at Runout of Large Doubler
+Fuselage, Wing or Empennage (MSD)
+Abrupt changes in Web or Skin
+Thickness - Pressurized or
+Unpressurized Structure (MSD/MED)
+Aft Pressure Dome Outer Ring
+and Dome Web Splices
+(MSD/MED)
+Window Surround Structure
+(MSD/MED)
+Rib-to-Skin Attachments
+(MSD/MED)
+Typical Wing and Empennage
+Construction (MSD/MED)
+Wing or Empennage Over-Wing Fuselage
+Chordwise Splices (MSD/MED) Attachments (MED)
+15
+TSAF
+WIDESPREAD FATIGUE DAMAGE - A300B: COMPLIANCE TO THE AGEING AIRCRAFT REGULATION
+Similarly, the presence of cracks best approach against this phenom-
+in multiple elements (Multiple enon is to preclude it. To do so,
+Element Damage) may reduce the structure susceptible to WFD
+the residual strength capability of (figure 3) shall be modified or
+the structure. The use of Non- replaced early enough in service, to
+Destructive Techniques (NDT) to avoid the WFD to occur throughout
+find small cracks over large areas the service life of the aircraft, up to Multiple Site Damage (MSD)
+inspected may not be a reliable and the Limit Of Validity (LOV). evidence from a tested structure
+effective solution in service, com-
+Figure 2
+pared to laboratory conditions for In structural areas where inspec-
+the tear down of a test specimen. tions are shown to be reliable, an
+inspection phase may be imple-
+Due to these specificities, the FAA mented before the modification is
+(Federal Aviation Authority) and applied.
+industry groups concluded that the
+19
+15
+TSAF
+WIDESPREAD FATIGUE DAMAGE - A300B: COMPLIANCE TO THE AGEING AIRCRAFT REGULATION
+Ageing aircraft (cid:201)(cid:1)(cid:1)1998: Amendment of the FAA
+regulation requiring at least two
+regulation
+life-time Full-Scale Fatigue
+Tests (FSFT) as part of new
+In response to the April 1988 issue, Type Certificate (TC) and the
+the FAA sponsored a conference establishment of an operational
+on ageing aircraft and established a limit. This rule was used
+task force representing the interests to certify the A380 model.
+of the operators, aircraft manu- (cid:201)(cid:1)(cid:1)2010: Issuance of the FAA
+facturers, regulatory authorities WFD regulation requiring
+and other aviation representatives. the establishment of a Limit
+This task force, which became the Of Validity (LOV) and service
+Airworthiness Assurance Working actions required to preclude
+The standards defined since more Group (AAWG), specifically rec- the WFD from the fleet.
+than 10 years in the frame of the ommended the establishment of (cid:201)(cid:1)(cid:1)The equivalent EASA (European
+A300/A310 Family life extension an ageing aircraft programme to Aviation Safety Agency) rules
+and compliance to the WFD address long-term ageing airwor- on the WFD are expected to be
+regulation in 2012, have already thiness issues in aircraft structures. issued in 2013.
+benefitted the assessment of the The Widespread Fatigue Damage
+WFD for the metallic structures (WFD) was part of these issues. The WFD regulation is the latest
+of all the other Airbus aircraft
+step of the evolution of fatigue and
+programmes.
+The main milestones addressing damage tolerance regulations since
+the 1950s. The development of the
+WFD were (figure 4):
+regulation is shown on the timeline
+(cid:201)(cid:1)(cid:1)1993: Voluntary commitment
+(figure 5), with the retrospective
+by the aircraft manufacturers
+application of WFD regulation to
+to perform a structural evaluation
+the already certified aircraft.
+for WFD on the models
+certified before the introduction
+Main milestones addressing of damage tolerance.
+Widespread Fatigue Damage
+Figure 4
+Nov FAA publishes final rules for Widespread Fatigue Damage
+2010 FAR §25-132 and FAR §26-5 Subpart C / FAR §121
+FAA initial rules for Widespread Fatigue Damage
+1998
+FAR §25-96
+Voluntary commitment by manufacturers
+1993
+to perform WFD assessment
+1988 An aircraft suffered major structural damage
+Operational rule
+Rule affecting manufacturers
+Event
+20
+Fail Safe
+Damage Tolerance
+CAR 4b.270
+Amdt 25-45
+in 1956
+in 1978
+Full-Scale Fatigue Test
+FAR Amdt 25-96
+§25.571 in 1998 LOV (WFD)
+Amdt 25-132
+in 2011
+Safe Life
+CAR recodified
+to FAR in 1964
+FAR
+§26.21
+LOV (WFD) to be retrofitted to already certified aircraft
+1950’s 60’s 70’s 80’s 90’s 00’s 2010’s
+Full-Scale Fatigue Tests
+Voluntary Airbus
+WFD analysis
+activities
+15
+TSAF
+WIDESPREAD FATIGUE DAMAGE - A300B: COMPLIANCE TO THE AGEING AIRCRAFT REGULATION
+Timeline of Fatigue & Damage Tolerance
+and WFD evolutions since the 1950’s
+Figure 5
+Amdt: Amendment
+CAR: Civil Air Regulations
+FAR: Federal Aviation Regulations
+LOV: Limit Of Validity Regulation
+WFD: Widespread Fatigue Damage Main concepts
+Assessment
+for Widespread
+Airbus family fleet, from the A300/
+Fatigue Damage
+A310 Family to the A380 today
+(figure 6), and tomorrow for the
+Even before the FAR §25.571 A350. This philosophy is aim-
+Amendment 96, requiring two ing to detect and ‘find a fix’ for
+life-time Full-Scale Fatigue Tests any fatigue cracking issue before
+(FSFT), Airbus’ philosophy was it occurs in service. These tests
+to anticipate it. Airbus has always constitute the corner stone of the
+performed extensive FSFT on each assessment for WFD.
+FSFT performed on each Airbus aircraft
+programme since 1970's - here for the A380
+Figure 6
+21
+TITLE TITLE - SFATIGUEUB-TITLE SUB-TITLE
+15
+TSAF
+WIDESPREAD FATIGUE DAMAGE - A300B: COMPLIANCE TO THE AGEING AIRCRAFT REGULATION
+22
+15
+TSAF
+Airbus initiated activities on the performed to reach an agreement
+WFD phenomenon in the early on Airbus’ means to show
+1990s. Simulations of multiple compliance to this regulation for
+cracking scenarios have been all Airbus aircraft.
+developed to predict the initiation
+and propagation of cracks in the Thanks to this anticipation
+airframe structures susceptible to philosophy, there has been no
+WFD. evidence of WFD findings on
+On top of the Full-Scale Fatigue Airbus aircraft in service, so far.
+Tests (FSFT), a wide range of Furthermore, the establishment
+coupon to component tests were of a LOV (Limit Of Validity) of
+performed to support and validate the maintenance programme, as
+these method developments. requested by the WFD regulation
+published in 2010, is already in
+Evidence of WFD situations have place for almost 10 years on all
+been experienced on longitudinal Airbus aircraft.
+and circumferential joints during
+the fuselage barrel and FSFT.
+WFD regulation
+These cases allowed calibrating
+the assessment methods used compliance for the
+afterwards to design and certify
+Fast 45 - Extended Service Goal A300B aircraft
+structures. Serial and retrofit
+article
+modifications were also defined
+and implemented on the A300/ An assessment for the WFD was
+A310 Family. already performed on the A300/
+A310 Family fleet as part of the
+In 2011, following the issuance of ESG (Extended Service Goal)
+the WFD regulation, Airbus has activities (FAST 45), prior to the
+ii n f o r m a t i o n developed a dedicated structure FAR §26.21 issuance.
+analysis policy, addressing all The assessment included specific
+Steps of the WFD evaluation: steps of the WFD evaluation in analysis, supported by additional
+detail (see steps in the side box), coupon and panel tests, tear-
+1) I dentify structures
+in order to ensure a consistent down of retired high time aircraft,
+susceptible to WFD
+approach for the entire airframe, and additional tear-down of the
+2) P redict when WFD
+throughout the Airbus programmes. original certification Full-Scale
+is likely to occur
+A collaborative work with Fatigue Test specimen.
+3) E stablish appropriate
+the EASA and FAA has been
+maintenance actions
+to preclude WFD
+dd e f i n i t i o n s
+DDeessiiggnn SSeervice Goal (DSG): Extended Service Goal (ESG): Limit Of Validity (LOV):
+The reference figure used for design An extension of the DSG, providing The period of time during which it
+and justification for Type Certification. five to six additional years’ service. is demonstrated that the WFD will
+It reflects the utilisation of the aircraft The ESG exercise for Airbus’ aircraft not occur on the aircraft structure.
+model for about 20-25 years of the typically includes in-service fleet Airbus historically introduced a LOV in
+expected aircraft service. experience, analysis supported by its maintenance programmes before
+new development tests and the WFD the issuance of the WFD regulation,
+assessment. applicable to the engineering data that
+supports the structural maintenance
+programme.
+22
+23
+15
+TSAF
+WIDESPREAD FATIGUE DAMAGE - A300B: COMPLIANCE TO THE AGEING AIRCRAFT REGULATION
+Additional evaluations were (cid:201)(cid:1)(cid:1)Identification, development
+required and carried out by Airbus and notification to the operators
+to be fully in line with FAR §26.21. of the additional required
+A complete set of engineering data maintenance actions to preclude
+supporting the assessment has been the WFD.
+provided by Airbus to the FAA in
+the first half of 2012 to comply This assessment for FAR §26.21
+with the FAR §26.21. The outcome led to the creation of eight new
+of the FAR §26.21 compliance is maintenance tasks (figure 7),
+the: which have to be implemented in
+(cid:201)(cid:1)(cid:1)Validation of the LOV the aircraft operators’ maintenance
+(established for life extension) programmes, starting July 2013.
+in the frame of the WFD
+assessment,
+Number of maintenance actions created after compliance
+with FAR §26.21 to reach the LOV
+Figure 7
+TYPE LOV ESG (2003) WFD (2012)
+A300-B2-1C
+A300-B2K-3C 60,000 FC
+A300-B2-203
+1 MSB (2013)
+37 tasks 4 inspections 1 MSB (2014)
+created created 1 MSB (2021)
+A300-B4-2C 1 MSB (2037)
+A300-B4-103 ESG: Extended Service Goal
+A300-B4-120 57,000 FC FC: Flight Cycle
+A300-B4-203 LOV: Limit Of Validity
+A300-B4-220
+MSB: Modification Service Bulletin
+WFD: Widespread Fatigue Damage
+CONTACT DETAILS
+Nicolas TURREL Didier AURICHE
+Structure Analysis Aircraft Airframe & Installation
+Policies & Programmes Airworthiness
+Airbus S.A.S. Airbus S.A.S.
+Tel: +33 (0)5 61 18 98 45 Tel: +33 (0)5 61 93 48 23
+nicolas.turrel@airbus.com didier.auriche@airbus.com
+Conclusion
+Airbus has already acquired 15 years Since 31st August 2012, the A300B
+of experience assessing Widespread is the first Airbus aircraft to be compliant
+Fatigue Damage (WFD), and more than with the WFD regulation. The work achieved
+20 years knowledge of this phenomenon. sets the standards of approach and
+Airbus’ approach, including the Full-Scale methods to be followed in the next years for
+Fatigue Tests and the establishment the entire Airbus Family, including any new
+of the Limit Of Validity (LOV) in the Type Certification (TC) to come.
+maintenance programme, should allow It leads the path for the future compliance
+a smooth transition towards compliance of all Airbus aircraft programmes.
+with the WFD regulation.
+23
+15
+TSAF
+OPTIMIZED SPARE PARTS INVESTMENT - INITIAL PROVISIONING INFLUENCING A350 XWB DEVELOPMENT
+Optimized spare parts
+investment
+Initial Provisioning influencing
+A350 XWB development
+The development of future aircraft models is One such initiative is the optimization of high
+challenged by technological, logistical and value spares’ investments. For the A350 XWB
+economical demands as well as the customers’ (Extra Wide Body), Airbus has implemented
+specific expectations. However, the development an enhanced process to set up a new spare part
+and production phase is not the only challenge recommendation forecast at an earlier stage of
+an aircraft manufacturer faces today. Following aircraft development, to ensure that spares-related
+the Entry-Into-Service (EIS) of a new aircraft, criteria influence design requirements. Therefore,
+a close customer relationship with a high level spares specific Top Level Aircraft Requirements
+of trust must be established and maintained. (TLAR) were implemented to reduce the
+The introduction of lifecycle support initiatives, investment costs whilst ensuring continuous
+to ensure highly efficient operating costs, is operating and maintenance improvements.
+fundamental in achieving this.
+Stefan TRINKER Daniel SCHWARZER
+Integrated Provisioning Services Integrated Provisioning Services
+Project Manager Material & Logistics Engineer
+New Programmes IP Airbus Operations
+Airbus Operations
+24
+15
+TSAF
+OPTIMIZED SPARE PARTS INVESTMENT - INITIAL PROVISIONING INFLUENCING A350 XWB DEVELOPMENT
+A350 XWB Initial Based on the baseline assumptions
+for IP, a Recommended Spare
+Provisioning cost
+Parts List (RSPL) can be compiled
+reduction to determine the typical fleet IP
+investment. The RSPL provides
+the total recommended investment
+Airbus’ A350 XWB Initial Provi- for all Seller Furnished Equipment
+sioning (IP) initiative defines all (SFE) and Line Replaceable Units
+the targeted aircraft and component (LRUs) installed on the fleet
+performances that impact IP costs, (excluding engine, Ground Support
+as well as Cost Of Ownership Equipment (GSE) and tools).
+(COO). By feeding this spares
+relevant information into the For the A350 XWB, highly custo-
+Top Level Aircraft Requirements mized airline differentiation parts
+(TLAR) during an earlier stage such as In-Flight Entertainment
+of the A350 XWB development, (IFE) and seats are handled through
+it ensures that the targets are met a new supplier support agreement
+throughout the design process named ACS (Airbus Contracted
+and mature data can be cascaded Supplier).
+towards the suppliers in the
+designated specifications and in Due to the ‘ACS Selection
+accordance with the contractual Agreement’, the customer has the
+agreements. advantage of being responsible for
+selecting the ACS, the product
+For new aircraft programmes, it and its features in accordance with
+is challenging to estimate the IP the relevant Aircraft Description
+budget owing to a lack of in-service Document (ADD) customization
+data and experience from new sections, whilst Airbus has the
+cutting edge technologies. For the contractual assurance of quality,
+A350 XWB, Airbus therefore uses on-time delivery and installation
+experience in operational support of these ACS parts. For a complete
+to set a standardized and verified data set, ACS parts will be listed
+baseline against a similar twin- within A350 XWB Recommended
+engine aircraft with similar long Spare Parts Lists, but because
+range operational requirements: customers negotiate directly with
+The A330-300. This baseline was ACSs, Airbus desists from any
+defined as a typical 10-aircraft recommendations.
+fleet of A330-300s with identical
+standard configurations and typical The total investment target defined
+utilisation parameters. in the TLAR for an A350 XWB
+fleet will be reduced by around
+5% compared to one composed of Description of the ACS
+A330-300. contractual relationship
+Figure 1
+(cid:42)(cid:92)(cid:90)(cid:91)(cid:86)(cid:84)(cid:76)(cid:89)
+ACS Selection Aircraft Purchase
+Agreement Agreement
+The Purchase Agreement
+remains between
+Airbus and the customer
+(cid:40)(cid:42)(cid:58)(cid:3)(cid:15)(cid:90)(cid:92)(cid:87)(cid:87)(cid:83)(cid:80)(cid:76)(cid:89)(cid:16) ACS contact (cid:40)(cid:80)(cid:89)(cid:73)(cid:92)(cid:90)
+25
+15
+TSAF
+OPTIMIZED SPARE PARTS INVESTMENT - INITIAL PROVISIONING INFLUENCING A350 XWB DEVELOPMENT
+The global investment has been This new AESS detects possible
+broken down into individual external dangerous factors that can
+targets per ATA (Air Transport have an impact on the aircraft’s
+Association) chapter. With the flight path and reports them on
+A350 XWB’s advanced techno- one single device. Safety relevant
+logies, a number of systems feature factors include weather conditions
+new designs, functions or materials. or terrain proximity.
+CPIOM reduced from three to two Therefore, they also have different
+on the A350 XWB programme performances compared to current HOW IP CAN INFLUENCE PART
+technologies, with a direct impact DEVELOPMENT
+on the required investment. For
+this reason each ATA chapter has For the A380, as well as the
+been monitored by the A350 XWB upcoming A350 XWB, a new
+CPIOM-H
+CPIOM-J
+p
+th
+r
+e
+o g
+ta
+ra
+rg
+m
+e
+m
+t.
+e management to meet I
+(I
+n
+M
+te
+A
+gr
+)
+a
+c
+t
+o
+e
+n
+d
+c ep
+M
+t h
+o
+a
+d
+s
+u
+b
+l
+e
+a
+e
+r
+n de
+A
+v
+v
+e
+i
+l
+o
+op
+n
+e
+ic
+d
+s
+.
+In contrast to conventional
+AN EXAMPLE WITH ATA 34 avionics, the IMA principle is to
+- NAVIGATION CHAPTER provide shared hardware resources
+for computing and communication
+An example (shown in figure 3) in functions. The Core Processing
+achieving the reduced IP investment Input/Output Module (CPIOM), as
+targets is the re-engineering of part of the IMA, hosts avionics’
+the environmental surveillance applications and processes data to
+functionality. In comparison to the execute avionics’ functions. These
+A330-300 IP baseline, consisting CPIOMs are spread between two
+of several individual reporting configuration types: H & J. They
+systems, the A350 XWB features a differ in their definition of physical
+highly reliable, integrated Aircraft interfaces; CPIOMs of the same
+Environment Surveillance System cluster can be exchanged without
+(AESS) with fewer components. the need of a software upload.
+A350 IP target cost objective
+The initial engineering feasibility
+Figure 3
+study for the A350 XWB proposed
+an uneven distribution between
+these two CPIOM models with
+an effective outcome of three
+recommended spare modules per
+aircraft.
+AA333300--330000 ssttaannddaarrdd NNeeww AA335500 XXWWBB ssttaannddaarrdd Due to the new spares’ TLAR
+settings, this distribution has been
+re-analysed with the conclusion
+Atmosphere data
+Weather radar system that an even distribution could
+reduce the amount of recommended
+Aircraft modules, reducing the investment
+In-air traffic data /Air Traffic Control (ATC) Environment by one third.
+Traffic Collision Avoidance System (TCAS) Surveillance
+System
+(AESS)
+Terrain data
+Around 30%
+Ground Proximity Warning Computer (GPWC) IP investment savings
+due to one single system interface
+26
+selahT
+fo
+ysetruoC
+15
+TSAF
+OPTIMIZED SPARE PARTS INVESTMENT - INITIAL PROVISIONING INFLUENCING A350 XWB DEVELOPMENT
+A350 XWB facilitated the validation and
+verification process amongst
+general
+stakeholders (figure 4/[A]). For
+development the A350 XWB, all contracted
+ii n f o r m a t i o n
+suppliers are now obliged to send
+and IP
+preliminary LRU information TThhee MMaatteerrrriiaal Readiness Conference
+as well as their updates. These (MRC) is part of a comprehensive
+In comparison to previous aircraft Maintenance Maintainability Material Readiness Roadmap (MRR)
+programmes, the IP target cost for Evaluations (MME) documents helping to prepare a smooth Entry-
+Top Level Aircraft Requirements are verified and used for initial Into-Service for each customer.
+(TLAR) of the A350 XWB has recommendation calculations. The MRC represents a combined
+been implemented during an early Once the Critical Design Review meeting between customers,
+stage of development. Due to this (CDR) has been successfully top-tier-suppliers and Airbus to
+early integration, spares’ criteria passed, all RSPL-relevant part present and discuss all potential
+such as the IP investment can now attributes are contractually fixed Initial Provisioning related topics in
+be handled as design requirements (figure 4/[B]). detail with special attention to Line
+for the A350 XWB. Replaceable Units which account
+Because new technological devel- for roughly 80% of the investment
+VALIDATION AND VERIFICATION opments and highly integrated value, although they only represent
+ENSURES A SUCCESSFUL MATERIAL aircraft components are usually 20% of recommended spare parts.
+READINESS CONFERENCE impacted by a variety of changes,
+a high number of modifications are
+The analysis of spare part pro- to be expected.
+visioning for the A330-300 has
+identified the parts which have the Airbus must secure validated sup-
+greatest impact on the IP target cost plier information to support the
+of system and cabin related Line Material Readiness Conferences
+Replaceable Units (LRU). with customers (figure 4/[C]). For
+this target, Airbus has to approve
+The A330-300 is used as a supplier offers according to the
+reference to represent the basic Supplier Support Conditions
+quantity of expected vendor parts (SSC) agreements prior to the first
+for the A350 XWB Recommended Material Readiness Conference.
+Spare Parts List (RSPL), including These SSC contracts are regulat-
+nacelle components. Engineering ing the main spares’ provisioning
+and operability expertise gained related items (e.g.: commercial and
+over previous programmes has technical deliverables). Milestones for an aircraft
+development
+Figure 4
+Entry
+Product idea: Feasibility End Design
+Into
+A350 XWB agreement of concept freeze
+Service
+Integration
+Feasibility Concept Design
+and qualification
+A B C
+Milestones spares provisioning
+Setting of TLARs
+A
+and IP target cost document
+B Verification and validation
+Material Readiness
+C
+Conference (MRC)
+27
+Ensuring suppliers’
+deliverables
+For the A350 XWB’s advanced (cid:201)(cid:1)(cid:1)Guarantee early integration
+technologies, Airbus has con- and collaboration between
+tracted numerous new suppliers. Airbus and external A350 XWB
+A dedicated process has been set in stakeholders to consistently
+place to ensure that new suppliers maintains awareness of
+will be able to fulfil their contrac- deliverable deadlines, dates
+tual obligations regarding quality and formats,
+and delivering on time. (cid:201)(cid:1)(cid:1)Review the current status,
+discuss discrepancies,
+In addition to routine support
+change requests and organize
+measures (e.g. customized requests
+a homogenous way forward,
+on Part Number level, superior
+(cid:201)(cid:1)(cid:1)Communicate at the right
+maturity meetings, etc.), Airbus
+time with the people that are
+also conducts Initial Provisioning
+responsible for ensuring the
+workshops with suppliers to:
+expected results.
+15
+TSAF
+OPTIMIZED SPARE PARTS INVESTMENT - INITIAL PROVISIONING INFLUENCING A350 XWB DEVELOPMENT
+CONTACT DETAILS
+Stefan TRINKER Daniel SCHWARZER
+Integrated Provisioning Services Integrated Provisioning Services
+Project Manager Material & Logistics Engineer
+New Programmes IP Airbus Operations
+Airbus Operations Tel: +49 (0) 40 5076 1242
+Tel: +49 (0) 40 5076 2446 daniel.schwarzer@airbus.com
+Conclusion
+stefan.trinker@airbus.com
+In an ideal world the variety of information In detail, Airbus strived to optimize
+provided by suppliers, customers the spares’ provisioning process by using
+and the manufacturer can easily be spares specific Top Level Aircraft
+consolidated and used for validated spares’ Requirements as a design basis and also
+investment recommendation calculations. by introducing new ways of integrating
+But a high number of stakeholders stakeholders for data validation and
+and interfaces significantly increase verification. This promising new approach
+complexity. For this reason, Airbus decided will secure a higher maturity level
+to pursue a different strategy for the Initial of the Recommended Spare Parts List
+Provisioning development of the A350 XWB. for the first A350 XWB customers in 2013,
+with a smooth Entry-Into-Service.
+28
+15
+TSAF
+MANAGING AIRCRAFT SECURITY - A NEW CHALLENGE FOR THE AIR TRANSPORTATION COMMUNITY
+Managing aircraft
+security
+A new challenge for the air
+transportation community
+The most important topics for the air transportation These new functions require extended connectivity
+community today are safety and security. While between aircraft systems, the aircraft itself and the
+physical security threat management remains ground segments. Aircraft functions and ground
+a major challenge, the management of cyber dependent functions are more and more supported
+security is a new and growing objective for all by commercial off-the-shelf software, products
+stakeholders of the air transport industry. The new and technologies. To manage these potential new
+generations of aircraft integrate functions for crews threats, airworthiness authorities have set specific
+and passengers that rely on Information Systems obligations for aircraft manufacturers.
+(IS) that could be targeted by cyber threats.
+Pascal ANDREI Gernot LADSTAETTER Isabelle DUFEU
+Head of Aircraft Security Head of Aircraft In-Service Aircraft Security
+Airbus S.A.S. Security Special Projects Manager
+Airbus S.A.S. Airbus S.A.S.
+29
+MANAGING AIRCRAFT SECURITY - A NEW CHALLENGE FOR THE AIR TRANSPORTATION COMMUNITY
+15
+TSAF
+Setting the picture Evolutions of the legacy pro-
+grammes towards more connec-
+tivity and more IT (Information
+Everybody knows about traditional
+Technology) on board-based
+threats and how the diversity and
+solutions are assessed by a
+increasing intensity of malicious
+dedicated aircraft security orga-
+acts may target aircraft or
+nisation to ensure that aircraft
+passengers (figure 1). Regularly,
+security is not jeopardised.
+press articles relate cyber attacks
+against air/ground communication
+Aircraft safety
+systems, or increasing numbers of
+laser cockpit illuminations reported versus aircraft
+by airlines.
+security
+All Airbus aircraft, by design,
+are compliant with their own To avoid any misunderstanding,
+applicable requirements. Airbus it is key to cover the scope and
+has demonstrated through design, definitions:
+activities and processes that the
+airworthiness authorities’ security Aircraft security:
+requirements are fulfilled for the Concerns the prevention of
+whole aircraft lifecycle. For the deliberate malicious acts that
+A350, experiences from the A380 may affect the aircraft and/or the
+as well as industry standardisation passengers (hacking, malicious
+activities have been used to ensure code, unruly passenger, hijacking,
+streamlined security solutions. explosive devices, etc.).
+Aircraft safety:
+Concerns the reduction and control
+Potential source of treats of risks associated with aircraft
+operations to an acceptable level.
+Figure 1
+Information system
+threat vectors
+Physical security threats Terrorist, hijacker,
+unruly passenger, stowaway
+SATCOM
+Satellite IED, EMI,
+NRBC agents
+Communication
+Passengers
+Aircraft theft Gatelink (Plugs & Wi-Fi)
+on ground (wireless) Ground threats
+sabotage ACARS
+Wide area (HF VHF Satcom)
+Network/Internet
+Airport
+Air/Ground link Service provider
+networks
+Local area
+network
+Air navigation Maintenance Airline Passenger
+Manufacturer
+operation operations operations services
+ACARS: Aircraft Communication Addressing and Reporting System / EMI: Electromagnetic Interference / HF: High Frequency
+IED: Improvised Explosive Device / NRBC agents: Nuclear Radiological Biological Chemical / SATCOM: Satellite Communication
+VHF: Very High Frequency / Wi-Fi: Wireless Fidelity
+30
+15
+TSAF
+MANAGING AIRCRAFT SECURITY - A NEW CHALLENGE FOR THE AIR TRANSPORTATION COMMUNITY
+Physical security
+Examples of physical security features
+features
+Figure 2
+One of the physical security
+The reinforced cockpit door is a mandatory feature for all aircraft
+concerns is to protect the aircraft
+and its passengers by deterring or
+preventing non-authorized people
+from particularly sensitive areas of
+the aircraft.
+It addresses a large scope of poten-
+tial threats, including:
+(cid:201)(cid:1)(cid:1)Aircraft seizure for blackmail
+purposes or for use as a weapon,
+(cid:201)(cid:1)(cid:1)The use of Improvised Explosive
+Devices (IED) or incendiary
+devices taken on board,
+(cid:201)(cid:1)(cid:1)Aircraft sabotage on ground
+(unsecured aircraft and/or
+The privacy door is an option proposed to airlines on wide-body
+unsupervised parking stands), aircraft to create a secondary barrier to the cockpit area
+(cid:201)(cid:1)(cid:1)Aircraft ground attack
+(MANPADS, laser, etc.),
+(cid:201)(cid:1)(cid:1)Contamination of crew and
+passengers with biological
+or chemical agents,
+In figure 2, you will find some of
+the security features that have been
+developed and implemented to
+answer the operators’ needs over
+and above regulatory standards,
+to mitigate physical threats such
+as unruly passengers, hijackers,
+sabotage, etc.
+Cockpit Door Surveillance System (CDSS)
+Camera
+Camera
+Keypad
+Camera
+The Emergency Call Alerting System (option)
+may be used to alert the cockpit in case
+of an incident in the cabin
+31
+MANAGING AIRCRAFT SECURITY - A NEW CHALLENGE FOR THE AIR TRANSPORTATION COMMUNITY
+15
+TSAF
+Also, modifying current designs A typical example of cyber
+can facilitate routine security tasks threats that can be generic or very
+such as cabin searches (figure 3). specific to an aircraft function is a
+malicious code specifically crafted
+This activity also covers research to infiltrate or damage a system,
+projects (examples in figure 4) in software or equipment (viruses,
+Overhead luggage compartment
+order to anticipate the evolution worms, Trojan horses, backdoors,
+design modification to facilitate
+Fcaigbuinre s 3earches using a mirror of threats, to answer operator spyware, etc.). As a result, the need
+needs and to continuously improve of protection of Field Loadable
+Figure 3 current solutions. Software against corruption is
+paramount.
+Cyber security The cyber threat is inherent to IT
+systems, and may lead to successful
+threats
+intrusions on systems with restricted
+accesses (unauthorized system
+Cyber security concerns the access: Information modification
+protection of the aircraft Infor- or destruction, corruption of data,
+mation System, the aircraft/ etc.) with potential consequences
+ground segments and aircraft-to- on aircraft safety, Operational
+aircraft communication against Reliability or the airline’s brand
+electronic threats. The threats and image.
+considered are human actions
+(purposeful, casual or accidental Security standards
+actions) using unauthorized access
+leading to disclosure, corruption or
+Airbus ensures that its aircraft are
+destruction of information.
+designed, manufactured, produced
+This type of threat covers various
+and delivered in accordance with
+areas of on-ground and/or in-flight
+all applicable security legislation
+communications systems:
+and regulations.
+(cid:201)(cid:1)(cid:1)Shipment of software from
+ICAO started addressing avia-
+suppliers to Airbus,
+tion security explicitly at the
+gg l o s s a r y (cid:201)(cid:1)(cid:1)Maintenance connectivity
+1963 Tokyo Convention, and
+(portable data loaders,
+AACCAARRSS:: AAiirrcraft Communication continues to develop standards
+troubleshooting equipment,
+Addressing and Reporting System and recommended practices as
+USB key, IT cards, etc.),
+HF: High Frequency set out in Annex 17. In 2001,
+(cid:201)(cid:1)(cid:1)Aircraft/ground wireless
+IS: Information System the menace changed in terms of
+links (Gate-link, telephony,
+IT: Information Technology nature and intensity. In the wake
+WIFI, etc.),
+SATCOM: Satellite Communications of the 9/11 events, the aeronautical
+(cid:201)(cid:1)(cid:1)Aircraft/ground connectivity
+USB: Universal Serial Bus community realized that an aircraft
+(ACARS, HF, VHF, SATCOM,
+VHF: Very High Frequency can also be used as a weapon of
+etc.),
+WIFI: Wireless Fidelity mass destruction.
+(cid:201)(cid:1)(cid:1)Cabin links accessible
+These incidents generated reactions
+to passengers (cabin WIFI,
+from the air transportation
+plugs, etc.),
+community actors (aircraft manu-
+(cid:201)(cid:1)(cid:1)Etc.
+facturers, airlines, airports,
+Security research projects
+airworthiness authorities, etc.).
+Figure 4
+One of the first technical
+responses provided by the aviation
+Research on the use of biometry to improve aircraft access control for crew
+community was a regulation via
+mandatory requirements such
+as the reinforced cockpit doors
+(figure 2).
+Since then, many security features
+are now proposed to operators as
+options to complement the security
+of their fleet.
+32
+This first step has been followed International
+by a deep reflection on air
+collaboration
+transportation security in order
+to anticipate threats and mitigate
+efficiently the associated risks. All actors in the air transport
+industry (figure 6) must cooperate
+Security is a continuously evolving to define and orientate the air
+topic. For example, in December transportation security in a
+2006 the EASA asked Airbus to consistent manner by:
+create a dedicated organisation (cid:201)(cid:1)(cid:1)Sharing on threat definition
+to manage aircraft IS security (attack levels and impacts),
+activities. An aircraft security team (cid:201)(cid:1)(cid:1)Sharing on interoperating rules,
+has thus been structured and set (cid:201)(cid:1)(cid:1)Defining harmonized processes
+up for the Type Certification (TC) and methods for design,
+of the A380. Today, dedicated development and operation
+organisations are composed of of security features
+specialists and experts with dual (cid:201)(cid:1)(cid:1)Defining and validating roles
+competencies in Security and and responsibilities.
+Aircraft design, enabling them to All aircraft manufacturers
+address all security risks from an collaborate on a non-competitive
+end-to-end view. basis in order to enhance air
+transportation security.
+A ‘in-depth
+Airbus has developed its presence
+defence’ approach
+and credibility on an international
+level by proposing means to
+The security of the aircraft is comply with future regulations.
+based on the ‘in-depth security’ For example, Airbus actively
+principle. Instead of having one participates to several Standar-
+single barrier, different circled disation Bodies’ committees
+layers of defence are placed including but not limited to ECAC,
+(figure 5) between the threats and EUROCONTROL-SET, etc., in
+the aircraft (the aircraft itself being order to steer and coordinate the
+the very last line of defence). The development of aircraft security
+overall security depends on the technical standards and rules, and
+weakest link of the security chain also to promote Airbus’ vision on
+and the cooperation between all of air transportation system security
+the actors within this chain. issues.
+(cid:59)(cid:79)(cid:89)(cid:76)(cid:72)(cid:91)(cid:90)(cid:3)(cid:72)(cid:89)(cid:76)(cid:3)(cid:84)(cid:80)(cid:91)(cid:80)(cid:78)(cid:72)(cid:91)(cid:76)(cid:75)
+(cid:94)(cid:80)(cid:91)(cid:79)(cid:3)(cid:72)(cid:3)(cid:84)(cid:92)(cid:83)(cid:91)(cid:80)(cid:20)(cid:73)(cid:72)(cid:89)(cid:89)(cid:80)(cid:76)(cid:89)(cid:3)(cid:72)(cid:87)(cid:87)(cid:89)(cid:86)(cid:72)(cid:74)(cid:79)
+15
+TSAF
+MANAGING AIRCRAFT SECURITY - A NEW CHALLENGE FOR THE AIR TRANSPORTATION COMMUNITY
+gg l o s s a r y
+AANNSSPP:: AAiirr NNavigation Service
+Provider
+ASFP: Aircraft Security Focal Points
+ASUP: Aircraft Security User Panel
+ATM: Air Traffic Management
+AVSEC: Aviation Security
+EASA: European Aviation Safety
+Agency
+ECAC: European Civil Aviation
+Conference
+EUROCAE: European Organisation
+for Civil Aviation Equipment
+EUROCONTROL-SET: European
+Organisation for the Safety of Air
+Navigation - Security Evaluation
+Team
+IATA: International Air Transport
+Association
+ICAO: International Civil Aviation
+Organisation
+ICCAIA: International Coordinating
+Council of Aerospace Industries
+Associations
+NCI: National Critical
+Infrastructures
+SESAR: Single European Sky
+ATM Research
+WG: Working Group
+Different circled layers of defence
+Figure 5
+33
+MANAGING AIRCRAFT SECURITY - A NEW CHALLENGE FOR THE AIR TRANSPORTATION COMMUNITY
+Airbus chairs the EUROCAE Customer
+Working Group number 72 -
+collaboration
+‘Aeronautical Systems Security’,
+and is a major player of security is key
+in SESAR.
+Various topics are shared with The security management of
+government security agencies in-service aircraft must rely on
+such as the identification and a collaborative effort between all
+definition of threats (intelligence stakeholders. Airbus is committed
+sharing), validation of aircraft to helping airlines to maintain
+security levels, exchange of the security level of aircraft in
+expertise, recommendations for an evolving threat environment,
+new or improved security features, and aircraft operators also have
+awareness on Airbus aircraft to comply with their respective
+security, etc. All this includes regulations. As such, Airbus
+the collaboration with local performs a continuous monitoring
+governmental security agencies on of vulnerabilities that may affect
+an ad-hoc basis and with selected aircraft systems and informs
+international law enforcement aircraft operators immediately if a
+units. critical vulnerability is identified.
+International collaboration is a key Airbus meets regularly with its
+activity in order to set the global customers’ aviation security
+picture of the Air Transportation departments, either in bilateral
+Industry in a common and meetings or during a yearly
+consistent manner. conference called the Aircraft
+Security User Panel in order to
+discuss emerging threats and
+potential solutions.
+15
+TSAF
+Aircraft Security User Panel
+(ASUP)
+ASUP is a non-commercial
+conference that gathers Airbus
+operators security decision
+makers as well as key stake-
+holders of the air transportation
+community, in order to learn
+and exchange ideas on the
+implementation of effective and
+practical aviation security.
+The objectives of this panel are
+to:
+(cid:201)(cid:1)I(cid:1)nform aircraft operators about
+current and future Airbus
+features
+(cid:201)(cid:1)P(cid:1)rovide and collect feedback
+(cid:201)(cid:1)D(cid:1)evelop a common vision
+(cid:201)(cid:1)D(cid:1)etermine and prioritize
+customer expectations
+(cid:201)(cid:1)A(cid:1)ddress specific topics linked
+to future enhancements
+(cid:201)(cid:1)D(cid:1)evelop and animate
+a network of airlines’
+professionals
+Security actors of the air transport industry
+Governments
+Figure 6
+Reinforce
+Airbus position
+EADS and vision Regulators
+Enable
+Establish and
+stronger
+enhance synergies
+involvement
+& cooperation
+Steer and
+coordinate AAIIRRCCRRAAFFTT SSEECCUURRIITTYY Challenge
+development of IINNTTEERRNNAATTIIOONNAALL respond to
+aircraft security AA regulation
+Standardisation CCOOOOPPEERRAATTIIOONN Airworthiness
+management requirements
+Bodies Autorities (AA)
+standards
+Support Communicate
+in-service fleet Airbus position
+and security needs on security needs
+AiTS
+Airlines
+stakeholders
+34
+35
+15
+TSAF
+MANAGING AIRCRAFT SECURITY - A NEW CHALLENGE FOR THE AIR TRANSPORTATION COMMUNITY
+Risk management Airbus has developed a
+comprehensive and dedicated
+aircraft Security Management
+The implementation of new
+System based on recognized
+practices in risk management
+international ISO standards, and
+is a major challenge for the air
+transportation community today. also offers specific solutions ii n f o r m a t i o n
+for implementation, enhancing
+Whilst physical security threat
+the performance of operational Airbus provides a security
+management remains a large
+physical and cyber security by handbook to operators that
+activity, the management of
+providing: collects security procedures
+information system security is a
+(cid:201)(cid:1)(cid:1)Expertise in the management to complement the aircraft’s
+new and growing objective for
+of aviation security risks, technical security measures for
+all stakeholders. Airbus strongly
+(cid:201)(cid:1)(cid:1)Support for the implementation specific security risks. Ad-hoc
+recommends that all actors
+of security procedures, security procedures are issued via
+in the industry implement a
+(cid:201)(cid:1)(cid:1)Assistance in getting local dedicated information bulletins.
+comprehensive and standardized
+operational approval from Contact: ac_sec@airbus.com
+Security Management System
+airworthiness authorities.
+covering both physical and cyber
+security.
+CONTACT DETAILS Gernot LADSTAETTER
+Head of Aircraft In-Service Security
+Pascal ANDREI Airbus S.A.S.
+Head of Aircraft Security Tel: +49 (0)-40 7436 2682
+Airbus S.A.S. gernot.ladstaetter@airbus.com
+Tel: +33 (0)5 67 19 18 07
+pascal.andrei@airbus.com Isabelle DUFEU
+Aircraft Security - Special Project Manager
+Airbus S.A.S.
+Tel: +33 (0)5 62 11 07 60
+isabelle.dufeu@airbus.com
+Conclusion
+In the future, security and the associated throughout their lifecycle and the Airbus
+risk management systems will be security management system.
+confronted with increasingly complex, Airbus also invests in Research
+dynamic and smart threats targeting & Technology, in order to continuously
+multiple aspects such as people, provide up to date tailored solutions
+aircraft systems, operations or air traffic against future threats emerging from
+management systems. a constantly changing environment.
+In order to mitigate or eliminate the risk The global security of the aircraft also
+of such threats, the aircraft security requires international collaboration
+architecture and capabilities - technical between all the actors of the air
+and organisational - as provided by transportation chain, and Airbus was the
+Airbus enable operators to benefit first to provide a dedicated forum for its
+from a seamless and dedicated risk operators called the Aircraft Security User
+management system. Airbus aircraft Panel. Despite all the advances in terms
+designs incorporate integrated security of layered protection, the aircraft is and
+features that need to be maintained will always remain the last line of defence.
+35
+AIRPORT TAXIING - A NEW ERA RELIEVING ANIMALS
+15
+TSAF
+After the wehee-Taxi, the moo-Taxi, it is now time for the eTaxi.
+- “But what on Earth could that be? What does the “e” stand for
+and does it have anything to do with an elephant?
+- No, you’re cold.
+- An eagle?
+- Nice try, but try again.
+- An ermine?
+- Come on!
+- An electric eel?
+- Close, very close.”
+The ‘e’ stands for electriccc...
+The draught animals
+can leave for a deserved
+retirement. Thanks
+to eTaxi, taxiing
+on runways will be
+electrically operated
+saving considerable
+fuel loads
+and contributing
+to a reduction
+of CO emissions,
+2
+as explained
+in this FAST magaziiinnneee
+(article eTaxi: Page 2-1000))).
+Messerschmitt
+Me 163 Komet
+Fokker Dr.I
+36
+egatireH
+etaroproC
+SDAE
+fo ysetruoc
+serutciP
+All the FAST magazines
+are available free-of-access on: WWW.AIRBUS.COM/SUPPORT/PUBLICATIONS
+We hope that you have enjoyed
+yourselves in answering this quiz
+and thank you again for your
+encouragements and interest
+in FAST magazines!
+The 50 winners will be drawn
+and will soon receive their Airbus
+giveaway prize.
+Answers
+to the FAST 50 magazine quiz
+1) When was the first FAST magazine published? 6) Which system on Airbus aircraft provides protection
+(clue in FAST 1) against fuel tank fire and explosion? (clue in FAST 44)
+A. 1979 A. Fuel Tank Extinguishing System (FTES)
+B. 1983 B. Fire and Explosion Prevention System (FEPS)
+C. 1989 C. Fuel Tank Inerting System (FTIS)
+D. 1995 D. Fuel Valve Bypass System (FVBS)
+2) What is the wing span of an A310? (clue in FAST 5) 7) What happened on 1 February, 2008? (clue in FAST 46)
+A. 41.5 m A. A irbus completed a flight non-stop around the world
+B. 42.1 m with an A380
+C. 43.9 m B. A irbus completed the world’s first ever flight by
+D. 44.6 m a commercial jet (A380) using synthetic liquid
+jet-fuel made from natural gas (GTL)
+3) What is the advantage of the Airbus Fly-By-Wire C. A irbus launched its new A350XWB programme
+system? (clue in FAST 9) D. A irbus sold its 5,000th A320 Family aircraft
+A. It saves weight
+B. It reduces complexity 8) What is the name of the tool especially developed by
+the Airbus Structures Test Domain for the A320 impact
+C. It increases the aircraft reliability
+calibration campaign, which is now used for the impact
+D. All of the above answers are correct
+threat evaluation for the A350XWB composite fuselage?
+(clue in FAST 48)
+4) I am an engineering tool used to design, integrate,
+optimize and validate vital aircraft systems such as A. MICKEY
+the Electrical Generation, Hydraulic Generation, Flight B. RATATOUILLE
+Control System, Auto-Flight System, Warning System C. YOGI
+(ECAM) and the Centralized Fault and Maintenance
+D. GUISMOT
+System. What am I? (clue in FAST 24)
+A. The Test Bed 9) The radio altimeter is used to provide an accurate
+B. The Iron Bird height above ground level when the aircraft is between?
+C. The Flying Prototype (clue in FAST 49)
+D. The Virtual Fly Test A. 0 and 1,000 feet
+B. 0 and 2,000 feet
+5) Airbus received acceptance of the A380 Maintenance C. 0 and 2,500 feet
+Review Board Report (MRBR) from the European
+D. 0 and 3,000 feet
+Aviation Safety Agency (EASA) on which date?
+(clue in FAST 38)
+10) What is called the innovative cabin option for the
+A. 23 December 2005 A320 Family aircraft? (clue in FAST 50)
+B. 17 September 2006
+A. Space-Flex
+C. 12 November 2007
+B. Spice-Flex
+D. 4 July 2008
+C. Space-Flux
+D. Spice-Flux
+A derivative of a 1960’s design (even if it has been amended from
+time to time), it’s no wonder the 737 MAX is suffering from jet lag.
+The 737 MAX will probably be the last non fl y-by-wire commercial
+aircraft the industry will ever see. An aircraft family unto itself with
+low commonality with other Boeing products.
+It has a narrow fuselage which offers comfort based on a 1960’s
+standard, pivoting passenger doors, 17 inch seat width and no
+wide-aisle option, required for today’s fast turn-around times.
+It also has no containerised cargo, small cumbersome inward
+opening doors, and constrained engine optimisation possibilities
+due to its 1960’s undercarriage design. You don’t even get a
+choice of engines.
+By the time the 737 MAX is expected to arrive in 2017, it will
+be the 50th anniversary of the 737 fi rst fl ight.
+The 737 MAX. Based on a 1960’s design. A true case of jet lag!
+.skramedart
+deretsiger
+era
+seman
+tcudorp
+sti
+dna
+ogol
+sti
+,subriA
+.ynapmoc
+gnieoB
+eht
+fo
+skramedart
+era
+XAM
+737
+dna
+737
+ehT L A G
+J E T
+There are some very good reasons why our A320neo Family is
+leading the single-aisle jet market and is meeting all of today’s
+modern airline needs.
+Innovative design, and advanced fl y-by-wire with renowned Airbus
+commonality results in superior fuel effi ciency, reduced noise and
+less environmental impact, alongside low maintenance costs and
+the lowest operating costs per seat.
+The A320 Family is the most spacious single-aisle family, offering
+a wider cabin, wider aisles, more overhead storage and greater
+comfort, even in economy. It also offers unique cargo capabilities
+to carry standard containers.
+The A320neo Family has uncompromising engine effi ciency. It has
+the largest fan diameter and highest by-pass ratio. Combined with
+our proven Sharklet technology, this means at least 15% less fuel
+burn than today’s A320 Family, and less fuel burn per seat than
+the so called ‘fi rm concept’ 737 MAX. So it appears that size
+does matter.
+It is no surprise that the NEO is the fastest selling aircraft in the
+history of civil aviation. With more than 1,500 orders in less than
+two years the A320neo Family has captured 60% of its market.

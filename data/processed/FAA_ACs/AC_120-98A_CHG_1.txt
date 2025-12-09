@@ -1,0 +1,839 @@
+Advisory
+U.S. Department
+of Transportation
+Circular
+Federal Aviation
+Administration
+Subject: Operator Information for Date: 4/11/17 AC No: 120-98A
+Incorporating Fuel Tank Initiated by: AFS-300 Change: 1
+Flammability Reduction
+Requirements into a Maintenance
+and/or Inspection Program
+1. PURPOSE. This advisory circular (AC) provides information and describes an acceptable
+means of compliance (AMC) with the Reduction of Fuel Tank Flammability in Transport
+Category Airplanes, final rule. It is commonly called the Fuel Tank Flammability Reduction
+(FTFR) rule. This AC describes acceptable means, but not the only means, for demonstrating
+compliance with the applicable regulations. The Federal Aviation Administration (FAA) will
+consider other methods of demonstrating compliance that an applicant may elect to present.
+While these guidelines are not mandatory, they are derived from extensive FAA and industry
+experience in determining compliance with the relevant regulations. If the FAA becomes aware
+of circumstances that convince us that following this AC would not result in compliance with the
+applicable regulations, the FAA may require additional substantiation or design changes as a
+basis for finding compliance. This material does not change or create any additional regulatory
+requirements, nor does it authorize changes in or permit deviations from existing regulatory
+requirements.
+2. PRINCIPAL CHANGES. This change updates guidance in paragraph 2-14 for Operations
+Specification (OpSpec)/Management Specification (MSpec)/Letter of Authorization (LOA)
+D097, Aging Aircraft Programs, removing the use of the “Free Text” area and changing how
+D097 Table 1 will be used. The table signifies that the FAA has reviewed the operator’s
+maintenance and/or inspection program(s) policy and procedures are in compliance with the
+respective Aging Aircraft Program rules.
+PAGE CONTROL CHART
+Remove Pages Dated Insert Pages Dated
+Pages i thru iii (and iv) 6/22/12 Pages i thru iii (and iv) 4/11/17
+Pages 2, 3, 6, 7, 9, 11, Pages 2, 3, 6, 7, 9, 11,
+and 13 (and 14) 6/22/12 13, and 14 4/11/17
+Appendix 2, Page 3 6/22/12 Appendix 2, Page 3 4/11/17
+John Barbagallo
+Deputy Director, Flight Standards Service
+4/11/17 AC 120-98A CHG 1
+Advisory
+U.S. Department
+of Transportation
+Circular
+Federal Aviation
+Administration
+Subject: Operator Information for Date: 6/22/12 AC No: 120-98A
+Incorporating Fuel Tank Initiated by: AFS-300 Change:
+Flammability Reduction
+Requirements into a Maintenance
+and/or Inspection Program
+On July 21, 2008, the Federal Aviation Administration (FAA) published the Reduction of Fuel
+Tank Flammability in Transport Category Airplanes, final rule. It is referred to as the Fuel Tank
+Flammability Reduction (FTFR) rule. This rule amends Title 14 of the Code of Federal
+Regulations (14 CFR) parts 25, 26, 121, 125, and 129, § 129.14, U.S.-registered airplanes. The
+FTFR rule requires manufacturers and operators of certain transport category airplanes to take
+steps that in combination with the Transport Airplane Fuel Tank System Design Review,
+Flammability Reduction, and Maintenance and Inspection Requirements (Special Federal
+Aviation Regulation (SFAR) 88, Fuel Tank System Fault Tolerance Evaluation Requirements)
+will greatly reduce the chances of a catastrophic fuel tank explosion. The purpose of these rules
+is to help ensure the continued safety of transport category airplanes by reducing fuel tank
+ignition sources and the flammability exposure in fuel tanks that are most at risk. The FTFR
+requires either a flammability reduction means (FRM) such as nitrogen inerting, or an ignition
+mitigation means (IMM) like polyurethane foam be incorporated into airplanes with high
+flammability fuel tanks to prevent fuel tank explosions.
+4/11/17 AC 120-98A CHG 1
+CONTENTS
+Paragraph Page
+CHAPTER 1. GENERAL ................................................................................................... 1
+1-1. Purpose ............................................................................................................................1
+1-2. Applicability ....................................................................................................................1
+1-3. Background .....................................................................................................................1
+1-4. Related CFRs ...................................................................................................................2
+1-5. Related Reading Materials (current editions) ..................................................................2
+1-6. AC Feedback Form .........................................................................................................3
+CHAPTER 2. FTFR REQUIREMENTS .........................................................................................5
+2-1. Design Approval Holder (DAH) Requirements ..............................................................5
+2-2. Excluded Models .............................................................................................................5
+2-3. Operator Requirements–New Production .......................................................................6
+Table 2-1. Sections 121.1117, 125.509, and 129.117 Sample Table 1 ...........................6
+2-4. FTFR Rule Exclusions ....................................................................................................6
+2-5. Operator Requirements–Retrofit .....................................................................................6
+2-6. Operator Requirements–Pre-1992 Airplane ....................................................................7
+Table 2-2. Sections 121.1117, 125.509, and 129.117 Sample Table 2 ...........................7
+2-7. Models Excepted From the FTFR ...................................................................................7
+Table 2-3. Airplane Models Excepted from the Fuel Tank Flammability
+Reduction Rule ................................................................................................................7
+2-8. Operator Retrofit Compliance Times ..............................................................................7
+2-9. An Operator’s Airplane Retrofit Fleet Defined ...............................................................8
+2-10. Use of Ground Conditioned Air ......................................................................................9
+Table 2-4. Airplanes Authorized by OpSpec A570 to use
+“Ground Conditioned Air” ..............................................................................................9
+2-11. Service Instructions .......................................................................................................10
+2-12. Airworthiness Limitations .............................................................................................10
+Figure 2-1. Example of an FRM/IMM CDCCL............................................................11
+2-13. Operator Maintenance/Inspection Program Requirements ...........................................12
+2-14. Maintenance Program Revisions After Alterations .......................................................12
+Table 2-5. Sample D097 Table 1 – Aging Aircraft Maintenance Programs .................14
+APPENDIX 1. ACRONYMS (2 pages) ........................................................................................1
+APPENDIX 2. DEFINITIONS (4 pages) ......................................................................................1
+APPENDIX 3. FAA OVERSIGHT OFFICES (2 pages) ............................................................1
+Page iii (and iv)
+6/22/12 AC 120-98A
+CHAPTER 1. GENERAL
+1-1. PURPOSE. This advisory circular (AC) provides information and describes an acceptable
+means of compliance (AMC) with the Reduction of Fuel Tank Flammability in Transport
+Category Airplanes, final rule. It is commonly called the Fuel Tank Flammability Reduction
+(FTFR) rule. This AC describes acceptable means, but not the only means, for demonstrating
+compliance with the applicable regulations. The Federal Aviation Administration (FAA) will
+consider other methods of demonstrating compliance that an applicant may elect to present.
+While these guidelines are not mandatory, they are derived from extensive FAA and industry
+experience in determining compliance with the relevant regulations. If the FAA becomes aware
+of circumstances that convince us that following this AC would not result in compliance with the
+applicable regulations, the FAA may require additional substantiation or design changes as a
+basis for finding compliance. This material does not change or create any additional regulatory
+requirements, nor does it authorize changes in or permit deviations from existing regulatory
+requirements.
+NOTE: Terms such as “will” or “must” are used in this AC only in the sense
+of ensuring applicability of this particular method of compliance when the
+acceptable method of compliance described here is used.
+1-2. APPLICABILITY. This AC applies to operators of transport-category turbine-powered
+airplanes with a type certificate (TC) issued after January 1, 1958, that as a result of original type
+certification or later increase in capacity, have a maximum TC’d passenger capacity of 30 or
+more, or a maximum payload capacity of 7,500 pounds or more. In addition, this AC applies to
+operators of transport-category airplanes of any size that include Title 14 of the Code of Federal
+Regulations (14 CFR) part 25, § 25.981, Amendment 25-102, or later in the original certification
+basis of the airplane or in the certification basis of modifications to the airplane.
+1-3. BACKGROUND.
+a. Accident. Since 1959 there have been 18 fuel tank explosions on transport category
+airplanes. Most notably, on July 17, 1996, a 25-year-old Boeing 747-100 series airplane,
+operating as TWA Flight 800, was involved in an in-flight breakup after takeoff from Kennedy
+International Airport in New York, resulting in 230 fatalities. The National Transportation
+Safety Board (NTSB) determined the probable cause of the TWA 800 accident was an
+explosion of the center wing fuel tank (CWT) due to ignition of the flammable fuel vapor and
+air mixture in the tank. The source of ignition energy for the explosion could not be determined
+conclusively, though the NTSB determined the most likely was a combination of failures
+involving the fuel quantity indicating system (FQIS). In addition, their accident report
+concluded that “a fuel tank design and certification philosophy that relies solely on elimination
+of all ignition sources, while accepting the existence of fuel tank flammability, is fundamentally
+flawed because experience has demonstrated that all possible ignition sources cannot be
+predicted and reliably eliminated.”
+b. Fuel Tank Safety (FTS) Rule. On June 6, 2001, the Transport Airplane Fuel Tank
+System Design Review, Flammability Reduction, and Maintenance and Inspection Requirements
+rule became effective. It is referred to as the 2001 FTS rule. It amended 14 CFR part 21 and
+Par 1-1 Page 1
+AC 120-98A CHG 1 4/11/17
+created Special Federal Aviation Regulation (SFAR) 88. SFAR 88 is in part 21 and was the only
+change made by the 2001 FTS rule to part 21. SFAR 88 required TC and Supplemental Type
+Certificate (STC) holders to conduct a safety review of the applicable airplanes identified in the
+rule to determine if their design meets the FTS ignition prevention requirements described in
+§§ 25.901 and 25.981(a) and (b) and develop service information necessary for FAA to issue
+airworthiness directives (AD) to correct unsafe conditions identified by the reviews.
+c. Fuel Tank Flammability Reduction (FTFR) Rule. On July 21, 2008 the FAA
+published the Reduction of Fuel Tank Flammability in Transport Category Airplanes, final rule.
+It is referred to as the FTFR rule. The FTFR rule contains new requirements for design approval
+holders (DAH) and operators of certain transport airplanes. Given that ignition sources have and
+will continue to develop in spite of the effort of the FTS rule to mitigate the risk, the chances of a
+fuel tank explosion naturally correlate with the exposure of the tank to flammable vapors. The
+requirements in FTFR rule mitigate the effects of such flammability exposure and limit it to
+acceptable levels by mandating the installation of either a flammability reduction means (FRM)
+or an ignition mitigation means (IMM) for fuel tanks that are most at risk. The design and
+operational requirements in these rules, in combination, should greatly reduce the chances of a
+catastrophic fuel tank explosion.
+1-4. RELATED CFRs. The Regulatory and Guidance Library (RGL) is a set of searchable
+databases that contain regulatory, guidance, and aviation product information. The RGL contains
+certain CFRs and SFARs from 14 CFR in their current version as well as historical versions. The
+following sections of 14 CFR apply:
+• Part 21, SFAR, Special Federal Aviation Regulation No. 88, Fuel Tank System Fault
+Tolerance Evaluation Requirements.
+• Part 25, § 25.981, Fuel Tank Explosion Prevention.
+• Part 25, § 25.1529, Instructions for Continued Airworthiness.
+• Part 25 Appendix H, Instructions for Continued Airworthiness.
+• Part 26, Continued Airworthiness and Safety Improvements for Transport Category
+Airplanes.
+• Part 43, § 43.13, Performance Rules (General).
+• Part 43, § 43.16, Airworthiness Limitations.
+• Part 91, § 91.403(c), General.
+• Part 121, § 121.1113, Fuel Tank System Maintenance Program.
+• Part 125, § 125.507, Fuel Tank System Inspection Program.
+• Part 129, § 129.113, Fuel Tank System Maintenance Program.
+1-5. RELATED READING MATERIALS (current editions).
+a. ACs. You can find these ACs on the FAA’s website at http://www.faa.gov/regulations_
+policies/advisory_circulars/.
+• AC 25-8, Auxiliary Fuel System Installations.
+• AC 25.981-1, Fuel Tank Ignition Source Prevention Guidelines.
+• AC 25.981-2, Fuel Tank Flammability Reduction Means.
+Page 2 Par 1-3
+4/11/17 AC 120-98A CHG 1
+• AC 120-16, Air Carrier Maintenance Programs.
+• AC 120-97, Incorporation of Fuel Tank System Instructions for Continued
+Airworthiness into Operator Maintenance and/or Inspection Programs.
+• AC 120-102, Incorporation of Electrical Wiring Interconnection Systems Instructions
+for Continued Airworthiness into an Operator’s Maintenance Program.
+• AC 121-22, Maintenance Review Boards, Maintenance Type Boards, and OEM/TCH
+Recommended Maintenance Procedures.
+b. FAA Policy Statements. An electronic copy of the following Policy Statements can be
+downloaded at http://rgl.faa.gov/.
+• PS-ANM112-05-001, Process for Developing SFAR 88-related Instructions for
+Maintenance and Inspection of Fuel Tank Systems, October 6, 2004.
+• PS-ANM110-7-12-2005, Safety—A Shared Responsibility—New Direction for
+Addressing Airworthiness Issues for Transport Airplanes, July 12, 2005.
+c. Industry Reference. See the Airlines for America (A4A), Maintenance Steering
+Group - 3rd Task Force (MSG-3): Operator/Manufacturer Scheduled Maintenance Development.
+1-6. AC FEEDBACK FORM. For your convenience, the AC Feedback Form is the last page of
+this AC. Note any deficiencies found, clarifications needed, or suggested improvements regarding
+the contents of this AC on the Feedback Form.
+Par 1-5 Page 3 (and 4)
+6/22/12 AC 120-98A
+CHAPTER 2. FTFR REQUIREMENTS
+2-1. DESIGN APPROVAL HOLDER (DAH) REQUIREMENTS. The Fuel Tank
+Flammability Reduction (FTFR) rule requires DAHs and operators increase the level of safety of
+certain fuel tanks. It accomplishes this by requiring incorporation of either flammability
+reduction means (FRM) such as nitrogen inerting or ignition mitigation means (IMM) such as
+polyurethane foam to reduce the fuel tank explosion risk to an acceptable level. The fuel tank
+flammability safety standards in 14 CFR part 26, subpart D, require DAHs to conduct
+flammability assessments, incorporate FRM or IMM designs in new production airplanes, and
+develop service instructions for retrofit installation of FRM or IMM for those affected airplane
+models with high flammability exposure time fuel tanks.
+a. Possible Adverse Effects on the Design Approval. The DAHs for auxiliary fuel tanks
+in the airplanes where FRM or IMM are required must assess any possible adverse effects of
+their design approval on the effectiveness of the fuel tank safety (FTS) improvements. If an
+operator installed an auxiliary fuel tank pursuant to a field approval in an airplane affected by
+part 26, § 26.33, the operator is the auxiliary fuel tank DAH. Any adverse effects on the DAH’s
+approved design must be mitigated by design changes and service instructions (refer to
+§ 26.35(d)) identified as Flammability Impact Mitigation Means (FIMM). FIMM are
+modifications developed by DAH for auxiliary fuel tanks when a flammability exposure analysis
+per § 26.35 determines that an auxiliary fuel tank installed by STC or field approval could have
+an adverse impact on the performance of existing fuel system FRM or IMM of other tanks.
+b. Example of FIMM. The CWT vent system is part of the type design of the airplane.
+The installation of an auxiliary fuel tank such as in the forward cargo compartment may reduce
+the effectiveness of the Nitrogen Gas System (NGS) resulting in an increase in flammability
+exposure of the CWT. The NGS installation is designed to provide the proper level of nitrogen to
+the CWT in order to reduce the flammability exposure time to levels required by the certification
+regulations. Auxiliary fuel tank installations typically transfer fuel and ullage gases to and from
+the CWT. The concern here is that the auxiliary fuel tank that allows transfer of ullage directly to
+or from the CWT might increase the flammability exposure time of the CWT above the
+certification limits. Therefore, the DAH for the auxiliary fuel tank system must comply with
+§ 26.35 and determine if the auxiliary fuel tank system reduces the effectiveness of the NGS
+resulting in an increase in flammability exposure of the CWT and therefore FIMM is necessary.
+c. Field Approval Auxiliary Fuel Tanks. Section 121.1117(c) and the similar provisions
+in parts 125 and 129 require that, after the applicable date stated in § 121.1117(e), no operator
+may operate any airplane subject to § 26.33 that has an auxiliary fuel tank installed by a field
+approval unless that operator complies with § 26.35 by the applicable date specified in that
+section and, if required, installs a FIMM approved by the FAA Oversight Office. The operator
+may also choose to deactivate or remove the auxiliary fuel tank but must use FAA Oversight
+Office approved data to accomplish that.
+2-2. EXCLUDED MODELS. The airplane models listed under Exclusions in 14 CFR
+parts 121, § 121.1117(o); 125, § 125.509(m); and 129, § 129.117(o) of the FTFR rules are
+excluded from the retrofit requirements. All the airplanes produced for these models were issued
+an original Certificate of Airworthiness before January 1, 1992. These are also airplane models
+Par 2-1 Page 5
+AC 120-98A CHG 1 4/11/17
+that, because of their advanced age and small numbers, would likely make compliance
+economically impractical even if used in passenger service beyond the 100 percent retrofit
+compliance dates.
+2-3. OPERATOR REQUIREMENTS–NEW PRODUCTION. For §§ 121.1117, 125.509,
+and 129.117, no operator may operate a new production airplane identified in Table 2-1,
+Sections 121.1117, 125.509, and 129.117 Sample Table 1, below (including all-cargo airplanes)
+for which the State of Manufacture issued the original Certificate of Airworthiness or export
+airworthiness approval after December 27, 2010, unless a FRM or IMM meeting the
+requirements of § 26.33 is operational. Table 2-1 contains current production airplanes at the
+time the FTFR rule was issued.
+NOTE: Section 26.37 requires affected pending new transport airplane type
+certification projects comply with the 14 CFR part 25, § 25.981 fuel tank
+flammability type certification requirements adopted by the FTFR rule.
+NOTE: Table 2-1 does not include the Boeing 757 or Airbus A300 or A310
+because they were out-of-production when the FTFR rule was adopted.
+TABLE 2-1. SECTIONS 121.1117, 125.509, AND 129.117 SAMPLE TABLE 1
+Model—Boeing Model—Airbus
+747 Series A318, A319, A320, A321 Series
+737 Series A330, A340 Series
+777 Series
+767 Series
+2-4. FTFR RULE EXCLUSIONS. The FTFR rule does not apply to any airplane for which the
+State of Manufacture issued the original Certificate of Airworthiness or export airworthiness
+approval before January 1, 1992, unless they are operated in passenger service beyond the date
+by which the operator is required to modify 100 percent of its affected fleet. After that date all
+pre-January 1, 1992 airplanes listed in Table 2-2, Sections 121.1117, 125.509, and 129.117
+Sample Table 2, that will still operate in passenger service will have to be § 26.33(c) compliant.
+The 100 percent retrofit date is contingent on whether the operator is using “Ground Conditioned
+Air” identified in paragraph 2-10 of this chapter.
+NOTE: The retrofit requirements of the FTFR rule do not apply to airplanes
+designed solely for all-cargo operations (§ 26.33(a)).
+2-5. OPERATOR REQUIREMENTS–RETROFIT. Section 121.1117(d), (e), and (m) and
+similar provisions in parts 125 and 129 require that if FRM, IMM, or FIMM is required
+by § 26.33 or 26.35, each operator must complete the FAA Oversight Office-approved
+installation of FRM, IMM, or FIMM. The retrofit compliance dates require each operator to
+complete retrofit on a percentage of its fleet by specific dates. The DAH is required by § 26.33
+or 26.35 to develop retrofit service instructions for the airplane models manufactured on or after
+January 1, 1992, if those part 26 regulations require FRM, IMM, or FIMM.
+Page 6 Par 2-2
+4/11/17 AC 120-98A CHG 1
+2-6. OPERATOR REQUIREMENTS–PRE-1992 AIRPLANE. If an operator wishes to
+operate in passenger service a pre-1992 airplane listed in Table 2-2 past their 100 percent fleet
+retrofit compliance date, § 121.1117(m) and similar requirements in §§ 125.509 and 129.117
+require the operator modify the airplane to comply with § 26.33(c) before that date. However,
+there is no requirement in § 26.33 or 26.35 for DAHs to develop retrofit service information for
+pre-1992 airplanes. Therefore, the operator of pre-1992 airplanes must comply with the part 26
+requirements.
+TABLE 2-2. SECTIONS 121.1117, 125.509, AND 129.117 SAMPLE TABLE 2
+Model—Boeing Model—Airbus
+747 Series A318, A319, A320, A321 Series
+737 Series A300, A310 Series
+777 Series A330, A340 Series
+767 Series
+757 Series
+2-7. MODELS EXCEPTED FROM THE FTFR. Table 2-2 does not include the airplane
+models listed in the following Table 2-3, Airplane Models Excepted from the Fuel Tank
+Flammability Reduction Rule, which is not included in the FTFR operating rules. These models
+are not listed under Exclusions in §§ 121.1117(o), 125.509(m), and 129.117(o) of the FTFR
+operating rules either. However, they were issued the original Certificate of Airworthiness or
+export airworthiness approval before January 1, 1992. They also do not include high
+flammability exposure fuel tanks that would require FRM or IMM in order to comply with
+§ 26.33(c). Therefore, they are not required to comply with § 26.33(c) or the retrofit
+requirements in the FTFR rule even if an airplane listed in the Table 2-3 below were to operate in
+passenger service past the 100 percent retrofit compliance date.
+NOTE: Table 2-3 contains airplane models excluded from the FTFR rule.
+TABLE 2-3. AIRPLANE MODELS EXCEPTED FROM THE FUEL TANK
+FLAMMABILITY REDUCTION RULE
+Model Year of Last Delivery
+L-1011 1984
+DC-10 1990
+B-727 1984
+DC-9 1982
+2-8. OPERATOR RETROFIT COMPLIANCE TIMES. Section 121.1117(e) and (m), and
+similar provisions in parts 125 and 129, require the retrofit installations be phased in over the
+period specified in the rules. Below is a summary of the retrofit compliance date requirements.
+Par 2-6 Page 7
+AC 120-98A 6/22/12
+a. Fifty Percent. Fifty percent of each operator’s fleet must be modified no later than
+December 26, 2014. A one year extension may have been granted by using the “Ground
+Conditioned Air” provision in § 121.1117(k) or § 129.117(k). There is no similar provision in
+§ 125.509.
+b. One Hundred Percent. One hundred percent of each operator’s fleet must be modified
+no later than December 26, 2017, unless a one year extension has been granted by using the
+“Ground Conditioned Air” provision in the FTFR rule.
+c. One Airplane Fleet. For those operators that have only one airplane of a model
+identified in Table 2-1 in § 121.1117(b) (“New Production Airplanes”) in their affected fleet, the
+airplane must be modified no later than December 26, 2017.
+d. Compliance Plan. The operator should work with the principal inspector (PI) to
+develop a compliance plan for the 50 percent and 100 percent retrofit requirements in
+§ 121.1117(e) and the similar provisions in parts 125 and 129. The compliance plan should
+contain a complete list/schedule of airplanes that require retrofit. The list should be updated as
+airplanes are added/completed. The operator should apprise the PI of any delays, addition, or
+deletion of airplanes from the list/schedule. Operators that have only one airplane must modify
+that airplane no later than December 26, 2017.
+2-9. AN OPERATOR’S AIRPLANE RETROFIT FLEET DEFINED. For the purposes of
+the FTFR rule, an operator’s airplane retrofit fleet is defined as the total number of affected
+airplanes of all affected model types listed on Operations Specification (OpSpec)/Letter of
+Authorization (LOA) D085, Aircraft Listing, on the retrofit compliance dates.
+NOTE: “New Production Airplanes” that are FRM compliant
+(§ 121.1117(b)) either manufactured on or prior to the December 27, 2010 or
+those manufactured after December 27, 2010 cannot be counted as part of
+the 50 percent or 100 percent retrofit mix.
+a. Retrofit Mix Example. For example, an operator has a fleet comprised of Boeing 737
+and Airbus A320 airplanes. The “affected fleet” is the total number of the affected Boeing 737
+airplanes plus the total number of affected Airbus A320 airplanes. The operating rules require
+the operator retrofit 50 percent of its “affected fleet” of airplanes by the 50 percent retrofit
+compliance date of December 26, 2014. Airplanes in long term storage and listed on OpSpec
+D106, Aircraft in Long-Term Maintenance or Storage, cannot not be counted in the 50 percent or
+100 percent retrofit mix for the purposes of the FTFR rule. However, any airplane(s) brought
+back into service from storage and added to OpSpec/LOA D085 become part of the operator’s
+50 percent or 100 percent retrofit mix. The operator must recalculate the retrofit mix based on the
+number of airplanes added to OpSpec/LOA D085. In addition, any newly acquired airplanes
+added to the operator’s fleet that are not FTFR retrofit compliant and added to OpSpec/LOA
+D085 become part of the operator’s 50 percent or 100 percent retrofit mix. If an operator has
+more than one affected airplane listed on its OpSpecs/LOA D085 on the 50 percent retrofit
+compliance date, they are required to have retrofitted 50 percent of those airplanes by that date.
+Page 8 Par 2-8
+4/11/17 AC 120-98A CHG 1
+b. Retrofit Mix Adjustment. The 50 percent or 100 percent retrofit mix can be adjusted
+by the operator to suit its operational needs. The operator can change the retrofit mix of airplanes
+at will and at any time as long as the retrofit percentages and dates are complied with.
+For instance, an operator has 50 airplanes that need to be FTFR retrofit compliant by
+December 26, 2014. The operator sells, or puts in storage 25 of those airplanes and purchases
+25 that are FTFR retrofit compliant (not new production airplanes). The operator’s 50 percent
+retrofit requirement remains the same, but now 25 are retrofit compliant and only 25 of the
+original 50 percent fleet need to be retrofitted to meet its 50 percent requirement by
+December 26, 2014. The fact that the operator purchased 25 FTFR retrofit compliant airplanes
+rather than retrofitting them itself has no bearing on its original 50 percent retrofit requirement.
+For the purposes of the FTFR, the operator would meet the 50 percent requirement. This also
+applies to the operator’s 100 percent mix.
+2-10. USE OF GROUND CONDITIONED AIR.
+a. One Year Extension. In order to give the operators additional time to incorporate
+FRM at a time other than during a heavy check, the FTFR rule has a provision in §§ 121.1117(k)
+and 129.117(k) to allow a one year extension to the retrofit requirements in §§ 121.1117(e)
+and 129.117(e) if the operator uses ground conditioned air for all airplanes with high
+flammability tanks for “actual gate times” exceeding 30 minutes when ground air is available at
+the gate and operational, and the ambient temperature exceeds 60 degrees Fahrenheit. Operators
+were required to apply for amendment to their OpSpec no later than March 26, 2009 in order to
+obtain this one year extension. This provision does not apply to § 125.507 because these
+airplanes are not typically parked at gates where ground conditioned air is available. In addition,
+these operators have few airplanes subject to this rule.
+TABLE 2-4. AIRPLANES AUTHORIZED BY OPSPEC A570 TO USE
+“GROUND CONDITIONED AIR”
+Boeing Airbus
+747 Series A300, A310
+737 Series A318, A319, A320, A321 Series
+777 Series A330, A340 Series
+767 Series
+757 Series
+b. OpSpec A570 Authorized Airplanes. If the operator applied for the “Ground
+Conditioned Air” provision it is controlled on OpSpec A570, one year Extension of compliance
+times in §§ 121.1117(e) and 129.117. The operator’s manual must contain any applicable
+airplanes in Table 2-4 that are authorized on OpSpec A570 to use “Ground Conditioned Air.”
+This must include a listing by N registration number and fleet type of airplanes that require
+retrofit with FRM or IMM. As airplanes are retrofitted they should be removed from the list.
+The OpSpec A570 authorization terminates on December 26, 2018 or when all of the operator’s
+airplanes listed in its manual are retrofitted, whichever occurs first.
+Par 2-9 Page 9
+AC 120-98A 6/22/12
+2-11. SERVICE INSTRUCTIONS.
+a. Install FRM or IMM. In order for the operators to install FRM or IMM the DAHs are
+required to develop airplane model specific design change service instructions (Service Bulletins
+(SB)) that are FAA Oversight Office-approved. Operators will use these service instructions
+along with installation kits to install FRM or IMM. The FAA Oversight Office-approved
+FRM/IMM SBs are part of the airplane type design. Therefore, certain changes must be FAA
+Oversight Office-approved in accordance with the following procedures.
+b. Deviation/Changes to FAA Oversight Office-Approved FRM SBs. The retrofit
+requirements contained in 14 CFR part 121, § 121.1117 require installation of an IMM or FRM,
+if required by § 26.33, § 26.35, or § 26.37, that is “approved by the FAA Oversight Office.”
+Unlike an AD that typically requires accomplishment of corrective actions “in accordance with”
+a manufacturer’s SB, § 121.1117 does not require strict adherence (“in accordance with”) to the
+manufacturer’s SB. As with any SB that implements a change to type design, the manufacturer’s
+SBs for the NGS have been FAA-approved. Although the entire SB is identified as approved,
+only the technical data (type design) associated with the SB is FAA-approved. Therefore,
+deviations to the SBs that revise the technical data contained within the SB would have to be
+approved. Major changes to the technical data include, but are not limited to, any
+deviation/change to the SB that could affect the performance/reliability/operation of the NGS.
+Minor deviations/changes to non-AD FAA-approved SBs should be handled in accordance with
+the procedures in the operator’s manual acceptable to the PI. Operators should refer to
+AC 120-77, Maintenance and Alteration Data, for guidance regarding considerations in making
+major/minor decisions and the needed analysis/justification.
+(1) Proposed Deviations. Operators should coordinate with the PI of their FAA
+certificate management office (CMO) or local Flight Standards District Office (FSDO) in
+requesting and implementing approval of major deviations/revisions directly by the FAA
+Oversight Office to the FRM SBs.
+(2) Procedures That Address Major and Minor Changes. The operator must have
+procedures in its manual that address both major and minor changes to FAA Oversight
+Office-approved FRM/IMM service instructions/bulletins.
+2-12. AIRWORTHINESS LIMITATIONS.
+a. DAH Developed Airworthiness Limitations. The DAH is required to develop FAA
+Oversight Office-approved airworthiness limitations which include critical design configuration
+control limitations (CDCCL), inspections, or other procedures to prevent increasing the
+flammability exposure of any tanks equipped with FRM or FIMM above the certification limits,
+or to prevent degradation of the performance of any IMM installed throughout the operational
+life of the airplane. The DAH is required to include these airworthiness limitations in the
+Airworthiness Limitations Section (ALS) of the instructions for continued airworthiness (ICA).
+These airworthiness limitations are part of the type design of the modified airplane. This
+requirement is similar to that contained in § 25.571. Airplane fuel tank system airworthiness
+limitations are intended to be treated the same as airplane structure airworthiness limitations.
+Page 10 Par 2-11
+4/11/17 AC 120-98A CHG 1
+Part 25 appendix H, requires including fuel tank system airworthiness limitations in the
+airworthiness limitations of the ICA.
+(1) Sections 26.33 and 26.35 requires the DAH to develop airworthiness limitations to
+prevent increasing the flammability exposure of any tanks equipped with FRM or FIMM and to
+prevent degradation of the performance of any IMM.
+(2) Section 121.1117 and similar provisions in parts 125 and 129 require the operator to
+incorporate the airworthiness limitations required by §§ 26.33 and 26.35, if required, into their
+maintenance or inspection program.
+b. Types of FRM/IMM Limitations. There are three types of fuel system airworthiness
+limitations.
+(1) An airworthiness limitation item (ALI) inspection which has a specific task and
+interval, such as 10 years.
+(2) An ALI procedure that could have specific task intervals.
+(3) A CDCCL which has no interval but establishes configuration limitations to
+maintain and to protect the “critical design feature” identified in the CDCCL. CDCCLs can also
+include requirements to have placards on the airplane with information about critical features.
+(Refer to AC 25.981-1 or AC 25.981-2 for additional information on CDCCLs.)
+FIGURE 2-1. EXAMPLE OF AN FRM/IMM CDCCL
+TITLE: Center Fuel Tank Vent System – Auxiliary Tanks
+The Concern: The addition of an auxiliary fuel tank system via a Supplemental Type Certificate (STC)
+may reduce the effectiveness of the Nitrogen Gas System (NGS) resulting in an increase in flammability
+exposure of the center tank.
+Reason for Concern: The NGS installation is designed to provide the proper level of nitrogen to the
+center wing fuel tank (CWT) in order to reduce the fleet wide average flammability exposure to levels
+equal to that of wing fuel tanks. Auxiliary fuel tank installations typically transfer fuel and ullage gases
+to and from the CWT.
+The Critical Design Feature: Any auxiliary fuel tank system that allows transfer of ullage directly to or
+from the CWT must not significantly affect the performance of the NGS.
+c. Critical Design Feature. Section 121.1117 and similar provisions in parts 125 and 129
+require the operator to incorporate the airworthiness limitations required by §§ 26.33 and 26.35,
+if required, into their maintenance or inspection program. The FAA Oversight Office-approved
+FTFR airworthiness limitations make the CDCCL the primary source for the “critical design
+feature” information. While the “critical design feature” may also be in the Aircraft Maintenance
+Manual (AMM) reference, it is not to be used as the primary source of information for the
+CDCCL “critical design feature.” The primary source is the CDCCL.
+Par 2-12 Page 11
+AC 120-98A 6/22/12
+2-13. OPERATOR MAINTENANCE/INSPECTION PROGRAM REQUIREMENTS.
+a. Procedures for Development Personnel. Operators must have procedures in their
+maintenance/inspection program/manual that include all information from the fuel system
+airworthiness limitations. The operator’s maintenance/inspection program/manual shall state that
+personnel who edit maintenance manuals, job/task cards, and Engineering Orders (EO) must
+include the entire text of the airworthiness limitations, including the AMM standard wiring
+practice manual (SWPM) text that is required to be followed. (Merely referencing the AMM,
+SWPM, etc. is not acceptable.)
+b. CDCCL Incorporation. Operators must ensure that the CDCCL “critical design
+features” are incorporated into the maintenance/inspection program/manual and are adhered to as
+written. Any proposed operator changes must be approved by the FAA Oversight Office. The
+CDCCL “critical design feature” identified above is just one of many that are included in the
+airworthiness limitations for the airplane. The CDCCLs “critical design features” must be
+included on the operators’ EOs and job/task cards.
+c. Airplanes with FRM or IMM Installed. Operators who take delivery of “New
+Production Airplanes” (§ 121.1117(b)) either manufactured on or prior to December 27, 2010, or
+manufactured after December 27, 2010 that have either FRM or IMM installed must have FAA
+Oversight Office-approved airworthiness limitations (CDCCLs, inspections, or other procedures)
+from the ICA incorporated into their maintenance/inspection program/manual prior to putting the
+airplane into service.
+d. Retrofitted Airplane Fleets. Operators who retrofit their fleet must incorporate the
+FAA Oversight Office-approved airworthiness limitations (CDCCLs, inspections, or other
+procedures) from the ICA into their maintenance/inspection program/manual prior to putting the
+airplane back into service.
+e. Procedures to Maintain Placards. Operators must have procedures in their
+maintenance/inspection program/manual to maintain placards that have information about critical
+design features on the airplane as required by the airworthiness limitations.
+f. Airworthiness Limitations with Approved CDCCLs. Airworthiness limitations that
+include FAA Oversight Office-approved CDCCLs, inspections, and other procedures are part of
+the airplane type design and therefore any changes must be approved by the FAA Oversight
+Office. Operators must have procedures in their maintenance/inspection program/manual that
+address any changes to airworthiness limitations. The procedures must include notification and
+be acceptable to the PI.
+2-14. MAINTENANCE PROGRAM REVISIONS AFTER ALTERATIONS.
+a. Before Return to Service (RTS). Section 121.1117(h), and similar provisions in
+parts 125 and 129 state, in part, after the maintenance/inspection program is revised before
+returning an airplane to service after any alteration for which airworthiness limitations are
+required, the operator must revise the maintenance/inspection program for the airplane to include
+those airworthiness limitations prior to putting the airplane back in service.
+Page 12 Par 2-13
+4/11/17 AC 120-98A CHG 1
+b. Incorporate TC Holder-Developed Revisions. The operator must incorporate the
+TC holder-developed Maintenance Review Board Report (MRBR) or maintenance
+implementation document (MID) revisions and/or other FAA Oversight Office-approved
+fuel tank system airworthiness limitations (CDCCLs, inspections, and other procedures) into its
+maintenance and/or inspection program. The operator will submit to the PI for review the
+revisions to their maintenance and inspection program incorporating the MRBR, MID, and or
+FAA Oversight Office-approved airworthiness limitations changes. The PI review ensures that
+the operator’s maintenance and/or inspection programs are in compliance with the fuel tank
+system and Aging Aircraft Program rules. When the review is complete, the PI will issue or
+amend OpSpec/Management Specification (MSpec) D097, Aging Aircraft Programs.
+c. Operators that are Authorized OpSpec/MSpec/LOA D097. The issuance of this
+OpSpec signifies the FAA has reviewed the operator/certificate holder/program manager’s policy
+and procedures incorporated into their maintenance and/or inspection programs for compliance
+with the Aging Aircraft Program rules. Table 1 of D097 will consist of three columns that list:
+• The Aging Aircraft Program rules;
+• The manual and section where the policy and procedures are located for the
+applicable Aging Aircraft Program; and
+• The date of the manual and section where the current policy and procedures are
+located for the applicable Aging Aircraft Program.
+NOTE: Table 2-5 below illustrates a sample D097 Table 1 that lists the
+various 14 CFR part rules. The operator/certificate holder/program manager
+will have a specific OpSpec D097 template for their operation.
+Par 2-14 Page 13
+AC 120-98A CHG 1 4/11/17
+TABLE 2-5. SAMPLE D097 TABLE 1 – AGING AIRCRAFT
+MAINTENANCE PROGRAMS
+Operator/Certificate
+Holder/Program
+Manager’s Maintenance
+Aging Aircraft Program Rules Date
+and/or Inspection
+Program Procedures
+(Manual and Section)
+Repairs Assessment for Pressurized Fuselages —
+§ 91.1505, § 121.1107, § 125.505, § 129.107
+Supplemental Inspections — § 121.1109, § 129.109
+Electrical Wiring Interconnection Systems (EWIS)
+Maintenance Program — § 121.1111, § 129.111
+Fuel Tank System Maintenance Program — § 121.1113,
+§ 129.113
+Flammability Reduction Means — § 121.1117, § 125.509,
+§ 129.117
+Fuel Tank System Inspection Program — § 91.1507,
+§ 125.507
+(1) Initial submission and any later revisions to the operator/certificate holder/program
+manager’s maintenance and/or inspection program policy and procedures must be submitted to
+the PI for review for compliance with the Aging Aircraft Program rules.
+(2) Any proposed revisions or deletions of FAA Oversight Office (Aircraft Certification
+Office (ACO))-approved ICAs must be coordinated with the PI for review and concurrence. The
+PI will then forward the proposed revisions or deletions to the responsible ACO for approval
+prior to implementation or incorporation into the maintenance and/or inspection program.
+(3) An operator/certificate holder/program manager must have procedures to ensure that
+ICAs are incorporated into their maintenance and/or inspection program.
+Page 14 Par 2-14
+6/22/12 AC 120-98A
+Appendix 1
+APPENDIX 1. ACRONYMS
+A4A Airlines for America
+AC Advisory Circular
+ACO Aircraft Certification Office
+AEG Aircraft Evaluation Group
+AFS Flight Standards Service
+AL Airworthiness Limitation
+ALI Airworthiness Limitation Item
+ALS Airworthiness Limitation Section
+AMM Aircraft Maintenance Manual
+APU Auxiliary Power Unit
+ASI Aviation Safety Inspector
+CDCCL Critical Design Configuration Control Limitation
+CWT Center Wing Fuel Tank
+DAH Design Approval Holder
+FAA Federal Aviation Administration
+FIMM Flammability Impact Mitigation Means
+FQIS Fuel Quantity Indicator System
+FRM Flammability Reduction Means
+FTFR Fuel Tank Flammability Reduction
+FTS Fuel Tank Safety
+IMM Ignition Mitigation Means
+MRBR Maintenance Review Board Report
+MSG-3 Maintenance Steering Group – 3rd Task Force
+MSI Maintenance Significant Items
+NGS Nitrogen Gas System
+NTSB National Transportation Safety Board
+OpSpec Operations Specification
+PI Principal Inspector (This may include any or all of the affected
+Airworthiness or Operations)
+RGL Regulatory and Guidance Library
+SFAR Special Federal Aviation Regulations
+Page 1
+AC 120-98A 6/22/12
+Appendix 1
+STC Supplemental Type Certificate
+SWPM Standard Wiring Practice Manual
+TC Type Certificate
+TCDS Type Certificate Data Sheet
+TSO Technical Standard Order
+Page 2
+6/22/12 AC 120-98A
+Appendix 2
+APPENDIX 2. DEFINITIONS
+a. Actual Gate Time. The time that the airplane is parked at a gate for servicing and
+passenger egress and ingress.
+b. Aircraft Evaluation Group (AEG). The FAA Flight Standards Service (AFS)
+representatives who know the operational and maintenance aspects of the certification project
+and are responsible for determining the operational acceptability and continuing airworthiness
+requirements of newly certified or modified aircraft, engines, and propellers intended to be
+operated under the provisions of the Code of Federal Regulations (CFR). This function includes
+providing the FAA Oversight Office support in the review and approval of the initial and
+subsequent changes to the type design.
+c. Aircraft Maintenance Manual (AMM). A manual developed by the manufacturer of a
+particular airplane that contains information necessary for the continued airworthiness of that
+airplane.
+d. Airport Ambient Temperature. The official National Weather Service (NWS)
+temperature at the airport.
+e. Airworthiness Limitations. In terms of this AC, mandatory maintenance of the fuel
+system that can include critical design configuration control limitation (CDCCL), inspections, or
+other procedures determined necessary to ensure that unsafe conditions do not occur and are not
+introduced into the fuel system as a result of maintenance actions, repairs, or alterations
+throughout the operational life of the airplane.
+f. Applicant. In the context of this AC, an applicant is a person applying for design
+approval.
+g. Available. In this AC, “available” relates to the requirement to use ground-conditioned
+air. In this regard it means a ground-conditioned air hookup is installed, and is operational at the
+gate. (Mobile ground-conditioned air carts are not required to be used.)
+h. Center Wing Fuel Tank (CWT). A fuel tank located in the center of an airplane’s
+wing box. These tanks are typically located within the fuselage contour but may extend outside
+the fuselage contour into the wing.
+i. Continued Airworthiness. Certified aircraft, engines, propellers, and appliances are
+safe to operate for the intended purpose; they are maintained safely throughout their service life;
+the product meets its type design and is in a condition for safe operation.
+j. Critical Design Configuration Control Limitations (CDCCL). An AL that preserves
+a critical feature of the airplane needed for the flammability reduction means (FRM) or ignition
+mitigation means (IMM) to perform their intended function and prevent the occurrence of an
+unsafe condition. The purpose of the CDCCL is to provide instructions to ensure these critical
+features are present throughout the life of the airplane, e.g., when alterations, repairs, or
+maintenance actions occur.
+Page 1
+AC 120-98A 6/22/12
+Appendix 2
+k. Design Approval Holder (DAH). The holder of any design approval, including TC,
+amended TC, Supplemental Type Certificate (STC), amended STC, parts manufacturer approval,
+Technical Standard Order (TSO) authorization, letter of TSO design approval, and field
+approvals. In particular contexts, the term DAH may also refer to applicants for design
+approvals.
+l. FAA Oversight Office. The Aircraft Certification Office (ACO) or office of the
+Transport Airplane Directorate having oversight responsibility for the relevant TC or STC, as
+determined by the Administrator. (See Appendix 3, FAA Oversight Offices, for listing of
+appropriate offices.)
+m. Field Approval. A design approval of a major repair or major alteration of an
+individual aircraft, aircraft engine, propeller, or appliance by an aviation safety inspector (ASI).
+This is documented by completing and signing Block 3 of FAA Form 337, Major Repair &
+Alteration (Airframe, Powerplant, Propeller, or Appliance). We approve these major repairs or
+alterations by either examining data only or by physically inspecting, demonstrating, or testing
+the product.
+n. Flammability Impact Mitigation Means (FIMM). Modifications developed by DAH
+for auxiliary fuel tanks that are required by Title 14 of the Code of Federal Regulations (14 CFR)
+part 26 to have an FRM or IMM installed. FIMM are only needed when the DAH or operator has
+determined that an auxiliary fuel tank installed by STC or field approval could have an adverse
+impact on the performance of an FRM or IMM.
+o. Flammability Reduction Means (FRM). Any system or feature intended and designed
+to reduce the flammability exposure of a fuel tank either by affecting oxygen levels or by
+affecting fuel vapor concentration levels.
+p. Flammable (with Respect to a Fluid or Gas). Susceptible to igniting readily or to
+exploding (14 CFR part 1). A non-flammable ullage is one where the fuel-air vapor is too lean or
+too rich to burn or is inert as defined below. For this AC, a fuel tank vapor space is considered
+flammable when the bulk average fuel temperature within the tank is within the flammable range
+for the fuel type being used. For any fuel tank that is subdivided into sections by baffles or
+compartments, the tank is considered flammable when the bulk average fuel temperature within
+any section of the tank is within the flammable range for the fuel type being used.
+q. Flight Standards Service (AFS) Offices. FAA headquarters (HQ) offices responsible
+for developing guidance and policy applicable to transport category airplanes for AEG personnel
+and AFS field personnel (Airworthiness and Operations ASIs) in the conduct of their
+responsibilities.
+r. Fuel Types. The Aircraft Flight Manual (AFM) lists the approved for use fuels for a
+given airplane type. Each fuel type has its own properties; those directly related to flammability
+are flash point and distillation characteristics. Property differences can occur in different batches
+of a given fuel type because of variations in the properties of the source crude oil and the refining
+process used to produce the fuel. The most widely used fuel types are JET-A/JET-A1, (with
+Page 2
+4/11/17 AC 120-98A CHG 1
+Appendix 2
+older airplanes approved for use of JET-B (JP-4)), per American Society for Testing and
+Materials (ASTM) Specification D1655-11b, Standard Specification for Aviation Turbine Fuels.
+s. Hazardous Atmosphere. An atmosphere that may expose maintenance personnel,
+passengers, or flightcrew to the risk of death, incapacitation, impairment of ability to self-rescue
+(escape unaided from a confined space), injury, or acute illness.
+t. Ignition Energy. The minimum amount of energy required to ignite fuel vapors.
+u. Ignition Mitigation Means (IMM). A system or feature intended and designed to
+prevent overpressure of a fuel tank following ignition of fuel or vapor in the tank.
+v. Inert. When the bulk average oxygen concentration within each compartment of the
+fuel tank is 12 percent or less from sea level up to 10,000 feet altitude, then linearly increasing
+from 12 percent at 10,000 feet to 14.5 percent at 40,000 feet altitude, and extrapolated linearly
+above that altitude.
+w. Inerting. A process where a noncombustible gas is introduced into the ullage of a fuel
+tank so that the ullage becomes non-flammable.
+x. Instructions for Continued Airworthiness (ICA). Documentation that sets forth
+instructions and requirements for maintenance that is essential to the continued airworthiness of
+an aircraft, engine, or propeller.
+y. Main Fuel Tank. Title 14 CFR part 25, § 25.981(b)(3)(iii) defines the main fuel tank
+as: “…a fuel tank that feeds fuel directly into one or more engines and holds required fuel
+reserves continually throughout each flight.” The functions of the main tanks are immediately
+available and operate without immediate supervision by the flightcrew in the event of failure or
+inadvertent depletion of fuel in an auxiliary tank. Generally, main tanks are those dedicated to
+the feed of the engines during engine feed isolation.
+z. Maintenance Instructions. Recommended periods for cleaning, inspection,
+adjustment, testing, lubrication, degree of inspection, applicable wear tolerances, and
+recommended work necessary for each part of the airplane and its engine auxiliary power units
+(APU), propellers, accessories, instruments, and equipment to provide for continued
+airworthiness of the airplane. Recommended overhaul periods and necessary cross-references to
+the ALS of the maintenance manual are also included (refer to 14 CFR part 25 appendix H,
+§ 25.3(b); and appendix A of AC 26-1, Part 26, Continued Airworthiness and Safety
+Improvements, for additional information.)
+aa. Maintenance Review Board Report (MRBR). Document intended for use by air
+carriers. It contains the initial minimum scheduled maintenance and inspection requirements for
+a particular transport category aircraft and on-wing engine program. Air carriers use the MRBR
+and its associated requirements to develop maintenance programs. (Refer to AC 121-22,
+Maintenance Review Boards, Maintenance Type Boards, and OEM/TCH Recommended
+Maintenance Procedures, for additional information.)
+Page 3
+AC 120-98A 6/22/12
+Appendix 2
+bb. Maintenance Significant Item (MSI).
+(1) Under Maintenance Steering Group – 3rd Task Force (MSG-3), items identified by
+the design approval holder whose failure could cause one of the following effects:
+• It could affect safety on the ground or in flight,
+• It could be undetectable during operations,
+• It could have a significant impact on operations, or
+• It could have a significant economic impact.
+(2) In terms of development of maintenance and inspection instructions, MSIs include
+systems, subsystems, modules, components, accessories, units, and parts.
+cc. Maintenance Steering Group – 3rd Task Force (MSG-3). A voluntary structured
+process developed by the industry and maintained by Airlines for America (A4A) to make
+decisions used to develop maintenance and inspection tasks and intervals for an airplane.
+dd. Maintenance Working Group (MWG). A working group of maintenance specialists
+from participating operators, the prime manufacturer, and the regulatory authority whose
+function is to develop airplane maintenance programs.
+ee. Maximum Payload Capacity. Is defined in 14 CFR part 119.
+ff. Normally Emptied. Defined in § 26.31(b) as: “…a fuel tank other than a Main Fuel
+Tank.” Main Fuel Tank is defined in § 25.981(b), and expanded above.
+gg. Operational. With regard to ground-conditioned air, means the ground air source is
+functional and has the capacity to provide air to the airplane.
+hh. Operator. Person who uses, causes, or authorizes another to use aircraft for air
+navigation, including piloting the aircraft.
+ii. Transport Category Airplanes. For the purposes of this AC, the group consists of
+turbine-powered transport category airplanes, provided that the TC for the airplane was issued
+after January 1, 1958, and that the airplane has either a maximum TC’d passenger capacity of 30
+or more, or a maximum payload capacity of 7,500 pounds or more, resulting from the original
+certification of the airplane.
+Page 4
+6/22/12 AC 120-98A
+Appendix 3
+APPENDIX 3. FAA OVERSIGHT OFFICES
+Airplane Manufacturer FAA Oversight Office
+Transport Airplane Directorate, International
+ATR – GIE Avions de Transport Régional
+Branch, ANM-116
+Transport Airplane Directorate, International
+Airbus
+Branch, ANM-116
+Transport Airplane Directorate, International
+BAE
+Branch, ANM-116
+Seattle Aircraft Certification Office
+Boeing—Seattle Area (ANM-100S) and/or Boeing Aviation Safety
+Oversight Office (ANM–100B)
+Bombardier New York Aircraft Certification Office
+Transport Airplane Directorate, International
+EADS CASA
+Branch, ANM-116
+deHavilland New York Aircraft Certification Office
+Transport Airplane Directorate, International
+Dornier
+Branch, ANM-116
+Transport Airplane Directorate, International
+Embraer
+Branch, ANM-116
+Transport Airplane Directorate, International
+Fokker
+Branch, ANM-116
+Lockheed Martin Atlanta Aircraft Certification Office
+Los Angeles Certification Office (ANM–100L
+Boeing—Long Beach (McDonnell-Douglas) and/or Boeing Aviation Safety Oversight
+Office (ANM–100B)
+Transport Airplane Directorate, International
+SAAB
+Branch, ANM-116
+Page 1 (and 2)
+Advisory Circular Feedback Form
+If you find an error in this AC, have recommendations for improving it, or have suggestions for
+new items/subjects to be added, you may let us know by contacting the Flight Standards
+Directives Management Officer at 9-AWA-AFS-140-Directives@faa.gov.
+Subject: AC 120-98A CHG 1, Operator Information for Incorporating Fuel Tank Flammability Reduction
+Requirements into a Maintenance and/or Inspection Program
+Date: _____________________
+Please check all appropriate line items:
+An error (procedural or typographical) has been noted in paragraph ____________
+on page _______.
+Recommend paragraph _____________ on page __________ be changed as follows:
+______________________________________________________________________
+______________________________________________________________________
+In a future change to this AC, please cover the following subject:
+(Briefly describe what you want added.)
+______________________________________________________________________
+______________________________________________________________________
+Other comments:
+______________________________________________________________________
+______________________________________________________________________
+I would like to discuss the above. Please contact me.
+Submitted by: Date: ______________________

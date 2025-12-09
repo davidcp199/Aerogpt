@@ -1,0 +1,136 @@
+Advisory
+Circular
+Subject: Preventive Maintenance Date: 4/18/07 AC No: 43-12A
+Initiated by: AFS-350 Change: 1
+1. PURPOSE. This advisory circular (AC) has been updated to reflect changes to Title 14 of
+the Code of Federal Regulations (14 CFR) part 43, regarding preventive maintenance.
+2. PRINCIPLE CHANGES. This change removes paragraphs 4f and 4g previously included
+in AC 43-12A to explain the extensive rule changes effective October 15, 1982. This change
+incorporates current revisions to part 43 including:
+a. Paragraph 3b(3) references part 43, appendix A, paragraph (c)(30), which defines when
+inspection and maintenance tasks are considered preventive maintenance.
+b. Paragraph 3c(1) adds § 43.3 (h) and (i) and removes obsolete references to § 43.5.
+c. Paragraph 3c(2) references conditions included in § 43.3 (h) and (i) under which holders
+of certificates issued under 14 CFR part 135 may perform preventive maintenance.
+d. Paragraph 3c(3) includes the addition of holders of sport pilot certificates to those who
+may perform preventive maintenance as described in §§ 43.3 and 43.7.
+PAGE CONTROL CHART
+Remove Pages Dated Insert Pages Dated
+1 thru 4 10/28/83 1 thru 4 4/18/07
+ORIGINAL SIGNED BY
+Roger C. Forshee for
+James J. Ballough
+Director, Flight Standards Service
+Advisory
+Circular
+Subject: Preventive Maintenance Date: 4/18/07 AC No: 43-12A
+Initiated by: AFS-350 Change: 1
+1. PURPOSE. This advisory circular (AC) provides information concerning preventive
+maintenance, including who may perform it, the standards of performance applicable to it,
+authority for approval for return to service, and the applicable recording requirements. This AC
+clarifies those areas most frequently misunderstood in the past.
+2. RELATED 14 CFR REFERENCES.
+a. Title 14 of the Code of Federal Regulations (14 CFR) part 1, § 1.1, General definitions.
+b. Part 43, Maintenance, preventive maintenance, rebuilding, and alteration.
+c. Part 61, Certification: Pilots, flight instructors, and ground instructors.
+d. Part 91, General operating and flight rules.
+e. Part 145, Repair stations.
+3. PREVENTIVE MAINTENANCE.
+a. Focus.
+(1) The following are authorized to perform preventive maintenance and other
+maintenance:
+• The holders of mechanic and repairman certificates
+• Persons working under the supervision of these mechanics and repairman
+• Repair stations certificated under part 145
+• Air carriers certificated under 14 CFR parts 121 and 135
+(2) Because these persons are authorized to perform maintenance functions as both
+preventive and other maintenance, it is of little consequence to them how a particular function is
+classified. Additionally, the procedures used in approving items for return to service and
+AC 43-12A CHG 1 4/18/07
+recording preventive and other maintenance are identical. This AC will, therefore, consider
+preventive maintenance from the point of view of the owner/operator or pilot.
+b. Preventive Maintenance. Section 1.1, defines preventive maintenance as “simple or
+minor preservation operations and the replacement of small standard parts not involving complex
+assembly operations.”
+(1) Part 43, appendix A, paragraph (c) contains the Federal Aviation Administration’s
+(FAA) list of tasks that meet the requirements of the preventive maintenance definition. If a task
+or maintenance function does not appear in the list, it is not preventive maintenance. Also,
+because of differences in aircraft, a function may be preventive maintenance on one aircraft and
+not on another. To provide for this, paragraph (c) contains the limitation, “provided it does not
+involve complex assembly operations” on the aircraft involved. Owners and pilots must use good
+judgment when determining if a specific function should be classified as preventive
+maintenance.
+(2) As described in part 43, appendix A, paragraph (c)(30), inspection and maintenance
+tasks are considered preventive maintenance if they are prescribed and specifically identified as
+preventive maintenance in a primary category aircraft type certificate or Supplemental Type
+Certificate holder’s approved special inspection and preventive maintenance program. The tasks
+must be performed by the holder of at least a private pilot certificate issued under part 61 who is
+the registered owner (or co-owner) of the aircraft.
+c. Authorization to Perform Preventive Maintenance and Approve for Return to Service.
+(1) In addition to those persons listed in paragraph 3a, § 43.3(g), (h), and (i) authorize
+the holder of a pilot certificate issued under part 61 to perform preventive maintenance.
+Section 43.7 limits the privilege to persons holding at least a private or sport pilot certificate and
+§ 91.407(a)(1) prohibits operation of the aircraft unless approved for return to service. Further,
+pilots may only approve for return to service preventive maintenance which they themselves
+have accomplished.
+(2) A pilot may only perform preventive maintenance on an aircraft used under part 135
+if the conditions of § 43.3(h) and (i) are met.
+(3) The holder of a sport pilot certificate may perform preventive maintenance on an
+aircraft owned or operated by that pilot and issued a Special Airworthiness Certificate in the
+light-sport category.
+NOTE: A pilot may not perform preventive maintenance on aircraft used
+under part 121, even if the pilot owns the aircraft.
+d. Applicable Performance Standards. Section 43.13 requires that those performing
+preventive maintenance do the following:
+(1) Use methods, techniques, and practices acceptable to the Administrator. These are
+normally set forth in the manufacturer’s maintenance manuals; however, some may be found in
+ACs published by the FAA.
+Page 2 Par 3
+4/18/07 AC 43-12A CHG 1
+(2) Use the tools, equipment, and test apparatus necessary to ensure the work is
+completed in accordance with accepted industry practices. This means that the person
+performing the preventive maintenance must use proper tools and test apparatus, appropriately
+calibrated, if applicable. Normally these are listed as part of any FAA-approved manufacturer’s
+maintenance literature.
+(3) Use any special equipment recommended by the manufacturer, or an equivalent to
+that equipment, in a manner acceptable to the Administrator. This provision is more directly
+applicable to maintenance than preventive maintenance, but owners and pilots should be aware
+of it.
+NOTE: Equivalent equipment must be FAA-approved.
+(4) Perform work in such a manner, and use materials of such quality, that the item
+worked on is at least equal to its original condition upon completion of the work. Exercise
+caution because some functions which appear to be simple tasks may, in fact, be quite
+complicated. Owners/operators should ensure that the individual performing the preventive
+maintenance understands the manufacturer’s instructions, and the function is within the
+individual’s capability. The function must be within the definition of preventive maintenance,
+and listed in part 43, appendix A, paragraph (c).
+e. Recording Preventive Maintenance. As required by § 43.9, preventive maintenance
+must be recorded by entering the following information into the maintenance record of the item
+worked on:
+(1) “A description (or reference to data acceptable to the Administrator) of the work
+performed” (§ 43.9(a)(1)). The description should indicate what was done and how it was done.
+This is normally quite simple for preventive maintenance; however, if the description is
+extensive, it is acceptable to reference documents containing that description. These may be
+manufacturer’s manuals, ACs, or other documents or references containing data acceptable to the
+Administrator. If documents other than types commonly used are referenced, the document
+should be included in the maintenance record.
+(2) “The date of completion of the work performed” (§ 43.9(a)(2)). This is self
+explanatory and is the date on which the entry is made.
+(3) If the work has been performed satisfactorily,“...the signature, certificate number,
+and kind of certificate held by the person approving the work” (§ 43.9(a)(4)). When preventive
+maintenance is performed as authorized in § 43.3(g), (h), and (i), the certificate may be indicated
+in a manner which would be clear to the reader (e.g., PP, CP, or ATP might be used to indicate
+private, commercial, or airline transport pilot, respectively). The certificate number is that
+number displayed on the certificate being exercised. Affixing a signature to the entry, which
+describes the work accomplished, constitutes approval for return to service.
+NOTE: Section 43.9(a)(3) is not applicable when preventive maintenance is
+performed by the holder of a pilot’s certificate because owners/pilots are not
+authorized to approve work accomplished by others. The only person who
+Par 3 Page 3
+AC 43-12A CHG 1 4/18/07
+can sign the approval for return to service is the holder of the pilot’s
+certificate who is performing the preventive maintenance.
+4. CONTACT. For additional information please contact the General Aviation and Avionics
+Branch, AFS-350, at (202) 267-3546.
+5. AVAILABILITY. You may obtain a copy of this AC online at http://rgl.faa.gov
+Page 4 Par 3

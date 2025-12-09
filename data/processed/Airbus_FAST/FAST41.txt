@@ -1,0 +1,1990 @@
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+1
+4
+T
+S
+A
+F
+41
+D E C E M B E R 2 0 0 7
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+14TSAF
+JD UE LC YE M 2B 0E 0R 7 2 0 0 7
+4401
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+Longer service life for the A320 Family
+The Extended Service Goal project
+Nicolas Chrétien
+In Service A320 Family enhancement
+Amajor avionics system enhancement package
+Pierre Magro
+AIRMAN Rep@ir Manager for A380
+Publisher: Bruno Piquet
+Faster and easier structural damage
+Editor: Kenneth Johnson
+location and assessment
+Assisted by Agnès Massol-Lacombe
+Aurélie Duffort
+Graphic Designer: Agnès Massol-Lacombe
+Colin Smart
+Cover:
+The ESG and ISEP possibilities described
+in this FAST will enhance the efficiency,life and Airbus Pilot Instructor Courses (APIC)
+residual value of the A320 Family.
+The gateway to excellence in pilot training
+Authorization for reprint of FAST Magazine articles should be requested Captain Michael Varney
+from the editor atthe FAST Magazine e-mail address given below
+Customer Services Communications
+Tel:+33 (0)5 61 93 43 88 Dynamic wiring in Airbus Technical Data
+Fax:+33 (0)5 61 93 47 73
+e-mail:fast.magazine@airbus.com Interactive and efficient new navigation
+Printer:Escourbiac through aircraft wiring data
+Jean Comte
+FAST Magazine may be read on Internet
+http://www.content.airbusworld.com/SITES/Customer_services/index.html
+under ‘Quick references’ A300/A300-600 Krueger flap system
+ISSN 1293-5476
+Recommendations to avoid Krueger surfaces
+©AIRBUS S.A.S.2007.AN EADS COMPANY interference
+All rights reserved.Proprietary document Valérie Laprime-Baulleret
+By taking delivery of this Magazine (hereafter “Magazine”),you accept on behalf of
+your company to comply with the following.No other property rights are granted by the The gateway to excellence in pilot training
+delivery of this Magazine than the right to read it,for the sole purpose of information.
+This Magazine,its content,illustrations and photos shall not be modified nor repro- Part 2
+duced without prior written consent of Airbus S.A.S.This Magazine and the materials
+it contains shall not,in whole or in part,be sold,rented,or licensed to any third party
+subject to payment or not.This Magazine may contain market-sensitive or other infor- Customer Services
+mation that is correct at the time of going to press.This information involves a number Around the clock...Around the world
+of factors which could change over time,affecting the true public representation.
+Airbus assumes no obligation to update any information contained in this document or
+with respect to the information described herein.The statements made herein do not
+constitute an offer or form part of anycontract.They are based on Airbus information
+and are expressed in good faith but no warranty or representation is given as to their
+accuracy.When additional information is required,Airbus S.A.S can be contacted to
+provide further details.Airbus S.A.S shall assume no liability for any damage in con-
+nection with the use of this Magazine and the materials it contains,even if Airbus S.A.S
+has been advised of the likelihood of such damages.This licence is governed by French
+law and exclusive jurisdiction is given to the courts and tribunals of Toulouse (France)
+without prejudice to the right of Airbus to bring proceedings for infringement of copy-
+right or anyother intellectual property right in anyother court of competent jurisdiction.
+Airbus,its logo,A300,A310,A318,A319,A320,A321,A330,
+A340,A350,A380 and A400M are registered trademarks.
+This issue of FAST Magazine has been printed
+on paper produced without using chlorine,to reduce Photo copyright Airbus
+Photo credits: waste and help conserve natural resources.
+Airbus Photographic Library,exmcompany,Airbus France Every little helps!
+1
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+2
+6
+11
+20
+24
+31
+36
+37
+ERRATUM FAST40- page11 The text should have read:
+“If all of the PAPI system lights are red,you are below the guide path”
+Ilb fige ahl l o lt wso fa t rt h hee e rg eP udA i,d Pye Io sup y a sat trh ee. m instead of white
+Customer Services
+events
+14TSAF
+CUSTOMER SUPPORT AROUND THE CLOCK... AROUND THE WORLD
+WORLDWIDE
+Bruce Jones
+VP Customer Support
+Tel: +33 (0)5 61 93 35 04
+Fax: +33 (0)5 61 93 41 01
+Just happened Coming soon USA/CANADA
+François Mourareau
+Senior Vice President Customer Support
+A300/A310 FAMILY A330/A340 FAMILY Tel: +1 (703) 834 3506
+Fax: +1 (703) 834 3463
+TECHNICAL SYMPOSIUM TECHNICAL SYMPOSIUM
+TOULOUSE,FRANCE DUBAI,UNITED ARAB EMIRATES CHINA
+Customer support centres
+5-9 NOVEMBER 2007 11-15 MAY 2008 Pierre Steffen Training centres
+Vice PresidentCustomer Support
+The Technical Symposium Airbus is pleased to announce Spares centres / Regional warehouses
+Tel: +86 10 804 86161 Ext 5040
+Resident Customer Support Managers (RCSM)
+attracted 85 participants from 41 the date and location of the next Fax: +86 10 804 86162 / 63
+airlines and many vendors and A330/A340 Symposium. RCSM location Country RCSM location Country
+RESIDENT CUSTOMER SUPPORTADMINISTRATION
+Abu Dhabi United Arab Emirates Lisbon Portugal
+MROs also attended. There was The symposium is the opportu- Jean-Philippe Guillon Algiers Algeria London United Kingdom
+constructive discussion on many nity to review actual in-service Director Al-Manamah Bahrain Louisville United States of America
+technical aspects and also the experience with the A330/A340 Resident Customer Support Administration Almaty Kazakhstan Luton United Kingdom
+Tel: +33 (0)5 61 93 31 02 Amman Jordan Macau S.A.R. China
+Airbus plans for the Long Term Family of aircraft as well as to Amsterdam Netherlands Madrid Spain
+Fax: +33 (0)5 61 93 49 64
+Athens Greece Manchester United Kingdom
+Support of the programme. The discuss subjects of more general
+Auckland New Zealand Manila Philippines
+TECHNICAL,SPARES,TRAINING
+main items of discussion includ- technical interest. A provisional Baku Azerbaijan Marrakech Marocco
+Airbus has its main spares centre in Hamburg, Bandar Seri BegawanBrunei Mauritius Mauritius
+ed continued improvements in agenda will be sent in due time. and regional warehouses in Frankfurt, Bangalore India Memphis United States of America
+dispatch reliability for the fuel Washington D.C., Beijing and Singapore. Bangkok Thailand Mexico City Mexico
+Barcelona Spain Miami United States of America
+system and the prevention of MATERIAL,SUPPLIERS
+Airbus operates 24 hours a day every day. Beijing China Milan Italy
+hydraulic leaks. The continued AND WARRANTY SYMPOSIUM Beirut Lebanon Minneapolis United States of America
+Airbus Technical AOG Centre (AIRTAC) Berlin Germany Montreal Canada
+availability of spare parts, for the CANCUN,MEXICO
+Tel: +33 (0)5 61 93 34 00 Bogota Colombia Moscow Russia
+long term, was also appreciated JUNE 2008 Fax: +33 (0)5 61 93 35 00 Brussels Belgium Mumbai India
+Bucuresti Romania Nanchang China
+byoperators. The symposium objectives will support.airtac@airbus.com Budapest Hungary Nanjing China
+be to review together strategic Spares AOGs in North America should be Buenos Aires Argentina New York United States of America
+Cairo Egypt Newcastle Australia
+TECHNICAL DATA SUPPORT AND directions and current support addressed to: Caracas Venezuela Ningbo China
+SERVICES SYMPOSIUM and services initiatives within Tel: +1 (703) 729 9000 Changchun China Noumea New Caledonia
+Fax: +1 (703) 729 4373 Charlotte United States of America Palma de Mallorca Spain
+TOULOUSE,FRANCE the material, logistic, supplier & Chengdu China Paris France
+12-15 NOVEMBER 2007 warranty domains. Spares AOGs outside North America Cologne Germany Paro Bhutan
+should be addressed to: Colombo Sri Lanka Phoenix United States of America
+The symposium attracted 150 Presentations, dedicated work- Tel: +49 (40) 50 76 4001 Columbus United States of America Pittsburgh United States of America
+participants, customers, MROs shops and bilateral meetings will Fax: +49 (40) 50 76 4011 Copenhagen Denmark Prague Czech Republic
+Damascus Syria Quito Ecuador
+and suppliers from all over the provide a forum for airlines, sup- aog.spares@airbus.com Delhi India Rome Italy
+world. The Theme was ‘Deve- pliers and Airbus to pursue fur- Spares related HMV issues outside D D e e n tr v o e it r U U n n i i t t e e d d S S t t a a t t e e s s o o f f A A m m e e r r i i c c a a S S a a n n F S r a a lv n a c d is o c r o U El n S it a e l d v a S d t o a r tes of America
+loping for the Future’ and the ther solutions in optimizing the North America should be addressed to: Dhaka Bangladesh Sana’a Yemen
+current and upcoming develop- cost of aircraft ownership and Tel: +49 (40) 50 76 4003 Doha Qatar Santiago Chile
+Fax: +49 (40) 50 76 4013 Dubai United Arab Emirates Sao Paulo Brazil
+ments were outlined during the increasing aircraft operational Dublin Ireland Seoul South Korea
+hmv.spares@airbus.com
+Dusseldorf Germany Shanghai China
+main presentations, including availability. The event will also
+Fort Lauderdale United States of America Sharjah United Arab Emirates
+Airbus Training Centre Toulouse, France
+feedback about implemented or provide an insight into the devel- Frankfurt Germany Shenyang China
+Tel: +33 (0)5 61 93 33 33
+Guangzhou China Shenzhen China
+scheduled optimization for oping warranty and material Fax:+33 (0)5 61 93 20 94 Haikou China Singapore Singapore
+advanced consultation, enhanced management related e-services Hamburg Germany Sydney Australia
+Airbus Maintenance Training Centre Hamburg, Hangzhou China Taipei Taiwan
+data deliverables and sustained and the latest in Supplier
+Germany Hanoi Vietnam Tashkent Uzbekistan
+customer support. Many product Support Conditions (SSC). Tel: +49 40 743 88288 Helsinki Finland Tehran Iran
+demonstrations and workshops Fax: +49 40 743 88588 Hong Kong S.A.R. China Tel Aviv Israel
+Indianapolis United States of America Tokyo Japan
+were held, which generated fruit- Istanbul Turkey Toluca Mexico
+Airbus Training subsidiaries Jakarta Indonesia Tripoli Libya
+ful discussion and feedback on
+Miami, USA - Florida Johannesburg South Africa Tulsa United States of America
+the Airbus TD deliverables such Tel: +1 (305) 871 36 55 Karachi Pakistan Tunis Tunisia
+as AirN@v Modules, ADOC, Fax:+1 (305) 871 46 49 Kita-Kyushu Japan Vienna Austria
+Kuala Lumpur Malaysia Washington United States of America
+Beijing, China
+AirbusWorld and SB+. Kuwait City Kuwait Wuhan China
+Tel: +86 10 80 48 63 40 Lanzhou China Xi'an China
+Fax:+86 10 80 48 65 76 Larnaca Cyprus Zurich Switzerland
+37
+3
+14TSAF
+LONGER SERVICE LIFE FOR THE A320 FAMILY-THE EXTENDED SERVICE GOAL PROJECT LONGER SERVICE LIFE FOR THE A320 FAMILY-THE EXTENDED SERVICE GOAL PROJECT
+The Family today
+Distribution of A320 Family operator fleet
+average flight duration vs.daily cycles
+The 3,300 aircraft delivered to date
+are spread over the world with the
+associated diversity of operations.
+Typically, aircraft are flying on
+Daily cycles
+average 1.84 hours per flight with
+9
+a large range of variation between
+40 minutes and more than 4 hours 8
+per flight. Logically, some aircraft 7
+will reach the FH limit before the
+6
+FC one and vice-versa depending
+on if they are performing longer 5
+flights or used on short routes.
+4
+The Family 3
+tomorrow 2
+1
+ESG justification to prove mainte-
+0
+nance programme validity/update 0 1 2 3 4
+will be achieved in two steps Average flight duration(hours)
+(pending test results):
+• ESG I: 60,000FC/120,000FH
+• ESG II: to be certified based A320-200 fleet end 2015
+on tests to be continued after
+ESG I when the economic limit
+of the airframe maintainability
+will be reached.
+FC
+80,000
+These values have been defined
+based on today’s average figure of 70,000 Dec.2010 A320-200 MSN<1081
+Dec 2010A320-200 MSN<1081
+about two flight hours per flight 60,000FC Dec D 2 e 0 c 1 . 0 20 A 1 3 0 2 0 A - 3 2 2 0 0 0 -2 M 00 S N M > S 1 N 0 > 8 1 1 081
+60,000 10,000FH Dec.2015 A320-200
+cycle. Estimations at today’s rate are Dec 2015 A320-200
+showing that FH driven aircraft will 50,000 48,000FC
+60,000FH
+reach 120,000FH at the earliest in
+2022 and FC driven aircraft will 40,000 37,000FC
+80,000FH
+reach 60,000FC at the earliest in 30,000
+100,000FH
+2017. This represents at least 10 to
+80,000FH
+15 years of further operations with 20,000
+48,000FH
+ESG I, and even more with ESG II.
+10,000
+For aircraft reaching 60,000FH, 0
+0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00 3.25 3.50 3.75 4.00
+an Intermediate Service Goal
+Average flight duration
+(ISG) solution is available with its
+updated maintenance programme
+formally approved by the air-
+worthiness authorities with only
+ISG and ESG envelope for
+minor adaptations to allow these A320-200 aircraft
+FH-driven aircraft to be operated
+until ESGI completion, whose
+maintenance programme is plan- Initial DSG ISG ESG I ESG II
+ned by the end of 2010.Priority is
+FC FH FC FH FC FH FC FH
+given to the A320-200, as the ear-
+liest aircraft of this type will reach 48,000 60,000 37,500 80,000 60,000 120,000 90,000 180,000
+the current Design Service Goal
+(DSG) first, the A321, A319 and
+A318 values will also be extended
+to be the same as the A320-200.
+3
+14TSAF
+Longer service
+life for the A320 Family
+The Extended Service Goal project
+After nearly20 years of successful operation, now Based on in-service experience and market expec-
+with more than 3,300 aircraft in-service and 200 tations, Airbus launched at the beginning of 2007
+operators, the maintenance programme of the first the Extended Service Goal (ESG) project for all
+aircraft is nowcoming close to the end of the orig- A321, A320-200 (excluding a specific configura-
+inal approved validity. Demand for A320 Family tion with bogie main landing gear), A319 and
+aircraft has never been so high and the A320 is A318 aircraft. Its objective is to enable the current
+still the most efficient aircraft in its category, with A320 Family fleet to fly beyond 48,000FC and
+operators still seeing significant potential for their 60,000FH.
+earliest aircraft in terms of both revenue and
+residual value. This article describes the ESG project and the
+benefits operators will derive from it.
+The fleet leader in hours reached 60,000 flight
+hours (FH) in October 2007.The fleet leader in
+cycles will reach 48,000 flight cycles (FC) at the
+beginning of 2011.
+Nicolas Chrétien
+A320 Family Programme
+Airbus Customer Services
+2
+5
+14TSAF
+LONGER SERVICE LIFE FOR THE A320 FAMILY-THE EXTENDED SERVICE GOAL PROJECT LONGER SERVICE LIFE FOR THE A320 FAMILY-THE EXTENDED SERVICE GOAL PROJECT
+A320 first delivery in 1988
+ESG project 2009 with ESG I formal mainte-
+nance programme update approval
+timescale
+mid 2010.
+The ESG project launched at the Tests will be continued until mid
+beginning of 2007 will go into active 2010 to assess and confirm ESG II
+phase with the startof the full-scale requirements with formal mainte-
+fatigue tests in January2008. nance programme update approval CONTACT DETAILS
+expected in 2011 or 2012, depend- Nicolas Chrétien
+Test cycles to justify requirements ing on the test results. A320 Family Programme
+for ESG I will be reached in July Airbus Customer Services
+Tel: +33 (0)5 61 93 31 83
+Fax:+ 33 (0)5 61 30 00 79
+nicolas.chretien@airbus.com
+Conclusion
+After 20 years of successful operation, generate additional revenue from flying
+the A320 Family is still the most efficient their aircraft longer, increase the aircraft
+in its category and operators see residual value and enable them to
+significant further potential in their earliest maximize benefits from fleet upgrade and
+aircraft for revenue and residual value. harmonization projects like the Airbus In-
+Based on these operator expectations and Service Enhancement Project (ISEP)*, the
+in-service experience Airbus launched the enhanced cabin, or fuel saving measures
+Extended Service Goal project for all A320 offered by Airbus to keep in-service
+Family aircraft to make the most of the aircraft at the highest level of efficiency.
+aircraft’s potential and enable operators to
+benefit from their longer life. The early A320 Family aircraft started the
+successful family story and will further
+Implementation of the ESG I package will contribute to it by continuing to fly in the
+enable operators to operate their A320, next couple of decades as enduring,
+A321, A319 and A318 aircraft for an reliable and efficient aircraft generating
+additional 10 to 20 years and even longer further revenue for their operators.
+with ESG II. This will enable them to *See next article
+5
+14TSAF
+0
+100
+80
+0
+30
+3Dview of FWD nose section A series of fatigue
+0
+equipment for fatigue test
+29 tests to reach the
+91
+0 target
+To ensure adequate justification of
+16
+31 the ESG and in addition to the cal-
+61 culation and Finite-Element-Model
+0 simulation, full-scale fatigue tests
+will be performed. Specific test
+sections are being manufactured
+23 3Dview of test facility taking the original configuration
+18 environment to perform pylon fatigue test into consideration and the specifici-
+38
+ties of each type, including A321
+0
+sections for example.
+Full-scale fatigue tests will be per-
+0 formed on partial aircraft sections:
+100
+• AFT section, from section 16A
+65
+39 to tail cone
+• Central section, from 13A to 17
+plus wings
+• FWD section, from section 11
+23
+0 to 14A
+100 • Pylon.
+19 Results will confirm the fatigue
+behaviour of the complete aircraft.
+82 Compared to the initial and more
+0 Wings for ESG central test section conservativefull-scale fatigue tests
+28
+52 performed previously, the new
+tests will allow:
+• To take the 20 years
+experience in A320 Family
+0
+operation into account
+78
+74 • The use of new generation
+0 calculation and simulation
+methods
+• To use a modern and
+0 more representativetest
+60 environment.
+100
+0
+4
+ISEP core package
+ISEP is a compilation of fully
+proven Airbus Service Bulletins,
+selected for their impact on cost
+savings, operational capability and
+aircraft residual value.
+The ISEP core package covers the
+following:
+1 FMS2 (Flight Management
+System second generation)
+Provides core flight manage-
+ment with sufficient NAV
+Database capacity and sophisti-
+cation to meet current and
+future air traffic management
+requirements.
+2 EIS2 (Electronic Instrument improved memory BITE (Build
+System second generation) In Test Equipment), Present
+Updates the EIS cathode ray Position (PPOS) improvement
+tube screens to six Liquid alignment function, and
+Crystal Display flat-screen enhanced RVSM (Required
+=2xFMS2
+technology, enabling new Vertical Separation Minima) =MMR (ILS + GPS)
+graphic features and reducing capability that halves the verti- =3xADIRU*
+maintenance costs. cal distance required between =6xEIS2 LCD
+3 ISIS (Integrated Stand-by two aircraft. =GPS antenna
+Instrument System) 7 ATSU (Air Traffic Services =ATSU
+Replaces three conventional Unit) =VDL mode 2
+electro-mechanical standby ins- Centralizes all data communi- =2xDCDU
+-ISIS
+truments (altimeter, airspeed cation between air traffic con-
+-FDIMU (replaces FDIU + DMU)
+and standby horizon), adds new trollers and airlines operations
+-CFDIU
+functions and contributes to cost centre, allowing accurate deliv-
+reduction. ery of flight movement and =Components for low RNP
+4 DCDU (Data Communication maintenance reports. =Components for FANS B
+Display Unit) 8 VDL mode 2(VHF Data Radio)
+Provides the human machine Improves the data rate
+interface for air traffic data exchange between aircraft and
+communications. the ground station. Its activ-
+5 MMR (Multi-Mode Receiver) ation completes the ATSU
+Provides a Global Positioning installation for Future Air Nav-
+System (GPS) receiver and igation System B (FANS B)
+Instrument Landing System 9 FDIMU (Flight Data Interface
+(ILS) functions in a single box, Management Unit)
+increasing navigation accuracy, Provides the function of Data
+reducing crew workload and Management Unit and Flight
+supporting future landing Data Interface Unit in a
+systems. single box and reduces
+6 ADIRU(Air Data Inertial operational costs.
+Reference Unit)4MCU 10 CFDIU (Centralized Fault
+Provides the precision required Display Interface Unit)
+to support Required Navigation Enables the new systems BITE
+Performance called Low RNP, (Built In Test Equipment)
+the previous fit of ADIRU acquisition, indexing all fail-
+10MCU does not provide this ures from each ISEP compo-
+precision. ADIRU 4MCU also nent memory and improves
+brings other advantages like trouble shooting.
+lower power consumption, 11 GPS antenna
+7
+14TSAF
+IN-SERVICE A320 FAMILY ENHANCEMENT-MAJOR AVIONICS SYSTEM ENHANCEMENT PACKAGE IS AVAILABLE IN-SERVICE A320 FAMILY ENHANCEMENT-MAJOR AVIONICS SYSTEM ENHANCEMENT PACKAGE IS AVAILABLE
+2 2 3 2 2 2
+4 4
+2
+1 1
+ISEP core package
+7
+14TSAF
+1 FMS2
+2 EIS2
+3 ISIS
+4 DCDU
+Other equipment are not
+visible in the cockpit
+In-Service A320
+Family enhancement
+A major avionics system
+enhancement package
+Operators of A320 Family aircraft may have market conditions of today. It provides a core plat-
+received their aircraft over a number of years, or form for bringing earlier aircraft to current produc-
+leased or bought pre-owned aircraft, which can tion standards in major areas and is designed to
+result in differing fleet build standards and possi- bridge the gap between previous and later deliver-
+ble operational and cost penalties. ies in operational performance.
+Airbus now offers operators the ability to harmo- Immediate benefits include improved Operational
+nize their fleet standards for operational benefits Reliability (OR), reduced Direct Maintenance
+and cost savings. A comprehensive avionics Cost (DMC), lower spares costs, weight reduction
+enhancement package for A320 Family aircraft and significant operational savings. ISEP also
+called the In-Service Enhancement Package (ISEP) opens the door to greater operational performance
+is available. This offers the opportunity to adapt by providing the foundation for future operational
+fleets to compete in the increasingly challenging requirements.
+Pierre Magro
+Head of Avionics Product Line
+Airbus Customer Services
+6
+9
+14TSAF
+IN-SERVICE A320 FAMILY ENHANCEMENT-MAJOR AVIONICS SYSTEM ENHANCEMENT PACKAGE IS AVAILABLE IINN- SSEERRVVIICCEE AA332200 FFAAMMIILLYY EENNHHAANNCCEEMMEENNTT--MMAAJJOORR AAVVIIOONNIICCSS SSYYSSTTEEMM EENNHHAANNCCEEMMEENNTT PPAACCKKAAGGEE IISS AAVVAAIILLAABBLLEE
+FANS B
+ISEP meets
+operator
+requirements
+Low RNP
+ISEP was developed under the
+leadership of Airbus in close
+95% track keeping
+collaboration with major Airbus accuracyfor
+suppliers and operators, enabling +/- x nm deviation,
+an integrated, low-risk, and eco- xbeing the track
+deviation required nomically attractive solution. As
+it consists of proven solutions, RNAV(Area Navigation): Ability for an aircraft
+RNAV + On board
+the ordering process is straightfor- to fly routes independently of ground-based aids performance
+ward like any other Request for monitoring
+and alerting
+Change.
+2xRNP giving twice
+Airbus performs the primary inter- 4xRNP the track accuracy
+keeping of RNAV
+face and will provide a fleet offer,
+including the avionics hardware.
+Maintenance and spares issues RNP (Required Navigation Performance): Integrity and
+however are subject to direct RNAV with protection/containment throughout continuity
+discussion with the appropriate the operation with associated cockpit alerts requirements
+vendors.
+Maintenance
+ISEP offer
+Spares
+Suppliers
+Training
+Customer AIRBUS
+UpgradeServices
+9
+14TSAF
+0
+16
+31
+61
+0
+23
+Candidates for ISEP
+18
+38
+0
+0
+100
+65
+39
+23
+0
+100
+19 Candidates for Airbus assistance in management
+of the embodiment (turnkey solu-
+ISEP
+tion) if so desired.
+82
+0 The main candidates for ISEP are Benefits
+28
+aircraft manufactured before 2003,
+52
+in particular those delivered before
+Embodiment of the ISEP core
+1999 as shown above.
+package provides direct benefits.
+0 Operational improvements include
+Aircraft retrofit
+78 enhanced reliability, reduced main-
+74 tenance and spares costs, plus
+0
+The full ISEP package consists of weight reduction. Operational sav-
+around 40 Service Bulletins with ings come from reduced track
+equipment provided by Airbus. miles, fewer diversions, improved
+0 Installation during a standard 4C navigation performance, reduced
+60
+check or passenger to freighter fuel burnand less emissions.
+100
+0 conversion will allow significant ISEP consequently enables an
+time savings due to simultaneous increased aircraft residual value
+embodiment and reduced overall and a fleet harmonization.
+access times. The full embodiment
+duration is assessed at 2,000 man- The package can be used as a pow-
+hours, spread over 2.5 weeks with a erful lever to achieve greater opera-
+three-shift organization. tional performance. Indeed, it was
+formulated to enable a step change
+Operators may decide to split the in capability in two key areas: Air
+embodiment dependent on pre-con- traffic communications and naviga-
+figuration and maintenance plan- tion. It equips the aircraft with the
+ning. It could be split into three systems needed for Airbus Future
+packages, depending on the main- Air Navigation System B (FANS
+tenance operation, for example: B) for the requirements of the
+forthcoming Air Traffic Manag-
+ement era. FANS B is the Airbus
+Maintenance event Typical elapsed time ISEP Item
+response to the Eurocontrol link
+Check A:Line maintenance
+12H FMS2/MCDU 2000+ programme for utilization
+600FH/750FC/100 Days
+of ATC data link in high density
+Check C:Base maintenance MMR-ISIS - DCDU/VDL
+6,000FH/4,500FC/20M 5-7 days Mode 2 - FDIMU-ADIRU airspace with radar surveillance in
+HMV:Heavy maintenance the en-route phase. A European
+15-20 working days EIS 2-ATSU
+5Y/6Y or 10Y/12Y mandate is anticipated in 2014 for
+in-service aircraft.
+Customized studies are required if
+an operator chooses this approach ISEP prepares the aircraft for specif-
+to establish appropriate embodi- ic Required Navigation Perfor-
+ment of SBs with the maintenance mances called LowRNP (at or below
+events. Operators may also request 0.3 nm precision level).
+8
+04TSAF
+IN SERVICE A320 FAMILY ENHANCEMENT-MAJOR AVIONICS SYSTEM ENHANCEMENT PACKAGE IS AVAILABLE AIRMAN REP@IR MANAGER FOR A380 - FASTER AND EASIER STRUCTURAL DAMAGE LOCATION AND ASSESSMENT
+AIRMANT M Rep @ ir
+Manager for A380
+Faster and easier structural damage
+location and assessment
+Damage to aircraft structure can cause severe for tracing graphically structural damage. This
+operational interruption. It can also be difficult to new tool is called AIRMAN Rep@ir Manager and
+assess damage, find and collect relevant informa- is integrated into AIRMAN v9.2, the latest release
+tion from a wide variety of data sources and com- of the Airbus aircraft maintenance diagnosis and
+ply with regulatory record keeping requirements. troubleshooting tool.
+For the A380 Enhanced Support Initiatives, Airbus This article describes the objective, benefits and
+designed jointly with airlines a new friendly tool functions of AIRMAN Rep@ir Manager.
+Colin Smart Aurélie Duffort
+Structure Engineer Structure Repair Engineer
+SRM Development Airbus Customer Services
+Airbus Customer Services
+11
+14TSAF
+0
+16
+31
+61
+0
+The supply chain
+23
+18
+38 Supply chain management was
+0
+carefully considered during the
+development phase of ISEP.
+0 Airbus will produce the Service
+100 Bulletins and kits and deliver them
+65
+to a production schedule agreed
+39
+with suppliers of kit parts.
+Airbus could also manage the
+23
+embodiment of the package via
+0
+100 a turnkey solution, involving
+19 engineering support and working
+parties management.
+82
+0
+28
+52
+0
+78
+74
+0
+CONTACT DETAILS
+Pierre Magro
+0 Head of Avionics Product Line
+60 Airbus Customer Services
+100 Tel: + 33 (0)5 61 93 42 09
+0 Fax:+33 (0)5 62 11 08 47
+pierre.magro@airbus.com
+Conclusion
+In today’scompetitive environment opportunity to meet the needs of the
+and increasingly challenging market next ten years or more in the most cost
+conditions, the need to improve fleet effective manner.
+efficiency and reliability while reducing
+operating costs is fundamental for an Although simultaneous embodiment
+airline of the various Service Bulletins is
+recommended, operators can decide to
+From this perspective, ISEP can be retrofit their aircraft progressively by a
+apowerful and deciding factor to boost systems or functions implementation,
+operators competitiveness by enhancing based on aircraft scheduled maintenance
+operational capability, giving improved checks.
+Operational Reliability (OR), reduced
+Direct Maintenance Cost (DMC), lower ISEP is a key means to make a positive
+spares costs, a decreased weight and impact on A320 Family performance and
+significant operational savings (reduced in-service costs whilst offering a return on
+track miles and fuel burn, fewer investment, compounded by a positive
+diversions). effect on aircraft residual value. It further
+enhances the extension of aircraft
+ISEP considerably improves air operational life as described in the
+traffic communication and navigation Extended Service Goal project in the
+management and gives operators the previous article.
+10
+Capabilities
+AIRMAN Rep@ir Manager pro-
+vides the following capabilities:
+STRUCTURAL DAMAGE
+REPORT ACQUISITION
+This guides the user through the
+different steps of the compilation
+of a report: Location, description
+and assessment.
+It also helps the user to fill in
+repair and approval data in the rel-
+evant tab of the Structural Damage
+Report (SDR).
+SPECIFIC TOOL FOR ACCURATE
+DAMAGE LOCATION - AVI
+The Aircraft Virtual illustration
+(AVI) is a graphics tool used to
+locate the damage/repair on a 2D
+(two-dimensional) digital mock-up
+of the structure.
+Using the AVI, a user has direct
+access to the assembly drawings on
+which structural damage can be
+localized. The AVI uses a defined
+set of symbols to differentiate types
+of damage and colours depending
+on damage status (scratchpad,
+open, closed, deferred).
+SEARCH FUNCTION
+Using search criteria, users can get
+quick access to all the information
+stored for a given MSN (open and
+deferred actions, additional main-
+tenance requirements…), or dam-
+age (status, dimensions, allowable,
+repair and approval documents…)
+and can then launch the relevant
+actions if required.
+13
+14TSAF
+AIRMAN REP@IR MANAGER FOR A380 - FASTER AND EASIER STRUCTURAL DAMAGE LOCATION AND ASSESSMENT AIRMAN REP@IR MANAGER FOR A380 - FASTER AND EASIER STRUCTURAL DAMAGE LOCATION AND ASSESSMENT
+Report acquisition
+General principle
+of the AVI navigation
+Dedicated symbols according
+to damage type and status
+Search function
+13
+14TSAF
+65
+39
+23
+0
+100
+19
+Objective • Engineering services
+82 for assessment, follow up
+0 and operational
+and data analysis.
+28
+52 benefits
+At any time, a user can directly
+AIRMAN Rep@ir Manager pro- access to:
+vides airlines with a simple method • The structural status
+0
+78 to view and locate non-conformities (list of open, closed and
+74 and in-service damage and repairs deferred items) of the entire
+0 on the external surfaces of the fleet or a specific MSN
+aircraft and to record details of (Manufacturers Serial Number)
+internal damage and repairs. Its • The structural damage and
+0 objective is to ease line mainte- repair history of any MSN
+60 nance’s structural damage report- by accessing all its repair files
+100
+ing and to reduce elapsed time to • The Dent and Buckle Chart
+0
+assess damage and authorize air- of each MSN.
+craft return to service. It allows to
+speed-up the resolution lead-time, With a laptop connected to the air-
+ensuring a cost-effective repair and line network and a valid access
+improving aircraft availability. to the AIRMAN-Airline database,
+when damage is found a user is able
+Key functions to reportit through a guiding inter-
+face. This guidance provides the
+AIRMAN Rep@ir Manager main- required information for damage
+AIRMAN
+ly serves two areas of activity with- evaluation and reporting back the
+integrated into AIRMAN
+in an airline: necessary data to the airline
+mini-user guide v9.2
+• Line and heavy maintenance Maintenance Control Centre(MCC),
+for damage reporting, or Airbus if further investigation is
+assessment and follow up required.
+Key functions
+Damage on fuselage skin
+12
+15
+14TSAF
+AIRMAN REP@IR MANAGER FOR A380 - FASTER AND EASIER STRUCTURAL DAMAGE LOCATION AND ASSESSMENT AIRMAN REP@IR MANAGER FOR A380 - FASTER AND EASIER STRUCTURAL DAMAGE LOCATION AND ASSESSMENT
+Damage from tailstrike(view looking up from below)
+Workflow
+The workflow when damage
+is discovered is as follows:
+Launch
+If the damage is not known,
+aStructural Damage Report
+(SDR) has to be created
+and is partially filled with data
+retrieved from the database.
+15
+14TSAF
+65
+39
+23
+0
+100
+19
+DENT AND BUCKLE CHART
+82 Dent & Buckle Chart
+0
+A Dent and Buckle Chart can be
+28
+52 generated automatically showing a
+list of all recorded damage classi-
+fied by ATA chapter and repair cat-
+egory (Category A for ‘no addi-
+0
+78 tional maintenance’, B for ‘specif-
+74 ic maintenance requirement’and C
+0 for ‘temporary repair’).
+LINK TO AIRBUS TECHNICAL
+0 DOCUMENTATION
+60
+100
+The SDR screen gives direct access
+0
+to AirN@v/Repair that provides
+access to the approved documen-
+tation data for structural mainte-
+nance, such as the Structural
+Repair Manual(SRM) andNon-
+DestructiveTesting Manual(NTM)
+for convenient and practical
+AirN@v / Repair
+guidance.
+1 2
+AirN@v / Repair Prepare
+• Discovery of damage,
+and PDRS
+the user logs onto
+AIRMAN Rep@ir Manager
+AirN@v / Repair is a module ded- and accesses recorded damage
+icated to the SRM and NTM. The on the specific MSN.
+manuals presented byAirN@v are • User navigates through
+envelope documents that can be the Aircraft Virtual Illustration
+filtered by MSN effectivity. (AVI) and locates the part
+where the damage
+The A380 SRM has been developed has been discovered. 2
+in AirN@v / Repair, including Pre- Launch
+Defined Damage Reporting Sheets
+(PDRS) specific to damage-prone
+1
+components and customized for Prepare
+common damage types. The PDRS
+simplifies damage assessment and
+summarizes important data for
+reporting structural damage.
+Repair & PDRS
+14
+17
+14TSAF
+AIRMAN REP@IR MANAGER FOR A380 - FASTER AND EASIER STRUCTURAL DAMAGE LOCATION AND ASSESSMENT AIRMAN REP@IR MANAGER FOR A380 - FASTER AND EASIER STRUCTURAL DAMAGE LOCATION AND ASSESSMENT
+17
+14TSAF
+65
+39
+23
+0
+100
+19
+82
+0
+28
+52
+3/4
+Locate
+0
+78
+74
+0
+0
+60
+100
+0
+5 7 7/8
+Assess Compile Compile
+From the ATA chapter and the The user saves the PDRS
+damage type, AIRMAN and finishes the damage report
+Rep@ir Manager opens the with the import of additional
+SRM through AirN@v / Repair documents (sketches, digital
+at the relevant identification pictures and SRM illustration).
+chapter,where the user selects If Airbus must be contacted,
+the associated Pre-defined the user fills in the ‘Operator’s
+3
+Locate Damage Reporting Sheet requirements’tab.
+The user opens the AVI again (PDRS) and Assessment
+8
+and locates the damage on the Flowchart available in the
+drawing. The identification Allowable Damage Limit task. The user validates the report.
+of the partis retrieved The damage report status
+6
+(assembly description, changes from ‘Scratchpad’
+SRM ATA chapter…). Using the flowchart, the user to ‘Open’(the user can then
+fills the PDRS (when available) send the reportto Airbus if
+4
+and assesses the damage required).
+The user continues to fill (location, size, proximity
+the SDR with the information to specific areas…) and reach-
+made available (precise es a diagnosis: 9 Repair and approve 9/10
+Repair and approve
+location). • Damage within allowable Once the technical statement
+tolerances. The user can release is available (from Airbus
+the aircraft ‘as is’or do or from the SRM), the user
+arework. Airbus does not need (the same or a different one
+to be informed with the necessary rights)
+5/6 • Damage is not allowable but creates a ‘New Repair’tab
+Assess can be repaired per the SRM. to record/attach into the
+Airbus does not need to be tool the relevant repair
+informed either recommendation documents.
+• Damage is outside SRM limits,
+10
+the airline must contact Airbus
+for a technical statement. The user can link to any
+relevant documentation to
+include it in the ‘Repair’tab.
+The ‘Approval’tab includes
+the necessary information
+depending on the damage
+category. It also allows
+specifying the type of repair
+(Temporary or Permanent)
+and the existence of additional
+maintenance requirements.
+16
+19
+14TSAF
+AIRMAN REP@IR MANAGER FOR A380 - FASTER AND EASIER STRUCTURAL DAMAGE LOCATION AND ASSESSMENT AIRMAN REP@IR MANAGER FOR A380 - FASTER AND EASIER STRUCTURAL DAMAGE LOCATION AND ASSESSMENT
+AIRMAN Rep@ir
+Rep@ir Manager evaluation
+Manager delivery
+Singapore Airlines,being the first operator of the A380,have recently evaluat-
+ed AIRMAN Rep@ir Manager and made the following comments:
+This new tool is delivered to A380
+customers integrated together with ‘The application tool is very user Rep@ir Manager can be deemed
+AIRMAN. The operator will have friendly.With enhanced damage as a one-stop application that will
+the possibility to download from the reporting features and links to the ease research and damage reporting.
+CDIS (Customization and Delivery SRM,the application makes research SIA foresees the tool will help to
+Information Services) portal into of information easy,all at the click of improve aircraft dispatch,as it
+the mouse.The feature to allow direct minimises the time spent on the
+AIRMAN Rep@ir Manager, a re-
+submission of damage reports to airline's administrative and
+cord of the relevant data and
+Airbus,cuts down a lot of the time operational activities.
+location of the structural non-
+wasted on crafting damage reports,
+conformities occurring during pro-
+which traditionally was done using Airbus has made major strides
+duction with suffix R(Restricted)
+various other applications.And the with the implementation of this tool.
+and C(Customer). best feature in the application is the And with the promise of continual
+AVI and the Dent and Buckle Charts, development of the tool to enhance
+Training courses which gives the user an overview of the features,SIA is sure Airbus
+all the repairs associated with a MSN, will set the stage for other OEMs
+very much like a structural health to follow.’
+Two Airbus training courses will
+report card of an aircraft.
+present the content of AIRMAN
+Rep@ir Manager: Such feedback highly contributes to enhance the application to meet airline
+• An overview of AIRMAN expectations.Other A380 customers have requested to test it as well.
+Rep@ir Manager will be given
+in the A380SRMfamiliarization
+for line maintenance personal
+(training reference: LSD1
+for 1 day)
+• AIRMAN Rep@ir Manager
+CONTACT DETAILS
+will be presented more in-depth
+in the A380 documentation and Aurélie DUFFORT Colin SMART
+descriptive course (training Structure Structure Engineer
+reference: LSA1 for 5 days) Repair Engineer SRM Development
+Airbus Customer Services Airbus Customer Services
+Tel:+33 (0)5 67 19 00 24 Tel:+33 (0)5 62 11 09 41
+Fax:33(0)5 61 93 28 73 Fax:+33 (0)5 61 93 21 81
+aurelie.duffort@airbus.com colin.smart@airbus.com
+Conclusion
+Airlines can benefit from many aspects of AIRMAN Rep@ir Manager is a decision
+AIRMAN Rep@ir Manager: tool for speeding up and easing structural
+•The interface is user friendly with damage report compilation during the
+intuitive navigation assessment phase and allows:
+•Drawings can be manipulated with the •Simpler and more effective assessment
+navigation window and zoom function •Quicker and moreaccurate reporting
+•Creation of a new Structural Damage •Compliance with airworthiness
+Report (SDR) is easy with the intuitive authorities regulations for damage
+navigation and linked to the digital recordkeeping.
+mock-up (AVI) to locate the damage and
+consult the SRM for the affected part AIRMAN Rep@ir Manager is first provided
+•An icon symbolizes each type of for the A380 and will later be extended to
+damage and a colour indicates the the other Airbus aircraft families.
+relevant status of the repair
+•Users can use a function for analysis
+and filtering data of damage areas
+•Users can generate an automatic Dent
+and Buckle Chart.
+19
+14TSAF
+0
+29
+91
+0
+16
+31
+61
+0
+23
+18
+38
+0
+0
+100
+65
+39
+23
+0
+100
+19
+Architecture, and configured during AIRMAN
+82 installation/update provided that
+0 pre-requisites
+28 the airline operates A380.
+52 and profiles AIRMAN offers the possibility to
+define specific nominative and
+AIRMAN is a pre-requisite to secure identification with corre-
+implement Rep@ir Manager. sponding rights access (read or 0
+78 AIRMAN Rep@ir Manager com- write) depending on their level of
+O7v4erview of
+ponents are automatically set up authorization and activity.
+R0ep@ir Manager
+0
+60
+100
+0
+18
+21
+14TSAF
+AIRBUS PILOT INSTRUCTOR COURSES (APIC) - THE GATEWAY TO EXCELLENCE IN PILOT TRAINING AIRBUS PILOT INSTRUCTOR COURSES (APIC) - THE GATEWAY TO EXCELLENCE IN PILOT TRAINING
+The basis The most important objective is for
+trainee instructors to leave the
+for development
+Airbus training centre with every-
+of APIC thing they need as instructors, to
+be able to return to their airline
+The construction of new courses and begin training immediately
+began with an in depth analysis of without the need for the cus-
+typical airline instructor tasks, tomer to do more.
+followed by the development of
+high level aims: The modules were con-
+• To develop competence to structed carefully with
+train aviation-based knowledge, reference to the objec-
+skills and attitudes including tives. No time is wasted
+human factors in unnecessary theory
+• To train aircraft licence and trainers are
+holders with more than taught throughout in
+1,500 hours as pilots of ahighly interactive
+multi-pilot aircraft to the level way.
+of proficiency necessary
+for the issue of a TRI rating
+or SFI authorisation.
+From there the objectives were based
+on the desired trainer competencies,
+being a combination of Knowledge,
+Skills and Attitudes (KSA) to the
+required level to conduct appropriate
+parts of pilot training:
+• Recognize the need for
+adequate subject knowledge
+• Learn how to make adequate
+preparation
+• Develop confidence to use
+different training techniques
+• Learn how to develop effective
+relationships with trainees
+• Clearlydefine the objectives
+of a training session The course is
+• Understand trainees’needs and demanding but
+howtheywant to be trained also very reward-
+• Transfer information and key ing for the trainees
+messages effectively and whoattain a very
+The Instructor/course profile of
+efficiently high standard on the APIC brochure issued August 2007.
+• Manage a training session completion.
+appropriately The French (DGAC) and UK (CAA) Civil
+Aviation Authorities gave their ‘seal of
+• Ensure information and key A unique portfolio
+approval’ to APIC.
+messages are understood
+of courses
+• Assess a trainee’s
+performance against a
+defined standard Airbus wants its trainee instructors
+• Recognize and train human to be able to conduct an aircraft
+factors and CrewResource base training flight and/or a com-
+Management (CRM) plexsimulator session dealing with
+• Recognize the importance any trainee weaknesses without
+of making adequate progress intervention to a successful conclu-
+reports sion. This was determined as the
+• Know how to continuously final outcome and all modules con-
+develop the trainer’s own structed to bring the trainee instruc-
+training skills. tors to this level of competence.
+21
+14TSAF
+Airbus Pilot
+Instructor Courses (APIC)
+The gateway to excellence
+in pilot training
+Embracing new ways of training the trainer: Airbus feels that to secure the best training for
+Airbus had in place an existing course, which was pilots, the most effective contribution it can make
+a mainly theoretically based introduction to the is by training the customers’trainers, to cascade
+world of instruction. Customers were expected to best practice to the Airbus pilot community.
+complete the training and supervision required for
+the issue of an instructor rating. In many cases With these considerations in mind, Airbus has
+this was difficult to achieve with huge demands developed and launched a new pattern for instruc-
+on the airline instructor population. tor training known as APIC, Airbus Pilot
+Instructor Courses. Applicable to all Airbus fly by
+All accredited data points towards a need for new wire aircraft, APIC represents a major improve-
+airline ready pilots at the rate of 17,000 per year. ment in the way Airbus trains pilots as Type
+This presents a significant challenge to airlines Rating Instructor (TRI) or Synthetic Flight
+and training organisations alike. Instructor (SFI).
+Captain Michael Varney
+Director Flight Crew Training Policy
+Airbus Training and Flight Operations Support & Services
+Airbus Customer Services
+20
+23
+14TSAF
+AIRBUS PILOT INSTRUCTOR COURSES (APIC) - THE GATEWAY TO EXCELLENCE IN PILOT TRAINING AIRBUS PILOT INSTRUCTOR COURSES (APIC) - THE GATEWAY TO EXCELLENCE IN PILOT TRAINING
+FOUNDATION MODULE behaviour in the flying environ- AIRBORNE PHASE
+AN INTERACTIVE COMPETENCY ment. This is done in a highly prac- THE ADAPTATION OF TRAINING
+DRIVEN COURSE PROVIDING tical and plain speaking way that SKILLS TO THE BASE TRAINING
+TECHNICAL KNOWLEDGE everyone can understand, with the ENVIRONMENT
+FOUNDATION FOR FLIGHT CREW use of video footage and live train-
+TRAINERS ing examples for trainee instructors Once again trainee instructors are
+to assess. subjected to a wide spectrum of
+This gives a manufacturer’s per- possible trainee behaviour in a sim-
+spective to the trainers, explaining The training is highly interactive ulated then real base training envi-
+aircraft design philosophy to deep- including many trainee instructor ronment. The skills of running a
+en the instructors knowledge, as led group exercises, giving them base training flight whilst training
+well as refreshing on subjects like chances to practice newly acquired and debriefing and assuring safety
+aircraft performance, rules and skills and develop confidence. are fully developed.
+regulations, normal and abnormal Different training techniques are
+procedures. This is to ensure the explored as well as briefing and
+trainee instructor has the technical debriefing skills.
+Feedback from the first courses in Toulouse has confirmed Airbus expectations:
+and procedural knowledge needed
+for the training role. TYPE-SPECIFIC MODULE
+‘Formidable amount of tools that can be used not only in aviation related areas’
+THE DEVELOPMENT OF CORE ...Captain from Air Tahiti Nui
+CORE MODULE TRAINING SKILLS IN THE TYPE
+AN INTENSIVE PRACTICAL AND TECHNICAL SIMULATOR ‘Good organized course.A lot of knowledge and skills acquired in a very interesting
+and practical way.Perfect structure and conduct’
+COMPETENCY BASED INTRODUCTION ENVIRONMENT ‘Very nice interaction,trainee involvement and perfect atmosphere’ SUCCESSFUL COMPLETION OF APIC
+TO CORE TRAINING SKILLS ...Captain from Wizz Air PROVIDES FOR IMMEDIATE JAA/EASA OR
+EQUIVALENT QUALIFICATION,WHICH CAN
+In this module the trainee instruc- BE ENDORSED BY THE APPROPRIATE
+‘Excellent organized training system and excellent trainer (instructor)’ NATIONAL AUTHORITY.
+The course is focused on the devel- tors develop their skills learning
+...Captain from Korean Air
+opment of appropriate trainer how to employ them in the flight JAA EASA
+Joint Aviation European Aviation
+behaviour in the training and oper- simulator. The course tutors take
+Authorities safety Agency
+ating roles, and provides the skills the role of trainees displaying vary-
+for trainers to develop and analyse ing levels of skill and behaviour,
+First APIC
+so-called non-technical skills and and this presents some very inter-
+trainees in
+esting challenges.
+Toulouse
+After a shortinteractive and ground CONTACT DETAILS
+phase there is a series of full-flight
+simulator sessions for which the Captain Michael Varney
+Director Flight Crew
+training objectives are extracted
+Training Policy
+from the most demanding parts of a
+Airbus Training and Flight
+type transition course. The trainee Operations Support & Services
+instructor briefs and runs a part of Airbus Customer Services
+each session, aided by a tutor. The Tel:+33 (0)5 67 19 00 85
+Fax:+33 (0)5 62 11 07 40
+second tutor plays the role of a
+Conclusion michael.varney@airbus.com
+trainee and demonstrates a variety
+of the difficulties instructors will
+experience in the training role. The
+trainee instructors will also be
+APIC has been running in the Airbus One of the major advantages of APIC is
+expected to demonstrate flying
+training centrein Toulouse since that a customer can send their carefully
+exercises whilst giving instruction
+11 October 2007. Prior to formal entry selected trainee instructor to Airbus,
+to the tutor in the other seat.
+into service, more than one hundred confident in the knowledge that in a short
+trainees have undertaken APIC modules period of time they will receive a well
+At the completion of this course
+and the preliminary feedback has been trained and highly competent type rating
+trainee instructors plan, brief and
+universally positive. Many of the trainees instructor able to immediately take a role
+run a dedicated training session
+during the development phase have in the airline’s training programme.
+without tutor intervention. This is
+been experienced existing instructors,
+the final confidence check and suc-
+undertaking the course either to renew or
+cessful candidates will have the
+refresh qualifications, and they have
+confidence as well as Knowledge clearly learned and benefited from this
+Skills and Attitudes to manage sim- new experience.
+ulator sessions in any customer-
+training environment.
+23
+14TSAF
+0
+0
+100
+65
+39
+23
+0
+100
+19
+82
+0
+28
+52
+0
+78
+74
+0
+0
+60
+100
+0
+Classroom session
+Full Flight Simulator session
+22
+25
+14TSAF
+DYNAMIC WIRING IN AIRBUS TECHNICAL DATA -INTERACTIVE AND EFFICIENT NEW NAVIGATION THROUGH AIRCRAFT WIRING DATA DYNAMIC WIRING IN AIRBUS TECHNICAL DATA -INTERACTIVE AND EFFICIENT NEW NAVIGATION THROUGH AIRCRAFT WIRING
+Since the entry into service of After doing this, by using hyper-
+Technical Data in digital format, links, the user can navigate to the
+Airbus provides to all its customers AWL, then the ASM/AWM and
+a family of products called the Electrical Standard Practices
+AirN@v and amongst these Manual (ESPM).
+AirN@v/Maintenance is dedicat-
+ed to maintenance technical docu- As aircraft wiring information ex-
+mentation. It contains the Aircraft pands and becomes more complex,
+Maintenance Manual (AMM), the the use of the dynamic wiring
+Illustrated Parts Catalog (IPC), the function in maintenance activities
+Trouble Shooting Manual (TSM), proves ever more useful.
+the AWM, the ASM, the AWL, a
+trouble shooting tool, and a
+Trouble shooting
+dynamic wiring tool. New func-
+tionalities have been developed to using the
+help maintenance personnel when
+traditional method
+fault finding electrical systems.
+and the dynamic
+The dynamic wiring tool, which is
+wiring tool
+available in AirN@v/Maintenance
+1
+was launched in April 2006 for the
+Post Flight Report example (A320)
+A330/A340 Family and was in use When trouble shooting a fault,
+with all Airbus aircraft families by maintenance personnel will enter
+June 2007. This new tool rapidly into the trouble shooting function
+calculates and provides a cus- of AirN@v with a Post Flight
+tomized displayof physical electri- Report (1).
+cal connections for a specific air-
+craft. Users are able to navigate in An associated fault isolation task,
+aircraft wiring using as a point of (2)mayrequire a check and then to
+entry: follow a wire from a component, or
+• Acomponent between two pieces of equipment
+• Awire number using the ASM, and eventually, to
+• Awire bundle reference repair it with information from the
+(only for A380 so far). ESPM.
+2
+Associated fault isolation task
+25
+14TSAF
+Dynamic wiring
+in Airbus Technical Data
+Interactive and efficient new
+navigation through aircraft wiring data
+With the development of more complex aircraft and
+an increase in modern aircraft systems, there has
+been a corresponding increase in the quantity and
+complexity of wiring information in the Aircraft
+Schematic Manual (ASM), Aircraft Wiring List
+(AWL) and the Aircraft Wiring Manual (AWM).
+As a consequence, electrical fault diagnosis has
+also become more complex.This article explains
+the wide range of functionalities offered by
+dynamic wiring.
+Jean Comte
+Senior Engineer
+Wiring Manuals & Associated Products
+Technical Data
+Airbus Customer Services
+24
+Using the dynamic
+wiring tool
+Applying the same exercise with
+the dynamic wiring tool, AirN@v
+/Maintenance is selected, filtered
+for the specific aircraft concerned
+and the dynamic wiring module
+launched from the banner on the
+main screen (5). This gives the pos-
+sibility to enter either by equip-
+ment or wire number (6).
+ACCESS BY EQUIPMENT
+Select ‘Access by equipment’, then
+with the Functional Item Number
+(FIN) reference of the SSTU 4CE3,
+the connector Aand pin 9, enter the
+information and click ‘OK’(7).
+From this FIN departure reference
+the dynamic wiring tool builds and
+displays the complete wiring (in
+colour if applicable) and all interme-
+diate connections from the depar-
+ture reference to the terminal refer-
+ence. For this example, the depar-
+ture reference is the SSTU connec-
+tor 4CE3-A, pin 9 and the terminal
+reference is the connector AA, pin
+13G on ELAC-2 (2CE2) (8).
+The result is shown as one display
+compared to the traditional AWM
+where a few pages could be ne-
+cessary for a longer path through
+various cross-references.
+27
+14TSAF
+DYNAMIC WIRING IN AIRBUS TECHNICAL DATA -INTERACTIVE AND EFFICIENT NEW NAVIGATION THROUGH AIRCRAFT WIRING DYNAMIC WIRING IN AIRBUS TECHNICAL DATA -INTERACTIVE AND EFFICIENT NEW NAVIGATION THROUGH AIRCRAFT WIRING
+Maintenance will have to identify
+5
+the involved connector, wire, etc. Using the dynamic wiring tool
+responsible for the continuity fail-
+ure by following the signal. This
+60
+can be found in the AWM which
+33
+provides all intermediate connec-
+0
+0 tions between equipment, their
+location, wire numbers etc, but can
+be found easier and faster using the
+6
+dynamic wiring tool. Dynamic wiring entry
+100
+80
+Using the
+0
+30
+traditional AWM
+0 Using the AWM dedicated menus,
+29 maintenance personnel have to
+91
+search in AirN@v/Maintenance
+A0SM
+for the applicable wiring diagram
+for deeper investigation.
+The ASM shows wires between
+7
+16
+these two components, but not all Here, the result is a pin found bro- Access by equipment
+31
+intermediate connections, and will ken on the aircraft in connector
+61
+0 be used to identify in which part the 20VC, pin 19 (4). Identification of
+fault is located. Suppose a the pin with associated repair pro-
+continuity failure is located bet- cedure will be available in the
+ween the Side Stick Transducer AWL and ESPM.
+23
+18 Unit (4CE3 SSTU) electrical
+38 connector A, pin 9 (e.g. contact in The Aircraft Wiring List is a huge
+0
+position 9 on connector A), and the database, which lists all aircraft
+Elevator Aileron Computer N°2 and engine wires. For each wire, 8 Dynamic wiring
+(2CE2 ELAC-2), electrical connec- AWL provides the type, gauge, electrical path
+0 tor AA, pin 13G (e.g. contact in length and contact partnumber for
+100 position 13G on connector AA) (3). each wire termination.
+65
+39
+The ESPM gives descriptive data
+and maintenance and repair proce-
+dures for the electrical installations
+23
+on all aircraft of the Airbus family.
+0
+100
+19
+82
+0
+28
+52
+0
+78
+74
+0
+0
+60
+100
+0
+27
+14TSAF
+3
+4 Applicable wiring diagram
+for deeper investigation
+Pin 19 found broken
+on connector 20VC
+26
+29
+14TSAF
+DYNAMIC WIRING IN AIRBUS TECHNICAL DATA -INTERACTIVE AND EFFICIENT NEW NAVIGATION THROUGH AIRCRAFT WIRING DYNAMIC WIRING IN AIRBUS TECHNICAL DATA -INTERACTIVE AND EFFICIENT NEW NAVIGATION THROUGH AIRCRAFT WIRING
+ACCESS BY WIRE (12)An entry in the 10
+Access by wire
+Equipment List of the
+Select ‘Access by wire’ (6); the AWL, with hyperlink
+entry point will be a wire number to the ASM and ESPM
+reference (four digits for the ATA, (13)A display of all wires
+then a dash, followed by four dig- connected on this
+its for the wire number itself); component, with again
+select ‘Search’. Dynamic wiring a hyperlink on a spe-
+will display this cable with its two cific cable to the
+terminations (10). Extended Wire List, as
+previously seen
+From a hyperlink on the compo-
+nent itself (25GG) dynamic wiring It also proposes a hyperlink
+proposes: on the second wire (3231-
+(11)A merge of the existing elec- 0417) or the next connec-
+trical path with a new one (for tor (228VC) to follow the
+example FIN 25GG, connec- signal (in orange in the
+tor A, pin B illustration 10).
+12 Entry in the AWL 11 Merge of existing and new
+equipment list electrical paths
+13
+Display of all component wires
+29
+14TSAF
+30
+0
+29
+91
+0
+With this interactive environment, traditional AWM, the same path
+16
+dynamic wiring allows navigation display would need a more detailed
+31
+on the wire itself, through a hyper- search in various wiring diagrams
+61
+0 link to the Extended Wire List in and could generate numerous
+the Aircraft Wiring List (wire’s prints.
+characteristic), and again, naviga-
+tion to the AWM, and the ESPM on With the dynamic wiring’s ability
+23
+18 the contact part number itself (9). to navigate to the AWL by a simple
+38 click on the cable or the equipment
+0 With dynamic wiring, only a few itself, it results in a time saving
+clicks are necessary to display a (no need to search in the AWL
+complete and complex signal path dedicated menus), and ease for
+0 in one shot, whereas by using the engineers and avionic staff.
+100
+65
+39 9
+Navigation to AWL and ESPM
+23
+0
+100
+19
+82
+0
+28
+52
+0
+78
+74
+0
+0
+60
+100
+0
+28
+14TSAF
+DYNAMIC WIRING IN AIRBUS TECHNICAL DATA -INTERACTIVE AND EFFICIENT NEW NAVIGATION THROUGH AIRCRAFT WIRING A300/A300-600 KRUEGER FLAP SYSTEM - RECOMMENDATIONS TO AVOID KRUEGER SURFACES INTERFERENCE
+Digital mock-up © Airbus France 2007
+A300/A300-600
+Krueger flap system
+Recommendations to avoid Krueger
+surfaces interference
+The Krueger flap system is a device specific to number of occurrences, the repair cost and the
+the A300 and A300-600 that optimizes aerody- repair lead-time, Airbus launched a study to iden-
+namic efficiency in the high lift configuration. In tify all the possible causes of such interference
+recent years, several cases of Krueger mechanism and define preventive measures to avoid re-occur-
+damage due to surface interference have been rence. The study conclusion was that improved
+reported to Airbus: The Krueger movable vane maintenance advice and recommendations could
+was found damaged and trapped between the avoid such interference.
+wing leading edge and the Krueger flap panel.
+If on-site repairs were not possible, an approved This article describes the function of the Krueger
+temporary repair and the application of MMEL flap system and its subcomponents for a better
+01-27 (or airline equivalent) allowed dispatch understanding of the system, summarizes the root
+of the affected aircraft to the main base for final causes identified for the damage reported and pre-
+fix with the system deactivated in the retracted sents further recommendations/cautions to apply
+position. Nevertheless, taking into account the during Krueger maintenance practices.
+Valérie Laprime-Baulleret
+Engineer
+Flight Control Systems
+Airbus Customer Services
+31
+14TSAF
+30
+0
+29
+91
+0
+ACCESS BY BUNDLE (A380 ONLY)
+16
+31
+Enter ‘Access by bundle’, with a
+61
+0 bundle identification (14), the
+result is the bundle itself, with all
+wires inside (15); ability to select
+one specific wire number, an
+23
+18 equipment with all functionalities
+38 14 Access by bundle as previously seen.
+0 identification
+0
+100
+65
+39
+Only available
+for A380
+23
+0
+Currently data is available only for
+100 15
+19 Bundle’s wires the A380. Airbus will add access
+by bundle for other aircraft types
+as part of the Technical Data
+82 Upgrade project scheduled for
+0 2010/2011.
+28
+52
+For training purposes a module
+dedicated to dynamic wiring is
+available in the new C@DETS
+0
+(Computer @ssisted Documentation
+78
+Education Tutorial System), also
+74
+0 onAirbusWorld (path: My on-line
+services/C@DETS/AirN@v) and
+AirbusSupply.
+0
+60
+100
+0
+CONTACT DETAILS
+Jean Comte
+Senior Engineer
+Wiring Manuals & Associated
+Products
+Technical Data
+Airbus Customer Services
+Tel:+33 (0)5 61 93 38 99
+Fax:+33 (0)5 62 11 02 33
+jean.comte@airbus.com
+Conclusion
+The new dynamic wiring tool embedded in maintenance and avionic engineers with
+AirN@v / Maintenance supplies a flexible, an original solution, particularly well
+interactive method for all maintenance and adapted for wiring trouble shooting
+engineering needs. It demonstrates how purposes, which can be used in parallel
+much better, quicker, easier and more with the trouble shooting manual to more
+efficient the tool is to use than the quickly assess and rectify aircraft
+traditional method. It also provides electrical wiring faults.
+30
+33
+14TSAF
+A300/A300-600 KRUEGER FLAP SYSTEM - RECOMMENDATIONS TO AVOID KRUEGER SURFACES INTERFERENCE A300/A300-600 KRUEGER FLAP SYSTEM - RECOMMENDATIONS TO AVOID KRUEGER SURFACES INTERFERENCE
+Krueger movable vane Krueger Krueger movable vane Movable vane roller
+actuator
+Roller guide
+Krueger flap panel
+Krueger flap panel
+low
+er
+w Krueger flap nose ing Krueger flap nose
+FWD
+surface FWD
+Krueger flapin retracted position Krueger flapin extended position
+A movable vane is fitted between Krueger flap
+the Krueger flap and the wing lead-
+interference
+ing edge.
+The vane rotates with the support Several operators have reported
+rods around the torque shaft and is interference between the Krueger
+slave driven by a roller mechanism flap panel and the movable vane
+to a position underneath the during extension of the system.
+Krueger flap when the Krueger Instead of slipping underneath the
+flap is extended. Krueger flap surface during the
+extension phase of the Krueger
+When the Krueger is moving out system, the movable vane went
+from its retracted position, the vane over and was caught in between
+spring rod releases to its extended Krueger Flap surface and the wing
+position. During the extension of leading edge, preventing further
+the spring rod,the vane remains in movement.
+its position and is maintained on
+the structural stop by the spring The following typical damage to
+force. When the spring rod is com- the Krueger flap system was
+pletely released, the vane then reported:
+starts moving. This gives the • Damage of the adjacent wing
+Krueger flap the time to extend leading edge structure
+Outboard fitting
+before the vane starts to move from • Damage of the movable vane
+Krueger flap panel
+Folded fairing its retracted position. This delay in • Broken inboard and outboard
+actuating rod the vane movement, being a func- fittings
+Krueger
+tion of the effective stroke of the • Deformation of spring rod lugs
+movable vane
+spring rod from the Krueger/vane • Distortion of the movable vane Spring
+retracted position, prevents inter- surface rod lugs
+Krueger flap
+nose fairing ference between the vane and the • Damage of the Krueger
+Krueger flap surface during the panel.
+Notch Actuating arms
+Krueger flap operation.
+flap
+Lateral
+displacement rod
+The folded fairing actuating rod,
+connected to one of the rotating Movable vane
+actuating arms, progressively
+Krueger Movable vane
+unfolds the folding nose fairing as
+actuator roller
+the Krueger flap extends.
+Inboard fitting
+When the Krueger flap has reached
+its extended position, the notch
+flap actuator extends and rotates
+Torque shaft the notch flap about its hinge, to
+close the gap between the Krueger
+flap and the fuselage.
+33
+14TSAF
+39
+82
+0
+28
+52
+The Krueger During aircraft operation, these
+0 surfaces are extended only during
+78 flap system
+the take-off and landing flight
+74
+0 phases.
+On A300B2/B4 and A300-600 air-
+craft, there are two Krueger flaps The Krueger flap surfaces of each
+and two notch flaps. The function wing are operated by one hydraulic
+0
+60 of the Krueger surfaces with the actuator via a drive mechanism.
+Location of K1r0ue0ger and notch notch flap is to complete the wing When the Krueger flap is in the
+flap systems0 on aircraft leading edge profile at the wing stowed position with no hydraulic
+root when the slats are extended. pressure, the actuator of the
+Krueger flap is mechanically
+The system operates in conjunction locked in its extended position.
+with the slats. The Krueger and When the Krueger flap is in
+notch flaps have two positions, extended position with no
+fully extended or fully retracted. hydraulic pressure, the actuator of
+Their positions are selected from the Krueger flap is hydraulically
+the Slat/Flap control lever on the locked in its retracted position by
+centre pedestal. The Krueger flap the hydraulic fluid trapped in the
+fully extends as soon as the actuator chamber. Both wing sys-
+Slat/Flap control lever is selected tems are identical.
+to 15/0 and fullyretracts when this
+lever is moved to its 0/0 position. The Krueger flap actuator acts on
+a lever on the torque shaft of the
+The Krueger flap systems are con- Krueger mechanism. When the
+trolled by the Slat Flap Control Krueger actuator retracts, it
+Computer (SFCC) and moveto the rotates the support arms together
+extended or retracted position with the torque shaft, causing the
+depending on SFCC commands. flap to extend. While the Krueger
+flap is extending, the lateral dis-
+If the Krueger flaps and/or notch placement rod initiates a lateral
+flaps are not in the correct com- movement enabling the Krueger
+manded position, fault warnings flap, when fully extended, to take
+are provided for flight and mainte- up a position against the notch
+System description
+nance crew awareness. flap.
+View looking up from below
+Slat
+FWD
+32
+35
+14TSAF
+100
+39
+A300/A300-600 KRUEGER FLAP SYSTEM - RECOMMENDATIONS TO AVOID KRUEGER SURFACES INTERFERENCE A300/A300-600 KRUEGER FLAP SYSTEM - RECOMMENDATIONS TO AVOID KRUEGER SURFACES INTERFERENCE
+82
+0
+28
+52
+Interference may also occur marginal subcomponent adjust- • The movable vane cannot be PREVENTING KRUEGER MECHANISM
+0 between the Krueger flap and the ment for a limited period of time. moved by hand in the extension FREE PLAY
+78 inboard end of slat surface no.1 direction when the Krueger flap
+74
+depending on the position at which FREE PLAY IN KRUEGER FLAP system is retracted. During the detailed inspection of
+0
+the Krueger flap surface has MECHANISM the Krueger box area including the
+jammed, resulting in damage of the When performing a visual check in Krueger mechanism as per A300-
+slat surface. Free play in the Krueger flap mech- the Krueger flap system area 600 MPD 574501-01-1, Airbus
+0
+anism may be a contributing factor (e.g. A300-600 Maintenance Plan- recommendations are to:
+60
+100 Possible causes to such reported interference. ning Document task 574501-01-1), • Check for any worn bushing,
+0 check the spring rod general roller, bearing, or any cracks,
+Metallurgical investigation on bro- Airbus conditions. abrasion, corrosion, scratches or
+ken parts removed revealed none of damaged seal
+recommendations
+the damage was at the origin of the PREVENTING ANY KRUEGER SUB- • Move by hand this mechanism
+Krueger system failure: The parts COMPONENT MALADJUSTMENT OR and its surfaces to ensure that
+Drain hole did not fail due to fatigue or corro- Krueger system interference could MISALIGNMENT there is no free play.
+sion. Therefore, investigation focu- also be attributed to the mainte-
+sed on possible causes that could nance practices of installation and When a new part or a new Krueger In addition, Airbus emphasize that
+lead to malfunction of the drive adjustment. Therefore, Airbus assembly, such as a spring rod or during the detailed inspection as
+mechanism. initiated a review of the mainte- the movable vane surface with its per A300-600 MPD 574501-01-1,
+nance practices with the aim to fairings fitted has to be installed on Maintenance staff should check
+The following possible root causes improve the instructions in the aircraft, maintenance staff may that:
+were identified: AMM (Aircraft Maintenance assume that the assembly/part is • There are no cracks on
+• Amalfunction of the spring rod Manual). In June 2004, the A300- pre-adjusted and there is no need to the Krueger movable vane
+• Amaladjustment of a Krueger 600 AMM 27-87-12 PB 401 and re-adjust it. However, the first attachment fairings
+flap subcomponent such as the A300 AMM 27-81-49 PB 401 installation of a subcomponent • The movable vane roller is
+movable vane or vane spring rod ‘Krueger flap movable vane/spring (new or used part) requires an not jammed,not wornand
+• Excessive play in the Krueger rod removal/installation’ proce- adjustment on-wing because of the there is no flat or traces of a
+mechanism may also be a dure was revised. build-up of tolerances that vary hard contact with the roller Typical Krueger flap interference
+contributor. from one aircraft to another. guide
+PREVENTING SPRING ROD Therefore Airbus recommends that • The roller guide is not
+SPRING ROD MALFUNCTION MALFUNCTION all Krueger flap system subcompo- damaged or wornand that
+nents are installed on aircraft as per there is a good contact with
+A malfunction of the spring rod is To prevent a spring rod malfunc- the respective AMM task: these the roller during extension
+considered the major root cause for tion, special care should be taken adjustments/alignments with the of the movable vane (shown
+the reported Krueger interference. during spring rod installation: wing surfaces are referenced in when Krueger flap surface is
+Its travel defines the sequence of the • The drain hole is not obstructed A300-600 AMM 27-87-11 PB 401 removed as per A300-600
+vane movement during system oper- so anycondensation can evacu- (A300 AMM 27-81-48 PB 401) AMM 27-87-11 PB 401 or
+CONTACT DETAILS
+ation: It delays extension of the ate freelyfrom the spring rod to and 27-87-12 PB 401 (A300 AMM A300 AMM 27-81-49 PB 401).
+movable vane (compared to the avoid malfunction due to ice 27-81-49 PB 401). Valérie Laprime-Baulleret
+Krueger flap panel extension) to formation at low Engineer Flight Control Systems
+allowthe vane to slip underneath the temperature Airbus Customer Services
+Krueger flap panel. If this sequence • The rod end bearing is not Tel: +33 (0)5 61 93 16 74
+Fax:+ 33 (0)5 61 93 44 25 is disturbed (due to e.g. a jam of the jammed and can be freely
+valerie.laprime@airbus.com
+spring rod), the movable vane can rotated byhand Conclusion
+go above the Krueger flap panel and • The spring rod lugs are not
+is trapped between the Krueger flap deformed
+panel and the wing structure. • The spring rod dimension in the
+compressed position is verified The Krueger flap system is specific plus strictly following Airbus maintenance
+KRUEGER FLAP PANEL OR KRUEGER before installation of the rod on to the A300 and A300-600 high lift information, can avoid Krueger flap
+MOVABLE VANE MALADJUSTMENT aircraft system. In-service reports concerning system interference.
+OR MISALIGNMENT • Adjustment is carried out per Krueger interference during operation
+A300-600 AMM 27-87-12 PB and investigation of them by Airbus have This FAST article is intended to highlight
+Another possible root cause for 401 (A300 AMM 27-81-49 PB resulted in Airbus emphasizing that the Krueger flap system maintenance
+Krueger vane interference is mis- 401), with special attention attention should be paid to Krueger requirements to those who areregularly
+alignment or maladjustment of the to ensure the gap dimension maintenance practices. servicing/maintaining it and that the
+movable vane or Krueger flap panel between the lock nut and the information is in the AMM, the manual to
+Operators, with good awareness of the be used during maintenance.
+with the surrounding wing struc- guide nut of the spring rod is
+system and its maintenance requirements, ture/surface. In-service experience 1mm. This gap is an indication
+shows the system can tolerate a of the correct operating stoke
+35
+14TSAF
+Spring rod
+Rod end
+bearing
+Spring rod gap dimension
+Lock nut
+Guide nut
+1mm (0.04in.)
+34
+THE GATEWAY TO EXCELLENCE IN PILOT TRAINING - PART II
+Pilot training was not always as
+advanced as described in the
+Airbus Pilot Instructor Courses
+article on page 20. In the early
+years of flight it was recognized
+that new pilots should have
+some idea of how to control an
+aircraft before being sent into
+the air. As a result, the Societe
+Antoinette introduced the first
+simulator for training pilots
+on their aircraft in 1910.
+Muscle power for simulator
+movement was provided by …
+muscles and the ‘fuselage’ of
+the simulator suggested a
+second use had been found
+for old wine barrels.
+Perhaps a glass or two of
+wine was useful to steady
+nerves when going aloft in
+such flimsy aircraft! Nonetheless, con-
+traptions such as this were the beginning
+of training and flight simulation and led
+to the enormously efficient training
+devices of today.
+14TSAF
+THE GATEWAY TO EXCELLENCE
+IN PILOT TRAINING
+part II
+36
+Customer Services
+events
+14TSAF
+CUSTOMER SUPPORT AROUND THE CLOCK... AROUND THE WORLD
+WORLDWIDE
+Bruce Jones
+VP Customer Support
+Tel: +33 (0)5 61 93 35 04
+Fax: +33 (0)5 61 93 41 01
+Just happened Coming soon USA/CANADA
+François Mourareau
+Senior Vice President Customer Support
+A300/A310 FAMILY A330/A340 FAMILY Tel: +1 (703) 834 3506
+Fax: +1 (703) 834 3463
+TECHNICAL SYMPOSIUM TECHNICAL SYMPOSIUM
+TOULOUSE,FRANCE DUBAI,UNITED ARAB EMIRATES CHINA
+Customer support centres
+5-9 NOVEMBER 2007 11-15 MAY 2008 Pierre Steffen Training centres
+Vice PresidentCustomer Support
+The Technical Symposium Airbus is pleased to announce Spares centres / Regional warehouses
+Tel: +86 10 804 86161 Ext 5040
+Resident Customer Support Managers (RCSM)
+attracted 85 participants from 41 the date and location of the next Fax: +86 10 804 86162 / 63
+airlines and many vendors and A330/A340 Symposium. RCSM location Country RCSM location Country
+RESIDENT CUSTOMER SUPPORTADMINISTRATION
+Abu Dhabi United Arab Emirates Lisbon Portugal
+MROs also attended. There was The symposium is the opportu- Jean-Philippe Guillon Algiers Algeria London United Kingdom
+constructive discussion on many nity to review actual in-service Director Al-Manamah Bahrain Louisville United States of America
+technical aspects and also the experience with the A330/A340 Resident Customer Support Administration Almaty Kazakhstan Luton United Kingdom
+Tel: +33 (0)5 61 93 31 02 Amman Jordan Macau S.A.R. China
+Airbus plans for the Long Term Family of aircraft as well as to Amsterdam Netherlands Madrid Spain
+Fax: +33 (0)5 61 93 49 64
+Athens Greece Manchester United Kingdom
+Support of the programme. The discuss subjects of more general
+Auckland New Zealand Manila Philippines
+TECHNICAL,SPARES,TRAINING
+main items of discussion includ- technical interest. A provisional Baku Azerbaijan Marrakech Marocco
+Airbus has its main spares centre in Hamburg, Bandar Seri BegawanBrunei Mauritius Mauritius
+ed continued improvements in agenda will be sent in due time. and regional warehouses in Frankfurt, Bangalore India Memphis United States of America
+dispatch reliability for the fuel Washington D.C., Beijing and Singapore. Bangkok Thailand Mexico City Mexico
+Barcelona Spain Miami United States of America
+system and the prevention of MATERIAL,SUPPLIERS
+Airbus operates 24 hours a day every day. Beijing China Milan Italy
+hydraulic leaks. The continued AND WARRANTY SYMPOSIUM Beirut Lebanon Minneapolis United States of America
+Airbus Technical AOG Centre (AIRTAC) Berlin Germany Montreal Canada
+availability of spare parts, for the CANCUN,MEXICO
+Tel: +33 (0)5 61 93 34 00 Bogota Colombia Moscow Russia
+long term, was also appreciated JUNE 2008 Fax: +33 (0)5 61 93 35 00 Brussels Belgium Mumbai India
+Bucuresti Romania Nanchang China
+byoperators. The symposium objectives will support.airtac@airbus.com Budapest Hungary Nanjing China
+be to review together strategic Spares AOGs in North America should be Buenos Aires Argentina New York United States of America
+Cairo Egypt Newcastle Australia
+TECHNICAL DATA SUPPORT AND directions and current support addressed to: Caracas Venezuela Ningbo China
+SERVICES SYMPOSIUM and services initiatives within Tel: +1 (703) 729 9000 Changchun China Noumea New Caledonia
+Fax: +1 (703) 729 4373 Charlotte United States of America Palma de Mallorca Spain
+TOULOUSE,FRANCE the material, logistic, supplier & Chengdu China Paris France
+12-15 NOVEMBER 2007 warranty domains. Spares AOGs outside North America Cologne Germany Paro Bhutan
+should be addressed to: Colombo Sri Lanka Phoenix United States of America
+The symposium attracted 150 Presentations, dedicated work- Tel: +49 (40) 50 76 4001 Columbus United States of America Pittsburgh United States of America
+participants, customers, MROs shops and bilateral meetings will Fax: +49 (40) 50 76 4011 Copenhagen Denmark Prague Czech Republic
+Damascus Syria Quito Ecuador
+and suppliers from all over the provide a forum for airlines, sup- aog.spares@airbus.com Delhi India Rome Italy
+world. The Theme was ‘Deve- pliers and Airbus to pursue fur- Spares related HMV issues outside D D e e n tr v o e it r U U n n i i t t e e d d S S t t a a t t e e s s o o f f A A m m e e r r i i c c a a S S a a n n F S r a a lv n a c d is o c r o U El n S it a e l d v a S d t o a r tes of America
+loping for the Future’ and the ther solutions in optimizing the North America should be addressed to: Dhaka Bangladesh Sana’a Yemen
+current and upcoming develop- cost of aircraft ownership and Tel: +49 (40) 50 76 4003 Doha Qatar Santiago Chile
+Fax: +49 (40) 50 76 4013 Dubai United Arab Emirates Sao Paulo Brazil
+ments were outlined during the increasing aircraft operational Dublin Ireland Seoul South Korea
+hmv.spares@airbus.com
+Dusseldorf Germany Shanghai China
+main presentations, including availability. The event will also
+Fort Lauderdale United States of America Sharjah United Arab Emirates
+Airbus Training Centre Toulouse, France
+feedback about implemented or provide an insight into the devel- Frankfurt Germany Shenyang China
+Tel: +33 (0)5 61 93 33 33
+Guangzhou China Shenzhen China
+scheduled optimization for oping warranty and material Fax:+33 (0)5 61 93 20 94 Haikou China Singapore Singapore
+advanced consultation, enhanced management related e-services Hamburg Germany Sydney Australia
+Airbus Maintenance Training Centre Hamburg, Hangzhou China Taipei Taiwan
+data deliverables and sustained and the latest in Supplier
+Germany Hanoi Vietnam Tashkent Uzbekistan
+customer support. Many product Support Conditions (SSC). Tel: +49 40 743 88288 Helsinki Finland Tehran Iran
+demonstrations and workshops Fax: +49 40 743 88588 Hong Kong S.A.R. China Tel Aviv Israel
+Indianapolis United States of America Tokyo Japan
+were held, which generated fruit- Istanbul Turkey Toluca Mexico
+Airbus Training subsidiaries Jakarta Indonesia Tripoli Libya
+ful discussion and feedback on
+Miami, USA - Florida Johannesburg South Africa Tulsa United States of America
+the Airbus TD deliverables such Tel: +1 (305) 871 36 55 Karachi Pakistan Tunis Tunisia
+as AirN@v Modules, ADOC, Fax:+1 (305) 871 46 49 Kita-Kyushu Japan Vienna Austria
+Kuala Lumpur Malaysia Washington United States of America
+Beijing, China
+AirbusWorld and SB+. Kuwait City Kuwait Wuhan China
+Tel: +86 10 80 48 63 40 Lanzhou China Xi'an China
+Fax:+86 10 80 48 65 76 Larnaca Cyprus Zurich Switzerland
+37
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+1
+4
+T
+S
+A
+F
+41
+D E C E M B E R 2 0 0 7
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y

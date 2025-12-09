@@ -1,0 +1,1466 @@
+Airbus technical magazine
+January 2014
+#53
+FA S T
+Flight Airworthiness Support Technology
+2255##TTSSAAFF
+2200
+35#TSAF
+30
+Airbus technical magazine
+Your Airbus technical magazine is now on tablet #53
+FA S T
+Flight Airworthiness Support Technology
+Publisher: Bruno PIQUET
+Editor: Lucas BLUMENFELD
+Design: Daren BIRCHALL
+Cover: Electrical Structure Network Ground lightning
+Photo by: Master Films / J-B ACCARIEZ
+protection 04
+Printer: Amadio
+Authorisation for reprinting FAST magazine
+articles should be requested from the editor
+Handling Qualities
+Tel: +33 (0)5 61 93 43 88
+Fax: +33 (0)5 61 93 47 73 Analysis 10
+e-mail: fast.magazine@airbus.com
+FAST magazine is available on internet A350 XWB
+www.airbus.com/support/publications
+Electrical Structure Network 20
+and on tablets
+ISSN 1293-5476
+Towards a high European
+air traffic demand 26
+© AIRBUS 2014
+All rights reserved. Proprietary document
+Volcanic eruptions:
+By taking delivery of this Magazine (hereafter ‘Magazine’), you accept on behalf
+of your company to comply with the following. No other property rights are granted Ashes to AVOID 32
+by the delivery of this Magazine than the right to read it, for the sole purpose of
+information. This Magazine, its content, illustrations and photos shall not be modified
+nor reproduced without prior written consent of Airbus. This Magazine and the
+materials it contains shall not, in whole or in part, be sold, rented, or licensed to any
+third party subject to payment or not. This Magazine may contain market-sensitive FAST
+or other information that is correct at the time of going to press. This information
+involves a number of factors which could change over time, affecting the true public from the past 38
+representation. Airbus assumes no obligation to update any information contained in
+this document or with respect to the information described herein. The statements
+made herein do not constitute an offer or form part of any contract. They are based on
+Airbus information and are expressed in good faith but no warranty or representation
+We’ve got it
+is given as to their accuracy. When additional information is required, Airbus can be contacted
+to provide further details. Airbus shall assume no liability for
+any damage in connection with the use of this Magazine and the materials it contains, covered 39
+even if Airbus has been advised of the likelihood of such damages. This licence
+is governed by French law and exclusive jurisdiction is given to the courts and tribunals
+of Toulouse (France) without prejudice to the right of Airbus to bring proceedings for
+infringement of copyright or any other intellectual property right in any other court of
+competent jurisdiction. Airbus, its logo, A300, A310, A318, A319, A320, A321, A330,
+A340, A350 XWB, A380 and A400M are registered trademarks.
+Where you see these icons,
+Photo copyright Airbus videos or slide shows are available
+iOS (iPad) & Android Photo credits: Airbus Photographic Library, Airbus Flight on the FAST digital app.
+Test Photo Lab, EADS Corporate Heritage, Master Films, EXM company, Eurocontrol,
+SESAR J.U., Johann Helgason
+Airbus recommends disconnecting the Ground Power Unit from the aircraft during Faraday cage/shield
+storms to avoid damage to electrical components. In practice, during the Turn-
+A Faraday cage (or shield) is an
+Around-Time, the ground power supply needs to remain connected to continue
+enclosure formed by conducting
+supplying the aircraft with power. It is under these circumstances that the aircraft
+material or by a mesh of such
+is particularly vulnerable.
+material.
+An aircraft is designed as a Faraday cage (see side box), which is a structure that Such an enclosure blocks external
+blocks external static and non-static electric fields, therefore avoiding damage by static and non-static electric fields
+lightning strikes. However, when an aircraft is connected to a ground power supply, by channelling electricity through
+the connecting cable provides a direct route to the aircraft’s systems. the mesh, providing constant
+voltage on all sides of the enclosure.
+By electromagnetic induction (see side box) a lightning strike can damage the Primary Since the difference in voltage is
+Electrical Power Distribution Centre (PEPDC) and/or the Generator & Ground Power the measure of electrical potential,
+Control Unit (GGPCU). This kind of damage would result in an Aircraft On Ground no current flows through the space.
+(AOG), requiring costly repairs taking up to six days to complete.
+A Faraday cage operates because
+an external static electrical field
+causes the electric charges within
+the cage’s conducting material
+to be distributed such that they
+cancel the field’s effect in the cage’s
+interior. This phenomenon is used,
+for example, to protect electronic
+equipment from lightning strikes
+and electrostatic discharges.
+Electromagnetic induction
+Induced voltage is an electric
+potential created by an electric field,
+magnetic field or a current.
+This is conducted to the ground
+Working ‘like lightning’ to develop a solution
+by an ionized section of the
+atmosphere, and can easily induce
+Operators requested that Airbus quickly find a solution to protect ground power
+voltages in conductive material
+connected to the A380 in these particular conditions. In December 2012 during
+such as electrical cabling.
+Airbus’ A380 symposium at Dubai (United Arab Emirates), the A380 Chief Engineer
+(Marc GUINOT) committed to resolving the issue before the end of June 2013.
+35#TSAF
+40
+35#TSAF
+50
+Ground lightning protection
+Ground
+lightning
+protection
+An adapter for
+Ground Power Units
+Lightning
+strike
+Ground
+Power Unit
+A380 operators reported incidents of lightning strikes (GPU)
+while parked on the apron at Singapore’s Changi
+international airport. These strikes were principally
+attracted due to a combination of the airport’s surface,
+the local climate and the height of the aircraft. In just
+seven months, Airbus’ Operational Reliability Task Force
+developed a dedicated Lighting Protection Unit (LPU),
+which is now undergoing in-service evaluation with our
+customers.
+November Design office put in the loop
+December Airbus Chief Engineer commits to airlines
+The context
+Plug interface found
+The equatorial climate is often characterized by heavy heat Lightning protection requirements
+and regular precipitations throughout the year. This leads to January LPU development launched with Leach International Design Design
+Office Office
+strong, electrically charged, thunder storms particularly in the First specific draft
+development project
+monsoon season. February LPU design frozen management
+The height of the A380’s vertical stabilizer coupled with the Plug integration tests on aircraft
+structure of the apron’s surface increases the possibility that
+March Plug design frozen
+the aircraft may be struck, directly or indirectly, during the
+April
+Turn-Around-Time (TAT).
+May
+Article by
+June Parts delivery to airlines
+Frédéric FORGET
+A380 Work Package Leader July In-service evaluation
+AIRBUS
+frederic.f.forget@airbus.com
+2102
+/
+3102
+Fig. 1
+Integration and tests
+35#TSAF
+60
+35#TSAF
+70
+Frédéric FORGET, from Airbus’ Electrical and Optical Standard parts’ department took
+the lead and was tasked with quickly finding a solution - a big challenge knowing that
+this type of project usually takes 18 to 24 months.
+The DO160 is an official document which defines a series of minimum The DO160 provides the test methods
+He set up a dedicated task force with the lightning strikes’ and electrical network
+standard environmental test conditions (categories) and applicable test and procedures to verify the capability
+specialists. Due to the time constraints of validating changes to the aircraft itself,
+procedures for airborne equipment. The purpose of these tests of equipment to withstand transient
+the task force focused on providing external protection. The idea was to develop an
+is to provide a laboratory means of determining the performance voltages which are intended to represent
+external protection tool for Ground Support Equipment (GSE). The decision was then
+characteristics of airborne equipment. These environmental conditions the induced effects of lightning.
+taken to use the same technology already existing inside the aircraft to protect the power
+are representative of those which may be encountered in airborne operation The most relevant waveform for our
+feeder: the Lightning Protection Unit (LPU), but optimized for this specific application.
+of the equipment. application is the voltage waveform 2.
+An LPU embedded solution
+Knowing that it would also have taken too much time to develop a specific interface,
+the team decided to embed the LPU into an existing adaptor plug (Fig. 2) manufactured
+by TDA Lefebure, that would connect between the aircraft and the Ground Power Unit.
+In parallel, the lightning strike specialists defined the most realistic threat in order to
+dimension the LPU protection. The lightning threat model used covered more than
+90% of potential cases. The induced voltage generated by the lightning’s indirect
+effect is 1,600 volts, or 14 times the aircraft’s normal network voltage.
+The LPU uses transient voltage suppression diodes (Fig. 3) to filter the voltage spike
+out through the ground during the lightning strike. The residual voltage after the LPU
+shall not exceed the network voltage spike envelope defined in figure 5, keeping the
+power entering the aircraft close to 115 volts.
+The main functions of the LPU are to protect the electrical power line in case of
+lightning strikes and not damage and/or perturb the power signal during, and after,
+normal/abnormal transient voltage.
+Ground service connections
+and electrical service panels
+Airbus approached Leach International, suppliers of the A380’s internal LPU, to
+redesign and resize it to handle the threat. The plug manufacturers redesigned it
+to interface with the LPU. An integration test on the aircraft was done with a plug,
+in order to check the pin retention and if the plug and the structure did not clash.
+In parallel, Airbus used Catia DMU (Digital Mock-Up) software to visualize its integration.
+Due to the ground service connections’ typology, it was necessary to design two
+assembly configurations of the LPU plug (Fig. 4). Each A380 aircraft needs a set of
+four plugs, the configuration ‘A’ plug is only used for the external ‘power 3’ receptacle
+and the configuration ‘B’ for the external power plugs ‘1, 2 and 4’ (Fig. 6 & 7).
+For the in-service evaluation six sets of four plugs were produced.
+)stlov(
+egatloV
+kaeP
+Ground lightning protection Ground lightning protection
+DO160
+Voltage spike envelope shows the acceptable voltage input. Voltage waveform 2
+This illustration gives the “shape” of the
+lightning threat applied to LPU plug pins.
+1000
+Peak
+600 T1 = 100 nanoseconds maximum
+600
+T2 = 6.4 microseconds ± 20%
+0
+-600 -600
+-1000 0 t
+Fig. 2: the modified adaptor plug 0 1 5 10 50 100 500 1000 T1 T2
+and the LPU embedded on it Origin of time at the beginning of spike Time (µs)
+Fig. 5
+Fig. 3: transient voltage suppression
+diodes inside the LPU:
+A, B & C are the 115 volt phases.
+N is the neutral reference.
+E & F are the 28 volt interlock line
+Fig. 6
+A B
+Fig. 4
+External power receptacles
+35#TSAF
+80
+35#TSAF
+90
+On the first prototype, Airbus conducted a programme of Validation and Verification
+(V&V) tests, as well as electrical and lightning strike tests, using a model at Airbus’
+lightning laboratory facility. All qualification tests were carried out at Leach’s laboratory.
+The prototype passed all the requirements and Airbus qualified the solution.
+CONCLUSION
+Some regions around the world experience severe climate conditions
+and lightning strikes may cause heavy damage to an aircraft.
+Airbus developed a connecting plug with lightning protection for the A380,
+to be installed between the ground cart power supply and the aircraft’s
+power receptacle. These new adaptor plugs, developed in seven
+months and delivered at the end of June 2013, deviate the eventual
+electric surge to the ground and the airlines are now conducting
+a six-month in-service evaluation to validate our laboratory findings.
+Airbus also provided a technical report which explains the implementation
+of the Lightning Protection Unit (LPU) for the A380 double-deck
+Ground Power Unit connection.
+Complementary LPU plug installation/removal AMM tasks
+Installation:
+• AMM task 24-41-00-861-801-A
+• AMM task 24-41-00-861-801-A02
+• AMM task 24-41-00-861-803-A
+• AMM task 24-41-00-861-804-A
+• AMM task 24-42-00-861-801-A
+Removal:
+• AMM task 24-41-00-862-801-A
+• AMM task 24-41-00-862-801-A02
+• AMM task 24-41-00-862-803-A
+• AMM task 24-41-00-862-804-A
+• AMM task 24-42-00-862-801-A
+35#TSAF
+90
+Ground lightning protection Ground lightning protection
+FE2015-B
+Ext Pwr 1 FE2015-B
+Ext Pwr 2
+FE2015-B FE2015-A
+Ext Pwr 4 Ext Pwr 3 Fig. 7
+The configuration ‘A’ plug is only used for the external
+‘power 3’ due to the orientation of the receptacle and the
+configuration ‘B’ for the external power plugs ‘1, 2 and 4’
+All aircraft are susceptible to lightning
+Airbus built a mock-up in their lightning strike laboratory at Blagnac (France) to test
+the lightning strike protection system. These tests are performed for every Airbus fleet
+programme as shown here for the A350 XWB.
+35#TSAF
+01
+35#TSAF
+11
+Handling Qualities Analysis
+Handling Qualities
+Damage on an Auxiliary
+Power Unit drain mast
+following a tail strike event
+Analysis
+Specific in-service
+events analysis
+When is an HQA report issued?
+A Handling Qualities Analysis (HQA) report issued by Airbus is provided to
+customers following occurrences such as:
+• Hard landing leading to additional maintenance actions further to AMM
+(Aircraft Maintenance Manual) findings or loads’ exceedance,
+• Tail strike,
+Following an in-service incident, airlines usually contact
+• Runway excursion,
+Airbus’ engineering support to be provided with guidelines
+• Turbulence with serious injuries and/or excessive flight parameter deviations,
+and/or recommendations to release the aircraft back into
+• Significant over-speed event leading to maintenance inspection
+service (inspections, tests, etc.), with a clear objective to as per AMM requirements,
+limit as much as possible the impact on future operations. • Inappropriate aircraft handling:
+- Unstable approach as per Flight Crew Operating Manual (FCOM),
+Beyond technical assistance, Airbus offers to help operators - Abnormal landing,
+better understand the event through a detailed analysis, mainly - Significant bounce.
+based on raw data extracted from the Flight Data Recorder. • Flight out of the aircraft’s certified envelope,
+• Recurrent event identified by Airbus’ Product Safety Process.
+This Airbus activity, known as “Handling Qualities Analysis”
+(HQA), consists of analysing specific in-service events.
+It is carried out in close collaboration with several Airbus
+Unexpected or major events may require structure inspections. In the case of in-service
+Article by departments such as Flight & Integration Test Centre,
+events (not covered in the
+Vincent MILLET The major events entering the HQA scope
+Design Office, Flight Operations, Flight Safety and other HQA occurrence list) on
+Senior Engineer and their associated AMM tasks:
+which an operator would like
+Handling Qualities Product Leader relevant Airbus Customer Services engineering departments.
+• Inspection after overweight/hard landing: AMM 05-51-11 dedicated Airbus analysis for
+AIRBUS
+specific happenings,
+vincent.millet@airbus.com Airbus contributes to the safety of Airbus’ aircraft • Flight in turbulence or VMO (Maximum Operating Speed of an aircraft)
+an HQA may be carried out
+exceedance: AMM 05-51-17
+by monitoring and analysing in-service events reported on a case-by-case basis.
+• Tail strike: AMM 05-51-21
+by airlines.
+• Runway excursion: AMM 05-51-24
+The Handling Qualities’ activity supports globally Airbus’ As a general rule, any event requiring structure inspections is referenced
+in any AMM chapter 05-51-xx.
+Product Safety Process (PSP) and contributes to the
+continuous improvement of our products.
+Speed brake not retracted below 6 ft Radio-Altimeter Speed brake not retracted below 6 ft relative altitude
+OR
+Ground spoilers handle armed Grand spoilers handle armed
+AND
+All thrust levers at idle All thrust levers at idle
+Preselection
+OR
+condition
+Two symmetric thrust in reverse Two symmetric thrust in reverse
+AND
+Two other levers at idle Spoilers Two other levers at idle
+and
+Rejected Take-Off condition ailerons
+Aft wheel speed > 72 kt on one main landing gear Aft wheel speed > 72 kt on one main landing gear
+OR low speed
+extension
+Radio-Altimeter < 6 ft Relative altitude < 6ft
+initiation
+AND
+Both main landing gear shock absorbers compressed Both main landing gear shock absorbers compressed
+Aft wheel speed > 72 kt on one main landing gear Spoilers Aft wheel speed > 72 kt on one main landing gear
+and
+OR
+Forward wheel speed > 72 kt on one main landing gear ailerons Forward wheel speed > 72 kt on one main landing gear
+high speed
+AND
+extension
+Wheel speed < 23 kt Wheel speed < 23 kt
+initiation
+OR
+One main landing gear shock absorbers compressed Spoilers One main landing gear shock absorbers compressed
+and
+Radio-Altimeter < 6 ft ailerons Relative altitude < 6 ft
+AND low speed
+One main landing gear shock absorbers compressed extension One main landing gear shock absorbers compressed
+initiation
+35#TSAF
+21
+35#TSAF
+31
+Handling Qualities Analysis Handling Qualities Analysis
+Objectives of the HQA report
+Independently of the aircraft’s release to service, the main customer’s concern
+after an in-service event is to understand both the technical and operational
+causes, in order to prevent a re-occurrence.
+In-service events are recorded through the Flight Data Analysis (FDA) system and
+directly reported to Airbus for investigations.
+As a consequence and to help minimizing re-occurrences (and their associated
+costs), Airbus performs a complete run-through of an in-service event, extracting
+the scenario from the Flight Data Recording (FDR) decoding, to explain the
+contributing factors. Main objectives:
+The HQA, based on the FDR raw data readout, is carried out in parallel with the • Understand an event
+load analysis generally required for structure inspection purposes. The aircraft’s and its origin.
+release to service is out of the HQA activity’s scope.
+• Provide information
+The HQA report highlights the contributing factors of an event by analysing the on operational best
+aircraft’s systems behaviour and the aircraft’s response versus the pilot’s input. practices to avoid
+re-occurrence.
+To make it easier, the analysis gathers references of available operational Airbus
+aircraft documentation, as well as design enhancements whenever applicable. • Monitor the fleet
+Handling Qualities
+and systems’
+If necessary, to better understand an operational event, the analysis could focus Analysis meeting
+design consistency.
+on the logic of a particular system operating during the event (i.e. Ground spoilers’ Operational information can come either from operational manuals (Flight Crew Operating Manual
+automatic extension at touchdown). - FCOM, Flight Crew Training Manual - FCTM, Aircraft Flight Manual - AFM, etc.) or from Airbus’
+general documentation (Flight Operations’ Briefing Notes, Getting to Grips with…, etc.)
+With the HQA report in hand, the operator has a synthetic document to take appropriate decisions
+or cascade down the relevant information.
+On Airbus’ side, the airline’s feedback is key to monitor Airbus’ in-service fleet and to ensure
+continued airworthiness, while enhancing and developing new systems and/or procedures to
+Overview of conditions for the extension of ground spoilers
+continuously fit operational constraints.
+(Shown here for A340-500/600 aircraft)
+Operational information can come either from operational manuals (Flight Crew
+Operating Manual - FCOM, Flight Crew Training Manual - FCTM, Aircraft Flight
+Runway Recurrent
+Manual - AFM, etc.) or from Airbus’ general documentation (Flight Operations’
+excursion event
+briefing notes, Getting to Grips with…, etc.)
+4% 14%
+Handling qualities
+With the HQA report in hand, the operator has a synthetic document to take appro-
+priate decisions or cascade down the relevant information.
+reports in 2012 Tail strike
+On Airbus’ side, the airline’s feedback is key to maot nlaitnodr iAnigrbus’ in-service fleet and
+Qtou eannstuitriee sC aonndti npueerdc eAnirtwagoertshiness. 6%
+Hard
+This allows enhancing and developing new systems and/or procedures to continu- landing
+ously fit operational constraints 46%
+Lateral
+acceleration
+at landing
+53 11%
+Turbulence/
+Overspeed
+19%
+22
+16
+12
+7
+4
+Hard Turbulence/ Lateral acceleration Tail strike Runway Recurrent
+landing Overspeed at landing at landing excursion event
+Auto-Thrust Engaged
+Auto-Thrust Active
+Auto-Pilot 1 Engaged
+Auto-Pilot 2 Engaged
+Landing Gear Squat Switch LH
+Landing Gear Squat Switch RH
+Landing Gear Squat Switch Nose
+10
+DA
+-10
+Elevators Right (ELVR) -- 10
+Elevators Left (ELVL) - DA
+Stabilizer
+-10
+10
+Angle of Attack (AOA1)
+Angle of Attack (AOA2) AOA 1 AOA 2
+Pitch Angle (PTCH) 5 DA
+0
+2
+Normal load factor (VRTG) G
+1
+0.5
+Longitudinal load factor (LONG) G
+5000
+0.0
+Altitude
+4500 FT (ALT)
+FT 150 4000
+500 Ground Speed (GS)
+Selected CAS PFD (SCAS PFD) 140
+KT 400
+Radio 130 Altimeters
+300 (RALT)
+120 FT
+200
+50
+Throttle Lever Angle (TLA) TLA1 100
+TLA2 DA
+-0
+0
+80
+N1 Actual N1A1
+N1A2 %
+0
+05:04:20 05:04:24 05:04:28 05:04:32 05:04:36 05:04:40 05:04:44 05:04:48 05:04:52 05:04:56 05:05:00 05:04:20 05:04:24 05:04:28 05:04:32 05:04:36 05:04:40 05:04:44 05:04:48 05:04:52 05:04:56 05:05:00
+TIME(H)
+Aircraft: A320
+Centre of Gravity (%) 32.16
+APPROACH (LONGITUDINAL AXIS)
+WeightT (LBS) 138160
+Weight (KG) 62656
+NOITAITINI
+ERALF
+NWODHCUOT
+NOITAITINI
+ERALF
+NWODHCUOT
+DA = Degree Angle
+FT = Feet
+G = acceleration value
+KT = Knots
+Auto-Pilot 1 Engaged
+Auto-Pilot 2 Engaged
+Landing Gear Squat Switch LH
+Landing Gear Squat Switch RH
+Landing Gear Squat Switch Nose
+Auto Brake Med
+Pitch down FD1 Engaged
+side-stick orders FD2 Engaged
+Side Stick Roll Position Ground Spoilers Extension (SPL1B)
+Captain (STKRC) -
+Side Stick Roll Position
+First-officer (STKRF) - Side Stick Roll Position 20
+Captain (STKRC) -
+Pitch up Side Stick Roll Position DA
+side-stick orders First-officer (STKRF) - -20
+20
+Pitch Ailerons Left (AILL) -
+Angle Ailerons Right (AILR) -- DA
++5.3° -20 5
+Roll Angle Roll Angle DA
++4.9°
+-5
+0.2 Lateral
+Normal
+load factor Lateral load factor (LATG) G load factor
++0.25 G
++2.89 G 0.0
+Rudder
+deflection
+Rudder Trim Deflection (RUDT) 5 +14°
+Rudder Deflection (RUDD) DA
+Rudder Pedal Deflection (RUDP)
+-5
+0
+Drift Angle DA
+-5 80
+Aircraft Heading
+160 DEG (HDG)
+Heading
+Computed Airspeed (CAS_ADC) CAS value 079° 0
+136 KT Ground Speed (GS) 140
+Computed AirSpeed (CAS_ADC) KT
+RRRRRRALT1 120 300
+RRRRRRALT2 Slat flap lever Radio
+Altimeters
+in full landing configuration
+100 200 (RALT)
+Thrust levers FT RRRRRRALT1
+put on idle position RRRRRRALT2
+4 100
+Slat Flap Lever Position (SFLP)
+Thrust Radio
+decrease 0 Altimeters 0
+50 ft
+TIME(H)
+Aircraft: A320
+Centre of Gravity (%) 32.16
+APPROACH (LATERAL AXIS)
+Weight (LBS) 138160
+Weight (KG) 62656
+35#TSAF
+41
+35#TSAF
+51
+Handling Qualities Analysis Handling Qualities Analysis
+Raw data decoding
+Using a specific Airbus tool, raw flight data is displayed
+as graphic charts for the event’s analysis.
+Recorded flight data in this format allows a detailed analysis
+of aircraft behaviour and aircraft systems at the time of the event.
+This example highlights some of the relevant parameters
+used to analyse a hard landing event of an A320 aircraft.
+35#TSAF
+61
+35#TSAF
+71
+Handling Qualities Analysis Handling Qualities Analysis
+Y Digital/Solid State Quick
+R
+O Flight Access
+T Data Recorder
+A
+Recorder
+D
+N - Copy of Flight Data Recorder
+A - In-service event analysis - Easy access
+M - Frozen dataframe
+OPERATOR
+- Crash protected Digital Smart
+In-service event
+Aids Access
+Recorder Recorder
+- Maintenance
+and fleet monitoring
+- Customized dataframe
+Airbus Engineering Support
+What data is used?
+For absolute accuracy, Airbus only analyses raw data, either from the Flight Data
+Recorder (FDR) or the maintenance recorder (QAR). In exceptional circumstances,
+raw data from the Digital Access Recorder (DAR) may be used, providing that the Flight raw data decoding
+corresponding DAR database is supplied at the same time.
+Airbus’ WISE (World In-Service Experience) solution (ref: EngOps-16063) provides
+a list of usable data formats (file extensions) and a list of AMM tasks relative to the
+procedure of flight raw data recovery.
+Handling
+These two
+Loads analysis
+Qualities
+are done
+as per AMM
+Analysis
+requirements in parallel
+(HQA)
+Maintenance recommendations
+provided by relevant Airbus
+Customer Services’ engineering Handling Qualities Analysis report
+specialists for aircraft release
+Airbus delivers the HQA report within five weeks
+of receiving the FDR raw data
+OPERATOR Engineering / Maintenance Flight Operations Flight Safety
+LANOITPO
+Usual data requested before starting
+a Handling Qualities Analysis:
+• Flight Data Recorder raw data • Pilot’s report
+• Post Flight Report • Weather data
+• Load and Trim sheet • MEL (Minimum Equipment List)
+open items
+• Aircraft Condition Monitoring
+System reports (Load Report • Part Numbers (PN) of the
+15, Over-Speed Report 35, etc.) aircraft’s computers involved
+in the occurrence
+• Trouble-Shooting Data (TSD)
+Applicable
+process
+for in-service
+Once the data has been retrieved from the aircraft, it must be sent to Airbus either
+by the airlines field representative or directly using Airbus’ File Transfer Service events
+Plus (FTS+) on AirbusWorld (https://ftsplus.airbus.com).
+GLOSSARY
+FDR (Flight Data Recorder): Mandatory device that permanently works from
+the first engine start until the end of the flight. Thanks to a large memory
+capacity, it records many flight hours and numerous flight parameters.
+QAR (Quick Access Recorder): Copy of the FDR and thus records the same
+data. It allows a quick and easy recovery of the raw data recorded in FDR.
+Only raw data is used for the event analysis.
+DAR (Digital Access Recorder): Mostly maintenance and fleet monitoring
+oriented and therefore should not be used for event analysis as the data
+frame can be customized by the operators.
+As a consequence some useful parameters could be missing to perform
+a detailed HQA.
+PFR (Post Flight Report): Lists and displays after landing the ECAM
+(Electronic Centralized Aircraft Monitor) warnings and system faults that
+occurred during the flight.
+ACMS (Aircraft Condition Monitoring System): Recovers the data supplied
+by various systems for trend monitoring. It is also possible to use the
+ACMS for specific troubleshooting.
+35#TSAF
+81
+35#TSAF
+91
+Wind reconstruction
+Whenever relevant, Airbus initiates
+a wind reconstruction (3 axes)
+to better assess the effect of each
+wind component (vertical, lateral
+and longitudinal) on the aircraft
+behaviour.
+In the same way, in case of an aircraft
+performance issue, the aircraft’s
+Gross Weight (GW) and Centre of The HQA report handed to the operators includes the following information:
+Gravity (CG) can be re-computed and
+• After validation of recorded parameters, a factual description of the event based compared to the data used/inserted
+on the plots extracted from the FDR raw data, and the technical explanation
+by the crew.
+of the contributing factors,
+• Summary of the technical data provided to Airbus,
+• Operational information relative to the event,
+Lateral wind’s influence on an aircraft’s trajectory
+• Airbus’ operational documentation in which the operator can find useful
+information to prevent a re-occurrence. The information can come either from
+operational documentation (FCOM, QRH, FCTM) or Airbus’ general
+brochures (Getting to Grips with…, Briefing Notes, etc.),
+• New system features or enhancements that can be installed through Airbus
+Service Bulletins (SB). These upgrades may be means to minimize
+re-occurrences (i.e. Pitch Limit Indicator and Pitch Auto Call-Out to limit tail
+strike events).
+CONCLUSION
+Handling Qualities Analysis report provides operators with a synthetic document addressing significant in-service
+reported events.
+Airbus’ operators receive a detailed analysis highlighting the contributing factors, to ease the understanding of the
+in-service event. Its intention is to help the operators prevent re-occurrences. When necessary, Airbus provides
+information to the operator on the eventual system improvements.
+Thanks to this activity, Airbus proactively supports its operators in maximizing their operations and preventing
+re-occurrence, with safety as first objective.
+“Thank you for the new handling report. “Your report is very “I would like to thank Airbus’ HQA
+Wind 310°/12 Kt 000° (North) It enables us to better understand what professional and very team for providing us with the
+happened from a technical point and is an useful.” extensive analysis of this event.
+315° 045° invaluable help for our internal investigation. The report was straightforward
+We especially welcome your prompt replies Mr. Qingchen WANG and data analysis was complete.
+and the detailed and precise answers to our Vice-President Safety This has already been forwarded
+Heading
+specific questions. Our company’s Flight to the training department to be
+085°
+270° 090° Safety department highly appreciates your included in our in-service events,
+assistance. Once again thank you for your and will form part of our special
+invaluable support.” training session.”
+Peter KRUPA Captain MARALIT
+135°
+225° Training Captain A320 Chief Investigator A319/A320 Chief Pilot
+180° Wind sector
+09
+10.620
+10.615
+10.610
+10.605
+10.600
+10.595
+Longitude
+edutitaL
+Handling Qualities Analysis Handling Qualities Analysis
+A380 crosswind
+landing campaign
+in Reykjavik
+Centre (Iceland)
+of Gravity
+Y aircraft
+(pitch axis)
+Z aircraft
+(yaw axis)
+X aircraft
+(roll axis)
+10 Kt Wind scale
+Trajectory
+Touch
+down
+47.045 47.040 47.035 47.030 47.025 47.020 47.015 47.010 47.005 47.000
+Airlines’ feedback
+Wind information
+recorded on the FDR
+35#TSAF
+02
+35#TSAF
+12
+A350 XWB Electrical Structure Network
+A350 XWB Electrical
+Electrical principle
+Your usual home electrical installation
+Structure Network
+Electrical Equipment
+power centre
+Earth
+A330 (metallic aircraft)
+Electrical Structure Network (ESN) area Electrical Equipment
+power centre
+Metallic Bonding Network (MBN) area
+Aircraft
+power
+source
+Metallic aircraft structure
+The Electrical Structure Network is necessary to ensure:
+• Proper functioning of the aircraft systems
+A350 XWB (CFRP fuselage)
+• Aircraft’s structure integrity
+(loss of mechanical properties in the Carbon Fibre
+Electrical Equipment
+Reinforced Polymer (CFRP) due to the joule effect)
+power centre
+The use of carbon for aircraft structures on the A350 XWB
+• Staff and passenger safety
+Aircraft
+(Extra Wide Body) presents several advantages in terms of
+power
+source
+weight and maintenance, but leads to differences in system
+EleMcetrtiaclalicl Satirruccratuftr es tNruecttwuorerk
+functionning, compared to a metallic structure. This article
+Functional current (grounding)
+presents the Electrical Structure Network (ESN), and its Fault current (bonding)
+Power supply CFRP element
+particularities with regards to maintenance, the associated Inherent electrical link through
+mechanical assembly
+documentation and the proposed training means.
+To achieve the same electrical and environmental performance of aircraft metallic
+structures, two different technical solutions have been implemented on the A350
+XWB depending on the area and the expected function.
+In the pressurized fuselage a highly distributed conductive network; known as the
+Electrical Structure Network (ESN) is achieved thanks to both existing metallic
+structure parts and to specific ESN parts.
+This network offers the electrical and environmental conditions required for the
+correct functioning of aircraft systems. Due to the discrete characteristics and
+electrical properties of carbon, compared to a metallic fuselage, particular attention
+Christophe LOCHOT (left)
+should be given to maintaining the ESN system’s performance during the entire life
+ESN Design Leader
+of the aircraft.
+Expert in Electrical Systems Engineering
+AIRBUS
+Elsewhere a Metallic Bonding Network (MBN) has already been used. For example
+christophe.lochot@airbus.com
+on the wings, tail cone, empennage and belly fairing of the A380. It consists of a
+network of metallic parts, electrically bonded together and used for a failure current
+Damien SLOMIANOWSKI (right)
+return path, equipment bonding, as well as lightning and Electro-Static Discharge
+Engineer
+protection. This network is neither used as a functional current path (grounding),
+Aircraft Electrical Installation & Standard Items
+nor to distribute the voltage reference to the equipment located in the area.
+Customer Services Engineering
+These functions are ensured thanks to dedicated cables routed in the harnesses.
+AIRBUS
+Each MBN sub-network (wings, belly fairing, etc.) is connected to the ESN.
+damien.slomianowski@airbus.com
+A350 XWB Electrical Structure Network
+Parts supporting The specific ESN components are the:
+• Cables used to create the link between the crown level,
+the ESN
+and the passenger floor or cargo. This cable is routed by itself
+and sometimes in a harness.
+• Different types of raceways, located in the crown area
+and under the cabin floor.
+• Different types of flexible junctions providing additional
+means to either reinforce electrical bonding between main
+Electrical
+elements (e.g. crossbeam, frames, etc.) or create the electrical
+Structure Network
+continuity (e.g. between two raceways).
+definition
+ESN is a metallic redundant and
+passive network made of more than
+6,000 parts. 40% of these parts have
+specifically been defined for the ESN
+(specific components), the other ones
+are metallic parts already installed in
+the aircraft for mechanical functions.
+ESN is composed of different element
+families, which are:
+• Structure metallic elements
+(e.g. metallic frames, crossbeams,
+seat tracks, roller tracks, etc.)
+Raceways Zones where the raceways are installed
+and their assembly,
+• Mechanical elements
+(e.g. parts supporting equipment
+such as the electronics bay rack,
+mechanical junctions, cabin
+furnishing structures in the crown
+area) and their assembly,
+• Specific ESN components
+(raceways with approximately
+2.000 flexible junctions all along
+the fuselage and cables).
+35#TSAF
+22
+35#TSAF
+32
+A350 XWB Electrical Structure Network
+Type-3 Type-1
+raceway raceway
+Type-2
+raceway
+Type-1 Type-2
+raceway raceway
+ESN cable
+Metallic frames
+Type-4
+Type-3 Type-4
+raceway
+raceway raceway
+Pax door
+surroundings
+Cabin floor
+crossbeam
+H-strut Cockpit crossbeam
+Avionic rack chassis
+Avionic compartment
+crossbeam
+Cargo crossbeam
+Cargo roller tracks
+Pax door
+ESN cable
+H-strut
+Cabin floor
+crossbeams
+Cargo door
+Lower shell frame
+Cargo crossbeams
+CONCLUSION
+To provide a similar electrical environment offered by metallic fuselages
+for the aircraft systems, Electrical Structure Network (ESN) has been
+introduced in composite fuselages. This metallic electrical network is
+mainly built from elements with mechanical functions already present
+in the aircraft.
+Composite fuselages, even with the addition of the ESN, offer the
+optimal solution in terms of weight and electrical performance
+while minimizing operational and maintenance costs for airlines.
+For maintenance and aircraft modifications, some comparable
+precautions to those applicable for the electrical power generation
+and distribution have to be taken. Airlines will receive the appropriate
+Airbus technical documentation and dedicated support for their
+A350 XWB. Airbus has already implemented appropriate training
+courses for operators who wish to learn more about ESN, before
+the A350 XWB Entry-Into-Service.
+35#TSAF
+42
+35#TSAF
+52
+A350 XWB Electrical Structure Network A350 XWB Electrical Structure Network
+ESN in use:
+In order not to isolate an ESN element (loss of local redundancy), ESN shall be
+managed with care and generic rules shall be respected.
+Maintenance
+a - Installation/Removal/Repair:
+• In case of repair, electrical properties have to be maintained between
+the different elements.
+• To validate the flexible junction installation (surface preparation, application
+of the right torque value), a test under high current will have to be performed
+for each electrical connection.
+• To remove and install ESN parts Airbus’ documentation needs to be followed
+in order to ensure the operator’s safety.
+• Precautions are similar to the ones applicable to electrical systems on legacy
+programmes. Training
+b - Scheduled inspection Airbus provides training that allows
+The ESN in-service integrity is ensured thanks to the scheduled maintenance, airlines to increase their ESN
+to be performed in accordance with the documentation found in AirN@v. knowledge and to train electricians or
+mechanics for maintenance purposes:
+Scheduled maintenance will be performed through general visual inspections
+Flexible junctions ATA 24 Electrical Structure Network
+during the zonal inspections planned, every six years for ESN parts located
+Maintenance (levels 2 and 3)
+in the nose fuselage (and especially close to the PVR) and every twelve years
+and the ESN Measurement/
+for the complete fuselage.
+Test tool,
+The Point of Voltage Reference (PVR)
+Aircraft modification ATA 51 Electrical Structure Network
+Located in the nose area at the passenger floor level, the PVR is the zero volt (ESN) and Metallic Bonding
+reference shared by all aircraft equipment. The neutral of the aircraft alternating The ESN modification has to be treated with precaution. In case of operator Network (MBN) awareness.
+current power sources and the cold point of the aircraft’s direct current sources modification needs, the following cases shall be considered:
+These are part of mandatory courses
+are connected to the PVR, as well as the neutral of the external ground carts. • In case of system modification or addition, an electrical load analysis has to be for B1 and B2 aircraft maintenance
+The PVR is made of metallic frames, in the nose fuselage area, longitudinal beams done for return current in order to guarantee the performance of the ESN licences (specific aeronautical
+(called PVR-bars) and their associated flexible junctions. (current injection scenarios). This ESN Electrical Load Analysis is similar to the qualifications).
+one performed for the electrical power generation and distribution system.
+ESN parts documentation • Any ESN physical modifications have to be analysed by Airbus before their
+implementation.
+ESN elements are described in current AirN@v documentation (Airbus technical
+documentation software):
+ESN
+• In the Illustrated Part Data (IPD), all ESN parts will be specifically flagged,
+• In the Maintenance Procedure (MP) all necessary maintenance instructions
+will be described to ensure the continued airworthiness of the aircraft.
+ESN parts
+These instructions will be located in chapter 20 (e.g. the bonding procedure)
+and chapter 24-77 (named Electrical Structural Network, new chapter introduced identification
+for the A350 XWB). This dedicated chapter will deal with generic safety on aircraft
+precautions which apply to all ESN maintenance/repair activities.
+All ESN tasks will refer to this chapter, In order to ease the ESN
+identification and maintenance
+• In the Electrical Standard Practices Manual (ESPM), it will give descriptive on the A350 XWB, the specific
+data and procedures for the electrical standard parts’ installations ESN components, as its
+(e.g. raceways, flexible junctions, etc.). It will provide instructions for part secondary structure parts, are
+removal and installation, damage assessment and repair solutions to be identified with a green label.
+applied, if deemed necessary,
+• In the structural repair manual, allowable damage limits and repairs will take
+into account the ESN requirements.
+35#TSAF
+62
+35#TSAF
+72
+Towards a high European air traffic demand
+Towards a high European
+A partnership programme
+For the first time, all aviation players are involved in the three phases of the
+air traffic demand pan-European modernization project:
+• The ‘definition phase’ which delivered the ATM master plan defining the content,
+the development and deployment plans of the next generation of ATM systems.
+This definition phase was led by Eurocontrol, and co-funded by the European
+Commission under the Trans European Network-Transport programme
+Airbus’ involvement in SESAR and executed by a large consortium of all air transport stakeholders.
+• The ‘development phase’ which produces the required new generation
+of technological systems, components and operational procedures as defined
+in the SESAR ATM Master Plan and Work Programme.
+Time has come to act for the European airspace as air
+• The ‘deployment phase’ will see the large scale production and implementation
+traffic is expected to increase. Currently, constraints in
+of the new ATM infrastructure, composed of fully harmonized and interoperable
+Europe’s fragmented airspace bring extra costs of close components that guarantee high performance air transport activities in Europe.
+to 5 billion Euros each year to airlines and their customers.
+SESAR Joint Undertaking (SJU)
+In order to avoid the risk of saturation of Europe’s skies
+Taking into account the number of actors involved in SESAR, the financial resources
+and airports, the European Commission launched an and the technical expertise needed, it was vital for the rationalization of activities to
+set up a legal entity pursuant to Article 171 of the European Treaty (on the
+ambitious initiative in 2004: the Single European Sky (SES).
+functioning of the European Union) capable of ensuring the management of the
+funds assigned to the SESAR project during its ‘development phase’.
+While the Single European Sky is a high level goal at a political level, SESAR Hence, the SJU was established in 2007 to implement the technology pillar of the
+Article by (Single European Sky ATM Research) represents its technological pillar SES and, in this respect, is in charge of the SESAR project development phase, i.e.
+Daniel CHIESA (left) and is coordinated by the SESAR Joint Undertaking (SJU), a public and private is the guardian and the executor of the European ATM Master Plan.
+SESAR Work Package 11.1 Leader partnership co-financed by Eurocontrol and the aviation industry.
+AIRBUS
+daniel.chiesa@airbus.com Within the SESAR programme, Airbus is leading the “Aircraft systems” and “Flight
+The most recent version of the ATM Master Plan, approved in 2012, identifies
+and Wing Operations Centres”(FOC/WOC) Work Packages (WP). Airbus also
+Joseph ABOROMMAN (right) contributes to several other WPs in which entities such as Air Navigation Service the essential operational changes that need to be implemented in three main
+SESAR Work Package 11.1 Project Manager Providers (ANSP), airports or equipment manufacturers are involved. steps to lead to the full deployment of the new SESAR concept by 2030:
+AIRBUS In addition, Airbus also provides industrial support to the SESAR Joint
+joseph.aboromman@airbus.com Undertaking (SJU) for managing the overall SESAR programme. Step 1 Time based operations - concentrates on unlocking latent capability
+particularly by improving information sharing to optimize network effects.
+In this article, we will introduce the domains in which the SESAR programme
+Step 2 Trajectory based operations - develops the System Wide Information
+focuses on, and demonstrate in particular where Airbus has taken part in this
+Management (SWIM) and initial trajectory management concepts
+global partnership.
+to increase efficiency.
+Single European Sky (SES)
+Step 3 Performance based operations/improvements - will introduce a full
+The Single European Sky initiative has been launched to reform the architecture of and integrated trajectory management with new separation modes
+the European Air Traffic Management (ATM). It proposes a legislative approach to to achieve the long term political goal of SES.
+meet the airspace’s future capacity and safety needs at a European, rather than a
+local level.
+Contrary to the United States, Europe does not have a single sky, one in which air The ATM Master Plan also includes the deployment baseline operational and
+navigation is managed at the European level. Furthermore, European airspace is technological changes which are pre-requisite to operate and support the essential
+amongst the busiest in the world with over 33,000 flights on busy days and a high operational changes of ‘step 1’.
+airport density. This makes air traffic control even more complex. Compared to the ATM performance in 2005, SESAR’s targets for both the
+‘deployment baseline’ and the ‘step 1’ are the following:
+SESAR
+• A 27 % increase in airspace capacity,
+As part of the SES initiative, SESAR (Single European Sky ATM Research) represents • An associated improvement in safety so that the total number of ATM-induced
+its technological and operational dimension. The SESAR programme will help incidents and serious or risk bearing incidents do not increase despite traffic
+create a “paradigm shift”, supported by state-of-the-art and innovative technology, growth generated by SESAR (i.e. through air-space and airport-capacity increase),
+in order to give Europe a high-performance air traffic control infrastructure.
+• A 2.8 % reduction per flight in environmental impact,
+This programme promotes and ensures the interoperability at global level with other
+• A 6 % reduction in cost per flight.
+initiatives in other parts of the world, by following the ICAO Global Air Navigation
+Plan (GANP) and ICAO’s Aviation System Blocks Upgrades (ASBU) concept.
+35#TSAF
+82
+35#TSAF
+92
+Towards a high European air traffic demand Towards a high European air traffic demand
+SESAR programme System development activities
+The SESAR programme is divided in several Work Packages (WP) composed of several
+projects. The WPs are also divided in several categories and sub-categories. WP 9 Aircraft Systems (Airbus leader)
+The scope of WP 9 covers the required evolutions of the aircraft platform,
+Airbus is the leader of WP 9 and 11.1
+in particular to progressively introduce 4D trajectory management functions
+(three spatial dimensions, plus time) in mainline, regional and business aircraft.
+“A Work Package for every step of the flight.”
+The future, performance-based European ATM system, as defined in the SESAR
+Key steps: ATM Master Plan, foresees greater integration and optimum exploitation of the
+• Time based operations aircraft. In order to reach this objective, a series of ‘capability levels’ have been
+scheduled. Each capability level provides a stepped performance improvement,
+• 4D trajectory operations
+WP 15 WP 16 synchronized across all components (and stakeholders) of the ATM system.
+• Performance based
+WP B & C This work package aims at:
+operations over a
+SWIM/IP network WP 9 & 11 • Developing and validating at aircraft level all airborne functions identified
+WP 3
+TOC Top Of Climb TOC WP 4 & 10 TOD in the SESAR ATM Master Plan.
+TOD Top Of Descent • Ensuring operational & functional consistency across stakeholder airborne
+segments (commercial aircraft, business aviation, general aviation, military
+Network
+aircraft, Unmanned Aircraft Systems (UAS), etc.).
+Information WP 5 &10 WP 8 & 14 WP 5 & 10
+management • Identifying technical solutions for different airborne platform types such as
+Transversal mainline aircraft, regional aircraft and business jets.
+WP 7 & 13
+Airport • Insuring global interoperability and coordination with important external
+WP 6 & 12 WP 6 & 12
+TMA initiatives such as NextGen (Next Generation) in the United States.
+En route
+WP 10 En-Route & Approach ATC Systems
+Operational activities
+WP 10 designs, specifies and validates the En-route and TMA-ATC
+(Terminal Air Traffic Control) systems’ evolutions for enhancing trajectory
+management, separation modes, controller tools, safety nets, airspace
+WP 4 En-Route Operations management supporting functions and tools, queue management
+and route optimisation features.
+The scope of the En-Route Operations WP is to provide the operational concept
+description for the En-Route Operations and perform its validation.
+WP 12 Airport Systems
+WP 5 Terminal Operations WP 12 encompasses all Research and Development (R&D) activities to define,
+design, specify and validate the airport systems needed to support the SESAR
+The scope of this WP is to manage, co-ordinate and perform all
+ATM target concept.
+activities required to define and validate the ATM target concept (i.e. concept of
+operations and system architecture) for the arrival and departure phases of flight.
+WP 13 Network Information Management System
+WP 6 Airport Operations WP 13 covers the system and technical R&D tasks related to the Network
+Information Management System (NIMS), the Advanced Airspace Management
+The scope of the Airport Operations WP is to refine and validate the concept
+System (AAMS) and the Aeronautical Information Management System (AIMS).
+definition through the preparation and the coordination of its operational validation
+process. The concept addresses developments associated with the “airside”
+elements, such as airfield capacity management and continuous best use of
+WP 15 Non-Avionic CNS System
+available infrastructure under all weather conditions.
+WP 15 (Non-Avionic CNS System) addresses CNS (Communication, Navigation
+& Surveillance) technologies’ development and validation, also considering their
+WP 7 Network Operations compatibility with the military and general aviation user needs.
+The scope of this WP covers the evolution of services in the business development
+and planning phases to prepare and support trajectory-based operations including
+airspace management, collaborative flight planning and Network Operations Plan
+(NOP).
+WP E SESAR Long Term and Innovative Research
+This WP addresses long-term and innovative research. WP E does not have a fixed
+work programme but solicits proposals from the research community for the
+formation of networks of expertise and for project works.
+Courtesy of Eurocontrol
+Towards a high European air traffic demand Towards a high European air traffic demand
+35#TSAF
+03
+35#TSAF
+13
+Operational and system SWIM Transverse Parallel
+development activities Connecting activities programmes
+the ATM world
+WP 11.1 Flight and Wing Operations Centres The concept of SWIM (System Wide WP B Target Concept and Architecture Maintenance Similar initiatives to SESAR
+(Airbus leader) Information Management) covers WP B, as a transverse work package, provides strategic and conceptual guidance regarding the Air Traffic Management
+a complete change in paradigm of how for the entire work programme including all threads (operational, technical transformation programmes were
+The Flight Operations Centre (FOC) is the Operations Control Center for a civil
+information is managed along its full and SWIM) to ensure the consistent development of SESAR improvements. launched in other parts of the world;
+airspace user and the Wing Operations Centre (WOC) is the Operations Centre
+lifecycle and across the whole European for example, in the United States
+for a military airspace user. ATM system. WP C Master Plan Maintenance through the Next Generation
+The scope of the Master Plan Maintenance WP is to administrate the up-to-date Air Transport System (NextGen)
+WP 11.1 covers the basis of operation for the future FOC/WOC, its role, WP 8 Information Management maintenance tasks of the ATM Master Plan, to monitor the progress of its while in Japan with the Collaborative
+responsibilities, interactions and exchanges with other actors from an operational
+The scope of this WP is to develop SWIM development and its implementation. Actions for Renovation of the Air
+point of view, taking in consideration the fundamental systems’ architectures.
+which is the ‘intranet for ATM’. Traffic System (CARATS).
+The FOC/WOC system will enable airlines and military operators running this system WP 3 Validation Infrastructure Adaptation and Integration
+to reach the performance and safety targets of the SESAR environment. WP 14 SWIM WP 3 involves all relevant European ATM stakeholders to benefit from existing Conversely, Europe and the
+The main objectives of WP 11.1 include: Technical Architecture expertise, tools and validation platforms, to make available a reference Validation United States agreed to cooperate
+• Defining FOC/WOC and non FOC/WOC operational concepts from the airspace This WP is the follow-up of the and Verification infrastructure to be used during the SESAR development phase. on SESAR and NextGen through
+user’s perspective. SWIM- SUIT* FP6 Commission. It will use a Memorandum of Cooperation
+as an input the SWIM-SUIT deliverables WP 16 R&D Transversal Areas (MoC) in civil aviation research
+• Ensuring overall consistency of the business/mission trajectory management
+and align them with the SESAR Work The scope of this WP covers the improvements needed to adapt the Transversal and development.
+concept from the airspace user’s perspective.
+Programme components. Area (TA) management system practices to SESAR, as well as towards
+• Defining FOC/WOC operations and non FOC/WOC operations operational
+an integrated management system in the fields of safety, security, environment,
+and performance requirements for each element of the FOC/WOC and for * SWIM-Suit is shorthand for SWIM-SUpported
+contingency and human performance.
+each airspace user category. by Innovative Technologies.
+• Getting the buy-in of the airspace user’s community.
+• Providing the system definition, system requirements and system architecture
+Business/mission
+for a generic FOC/WOC that meet the user’s needs for a FOC/WOC operating
+in the SESAR target ATM network. trajectory
+• Providing the system definition, system requirements and system architecture
+“Business trajectory” relates to civil
+enabling the airspace users that are not supported by FOC, an access to the
+users, and “mission trajectory” relates
+SESAR ATM environment.
+to military users.
+• To develop prototypes which demonstrate that requirements are compliant
+A 4D trajectory which expresses the
+with the production of open standards as developed and used in the entire
+intentions of the user with or without
+SESAR project philosophy.
+constraints includes both ground
+• To perform the pre-operational validation of solutions developed within WP 11.1. and airborne segments of the aircraft
+Courtesy of Eurocontrol
+operation (gate-to-gate) and is built
+WP 11.2 Meteorological Information Services from, and updated with, the most
+WP 11.2 addresses the critical dependency between weather, the environment, timely and accurate data available.
+and the SESAR programme. WP 11.2 provides the SJU and its partners with the
+CONCLUSION
+opportunity to properly integrate weather into the SESAR programme
+to enhance the likelihood of success of its final outcomes, and ensuring
+successful operational implementation of the future air transport system. The European Air Traffic Management (ATM) system is operating close to its limits and is facing the challenge of continuously
+GLOSSARY
+As the Meteorological (MET) service federating project within the programme, growing demand in air transport. The Single European Sky (SES) initiative was created at a political level in order to achieve
+WP 11.2 will ensure consistency and coordination of the MET architecture, 4D 4 dimensions (3 spatial dimensions + time) the performance objectives and the targets of the future ATM system in Europe.
+systems and services used by all SESAR projects. ANSP Air Navigation Service Provider
+The SESAR (Single European Sky ATM Research) programme, representing the technological dimension of the SES, has
+ATM Air Traffic Management
+brought together for the first time in European ATM history, the major stakeholders in European aviation to develop the ATM
+CNS Communication Navigation Surveillance
+target concept through new processes, procedures and supporting technologies.
+FOC Flight Operations Centre
+ICAO International Civil Aviation Organization
+Airbus, as one of the SESAR members, is leading two particular Work Packages (WP) of the SESAR programme, therefore
+NextGen Next Generation (USA)
+contributing to safer and more efficient skies. Airspace users expect their requirements for the ATM system to be better
+SES Single European Sky
+accommodated in order to strengthen the air transport value chain. The ATM target concept is centred around the characteristic
+SESAR Single European Sky ATM Research
+of the business trajectory with the purpose of operating a flight as close as the preferred trajectory by the airspace user.
+SJU SESAR Joint Undertaking
+SWIM System Wide Information Management The challenge of developing the new ATM architecture through a wide cooperation between all the involved stakeholders
+TMA Terminal control Area implies a long and strong coordination. Hence, the SESAR programme has, and will, ensure its continuous and consistent
+WOC Wing Operations Centre development for the years to come.
+WP Work Package
+35#TSAF
+23
+35#TSAF
+33
+Volcanic eruptions - Ashes to AVOID
+Volcanic eruptions
+Ashes to AVOID
+Following the Eyafjallajökull volcano eruption in April 2010,
+airspace was shut down due to the massive ash cloud
+prediction covering most parts of northern Europe.
+This event grounded aircraft for several days, with an
+immediate economic impact for airlines. On top of this, 1111::2200::0000
+stranded passengers expressed dissatisfaction, not
+1111::0000::0000
+understanding why aircraft could not fly through an
+invisible ash cloud.
+1100::0000::0000
+A visible ash plume containing larger particles of ash spread 1100::5500::0000
+over several kilometres from the volcano vent, but the
+1100::2244::0000
+dominant winds dispersed and pushed finer particles much 1100::3355::0000
+further, not visible to the eye but nevertheless, still there.
+Concerted efforts have been made by Airbus’ customer The A400M had been prepared
+with special devices employing the
+easyJet, Nicarnia Aviation of Norway and Airbus, with the
+differential of the fuselage’s pressure
+help of technicians from the Duesseldorf University of Applied in flight, controlled to an elevated level,
+allowing dispersal of the ash from the
+Sciences Laboratory of Environmental Measurement
+barrels into the air behind the aircraft.
+Techniques, to make a significant step in the development
+The A400M spiralled in a 3 km
+of a system to be able to “see” fine particles of volcanic ash
+diameter circle, climbing each half
+suspended in the air in order to “avoid” them. turn by a small amount, ensuring it
+Article by
+would not enter the ash cloud it had
+Manfred BIRNFELD This article will take you through the flight test performed in
+produced.
+Senior Flight Test Engineer/Senior Expert
+October 2013 to validate a new system called simply: AVOID
+AIRBUS
+manfred.birnfeld@airbus.com (Airborne Volcanic Object Imaging Detector). Two teams of four trained ash handlers
+emptied all the ash barrels according
+to a time schedule which, together with
+In May of this year, using the very first A400M, close to one metric ton of genuine
+the geometry of the circles flown with
+volcanic ash from the Eyafjallajökull was collected from the Icelandic Institute of
+help of a precise bank angle mode,
+volcanology.
+would produce the ash cloud in the
+The ash was then taken to Alès in southern France for milling, reducing the grain desired uniformity and concentrations
+size to about 25 microns, to resemble fine volcanic ash that had been transported targeted.
+in the atmosphere over more than 2000 km.
+Volcanic eruptions - Ashes to AVOID Volcanic eruptions - Ashes to AVOID
+35#TSAF
+43
+35#TSAF
+53
+The second aircraft on the scene was a small twin piston engine propeller aircraft,
+a Diamond DA 42 from the manufacturer’s plant in Vienna. Brought over and
+operated by scientists from Düsseldorf’s University of Applied Science, it was fitted
+with special sampling devices, able to detect and measure in-situ the content
+and the characteristics of the volcanic ash cloud produced by the A400M.
+Tasks for the DIAMOND DA 42 MPP aircraft during the experiment:
+• Perform in-situ ash measurements with high accuracy
+• Track the plume geometry
+• Determine the size distribution of the ash particles
+• Transmit the measurement result on-line to the A340
+A third aircraft, A340 MSN 001 carried the AVOID sensor for which the cloud had
+been made. The device consists of a pair of infrared (IFR) cameras intended
+to capture the IFR signature of the scenery in front of the aircraft. The camera’s IFR
+imagery is analysed using filtering techniques which dissociate the IFR absorption
+in order to identify when absorption by volcanic ash particles has taken place.
+It uses this technique to detect the presence of volcanic ash in front of the aircraft.
+At an altitude of more than 30,000 feet, it would be able to “see” ash of a significant
+concentration at a distance of 100 km. The more ash in the air, the higher the
+measured IFR absorption will be. When perfectly calibrated, the measurement can
+be developed to give a reliable reading of the “ash loading” (mass per surface area,
+in g/m2) ahead of the aircraft.
+The experiment was the first time the AVOID sensor was exposed to realistic
+volcanic ash while being carried by a civil transport aircraft.
+After the volcanic eruptions of Eyafjallajökull (2010) and Grimsvötn (2011) in Iceland,
+Inside the ‘cavernous’ A400M MSN 001
+Airbus teamed up with Nicarnia Aviation, the developer of the AVOID sensor, and
+preparing for volcanic ash distribution
+easyJet who is sponsoring AVOID’s development, aiming to make proof of concept
+tests and develop the sensor.
+Initial trials had been carried out in July 2012 which validated the installation Airbus Flight Test Specialist Julie MAUTIN
+principle and explored the flight envelope of the A340 with the sensor installed. and Céline COHEN of Assystem using pressure
+One of the main purposes of these trials was to look for absence of false detections. differentials to ‘vacuum’ the barrels of ash
+The sensor was therefore not intended to be exposed to volcanic ash during these
+trials. However, on one occasion on a long flight south, the sensor detected the
+presence of Saharian dust in the air. This dust’s IFR absorption is very similar to
+volcanic ash since it contains similar chemical components.
+The entire test was filmed by a fourth aircraft: Aerovision’s specially equipped
+Corvette to video and photograph the three aircraft at work in flight.
+35#TSAF
+63
+35#TSAF
+73
+Volcanic eruptions - Ashes to AVOID Volcanic eruptions - Ashes to AVOID
+o o o o
+Aircraft Lon: -2.097 Lat: 44.991 Alt: 5008 ft Pitch: 3.669 Heading= 9.646
+15000
+10000
+What’s next?
+5000
+Although the results of this experiment are very encouraging, the AVOID sensor is still in a prototype condition. It will need
+-3 -2 -1 0 1 2 3 development with automatisms replacing the scientist’s individual intervention for the IFR data interpretation. That will take
+HORIZONTAL DISTANCE (KM)
+some time.
+The data produced needs to be analysed and integrated into the big puzzle of information necessary to make flying in the
+vicinity of volcanic ash safe. There are several interesting work packages to be defined. It could well be that in the future a pilot
+will be given information that integrates AVOID sensor’s data. It will be Airbus’ task to work on an integrated system and
+Mass loading (g/m2) develop, potentially together with a system manufacturer, the necessary system philosophy and cockpit interface.
+0.00 0.20 0.40 0.60 0.80 1.00 In the meantime, easyJet plans to develop a stand alone solution, with the aim of producing an instrument which can enhance
+flight safety when operating in the vicinity of volcanic ash clouds. This would be used conforming to the rules of a safety
+assessment integrating all available data from forecasting, satellite imagery and local observation.
+CONCLUSION
+The Icelandic volcano eruptions in 2010 and 2011 brought home the necessity to be able to measure the risk
+of volcanic ash contamination of air space and avoid grounding traffic unnecessarily.
+A joint initiative between easyJet, Nicarnia Aviation and Airbus set about developing an air contamination
+detection system named AVOID. The Duesseldorf University of Applied Sciences’ Laboratory of Environmental
+Measurement Techniques, participated, providing key services and in-situ measurement techniques.
+This system was tested in October 2013 with a small cloud of fine ash released into the atmosphere by an
+Airbus A400M. It demonstrated the AVOID sensor detection capapility. Real time data was available from in-situ
+measurements. Ash measurement data were transmitted in real time from a DA42 sampling the cloud, to an
+A340; these were compared with infrared observations made by the AVOID system. AVOID’s sensors captured
+WARNING: ASH ASH ASH the volcanic ash cloud from a distance of 50 km. Given the size and low “mass loading” of the cloud, the results
+are encouraging.
+In time AVOID sensors could be integrated into aircraft systems to inform pilots of ash presence at up to
+100 km ahead.
+Volcanoes are not really predictable, and they’re unstoppable. Their ash clouds significantly disturb flying if the
+threat of the particles is not measurable. AVOID is destined to help us avoid situations like the traffic grounding
+for Eyafjallajökull.
+)TEEF(
+EDUTITLA
+Brightness temperature (K) - Broadband channel (Ch1)
+248 254 261 268 274 281 288
+Heading
+TIME: 10:57:58 UT DISTANCE: 40.7 km
+15000
+10000
+5000
+-3 -2 -1 0 1 2 3
+HORIZONTAL DISTANCE (KM)
+)TEEF(
+EDUTITLA
+Infrared imagery The trials in July 2012 were successful and gave the initiative for the next step:
+exposure to a real volcanic ash cloud.
+Impossible to discriminate ash from other clouds
+As the precise time and place of a volcanic eruption are absolutely unpredictable,
+the idea of making a small, but representative cloud was rapidly born.
+The A400M which was conducting flight tests had the capabilities to precisely
+execute the spiralling flight path required and it had the cargo hold allowing a team
+to work at the dispersion of the ash.
+The ash release and detection experiment made on 30th October 2013 represents
+a success in several aspects:
+• We have been able to artificially create a representative volcanic ash cloud
+with the predicted size and distribution.
+• The ash particles measured inside the cloud were identified as being very
+similar if not identical to ash particles captured over Europe during the 2010
+Eyafjallajökull eruption.
+• It demonstrated real time data availability from in-situ measurements.
+The ash measurement data were transmitted in real time from the DA42
+to the A340 MSN 001 using satellite data communication and a simple
+Internet site.
+And the main result: the AVOID sensor images captured the volcanic ash cloud from
+a distance of 50 km. Given the small size of our cloud and the resulting low “mass
+loading”, it was a great success. It is now realistic to believe that detection
+of significant ash loading at a distance of 100 km is feasible.
+Detection of volcanic ash using AVOID
+Heading
+TIME: 10:57:58 UT DISTANCE: 40.7 km
+FAST
+from the PAST
+There wouldn’t be any future
+without the experience of the past.
+35#TSAF
+83
+egatireh
+etaroproc
+SDAE
+fo
+ysetruoc
+otohP
+35#TSAF
+93
+We’ve got it covered
+Around the clock, around the world,
+Airbus has more than 240 field representatives
+Concorde MSN 2 - 1970 based in over 110 cities
+Concorde’s all metal frame made bonding easy
+and needed no supplimentary Electrical Structure
+Network (read article page 20). This still meant
+an impresive amount of cables that needed to be
+channeled throughout the aircraft.
+Even with the advent of optic fibre cabling, each
+successive Airbus programme uses more wiring
+as new technology is developed.
+Airbus’ largest aircraft the A380 uses an amazing
+350 kilometres of cables.
+WORLDWIDE TECHNICAL, MATERIAL & LOGISTICS TRAINING CENTRES
+Tel: +33 (0)5 6719 1980 Airbus Technical AOG Centre (AIRTAC) Airbus Training Centre
+Fax: +33 (0)5 6193 1818 Tel: +33 (0)5 6193 3400 Toulouse, France
+Fax:+33 (0)5 6193 3500 Tel: +33 (0)5 6193 3333
+USA/CANADA
+airtac@airbus.com Fax: +33 (0)5 6193 2094
+Tel: +1 703 834 3484
+Spares AOG/Work Stoppage Airbus Maintenance
+Fax: +1 703 834 3464
+• Outside the Americas: Training Centre
+CHINA Tel: +49 (0)40 5076 4001 Hamburg, Germany
+Fax: +49 (0)40 5076 4011 Tel: +49 (0)40 7438 8288
+Tel: +86 10 8048 6161 Ext. 5020
+aog.spares@airbus.com Fax: +49 (0)40 7438 8588
+Fax: +86 10 8048 6162
+• In the Americas:
+Airbus Training Centre Americas
+FIELD SERVICE SUPPORT Tel: +1 70 3729 9000
+Miami, Florida - U.S.A.
+ADMINISTRATION Fax: +1 70 3729 4373
+Tel: +1 305 871 3655
+aog.na@airbus.com
+Tel: +33 (0)5 6719 0413
+Fax: +1 305 871 4649
+Fax: +33 (0)5 6193 4964
+Spares In-Flight orders outside the Americas:
+Tel: +49 (0)40 5076 4002
+Fax: +49 (0)40 5076 4012
+ifd.spares@airbus.com
+Spares related HMV issues outside the Americas:
+Tel: +49 (0)40 5076 4003
+Fax: +49 (0)40 5076 4013
+hmv.spares@airbus.com
+Spares RTN/USR orders in the Americas:
+Please contact your dedicated customer spares
+account representative csr.na@airbus.com
+With the A380, the sky is yours. The A380 is designed
+to maximize airline revenues. By scheduling the A380
+on constrained slots and high yield routes, airlines
+will experience a signifi cant uplift of passengers to
+really take advantage of high yield traffi c. That means
+higher market share, maximized slot profi tability and
+higher revenues.
+Own the sky
+ARTWORK 11217_AIR_OwnTheSky_Wispy 297x210_1.0 STUDIO:Airbus:2013:Airbus:10911853-2013:11217-AIR-Own_The_Sky_SinglePage_Masters:11217_AIR_OwnTheSky_Wispy2 97x210_1.0
+John S
+297 x 210 mm
+PMS
+3mm
+Master PMS
+PMS
+8 November 2013 9:46 AM PMS
+.skramedart
+deretsiger
+era
+seman
+tcudorp
+eht
+dna
+ogol
+sti
+,subriA

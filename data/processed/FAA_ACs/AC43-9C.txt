@@ -1,0 +1,377 @@
+Advisory
+U.S.D efxlmmt Circular
+of Wanspoctation
+FMHdAvktkn
+AdmMsttatkrr
+subjm: MAINTENANCE RECORDS D91t: 6/8/98 AC No: 43-9<3
+Initintcd by: AFS-340 Change:
+1. PURPOSE. This advisory circular (AC) describesm ethods, procedures and practices that
+have been determined to be acceptablem eans of showing compliance with the general aviation
+maintenance record making and record keeping requirements of Title 14 of the Code of
+Federal Regulations ( 14 CFR) parts 43 and 9 1. This material is not mandatory, nor is it
+reg]ulatory and acknowledges that the Federal Aviation Administration (FAA) will consider
+other methods that may be presented. It is issued for guidance purposes and outlines several
+methods of compliance with the regulations.
+NOTE: The information in this AC does not apply to air carrier maintenance
+records made and retained in accordance with 14 CFR part 121.
+2. CANCELLATION. AC 43-9B, Maintenance Records, dated January 9, 1984, is canceled.
+3. RELATED REGULATIONS. 14 CFR parts 1,43,9 1, and 145.
+4. DISCUSSION. The Code of Federal Regulations state that a U.S. standard airworthiness
+certificate is effective until it is surrendered, suspended,r evoked, or a termination date is
+otherwise establishedb y the Administrator. In addition to those terms, a U.S. standard
+ainvorthiness certificate is effective only as long as the maintenance,p reventive maintenance,
+and:a lterations are performed in accordancew ith parts 43 and 9 1, and the aircraft are registered
+in the united States. Theset erms and conditions are further restated, in block 6, on the front of
+F& Form 8 100-2, Standard Airworthiness Certificate. Qualified persons, who perform the
+maintenance, preventive maintenancea nd alterations, shall make a record entry of this
+accomplishment, thus maintaining the validity of the certificate of airworthiness. Adequate
+aircraft records provide tangible evidence that the aircraft complies with the appropriate
+airworthiness requirements. In accordancew ith the terms and conditions listed in block 6 of the
+Standard Airworthiness Certificate, insuEcient or non-existent aircraft records may render that
+standard airworthiness certificate invalid.
+AC 43-9C 6/8/98
+5. MAINTENANCE RECORD REQUIREMENTS.
+zi. Responsibilities. 14 CFR part 9 1, section 9 1.4 17 states that an aircraft owner/operator
+shall,k eep and maintain aircraft maintenancer ecords. 14 CFR part 43, sections4 3.9 and 43.11
+state’that maintenance personnel,h owever, are required to make the record entries.
+b. Maintenance Records That Are to Be Retained. Section 9 1.405 requires each owner
+or operator to ensure that maintenance personnel make appropriate entries in the maintenance
+recoi-dst o indicate that the aircraft has been approved for return to service. Section 9 1.417(a)
+sets forth the content requirements and retention requirements for maintenance records.
+Maintenance records may be kept in any format that provides record continuity; includes
+required contents; lends itself to the addition of new entries; provides for signature entry; and,
+is intelligible. Section 9 1.417(b) requires records of maintenance, alterations, and required or
+app;oved inspections to be retained until the work is repeated,s upersededb y other work, or for
+one year. It also requires the records, specified in section 91.417(a)(2), to be retained and
+trandferred with the aircraft at the time of sale.
+NOTE: Section 91.417(a) contains an exception regarding work accomplished
+/
+in accordance with section 91.411. This does not exclude the making of
+entries for this work, but applies to the retention period of the records for
+work done in accordance with this section. The exclusion is necessary since
+the retention period of one year is inconsistent with the 24-month interval of
+test and inspection specified in section 91.411. Entries for work done per this
+section are to be retained for 24 months or until the work is repeated or
+superseded.
+c: Section 91.417(a)(l). Requires a record of maintenance, for each aircraft (including the
+airfiime) and each engine, propeller, rotor, and appliance of an aircraft. This does not require
+separateo r individual records for each of these items. It does require the information specified
+in settions 9 1.41 7(a)(1 ) through 9 1.4 17(a)(2)(vi) to be kept for each item as appropriate. As a
+practical matter, many owners and operators find it advantageoust o keep separateo r individual
+records since it facilitates transfer of the record with the item when ownership changes.
+Secti,on9 1.4 17(a)(1 ) has no cuJnterpart in section 43.9 or section 43.11.
+d. Section 91.417(a)(l)(i). Requires the maintenance record entry to include “a description
+of the work performed.” The description should be in sufficient detail to permit a person
+unfapiliar with the work to understand what was done, and the methods and procedures used in
+doink it. When the work is extensive, this results in a voluminous record. To provide for this
+contingency, the rule permits reference to technical data acceptablet o the Administrator in lieu
+of making the detailed entry. Manufacturer’s manuals, service letters, bulletins, work orders,
+FAA AC’s, and others, which accurately describe what was done, or how it was done, may be
+I
+/
+Page!2 Par5
+AC 43-9c
+referenced. Except for the documents mentioned, which are in common usage, referenced
+documents are to be made a part of the maintenancer ecords and retained in accordancew ith
+section 9 1.417(b).
+NOTE: Certificated repair stations frequently work on components shipped
+to them without the maintenance records. To provide for this situation,
+repair stations should supply owners and operators with copies of work
+orders written for the work, in lieu of maintenance record entries. The work
+order copy must include the information, required by section 91.417(a)(l)
+through section 91.417(a)(l)(iii), b e made a part of the maintenance record,
+and retained per section 91.417(b). This procedure is not the same as that
+for maintenance releases discussed in paragraph 16, and it may not be used
+when maintenance records are available. Section 91.417(a)(l)(i) is identical
+to its counterpart, section 43.9(a)(l), which imposes the same requirements
+I
+on maintenance personnel.
+I!e . Section 91.417(a)(l)(ii). Is identical to section 43.9(a)(2) and requires entries to contain
+the date the work was completed. This is normally the date upon which the work is approved
+for return to service. However, when work is accomplishedb y one person and approved for
+return to service by another, the dates may differ. Two signatures may also appear under this
+circumstance; however, a single entry in accordancew ith section 43.9(a)(3) is acceptable.
+f. Section 91.417(a)(l)(iii). Differs slightly from section 43.9(a)(4) in that it requires the
+entry to indicate only the signature and certificate number of the person approving the work for
+return to service, and does not require the type of certificate being exercised to be indicated as
+does section 43.9(a)(4). This is a new requirement of section 43.9(a)(4), which assists owners
+and operators in meeting their responsibilities. Maintenance personnel may indicate the type of
+certificate exercised by using airframe (A), powerplant (P), airframe & powerplant (A&P),
+inspection authorization (IA), or certificated repair station (CRS). _
+g. Section 91,417(a)(2). Requires six items to be made a part of the maintenance record
+and maintained as such. Section 43.9 does not require maintenancep ersonnel to enter these
+items. Section 43.11 requires some of them to be part of entries made for inspections, but they
+are all the responsibility of the owner or operator. The six items are discusseda s follows:
+(1) Section 91.417(a)(2)(i). Requires a record of total time-in-service to be kept for the
+airframe, each engine, and each propeller. Part 1, section 1.1, Definitions, defines time in
+service, with respect to maintenancet ime records, as that time from the moment an aircraft
+leaves the surface of the earth until it touches down at the next point of landing. Section 43.9
+does not require this to be part of the entries for maintenance, preventive maintenance,
+rebuilding, or alterations. However, section 43.11 requires maintenance personnel to make it a
+part of the entries for inspections made under parts 9 1, 125, and time-in-service in all entries.
+Page 3
+AC 43-9C WV98
+(a) Some circumstances impact the owner’s or operator’s ability to comply with
+section 9 1.41 ? (a)(2)(i). For example, in the caseo f rebuilt engines, the owner or opera!or
+would not have a way of knowing the total time-in-service, since section 9 1.42 1 permits the
+maintenance record to be discontinued and the engine time to be started at zero. In this case,
+the imaintenancer ecord and time-in-service, subsequentt o the rebuild, comprise a satisfactory
+record.
+(b) Many components, presently in-service, were put into service before the
+requirements to keep maintenance records on them. Propellers are probably foremost in this
+group. In these instances, practicable procedures for compliance with the record reqmrements
+must be used. For example, total time-in-service may be derived using the procedures
+described in paragraph 12; or if records prior to the regulatory requirements are just not
+available from any source, time-in-service may be kept since last complete overhaul. Neither
+of these procedures is acceptablew hen life-limited parts status is involved or when
+airworthiness directive (AD) compliance is a factor. Only the actual record since new may be
+used in these instances.
+(c) Sometimes engines are assembledf rcm modules (turbojet and some
+turbopropeller engines) and a true total time-in-service for the total engine is not kept. If
+owners and operators wish to take advantage of this modular design, then total time-in-service
+and a maintenancer ecord for each module is to be maintained. The maintenance records
+specified in section 9 1.417(a)(2) are to be kept with the module.
+I (2) Section 91,417(a)(2)(ii). Requires the current status of life-limited parts to be part
+of the maintenancer ecord. If total time-in-service of the aircraft, engine, propeller, etc., is
+entered in the record when a life-limited part is installed and the time-in-ser;lce of the life-
+limi,ted part is included, the normal record of time-in-service automatically meets this
+requirement.
+(3) Section 91.417(a)(2)(iii). Requires the maintenancer ecord to indicate the time
+since last overhaul of all items installed on the aircraft that are required to be overhauled on a
+specified time basis. The exp!anation in paragraph 5g (2) also applies to this requirement.
+(4) Section 91,.417(a)@)(iv). Deals with the current inspection status and requires it to
+be reflected in the maintenancer ecord. Again, the explanation in paragraph 5g (2) is
+appropriate even though section 43.11( a)(:!) requires maintenancep ersons to determine time-
+in-service of the item being inspected and to include it as part of the inspection entry.
+j (5) Section 91.417(a)(2)(v). Requires the current status of applicable AD’s to be a part
+of the maintenance record. Tiner ecord is to include, at minimum, the method used to comply
+with the AD, the AD number, and revision date; and if the AD has requirements for recurring
+Page4
+618198 AC 43-9C
+action, the time-in-service and the date when that action is required. When AD’s are
+accomplished, maintenancep ersonsa re required to include the items specified in section
+4i.9(a)(2), (3), and (4) in addition to those required by section 91.417(a)(2)(v). An example of
+a maintenancer ecord format for AD compliance is contained in Appendix 1.
+(6) Section 91.417(a)(Z)(vi). In the past, the owner or operator has been permitted to
+maintain a list of current major alterations to the airframe, engine(s), propeller(s), rotor(s), or
+appliances. This procedure did not produce a record of value to the owner/operator or to
+maintenancep ersons in determining the continued airworthiness of the alteration since such a
+record was not sufficient detail. This section of the rule has now been changed. It now
+prescribes that copies of FAA Form 337, issued for the alteration, be made a part of the
+maintenancer ecord.
+6. PREVENTIVE MAINTENANCE.
+a. Preventive maintenancei s defined in part 1, section 1.1. Part 43, appendix A, paragraph (CB
+lists those items which a pilot may accomplish under section 43.3(g). Section 43.7 authorizes
+appropriately rated repair stations and mechanics, and personsh olding at least a private pilot
+certificate to approve an aircraft for return to service after they have performed preventive
+maintenance. A!! of these persons must record preventive maintenance accomplished in
+accordancew ith the requirements of section 43.9. AC 43-12, Preventive Maintenance, current
+edition, contains further information on this sub-ject.
+b. The type of certificate exercised when maintenanceo r preventive maintenance is
+accomplishedm ust be indicated in the maintenancer ecord. Pilots may use private pilot (PP),
+commercial pilot (CP), or air transport pilot (ATP) to indicate private, commercial, or airline
+transport pilot certificate, respectively, in approving preventive maintenance for return to
+service. Pilots are not authorized by section 43.3(g) to perform preventive maintenanceo n
+aircraft when they are operated under part 12 1, 127, 129, or 135. Pilots may only approve for
+return to service preventive maintenance that they themselves have accomplished.
+7, REBUILT ENGINE MAINTENANCE RECORDS.
+a. Section 9 1.421 provides that zero time may be granted to an engine that has been rebuilt
+by a manufacturer or an agency approved by the manufacturer. When this is done, the
+owner/operator may use a new maintenance record without regard to previous operating history.
+c b. The manufacturer or an agency approved by the manufacturer that rebuilds and grants
+zero time to an engine is required by section 9 1.421 to provide a signed statement containing:
+1) the date the engine was rebuilt; 2) each change made, as required by an AD; and 3) each
+change made in compliance with service bulletins, when the service bulletin specifically
+requests an entry to be made.
+Par5 Page5
+AC 43-9C 6/8/98
+c. Section 43.2(b) prohibits the use of the term rebuilt in describing work accomplished in
+required maintenance records or forms unless the component worked on has had specific work
+functions accomplished. These functions are listed in section 43.2(b) and, except for testing
+requirements, are the same as those set forth in section 9 1.421 ( c). When terms such as
+remanufactured, reconditioned, or other terms coined by various aviation enterprises are used
+in maintenance records, owners and operators cannot assumet hat the functions outlined in
+section 43.2(b) have been done.
+8. RECORDINGTACHOMETERS.
+a. Time-in-service recording devices senses uch things as electrical power on, oil pressure,
+wheels on the ground, etc. , and from these conditions provide an indication of time-in-service.
+With the exception of those that sense aircraft lift-off and touchdown, the indications are
+approximate.
+b. Some owners and operators mistakenly believe these devices may be used in lieu of
+keeeing time-in-service in the maintenancer ecord. While they are of great assistancei n
+arriving at the time-in-service, such instruments, alone, do not meet the requirements of section
+9 1.4 17. For example, when the device fails and requires change, it is necessaryt o enter time-
+in-service and the instrument reading at the change. Otherwise, record continuity is lost.
+9. MAINTENANCE RECORDS FORADCOMPLIANCE. Thissubjectiscoveredin
+AC 39-7, Airworthiness Directives for General Aviation Aircraft, current edition. A separate
+AD ‘record may be kept for the airframe and each engine, propeller, rotor, and appliance, but is
+not required. This would facilitate record searchesw hen inspection is needed, and when an
+engine, propeller, rotor, or appliance is removed, the record may be transferred with it. Such
+records may also be used as a schedule for recurring inspections. The format, shown in
+Apdendix 1, is a suggestedo r 0. and adherencei s not mandatory. Owners should be aware that
+they may be responsible for nun-compliance with AD’s when their aircraft are leasedt o foreign
+operators. They should, therefore, ensure that leasess hould be drafted to deal with this subject.
+10. ~IAINTENANCERECORDSFORREQUIREDINSPECTIONS.
+a. Section 43.11 contains the requirements for inspection entries. While these requirements
+are imposed on maintenancep ersonnel, owners and operators should become familiar with
+them in order to meet their responsibilities under section 9 1.405.
+I$ The maintenance record requirements of section 43.11 apply to the loo-hour, annual,
+and progressive inspections under part 91; mspection programs under parts 91 and 125;
+approved airplane inspection programs under part 135; and the loo-hour and annual
+inspections under section 135 .4 11( a)( 1).
+Page 6
+Par 7
+61819a
+AC 43-9C
+c.,~ Appropriately rated mechanics are authorized to conduct these inspections and make the
+required entries. Particular attention should be giv,ent o section 43.1 l(a)(7) in that it now
+requires a more specific statement than previously required ;lnder section 43.9. The entry
+, In
+addition to other items, must identify the inspection program used; identify the portion or
+segment of the inspection program accomplished; and contain a statement that the inspectio n
+was performed in accordancew ith the instructions and procedures for that program.
+d.; Questions continue regarding multiple entries for lOO-hour/annuali nspections. As
+discussedi n paragraph 5c, neither part 43 nor part 91 requires separater ecords to be kept.
+Section 43.11, however, requires personsa pproving or disapproving equipment for return to
+service, after any required inspection, to make an entry in the record of that equipment.
+Therefore. when an owner maintains a single record, the entry of the 100-hour or annual
+inspection is made in that record. If the owner maintains separater ecords for the airframe,
+pow&plants, and propellers, the entry for the loo-hour inspection is entered in each, while the
+annual inspection is only required to be entered into the airframe record.
+I 1. I)IsCREPANCY LrsTs.
+al’ Before to October 15, 1982, issuanceo f discrepancy lists (or lists of defects) to owners
+or operators was appropriate only in connection with annual inspections under part 91;
+inspections under section 135.41 1( a)( 1); inspection programs under part i25; and inspections
+under section 91.217. Now, section 43.11 requires that a discrepancy Iist be prepared by a
+person performing any inspection required by parts 91, 125, or section 135.41l (a)( 1).
+b. When a discrepancy list is provided to an owner or operator, it says in effect, except for
+these’discrepancies,t he item inspected is airworthy. It is imperative, therefore, that inspections
+be complete and that all discrepanciesa ppear in the list. When circumstances dictate that an
+inspe,ctionb e terminated before it is completed, the maintenancer ecord should clearly indicate
+that the inspection was discontinued. The entry should meet all the other requirements of
+section 43.1 1.
+c.. It is no longer a requirement that copies of discrepancy lists be forwarded to the iocal
+Flight StandardsD istrict Office (FSDO).
+d.’ Discrepancy lists (or lists of defects) are part of the maintenance record and the
+owner/operator is responsible to maintain that record in accordancew ith section 91.417(b)(3),
+The entry made by maintenancep ersonnel in the maintenancer ecord should reference the
+discrepancy list when a list is issued.
+12. LOST OR DESTROYED RECORDS. Occasionally, the records for an aircraft are lost
+or destroyed. In order to re-construct them, it is necessaryt o establish the total time-in-service
+of the airframe. This can be done by reference to other records that reflect the time-in-service;
+/
+Par 16 Page7
+AC 43-9C 6/8/98
+research of records maintained by repair facilities; and reference to records maintained by
+indivi&al mechanics, etc. When these things have been done and the record is still
+incomplete, the owner/operator may make a notarized statement in the new record describing
+the loss and establishing the time-in-service basedo n the research and the best estimate of
+time-in-service.
+a. The current status of applicable AD’s may present a more formidable problem. This
+may require a detailed inspection by maintenancep ersonnel to establish that the applicable
+AD’s have been complied with. It can readily be seen that this could entail considerable time,
+expense,a nd in some instances, might require recompliance with the AD.
+b. Other items required by section 9 1.4 17(a)(2), such as the current status of life-limited
+parts, time since last overhaul, current inspection staLus,a nd current list of major alterations,
+may present difficult problems. Some items may be easier to reestablish than others, but all are
+problems. Losing maintenancer ecords can be troublesome, costly, and time consuming.
+Safekeeping of the records is an integral part of a good record keeping system.
+13. COMPUTERIZED RECORDS. There is a growing trend toward computerized
+maintenance records. Many of these systems are offered to owners/operators on a commercial
+basis. While these are excellent scheduling systems, alone they normally do not meet the
+requirements of sections 43.9 or 91.417. The owner/operator who uses such a system is
+required to ensure that it provides the information required by section 9 1.4 17, including
+signatures. If not, modification to make them complete is the owner’s/operator’s responsibility
+and @at responsibility may not be delegated.
+14. kJBLIC AIRCR4FT. Prospective purchaserso f aircraft that have been used as public
+aircraft, should be aware that public aircraft may not be subject to the certification and
+maintenance requirements in Title 14 of the Code of Federal Regulations and may not have
+records that meet the requirements of section 9 1.4 17. Considerable research may be involved
+in establishing the required records when these a?craft are purchased and brought into civil
+aviation. The aircraft may not be certificated or used without such records.
+15. LIFE-LIMITED PARTS.
+a! Present day aircraft and powerplants commonly have life-limited parts installed. These
+life limits may be referred to as retirement times, service life limitations, parts retirement
+limitations, retirement life limits, life limitations, or other such terminology and may be
+expressedi n hours, cycles of operation, or calendar time. They are set forth in type certificate
+data ‘sheets( TCDS), AD’s, or the iimitations section of FAA-approved airplane or rotorcraft
+fligh’t manuals. Additionally, instructions for continued airworthiness, which require life-limits
+be specified, may apply (See CFR 23 Appendix G and CFR 27 Appendix A).
+Page.8, Par 12
+6/8/98 AC 43-9C
+b. Section 91.417(a)(2)( ii ) req uires the owner or operator of an aircraft with such parts
+installed to have records containing the current status of these parts. Many owners/operators
+have found it advantageoust o have a separater ecord for such parts showing the name of the
+part, part number, serial number, date of installation, total time-in-service, date removed, and
+signature and certificate number of the person installing or removing the part. A separate
+record, as described, facilitates transferring the record with the part in the event the part is
+removed and later reinstalled or installed on another aircraft or engine. If a separater ecord is
+not kept, the aircraft record must contain sufficient information to clearly establish the status of
+the life-limited parts installed.
+‘,
+16. MAJNTENANCE RELEASE.
+a. In addition to those requirements discussedp reviously, section 43.9 requires that major
+repairs and alterations be recorded as indicated in appendix B of part 43, (i.e., on FAA Form 337).
+Ah exception is provided in paragraph (b) of that appendix, which allows repair stations
+certificated under part 145 to use a maintenance releasei n lieu of the form for major repairs (and
+on,ly major repairs).
+b. The maintenance releasem ust contain the information specified in paragraph (b)(l), (2)
+arrd (3), appendix B of part 43, be made a part of the aircraft maintenancer ecord, and retained
+by the owner/operator as specified in section 9 1.4 17. The maintenance release is usually a
+special document (normally a tag) and is attached to the product when it is approved for return
+to’ service. The maintenancer elease may, however, be on a copy of the work order written for
+the product. When this is done (for major repairs only) the entry on the work order mnst
+meet paragraph (b)(l), (2), and (3) of the appendix. That is i J say that the Repair Station is
+re@ired to give the owner: (1) the customers work order upon which the repair is recorded;
+(2) a signed copy of the work order; and (3) a maintenancer elease which has been signed by an
+authorized representative of the company. In some cases,a work order and a maintenance
+release may be a different document. Both must be supplied to the customer.
+i c. Some repair stations use what they call a maintenance release for other than major
+repairs. This is sometimes a tag and sometimes information on a work order. When this is
+done, all of the requirements of section 43.9 must be met (paragraph (b)(3), appendix B, not
+applicable) and the document is to be made and retained as part of the maintenance records
+unber section 91.4 17 per discussion in paragraph 5c.
+17, FAA FORM 337, MAJOR REPAIR AND ALTERATION.
+a. Major repairs and alterations are to be recorded on FAA Form 337, as stated in
+paragraph 16. This form is executed by the person making the repair or alteration. Provisions
+are made on the form for a person other than that person performing the work to approve the
+repair or alteration for return to service.
+Par 15 Page9
+-,; _._..__.. -_.- ..-...
+b. Thcsc forms art’ now required to bc made part of the maintenance record of the product
+repaired or altcrcd and retained in accordancew ith section 91.4 17.
+C. Detailed instructions for use of this form are contained in AC 43.9-l. Instructions for
+Completion of !:A/\ Form 337. current edition.
+d. Some manufacturers have initiated a policy of indicating, on their service letters and
+bulletins. and other documents dealing with changest o their aircratt, whether or not the
+changesc onstitute major repairs or alterations. Some manufacturers also indicate that the
+responsibility for completing FAA Form 337 lies with the person accomplishing the repairs or
+alterations and cannot be delegated. When there,is a question, it is advisable to contact the
+local FSDO for guidance.
+18. TESTS AND INSPECTIONS FOR ALTIMETER SYSTEMS, ALTITUDE
+REPORTING EQUIPMENT, AND AIR TRAFFIC CONTROL (ATC)
+TRANSPONDERS. The recordation requirements for these tests and inspections are the
+same as for other maintenance. There are essentially three tests and inspections (the altimeter
+system, the transponder system, and the data correspondencet est), each of which may be
+subdivided relative to who may perform specific portions of the test. The basic authorization
+for berforming these tests and inspections. found in section 43 3, is supplementedb y
+sections 9 I .4 I I and 9 I .4 13. When multiple personsa re involved in the performance of tests
+and inspections. care must be exercised to insure proper authorization under these three
+s&ions and compliance with sections4 3.9 and 43.9(a)(3) in pa-titular.
+19.‘.:B EFORE YOU BUY. This is the proper time to take a clos,: look at the maintenance records
+of any used aircraft you expect to purchase. A well-kept set of maintenance records, which
+properly identifies all previously performed maintenance,a lterations, and AD compliances. is
+generally a good indicator of the aircraft condition. This is not always the case, but in any event,
+before you buy. require the owner to produce the maintenancer ecords for your examination, and
+reqhire correction of-any discrepanciesf ound on the aircraft or in the records. Many prospective
+owriers have f‘ound it advantageoust o have a reliable unbiasedm aintenance person examine the
+maintenance records. as well as the aircraft, before negotiations have progressed too far. If the
+airdraft is purchased. take the time to review and learn the system of the previous owner to ensure
+co&pliance and continuity when you modify nr continue that system.
+Thomas I<. Stuck&
+Acting Director. Flight Standards
+S+vice
+I
+!-iqz&q=
+Next Compbu Authorized Signature.
+l Aircraft. Engine. Propeller, Rotor, or Appliance: Make Model S.N. N

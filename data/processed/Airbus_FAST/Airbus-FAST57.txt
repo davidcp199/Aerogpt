@@ -1,0 +1,1475 @@
+Airbus technical magazine
+January 2016
+#57
+FA S T
+Flight Airworthiness Support Technology
+4255##TTSSAAFF
+2200
+Your Airbus technical magazine is now on tablet
+The articles in this magazine appear in 2015 QTR-4 and 2016 QTR-1
+iOS (iPad)
+Android
+& Windows
+See a 3D A380 float on the cover of this magazine!
+To complement the Augmented Reality article (page 28) use your tablet to see how Augmented Reality markers work
+Step1: Either browse your tablet’s app store and download the FAST magazine app or scan the QR code above.
+Step 2: Download the Augmented Reality reader app that is shown in the Augmented Reality article.
+Step 3: Point the camera of your tablet at this magazine cover, and you will see the reality of the cover ‘augmented’
+with a three-dimensional A380 on the surface of the magazine.
+The app uses the cover as markers to position the 3D model.
+You can then move around the A380 by moving either your tablet or the magazine cover.
+75#TSAF
+30
+Airbus technical magazine
+#57
+FA S T
+Flight Airworthiness Support Technology
+Publisher: Bruno PIQUET
+Chief Editor: Lucas BLUMENFELD
+TAT optimizer 04
+Design: PONT BLEU
+Airbus’ Turn Around Time & operations optimizer
+Cover image: Daren Birchall
+Printer: Amadio
+Airbus Cockpit Experience 10
+Authorisation for reprinting FAST magazine
+articles should be requested from the editor A new vision for flight crew training
+Tel: +33 (0)5 61 93 43 88
+Fax: +33 (0)5 61 93 47 73
+A350 XWB composite repairs 16
+e-mail: fast.magazine@airbus.com
+Analysis and repair of in-service damage
+FAST magazine is available on internet to composite structure
+www.airbus.com/support/publications
+and on tablets
+Virtual Reality & 3D 22
+ISSN 1293-5476
+for Technical Data
+Augmented Reality in Airbus 28
+© AIRBUS 2016 New opportunities to assist aircraft
+All rights reserved. Proprietary document
+maintenance and engineering
+By taking delivery of this Magazine (hereafter ‘Magazine’), you accept on behalf
+of your company to comply with the following. No other property rights are granted
+by the delivery of this Magazine than the right to read it, for the sole purpose of
+information. This Magazine, its content, illustrations and photos shall not be modified SB configuration management 34
+nor reproduced without prior written consent of Airbus. This Magazine and the
+materials it contains shall not, in whole or in part, be sold, rented, or licensed to any The efficient way to make Service Bulletins simpler
+third party subject to payment or not. This Magazine may contain market-sensitive
+or other information that is correct at the time of going to press. This information
+involves a number of factors which could change over time, affecting the true public
+representation. Airbus assumes no obligation to update any information contained in FAST from the past 38
+this document or with respect to the information described herein. The statements
+made herein do not constitute an offer or form part of any contract. They are based on
+Airbus information and are expressed in good faith but no warranty or representation
+is given as to their accuracy. When additional information is required, Airbus can be We’ve got it covered 39
+contacted to provide further details. Airbus shall assume no liability for
+any damage in connection with the use of this Magazine and the materials it contains,
+even if Airbus has been advised of the likelihood of such damages. This licence
+is governed by French law and exclusive jurisdiction is given to the courts and tribunals
+of Toulouse (France) without prejudice to the right of Airbus to bring proceedings for
+infringement of copyright or any other intellectual property right in any other court of
+competent jurisdiction. Airbus, its logo, A300, A310, A318, A319, A320, A321, A330,
+A340, A350, A380 and A400M are registered trademarks.
+Where you see these icons,
+Photo copyright Airbus videos or slide shows are available
+Photo credits: Airbus Photographic Library, Airbus Flight Test Photo Lab, Airbus Group on the iPad, Android & Windows
+Corporate Heritage, Master Films, EXM company, Philippe Masclet, Hervé Goussé, app versions of FAST magazine.
+Axel Dreyer, Frédéric Lancelot, A.Doumenjou, Loïc Le Meur
+Your Airbus technical magazine is now on tablet
+The articles in this magazine appear in 2015 QTR-4 and 2016 QTR-1
+iOS (iPad)
+Android
+& Windows
+75#TSAF
+40
+TAT optimizer
+Airbus’ Turn Around Time & operations optimizer
+Improving an aircraft’s ‘pit stop’ performance
+An aircraft on ground is an aircraft that does not bring revenue to an airline. During the
+turn-around time, there are many activities happening in and around the aircraft such
+as catering, baggage operations, refuelling and cleaning. It is similar to what happens
+during the pit stop of a Formula 1 race. At a pit stop, everyone is working to optimize
+the performance of the team. But during an aircraft turn-around, everyone is working
+to optimize their own performance; not necessarily the overall performance. This can
+not only cost time and money to the airline, but also lead to a late departure with the
+risk of losing the slot with Air Traffic Control.
+Article by (left to right)
+Netra GOWDA
+Real-time analysis
+Innovation Manager
+AIRBUS To improve the global performance, we fall back on the maxim, “If you cannot
+Netra.Gowda@airbus.com measure it, you cannot improve it” (William THOMSON, Lord KELVIN – 1824-1907).
+Aircraft’s computers record even when on ground. They measure how long the doors
+Ashutosh AGRAWAL
+are open, how long it takes to refuel, how long the aircraft is hooked up to the
+Innovation Manager
+ground-service power cart, and more. This data allows objective performance
+AIRBUS
+measurement of the ground servicing in real-time. Also the computers aboard the
+Ashutosh.Agrawal@airbus.com
+aircraft can provide this data on every leg of its journey.
+The Airbus solution known as Turn-Around-Time & operations optimizer (TAT optimizer)
+was conceived at Airbus by the Emerging Technologies & Concepts group in Bangalore
+(India), based on ethnographic market research. Research covered airlines, airports
+and passengers. The first proof of concept was developed by a cross-functional team
+(coming from systems, architecture and integration, flight test, cabin engineering and
+Customer Services’ departments) to demonstrate the feasibility. Since then, with
+Airbus’ Corporate Innovation sponsorship, TAT optimizer has been further developed
+and enhanced for testing and deployment with customers.
+75#TSAF
+50
+TAT optimizer
+With this new solution, airlines can perform real-time monitoring of on-ground aircraft
+activities. It does not require any costly and time consuming hardware changes.
+The aircraft itself is at the centre of the performance improvement by giving real-time
+visibility to what is happening on ground. Potential departure delays are systematically
+integrated into the airline’s decision process in order to minimize disruptions to their
+ground service schedule. The real-time information also becomes input for the
+Airport-Collaborative Decision Making (A-CDM) for Target Off-Block Time (TOBT)
+calculation and tracking.
+The solution enables remote fleet-wide monitoring to support tactical decisions like
+fleet swapping, crew rostering, etc. The collected data is used to benchmark the
+performance of ground-handling activities, pinpoint areas of weakness and identify
+improvement areas for schedule performance.
+0:10:05
+Benchmarking of deplaning duration (by aircraft type and airport) - illustrative
+0:08:38
+00::1007::0152
+00::0085::3486
+00::0074::1129
+00::0052::4563 Maximum of Actual Deplaning duration
+00::0041::1296 Average of Planned Deplaning duration
+00::0020::5030 MMainxiimmuumm ooff AAccttuuaall DDeeppllaanniinngg dduurraattiioonn
+0:01:26 BLR HKG LHR SIN CDG MEL SFO Average of Planned Deplaning duration
+A320 A320 A330 A330 A330 A350-900A350-900
+Minimum of Actual Deplaning duration
+0:00:00
+BLR HKG LHR SIN CDG MEL SFO
+A320 A320 A330 A330 A330 A350-900A350-900
+Benchmarking of deplaning start delays (by airport) - illustrative
+0:03:36
+0:02:53
+0:03:36
+0:02:10
+0:02:53
+0:01:26
+0:02:10 Maximum of Deplaning Start delay
+0:00:43 Average of Deplaning Start delay
+0:01:26
+No data MMainxiimmuumm ooff DDeeppllaanniinngg SSttaarrtt ddeellaayy
+0:00:00
+0:00:43 Average of Deplaning Start delay
+No data Minimum of Deplaning Start delay
+0:00:00
+BLR HKG LHR SIN CDG MEL SFO
+The solutBioLRn is HnKoGw geLaHRred toSI NcoveCrD aGctivMitEieLs froSmFO touchdown to take-off like taxi-in,
+turn-around activities and taxi-out. The various turn-around activities monitored are
+deplaning, boarding, cabin cleaning, catering, cargo unloading and loading, bulk
+unloading and loading, refuelling, water servicing, waste servicing and brake cooling.
+The data related to these activities are transmitted by the aircraft in real-time to a
+‘cloud platform’. The data is processed and then presented to users via an intuitive
+interface on portable devices.
+Airport - Collaborative Decision The TOBT (Target Off-Block Time)
+Making (A-CDM) is a joint venture is a point in time to be monitored and
+between ACI Europe, EUROCONTROL, confirmed by the airline/handling agent
+International Air Transport Association at which the ground handling process is
+(IATA) and the Civil Air Navigation concluded, all aircraft doors are closed,
+Services Organisation (CANSO) which all passenger boarding bridges have been
+aims to improve the operational efficiency removed from the aircraft and thus
+of all airport operators by reducing start-up approval and push-back/taxi
+delays, increasing the predictability clearance can be received.
+of events as the flight progresses and All ground handling processes, except
+optimising the utilisation of resources. push-back and de-icing, are based
+on the TOBT.
+75#TSAF
+60
+TAT optimizer
+The TAT optimizer
+The TAT optimizer rationalizes and gives a real-time overview of each and every intervention needed for
+a swift and efficient turn-around. Priority information such as the aircraft and schedule information along
+with alert messages are set in the interface header.
+Planned turn-around activities are laid out in a Gantt chart denoting the scheduled arrival and departure.
+Their layout is configured by the airline according to its operations and may also be stored as a template.
+The arrival of the aircraft at gate is represented as a blue line on the interface. As the turn-around unfolds,
+the current time is denoted by a continuously moving red line from left to right. There are several visual
+indicators built in, to highlight the current status, the actions due and exceptional events at a glance.
+The border of the activity bar turns ‘green’ if it is due to start, and turns ‘red’ if delayed. When the activity
+starts, the bar starts filling up in ‘green’ as the activity progresses. If the scheduled stop time is exceeded,
+then the fill colour turns ‘hashed green’ and ‘amber. This helps to alert a ground handler when his/her
+activity is due to start and when it is due for completion. When the activity is completed, the time overrun
+is filled as ‘amber’. These visual indications also enable a ramp manager or a dispatcher to recognize at
+a glance which activities present a risk and he can then react accordingly.
+Dependent tasks such as catering, cleaning, refuelling, cargo loading and unloading, are also highlighted
+on the interface. If the previous task overruns, the overlap is shown on the dependent task bar as a ‘red’ line.
+This provides an alert that dependent activities can delay the aircraft’s departure and hence are required
+to speed up. The inbuilt algorithms continuously process the data to identify critical paths and predict the
+potential departure delay in minutes. This allows ample time for ground handlers and airline personnel to
+organize themselves to address the cause of the delay. Also, the brake cooling time, which decides the
+minimum turn-around time, is predicted at block-on* and updated at regular intervals.
+Apart from the detailed Gantt view, there is a summary view which contains only the header information.
+This aids airline personnel to monitor the status of several aircraft at the same time. The arrival time turns
+blue with block-on. The departure time can turn amber if the delay is predicted. If the aircraft departs as
+scheduled, then it turns blue again. When all the turn-around activities are complete and the aircraft is ready
+for pushback, the turn-around time turns green. The alert messages are also part of the header to inform
+about any exceptional events.
+The data driving the TAT optimizer interface comes from the aircraft. Deplaning starts when the passenger
+door is opened. The start and finish of cargo unloading and loading is triggered by the opening and closing
+of the cargo doors. Refuelling is monitored with the help of refuel commands and the fuel level. The solution
+is also capable of taking data from the crew via a mobile interface, from the airline information systems and
+other known reliable sources.
+Over a period of time, this data can reveal extremely valuable information.
+Careful analysis can determine benchmark performance of various ground handling activities,
+identify root causes of delays and non-obvious improvement areas which are lost in routine work.
+An airline can use these data analytics capabilities to boost their Incentive & Performance (I&P)
+programme at their operating airports.
+Also, the TAT optimizer enables them to:
+• Discover and evaluate possible performance problems before the schedule is established,
+• Plan turn-around frequency and optimal durations,
+• Manage network interdependencies.
+While providing the above capabilities, TAT optimizer invariably addresses some important comportment
+aspects. The objective aircraft data reduces conflict, eliminates negotiations (typically seen when assigning
+delay codes) and assigns clear responsibilities. In addition, the solution ensures a shared understanding
+for all stakeholders with the ability to share alerts/concerns with others. This gives a sense of teamwork
+(similar to that of the pit stop team in Formula 1) to every stakeholder who in their current environment
+is usually disconnected and uninterested.
+TAT optimizer was conceived to be truly agnostic. Not only does the software function on any type of
+device (multi-platform), but it also works on any aircraft type, any airport and can be remotely accessed
+* Aircraft arrival at gate
+from anywhere in the world (coming soon on smart watches!). Also, the solution is capable of integrating
+is block-on.
+with airlines’ legacy information systems and complies with future data standards of Air Traffic Management Aircraft departure
+(ATM) improvement initiatives. TAT optimizer has been presented to various airlines and they have all from gate is block-off.
+confirmed their interest, and one has already started trials.
+Steps throughout the TAT optimizer’s monitoring (mock examples)
+Deplaning going beyond planned completion time. Dependent activities (catering, cleaning and refueling)
+highlighted. Following input from cabin crew on cause of deplaning delay, an alert message is given
+to all stakeholders concerning its cause.
+A F 3 - 5 W 0 W -9 B 0 A 0 AI 0 B S 9 0 Y :5 2 D 0 BA ( 1 -0 0 : : 4 0 8 2 ) AI 1 B L 0 0 A :5 3 X 1 BA
+09:40 09:45 09:50 09:55 10:00 10:05 10:10 10:15 10:20 10:25 10:30 10:35 10:40 10:45 10:50 10:55
+Deplaning Boarding
+Catering
+Cleaning
+Cargo Unload Cargo loading
+Bulk Unload Bulk loading
+Refueling
+Potable water servicing
+Toilet servicing
+Stakeholders having been informed of the prediction of potential delay of 3 mins to flight departure,
+dependent activities start. Potential delay alert (amber) remains. Stakeholders work to recover delay.
+A F 3 - 5 W 0 W -9 B 0 A 0 AI 0 B S 9 0 Y :5 2 D 0 BA ( 1 -0 0 : : 4 0 8 2 ) AI 1 B L 0 0 A :5 3 X 1 BA
+09:40 09:45 09:50 09:55 10:00 10:05 10:10 10:15 10:20 10:25 10:30 10:35 10:40 10:45 10:50 10:55
+Deplaning Boarding
+Catering
+Cleaning
+Cargo Unload Cargo loading
+Bulk Unload Bulk loading
+Refueling
+Potable water servicing
+Toilet servicing
+Having cascaded into catering and cleaning, the stakeholders recover the delay by completing the catering
+and cleaning in a shorter duration.
+A F 3 - 5 W 0 W -9 B 0 A 0 AI 0 B S 9 0 Y :5 2 D 0 BA ( 1 -0 0 : : 4 0 8 2 ) AI 1 B L 0 0 A :5 3 X 1 BA
+09:40 09:45 09:50 09:55 10:00 10:05 10:10 10:15 10:20 10:25 10:30 10:35 10:40 10:45 10:50 10:55
+Deplaning Boarding
+Catering
+Cleaning
+Cargo Unload Cargo loading
+Bulk Unload Bulk loading
+Refueling
+Potable water servicing
+Toilet servicing
+All activities complete (green). Aircraft ready for departure on schedule. The turn-around data is frozen.
+A F 3 - 5 W 0 W -9 B 0 A 0 AI 0 B S 9 0 Y :5 2 D 0 BA ( 1 -0 0 : : 4 0 8 2 ) AI 1 B L 0 0 A :5 3 X 1 BA
+09:40 09:45 09:50 09:55 10:00 10:05 10:10 10:15 10:20 10:25 10:30 10:35 10:40 10:45 10:50 10:55
+Deplaning Boarding
+Catering
+Cleaning
+Cargo Unload Cargo loading
+Bulk Unload Bulk loading
+Refueling
+Potable water servicing
+Toilet servicing
+75#TSAF
+70
+TAT optimizer
+75#TSAF
+70
+Buffers consumption (between aircraft ready and departure) analysis
+0:08:38
+0:07:12
+0:05:46
+0:04:19 Average of Planned buffer between ‘Aircraft ready’
+and ‘Block-off’
+0:02:53
+Average of idle time between ‘Aircraft ready’ and ‘Block-off’
+0:01:26
+0:00:00 Max of idle time between ‘Aircraft ready’ and ‘Block-off’
+A320 A350-900 A320 A330 A350-900 A350-900 A330
+BLR CDG HKG LHR MEL SFO SIN
+Buffers/Idle times on a theoretical critical path
+0:12:58
+0:11:31
+0:10:05
+0:08:38
+0:07:12 Average of Deplaning to Catering idle time
+0:05:46 Average of Deplaning to Catering idle time
+0:04:19 Average of Cleaning to Boarding idle time
+0:02:53 Average of Catering to Boarding idle time
+0:01:26 Average of idle time between ‘Aircraft ready’ and ’Block-off’
+0:00:00 Average of Un-used buffer between ‘Block-on
+and Deplaning start’
+A320 A350-900 A320 A330 A350-900 A350-900 A330
+BLR CDG HKG LHR MEL SFO SIN
+Root-cause analysis of delays
+2 Count of Delay Departure
+Count of Delay in pushback
+Count of Delay by Bulk loading
+1 Count of Delay by Catering
+Count of Delay by Cleaning
+Count of Delay by Deplaning
+0 Count of Delay by Skybridge positioning
+A320 A350-900 A320 A330 A350-900 A350-900 A330
+BLR CDG HKG LHR MEL SFO SIN
+75#TSAF
+80
+TAT optimizer
+The TAT optimizer
+is multi-platform.
+Not only is the
+software compatible
+on all devices, but it
+also works on any
+aircraft type.
+illustrative
+illustrative
+illustrative
+Buffers consumption (between aircraft ready and departure) analysis
+0:08:38
+0:07:12
+0:05:46
+0:04:19 Average of Planned buffer between ‘Aircraft ready’
+and ‘Block-off’
+0:02:53
+Average of idle time between ‘Aircraft ready’ and ‘Block-off’
+0:01:26
+0:00:00 Max of idle time between ‘Aircraft ready’ and ‘Block-off’
+A320 A350-900 A320 A330 A350-900 A350-900 A330
+BLR CDG HKG LHR MEL SFO SIN
+Buffers/Idle times on a theoretical critical path
+0:12:58
+0:11:31
+0:10:05
+0:08:38
+0:07:12 Average of Deplaning to Catering idle time
+0:05:46 Average of Deplaning to Catering idle time
+0:04:19 Average of Cleaning to Boarding idle time
+0:02:53 Average of Catering to Boarding idle time
+0:01:26 Average of idle time between ‘Aircraft ready’ and ’Block-off’
+0:00:00 Average of Un-used buffer between ‘Block-on
+and Deplaning start’
+A320 A350-900 A320 A330 A350-900 A350-900 A330
+BLR CDG HKG LHR MEL SFO SIN
+Root-cause analysis of delays
+2 Count of Delay Departure
+Count of Delay in pushback
+Count of Delay by Bulk loading
+1 Count of Delay by Catering
+Count of Delay by Cleaning
+Count of Delay by Deplaning
+0 Count of Delay by Skybridge positioning
+A320 A350-900 A320 A330 A350-900 A350-900 A330
+BLR CDG HKG LHR MEL SFO SIN
+75#TSAF
+90
+TAT optimizer
+The TAT optimizers
+of an entire fleet
+can be seen on
+the control centre’s
+summary view
+The future roadmap of TAT optimizer includes performing real-time video analytics on the feeds from cabin cameras.
+This would enhance the visibility of cabin activities and help measure progress. A module to speed-up boarding is proposed
+by streamlining the order in which seats are filled. Patent disclosures have been filed on current and planned developments.
+Also, the solution will be integrated with other complementary modules, such as maintenance.
+Benefits
+At turn-around level: At fleet level: At schedule level:
+• Real-time aircraft turn-around visibility by leveraging • Remote monitoring of • Integrated network-wide
+objective aircraft data, fleet-wide ground status business view of turn-around
+and potential risks, schedule and planning,
+• Improved situational awareness and efficient
+coordination of ground activities, • Decision support for aircraft • Discover and evaluate possible
+swapping, crew rostering, performance problems prior to
+• Inbuilt predictions and warnings for proactive
+the schedule being established,
+decision-making to minimize schedule disruptions, • Enable dynamic prioritisation
+and ground resource • Business insight to plan
+• Shared understanding for all the internal and external
+deployment. turn-around frequency and
+stakeholders for system level optimization,
+duration reduction/optimization.
+• Input to A-CDM for TOBT calculation and tracking.
+A-CDM: Airport-Collaborative Decision Making
+TOBT: Target Off Block Time
+CONCLUSION
+Airbus’ TAT optimizer substantiates a crucial point that activity data of the turn-around time is valuable.
+And intelligence on top of that data is an area where Airbus can naturally contribute and create value for
+its customers. An intelligent and connected aircraft offers benefits not only to the airlines, but also to
+overall Air Traffic Management and passengers’ satisfaction. Future endeavours in this direction will
+include connecting aircraft and an on-board integration of TAT optimizer with the Electronic Flight Bag
+(EFB), the cabin logbook and the Cabin Intercommunication Data System (CIDS).
+75#TSAF
+01
+Airbus Cockpit Experience
+75#TSAF
+11
+Airbus Cockpit Experience
+ACE
+by name,
+ACE by nature
+A new vision for
+flight crew training
+Article by
+Captain Christian NORDEN
+Flight Operations Expert Pilot “Airbus’ new training model is set to become
+AIRBUS
+the new benchmark for airliner type rating training”1
+Christian.Norden@airbus.com
+“...a revolutionary training system” 2
+These are just two among many public comments on Airbus’ successful new pilot
+training concept.
+Let’s take a look at the rationales for changing the way airline pilots are trained
+and an in depth description of the tool that stands at the core of the new
+instructional philosophy: the ACE (Airbus Cockpit Experience) trainer - a portable
+simulator which even enables you to take your Airbus cockpit home with you.
+Why did Airbus decide to change its well proven pilot training programmes?
+Training instructors and examiners at Airbus, as well as industry observers have
+noted that flight crew training requirements in regulations have traditionally been
+driven by the conclusions of hull losses from jets in the 1960s and 1970s.
+Additional incidents and accidents have subsequently added to training requirements
+resulting in an inventory or ‘tick box’ approach that saturated recurrent training and
+checking programmes.
+At the same time, aircraft design and reliability improved substantially, leading to a
+situation where many accidents occurred with aircraft that were operating without
+any malfunction. It was apparent that the training philosophy had to be reviewed.
+Airbus has supported the International Air Transport Association (IATA) Evidence
+Based Training (EBT) initiative since 2009.
+1 Aerospace, January 2015
+2 Flight Global, November 2014
+75#TSAF
+21
+Airbus Cockpit Experience
+What is Evidence Based Training?
+A core principle of EBT is to develop a set of pilot’s competencies (rather than
+training tasks as in the traditional “tick-box” concept); “You should train the
+reason of the outcome of a particular event not the outcome itself” is the
+message passed to trainers and EBT recurrent training designers.
+When the pilot training programme for the new A350 was conceptualized, Airbus
+decided to adopt EBT principles where suitable even in the new Type Rating (TR)
+Evidence Based
+courses. It soon became clear that to fulfil this aim within the intended timeframe
+of a typical TR course, new technological solutions in regards to training aids would
+Training
+(EBT) be required.
+EBT is a training paradigm Traditionally Airbus trained the behaviour and failures of aircraft systems on flat panel
+introduced in ICAO COC 9995 trainers from the Airbus Pilot Transition (APT) trainer and Full-Flight Simulators (FFS).
+intended to replace conventional To gain valuable training time in the FFS it was required to offload APT and FFS
+recurrent training and checking. sessions. “We wanted to train pilot’s competencies to manage the system and
+potential failures throughout the whole course - in an operational realistic environment”,
+The aim of an EBT programme is
+describes Jean-Charles MAZENQ, one of the lead course designers.
+to identify, develop and evaluate
+the key competencies required by Instructing in the traditional way (showing and being told by a teacher in a classroom
+pilots to operate safely, effectively or watching animated slides like in Computer Based Training) seemed neither efficient
+and efficiently in a commercial air enough, nor thoroughly effective. Learning psychologists were consulted and it
+transport environment, by became apparent that in the new concept a learning-by-doing concept should be
+managing the most relevant applied even in course phases that were so far covered by the traditional methods.
+threats and errors, based on
+Throughout the course, Airbus developed this concept even further into a learning-by-
+evidence collected in operations
+discovering principle, demanding an even more proactive role from the trainee
+and training.
+compared to the learning-by-doing approach. The learning speed and retention rate
+has significantly raised using this approach.
+Evidence Based Training Implementation The tool enabling this learning paradigm is a new generation training device
+Guide, IATA, ICAO, IFALPA 2014 called ACE, used from day one of the type course as the primary training tool
+(in the ground phase) and later as a free-play device in the airborne phase.
+75#TSAF
+31
+Airbus Cockpit Experience
+ACE
+A holistic approach
+to training
+The deployment of the ACE concept allows Airbus Training
+to go the extra mile and to propose a much more advanced
+learning concept compared to conventional interactive
+Computer Based Training. Learning-by-discovering and
+reinforcement thanks to free-play are the key pillars of this
+new holistic training approach.
+75#TSAF
+41
+Airbus Cockpit Experience
+The Airbus Cockpit Experience
+enables you to train wherever
+and whenever you wish
+75#TSAF
+51
+Airbus Cockpit Experience
+ACE
+How does ACE work?
+Kate WHELLER, the project leader of the ACE development explains: “It is a
+mobile and fully functional A350 cockpit simulator which allows the trainees to
+learn the updated A350 interface and functionalities by trying it out at their own “
+pace. Interspersed with the simulation, a system guide explains the system
+functionality that the pilot is interacting with. This more interactive and adapted
+form of learning colours the whole A350 training concept.”
+Concretely, the ACE trainer is a 3D virtual and interactive A350 XWB cockpit.
+Pilots can perform a self-paced study to acquire knowledge on both systems
+and procedures, and apply continuous skill reinforcement over and over again. Customer feedback
+They can use the tool as much as necessary, whenever they want, wherever
+One year after its introduction the
+they want. Trainees repeat and discover details of a system or a function on their
+ACE trainer has provoked some
+own, using the learning-by-discovering method and are guided to ensure that all
+very encouraging customer
+the entries are controlled and corrected.
+feedback.
+“It results in a more holistically trained pilot who has a better understanding
+on how to interact with the aircraft” is the impression of an aviation expert “ACE is much more
+after using the tool for the first time.3 advanced compared
+The same methodology applies to procedure familiarization, with a focus on: to the previous CBT”
+• Standard Operating Procedures (SOP), “Very good tool to train
+• Flow patterns, with the different
+• Abnormal procedures, systems”
+• Flight Management System (FMS) functions,
+“ACE is remarkable
+• Electronic Flight Bag (EFB).
+and I would like to
+This familiarization results in significant time-saving on other training devices.
+continue using it after
+The gains on the overall course are significant: the length of the course is two days the course”
+shorter than the traditional one but contains more Full Flight Simulator time, more
+scenario-based training and a much more solid trained set of competences when This enthusiasm has encouraged
+the trainees fly their first mission on line. Airbus to also develop an ACE
+trainer for the A330 which will be
+Using the ACE leads to better knowledge retention in regards to pilot training, with
+available in 2016.
+a focus on need-to-understand rather than on the technical details. It provides a
+more effective, efficient - and above all - motivating training method adapted to
+individual needs.
+3. Blog “Leeham News and Comments” June 2015
+CONCLUSION
+ACE is a learning-by-discovering method for pilot Type Rating training.
+Used on tablet devices it is totally portable and may be used whenever and wherever the pilot wishes.
+The availability of this self-based-study as well as the motivating, holistic approach to pilot training
+reduces the training course by two days while freeing-up Full Flight Simulators for longer, more
+optimized sessions.
+75#TSAF
+61
+A350 XWB
+composite
+repairs
+Analysis and repair
+of in-service damage
+to composite structure
+Although you wouldn’t notice from the outside, there
+is something very different about the A350 XWB (Extra
+Wide Body) compared to most other aircraft: its primary
+structure is made of composite. Composite is a short
+name used for “Carbon Fibre Reinforced Plastic” (CFRP),
+which has progressively replaced aluminium in aircraft
+Article by (left to right) design over the past years.
+Not only has this structure improved the aircraft’s
+Guillaume FERRER
+Repair Embodiment Engineering performance (weight), but also its maintenance and repair
+AIRBUS
+procedures. It has been designed to fulfil in-service
+Guillaume.Ferrer@airbus.com
+requirements with benefits such as increased resistance
+Cédric CHAMFROY
+to accidental ground service impacts, simplified damage
+NDT Product Leader
+AIRBUS assessment processes and proven repair solutions.
+Cedric.Chamfroy@airbus.com
+Sébastien S. DUPOUY
+A350 Structure Engineering
+AIRBUS
+Sebastien.S.Dupouy@airbus.com
+A350 XWB composite repairs
+75#TSAF
+71
+Robustness by design
+The structural robustness of an aircraft is the ability of its structure to sustain
+in-service loads through its entire life under realistic environmental conditions,
+with no or minimum maintenance actions resulting from common in-service threats.
+In this way, structure robustness improves the availability of the aircraft while reducing
+the operation and maintenance costs throughout its life.
+Robustness is not required by certification. However, Airbus has considered it
+(through extensive tests) in the development of its new Carbon Fibre Reinforced
+Plastic aircraft: the A350.
+GFRP = Glass Fibre Reinforced Plastic
+CFRP = Carbon Fibre Reinforced Plastic
+CFRP Sandwich
+Titanium alloy
+Aluminium alloy
+GFRP = Glass Fibre Reinforced PlQausatritcz Fibre Reinforced Plastic
+CFRP = Carbon Fibre Reinforced Plastic
+CFRP Sandwich
+To ensure the strength and resilience required by the new composite structure,
+Titanium alloy
+Airbus gathered data from its in-service fleet of mechanical impact scratches
+Aluminium alloy
+and lightning strikes (sources, locations and dimensions).
+Quartz Fibre Reinforced Plastic
+Extensive tests and further engineering analyses permitted a conversion
+of this data from aircraft metal structures into composite structures and the
+corresponding threats and damages data.
+These ‘typical’ damages have been implemented in the section of the Allowable
+Damage Limit (ADL) of the Structural Repair Manual (SRM).
+SRM SRM
+Impact tests In-service
+Chapter Chapter
+(metal fuselage) 7 damage reports 8
+Dent depth = f SRM Dent depth SRM SRM Damage SRM
+Chapter Chapter FH/FC date Chapter Chapter
+(energy) 7 in service 8 8 location 8
+Impact energy SRM Impact rate SRM Aircraft SRM
+Chapter Chapter Chapter
+in-service 8 of occurrence 9 zoning 9
+Metal domain
+Impact
+threat
+CFRP domain
+SRM
+Impact tests
+Chapter
+(CFRP) 10
+SRM SRM SRM
+Detectability Chapter Damage tolerance Chapter Dent depth = f Chapter
+tests (BVID) 10 criteria for composite 10 (energy) 10
+structure sizing
+Dent depth = f
+(delamination)
+SRM
+Chapter
+Robustness criteria
+11
+75#TSAF
+81
+A350 XWB composite repairs
+Damage conversion process from metal to CFRP
+Calibrated mechanical impact tests on CFRP All types of mechanical impact and lightning
+structure are compared with the same tests strikes are analysed.
+performed on aluminium structure.
+SRM SRM
+Impact tests In-service
+Chapter Chapter
+(metal fuselage) 7 damage reports 8
+Dent depth = f SRM Dent depth SRM SRM Damage SRM
+Chapter Chapter FH/FC date Chapter Chapter
+(energy) 7 in service 8 8 location 8
+Impact energy SRM Impact rate SRM Aircraft SRM
+Chapter Chapter Chapter
+in-service 8 of occurrence 9 zoning 9
+Metal domain
+Impact
+threat
+CFRP domain
+SRM
+Impact tests
+Chapter
+(CFRP) 10
+SRM SRM SRM
+Detectability Chapter Damage tolerance Chapter Dent depth = f Chapter
+tests (BVID) 10 criteria for composite 10 (energy) 10
+structure sizing
+Dent depth = f
+(delamination)
+SRM
+Chapter Robustness criteria
+11
+75#TSAF
+91
+A350 XWB composite repairs
+The ‘Line Tool’ is used for analysis when the visual indication
+of an impact exceeds one inch on the composite structure.
+The after sale aspect of securing the robustness, allowable damage annealing
+or facilitating the maintenance of the A350’s structure containing a high amount
+of CFRP, has from the start of its development been considered.
+Damage assessment
+The objective pursued by Airbus has been to develop a damage assessment process
+Used by a
+to facilitate aircraft dispatch. Damage to composite materials usually requires the
+line mechanic intervention of a qualified Non-Destructive Testing specialist who conducts inspections
+using ultrasound. This is no longer necessary on the A350 for two reasons:
+to inspect impacts,
+• Firstly, damage assessment of routine impacts can be visually assessed. If the visual
+the tool gives
+indication does not exceed one inch (2.5 cm) diameter, then the aircraft can be
+a clear ‘GO’ or dispatched safely because of the A350’s structural robustness. Even in the case
+of a lightning strike, an aircraft can be dispatched safely with no further NDT if the
+‘NO-GO’result
+damage falls within this criterion.
+• Secondly, aircraft can be dispatched more quickly because of an Airbus-patented
+innovation called the “Line tool”. This tool is used when the visual indication of an
+impact exceeds one inch on the composite structure. This ‘GO/NO-GO’ tool can be
+used by line mechanics if a significant incident has occurred. After a short functional
+test, the inspection is performed using a wheel probe on the composite structure.
+The ‘Line Tool’ then displays the result of the inspection: ‘GO’, meaning the
+absence of delamination, allowing aircraft dispatch; or ‘NO-GO’, calling for a further
+NDT inspection. In addition, this tool can help locate structural elements which are
+not visible from the aircraft’s external skin. This tool is provided in a transportable
+kit that can be easily stored on the aircraft or may be located at an outstation.
+Airbus continues to develop this simplified approach to damage assessment on
+composite structures. For instance, an evolution of the line tool will soon enable
+operators to automatically obtain the exact size of a delamination, which is expected
+to save several hours in the damage assessment process.
+75#TSAF
+02
+A350 XWB composite repairs
+Using a full scale model,
+Airbus successfully demonstrated
+complex repairs, mixing bolted
+and bonded techniques
+75#TSAF
+12
+A350 XWB composite repairs
+Non-structural repairs
+For non-structural (cosmetic) repairs on the A350, High Speed Tape (HST) remains
+the most recommended and efficient way to release an aircraft back into service with
+the minimum of dispatch disturbance.
+An HST repair (600 Flight Cycles) is a temporary repair and a permanent cosmetic
+repair that must be performed at the next maintenance check or scheduled stop.
+Combining adhesive paste (EA9394 or EC2226), dry carbon fibre and lightning strike
+protection (Expanded Copper Foil - ECF), the quick permanent cosmetic repair can be
+performed in less than one hour, using a basic skills set, legacy materials and a new
+fast curing cycle at 100°C.
+Structural repairs (fuselage)
+For larger damages, a set of SRM temporary repairs has been developed using
+standard aluminium bolted doublers. A dedicated drilling device (CompDrill) has been
+certified by Airbus that permits safe drilling from the outside without needing any
+internal structure access, and avoiding the need for an NDT inspection after the drilling
+operation. Composite dedicated blind bolt fasteners (Composilock) are installed on
+the outside of the structure to ease the repair embodiment. Once the temporary grace
+period (3 years/3,600 Flight Cycles) is over, the conversion to a permanent repair consists
+of a pre-cured CFRP doubler (Airbus part) replacing the metallic temporary doubler.
+Tooling and hardware
+Dedicated tooling and hardware have been developed to enable safe and accurate
+repair. They are detailed in a list available for airlines and Maintenance Repair and
+Overhaul (MRO) organizations and include:
+• A complete set of consumable materials in a kit format to simplify and ensure
+the availability at the customer’s maintenance base location,
+• Pre-cured parts (doublers, stiffeners, clips and shims),
+• Special drills, fasteners, installation and removal tools needed to perform the repair.
+The “COMPDRILL” kit commercialised
+by CAPAERO (France) is qualified Example of standard pre-cured repair Composite Material Box providing all flyable and
+and referenced in the Structure Repair Manual. part (L-angle) ancillary materials for a Quick Cosmetic Repair
+Future developments
+Launched in 2014 and currently being certified, a dedicated project aiming to qualify
+‘out-of-autoclave bonded repairs’ will enable additional repair scenarios.
+Full scale tests have been implemented and tested with success, using a ‘CACRC
+(Civil Aviation Composite Repair Committee) prepreg’ material with a 140°C cure cycle.
+The target entry-into-service of this alternative process is foreseen at the end of 2016.
+CONCLUSION
+The A350 has entered into service a year ago, and the solutions developed by Airbus on composite
+structure repairs have proven their efficiency. But this is not the end of the story.
+Through an A350 dedicated team, Airbus is continuously developing new solutions to anticipate major
+damage, develop new repair processes and ease solution embodiment for A350 operators.
+75#TSAF
+22
+Virtual Reality & 3D
+for Technical Data
+Digital Mock-Up (DMU) has gradually become generalized in aircraft design since
+the A380 programme. The investment in virtual 3D modelling has greatly benefitted
+downstream phases of the product lifecycle, including Technical Data.
+At first glance you could be forgiven for thinking that the
+Technical Data team have offered themselves a “gamers
+paradise” - in fact the new Virtual Reality rooms created at
+Airbus plants in Toulouse and Saint-Nazaire, France, as
+well as Hamburg, Germany allow engineers to consult the
+DMU with an immersive Virtual Reality experience.
+In the darkened rooms virtual 3D models are projected
+onto a full scale screen.
+Wearing 3D glasses that include a unit which captures
+inertia, the perspective of the projected DMU display is
+recalculated in real-time, when the user changes position
+or tilts their head,
+The viewer has the sensation of “entering” the virtual
+environment, and they can interact with the digital model,
+or even become part of the scene as an avatar artificial
+figure with human dimensions.
+Known as RHEA (Realistic Human Ergonomic Analysis)
+this fascinating and virtually real experience exists to allow
+some very real benefits for engineers such as:
+• Easier navigation around a virtual 3D aircraft towards
+the required information,
+• Richer graphics that can display a technically complete
+and/or partially realistic view that can be manipulated
+by the user to consider different perspectives,
+• Animated graphics to show the kinematics of mounting/
+dismounting maintenance procedures,
+• An improved consistency of information with engineering
+design.
+Article by (left)
+Bertrand SOUQUET
+Product Leader 3D Graphics
+AIRBUS
+Bertrand.Souquet@airbus.com
+75#TSAF
+32
+Virtual Reality & 3D for Technical Data
+What is ‘immersive’ Virtual Reality?
+Immersive Virtual Reality is a computer immersive Virtual Reality experience. themselves within the 3D environment.
+simulated environment that gives the user Although not necessary, one of the most It is this free movement in a virtual world
+the feeling of being in that environment popular ways to experience Virtual Reality that recalculates environment perspec-
+instead of the one they are actually in. is through a headset that uses stereo- tives and rendering in real-time that gives
+A lot of video games have already scopic display to give the impression of users a perception of immersion.
+developed the technology to put the user three-dimensional depth in a similar way
+Stimulating the senses
+into an interactive world, such as the to how each of our eyes combine
+The ultimate aim of immersive Virtual
+driver seat of a car, in the role of a soldier and interpret visual information. This
+Reality is to convince users that they are
+on a battle field or even in your own little ability to present an image as 3D is part
+inside this make-believe world. To trick
+world that you have built yourself. of the immersive experience, it is the
+the mind, other sensorial stimulation can
+tracking of your movement and recalcul-
+Your perception is not altered, you are be used that corresponds with events
+ation of the perspective of the projected
+simply a spectator overseeing the events happening in the visual environment.
+images that gives the user the impression
+that are happening in that world. In order For example, in full flight simulators the
+of being inside this virtual environment.
+for your brain to perceive a virtual visual projections are made increasingly
+environment there are a few key factors Immersive Virtual Reality also needs to real by adding hydraulic movement and
+that are vital for the creation of an allow users to be able to freely move audio stimulation.
+75#TSAF
+42
+Virtual Reality & 3D for Technical Data
+75#TSAF
+52
+Virtual Reality & 3D for Technical Data
+A350 XWB - principal beneficiary of the DMU
+Airbus’ latest programme was almost entirely digitally designed and as such has the
+most complete 3D technical data. The programme uses thousands of 3D graphics
+which complement or replace classical 2D illustrations.
+3D products, in VRML format, produced by A350XWB Technical Data are:
+• 3D zoning for navigation in AirN@v line maintenance,
+• 3D animation for maintenance procedures,
+• 3D interactive graphics, in replacement of CGM illustrations for:
+- Structural part identification in structural repair IPD,
+- Electrical harness installation in IPD ATA91,
+- Electrical harness routing and FINs location in AWD ATA91.
+• 3D ESN (Electrical Structure Network) for ESN elements available on AirbusWorld:
+- CDIS with ESN-ELA (Electrical Load Analysis),
+• 3D ARFC Aircraft Rescue and Fire Fighting Chart.
+3D zoning 3D animation 3D interactive graphics
+This is configured at MSN level The main goal of 3D animation is to These replace classical CGM
+(-900, -1000 management) and can provide a quick review of maintenance illustrations, for:
+isolate main zone, sub-zones tasks for better understanding.
+• Structural part identification
+and individual zones.
+3D animation explains the movements in Structural Repair IPD,
+Data modules linked to zones are: or orientations of components when text
+• Electrical harness installation
+and illustrations cannot explain the
+• Maintenance procedures, in IPD ATA91,
+actions sufficiently.
+• Maintenance IPD, • Electrical harness routing
+3D animation is not intended to replace
+and FINs location in AWD ATA91.
+• Structural repair IPD, the existing technical data deliverables
+(text and 2D illustration) but has to be 3D parts are ‘hot-spotted’ to allow
+• AWD ATA91.
+considered as a complement to them. interactivity with the parts list.
+3D avatar and symbols can be A 3D simplified model of an aircraft
+embedded to emphasize important section is displayed in translucent on top
+messages, such as “warning”, “caution”, of the 3D parts in order to immediately
+“torque”, etc. localize their position in the aircraft.
+A vectorial print of the view is possible.
+Some graphics such as composite layers
+or thickness description are still delivered
+in classical 2D illustration (CGM format).
+AWD - Aircraft Wiring Diagram
+CDIS - located on AirbusWorld
+CGM - Computer Graphics Metafile
+FIN - Functional Item Number
+IPD/IPC - Illustrated Parts Data/Catalogue
+VRML - Virtual Reality Markup Language
+75#TSAF
+62
+Virtual Reality & 3D for Technical Data
+A320neo use case
+The advent of the neo (new engine option) has allowed the
+use of 3D VR in the A320 programme for design changes
+to the wing, engine, nacelle, pylon, etc.
+In the scope of the aircraft’s structure, maintenance, pro-
+gramme and definition, information was needed in order to:
+1 Validate accessibility related to some of the structure
+maintenance tasks (corrosion and fatigue)
+For example:
+- Inspection of the engine pylon spigot receptacle without
+having to remove the pylon,
+- Removal of impractical access from maintenance tasks.
+2 Challenge heavy maintenance tasks
+(e.g. engine removal)
+For example:
+- Is it mandatory to remove the engine in order to perform
+the fatigue Rototest* inspection of the lateral panels?
+The information supplied by 3D VR calculation allowed the
+design team to:
+VR calculations found that Polar End Caps could be accessed and replaced
+- Define the type of inspection (e.g. visual, detailed, special
+without removing the potable water tanks from the aircraft.
+detailed),
+- Define the access required to perform structure mainten-
+ance tasks,
+A380 use case
+- Define the task threshold and intervals (only for corrosion,
+A380 aircraft have experienced leaking O-rings on the Polar
+fatigue calculations which are performed by the Stress
+End Cap (PEC) of potable water tanks. VR was used to
+office).
+review the AMM tasks for their replacement.
+The task data was communicated to Aircraft Maintenance
+Most Polar End Caps are accessible from maintenance
+Manual (AMM) team members who are responsible for writing
+panels or decompression panels without the need to remove
+inspection procedures.
+the tank.
+However, confirmation was needed that the O-rings could be
+replaced without having to remove the tanks located behind
+the Lower Deck Cabin Crew Rest Compartment, which has
+particularly confined access.
+VR established that the optimal way of replacing the O-rings
+was to slightly move the tanks from their initial position to
+provide access to the leaking outboard PECs. It was also
+calculated that two working shifts with two mechanics would
+be necessary for this task.
+This access check was based on assumptions that the
+removal is performed by a person of small stature and that
+a specially designed tool is available.
+A navigation remote control and a representation of a human hand,
+allow users to project themselves into the Digital Mock-Up and act
+on the models to check for ease of access.
+* Rototest: inspection tool with a rotative probe
+for testing holes with the eddy current method.
+75#TSAF
+72
+Virtual Reality & 3D for Technical Data
+ARFC 3D (Aircraft Rescue and Fire Fighting Chart)
+A recent example of the use of 3D
+is the A350 ARFC 3D (Aircraft Rescue
+and Fire Fighting Chart) published
+on AirbusWorld.
+The purpose of the ARFC is to provide
+rescue personnel with relevant
+information on the aircraft so that
+firefighters can evacuate passengers
+and crew as quickly as possible.
+This complements the ARFC, which
+is currently in poster form and as 2D
+illustrations incorporated in the Aircraft
+Characteristics manual.
+CONCLUSION
+One of the intentions of Technical Data is to provide efficient visualization of textual information.
+Design data from the Digital Mock-Up, can now be converted into 3D interactive graphics that offer
+capabilities for a richer, navigable experience that simplifies the understanding of technical content.
+Augmented Reality
+75#TSAF
+82
+Augmented
+Reality
+in Airbus
+New opportunities to assist
+aircraft maintenance and engineering
+Augmented Reality (AR) is a field of technologies that
+improves a user’s situational awareness by bringing them
+relevant contextual digital information in a suitable format
+and time frame. Unlike Virtual Reality, which is entirely
+based on a simulated world, AR roots are the real world,
+which is then mixed with a numerical world.
+Article by (left to right) AR can result in time, cost and energy savings; for example, natural, dynamic,
+step-by-step visualisations of complex processes can lead to fewer errors and better
+Siegfried SOLDANI task comprehension and execution. For these reasons, Airbus is considering the
+Research Engineer deployment of AR systems that are finely-tuned to specific identified uses and which
+AIRBUS are compliant with aeronautical industry requirements.
+Siegfried.Soldani@airbus.com
+Several Airbus Group teams are working together to design, assess and deploy
+Sebastien DEDIEU
+concrete AR solutions and support various internal initiatives. In the research entity
+Research Project Manager
+Airbus Group Innovations (AGI), a dedicated team is exploring uses and suitable
+AIRBUS
+algorithms. They are working closely with ProtoSpace, the Airbus project catalyzer
+Sebastien.Dedieu@airbus.com
+environment inspired by Fablabs, which is deeply involved in that domain and focused
+on both technology assessment and rapid knowledge acquisition. Studies for Airbus
+Pascale HUGUES
+Customer Services are conducted by the @MOST Research & Technology project,
+Research Engineer
+converting the experiences into solutions that pave the way for implementation with
+AIRBUS GROUP INNOVATIONS
+the business. Following the successful deployment of AR technologies in Airbus
+Pascale.Hugues@airbus.com
+manufacturing, other domains have become candidates: Airbus Customer Services
+is among them.
+Alexandre GODIN
+ProtoSpace Technologist
+AIRBUS
+Alexandre.Godin@airbus.com
+Augmented Reality
+Definition
+The term “Augmented Reality” was introduced by an aeronautic engineer in early 1990s.
+The foundations of this technology field started in the 1960s with the elaboration of the first rudimentary,
+experimental see-through displays, superimposing digital images on top of the user’s field of view.
+Nevertheless, although AR is often limited to a visual context, it is in fact much more than that, as it
+includes all other human perception modalities of hearing, touch, smell, etc.
+The definition given by Sébastien BOTTECHIA in 2010 takes into account this
+multidimensional aspect of AR: “It is a combination between the physical space
+and the numerical space in a semantically linked context”.
+In other words, it is a system that enriches users’ natural perception of their surroundings by overlaying
+digital information in an suitable format that is linked to it, in real time. This process aims at “augmenting”
+the limited human perception through access to relevant numerical data, which is not naturally available in the
+environment: the term “Augmented Perception” would be actually more appropriate to designate this domain.
+Architecture
+Major components of an AR system are:
+• Sensors collecting data about the near user environment > context recognition,
+• Means to compute input and output data > data integration,
+• Interfaces to bring the information to the user and eventually enable interaction > data communication.
+A simple example of an AR system is the radar-assisted parking technology that is fitted into the rear
+bumpers of some cars. The driver’s natural field of view behind the car is limited by the structure.
+As a consequence, some parking manoeuvres are not easy. So, some car manufacturers have put
+sensors in the rear bumpers to collect distance data in real-time. This data is then processed, integrated and
+translated into exploitable information, and communicated via different interfaces (sound, display, vibration):
+drivers know the distance to impact through their augmented perception of the current situation.
+Thanks to this system, parking becomes easier, quicker and safer.
+75#TSAF
+92
+AR shows the position of the radar
+in the A350 radome
+Augmented Reality
+Augmented Reality in aeronautics
+AR has been known in aeronautics from the 1970s with the development of Head Up
+Displays (HUD - see FAST 56). It is a system enabling pilots to access relevant
+information in their direct line of sight when looking through the windshield. Using it,
+they can pilot the aircraft without looking away from their focal point (runway, other
+aircraft, etc.), and still collect external environment information. Developed for air-to-air
+combat operations in which pilots had trouble switching between internal instrument
+and external view, such systems have also proved beneficial for commercial operations.
+Based on progress in the digital industry democratizing high technology (such as,
+increases in processing capability, ever-shrinking hardware, more efficient batteries,
+improvements in the ratios of cost-performance in optics and electronics components,
+etc.), new ways to design and use AR systems can now be considered. For example,
+the automotive industry is currently trying to develop HUD systems that fit industry
+constraints (cost, layout, etc.).
+Such technologies can now be applied at the scale of individuals in aeronautics such
+as workers on the Final Assembly Line, engineers, mechanics or pilots.
+This industry, which requires extensive know-how and relies on man-based process-
+es, is conducive to deploying AR technologies. Indeed, systems are increasingly
+complex while design and training phases are becoming shorter and shorter.
+Easier, faster and safer operations, that capitalize on available big data and potentially
+lead to time, cost and energy savings are key differentiators in this very competitive
+environment.
+AR is one of several solutions that can open new perspectives especially for the manu-
+facturing and maintenance of a product which requires the highest quality standards
+possible. Mobile, light and inexpensive technologies will enable people to connect and
+access relevant ‘big data’, accessing relevant digital content on-demand to perform
+their daily jobs.
+75#TSAF
+03
+Head-Up Displays allow pilots to access
+relevant information in their direct line of sight
+Augmented Reality
+Design criteria: the example of Google Glass®
+AR systems are by definition intrusive, impacting the user’s as social and human factors issues (privacy, self-image,
+perception of the environment. A fine balance needs to be distraction, limited autonomy, etc.). Google® is no longer
+found between the various design criteria: technology, use and targeting a public release for Glass®, but the company now
+user, that allow the benefits of AR without potential negative appears to be developing for specific professional uses.
+effects (disturbing the user’s environment, too complex, etc.).
+Indeed, professionals are very interested in the benefits that
+Each time one of the criteria changes, the global balance has
+this type of technology can bring because the industrial
+to be reconsidered. This explains why there are currently no
+environment makes it a relevant candidate for initial deploy-
+standard mass-market AR solutions available that are powerful
+ment. Tasks and processes can be precisely studied and
+and versatile enough to satisfy the varying needs and wishes
+controlled, and users can be specifically chosen and trained,
+of all users at the same time.
+overcoming the issue of variability. Microsoft® were quick to
+The best recent example illustrating this complexity is the understand this when developing its new product HoloLens®,
+programme “Glass®”, launched in test phase in April 2012 which introduces a new generation of mobile smart devices
+by Google®. Google® designed a semi-autonomous system and opens new perspectives for applications compared to
+(coupled with a smartphone or computer) embedded in a previous solutions (thanks to the integration of new technolo-
+single arm of a pair of glasses. It includes sensors (camera, gies and its intrinsic ergonomic qualities).
+Inertial Measurement Unit), computing means (processing
+All the various devices, technologies, algorithms and uses are
+units, storage, and battery) and an interface (a transparent
+constantly evaluated in Airbus: first in Airbus Group Innovations
+screen adding digital images on the top right of the user’s
+and ProtoSpace centres to learn and acquire the technological
+field of view).
+experience required for potential future deployment, then in
+Google Glass® was presented as the future mass-market AR close collaboration with the various Airbus business experts.
+connected mobile electronic device for everyday use. In 2015, Specific developments are then undertaken and the teams
+after an initial positive welcome from the public and several iterate towards an industrial solution.
+test phases, the Google Glass® project was not launched as
+a general release product, having been paralysed by the gap
+between user expectations and technology capabilities as well
+75#TSAF
+13
+Comparitive analysis: Google Glass® vs Microsoft HoloLens®
+Google’s Glass® (2012 edition) is a semi-autonomous system Microsoft® refers to HoloLens® as the first untethered holo-
+(coupled with a smartphone or computer) embedded into a graphic computer. It is a fully autonomous augmented reality
+single arm of a pair of glasses, running the mobile Android OS. headgear, that hosts computer-class components and runs
+Its hardware architecture is limited by its minimalist design, Windows 10 (an AR specific version). Easily settable, well
+which nevertheless allows ergonomic qualities. It includes a full balanced and quickly removable, Hololens® integrates
+pack of sensors (camera, Inertial Measurement Unit), comput- advanced sensors allowing very precise tracking of the user
+ing means (processing units, storage, and battery) and a in their surroundings. Two high definition transparent screens
+transparent screen displaying digital images on the top right of in front of each eye, display digital images in the user’s natural
+the user’s field of view (monocular – no 3D). Interactions are field of view, in 3D, overlaid on top of the “real” world.
+based on a small touch area on the side of the glass. The advanced integrated tracking and scanning capabilities,
+The limited capacities of the device and the screen interface very powerful architecture, binaural sound system and display
+type make it very well adapted for the display of simple performances enable digital artefacts to be seamlessly
+as-and-when needed notifications (pop up mode). It is not integrated with the environment, to interact with it and be
+adapted to display complex information and is not ideal for perceived by the user almost as non-digital. Interactions are
+prolonged use (forces users to focus unnaturally with one eye based on natural gestures (head, hand) and voice.
+to the top right).
+Integrates digital objects, that are perceived and behave
+Integrates digital notification to the user’s perception of almost as if they were real in the user’s perception of the
+the environment. environment.
+Augmented Reality
+Users and uses
+One of the latest Airbus successes comes from integrated teams from AGI and
+manufacturing centres who developed and deployed MiRA, an AR based application.
+This application for the inspection of Airbus aircraft elements superimposes a corre-
+sponding digital version onto the real installation (thanks to a camera based calibration
+process). MiRA, deployed since 2011 and commercialized outside of Airbus by Testia
+(an Airbus subsidiary), is used by 600 engineers to ease inspection tasks at Airbus
+plants. Used with tablets, the application will soon be available in a projection version
+for installation support, giving access to step-by-step instructions directly projected
+onto real parts.
+Glasses-based AR applications which significantly reduce task lead time are also to be
+deployed for seat installation setup. This time reduction greatly improves working
+conditions for technicians that have to kneel to prepare floor brackets. The glasses
+automatically provide them with real-time distance information thanks to a connection
+with a laser that is synchronized with the aircraft plan. This also allows them to perform
+their operation hands-free.
+Increasing aircraft availability
+The large increases in passenger traffic over recent years makes aircraft availability
+one of the major challenges faced by airlines. Each minute the aircraft is on the ground
+is considered counter-productive: reducing aircraft immobilization during maintenance
+activities has become a high priority for airlines.
+To help airlines achieve these objectives, Airbus is prototyping AR systems to provide
+maintenance operators with mobile and real-time functionalities that simplify and
+accelerate their activities. One particular time-saving functionality is the capability to
+guide operators through the various aircraft zones, automatically optimizing their path.
+No time is lost searching for the right aircraft area or access, and users are guided
+straight to the next step of the process, depending on their position.
+Another tested functionality aims at precisely locating and visualizing components that
+are not directly visible (under various layers of structures or systems). Given the
+thousands of components in an aircraft, locating and identifying the correct one to
+test, then fixing or replacing, are time-consuming recurrent issues for maintenance
+operators.
+Another AR function currently being investigated is to superimpose digital information
+of the correct process needed to perform a task, directly onto the concerned part and
+based on existing documentation (AMM, IPC etc.). This visual technical demonstration
+could also be explained with a voiceover that the user can fully control.
+Added to the benefits of a guided, hands-free operation, the operator would also be
+able to give input and provide notes on the task performed directly digitalized and
+stored through the AR interface.
+This has led to the exploration of systems that enable operators in the field to reach
+any expert in the world, show them the situation in detail and get their informed
+recommendations. This is a reassuring AR solution that will drastically improve remote
+operations and many more use cases are currently being considered in various areas.
+75#TSAF
+23
+See instructions on page 2
+to see the cover of this magazine
+‘augmented’ by a 3D A380 aircraft.
+Airbus teams are testing and prototyping
+various types of AR systems taking into account
+the end-user and its environment.
+AMM - Aircraft Maintenance Manual
+IPC - Illustrated Parts Catalogue
+Augmented Reality
+75#TSAF
+33
+CONCLUSION
+Today, Augmented Reality technologies are at a decisive point where progresses are increasingly meeting user
+expectations within the framework of the aeronautical industry. This progress corresponds with the developing
+capacities of current technology.
+Airbus’ permanently growing experience in this field, based on robust research by Airbus Group Innovations
+and practical knowledge acquisition by ProtoSpace, has resulted in increased benefits for business testing,
+adapting and applying preliminary solutions. Simulations show that the added value of AR deployment
+increases compared to Non-Recurring Costs (NRC).
+The use of AR, which will significantly impact ways of working, is not only interesting for Airbus, but for
+airlines, Maintenance Repair and Overhaul (MRO) organizations and other new maintenance services too.
+Conscious of this pool of improvement, Airbus continues to push the boundaries of technology via discus-
+sion, test and collaboration with the world’s best AR players. The opportunities to increase the efficiency of
+maintenance are encouraged by previous successes such as the MiRA project or the Final Assembly Line
+seat installation concept.
+Nevertheless, the maturity of current development has to be proved in an operational context. This is why
+Airbus, through its ProtoSpace centres that link between research, technology, business across the divisions,
+as well as the various industrial internal and external stakeholders around the world, is:
+• Preparing a transition phase to a new philosophy through internal rapid experience acquisition,
+• Building a global vision instead of case-by-case successes, spreading its know-how,
+• Taking the human factor and operational context into serious consideration during development.
+The comprehensive command of Augmented Reality and the rapid integration of this knowledge into
+deployable and scalable solutions, will enable Airbus to find new solutions to facilitate and accelerate airlines’
+operational activities.
+S B
+75#TSAF
+43
+Configuration
+management
+Article by
+Jean-Philippe JACQ
+Head of Standard Service
+Bulletins Programme
+AIRBUS
+Jean-Philippe.Jacq@airbus.com
+75#TSAF
+53
+SB configuration management
+7891 8891 9891 0991 1991 2991 3991 4991 5991 6991 7991 8991 9991 0002 1002 2002 3002 4002 5002 6002 7002 8002 9002 0102 1102 2102 3102
+6000
+5000
+4000
+3000
+2000
+1000
+0
+ytivitceffe
+ni
+NSM
+tfarcria
+fo
+rebmuN
+The efficient way to simplify Service Bulletins
+It took 15 years working in the aeronautical Customer Services environment,
+dealing with Service Bulletins every day, before I performed an internet search
+to discover more about this technical publication which is well-known for any
+aircraft engineer.
+My attention was immediately drawn by the first “hit” displaying a fascinating
+question: “What is a service bulletin in aviation”. The answer was a surprisingly
+uninformative: “A Service Bulletin in aviation is the same as a Service Bulletin in
+any other field”.
+The aviation industry, in both civil and military sectors, produces thousands of
+Service Bulletins every year, to improve the original aircraft design, correct
+issues in service or introduce customer originating aircraft conversions by
+modification. Service Bulletins can be found on the internet for almost every
+conceivable product we buy (cars, electrical appliances, pinball machines...).
+All Service Bulletins share a certain degree of commonality with those in
+aviation - they give detailed instructions and provide illustrations for ease of
+understanding.
+Airbus Service Bulletin effectivity
+Airbus released the first Service Bulletin in 1974, only a few months after delivery
+of the first A300, to improve engine vibration detection circuits. Since this first
+publication, 15,000 Service Bulletins applicable to a total of almost 7 million
+individual aircraft Manufacturer Serial Number (MSN) items have been produced.
+In the graph below, each dot is a Service Bulletin dispatched since 1997, with
+the number of aircraft MSN covered in effectivity on the vertical axis. Service
+Bulletins are not necessarily applicable for the whole in-service fleet; however
+clouds of dots clearly follow the growth of the fleet for each aircraft family.
+Service Bulletin effectivity
+A300/A310 A320 Family A330/A340 A380
+Service Bulletins in aviation can be described in different ways depending on the
+user’s views. They are primarily technical, detailing inspections or changes to the
+aircraft type design through a set of approved instructions. Service Bulletins also
+describe the benefits and the repercussions associated with the implementation action
+and provide commercial, operational and contextual data for decision makers. Last
+but not least, accomplished Service Bulletins are reported by operators, guaranteeing
+the continuity of in-service aircraft configuration management.
+SB configuration management
+What is configuration management applied to Airbus Service Bulletins?
+While a novice will depict an aircraft as a cylinder fitted with wings and engines, an
+aircraft configuration manager will see an individual aircraft as a large stack of modifica-
+tion numbers characterizing its exact technical definition status. Modification stacking is
+indeed the fundamental principle in configuration management.
+Each aircraft evolution by modification stacks on top of the previous modification.
+The last post-modification status serves as the pre-modification basis for the next
+modification of the stack.
+When an aircraft is delivered, Airbus provides operators with an aircraft inspection report
+(AIR) of the recorded modification stack for the given aircraft. This list of modifications is
+made up from the initial set of modifications necessary to achieve aircraft Type Certification
+and of additional standard modifications introduced as product improvement through
+later evolutions of the aircraft standard. Optional modifications chosen by the customer
+can also be added as the result of the aircraft customization process.
+Service Bulletins cover the embodiment of retrofitable modifications after aircraft delivery.
+Hence, Service Bulletins follow the same “modification stack-up” principle and link up
+with the previous Service Bulletin of the stack. The illustration below shows this principle.
+Aircraft modification stack-up management principle
+Aircraft deliveries
+Evolutions of the modification stack are recorded at Airbus for each in-service aircraft
+based upon operator reporting Service Bulletin embodiment status. This data is the
+primary source for customization of technical and operational documentation. It also
+defines the pre-modification status for each aircraft MSN in the effectivity of a later
+Airbus Service Bulletin.
+kcats
+noitacifidoM
+Mod.α and β are proposed for embodiment AFTER AIRCRAFT DELIVERY
+Customer request
+in-service via Service Bulletin α and β
+Upgrade Service Bulletin β
+valid for MSN 0001...0005
+Airbus decision
+Standard Service Bulletin α
+valid for MSN 0001...0003
+BEFORE AIRCRAFT DELIVERY
+SB α SB α SB α MMoOdD. βα Customer originated
+embodied embodiment rejected vviiaa Mod. β optional modification
+planned SSBB βα
+Mod. α MMoOdD. αα Standard
+via vviiaa Mod. α Mod. α Mod. α Mod. α Mod. α m on o M dif S ic N a 0 ti 0 on 04
+SB α SSBB αα
+onwards
+TC TC TC TC TC TC TC TC Initial
+modification
+∑Mod. ∑Mod. ∑Mod. ∑Mod. ∑Mod. ∑Mod. ∑Mod. ∑Mod.
+stack as part of
+Type Certificate
+MSN MSN MSN MSN MSN MSN MSN MSN
+0001 0002 0003 0004 0005 0006 0007 0008
+75#TSAF
+63
+SB configuration management
+Why configuration management improves Airbus Service Bulletins?
+Aircraft MSN with the same modification stack, are managed in a similar way, allowing cluster
+groups of MSNs under specific Service Bulletin configurations. Configuring Service Bulletins results
+in a higher level of technical accuracy by defining pre and post-modification status and enabling
+appropriate detailed instructions for a given configuration.
+With configuration management, the content of Airbus Service Bulletins is not necessarily propor-
+tional to the amount of aircraft MSN included in the effectivity of the document. As the effectivity of
+Service Bulletins generally covers a large range of aircraft MSN, configuration management is used
+to simplify the content by grouping aircraft MSN in a configuration* where the technical solution is
+identical and the same technical instructions can be followed.
+Configuration management avoids duplication of technical content and significantly reduces the
+length of Service Bulletins.
+Producing service instructions for airline mechanics is a time-consuming exercise, especially for
+complex Service Bulletins. To save airline resources a solution known as SB+ was developed to
+reduce the time required to process and access Service Bulletin data (for more details contact:
+sbplus.services@airbus.com):
+- Service Bulletins can be customised by configuration management. For example, by MSN
+or a set of MSN which use the standard filtering function in AirN@v Engineering.
+The benefits in terms of reduction of content size can be significant as shown in the example below.
+SB envelope
+870 pages
+SB envelope
+-70%
+600 pages in size
+-60% -90%
+in size in size
+SB by configuration
+SB envelope
+270 pages
+SB by configuration SB by configuration
+120 pages
+50 pages 50 pages
+80 MH 25 MH 270 MH
+3 configurations 9 configurations 5 configurations
+In both cases the reduction of the Service Bulletin content is achieved by using appropriate
+functions to display the applicable work instructions for one or several of the configurations
+defined in the Service Bulletin.
+* other criteria exist such as aircraft type, weight & balance, etc.
+CONCLUSION
+Configuration management based on the ‘Modification stack up’ principle is a powerful tool deployed by
+Airbus to manage and record the detailed technical definition of each aircraft MSN, both before and after
+its delivery. Airbus Service Bulletins fully use this principle to ensure the most complete and accurate
+technical solutions are provided to customers. With configuration management, Service Bulletins are
+simpler and easier to understand allowing airlines’ engineering to save resources and Airbus to offer more
+services to operators.
+75#TSAF
+73
+FAST
+from the PAST
+There wouldn’t be any future without the experience of the past.
+egatireH
+etaroproC
+subriA
+fo
+ysetruoc
+sotohP
+Not so long ago the time taken for turn-around was
+not calculated into the profitability of airline operations
+and the ground service was... rudimentary.
+Stewards assisted their glamorous passengers as
+they clambered up the rungs of a ladder to board
+their aircraft, while engineers refuelled by rolling in
+barrels on rails and filling by hand-pump.
+Destination and take-off times were carefully chalked
+onto a departure board attached to the aircraft.
+Today, aircraft carry a hundred times more passen-
+gers, and cost infinitely more. Every second on the
+ground is a second that the aircraft is not paying for
+itself. Which is why each ground operation is followed
+and optimized to minimize the time on-ground and
+maximize passenger comfort (see article on page 4).
+75#TSAF
+83
+We’ve got it covered
+Around the clock, around the world,
+Airbus has more than 240 field representatives
+based in over 110 cities
+WORLDWIDE TECHNICAL, MATERIAL & LOGISTICS TRAINING CENTRES
+Airbus Training Centre
+Tel: +33 (0)5 6719 1980 Airbus Technical AOG Centre (AIRTAC)
+Toulouse, France
+Fax: +33 (0)5 6193 1818 Tel: +33 (0)5 6193 3400
+Tel: +33 (0)5 6193 3333
+Fax:+33 (0)5 6193 3500
+USA/CANADA Fax: +33 (0)5 6193 2094
+airtac@airbus.com
+Tel: +1 703 834 3484 Airbus Maintenance
+Spares AOG/Work Stoppage
+Fax: +1 703 834 3464 Training Centre
+• Outside the Americas:
+Hamburg, Germany
+CHINA Tel: +49 (0)40 5076 4001
+Tel: +49 (0)40 7438 8288
+Fax: +49 (0)40 5076 4011
+Tel: +86 10 8048 6161 Ext. 5020 Fax: +49 (0)40 7438 8588
+aog.spares@airbus.com
+Fax: +86 10 8048 6162
+• In the Americas: Airbus Training Centre Americas
+FIELD SERVICE SUPPORT Tel: +1 70 3729 9000 Miami, Florida - U.S.A.
+ADMINISTRATION Fax: +1 70 3729 4373 Tel: +1 305 871 3656
+aog.na@airbus.com Fax: +1 305 871 4649
+Tel: +33 (0)5 6193 3936,
+Fax: +33 (0)5 6193 4964 Spares In-Flight orders outside the Americas: Airbus Training Centre Beijing
+Tel: +49 (0)40 5076 4002 Tel: + 86 10 8047 5341
+Fax: +49 (0)40 5076 4012
+Airbus Training Centre Bangalore
+ifd.spares@airbus.com
+Tel: +91 9880065511
+Spares related HMV issues outside the Americas: Airbus Training Centre Delhi
+Tel: +49 (0)40 5076 4003 Tel: +91 9880065511
+Fax: +49 (0)40 5076 4013
+Airbus Middle East FZE Dubai
+hmv.spares@airbus.com
+Tel: +971 4 602 78 62
+Spares RTN/USR orders in the Americas:
+Training by Airbus Jakarta
+Please contact your dedicated customer spares
+Jerome.Dartus@airbus.com
+account representative csr.na@airbus.com
+Airbus Asia Training Centre Singapore
+Yueyu.He@airbus.com
+75#TSAF
+93
+How can I fly more
+passengers to the
+most popular airports
+at peak times?
+Fly the A380. The world’s most
+spacious commercial aircraft.
+Capture more high-yield traffic
+on the busiest routes and offer
+the highest passenger appeal
+with 18+ inch seats in economy.
+Airbus is the answer.
+airbus.com
+© AIRBUS, 2015. All rights reserved. Airbus, its logo and the product names are registered trademarks.
+12186_AIR_QA_NYC_Master_297x210_1.0.indd 1 17/11/2015 12:19

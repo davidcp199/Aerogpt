@@ -1,0 +1,1604 @@
+45#TSAF
+20
+45#TSAF
+30
+Airbus technical magazine
+#54
+FA S T
+Flight Airworthiness Support Technology
+Publisher: Bruno PIQUET
+Editor: Lucas BLUMENFELD Telemetry Centre 04
+Design: Daren BIRCHALL
+Cover: Non-Destructive Testing
+Photo by: Sylvain BONNIOL
+Greener solutions: cleaner
+Printer: Amadio 12
+chemicals with MPSP
+Authorisation for reprinting FAST magazine
+articles should be requested from the editor
+Tel: +33 (0)5 61 93 43 88
+Fax: +33 (0)5 61 93 47 73 Non-DestructiveTesting 18
+e-mail: fast.magazine@airbus.com
+FAST magazine is available on internet
+www.airbus.com/support/publications
+and on tablets Structure Health Monitoring 22
+ISSN 1293-5476
+Importance of reporting
+30
+events from the field
+© AIRBUS 2014
+All rights reserved. Proprietary document
+By taking delivery of this Magazine (hereafter ‘Magazine’), you accept on behalf
+of your company to comply with the following. No other property rights are granted
+by the delivery of this Magazine than the right to read it, for the sole purpose of A320 Family noise reduction 36
+information. This Magazine, its content, illustrations and photos shall not be modified
+nor reproduced without prior written consent of Airbus. This Magazine and the
+materials it contains shall not, in whole or in part, be sold, rented, or licensed to any
+third party subject to payment or not. This Magazine may contain market-sensitive
+or other information that is correct at the time of going to press. This information
+involves a number of factors which could change over time, affecting the true public
+representation. Airbus assumes no obligation to update any information contained in FAST from the past 42
+this document or with respect to the information described herein. The statements
+made herein do not constitute an offer or form part of any contract. They are based on
+Airbus information and are expressed in good faith but no warranty or representation
+is given as to their accuracy. When additional information is required, Airbus can be contacted
+to provide further details. Airbus shall assume no liability for
+any damage in connection with the use of this Magazine and the materials it contains,
+We’ve got it covered 43
+even if Airbus has been advised of the likelihood of such damages. This licence
+is governed by French law and exclusive jurisdiction is given to the courts and tribunals
+of Toulouse (France) without prejudice to the right of Airbus to bring proceedings for
+infringement of copyright or any other intellectual property right in any other court of
+competent jurisdiction. Airbus, its logo, A300, A310, A318, A319, A320, A321, A330,
+A340, A350 XWB, A380 and A400M are registered trademarks.
+Where you see these icons,
+Photo copyright Airbus videos or slide shows are available
+Photo credits: Airbus Photographic Library, Airbus Flight on the iPad & Android app versions
+Test Photo Lab, EADS Corporate Heritage, Master Films, EXM company, Sylvain Bonniol, of FAST magazine.
+Philippe Masclet, Hervé Gousse, Axel Dreyer, Frédéric Lancelot, Shutterstock, Getty Images
+2255##TTSSAAFF
+2
+200
+Your Airbus technical magazine is now on tablet
+The articles in this magazine appear in 2014 QTR 2 and QTR 3
+iOS (iPad) & Android
+Hamburg
+Bremen
+Filton
+Saint-Nazaire
+Saint-Genis
+STMJ
+Toulouse
+SPTEMCAH Martigues
+Seville
+45#TSAF
+40
+45#TSAF
+50
+Telemetry Centre
+Telemetry
+Centre
+Article by (left to right):
+‘Mission control’
+Gilles STUDER Jean-François MERYET David SIMON Jean-Marc WATTECANT
+Test Analysis Telemetry Head of Flight Mechanics Head of Data Processing
+for flight testing
+Specialist Officer & Telemetry Flight and Integration Test Centre
+AIRBUS AIRBUS AIRBUS AIRBUS
+gilles.studer@airbus.com jean-francois.meryet@airbus.com david.simon@airbus.com jean-marc.wattecant@airbus.com
+With no windows and matt black sound-proofed walls, the environment
+of the Telemetry Centre has been designed to minimise the stress
+of carrying out work that requires intense concentration over extended
+periods of time.
+Often likened to a mini NASA control room, the centre is lined with large
+screens that offer audio and high definition video, and each work station
+is full of monitors and bespoke computer equipment.
+As aircraft become increasingly complex, and with
+customers expecting more mature aircraft in shorter Airbus’ master Telemetry Centre is located at Toulouse (France).
+It comprises three telemetry rooms capable of simultaneously following
+development times, the need to optimise flight test cycles
+three separate test flights.
+becomes critical. The Telemetry Centre is a cornerstone
+Airbus sites at Filton (UK), Bremen and Hamburg (both in Germany) are also The size and the shape
+of Airbus’ flight testing process and is a key element to equipped with a telemetry room which can be connected to the Toulouse master of each circular area
+centre. Toulouse can also be in inter-connexion with the Airbus Defence & Space depends on the aircraft’s
+ensure the safety and efficiency of our flight tests. altitude and the local relief.
+Telemetry Centre in Seville (Spain).
+Data is transmitted in real-time to these telemetry rooms providing access
+for more specialists. This immediacy improves the global data analysis
+as specialists are able to hear the pilots’ commentary and see them
+Foreword by
+in the cockpit via the live flight video transmitted from the aircraft.
+Fernando ALONSO
+Head of Flight and Integration Tests Systems are checked for performance as specified, and if needed
+requests can be made to the flight crew to repeat a test, or carry out
+a certain action.
+Thanks to the high volume of quality data available through telemetry, Design Office
+specialists can remain on ground following the tests performed by the flight crews. The most crucial aspect of being able to monitor flights live is that
+the engineers can better understand the context of each test result.
+Airbus’ master Telemetry Centre located in Toulouse (France) has the capacity to follow
+For example, they can appreciate how local weather conditions,
+three different flight tests simultaneously. As many specialists are located throughout
+may be affecting the flight. As well as knowing what is happening inside
+Airbus’ sites in Europe, annex telemetry rooms have been deployed and are able to
+the aircraft, they can also see what’s going on outside via cameras
+view and analyse flight test data in a “live” transmission.
+mounted on the aircraft’s exterior.
+The multiplication of specialists viewing data permits a quicker analysis and real-time
+corrective measures or adjustments.
+The progressively rapid transmission of data and its analysis, allows continuous
+interaction between the Telemetry Centre conductor and the test pilots.
+• Test flights are conducted in six zones of approximately 500 km in diameter Annex telemetry rooms
+The communication is so fluid that it’s easy to forget that they’re not still up there
+allow correspondance with
+in the aircraft! • Six antennas cover the flight test area in the west and south part of France
+specialists in the engineering
+The Telemetry Centre is definitely a safer and more efficient way to test our aircraft. • Three separate aircraft can be tracked simultaneously disciplines of each Airbus site:
+• The optical range is more than 350 km at 40,000 ft Filton - ATA chapters 28, 32 & 47
+Hamburg - mainly ATA 21
+• Antennas are linked and controlled from the Telemetry Centre in Toulouse
+Bremen - mainly ATA 27-50
+• Ethernet IP data transfers 10 Mbits/sec from antenna stations See wikipedia.org
+to the Telemetry Centre for ATA* chapters list
+• Transmission for useful data from the aircraft is > 5 Mbits/sec
+* Air Transport Association
+45#TSAF
+60
+45#TSAF
+70
+Telemetry Centre Telemetry Centre
+The This highly sophisticated installation has been set up with two main objectives:
+• Enhancing the safety of test flights by minimizing the crew on-board
+Telemetry
+the aircraft while maximizing the number of analysts on the ground.
+• Increasing efficiency of the flight test campaign by providing real-time analysis
+Centre, support from the ground which allows optimising the contents of the flight
+and reducing the number of flights.
+a great Since its creation, Airbus’ Telemetry Centre has seen huge progress. Even if the
+mission hasn’t changed, the level of aircraft support has grown and technical analysis
+strategic has been improved. The Telemetry Centre was initially dedicated to flight testers.
+Now, thanks to improvements in the tools and mind-set evolution, the centre has
+become a privileged place where people coming from different activities share their
+choice
+questions and solutions.
+Different tools
+In order to fully understand all on-board messages and events, the telemetry room
+conductors use tools which enable the same vision as the airborne flight test
+engineers, with the difference that they receive more detailed results.
+In 2012, an update in the Telemetry Centre’s IT improved the analysis efficiency.
+With new data management and advanced technologies, telemetry is now more
+reactive and flexible, adapting its analysis during test flights.
+Aircraft and telemetry: continuous interactions
+The telemetry conductor is in continuous communication with the airborne flight test
+engineer, sharing instructions and advice. The conductor is also the focal point,
+sharing information with specialists.
+AIRBORNE
+Flight test engineer
+Discussion
+Telemetry took
+its full dimension
+GROUND BASED
+Telemetry conductor during the A380’s
+maiden flight.
+Flight analysis
+Test specialists Test specialists
+Aircraft physics integration Systems integration
+Data sending
+Design Office Programme Flight test engineer
+Slide the timeline 2006 2009
+Third telemetry room For the A400M
+installed at Toulouse, France the first Seville ground based telemetry
+1990 The “S” band in COFDM mode was initiated for the A340-600 programme significantly
+followed by Toulouse
+1987 improving the signal’s fidelity, while increasing the transmission from 1Mbits/sec to 5.4 Mbits/sec.
+Second telemetry 2004 2007
+First telemetry room room at Toulouse, Coded Orthogonal Frequency Division Multiplexing (COFDM) Telemetry rooms installed at
+installed at Toulouse, France France is a modulation scheme that divides a single digital signal across multiple signal carriers simultaneously. Telemetry room First interoperation Hamburg, Germany
+for the A320 Signals are sent at right angles to each other (hence, orthogonal) overcoming multipath effects. installed at Seville, Spain between Toulouse Bremen, Germany
+and Seville Filton, UK
+EIS (Entry-Into-Service) EIS EIS EIS EIS EIS
+1987 1990 1995 2000 2005 2010 2015
+A320 A340 A330 A380 A400M A350 XWB
+Frequency
+L Band: 1 to 2 GHz S Band: 2 to 4 GHz C Band: 4 to 8 GHz
+(5.091 to
+5.250 GHz
+1986 - 1990 1990 - 1996 1996 - 2004 2005 - 2014
+for aeronautical
+• Complex architecture • Acquisition: one PCM • Graphic application • Data Ethernet packets telemetry)
+• Many machines for message • Semi-closed telemetry world • Multi-window • Bandwidth: 5 to 10 Mbits/sec
+acquisition • Possibility of following two aircraft • Multi-application • Multiple parameter lists selectable from the ground
+• One machine to monitor loads • Open telemetry world • Uplink (data trasmission to the aircraft)
+• No graphic station • Real-time and deferred-time transmission available • Data compression
+• Acquisition: only one PCM • COFDM • Possibility of following three aircraft (Pulse Code Modulation)
+• Closed telemetry world
+• Possibility of following one aircraft
+45#TSAF
+80
+45#TSAF
+90
+Telemetry Centre Telemetry Centre
+The 12
+Telemetry Centre supports the aircraft
+flight test
+The Telemetry Centre surveys the safety of the aircraft and crew, giving warnings
+during flight regarding structure, loads and systems’ events.
+groups
+In real-time, the telemetry analyses flight physics and crucial systems such as
+electrics, hydraulics, braking, pressurisation, de-icing, etc.
+Consequently, the main role of the Telemetry Centre is to help the crew, and specifically
+• Performance
+the flight engineer, validating data and manoeuvres during the flight. Telemetry has
+now become mandatory for flights such as flutter testing or load calibration.
+• Aerodynamics
+Most handling qualities and performance flights are also performed with telemetry’s
+support during the entire development phase and up to aircraft certification.
+• Engine
+• Handling qualities Real-time and deferred analysis
+• Flight control The Telemetry Centre is able to analyse data sent by the aircraft both in real-time
+and in slightly deferred time.
+• Braking
+The analysis team of specialists study real-time transmissions from the aircraft on
+• Electricity generic or ATA chapter specific screens. Telemetry equipment is pre-configured
+based on the results of Functional Integrated Benches and simulators (mainly for
+• Cabin systems parts) but also on input coming from computations (finite element stress
+analysis for loads, computational fluid dynamics for aerodynamics, etc.).
+• Flutter
+The equipment then interprets flight test behaviour and is able to send a warning
+to the aircraft when the situation becomes critical or dangerous.
+• Load
+These telemetry tools also propose real-time automatic monitoring which can warn
+• Autopilot
+the specialist in case of an unexpected event.
+• Fuel Deferred computation allows a more detailed analysis which is then compared with
+previous models and sent to the Design Office, aircraft programme, other crew
+and test specialists after the flight test in order to get a global overview of the results.
+Evolution of telemetry
+As the safety and performance of aircraft improves, the need for tests increases.
+Fortunately technological improvements also mean increased data flow of a higher fidelity and faster calculation of complex signals.
+45#TSAF
+01
+Telemetry Centre
+From test benches to telemetry data
+The Telemetry Centre is the concretisation of months of teamwork preparing for the
+flight test campaign. Activity fields such as design, structure and systems meet to
+assess the aircraft’s behaviour in real conditions, and work on the same operational
+subject. This way of working allows immediate sharing of information, enabling them
+to define together the conclusions of preliminary results.
+The on-ground telemetry conductor and the airborne flight test engineer are in
+communication throughout the entire test flight. Telemetry specialists are in charge
+of preparing analysis tools to face any event during the flight. They assess the overall
+aircraft behaviour to ensure that all requirements are met in terms of performance
+Test activities throughout an aircraft’s development cycle
+and general handling.
+End
+Definition Begin Entry development
+Order of basic End Specification Definition Final Into phase
+released aircraft of concept phase phase Assembly Power 1st Type Service for basic
+for project concept phase complete complete Line On flight validation (EIS) aircraft
+Functional Integration Benches , simulators, etc. Telemetry Centre
+Feasibility Concept Definition Development Post EIS
+Strategy and programmes
+Development flight tests
+Test means
+Test instrumentation
+Test analysis
+Production flight tests
+Telemetry support brings Number of parameters 0 500 1000 1500 2000
+advantages in terms Performance
+The future of the Telemetry Centre
+of planning and quality
+Aerodynamics
+A new European regulation regarding frequencies’ transmission will allow the use
+Certifying an aircraft is an activity that
+of a new wave band. This will open the way to increased telemetry capacities,
+has become increasingly complex,
+Engine allowing more parameters to be registered in real-time.
+requiring testing to be more efficient.
+Thanks to real-time test validation, Airbus Today, telemetry services are limited to France and Spain due to antenna coverage.
+is able to certify its aircraft on schedule Handling Qualities We hope that one day, we will have the opportunity to analyse flight tests around
+and thus respect commitments to deliver the world.
+on time. Flight Control
+Moreover, the real-time interactions
+between the aircraft and the Telemetry Braking
+Centre enable the optimization of the
+aircraft during flight tests, resulting in Electricity
+high-performance aircraft.
+CONCLUSION
+As an example (see right) the data flow Cabin
+necessary for airworthiness certification
+The Airbus Telemetry Centre receives data transmitted from aircraft during flight tests. This information can be
+for the A380 would have taken much Flutter
+studied in real-time from the safety of the ground or deferred for in-depth analysis.
+longer were it not for improved
+technology in telemetry data Flight tests can be followed in telemetry rooms at Filton, Hamburg and Bremen by specialists in engineering
+Load
+transmission. disciplines, improving the efficiency of test flights and facilitating the optimization of an aircraft’s performance
+and safety.
+Telemetry data transmission for the Autopilot A340-600
+A340-600 was at 0.8 Mbits/sec, theoretical data flow The speed and accuracy of the transmitted and calculated data improves as technological advances in Airbus
+of 2,400 parameters (max)
+as opposed to the 5 Mbits/sec Fuel aircraft require more complex testing while respecting development and delivery times.
+available for the A380.
+A380
+Generic theoretical data flow
+of 8,000 parameters
+45#TSAF
+11
+45#TSAF
+21
+45#TSAF
+31
+Cleaner chemicals with MPSP
+Greener
+IARC
+REACH
+RoHS
+POPs
+E U R A T O M
+solutions
+ECHA
+C M R
+ODS
+OSPAR
+Cleaner chemicals As regulations on the use of chemicals in the
+These names are not the last trendy rock bands but a short list of laws,
+aeronautical industry become increasingly
+with Multi-Programme international agreements and authorities, linked to the regulation of hazardous
+stringent, Airbus faces an interesting challenge. chemical substances to protect human health and the environment.
+Substance Projects
+The first health and safety laws in western countries to restrict the use of certain
+On the one hand, regulations that are intended
+chemicals were enacted in the second half of the 20th century.
+to protect the environment and health of users, Ever since, regulations have become progressively more stringent covering
+an ever growing list of substances.
+align perfectly with Airbus’ commitment to offer
+Regulations, such as REACH provide a legislative framework based on the
+cleaner and safer aircraft.
+precautionary principle and it is the producer’s responsibility for assessing
+and managing the risks posed by chemicals and providing appropriate safety
+On the other, many of these regulations concern
+information to their users.
+substances that provide the most efficient
+Moreover, regulations are imposed at the source of production to prevent
+technical solutions currently known. dissemination and limit exceptions.
+It is important to note that the new regulations consider the use of substances
+Airbus’ challenge is to find new solutions
+throughout the entire production process.
+that adhere to upcoming regulations, without
+Impact on the aeronautical sector
+compromising high performance and product
+quality. Apart from regulatory obligations (registration or declaration of chemical use),
+the main impact on the industry is the disappearance of raw materials used
+to manufacture or maintain the final products.
+Among the many aircraft components subject to obsolescence due to limitations
+in the use of chemicals are:
+• Paints
+• Sealants
+• Flame-retardants
+• Batteries
+• Electrical devices
+• Extinguishers
+Article by • Hydraulic fluids
+Nicolas LOURDAUX (left)
+The challenge is permanent, as regulations evolve and the visibility of substances that
+Multi-Programme Substance Projects
+may be banned in the future is poor.
+AIRBUS
+Moreover, despite our manufacturing business being global, we have to cope with
+nicolas.lourdaux@airbus.com
+different levels of regulation from a local law enforcement to international agreements
+that are diversely implemented.
+Rodolphe RIVIERE (right)
+Airbus Process Technology Leader
+for Surface Preparation and Painting
+CMR: Contact MicroRadiography &
+Industrial Domain Leader ECHA: European Chemicals Agency
+for Multi-Programme Substance Projects EURATOM: European Atomic Energy Community
+AIRBUS IARC: International Agency for Research on Cancer
+rodolphe.riviere@airbus.com
+ODS: Ozone Depleting Substances
+OSPAR: Oslo and Paris Commission
+POPs: Persistent Organic Pollutant
+REACH: Registration, Evaluation and Authorization of CHemicals
+YRASSOLG
+Airbus has created a committee dedicated to Multi-Programme Substance Projects (MPSP)
+in order to analyse the reports of upcoming regulations from the Environmental Affairs
+department.
+The committee governs the portfolio of substances impacted by new regulations
+and steers the process to find new manufacturing processes with substitute chemicals.
+A transversal management
+The MPSP committee comprises a cross-functional management, grouping representatives
+from all aircraft programmes, engineering, manufacturing, procurement, health and safety
+departments, as well as the Environmental Affairs department.
+The MPSP committee ensures:
+• An improved visibility of upcoming changes to evaluate the impact well in advance
+• Common priorities to minimize the impact on daily business
+• A common strategy
+• A common work process
+• The sharing of best practices
+• The mitigation of obsolescence
+45#TSAF
+41
+45#TSAF
+51
+Cleaner chemicals with MPSP Cleaner chemicals with MPSP
+An end-to-end process
+Facing this challenge, Airbus has put in place an end-to-end process: from the analysis of the regulation to the final replacement
+of chemical products on the aircraft or at the manufacturing/maintenance facilities.
+End-to-end process management
+Survey Keystone materials for the aeronautical industry such as aluminium alloys, require
+the special care in terms of protection against corrosion.
+regulations The main steps are: degreasing, pickling, chemical conversion or anodic oxidation,
+followed by the application of structural paint loaded with corrosion inhibitors.
+To complete these steps, the aviation industry still uses potentially harmful substances,
+such as trichloroethylene, borax, chromic acid, zinc, barium and strontium chromates;
+and this only concerns component protection. The treated parts are then assembled
+to form subassemblies and in the end exterior paints will be applied. These assembly
+operations involve amongst others: cadmium plated or chromate fasteners, themselves
+Identify the protected by sealants or chromate paints.
+chemical
+A priority-based work plan
+Considering the visibility given by the legislators about substances to be banned (3-4
+years) and the time needed to qualify new solutions (can be 5 years or more), informed
+analysis of the regulations and accurate prioritizing of the work plan is necessary.
+Examples of topics which remain high on the agenda:
+List the impacted
+qualified products • Chromates: anodization, passivation, plating and paints (REACH)
+• Cadmium: corrosion protection by plating (REACH)
+• Halon: fire extinguishers (ODS)
+• Phthalates: plastics (REACH)
+• Short-chained chlorinated paraffins: fire retardants, plasticisers (POP)
+• Lead: electronics card soldering, batteries (RoHS)
+Set up
+a project
+Find technical
+solutions
+to qualify them
+Manage the impact
+of the new solutions
+Implement
+the new solution
+Chemical regulation is not a temporary burden but an ongoing
+opportunity to invent cleaner and safer manufacturing techniques.
+Airbus has decided to embrace this challenge by streamlining the way
+in which upcoming regulation is integrated into our daily business.
+It has put in place an end-to-end process management committee
+to treat Multi-Programme Substance Projects (MPSP).
+The involvement of all parties is key to ensure this runs smoothly and
+perpetuates. Issues are now identified, impacts are known and mitigation
+plans are in place to ensure the smooth continuity of deliveries.
+The aim of Airbus and our customers to minimize our environmental
+impact is perfectly in line with the spirit of chemical regulation.
+We have to, and will, find the best solution.
+45#TSAF
+61
+45#TSAF
+71
+Cleaner chemicals with MPSP Cleaner chemicals with MPSP
+Looking into future
+paint regulations
+The health and safety of Airbus personnel and the environmental impact
+of the production process is of paramount importance, and the increasing
+regulations in Europe encouraged Airbus towards a major overhaul of its
+industrial processes. In 2005, a first step towards a greener future was taken.
+For the first time we treated aircraft parts with hexavalent-chromium-free acid pickling.
+This single change meant a lengthy work programme for our engineering offices and
+innovation teams. Once the theory proven in laboratories, the introduction of new
+facilities in factories is made progressively, beginning with the small size plants then
+up-scaling to the bigger ones. There, the industrial engineering teams (manufacturing
+and engineering) had to prepare the facilities to receive these new surface treatment
+baths, adapt the key process parameters, the rinsing stations and review the quality
+monitoring plan.
+Chromic Acid Anodizing (CAA) is under replacement by Tartaric Sulphuric Acid Anodising
+(TSA). This process which forms an oxide layer on parts provides corrosion protection
+and is the interface between the metal and the paint coating. Perfect compatibility
+between these two elements is paramount. However the standard paint in some of our
+plants and in our supply chain has for long been the well-known PAC33, not compatible
+with the oxide layer formed by TSA. It was also therefore necessary to qualify and
+introduce new paints showing affinity with this new substrate. Furthermore, taking into
+account European regulations related to Volatile Organic Compounds (VOC) - precursors
+of greenhouse gas - these new paints must contain the least possible solvent.
+This particularity gives them a different behaviour during their application and drying,
+thus resulting in the need to invest in humidity control and new application equipment.
+In assembly centres too, these new paints are emerging and with them the need to
+further improve our processes for the surface preparation. We continuously develop,
+in partnership with DÜRR ECOCLEAN, an innovative process combining steam
+and high speed air, negating the need for a chemical additive.
+We are thus able, for the first time, to completely clean without producing VOCs,
+without any harmful chemicals and without leaving residues that disrupt the application
+of new and more demanding paints. This new process promises opportunities in
+terms of ergonomics, cycle time and automation. Indeed, paint booths, choice of
+certain fasteners, their installation process, cleaning processes in assembly and the
+final painting of Centre Wing Boxes manufactured in Airbus’ facility at Nantes (France)
+are being adapted. CONCLUSION
+The advantages are all now well-known and appreciated at this plant and were shared
+within the Manufacturing/Engineering community to other plants.
+Beyond the substantial ecological gain already provided by the introduction of the first
+“chromate free” or “low VOC” solutions, the implementation of these new processes
+has allowed a production overhaul and is part of our constant search for improvement.
+With lessons learnt from these current projects, we are reaching a significant milestone:
+chromate-free structural primer and touch-up implementation. As yet, no substitute
+has shown a sufficient maturity to fulfil aircraft certification standards, the future
+European regulations and our production requirements. Airbus is actively cooperating
+with research laboratories and suppliers to make them an industrial reality as soon
+as possible.
+45#TSAF
+81
+45#TSAF
+91
+Non-Destructive Testing
+Non-Destructive
+NDT in aircraft manufacturing The following examples of main NDT
+methods were performed at TESTIA,
+a certified NDT examination and testing
+NDT is a quality step used at key stages to establish whether the component
+Testing organisation in the Airbus Group.
+is fit to advance to the next manufacturing operation. By not continuing to add
+There’s more to it man-hours and production cost to a defective component, significant time The tests were carried out by
+and money is saved. David CEYRAT
+than meets the eye
+Training - TESTIA
+Using knowledge from fatigue tests and data modelling, Airbus can calculate
+and
+the in-service life of a component. By introducing NDT inspections well in advance,
+Fernando SANTOS
+we can avoid large repairs, optimise the design and in many cases, reduce
+Head of Engineering - TESTIA
+the weight of components.
+For more information, please contact
+Non-Destructive Testing (NDT) Jean-Claude RISPAL
+Training Manager - TESTIA
+is used to confirm the integrity of a material
+jean-claude.rispal@testia.com
+without causing any damage
+Patrick METAYER
+to the component. Head of Airbus Non-Destructive Testing - AIRBUS
+patrick.metayer@airbus.com
+NDT tools and processes allow the user to:
+• Detect defects that may occur
+during the manufacturing process,
+• Examine parts for defects during maintenance,
+• Assess the severity of damage
+following an impact.
+Techniques for both metallic and composite materials
+may be used depending on the nature and depth
+of the indication:
+Surface - magnetics, dye penetrants and eddy currents
+1. Ultrasonic 2. Eddy current 3. Radiography
+Sub-surface - magnetics, eddy currents, ultrasonic and thermography (metallic/composite materials) (metallic materials) (metallic/composite materials)
+Internal - ultrasonic, thermography and X-ray Ultrasonic energy can penetrate metallic Eddy currents are induced using a small Using a booth which protects the
+and composite materials to detect electrically magnetised coil. A hand-held operator from X-rays, the component
+cracking and delamination. This technique eddy current probe is passed over an to be tested is clamped to a mount
+is used both in manufacturing and on the alloy which can contain the eddy current. and then placed into the booth,
+These methods can reveal the location, size and severity
+aircraft’s structure in service. When it passes over the defect you can the door then closes automatically,
+of any defects within a component. see the display on the screen.
+a. Longitudinal wave The component is then exposed to
+A straight beam from the probe For fastener hole inspection we use a X-rays of the wavelength which are best
+measures the thickness and detects rotating probe which is passed through suited for the feature to be detected.
+features within the beam path. the bore of the hole. When it encounters
+As it is a digital X-ray you are able
+a defect it is displayed on the screen;
+b. Shear wave to enhance the image by modifying
+this signal is adjusted for diagnosis.
+Beams at varying angles can be the settings.
+generated in metal called shear waves. This is a very common method for
+Finally when you have saved the image,
+For example, this method could be used in-service aircraft.
+you can enhance it further by examining
+to detect cracks from holes with the
+chromatic differences.
+fasteners installed.
+c. Phased array
+Using multiple probes in an array, internal
+The aerospace industry is supported
+features can be mapped, and for metallic
+Steven CRUMMACK (left) Jean-Pierre LOZES (right)
+parts, the beam can be steered to
+by a group of specialised suppliers,
+Senior NDT Engineer NDT Team Leader
+examine an area from a range of angles.
+AIRBUS AIRBUS
+The maximum reflection is obtained by many of whom use technology originally
+tilting to the correct angle.
+This increases sensitivity compared to
+developed for the medical industry.
+conventional shear waves.
+45#TSAF
+02
+45#TSAF
+12
+Non-Destructive Testing Non-Destructive Testing
+4. Infrared 5. Magnetic 6. Fluorescent dye
+thermography particle penetrant
+(metallic/composite materials) (metallic materials) (metallic materials)
+Infrared cameras are used to exploit the This testing method uses fluorescing This NDT method, mainly used in
+reaction of different materials after they magnetic particles suspended in a fluid. manu facturing, is effective at detecting
+pass from a thermally stressed state, surface breaking cracks in non-porous
+The liquid is applied to the magnetized
+back to ambient temperature. materials (primarily metallic).
+component, which then attracts the
+During this process, the infrared energy
+par ticles to magnetic flux leakage The component is covered in dye
+they transmit can be detected and used
+generated by defects and its edges penetrant ink which enters surface
+to display relative difference between
+breaking features. Afterwards the object
+materials. The method is limited to ferromagnetic
+is rinsed, leaving the remaining dye in the
+For example, water trapped inside materials only.
+defects. It is inspected under a ultraviolet
+composite honeycomb sandwich panels
+black light where the defect fluoresces,
+can be highlighted, effective for both
+against a dark background.
+rudders and elevators.
+Fluorescent dye penetrant inspection
+as performed in Airbus’ Nantes (France) facility.
+a)
+Directly after the surface treatment
+process, the parts are placed
+in an oven to dry excess moisture.
+b)
+Parts are sprayed
+with a florescent dye. CONCLUSION
+Non-Destructive Testing (NDT) has become a valued and necessary
+c) expertise in the manufacturing and maintenance of Airbus’ fleet.
+Residual dye is rinsed off
+Airbus monitors the structure of in-service aircraft ensuring safety
+revealing any surface
+and saving weight at the design stage. We believe it will continue
+discontinuities where the dye
+to increase, bringing added value as the engineering community
+has penetrated.
+becomes more aware of its benefits.
+d)
+Parts are oven-dried again For customers’ queries on NDT, please contact:
+then visually controlled
+with an UV light. Rolland FILAQUIER
+Structure Engineering Support Customer Services - AIRBUS - rolland.filaquier@airbus.com
+Alain TISSENIER
+Non-destructive Testing Manual (NTM) training - AIRBUS - alain.tissenier@airbus.com
+45#TSAF
+22
+45#TSAF
+32
+Structure Health Monitoring
+Structure Health
+Easing and foreseeing maintenance by Condition-Based Maintenance (CBM)
+In the past decades, aircraft on-board self-testing functions evolved from Built-In Test
+Equipment (BITE) which has been applied on engines and other components essential
+Monitoring
+for flight operations, to complex integrated systems’ architectures.
+A real-time on-board
+SHM is completing the global CBM. The integration of structural on-board monitoring
+capabilities into the aircraft monitoring and management network is a key enabler for
+‘stethoscope’
+CBM. By replacing scheduled inspections with real-time monitoring or monitoring on
+demand, SHM delivers increased aircraft availability through the optimization of
+for Condition-Based
+unscheduled maintenance and accurate follow-up of an eventual degradation.
+Maintenance The benefit of CBM versus classic structure inspections
+Currently, continued airworthiness and reliability targets are achieved using a
+comprehensive set of predefined scheduled maintenance tasks. The new releases
+of regulatory guidance on SHM, issued from advice and discussions on requirements
+and approaches, have been prepared for the validation of SHM systems.
+What does switching from the existing inspection programme approach to CBM mean
+from a continued airworthiness point of view? Let’s look at typical routine of structure
+inspections carried out at predetermined intervals as a function over time, flight hours
+or flight cycles.
+If we take the time-based model as an example (see figure 1), the degradation will
+increase over time. The initial period can be described as ‘good performance’ where
+Lorenz WENK Dr. Clemens BOCKENHEIMER
+the degradation rate is low, or even very low. During this period, classic visual inspec-
+Maintenance Programme Materials
+tion techniques may even fail to identify that degradation has started. It is during this
+Engineering & Processes
+period where many structural inspections feature an interval threshold to account for
+AIRBUS AIRBUS
+the good initial performance of an aircraft. However, as time progresses, degradation
+lorenz.wenk@airbus.com clemens.bockenheimer@airbus.com
+is inevitable and the acceptable condition of the structural item is questioned.
+In case the inspection finds degradation which has passed the predefined limit that
+ensures safe operation until the subsequent inspection, the items must be restored.
+The respective benchmark is named ‘restoration limit’ in the example model.
+Structural Health Monitoring (SHM) is an innovative way of
+Consequently the progressing degradation after Check #2 in our example should stay
+on-board Non-Destructive Testing (NDT) to directly assess above the operational safety limits before Check #3, when the restoration limit was not
+reached at the time of Check #2. With this, the safety margin between the safety limit
+the integrity of aircraft structures. The principle of SHM is
+and failure are maintained. The restoration limit and the repeat interval are interde-
+comparable to the human nervous system. Discrete sensors pendent and set by trading of economics.
+which form a network remain permanently mounted onto,
+or embedded into the aircraft structure, detect and diagnose
+inevitable structural damage, mechanical loads or abnormal Good
+performance
+Restoration to Restoration to conditions. The sensors are interrogated via an ‘on-board’
+acceptance level acceptance level
+or ‘off-board’ diagnostic system and information on the Restoration limit
+structural state is reported to maintenance.
+In contrast to conventional NDT, there is no need for a qualified NDT inspector to
+access the area of inspection and to perform the measurement by hand-held NDT
+probes which is in most cases costly and time consuming.
+As a result, SHM shows for selected use cases a great potential to reduce time and
+Checks performed
+cost for maintenance, to increase the aircraft availability and to realise innovative
+aircraft design for the reduction of weight.
+This example shows a classic finding rate of No Item Listed (NIL) at Check #1
+Airbus is developing SHM onto its new generation aircraft to ease structural and #2 and a ‘Degradation Finding” at Check #3. The item is then restored to
+maintenance, beyond the wider Condition-Based Maintenance (CBM), meaning near to new quality and is found NIL again at Check #4, degradation is again
+doing maintenance when the need arises (i.e. after one or more indicators show that found at Check #5, to be once again restored.
+equipment or structure is going to fail or is deteriorating).
+The evolving integration of on-board systems into the avionics’ network and
+broadband data communication capabilities are setting the scene for a step change
+that aims at bringing significant benefits to the operators.
+noitcnuf
+Operation limit
+(if function effects safety)
+Failure
+Risk of operation
+with failure
+if not detected
+at Check #3
+time
+#1 NIL #2 NIL #3 Finding #4 NIL
+Good
+performance
+System detectability limit
+Maintenance notification limit
+Operational limit
+Safety margin
+Failure
+noitcnuf
+Figure 1:
+Example of a typical classic
+scheduled inspection scenario
+showing the generic performance
+of an aircraft structure
+versus in-service life time
+#5 Finding
+DEGRADATION
+Maintenance/Operations margin
+Parameter monitoring Parameter trend Maintenance No operation
+monitoring and calculation window with failure
+of time to loss of function (planning
+& fix)
+time
+System detection Potential
+of first degradation cockpit
+message
+Maintenance
+message
+A second aspect is that restoration does not often bring the item back to its initial state Flight testing today
+(a restored Item is normally close, but not exactly the same quality of a new item).
+Airbus’ key research today is focusing on opportunities around the A350 XWB
+This conservatism however is necessary to build robust inspection programmes on the
+(Extra Wide Body) and its extensive structural use of Carbon Fibre Reinforced
+current fleet level condition monitoring approach. Inspections resulting in ‘no finding’ could
+Polymer (CFRP).
+possibly have been deferred on that aircraft, but there is however still potential for findings
+on other aircraft triggered by the variation of an individual aircraft’s operational conditions A wide range of uses for SHM is being explored by our design specialists, such as
+and occurrences. In other words, effectiveness of the inspection programme is validated by pre-load measurement in the tension bolts of the vertical tail plane attachment,
+the ‘no finding’ rate at fleet level - the current fleet level condition monitoring concept. and in-situ measurement of in-service loads in the horizontal stabilizer.
+However the most prominent and challenging system currently being developed
+Switching the global concept to CBM brings maintenance from monitoring fleet
+is one that immediately detects and assesses accidental ground handling impact
+level conditions by inspecting every aircraft of a fleet, to managing the individual
+damage to CFRP in door surround areas (see figure 3).
+aircraft airworthiness against predetermined safety and economic limits with built-in
+monitoring capabilities.
+Let’s look into the semantics of such an approach (see figure 2). The on-board system
+monitors the relevant parameter over time and as from the initial detection, a prognostic
+function provides a status input on the overall condition monitoring system for the structural
+item. When the ‘maintenance notification limit’ is reached, the airline’s Maintenance Control
+Centre (MCC) is notified by the aircraft system. Maintenance can now start planning the
+restoration slot within the ‘maintenance window’ (e.g. packaged together with other
+deferred items in a dedicated shop visit) to optimize the aircraft availability. A cockpit
+message informs the flight crew and the MCC if the degradation is about to approach an
+‘operational limit’, providing a clear status of the individual aircraft’s remaining operational
+capabilities (e.g. number of flight cycles/hours before the item needs to be restored),
+limitation of the aircraft’s specific capabilities (reduce flight level and/or reduced load), etc.
+Figure 3: In-service damage mapping for the fuselage
+of a long-range aircraft. The locations with impact
+Figure 2: damage are marked with coloured symbols.
+Example of a typical The door surround areas show a high concentration
+Condition-Based of impact damage caused during ground handling.
+Maintenance scenario
+CBM not only eliminates the repeated NIL finding inspections (and associated
+down-time) but also provides an online status of the individual aircraft’s conditions.
+This clear forecast of the fleet-wide operational capacity enables the airline operations
+and maintenance control centres to plan ahead and increase aircraft availability.
+7% 13% 7% 5% 15% 31% 22%
+SHM technology flying on Airbus aircraft today
+standard wings nose cone doors passenger door surrounds cargo door surrounds
+An example of a fairly straight forward and effective Airbus SHM application flying fuselage and rear
+today is the tail strike indication system (ATA31-28) on its long haul aircraft. sections fuselage
+Initially developed with the A340-500/600, an adapted version is also on-board the
+A380. Equipped with 2x2 redundancies (two sensors with two crack-wire lines each),
+the system provides the flight deck with a clear online indication of conditions
+to complement the pilot’s feel, during take-off manoeuvres. While the main aim is
+to enhance the overall safety, it is interesting to note that it also enabled Airbus
+designers to achieve a significant weight saving by integrating the tail strike system
+capabilities into the structure design.
+45#TSAF
+42
+45#TSAF
+52
+Structure Health Monitoring Structure Health Monitoring
+Good
+performance
+Restoration to Restoration to
+acceptance level acceptance level
+Restoration limit
+Checks performed
+noitcnuf
+Operation limit
+(if function effects safety)
+Failure
+Risk of operation
+with failure
+if not detected
+at Check #3
+time
+#1 NIL #2 NIL #3 Finding #4 NIL
+Good
+performance
+System detectability limit
+Maintenance notification limit
+Operational limit
+Safety margin
+Failure
+noitcnuf
+#5 Finding
+DEGRADATION
+Maintenance/Operations margin
+Parameter monitoring Parameter trend Maintenance No operation
+monitoring and calculation window with failure
+of time to loss of function (planning
+& fix)
+time
+System detection Potential
+of first degradation cockpit
+message
+Maintenance
+message
+Global percentage of impacts by zones on the aircraft
+Example on the A320 Family
+Acoustic-ultrasonic principle How Airbus addresses SHM technology
+The SHM system for impact damage detection and assessment of door surround Airbus’ Material and Process (M&P) domain is responsible for the development
+structure uses acoustic-ultrasonic technology. and qualification of SHM technologies. In order to provide the best technical solution
+at minimum time and cost, Airbus’ M&P department not only works in close collaboration
+Acoustic-ultrasonic systems use an array network of piezoelectric transducers acting
+with disciplines from stress and design, systems, customer support and manufacturing
+as sensors and actuators for guided ultrasonic waves. These waves interact with
+but also interacts with a world-wide network of technology suppliers, system integrators,
+structural damage such as delamination and de-bonding. Structural integrity is
+institutes, academia, airworthiness authorities and other aircraft manufacturers.
+diagnosed through analysis of changes in wave characteristics before and after the
+damaged area (see figure 4). Airbus M&P domain has developed a so called ‘SHM Toolbox’ which provides
+a complete set of technological solutions for generic applications, ready to use
+This system is under development and is being tested in two kinds of fuselage ground
+by design engineers to further enhance aircraft capabilities and performance.
+validators, as well as in-flight validators within the A350 XWB CFRP skin panel
+demonstrator of the A340 MSN001 (see figures 5 & 6), and in the surround structure As SHM is merging the worlds of materials, structure and systems, it requires a clear
+of the passenger door 1 of the A350 XWB (see figure 7). concept to ensure the success of the application. To achieve this cross-functional aim,
+teams have been formed to integrate the structural sensing technology with the
+aircraft monitoring system architecture. This approach has successfully led Airbus to
+establish a comprehensive set of key requirement families for SHM. In the course of
+the JASTAC (Japanese SHM Technologies for Aircraft Composite structures) project,
+in close cooperation with Mitsubishi, Kawasaki, Fuji Heavy Industries, Japanese
+Aerospace Exploration Agency (JAXA) and the University of Tokyo, detailed requirements
+have been validated in test campaigns expanding on well-established NDT (Non-
+Destructive Testing) and material test principles. These requirements have set the
+reference for ongoing research and technology projects like the Vertical Tail Plane
+- Next Generation (VTP-NG) rib de-bonding detection system. Furthermore, these
+requirements have also been the bases for the Aerospace Recommended Practice
+(ARP-6461) guidelines for implementation of SHM on fixed-wing aircraft.
+Principally, SHM is developed and deployed in four generations in which the SHM
+system is given step-by-step more complexity, features and responsibility, in order
+to gain confidence in this new kind of technology:
+Generation 0 For the monitoring of structural tests - already deployed in the course
+of the A380 and A350 XWB component and full-scale testing.
+Generation 1 For in-service aircraft with benefits in maintenance - has achieved
+technology readiness for selected technologies and given applications.
+Generation 2 For in-service aircraft with benefits in maintenance and weight savings
+at component level - under development.
+Generation 3 For in-service aircraft with benefits in maintenance, weight savings on
+aircraft level and intrinsic quality assessment in manufacturing and assembly - under
+development.
+Today, the emphasis is not on the development of further new SHM technologies,
+but on testing the SHM system’s robustness in representative environments to mature
+future service applications.
+Potential retrofit applications
+With the growing number of older aircraft in service, the business case for SHM retrofit applications is gaining more and more
+momentum. Such an application is typically Generation 1 and aimed at known structure hotspots, associated with significant
+down-time due to heavy access and complex repetitive inspections, as well as low finding rates. While a high finding rate due to the
+down-time for access and repair alleviates the business case, it is even more worthwhile if the repeat inspection is removed from
+the maintenance schedule.
+The extensive in-service history and testing of ageing structures in the frame of the current ‘long range’ and ‘single aisle’
+Extended Service Goal (ESG) campaigns provide comprehensive data for airframe designers studying potential SHM applications.
+With this detailed knowledge, the most appropriate technology can be selected from the Airbus ‘SHM Toolbox’ and adapted to
+the specific application. Retrofit applications are planned to have a dedicated focus on monitoring only age-related degradation
+parameters like fatigue, corrosion and delamination. The target SHM technology is lightweight, easy to install and simple to use. 45#TSAF
+62
+45#TSAF
+72
+Structure Health Monitoring Structure Health Monitoring
+Figure 4: Acoustic-ulltrasonic system principle
+Sensor Damage Guided
+ultrasonic waves
+Figures 5 & 6: SHM impact damage detection system sensor network installed
+in the A350 XWB CFRP composite panel demonstrator of the A340 MSN001.
+Figure 7: Digital Mock-Up (DMU) display of the
+acoustic-ultrasonic sensor network arrangement
+in the passenger door 1 of the A350 XWB MSN001
+The Comparative
+The Aerospace Recommended Practice (ARP-6461) guidelines for implementation
+Vacuum Method (CVMTM)
+of SHM on fixed-wing aircraft have been published by the Society of Automotive
+CVMTM is an excellent example for ready Engineers (SAE) G-11SHM committee in November 2013. Airbus is a key initiator
+to use Generation 1 SHM technology for and driver of this committee consisting of the world’s leading aircraft manufacturers
+monitoring crack initiation and growth (Airbus, Boeing, Bombardier and Embraer), airlines, system integrators and airworthi-
+against pre-defined limits. ness authorities (EASA and FAA).
+The principle behind CVMTM is uniquely The ARP address es gaps in industry-consensus approaches for SHM applications
+simple (see figure 8) and allows crack on commercial aircraft. It represents a significant step forward to reducing the product
+inspection in minutes at base or infield. development risk ena bling SHM technologies to buy their way onto commercial
+CVMTM is based on a permanently platforms. The document and further details are available on SAE international’s
+bonded sensor onto the surface of a website at http://standards.sae.org/arp6461.
+component where damage could occur.
+The sensor contains a manifold of
+alternating fine ‘vacuum galleries’ and
+‘air galleries’ that are open to the surface.
+In case the area under the surface needs
+to be inspected for cracks, vacuum is
+applied to the ‘vacuum galleries’ via
+a hand-held measurement device, the
+‘air galleries’ remain at ambient pressure Regulatory framework – setting new airworthiness standards
+and the pressure difference between
+Today, the individual operator’s maintenance programme is developed from a number of source documents, including the
+‘vacuum galleries’ and ‘air galleries’ is
+manufacturer’s Maintenance Review Board (MRB) report, Certification Maintenance Requirements (CMR), Airworthiness Limitations
+recorded. If no flaw is present, the
+Items (ALI) typically summarized in the Maintenance Planning Document (MPD) plus unique national regulatory requirements
+pressure difference will remain at a stable crack is automatically detected. The spacing between the ‘vacuum
+and others.
+level. However, if a crack develops under Sensors are widely flexible in design and galleries’ and ‘air galleries’ determines
+the sensor, air will flow through the thus adaptable to a wide range of target the minimum detectable damage size. Since the late nineties, Airbus has been actively working in various industry committees to build a robust certification path for
+passage created from the ‘air galleries’ applications. They may either take the CVMTM for crack detection has been bringing SHM from the laboratories into service. In April 2009 the International Maintenance Review Board Policy Board (IMRBPB)
+to the ‘vacuum galleries’, the pressure form of self-adhesive polymer ‘pads’ developed between Airbus and the accepted the revision of maintenance guidelines for the creation of aircraft scheduled maintenance programmes contained in the
+difference drops significantly and the or may form part of the test component. supplier SMS to technology readiness. Airlines For America (A4A)* ATA MSG-3 document to cater for use of SHM technology instead of visual and NDT inspections.
+Evolving over the generations, built-in self-test capabilities have enabled manufacturers to design a variety of systems that render a
+Smart structures and materials for the future growing portion of scheduled maintenance tasks redundant. Namely, engine monitoring and buzz words like Built-In Test Equipment
+(BITE) are leading examples of the trend towards further integration of the aircraft systems’ architecture. In the future, we can think
+The research focuses on multi-functional smart structures and materials with built-in self-sensing, optimized weight and lower costs
+that ‘aircraft health monitoring’ will become one of its core elements.
+for global structural CBM. For example, Airbus is developing optical fibre sensors which are capable of detecting, localising and
+assessing impact damage, as well as monitoring structural loads. These small diameter optical fibre sensors (50 µm to 125 µm) are Nose to tail SHM capabilities addressing the full envelope of structure conditions are essential to establish aircraft health monitoring
+mounted or embedded into the CFRP structure in the course of the manufacturing process. In addition, the same optical fibres are as an enabler for ultimately switching from scheduled maintenance programmes to Condition-Based Maintenance (CBM).
+developed to be used for transferring system’s data instead of using heavy conventional data cabling which in turn leads to massive
+*formerly Air Transport Association (ATA) of America
+weight savings.
+Lay-up
+Airbus’ future design concepts do not
+limit the SHM function to monitoring
+Optical fibre
+structure conditions during the service
+network
+life of the aircraft. SHM technology
+by means of embedded optical fibre
+sensors, for instance, is developed in the Curing Temperature, Operation
+flow and/or cure
+course of JASTAC project (see section monitoring Usage and health
+monitoring
+above) to become an integral aspect of
+life-cycle monitoring of CFRP structures,
+covering lay-up of the part, curing, Life-cycle
+Non-uniform
+cooling and demoulding, assembly and temperature monitoring Deformation
+operation (see figure 9). Throughout the Damage
+manufacturing and assembly of CFRP
+Cooling and demoulding Assembly
+parts, SHM provides direct access to
+the physical characteristics of the parts Residual strain Strain monitoring monitoring
+(e.g. temperature and stress field during
+cure, degree of cure, residual stress
+build-up during assembly) enabling
+an intrinsic quality control together Distortion Joints
+with further weight optimized design.
+45#TSAF
+53
+CONCLUSION
+In the past decade, aeronautical Structural Health Monitoring (SHM) has moved from extensive research and
+lab-testing, to the definition of a comprehensive application set-up, now ready for use. Airbus’ current focus
+is on the maturation of selected key SHM technologies and on the development of multi-functional smart
+structures with built-in self-sensing, optimized weight materials.
+SHM is now at the doorstep of retrofit applications ready to monitor structural hotspots on the ageing aircraft
+in service today. The main benefit for this retro-application is increased aircraft availability and further gained
+service experience. Furthermore, SHM technology will be a vital feature on Airbus’ future component design.
+By fully integrating SHM into the aircraft’s monitoring architecture, it will bring significant weight savings and
+overall further increased aircraft availability. In addition, SHM will significantly reduce the repeated maintenance
+tasks which often lead to No Item Listed (NIL).
+Structural Health Monitoring is like having a permanent on-board doctor to detect degradation as-and-when it
+occurs, assess its impact, then treat it in a timely manner. The result is a healthy aircraft with enhanced operability:
+lighter, safer and easier to maintain.
+45#TSAF
+82
+45#TSAF
+92
+Structure Health Monitoring Structure Health Monitoring
+Figure 8: Principle set-up of CVMTM technology for crack detection, comprising
+a sensor which is bonded to the aircraft structure, a hand-held measurement device
+and a connector to which the sensing device and the sensor are connected.
+Figure 9: Life-cycle monitoring of a CFRP part by means of embedded optical fibre sensors,
+covering lay-up, curing, cooling and demoulding, assembly and operation.
+161-351
+)3102(
+84
+A
+traP
+:setisopmoC
+,.IA .te
+adekaT
+ouboN
+Test Point Plug (TPP) Sensor
+• Pneumatic connections
+• ID data lead
+Test Point Socket (TPS) xxxxxx
+• Pneumatic connections
+x x x x x x x x x x x x • ID chip re v a a d c o u u u t m P • M G r 2 a 0 p 0 hic display
+• Electronics
+• Transducers
+• Vacuum reservoir
+& pumps
+PC connection
+• USB PC/Laptop
+• Database Main test (with crack)
+• Upload/download utility
+Event reporting
+45#TSAF
+13
+Importance of reporting
+In-service event data
+In order to continually monitor the safety of its fleet Airbus needs to know what events
+occur during operations. While every conceivable condition is either flight tested or
+events from the field
+replicated during certification activities (read telemetry article page 4), perfectly accurate
+predictions of events that may arise after years of service are harder to define.
+The exhaustive reporting of events from the field and the quality of such data are
+important steps to get a global understanding of how our aircraft behave and respond
+Continuous improvement of Airbus aircraft’s safety
+to conditions that are met during daily operations.
+Your input allows Airbus to perform its duty
+in terms of continued airworthiness
+and safety enhancement.
+Reports of occurrences are systematically analysed within Airbus, and good quality,
+timely data is required to enable us to perform efficient and effective analysis of the
+events. This data also helps Airbus develop an understanding of developing trends
+in the fleet which may have an impact on the safe operation of the fleet - this is one
+Continually enhancing our products’ safety level
+of the cornerstones for the ongoing activity of safety enhancement.
+is more than a corporate objective for Airbus;
+It is not just information from the field that provides us with the global view of safety
+right from the beginning, a safety culture
+within our fleet; we consolidate the reports from our operators by capturing safety
+has been instilled into our employees related data coming from internal channels such as the production, flight test and
+engineering domains.
+and has become part of their daily lives.
+Why is reporting important?
+Further to a non-Airbus aircraft accident, the investigating authorities
+identified that the aircraft had been flying with an identified fault for a number
+of flight cycles before the accident; this fault had not been reported.
+The investigating board concluded that failure of reporting limited the
+effectiveness of existing safety programmes, meaning that it could result
+in an inaccurate assessment of risks by both airlines and aircraft
+manufacturers, which limits their ability to manage the risks.
+Further to this, the investigating authority issued recommendations
+on the need to make operators aware of the importance of reporting.
+As an aircraft manufacturer, Airbus François CARMIGNANI (left)
+is continuously looking at enhancing Head of Product Safety Enhancement Analysis
+global fleet safety of our aircraft. AIRBUS
+We do this not just by applying the francois.carmignani@airbus.com
+continued airworthiness obligations
+(EASA Part 21.3 - ORO.GEN.160 Patrice CHASSARD (middle)
+of EU Regulation 965/2012, EASA Continued Airworthiness Process Manager
+AMC 20-8), but looking beyond, AIRBUS
+and analysing events that may patrice.chassard@airbus.com
+impact the continued safe operation
+Patrick GRAVE (right)
+of the aircraft.
+Customer Services Expert
+AIRBUS
+patrick.grave@airbus.com
+45#TSAF
+03
+45#TSAF
+23
+45#TSAF
+33
+Event reporting Event reporting
+Where does Airbus get input from?
+Airbus can only review events that have been reported, so the more data collected, the
+better the analysis. Our main source of data comes from the fleet of nearly 8,000 Airbus
+aircraft currently in service.
+The new European operational regulation (ORO.GEN.160 of EU Regulation 965/2012),
+obliges European operators to report in-service events to manufacturers and national
+authorities in line with identified regulatory criteria (similar to EASA AMC 20-8 guidance
+material).
+In addition to European operational regulation, Airbus encourages operators to report
+in-service events that are:
+• Identified by EASA AMC 20-8 guidance material,
+• Defined by your own airworthiness authority
+• Considered as added value for the safety enhancement level of Airbus’ fleet.
+Events should be reported via existing communication channels with Airbus’ Customer
+Services, Engineering department, Field Service Managers (FSM), and/or Customer Support
+Directors (CSD).
+These criteria cover events that fall within EASA Part 21 requirements.
+This will enable us to analyse, review and introduce actions to enhance the continued
+safety of our fleet.
+Repair requests or reports made outside of these criteria are not considered as answering
+the formal reporting process requested by European regulations.
+If in doubt about whether an event
+How are these reports processed by Airbus?
+is important, the best action is always
+All events reported to Airbus are collected and analysed in order to address the
+to report the information. basic continued airworthiness obligation, and also to look beyond the regulations.
+Any events that are identified as having a potential impact on fleet airworthiness are
+An event you may think of as an isolated analysed by the Continued Airworthiness activity within Airbus. Following technical
+investigations and risk analysis, occurrences presenting potentially unsafe conditions
+Each report,
+case may have a bigger impact are formally presented to the EASA during regular face-to-face Airworthiness Review
+Meetings (ARM). Events that are identified as safety related, are also internally
+even if it seems
+on a global fleet level. investigated and assessed, not just to ensure that the continued airworthiness safety
+objectives are still met, but also to proactively detect areas to be improved.
+similar to the
+It is important to note that such activities are not only based on the investigation
+previous one, of individual reported events but is also on the review of the related trends.
+Each report, even if it seems similar to the previous one, remains important.
+remains
+Based on these reviews, specific action plans can be developed in order to contain,
+correct and prevent repetition of safety issues in a timely, efficient and effective manner
+important.
+and also to capture lessons learnt for integration into future developments.
+Who performs the safety reviews?
+On top of the continued airworthiness obligation, an internal process ensures
+that the safety related events are reviewed cross-domain and cross-functionality.
+Panels of experts in the domains of engineering, flight operations and training, flight
+testing, accidents-major incidents, production, maintenance and security meet
+to consider whether the safety related event impacts their domain.
+There is also a regular collegial discussion, where the experts from the panels
+share their findings and ensure that all disciplines have been taken into account.
+Events
+Comprehensive
+and timely • EASA AMC 20-8 guidelines
+reporting • Criteria defined by your own local authorities
+with accurate
+• Considered as added value for safety enhancement
+data/info
+• Customer Services engineering
+via existing
+and Flight Operations department
+customer
+• Field Service Manager (FSM)
+channels
+• Customer Support Director (CSD)
+EASA Continued Airworthiness review panel
+Maintenance panel Production panel
+Engineering panel Security panel
+Training & Flight Operational panel
+Accident-Major incident investigation panel
+Action plans
+COLLEGIAL PANEL
+Lessons learnt
+45#TSAF
+43
+45#TSAF
+53
+Event reporting Event reporting
+Example of event reporting and corrective procedure
+A380 - Waste water service panel door
+FR86
+FR91
+In order to fully understand and classify
+the issue, the event reporting originator
+Z160
+needs to collect all relevant information
+Issue (thanks to in-service event reporting)
+• Several service panels found damaged/missing on in-service • DFDR (Digital Flight Data Recording)
+aircraft between 2009 and 2011 • PFR (Post Flight Report)
+• Door does not latch correctly
+• Trouble-shooting data
+Interim management
+• Log book
+• Inspection of the waste water servicing panel per ISB 52-8016
+Rev. 00 dated 24 Feb 2010 • Inspection reports
+• In case the pushbutton is not flush (level) with the panel • Photos (highest possible quality
+before departure, it is recommended to:
+and from different angles)
+- apply high-speed tape on the door surrounding, or
+- remove the door and dispatch the aircraft under MCDL 52-08 • Maintenance action(s) taken
+Corrective actions • Component removal(s)
+• Design change launched of the service door: • Pilot reports
+- introduction of more robust latches
+• Any particular relevant information
+- addition of a retaining strut
+• Modifications Service Bulletin A380-52-8017 available
+CONCLUSION
+Reporting events directly to Airbus enhances fleet safety and contributes to safer aircraft operations
+within the air transport system.
+Improving event reports is a key factor, and operators and MRO (Maintenance, Repair and Overhaul)
+organisations are encouraged to report events to Airbus, even if the event is considered irrelevant.
+It is important to remember that the timeliness and quality of the data is paramount, in allowing
+an effective and efficient investigation.
+Airbus is not requesting the implementation of extra processes, but as a guideline, we recommend
+using the format already in place with your own airworthiness authority (e.g. by filling in
+an Air Safety Report, Major Occurrence Report, Safety Data Report, etc.) and to use existing
+communication channels with Airbus.
+45#TSAF
+63
+45#TSAF
+73
+A320 Family noise reduction
+noise
+A320 Family
+Operators’ most appreciated single aisle
+reduction aircraft, is a step-ahead in noise reduction.
+Noise certification standards evolution
+ICAO (International Civil Aviation Organization) Annex 16 defines an evolving noise
+certification standard to ensure that aircraft manufacturers implement the latest noise
+The best gets quieter
+reduction technology available. These increasingly stringent standards are the result
+of a process that guarantees environmental benefits, while remaining technically
+feasible and economically reasonable.
+An industry vision of how to contribute to sustainable growth with respect to airport
+noise is to allow for traffic growth by continuous efforts in reducing perceived aircraft
+Article by Noise from aircraft operations impacting
+operations noise that deliver at least constant or decreasing noise exposure footprints.
+Pierre LEMPEREUR
+communities in the vicinity of airports
+To progress towards this objective, Airbus leads the industry with each new generation
+Acoustics Engineer
+AIRBUS is recognized as the major source of annoyance of aircraft achieving dramatically aggressive noise reduction targets.
+pierre.lempereur@airbus.com Furthermore, Airbus operators expect that during its production life-cycle, the noise
+from the air transport industry.
+impact of an aircraft family will be reduced. This is a key contributor to the programme’s
+Emmanuelle AYGAT longevity as it mitigates environmental impact and maximizes airport community
+Environmental Impact Marketing Manager Annoyance not only results from perceived noise levels, sound quality and the acceptance and subsequently, its economic efficiency.
+AIRBUS
+number of “events” (aircraft take-offs, landings, etc.) occurring in a period of time,
+This is particularly relevant to the short/medium range category of aircraft like the
+emmanuelle.aygat@airbus.com
+it also depends on social and psychological factors.
+A320 Family that supports the majority of commercial operations from large airports
+In the regions of the world such as Europe, where aviation has been a factor which are engaged in rigorous noise impact management. More than 1,500 airports
+of economic development for a long time, noise impact is an important obstacle on all continents have A320 Family operations and an A320 takes-off or lands every
+to airport traffic growth. Creating new runways is a subject of huge public debate two seconds.
+in certain regions and existing ones are subject to noise restrictions and local
+Approximately 6,000 A320 Family aircraft are in service today and the current backlog
+regulations of increasing severity.
+is 4,240 aircraft. This very successful family of aircraft is bought by almost 200
+customers, a number 47% higher than the competition.
+BdNPE
+Evolution of ICAO Annex 16 noise standards
+and correlative improvements of Airbus aircraft
+Chapter CFM56-5A CFM56-58 Nacelle Sharklets A320neo
+V2500-A3 V2500-A5 improvements (prediction)
+2
+25
+20
+15 Chapter
+3
+10
+5 Chapter
+4
+0
+Chapter
+14
+-5
+-10
+-15
+-20
+1970 1975 1980 1985 1990 1995 2000 2005 2010 2015 2020
+• A300/A310 Family • A320 Family • A330/A340 Family • A380
+Balanced approach to airport noise mitigation
+ICAO resolution A33-7 - voted in October 2001
+ICAO
+International Civil Aviation Organization
+CAEP
+Noise Land use
+Committee on Aviation Environmental Protection
+reduction planning &
+at source management
+Reducing
+air
+Aircraft and engine Airports and national
+transport
+manufacturers & local authorities
+noise
+impact
+AAiirrccrraafftt
+Operational
+ooppeerraattiinngg
+procedures
+rreessttrriiccttiioonnss
+Inter-
+dependencies
+Noise emission
+Operators and
+Fuel economy
+Air Navigation
+Service Providers
+45#TSAF
+83
+45#TSAF
+93
+A320 Family noise reduction A320 Family noise reduction
+A320 propulsion system noise reduction
+When it was designed in the early 1980’s, the A320 incorporated the latest technolo-
+gies in the areas of aerodynamics, structures, systems and high bypass ratio engines.
+It achieved a disruptive noise improvement relative to similar aircraft in service at that
+Ronald Regan
+time. Its noise footprint for a given perceived noise level was about five times less than
+Washington National
+the majority of the in-service fleet. Airport
+Certification in compliance to ICAO Annex 16 Chapter 3 was achieved by the A320
+in 1988 with sufficient margins to be able to comply with Chapter 4 when this new
+standard was enforced in 2006.
+Research and Technology (R&T) work undertaken by Airbus and engine manufacturers
+for contemporary aircraft programmes like the A380 and A350 XWB (Extra Wide Body),
+generated spin-off applications with significant noise reduction and low impact design
+8 miles
+changes to the A320 Family. Actually, some of these new technologies and design 13 kms
+improvements were subsequently implemented in the A320 Family production lines.
+The main steps that resulted in significant improvements on noise levels were:
+• New engines technologies:
+- CFM56-5B engine with new fan blades design, larger fan case and improved
+thermodynamic cycle
+- V2500A5 engines with new fan blades design, improved thermodynamic cycle
+and additional acoustic treatment in the primary nozzle
+• Improved acoustic treatment in the forward CFM56 engine fan case
+and extension of nacelle acoustic treatment in the bypass duct
+• “Chevron” type design of the primary nozzle exhaust (V-shaped form).
+Overall these modifications have reduced the certified noise levels of all A320 Family Footprint 75 dBA take-off
+models by more than three EPNdB (Effective Perceived Noise in Decibels) in terms
+of cumulative margin compared with ICAO Annex16 noise standards. IA320-200 I Competition’s footprint in same category
+The A320 reduced
+the noise footprint by five.
+Chevron nozzle New fan blades design
+ICAO recognizes that aviation industry noise reduction is dependent on a balanced
+three-pillar approach to achieve airport noise mitigation:
+1) Noise reduction at source by design and technology improvement,
+2) Operations according to noise abatement procedures,
+3) Noise management: land use planning and understanding annoyance factors.
+The success of these three pillars in effectively reducing the noise impact, is expected
+to minimize the need to apply operating restrictions that would be detrimental to the
+efficiency of air transport.
+Noise metrics
+EPNdB: Effective Perceived Noise level in dB is the noise metric used in certification accounting
+for annoyance factors related to spectral content, tonal emergence and flyover duration.
+dBAmax: abbreviated as dBA is the maximum A-weighted overall sound pressure level
+measured during an operational event (take-off or landing). It is widely used by airports’
+communities for assessing the peak noise level associated to an aircraft movement.
+45#TSAF
+04
+45#TSAF
+14
+A320neo
+“Sharklet” wing tip devices
+In addition to sharklets and air flow deflectors, the new engine options (neo) for the
+More recently (in 2012), the “sharklet” wing tip modification, primarily designed to
+A320neo offer new and improved PW1100 and LEAP1A engines, with very high
+improve high speed aerodynamic efficiency and consequently fuel consumption, also
+bypass ratios (between ten-to-one and twelve-to-one), with fan diameters up to 81
+provides enhanced low speed climb rate capability that results in take-off/fly-over noise
+inches, and using the latest propulsion system acoustic design and technologies.
+reduction by up to one EPNdB. This modification has achieved considerable commercial
+success; today more than 430 equipped aircraft are in service with 74 operators and The nacelles incorporate acoustic technology successfully proven with the A380 and
+retrofit campaigns are ongoing. A350 XWB such as a “zero splice” air inlet acoustic liner, significantly suppressing fan
+noise over the whole range of engine operating conditions during approach, take-off
+and climb.
+Air flow deflectors
+It is expected that the certified noise levels will be reduced, on average by four EPNdB
+The R&T work aiming at tackling aerodynamic noise sources previously masked by at take-off and two EPNdB at approach (compared with the current delivery standard).
+engine noise, has led to the introduction of underwing ‘air flow deflectors’. This would give a cumulative margin of 15 EPNdB with reference to Chapter 4 and
+These devices were implemented in production in June of 2014. They are now also subsequently would comply with Chapter 14 standards to be implemented by 31st
+available as a retrofit modification. December 2017.
+When positioned just ahead of underwing cavities associated with the fuel over-pressure The A320neo is already a big commercial success with 2,645 orders from 50
+protection system, these devices prevent the cavities from generating any tonal noise customers, representing a 57% market share. Airlines and leasing companies from
+emerging from other airframe and engine noise sources. all over the world have chosen this aircraft for its reduced noise levels, as well as
+for its 15% lower fuel burn.
+This is particularly noticeable when engines are on idle during the descent phases,
+with speeds superior of 180 knots, and typically 12 to 50 kilometres from landing.
+Typically these deflectors reduce noise by 9 to 11 dBA. The air flow deflector has little Cumulative noise margins compared to
+impact on weight (< 150 grams) and no impact on aero efficiency. ICAO Annex 16 - Chapter 14 noise standards
+A320 current engine option (ceo) and predicted margins for the A320 new engine option (neo)
+Reduced noise with the neo compared to the current A320 Family (excluding A318 aircraft)
+• Average of -4 EPNdB at take-off
+• Average of -2 EPNdB during approach
+CONCLUSION
+Initially designed to reduce disruptive noise compared to the previous
+generation of single aisle aircraft, the A320 Family has continuously
+improved performance and become quieter throughout its production life.
+New noise reduction designs and technologies such as sharklets and air
+flow deflectors are also available as upgrades allowing aircraft to stay ahead
+of increasingly repressive noise certification requirements.
+This is particularly true for the latest configuration of the family, the A320neo.
+It is expected that this aircraft will allow operators to minimize their airport
+community noise impact, and optimize traffic growth in a more sustainable
+way.
+These noise reductions in parallel with the improved performance
+of the A320 Family contribute to the success of this aircraft with airlines
+and leasing companies around the world.
+BdNPE
+0
+ceo neo ceo neo ceo neo
+-2
+Deflector efficiency - far field noise tests
+-4
+-6
+80 -8
+75
+-10
+70
+-12
+65
+-14
+60
+55 -16
+50 -18
+45
+40
+100
+Air flow deflectors for the A320 Family - test data
+)ZH/Bd(
+ytisneD
+lartcepS
+rewoP
+Far field average sound across 40-140° angle of emission - take-off speed 240 Knots
+With deflector
+Distance (km)
+Aircraft noise significantly reduced in the far approach phase
+)teef(
+thgieH
+)Bd(
+XAM
+ABd
+A320 Family noise reduction A320 Family noise reduction
+A320 current engine option
+with three splices
+Sharklets
+A320neo (new engine option)
+with zero splices
+Underwing cavity fitted
+with air flow deflector
+Sharklets with deflector
+Wing tip fences
+with deflector
+Wing tip fences
+without deflector
+200 300 400 500 600 700 800 900 1000
+Frequency (Hz)
+Wing tip fences are baseline configuration for A320 Family
+Similar results are obtained at 220, 200 and 180 knots
+Noise simulated on real flight trajectory collected during a flight test in Toulouse (France) airport in the frame of an R&T project
+Impact of air flow deflectors on a continuous descent at -2° slope
+9000
+8000
+Without deflector
+7000
+6000 240 knots 9 dB
+5 dB
+5000
+4000
+180 knots
+3000
+2000
+1000
+0
+-70 -60 -50 -40 -30 -20 -10 0
+FAST
+from the PAST
+There wouldn’t be any future
+without the experience of the past.
+45#TSAF
+24
+egatireH
+etaroproC
+SDAE
+fo
+ysetruoc
+sotohP
+45#TSAF
+34
+We’ve got it covered
+Around the clock, around the world,
+Airbus has more than 240 field representatives
+Telemetry was used well before based in over 110 cities
+the opening of Airbus’ Telemetry
+Centre in 1987. Here are some
+images of the telemetry station at
+Manching airport (south Germany)
+used for the VJ 101 and later
+programmes during the mid-sixties.
+(see telemetry article page 4)
+WORLDWIDE TECHNICAL, MATERIAL & LOGISTICS TRAINING CENTRES
+Tel: +33 (0)5 6719 1980 Airbus Technical AOG Centre (AIRTAC) Airbus Training Centre
+Fax: +33 (0)5 6193 1818 Tel: +33 (0)5 6193 3400 Toulouse, France
+Fax:+33 (0)5 6193 3500 Tel: +33 (0)5 6193 3333
+USA/CANADA
+airtac@airbus.com Fax: +33 (0)5 6193 2094
+Tel: +1 703 834 3484
+Spares AOG/Work Stoppage Airbus Maintenance
+Fax: +1 703 834 3464
+• Outside the Americas: Training Centre
+CHINA Tel: +49 (0)40 5076 4001 Hamburg, Germany
+Fax: +49 (0)40 5076 4011 Tel: +49 (0)40 7438 8288
+Tel: +86 10 8048 6161 Ext. 5020
+aog.spares@airbus.com Fax: +49 (0)40 7438 8588
+Fax: +86 10 8048 6162
+• In the Americas:
+Airbus Training Centre Americas
+FIELD SERVICE SUPPORT Tel: +1 70 3729 9000
+Miami, Florida - U.S.A.
+ADMINISTRATION Fax: +1 70 3729 4373
+Tel: +1 305 871 3655
+aog.na@airbus.com
+Tel: +33 (0)5 6719 0413
+Fax: +1 305 871 4649
+Fax: +33 (0)5 6193 4964
+Spares In-Flight orders outside the Americas:
+Tel: +49 (0)40 5076 4002
+Fax: +49 (0)40 5076 4012
+ifd.spares@airbus.com
+Spares related HMV issues outside the Americas:
+Tel: +49 (0)40 5076 4003
+Fax: +49 (0)40 5076 4013
+hmv.spares@airbus.com
+Spares RTN/USR orders in the Americas:
+Please contact your dedicated customer spares
+account representative csr.na@airbus.com
+We don’t know where
+you’ll be going in fi ve
+years’ time, but we know
+how you’ll get there.
+Our numbers will
+convince you.
+From 250 to over 500 seats, Airbus produces the world’s
+most modern and comprehensive widebody product line.
+Three families offering unbeatable economics on everything
+from short regional routes to the world’s longest
+commercial fl ights.
+More than 100 airlines worldwide continue to benefi t from the
+A330’s unrivalled low operating costs. The A350 XWB set a
+new standard of comfort and effi ciency in its class, with 25%
+lower fuel consumption compared to existing aircraft.
+The A380 allows airlines to increase their contribution to
+profi t by up to 50% per fl ight. The A330, A350 and A380
+offer unbeatable comfort levels, including more personal
+space with minimum 18-inch wide seats as standard in
+economy for full service long haul.
+Our aircraft have the unique benefi t of full technical and
+operational commonality. Reducing costs across the board.
+No wonder Airbus is a market leader in widebody passenger
+aircraft. A330 A350 A380.
+Airbus Widebody Family, our numbers will convince you.
+.skramedart
+deretsiger
+era
+seman
+tcudorp
+eht
+dna
+ogol
+sti
+,subriA
+.devreser
+sthgir
+llA
+.4102
+,SUBRIA
+©
+Airbus Widebody Family
+airbus.com
+11841_AIR_WdBdyFmly_OurNumbers_FastMag_297x210_1.0.indd 1 01/07/2014 16:50

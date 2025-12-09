@@ -1,0 +1,186 @@
+Advisory
+U.S. Department
+of Transportation
+Federal Aviation Circular
+Administration
+Subject: Repair Station Guidance for Date: 11/28/12 AC No: 145-11A
+Compliance with the Safety Initiated by: AFS-300 Change:
+Agreement between the United
+States and the European Union
+1. PURPOSE. This advisory circular (AC) provides information and guidance regarding a
+repair station located in the United States obtaining, renewing, or amending a European Union
+Aviation Safety Agency (EASA) Part-145 approval and an Approved Maintenance Organization
+(AMO) located within the European Union (EU) obtaining, renewing, or amending a Federal
+Aviation Administration (FAA) Repair Station Certificate under the provisions of the U.S./EU
+aviation safety agreement (the Agreement). The contents of this document do not have the force
+and effect of law and are not meant to bind the public in any way, and the document is intended
+only to provide information to the public regarding existing requirements under the law or
+agency policies.
+2. AUDIENCE. This AC is applicable for AMOs located in a country listed in the Agreement,
+Annex 2, Appendix 2 who want FAA repair station privileges to maintain U.S.-registered aircraft
+and associated parts. This AC is also applicable for repair stations located within the United
+States who want EASA Part-145 privileges to maintain European-registered aircraft and
+associated parts.
+3. WHERE YOU CAN FIND THIS AC. You can find this AC on the FAA’s website at
+https://www.faa.gov/regulations_policies/advisory_circulars and the Dynamic Regulatory
+System (DRS) at https://drs.faa.gov.
+4. CANCELLATION. This AC cancels AC 145-11, Repair Station Guidance for Compliance
+with the Safety Agreement between the United States and European Union, dated March 9, 2012.
+5. RELATED REGULATIONS.
+a. FAA Regulations. Title 14 of the Code of Federal Regulations (14 CFR) parts 43, 145,
+and 187.
+b. EASA Regulations. Regulation (EU) 2018/1139 of the European Parliament and of the
+Council of 4 July 2018, Commission Regulation (EU) No 1321/2014, Annex II (hereafter
+referred to as EASA Part-145), and associated EASA Acceptable Means of Compliance (AMC)
+and Guidance Material.
+6. ACRONYMS AND DEFINITIONS. Appendix 1 of this AC contains relevant acronyms
+and definitions.
+11/28/12 AC 145-11A
+7. RELATED READING MATERIAL (current editions).
+a. ACs. You can obtain current editions of the following documents from the FAA website
+at https://www.faa.gov/regulations_policies/advisory_circulars/.
+• AC 00-44, Status of Federal Aviation Regulations.
+• AC 00-58, Voluntary Disclosure Reporting Program.
+• AC 20-62, Eligibility, Quality, and Identification of Aeronautical Replacement Parts.
+• AC 21-29, Detecting and Reporting Suspected Unapproved Parts.
+• AC 145-10, Repair Station Training Program.
+• AC 187-1, Flight Standards Service Schedule of Charges Outside the United States.
+b. FAA Orders. You can obtain current editions of the following documents from the
+MyFAA employee website at https://employees.faa.gov/tools_resources/orders_notices/.
+Inspectors and operators can obtain these documents through DRS at https://drs.faa.gov. The
+public can access these documents at https://www.faa.gov/regulations_policies/orders_notices/.
+• FAA Order 8130.2, Airworthiness Certification of Aircraft.
+• FAA Order 8130.21, Procedures for Completion and Use of the Authorized Release
+Certificate, FAA Form 8130-3, Airworthiness Approval Tag.
+• FAA Order 8900.1, Flight Standards Information Management System.
+c. EASA Documents. You can obtain all related EASA documents on the EASA website at
+https://www.easa.europa.eu/document-library.
+d. Joint Documents. You can obtain the following documents from the FAA website at
+https://www.faa.gov/aircraft/repair/.
+• Agreement Between the United States of America and the European Community on
+Cooperation in the Regulation of Civil Aviation Safety (the Agreement).
+• Maintenance Annex Guidance Between the Federal Aviation Administration of the
+United States of America and the European Union Aviation Safety Agency of the
+European Union (the MAG).
+8. BACKGROUND.
+a. U.S./EU Aviation Safety Agreement.
+(1) The Agreement was originally signed on June 30, 2008. The Agreement’s official
+title is “Agreement Between the United States of America and the European Community on
+Cooperation in the Regulation of Civil Aviation Safety.”
+(2) The Agreement allows the FAA and EASA to rely on each other’s surveillance
+systems, minimize the duplication of efforts, increase efficiency, and conserve resources to the
+greatest extent possible. As stated in Article 5 of the Agreement, areas of reciprocal acceptance
+and technical differences are specified in the Annexes; Annex 1 pertains to airworthiness and
+environmental certification, while Annex 2 pertains to maintenance.
+Par 7 Page 2
+11/28/12 AC 145-11A
+(3) Annex 2 of the Agreement contains a mandate in paragraph 3.2 for the Joint
+Maintenance Coordination Board (JMCB) to develop, approve, and revise detailed guidance for
+processes covered by the Annex.
+(4) The detailed guidance described in Annex 2 is contained in “Maintenance Annex
+Guidance Between the Federal Aviation Administration of the United States of America and the
+European Union Aviation Safety Agency of the European Union,” which is commonly referred
+to as the MAG.
+b. Contents of the MAG. The MAG contains five sections (A, B, C, D, and E) that address
+the processes and procedures agreed to between EASA and the FAA. The sections are as
+follows:
+(1) Section A—Authority Interaction. This section applies to the FAA, EASA, and
+aviation authorities (AA). It provides the coordination and communication process for the
+regulatory agencies. It also includes FAA sampling and independent inspections as well as blank
+forms for the coordination process.
+(2) Section B—Certification for U.S.-Based Repair Stations. This section identifies
+the requirements and processes for repair stations located in the United States to follow for
+obtaining an EASA approval.
+(3) Section C—Certification Process for EU-Based Approved Maintenance
+Organizations. This section identifies the requirements and processes for an EU-based AMO to
+follow for obtaining FAA certification and renewal. Additionally, it contains the responsibilities
+of both the FAA aviation safety inspector (ASI) and the AA.
+(4) Section D—Entry into Force and Termination.
+(5) Section E—Authority. This section identifies the signatory approvals by the FAA
+and EASA.
+9. THE AGREEMENT, ANNEX 2, MAINTENANCE.
+a. General Information. Persons in the United States and EU maintaining both U.S. and
+EU aeronautical products should be familiar with the Agreement and the MAG.
+b. Special Conditions. Particular attention should be focused on the differences between
+14 CFR part 145 and EASA Part-145 which are identified as “special conditions” in Annex 2,
+Appendix 1 of the Agreement. An FAA-certificated repair station (CRS) located in the United
+States, when in compliance with EASA-published maintenance special conditions, may apply for
+EASA approval. Likewise, an EU-based AMO, when in compliance with published FAA
+maintenance special conditions, may apply for FAA approval.
+c. Unimpeded Access. For the purposes of surveillance and inspections, the FAA and
+EASA (and AAs) will help each other gain unimpeded access to repair stations/AMOs subject to
+their respective jurisdictions. It is incumbent upon you to provide unimpeded access to EASA
+and the FAA to all work areas having civil aviation application. If you provide maintenance for
+Par 8 Page 3
+11/28/12 AC 145-11A
+both civil and military products, you should ensure, where possible, that there is clear delineation
+between work areas with civil and military applications within the repair station/AMO.
+d. Training Program Requirements. For U.S. repair stations that have an EASA Part-145
+approval, the human factors (HF) training is an EASA special condition requirement.
+(1) Training should center on the scope of work you perform. You should also ensure the
+training program is controlled and developed per the FAA Repair Station Manual (RSM)/EASA
+supplement.
+(2) For details regarding training development, affected repair stations, and additional
+information, refer to AC 145-10.
+10. GUIDANCE FOR A REPAIR STATION LOCATED IN THE UNITED STATES TO
+OBTAIN EASA APPROVAL. Repair stations in the United States should refer to Section B of
+the MAG.
+11. GUIDANCE FOR AN EU-BASED AMO TO OBTAIN FAA APPROVAL. AMOs
+should refer to Section C of the MAG.
+12. REQUEST FOR INFORMATION. The Aircraft Maintenance Division, General Aviation
+Group, Repair Station Section developed this AC. For information concerning this AC, contact
+the General Aviation Group at 202-267-1675.
+13. AC FEEDBACK FORM. For your convenience, the AC Feedback Form is the last page of
+this AC. Note any deficiencies found, clarifications needed, or suggested improvements
+regarding the contents of this AC on the Feedback Form.
+Michael Zenkovich
+Deputy Director, Flight Standards Service
+Par 9 Page 4
+11/28/12 AC 145-11A
+Appendix 1
+APPENDIX 1. ACRONYMS AND DEFINITIONS
+1. ACRONYMS. The following are acronyms as applied to this AC, the Agreement, and
+applicable guidance material.
+AA Aviation Authority
+AMO Approved Maintenance Organization
+ASI Aviation Safety Inspector
+BOB Bilateral Oversight Board
+CFR Code of Federal Regulations
+EASA European Union Aviation Safety Agency
+EU European Union
+FAA Federal Aviation Administration
+JMCB Joint Maintenance Coordination Board
+MAG Maintenance Annex Guidance
+MOE Maintenance Organization Exposition
+OpSpec Operations Specification
+QCM Quality Control Manual
+RSM Repair Station Manual
+SIS Sampling Inspection System
+TA Technical Agent
+TIP Technical Implementation Procedures for Airworthiness
+U.S. United States
+2. DEFINITIONS. Specific terms are defined in Article 1 of the Agreement and Section A,
+Appendix 10 of the MAG.
+Page 1
+Advisory Circular Feedback Form
+If you find an error in this AC, have recommendations for improving it, or have suggestions for
+new items/subjects to be added, you may let us know by contacting the OPR NAME or the
+Flight Standards Directives Management Officer at 9-AWA-AFB-120-Directives@faa.gov.
+Subject: AC 145-11A, Repair Station Guidance for Compliance with the Safety Agreement
+between the United States and the European Union
+Date: _____________________
+Please check all appropriate line items:
+An error (procedural or typographical) has been noted in paragraph ____________
+on page _______.
+Recommend paragraph _____________ on page __________ be changed as follows:
+______________________________________________________________________
+______________________________________________________________________
+In a future change to this AC, please cover the following subject:
+(Briefly describe what you want added.)
+______________________________________________________________________
+______________________________________________________________________
+Other comments:
+______________________________________________________________________
+______________________________________________________________________
+I would like to discuss the above. Please contact me.
+Submitted by: Date: ______________________

@@ -1,0 +1,1660 @@
+'i.,,' ' \ \(
+Advisory
+U.S. Department Circular
+of Transportation
+Federal Aviation
+Administration
+DATE: March 29, 1988
+NOTICE
+RECENT ACCIDENTS INVOLVING LARGE TRANSPORT
+AND SMALL GENERAL AVIATION AIRCRAFT HAS
+PROMPTED THE FEDERAL AVIATION ADMINISTRATION
+TO RE-DISTRIBUTE AC 20-117, HAZARDS FOLLOWI~G
+GROUND DEICING AND GROUND OPERATIONS IN
+CONDITIONS CONDUCIVE TO AIRCRAFT ICING
+DATED 12/17/82.
+----------···--······· -----------------­
+0 Advisory
+U.S. Department Circular
+of Transportation
+Federal Aviation
+Administration
+CONSOLIDATED REPRINT
+This consolidated reprint incorporatea
+Chanae 1
+Subject: HAZARDS FOI..I..CMING GROUND Date: 12/17/82 AC No: 20-117
+DEICING AND GROUND OPERATIONS Initiated by: AWS-100 Change:
+IN CDNDITIONS CX>NIXJCIVE 'IO
+AIRCRAFI' ICING
+1. PURPOSE. To emphasize the "Clean Aircraft Concept" foll<:Ming ground
+operations in conditions conducive to aircraft icing and to provide information
+to assist in compliance.
+2. RELATED FEDERAL AVIATION REGULM'IONS (FAR) SECTIONS. Sections 121.629,
+91.209, and 135.227.
+3. BACKGROUND. Recent accidents involving large transport and small general
+aviation aircraft indicate that misconceptions exist regarding the effect of
+slight surface roughness caused by ice accumulations on aircraft performance and
+flight characteristics and the effectiveness of Freezing Point Depressant (FPD)
+ground deicing and anti-icing fluids. During developnent of information
+contained herein it was recognized that guidance information should be directed
+to all segments of aviation to include aircraft manufacturers; airline
+--- engineering, maintenance, service and operations organizations; aircraft
+maintenance and service personnel; and aircrews of all aircraft types and
+categories. Information contained herein therefore is general in nature for
+basic understanding p..irposes to facilitate developnent of standardized
+procedures and guidance by various segments of the aviation industry. The FAA
+will assist in developnent of specific industry standards and will p..iblish
+additional advisory information as necessary.
+4. DISCUSSION.
+a. Regulations were established by the Civil Aeronautics Board (CAB) in
+1950 prohibiting takeoff of aircraft when frost, snow, or ice is adhering to
+wings, propellers, or control surfaces of the aircraft. These regulations
+remain in effect as cited under FAR 121.629, 135.227, and 91.209. '!he basis of
+these regulations, which are cx:moonly referred to as the clean aircraft concept,
+is kn<:Mn degradation of aircraft performance and changes of aircraft flight
+characteristics when ice formations of any type are present. 'lhese effects are
+wide ranging, unpredictable, and dependent upon individual aircraft design. '!he
+magnitude of these changes is dependent upon many variables and is thus
+unpredictable, but these changes can be significant. Wind tunnel and flight
+tests indicate that ice, frost, or snow formations on the leading edge and upper
+surface of a wing, having a thickness and surface roughness similar to iredium ·or
+coarse sandpaper, can reduce wing lift by as much as 30 percent and increase
+drag by 40 percent. These changes in lift and drag will significantly increase
+stall speed, reduce controllability and alter aircraft flight characteristics.
+AC 20-117 12/ 17/82
+Thicker or rougher ice accumulations in the form of frost, snow, or ice deposits
+can have increasing effects on lift, drag, stall speed, stability, and control,
+but the primary influence is surface roughness relative to critical portions of
+an aerodynamic surface. It is therefore imperative that takeoff not be
+attempted unless it has been ascertained, as req~ired by regulation, that all
+critical components of the aircraft are free of adhering snow, frost, or other
+ice formations.
+b. Most transport aircraft used in a:::mnercial transportation as \1/ell as
+sane other aircraft types are certificated for flight in icing conditions. It
+is emphasized that to date rotorcraft and nost small, general aviation fixed
+wing aircraft have not been certificated by the FAA for flight in icing
+conditions. Aircraft so certificated have been designed and denonstrated to
+have the capability of penetrating supercooled cloud icing conditions in the
+forward flight regime. This capability is provided either by ice protection
+equipnent installed on critical surfaces (usually the leading edge) or
+demonstration that ice formed, under supercooled cloud icing conditions, on
+certain unprotected components will oot significantly affect aircraft
+performance, stability and control. Ice, frost, or snow formed on these
+surfaces on the ground can have a totally different effect on aircraft flight
+characteristics than ice formed in flight. Exposure to \\'leather conditions on
+the ground that are conducive to ice formation can also cause accumulation of
+frost, snow, or ice on ice protected areas of the aircraft that are designed for
+inflight use only and that are oot designed for use during ground cperation. In
+addition, aircraft are considered airworthy and are certificated by the FAA only
+after extensive analyses and testing have been accorrplished. With the exception
+of analyses and testing to ascertain the flight dlaracteristics of an aircraft
+during flight in icing conditions, all analyses and certification testing are
+conducted with a clean aircraft flying in a clean envirorunent. If ice
+formations are present, other than those considered in the certification
+process, the airworthiness of the aircraft may be invalid and oo attempt should
+be made to fly the aircraft until it has been restored to the clean
+configuration. The ultimate responsibility for this determination rests with
+the pilot in carmand of the aircraft.
+c. CCffll'Dn practice developed by the North .American and European aviation
+carmunity over many years of cperational experience is to deice an aircraft
+prior to takeoff. Various techniques of ground deicing were also developed.
+The nost nodern of these techniques is use of FPO fluids to aid the ground
+deicing process and to provide a protective film of FPO (anti-icing) to delay
+formations of frost, snow, or other ice.
+d. In scheduled airline cperations, where large ntnnbers of aircraft are
+dispatched, the process of assuring airworthiness nust be a team effort where
+each 11Ember of the team has specific duties an4 responsibilities. In the case
+of private aircraft operations, all functions may be performed by only one
+person, the pilot. Iri all cases, the pilot has the ultimate responsibility of
+ascertaining that the aircraft is in a condition for safe flight.
+e. The only method currently kn<,,,m of !X)Sitively ascertaining that an
+aircraft is clean prior to takeoff is by close inspection. Under conditions of
+precipitation or where noisture can be splashed, blown, or sublimated ooto
+2 Par 4
+12/17/S2
+AC 20-117
+critical surfaces in subfreezing weather, many factors influence whether ice,
+frost, or snow may accumulate and result in surface roughness.
+These variables are described in awendix 3 of this advisory circular (AC) but
+·for convenience are listed as follows:
+- Ambient Temperature
+- Aircraft Surface Temperature
+- Presence of Deicing Fluid
+- Deicing Fluid Type
+- Deicing Fluid l\gueous Solution (Strength)
+- Precipitation Type and Rate
+- Deicing Fluid Application Procedure
+- Relative Humidity
+- Solar Radiation
+- Operation in Close Proximity to other Aircraft, Fquipnent, and Structures
+- Operation on Snow, Slush, or Wet Surfaces
+- Wind Velocity and Direction
+- Aircraft Comp::>nent Inclination Angle, Contour, and Surface Roughness
+f. Aircraft maintenance and q:,erations personnel neither have the
+capability to quantify the occurrence or the effects of the many variables that
+can influence whether ice, frost, or snow may form prior to takeoff, the surface
+roughness of ice formations, nor the effect that surface roughness may have upon
+aircraft performance and handling characteristics. Therefore, the time that may
+be considered a safe interval between ground deicing and takeoff cannot be
+estimated. Calculations of time incorp::>rating the effects of ooly a few of
+these variables (e.g., ambient telti)erature of 20°F, fluid strength of 50
+percent, precipitation rate of 1/2 inch/hour, assl.D'Tled water content of snow of
+0.1, and assumed surface film thickness of FPO fluid of 0.1 nm) reveals that
+-aircraft surfaces may remain free of ice formations (onset of FPO fluid
+crystallization) for approximately 10 minutes. Other variables listed above
+could reduce this time. Since neither the pilot in nor ground support
+~
+staffs have even these limited facts on hand, qu~titative judgements of time
+available between the ground deicing or anti-icing process and takeoff cannot be
+made.
+g. The essence of flight safety following ground q:,erations in conditions
+conducive to icing is the clean aircraft concept. To understand the need for
+the clean aircraft concept requires thorough knowledge of: (1) The adverse
+effects that ice, frost, or snow can have oo aircraft' performance and handling
+Par 4
+3
+·--·..-·····--···---..;.;::==.-::::---::::::::===.;;:;=:::::::::""'..._'.:_'.:_::"._::~--:::::-_-:.::.::::::...--::=.=.=.=.=.:=...==-=-=-=-=-=.:;;-­
+AC 20-117 12/17/82
+qualities; (2) the various procedures that are available for aircraft grourrl
+deicing and anti-icing: (3) the capabilities and limitations of these
+procedures; (4) the variables that will influence the effectiveness of these
+procedures; (5) the critical areas of the parti~-ular aircraft: and (6)
+recognition that final assurance for a safe takeoff rests in pretakeoff
+inspection. Additional informa.tion to assist in developnent of this
+understanding and knowledge may be found in the appendices of this K'.. The
+success of the aviation corrrnunity to date is attributed to many years of
+experience oo the part of many oorrpanies where this knowledge has been gained,
+through experience, and passed oo in the form of policy_, procedures, quality
+assurance programs, and training programs.
+5. /CCEPI'ABLE PRACTICF.S.
+a. General. The clean aircraft ooncept is essential. The FAR makes the
+clean aircraft ooncept law. This law exists for flight safety reasons. The FAR
+states a general requirement but allows operators to corrply with the requirement
+in an appropriate manner, depending upon local circl.UllStances. The clean
+aircraft ooncept has been in effect since 1950. Many techniques of corrplying
+with the clean aircraft ooncept have been developed over the years by the
+aviation industry. Many of these techniques were developed prior to 1950
+because of the need recognized by the aviation comnunity. The oonsensus of the
+aviation comnunity and the oonclusion readied by the FAA is that the ooly method
+of assuring flight safety following grourrl operations in oonditions oonducive to
+aircraft icing, is by either close inspection prior to takeoff to ascertain that
+critical aircraft components are clean {free of ice, frost, or snow forma.tions)
+or a determination that any formations are oot adhering to critical surfaces and
+will blow off in the early stages of takeoff roll. This oonsensus is valid
+regardless of the use of C\lrrently available FPO deicing fluids or the use of
+manual tedlniques of deicing. FPO fluids comronly used today should oot be
+considered to have anti-icing qualities for a finite period of time because a
+multitude of variables make it impractical to estimate that time. However,
+under certain oondition FPO fluids are known to be effective in retarding the
+formation of frost, snow, or ice and in this sense may be oonsidered to have
+anti-icing qualities {to prevent the formation of ice) for a period of time
+during ground storage (overnight or during brief layover) thus making the
+process of deicing (removing ice formations) simpler and in many cases l"W:?gating
+further deicing or treatment. It is erphasized, however, that the l"W:?ed for close
+inspection prior to takeoff remains. The following paragraphs are intended to
+provide suggested methods of assuring the clean aircraft ooncept.
+(1) Aircraft _Deici!19 and Anti-Ici!}g.
+(i) An airplane may be cleaned of ice forma.tions {deiced) by any
+suitable manual method, by use of water, by use of FPO fluids, or mixtures of
+FPO fluids and water. To date manufacturers of rotorcraft have oot awroved use
+of FPO fluids for application to rotorcraft. Heated water, FPO fluids or
+aqueous solutions of FPO fluids are nore effectiv~ in the deicing process. The
+deicing and anti-icing process may be performed in ooe stage or nultiple stage
+processes as desired depending upon prevailing oonditions, concentration of FPO
+utilized, facilities available and deicing methods. In any case the freeze
+point of residual fluids (water, FPO fluids or mixtures) should oot be greater
+than 20°F below ambient or surface temperature whichever is less. Unheated FPO
+4 Par 4
+12/17/82
+AC 20-117
+fluids or aqueous solutions are nore effective in the anti-icing process than
+heated fluids.
+(ii) In conditions of freezing precipitation or high humidity when
+aircraft surface temperatures are near or below freezing and when it cannot be
+determined that snow or other ice crystal accumulations are oot ~hering and
+will blow off during initial stages of takeoff, surfaces should be anti-iced to
+retard the formation of ice prior to takeoff.
+(iii) FPO freeze EX)int can be determined using refractive index
+techniques. FPO fluid manufacturers can suggest or supply suitable equipnent.
+(iv) Critical surface terrperatures under many ciretm1Stances are
+found in the vicinity of integral wing fuel tanks. When fuel temperatures are
+higher than ambient, critical surface terrperatures will occur at other
+locations. These temperatures can be determined by direct maasurement or by
+estimating fuel terrperature. If surface terrperature is oot measured or
+estimated then the freeze EX)int of residual fluids should be the lowest EX)Ssible
+with available fluids.
+(v) In conditions of oonprecipitation an anti-iced aircraft
+should be closely inspected to assure the freeze EX)int of residual fluids remain
+20°F below ambient or surface terrperature whichever is lower. This is
+especially important when relative humidity is high.
+(vi) Underwing frost should be renoved and, where practical, the
+surface anti-iced to delay re-formation of frost. See appendix 3 for ~itional
+information on this subject.
+(2) Preflight Inspection. Preflight inspection should be performed
+inrrediately following or during the ground deicing and anti-icing process.
+Areas to be inspected depend upon the aircraft design and should be identified
+in an inspection checklist. The inspection checklist should include all items
+reccmnended by the aircraft manufacturer and may be supplemented, as necessary,
+to include special operational considerations, but this checklist should
+include the following general items:
+- Wing leading edges, upper surfaces, and lower surfaces
+- Stabilizing device leading edges, upper surfaces, lower surfaces,
+and side panels
+- High lift devices such as leading edge slats and leading or
+trailing edge flaps
+- Wing lift spoilers
+- All control surfaces and control balance bays
+- Propellers
+- Rotor Blades, rotor heads and controls
+Par 5 5
+12/17/82
+AC 20-117
+- Critical rotor system devices such as droop stops
+- Engine inlets, particle separators and screens
+- Windshields and other transparencies necessary for vasibility
+- Antennas
+- Fuselage sections forward of stabilizing, control and lifting
+surfaces, propellers, rotors, or engine air inlets
+- Exposed instrumentation devices such as angle-of-attack vanes,
+pitot-static pressure probes, and static ports
+- Fuel tank and fuel cap vents
+- Cooling and .APU air intakes/inlets/exhausts
+- Undercarriage
+(3) Once it has been determined through pre-flight inspection that
+the aircraft is clean and adequately protected, the aircraft should be released
+for takeoff as soon as possible. This is especially irrportant in oonditions of
+precipitation or high relative humidity.
+(4) Pretakeoff Inspection.
+(i) Fixed Wing_Aircraft
+(A) Just prior to taking the active runway for takeoff or just
+prior to initiating takeoff roll, a visual pretakeoff inspection should be ma.de.
+The <XJ11)0nents to be inspected depend upon aircraft design. In sane aircraft,
+the entire wing, and p::>rtions of the enpennage are visible from the oockpit or
+the cabin. In other aircraft, these surfaces are so rexrote that only p::>rtions
+of the upper surface of the wings are in view. Undersurfaces of wings and
+undercarriage are oot viewable in any but high-wing type aircraft. A practice
+in use by sane operators is to perform close visual inspection of wing surfaces,
+leading edges, engine inlets, and other coop::,nents of the aircraft that are in
+view either £ran the oockpit or cabin (whichever provides maximum view}. If
+surfaces have oot been treated with FPD fluid, evidence of melting snow and
+possible freezing is sought. Also evidence of any ice formation that may have
+been induced by taxi operations is sought. Ii the aircraft has been treated
+with FPD fluids, evidence of a glossy snooth and wet surface is sought. If, as
+a result of these inspections, evidence of ice, snow, or frost formations is
+observed, the aircraft should be returned to a maintenance area for additional
+deicing.
+(B) The fact that it is impractical for an aircraft crewmember
+to disanbark at the end of a runway and perform pretakeoff inspections, means
+that the crewmember should perform that inspection from the best vantage p::>int
+available fran within the aircraft. The crewmember may elect to q:,en windows,
+doors, or hatches to improve the view, but in many aircraft even this is
+impractical. In the darkness of night the crewmember nust rely l.lfX)n wing and
+6 Par 5
+12/17/82 AC 20-117
+other aircraft illumination lights that ma.y oot provide sufficient reflection to
+make appropriate visual observations. The crewmember ma.y, where practical, call
+upon the assistance of qualified ground personnel. If under any circumstance,
+the pilot in carmand cannot ascertain that the aircraft is clean, takeoff should
+not be attempted.
+(C) Conducting pretakeoff inspection in the ma.nner described
+relies upon the pilot in camiand to be knowledgeable of ground deicing
+procedures, that the ground deicing process was conducted in a thorough and
+unifoi::m ma.nner, and that critical surfaces or can.ponents oot in view during
+pretakeoff inspection will also be clean. The decision to takeoff, following
+pretakeoff inspection remains the responsibility of the pilot in ccmnan.d.
+(ii) Rotorcraft.
+(A) Only rotorcraft that have been certificated for flight in
+1c1ng conditions should be operated in conditions conducive to icing such as
+freezing fog. To date oone have been so certificated by the FAA.
+(B) Rotorcraft certificated for flight in falling and blowing
+snow ma.y operate in such conditions. In this case pretakeoff inspection of
+rotor systems should be conducted just prior to starting rotors turning. Rotor
+systems should oot be started unless blade surfaces and other critical
+canponents are free of ice, frost or oohering snow.
+b. Ccmoon practices or suggested practices necessary to assure the pilot
+has every advantage for his judgements:
+(1) Establish training programs to continually update pilots on the
+hazards of winter operations, adverse effects of ice formations on aircraft
+perfoi::mance and flight characteristics, proper use of ice protection equipnent,
+ground deicing and anti-icing procedures, and preflight and pretakeoff
+inspection procedures following ground deicing or anti-icing and operations in
+conditions conducive to aircraft icing.
+(2) Establish training programs for ma.intenance or other personnel who
+perfotm aircraft deicing to assure thorough knowledge of the ooverse effects of
+ice formations on aircraft performance and flight characteristics, critical
+canp:>nents and specific ground deicing and anti-icing procedures for each
+aircraft type, and the use of ground deicing and anti-icing equipnent including
+detection of abnormal operational conditions.
+(3) Establish quality assurance programs to assure that FPD fluids
+being p.irchased and used are of the proper characteristics, that proper ground
+deicing and anti-icing procedures are utilized, that all critical areas are
+inspected, and that all critical cnnponents of the aircraft are clean prior to
+departure.
+(4) Perfoi::m thorough planning of ground deicing activities to assure
+that proper supplies and equipnent are available for forecast weather conditions
+and that responsibilities are specifically assigned and understcx:rl. This is to
+include ma.intenance service contracts.
+Par 5 7
+AC 20-117 12/17/82
+(5) Monitor weather oonditions very closely to assure that planning
+information remains valid during the ground deicing or anti-icing process and
+subsequent aircraft operations. FPD fluids, deicing or anti-icing procedures
+and departure plans should be altered acoordingly.
+(6) Use FPD ooncentrations that will delay ice formations for as long
+a period as p::>ssible under the prevailing oonditions.
+(7) Deice or anti-ice areas that may be viewed by the pilot (from
+inside the aircraft) first so that during pretakeoff inspection he may have
+assurance that other areas of the aircraft are clean since areas deiced or
+anti-iced first will generally freeze first.
+(8) Use the two-stage deicing process where ice dep::>sits are first
+removed, and then all critical CX>JJp:>nents of the aircraft are ooated with an
+appropriate mixture of FPD fluid (anti-icing) to prolong effectiveness.
+(9) Assure thorough ooordination of the ground deicing and anti-icing
+process so that final treatments are provided just prior to takeoff.
+(10) Use remote sites near the take-off p::>sition, where feasible, for
+deicing or anti-icing to reduce the time between deicing and takeoff or to
+provide additional FPD fluid to prolong anti-icing effectiveness.
+(11) Use multiple aircraft deicing or anti-icing units for faster and
+more uniform treatment during precipitation.
+(12) Use FPO fluids that are approved for use by the aircraft
+manufacturer. sane fluids may not be compatible with aircraft materials and
+finishes and some may have dlaracteristics that impair aircraft performance and
+flight dlaracteristics or cause oontrol surface instabilities.
+(13) Do not use substances that are approved for use on pneumatic
+bcx>ts (to improve deicing performance) for other prqx:>ses unless such uses are
+approved by the aircraft manufacturer.
+c. Suggested practices for pilots to assure the clean aircraft ooncept.
+(1) Be knowledgeable of the adverse effects of surface roughness on
+aircraft performance and flight dlaracteristics.
+(2) Be knowledgeable of ground deicing and anti-icing practices and
+procedures being used on your aircraft whether this service is being performed
+by your own canpany, a service oontractor, or a fixed-base operator.
+(3) Do not allow deicing or anti-icing until you are familiar with the
+ground deicing practices and quality oontrol procedures of the service
+organization.
+(4) Be knowledgeable of critical areas of your aircraft and assure
+these areas are properly deiced and anti-iced, proper precautions are being
+taken during the deicing process to avoid damage to aircraft CX>JJp:>nents, and
+8 Par 5
+12/17/82
+AC 20-117
+proper preflight inspections are performed even though this is also the
+resp::>nsibility of other organizations or personnel.
+(5) Be knowledgeable of ice protection system function, capabilities,
+limitations, and q;>eration.
+(6) Perform additional preflight inspections related to deicing or
+'·. anti-icing as necessary or required.
+(7) Be aware that no one can accurately determine the time of
+effectiveness of an FPD deicing or anti-icing treatment because of the many
+variables that can influence this time.
+(8) Be knowledgeable of the variables that can reduce time of
+effectiveness and their general effects.
+(9) Assure that deicing or the anti-icing treatment is performed at the
+last p::>ssible time prior to taxi to the takeoff p::>sition.
+(10) Do not start engines, propellers, or rotor blades until it has
+been ascertained that all ice dep::>sits are rerroved. Ice particles shed fran
+rotating canponents under centrifugal and aerodynamic forces can be lethal.
+(11) Be aware that certain q;>erations may produce recirculation of ice
+crystals, snow or rroisture.
+(12) Be aware that q;>erations in close proximity to other aircraft can
+induce snow, other ice particles, or rroisture to be blown onto critical
+aircraft canponents, or allow dry snow to rrelt and refreeze.
+(13) Do not takeoff if snow or slush is observed splashing onto
+critical areas of the aircraft, such as wing leading edges, during taxi.
+(14) Always perform pretakeoff inspections just prior to takeoff.
+(15) Do not takeoff if p::>sitive evidence of a clean aircraft cannot be
+ascertained.
+Director of Airworthiness, AWS-1
+Par 5 9
+12/17/82 AC 20-117
+Appendix 1
+.APPENDIX 1. RELA1'EO FAA PUBLIC1(J.1I00S, TRAINIOO MATERIAL, .AND Ol'HER READIOO
+MM"ERIAL
+1. REI.Ja'ED FAA PUBLICATIOOS.
+-- Air Carrier Operations Bulletin (llC:OB), No. 7-81-1, Aircraft Deicing
+and Anti-Icing Procedures, dated April 10, 1981, ror/FAAOrder 8430.17,
+Change 21.
+- N:OB, No. 7-76-9, Aircraft Control and Lifting Surfaces-cold weather
+Operations, October 20, 1976.
+-- N:OB, No. 7-76-11, Engine Ice Accumulation - Ground Idle (Formerly Air
+Carrier Operations Alert, No. 70-9), October 20, 1976.
+-- N:OB, No. 7-76-12, Turbojet Aircraft Engine Icing During Prolonged
+Ground Operations in Icing Conditions (Formerly Air Carrier Operations Alert
+No. 69-3), October 20, 1976.
+-- Kll3, No. 7-76-13, Takeoff warning Systems During Cold weather
+Operations, October 20, 1976.
+-- N:OB, No. 7-76-2, water/Snow Entering Parked Boeing 727 Aircraft
+Causing Electrical Fewer wss, October 20, 1976.
+-- ACOB, No. 7-76-1, Winter Operations Under FAR 121 and 127 (Formerly Air
+Carrier Operations Bulletin No. 68-15), October 20, 1976.
+-- Air Carrier Operations Alert (JICOA), No. 67-3, Aircraft Control and Lift
+Surfaces - Cold weather Operations.
+-- KJJA No. 69-3, Turbojet Aircraft Engine Icing During Prolonged Ground
+Operations in Icing Conditions.
+-- JICOA No. 70-9, Engine Ice Accumulation - Ground Idle.
+--Air Carrier Maintenance Bulletin (J.\CMB) No. 115, Deicing of Aircraft
+with Engines Operating.
+-- .1CMB 127, Aircraft Deicer Fluids.
+-- .ACMB 128, Responsibility for Aircraft Servicing.
+-- .ACMB 155, Winter Operation of Aircraft.
+-- IC 00-6A, Aviation Weather, March 3, 1975.
+-- IC 00-458, Aviation Weather Services, 1979.
+-- IC 20-73, Aircraft Ice Protection, 11;>ril 21, 1971.
+-- IC 20-93, Flutter Due to Ice or Foreign Substance On Or In Aircraft
+Control Surfaces, January 29, 1976.
+Par 1
+1
+12/ 17/82
+AC 20-117
+Appendix 1
+- JtC 20-113, Pilot Precautions and procedures to l:::le taken in Preventing
+Aircraft Reciprocating Engine Induction System & Fuel System Icing Problems,
+Oct. 22, 1981.
+-- JtC 20-106, Aircraft Inspection for the General Aviation Aircraft Owner,
+April 1978.
+- JtC 61-84A, '!he Role of Preflight Preparation, December 1, 1980.
+-- JtC 91-6A, water, Slush, and Snow on the Runway, May 24, 1978.
+-- JtC 91-13C, Cold weather Operation of Aircraft, July 24, 1979.
+-- JtC 91-51, Airplane Deice and Anti-Ice Systems, September 15, 1977.
+-- 11C 135-9, FAR Part 135 Icing Limitations, May 30, 1981.
+-- JtC 121-12, Wet or Sli~ry R.Jnways, August 17, 1967.
+-- JtC 150/5380-4, Ranp Operations During Perioos of Ice and Snow
+Accumulations, September 11, 1968.
+-- FAA RD-80-50, Engine Inlet Anti-Icing System Evaluation Procedure
+(Report).
+-- M:;F 140-75-3, Report of Propulsion Conference and Environmental
+Workshop.
+-- Aircraft Ice Protection, Report of Synposium, Jpril 28-30, 1969.
+-- FAA General Aviation News Article "Rime Without Reason."
+-- FAA Pamphlet ''Weather (Pilot's) How It Is Forecast."
+-- FAA Pamphlet "'!be Weather Decision."
+2. TRAINING MATERIAL.
+-- 11C 61-80, Instrument Rating, Written Test Guide.
+-- JtC 61-18B, Air Transport Pilot (Airplane, written test guide).
+-- 11C 61-21A, Flight Training Handbook.
+-- 11C 61-23B, Pilots Handbook of Aeronautical Knowledge.
+-- 11C 61-31B, Gyroplane Pilot Written Test Guide, Private and COllll\ercial.
+-- 11C 61-70A, Flight Instructor, Instrument Airplane, Written Test Guide.
+-- JtC 61-71B, Catrnercial Pilot - Airplane - Written Test Guide.
+Par 1
+2
+12/17/82 AC 20-117
+Appendix 1
+- PC 61-72B, Flight Instructor -­ Airplane - written Test Guide.
+-- PC 61-73A, Private.& Camiercial Pilot Rotorcraft Helioopter written Test
+Guide.
+-- PC 61-74A, Flight Instructor - Rotorcraft, Helioopter written Test
+Guide.
+-- PC 61-75A, Flight Instructor - Glider written Test Guide.
+-- PC 61-81A, Private & Ccmnercial Pilot - Glider - written Test Guide.
+-- Exam-0-Gram N\mlber 21, "Flying Into Unfavorable Weather."
+-- Exam-0-Gram N\mlber 28, "Factors Affecting Stall Speed."
+-- DOD (USN) Film, "Ice Formation On Aircraft."
+-- FM. Film, "sane Thoughts on Winter Flying."
+-- FM. Slide Presentation, "Fog, Stratus, and Icing."
+-- FM. Slide Presentation, "Thunderstorms and Turbulence."
+-- DOD Training Circular, N\mlber 1-12, "Cold Weather Flying S~nse,"
+January 1978.
+3. Ol'HER RELM'ED INFORMM'ION.
+-- SAE, AMS 1425A, Deicing/Anti-Icing Fluid, Aircraft, Ethylene Glycol Base.
+-- SAE, AIR-1335, Ramp Deicing.
+-- FM. Film, "The Cold Front."
+-- FM. Film, "The Warm Front."
+-- PDPA Article, "The Icing Options," KJPA Pilot, September 1981.
+-- Wing Surface Roughness, cause, and Effect by Ralph E. Brumby, Principal
+Engineer Aerodynamics p..iblished in Issue No. 32 of DC Flight Approach, January
+1979.
+- Methods of Prediction of the Influence of Ice on Aircraft Flying
+Characteristics by M. Ingelman Sundberg, O. K. Trunov, and A. Ivaniko; a joint
+report fran the Swedish-Soviet ii)rking Group on Scientific-Technical Cooperation
+in the Field of Flight Safety, Report No. JR-1, 1977.
+-- Wind Tunnel Investigations of the Hazardous Tail Stall Due to Icing by
+M. Ingelman-Sunberg and O. K. Truoov; a joint report from the Swedish-Soviet
+Working Group on Scientific-Technical Cooperation in the Field of Flight
+Safety, Report No. JR-2, 1979.
+Par 2 3
+AC 20-117 12/17/82
+Appendix 1
+- A Study of Sane Methods and Means for Protecting Aircraft Against Ground
+Icing by o. K. Trunov and T. Aaro; a joint re[X>rt from the Swedish-Soviet
+Working Group on Scientific-Technical Cooperation in the Field of Flight Safety,
+Re[X)rt No. JR-4, 1980.
+-- Roughness Penalties for Flight Simulators, P. Haines and J. K. IJ.Jers,
+University of Dayton Research Institute, Dayton, Ohio, presented to the AI.AA
+20th .Aerospace Sciences Meeting, January 11-14, 1982, Orlando, Florida.
+-- 737 Wing Leading Edge Condition published in July-September 1981 issue
+of Boeing Airliner Magazine.
+-- 737 Wing Leading Edge Condition - Part II, published in the
+October-December 1981 issue of Boeing Airliner Magazine.
+-- Mirabel Deicing Project 1978-1979, Airports and Construction Services
+Directorate, Airport Facilities Branch, Trans,EX>rt Canada, Air, le,EX>rt No. TR
+2159, May 1979.
+-- Cold Weather Operations, Frank J. B~Hand, published in the
+October-December 1982 issue of Boeing Airliner Magazine.
+-- Reccmnendations for DE-ICING/.ANI1I-ICING of Aircraft oo Ground,
+~sociation of European Airlines, October 1982.
+-- Air Dynamic Effects of Deicing/Anti-icing Fluids, Service Letter, Boeing
+Canrcerical Airplane Coopany, December 2, 1982.
+-- Ground Deicing and Anti-icing of Aircraft, Douglas Service,
+September/October 1982.
+4 Par 3
+12/17/82
+AC 20-117
+Appendix 2
+APPENDIX 2. METHOil:> OF ESTIMATING FREEZING POINI' DEPRESSANT (FPD) FLUID
+EFFECTIVENESS •
+.1 . GENERAL. Many variables can influence the time of the effectiveness of
+freezing point depressant (FPO) fluids, as discussed in appendix 3 of this
+advisory circular (PC) , that make it inpractical, if oot impossible, to estimate
+that time follOW'ing deicing or anti-icing processes. HOW'ever, during efforts to
+ascertain whether or oot accurate estimates could be made, mathematical
+relationships were developed to allOW' estimates to be made using only a few
+known or assumed parameters. 'Ibis appendix C'Ontains the rationale for these
+mathematical relationships only for the :µ.irpose of providing the basis of
+estimates presented in the body and appendix 3 of this PC. It is emphasized
+that the mathematical relationships derived herein are an cwersinplification of
+the problem. Extreme caution is emphasized that these relationships not be used
+for estimating time available between deicing and takeoff or as a substitute for
+the clean aircraft concept or pretakeoff inspections.
+2. RM'IONALE. To estimate the time of effectiveness of FPO fluids in
+conditions of precipitation, several parameters JlUSt be known or assumed. To
+sinplify this rationalization, figure 2-1 depicts a segment of a surface
+containing a film of FPD fluid of a certain depth ~f), and of a certain
+mixture M1 (% by weight of FPO in water). '!his fluid will freeze (begin to
+crystallize) at a given fluid temperature (tf) when its mixture (M2)
+reaches the freeze point (onset of crystallization). That is to say that at a
+given tf an c:rlditional arrount of water nust be mixed with the FPO fluid to
+further dilute the mixture to M2. Precipitation in the fonn of snOW', sleet,
+hail, freezing rain or drizzle or any other source of water such as dew, frost,
+spraying, and/or splashing can dilute the FPO mixture. If the rate of c:rldition
+of water is knOW'n (Rw) the time to reach M2 can be estimated.
+,,11, ',','1'11,1
+I I I
+PNcipltation
+1
+I I I
+1 I I
+I 1'11'11'1
+11 I
+-
+FIWRE 2-1
+Par 1 1
+12/17/82
+AC 20-117
+Appendix 2
+To further simplify this rationalization, figure 2-2 depicts schematically the
+relationships of the various parameters.
+T
+6a
+J_
+T
+6rw
+T
+6t
+l
+l
+FIGURE 2-2
+we..:
+6t - Original fluid flm thlckneN
+6g • Ouentity of FOP fluid (glycol) In the FPO/water mixture
+6fw • Ouentity of water In the original FPD/WllbN' mixture
+6a • The quantity of Wllt9r needed 10 further dHute the mixture
+M1 and M2 can then be calculated as follows: ·
+M1 = Is the percentage of FPO in the mixture
+-
+~
+8f
+M - 8a - ___6 .a.__
+s•
+a. a .s
+2 8 + + +
+1 1 • 0
+Par 2
+2
+12/17/82 AC 20-117
+Appendix 2
+..
+a. F.r.an _th_is
+.
+m
+,
+lationahip the am::,unt of water needed to be added to the
+.
+FPD fluid mixture can be deter:mined sincie:
+Mi
+6a - ¥11
+...
+.. -~- -..
+...., _.,
+~-}
+1
+MJ MJ \~
+b. If a rate of ~ition of water (Rw) is known, the time (T) required
+to add the aroount of water can be estimated:
+c. For exanple calculatioo assume:
+df = 0.1 mm
+R = 1.0 in/hour
+8
+=
+Rw .1 ~- 0.1 in/hour
+M1 = 90% ethylene glycol
+=
+t +20°F
+8
+d. Under these assumptions M2 can be determined by referring to the
+phase diagram (figure 3-1, appendix 3) and at 20°F it can be seen that the
+mixture of ethylene glycol that will begin to freeze at 20°F is 16%.
+Therefore, M2 = 0.16 and under the above assumptions, time can be estimated
+as follows:
+T• 0,1 nvn 0.8 ~
+--1
+(
+0.1 In/hr 0.18
+.2:1) (.2:!-1)
+(
+• 2.38 • 10.11 min
+0.1 0.18
+Par 2 3
+12/17/82 AC 20-117
+Appendix 3
+APPENDIX 3. GENERAL INFORMM'IOO RELATING 'ID GROUND AND FLIGEfr OPERATIONS IN
+CONDITIONS CCJNIXx::IVE 'ID AIRCRAFT ICING.
+1. INl'K)DUCTIOO. This advisory circular (AC) deals with the hazards follCMing
+ground deiclrigand ground operations in conditions conducive to aircraft icing.
+This appendix provides general infonnation necessary for the c,,,erall
+understanding of these hazards and includes causes and effects of ice fonnations
+(induced on the ground or in flight) as well as ground related issues such as:
+methods of ground deicing, capabilities and limitations of freezing ix>int
+depressant (FPO) ground deicing fluids, and discussions of variables that can
+influence the effectiveness of ground deicing fluids.
+2. ~ITIONS C'ONIXx::IVE 'ID AIRCRAFT ICING.
+a. Aircraft oo the ground or in flight are susceptible to acclllll.Ulation of
+ice fonnations under various atmospheric and q,erational conditions. Aircraft
+in-flight can encounter a variety of atmospheric conditions that will
+individually or in (X)l'llbination produce ice fonnations oo various conponents of
+the aircraft. These conditions include:
+(1) Supercooled Clouds. Clouds containing water droplets (belCM 32°F)
+that have remained in the liquid state. Supercooled water droplets will freeze
+U{X)n impact with another d:>ject. Water droplets can remain in the liquid state
+at ambient temperatures as lCM as -40°F. The rate of ice accretion oo an
+aircraft cxxnponent is dependent l.lfX)n many factors such as droplet size cloud
+liquid water content, ambient temperature, and conponent size, shape, and
+velocity.
+(2) Ice Crystal Clouds. Clouds existing usually at very cold
+temperatures where noisture has frozen to the solid or crystal state.
+(3) Mixed Conditions. Clouds at ambient terrperatures belCM 32°F
+containing a mixture of ice crystals and supercooled water droplets.
+(4) Freezing Rain and Drizzle. Precipitation existing within clouds
+or belCM cloud.s at ambient tenperatures belCM 32°F where rain droplets remain in
+the supercooled liquid state.
+(5) Frozen precipitation such as snCM, sleet, or hail.
+b. Aircraft on the ground, during ground storage or ground q,erations, are
+susceptible to many of the conditions that can be encountered in flight in
+addition to conditioos peculiar to ground q,erations. These include:
+(1) Supercooled ground fog and ice clouds.
+(2) Operation on ramps, taxiways, and runways containing noisture,
+slush, or snow.
+(3) Bl<:Mn snow fran snow drifts, other aircraft, buildings, or other
+ground structures.
+Par 1 1
+12/17/82
+AC 20-117
+Appendix 3
+(4) Snow blown by ambient winds, other aircraft, or ground support
+equiµrent.
+(5) Recirculated srx::,w made airborne by engine, propeller, or rotor
+wash. Operation of jet engines in reverse thrust, reverse pitch propellers, and
+helicopter rotor blades are conm::>n causes of snow recirculation.
+(6) Conditions of high relative humidity that may produce frost
+formations on aircraft surfaces having a ten:perature at or below the frost
+point. Frost accumulations are conm::>n during overnight ground storage and after
+landing where aircraft surface ten:peratures remain cold following descent from
+higher altitudes. This is a conm::>n occurrence on lower wing surfaces in the
+vicinity of fuel cells. Frost formations can also occur on upper wing surfaces
+in contact with cold fuel.
+3. THE EFFECTS OF ICE, SN:M,_AND FK>ST FO~IONS ON AIRCRAFI' PERFORMANCE AND
+FLIGHT CHARN:TEIUSTICS
+a. General. During flight operations ice will form oo leading edges of
+various canponents, within forward facing air intakes (e.g., engine inlets) and
+frontal areas of the airframe. During ground storage or operations, ice will
+form on other i;:x:>rtions of aircraft conponents such as upper surfaces of wings,
+fuselages, engine nacelles, horizontal stabilizer surfaces, and control
+surfaces. The effects that inflight or ground accreted ice formations will have
+on aircraft performance and flight dlaracteristics are many, are varied and are
+highly dependent upon aircraft design, ice surface roughness, ice shape, and
+areas covered. These effects will generally be reflected in the form of
+decreased thrust, decreased lift, increased drag, increased stall speed, trim
+changes, and altered stall dlaracteristics and handling qualities. Slight
+weight increases will also occur, however, the effect of weight increase (with
+the exception of heavy srx::,w and freezing rain dei;:x:>sits during ground operations)
+is usually insignificant in con:parision to aerodynamic degradation.
+b. Aircraft Certification for Flight in Icing Conditions.
+(1) Most comnercial transi;:x:>rt aircraft and many other aircraft types
+are designed for safe flight in rrost atioospheric icing conditions that can be
+encountered in conventional flight; i.e., from takeoff to landing. They are not
+certificated for takeoff or flight with ice formed as a result of ground storage
+9r operations. Such formations nust be re100ved and the aircraft sustained in a
+clean configuration prior to initiation of takeoff and throughout the takeoff
+roll. Although several helicopters are rx::,w in the initial :i;nases of icing
+certification, no comnercial helicopters are currently certificated for flight
+in icing conditions. Only a small number of helicopters have been certificated
+for flight in falling or blowing snow. Before an aircraft is certificated to
+fly in atioospheric conditions conducive to icing, that capability must be
+demonstrated to the FAA. This is accorrplished through extensive analyses and
+flight testing. If an aircraft is rot so certificated, it should rot be
+intentionally flown in atm::;>spheric icing conditions. Aircraft that are
+certificated for flight in icing conditions are equipped with ice protection
+systems to reduce the adverse effects of ice formations, either by preventing
+the formation of ice (anti-icing) or by periodically re100ving ice (deicing).
+Sane carq;x:>nents of sane aircraft certificated for flight in icing conditions ck>
+2 Par 2
+12/17/82 AC 20-117
+Appendix 3
+not require ice protection equipnent. Aircraft so certificated have been
+demonstrated to be capable of safe flight with ice of certain shapes adhering to
+critical areas. Aircraft c-ertificated for flight in icing conditions are
+capable of sustained q;>erations in supercooled cloud conditions. Their engines
+arrl engine inlets are capable of q;>eration without serious perfonnance
+degradation in supercooled clouds. Sane aircraft may have limited capability
+for flight in freezing rain and drizzle, in mixed conditions or p..ire ice crystal
+clouds, however, ice protection systems are certificated only for operation
+urrler the supercooled· cloud conditions ooted in paragraiil 2a( 1) al:ove. Small
+aircraft are generally less tolerant to freezing rain conditions than large
+aircraft.
+(2) Many aircraft in service today (generally small aircraft) have ice
+protection equipnent installed, but are oot c-ertificated for flight in icing
+conditions. Aircraft of this type have only been dem::>nstrated to show the
+equipnent is oonhazardous for flight in oonicing conditions with the equipnent
+installed. Aircrews should be aware of tqese limitations and be cautious
+because this type of equipnent may oot provide safe flight during icing
+encounters.
+(3) Many aircraft in servic-e today (generally large aircraft) are
+permitted by maintenance manuals to be dispatched for flight with slight anounts
+of frost adhering to fuel tank areas of wing undersurfac-es. Maintenance manuals
+of such aircraft specify limits of frost thickness (generally between 1/8" and
+3/8") depending UfX)n the aircraft characteristics. It is emphasized that this
+practice is based UfX)n operational experienc-e only and oo FAA certification or
+other test data has verified the accuracy of these limits. Operational
+experience as well as research experiments indicate that underwing frost
+formations do oot generally influence aircraft perfonnance and flight
+characteristics as severely as leading edge and upper wing frost; however, some
+wing designs may be nore sensitive to underwing frost than others.
+c. Effects of Ice Formations
+(1) Wind tunnel and flight testing conducted in the past under
+research, developnent, and certification efforts, as well as q;>erational
+experience, have shown that ice formations on various aircraft components can
+have very significant and sometimes devastating effects on aircraft equipnent
+operation, aircraft performance, and flight characteristics. Components of an
+aircraft normally affected by ire formations are highly dependent UfX)n aircraft
+design, however, they generally fall in the following categories: lifting
+devices; stabilizing devices; control surfaces; engine inlets; engines;
+propellers; rotor blades; anti-torque devices; windshields and other transparent
+structures; cooling air inlets; fuselage sections; antennas; undercarriage
+devices; fuel cap vents; and fuel tank vents.
+(2) The effects of ice formations on some of these components and the
+contribution to degradation of aircraft perfonnance and flight characteristics
+are itemized in the following list:
+(i) Slight surfac-e roughness can have significant effects on stall
+speed and power required to achieve or to sustain flight.
+Par 3 3
+AC 20-117 12/17/82
+Appendix 3
+(ii) Surface roughness oo the aftertx>dy of a wing can have an effect
+awroximately equal to the effect of similar surface roughness on the leading
+edge oo sane airfoils. Leading edge surface roughness is Il'Ore significant on
+most airfoils.
+(iii) Increased surface roughness, due to ice formation, on wing
+leading edges and afterbodies will produce cd:litional drag and further reduce
+lift.
+(iv) Due to increased stall speed, maneuvers should be Il'Ore gentle
+and airspeed margin during approach should be increased.
+(v) Stall angle-of-attack will decrease and in sane aircraft
+stall will occur prior to activation of stall warning devices.
+(vi) Stall characteristics will dlange and, depending upon
+aircraft design, the nature of ice formations can cause either violent stall or
+a sl<Mer progression of stall. In sane aircraft pitch-up tendencies may be
+greater and roll-off tendencies can be exaggerated.
+(vii) Controllability may be reduced requiring Il'Ore stick
+deflection for maneuvers or stall recovery.
+(viii) Power available may be reduced due to ice formations oo
+prq>ellers or jet engine inlets.
+(ix) Ice or excessive quantities of FPD fluid have been known to
+cause control surface flutter.
+(x) Trim effectiveness can deteriorate with the accumulation of
+ice on unprotected surfaces.
+(xi) Power failures may occur due to carburetor icing or ingestion
+of ice particles into jet engines or clogging of fuel tank vents and fuel caps.
+(xii) Severe vibrations may occur due to asymretric shedding of ice
+fran prq>ellers or rotor blades. Helicopter autorotation capability can be
+significantly changed or lost.
+(xiii) Control surfaces such as ailerons, elevators, and wing
+spoilers can freeze in place if water deposits, snow, and FPD fluids are oot
+properly cleaned or drained fran critical areas.
+(xiv) Wing flaps may be damaged if retracted with ice formations
+adhering to critical areas.
+(xv) Landing gear nechanisrns may be damaged or frozen in place if
+not prq>erly cleared of ice formations.
+(xvi) Forward visibility may be lost or significantly reduced if
+windshield anti-icing systems are oot available or are oot properly utilized.
+4 Par 3
+12/17/82 AC 20-117
+Appendix 3
+(xvii) Radio, radar, and other c:annunication and navigation antennas
+may be damaged or efficiency reduced due to ice formations.
+(xviii) Ventilation, air conditioning, and other air inlets can be
+blocked or flCM restricted.
+(xiv) Ice dislodged fran fuselage sections, antennas and other
+canponents forward of engine inlets and other critical corrp::,nents can produce
+damage.
+(xx) Ice formations, under certain conditions, may oot have
+noticeable effects on aircraft performance and flight characteristics, however,
+these effects may becane quite ai;;parent in the event of engine failure or other
+emergencies.
+(xxi) Flight, engine, and other instruments are subject to error if
+ice formations exist on external probes, in pressure lines, or on areas forward
+of or crljacent to external probes. Operational experience indicates that
+typical sources of error are icing of pitot-static probes used for airspeed,
+altitude, and engine pressure ratio measurements.
+(xxii) Autanatic systems that utilize external signal sources such
+as AFCS, auto-pilots, autothrottle speed coomand systems, or stability
+augmentation systems may be crlversely affected~ ice formations oo or in the
+vicinity of external sensors.
+(xxiii) Residual rroisture oo door and cargo hatch seals may freeze
+under certain conditions causing leaks or seal damage.
+4. METHODS OF DEICING OR CLEANING ICE FIOt AIRCRAFT SURFfCF§.
+a. Ground deicing procedures have been under developnent, practically
+speaking, since the time of the invention of the aircraft. Early methods
+enployed the use of hangars to avoid exposure to the elements or use of wing
+covers and covers for other critical o::>rrp:>nents such as windshields, engine air
+intakes, pitot probes, etc. But these devices were useful ooly to lessen the
+extent of work required to reioove frost, snow, or other ice formations from the
+aircraft. Various devices such as brcxxns, brushes, ropes, squeegees, fire
+hoses, or other devices were used to rerrove dry snow accumulations but caution
+hcrl to be exercised to preclude damage to aircraft skins and other critical
+canponents. Ccmron sense prevailed. Many of these manual methods are still used
+today for both small and large aircraft. As larger aircraft were introduced and
+the numbers of air carrier fleets and scheduled flights increased, more
+expeditious and less costly procedures were developed. Thus, freezing p,int
+depressant (FPD) fluids were introduced to prevent or retard the formation of
+frost during Ol/ernight storage, to assist in melting and rerroval of frost, snow,
+or other ice formations such as would develop as a result of freezing rain or
+drizzle or for assisting in the removal of ice or frost formations accumulated
+during a previous flight.
+b. Varioos methods of ai;;plying FPO fluids were utilized, such as rropping
+the fluid on the surface requiring treatment from a bucket, use of hand p.unps
+Par 3 5
+12/ 17/82
+AC 20-117
+Appendix 3
+attadled to a supply tank and spreading the solution with a m:::,p, brush or other
+suitable devices to, in time, melt the ice to the extent that it could be
+removed by using manual ireans.
+c. These manual irethods of deicing provided a capability, in clear
+weather, to clean an aircraft adequately to allCM a safe takeoff and flight. In
+inclement, cold weather conditions, hc,wever, the only alternative was to place
+the aircraft in a protected area such as a hangar to perform the cleaning
+process by whatever ireans were available. In freezing precipitation conditions,
+takeoff had to be initiated alm::>st inmediately follCMing reroval from the
+protected area. Ccmoon practice developed was to clean the aircraft in the
+hangar and provide a protective coating of FPD fluid (anti-icing) to protect the
+aircraft fran ice or snow accumulation prior to takeoff.
+d. Many of these techniques remain in use today, depending upon the local
+facilities and services that exist. However, rost m:xlern airports have traffic
+conditions and limitations of hangar space that, for the m::>st part, preclude
+indoor ground deicing. These airports usually have ooe or m:::,re fixed base
+operators who have the equip:nent, capability, and experience to clean the
+aircraft and provide brief protection to allCM safe takeoff to be performed.
+Many airlines have prepositioned ground deicing equip:nent for ranp deicing at
+major airports where icing conditions are prevalent in the United States,
+Canada, and European countries. Several manufacturers of various types of
+aircraft ground deicing equip:nent exist today to ireet the ground support
+equip:nent demands of the aviation CX)ftll\Unity. These ground support equip:nents
+vary in types fran simple trailers hauling a 55 gallon drum of FPD fluid with a
+wobble pump and m:::,p to exotic equip:nent capable of heating and dispensing large
+quantities of water and deicing fluid and capable of elevating deicing personnel
+to heights necessary to have access to any area of the largest of today's
+ai~craft. This technology exists and it is believed that any demand for
+aircraft ground deicing can be readily met by the ground support equipnent
+industry.
+e. Although m::>dern and sophisticated ground support equip:nent exists, cost
+considerations sometimes dictate combination of ice reJOC>Val nethods. For
+example, heavy accumulations of snow may be m::>re cost effectively reroved using
+brocms, brushes, ropes, fire hoses, and other techniques follc:Med -.t?Y final
+cleaning with aqueous solutions of FPO fluid. h:Jain, conm:>n sense, experience,
+and planning prevail to make the aircraft ground deicing process a cost
+effective and safe operation. With the rising cost of petroleum products, the
+primary base of m::>st conm:>nly used aircraft deicing fluids, the expense of FPD
+fluid deicing has becane a very significant parameter in the final decision
+process. An answer to this problem has been developed in recent years
+employing use of very hot water. Saoo manufacturers of such equip:nent have
+conducted extensive testing and evaluation to develop and perfect the
+procedures, precautions, and reccmnended aqueous FPO fluid mixtures necessary
+for cost effective, but safe, deicing. However, an understanding of the
+equip:nent, the dlaracteristics, and limitations regarding use of FPD fluids is
+essential to assure safe winter operations.
+6 Par 4
+12/17/82
+AC 20-117
+Appendix 3
+5. CHARJIC'l'ERISTICS OF FREEZING OOINl' DEPRESSANI' (FPO) AIRCRAET GROUND DEICING
+FWICS.
+a. Deicing fluid rranufactured in accordance with MIL-A-8243C is by
+specification 3 parts ethylene glycol and 1 part propylene glycol mixed with
+small quantities of water, corrosion inhibitors and wetting agents to allow
+SIIDOth, even coverage of a surface. MIL-A-8243C fluid is specified in two
+types. Type I, used by the U.S. Air Force contains the ingredients described
+above while Type 11, used by the U.S. Navy contains a small amount of additive
+to inhibit a chemical reaction between ethylene glycol and silver oxide. This
+additive is used to preclude a EX)SSible fire hazard relating to electrical
+relays and switches that incorporate silver oxide electrical contacts.
+b. All known conmercially available FRO fluids for aircraft deicing use
+are of the ethylene glycol or propylene glycol family. The exact formulae of
+various manufacturers' fluids are proprietary. It is very important to
+understand that some corrmercially available FPO fluids contain either ethylene
+glycol or derivatives of ethylene glycol such as diethylene glycol with small
+quantities of crlditives and water; that various FPO manufacturers, upon request,
+will premix aqueous solutions of FPO for specific custaner reasons; and that
+before using a solution of FPO it is irrperative that the ingredients be checked
+by close examination of the stock number and by a quality control examination to
+ascertain that the fluid supply conforms to the need. FPO fluid manufacturers
+can supply methodology and suggest equipnent needed for quality control
+examinations.
+c. FPO fluids in use today have characteristics that are best defined by a
+phase diagram or freeze chart as illustrated in figure 3-1. It is enphasized
+that this diagram is rot representative of any conmercially available FPO
+fluids. FPO fluid rranufacturers can furnish fhase diagrams for their product.
+This diagram illustrates the variation of the freezing ?)int of various mixtures
+with water. FPO fluids are very soluble in water. The addition of glycol to
+water will lower the freezing ?)int of the water mixture. The freeze ?)int of
+glycol or a glycol/water mixture is rot a sharp ?)int as is the case with water
+alone. The freeze ?)int of glycol or a glycol water mixture can be said to
+occur when crystals begin to form. As the tenperature is lowered, glycol or
+water begins to crystallize and the mixture will assume a slushy consistency.
+As CXX)ling proceeds the mixture will thicken and may oo longer flow and
+eventually if CXX)led to very low tenperatures can solidify to a hard granular
+solid.
+d. It can be seen from figure 3-1 that minimum freeze :[X)int (onset of
+crystallization) occurs when the mixture consists of approximately 60 percent
+glycol and 40 percent water. This is comoonly referred to as the eutectic
+point. It can also be seen that beyond the eutectic :[X>int the freezing
+temperature of ethylene glycol is higher. This means that p.ire ethylene glycol
+will freeze (onset of crystallization) at warmer temperatures than aqueous
+solutions of ethylene glycol. Propylene glycol does rot exhibit this
+characteristic as shown in figure 3-1. For this reason, all currently available
+carurercial and military deicing fluids contain small quantities of water.
+Military deicing fluids contain propylene glycol. This facilitates outside
+storage at cold temperatures. Generally, sufficient water is added to allow the
+7
+Par 5
+AC 20-117 12/ 17/82
+Appendix 3
+PHASE DIAGRAM Of AQUEOtlS GLYCOL SOLUTIONS
+40------------------------­
+0
+CAUTION: THIS DIAGRAM IS NOT
+REPRESENTATIVE OF ANY
+COMMERCIALLY AVAILABLE
+20 AIRCRAFT GROUND DEICING
+OR ANTI-ICING FLUIDS
+-10
+10
+0
+-20
+Ir -10 fs'
+w' DIETHYLENE GLYCOL'-.,... LL.I
+a:. a:.
+:, :,
+I < ­ -20 ~
+a:. -30 a:.
+w w
+0.. PROPYLENE GLYCOL 0..
+~ ~ w
+~ -30 I­
+-40
+-40
+-50
+-50
+EUTECTIC
+-60
+POINT
+-70
+-60
+-eo--------------------------------------­
+0 10 20 30 40 50 60 70 80 90 100
+100% WATER 100% FPO
+FPO MIXTURE WITH WATER,% BY WEIGHT (r-URE UNDILUTED)
+FIGURE l-1
+8 Par 5
+12/17/82 AC 20-117
+Appendix 3
+freeze p:,int to be rot greater than -25°F. However, it is very inportant for
+the user of the fluid to know the specific dlaracteristics of the fluid being
+used.
+6. CAPABILITIES AND LIMITM'IOOS OF FREEZD',K; l?OIN.l' DEPRESSANT (FPO) AIRCRAFT
+GRXJND DEICD',K; FWIOO.
+a. General. The basic P'}ilosqily of using FPO fluids for aircraft deicing
+is to decrease the freezing p:>int of water either in the liquid or crystal (ice)
+phase. FPO fluids are very soluble in water. However, the rate at which ice
+will absorb FPO or nelt is very slow. If frost, ice, or snow is cdhering to a
+wing surface, that ice formation may be nelted by repeated application of proper
+quantities of FPO fluid. This process can be significantly accelerated by
+thermal energy of heated fluids. As the ice nelts, the FPO mixes with the water
+thereby diluting the FPO. As dilution occurs, the resulting mixture may begin
+to run off. If all the ice is rot nelted, additional application of FPO becanes
+necessary until the fluid reaches the ice/aircraft surface interface. When all
+ice has nelted, the liquid residue that remains is a mixture of water and FPD.
+The remaining film oould freeze (begin to crystallize) with ooly a slight
+temperature decrease. Slight tenperature decreases CX>Uld be induced by many
+factors such as oold soaked fuel in wing tanks, reduction of solar radiation by
+cloud d:>scuration of the sun, ambient tenperature oooling, wind effects,
+temperature depression during developnent of wing lift and other factors. If
+the freeze p:>int of the remaining film is found to be insufficient or is
+unknown, a fresh ooat of FPD fluid should be cdded before the aircraft is
+released for flight. Practice developed and accepted by the air carrier
+industry is to assure that the remaining film has a freezing p:>int less than
+20°F below ambient tenperature. This entire process can be accatplished by any
+means available: i.e., ix>uring, mcg:>ing, brushing, or spraying. Freeze ix>int of
+the remaining FPO film can be neasured at specific locations oo a surface using
+refractive index techniques.
+b. Nonprecipitation Coooitions.
+(1) The al:x>ve description is intended to describe the capabilities and
+limitations of FPO for deicing (getting the aircraft clean), in a very general
+way. As nentioned earlier there are many other nethods of rerooving ice, frost,
+or snow deix>sits. Large quantities of FPO would be necessary to try to nelt
+ice, frost, and snow and the use of this nethod alone may rot be oost effective
+or tinely. 'lllis is especially true with regard to snow dep'.)Sits. The deicing
+process can IX>SSibly be aecatplished rrore oost effectively by canbining manual
+methods to first reroove soft snow and then using the FPO fluid to remove any
+residual ice. In sane instances, where the snow is rot adhering to surfaces,
+all snow may be removed by sweeping, brushing, or blowing with oool air (either
+shop air or other pressurized air sources). Hot air should rot be used to
+attempt to remove dry snow. In clear (nonprecipitation) weather, once proper
+inspection has been perfcmed, ro further action may be necessary.
+(2) Where nndern grouoo support equipnent (GSE) is available, conman
+practice is to use water heated to approximately 180°F and glyool heated to
+approximately 150°F. Sane GSE manufacturers recoomend that hot water alone be
+used to nelt and remove snow, frost, or ice formations. This is ix>ssible
+Par 5 9
+--------------------~
+------
+AC 20-117 12/17/82
+Appendix 3
+because of the heat applied, as well as the mechanical force of the stream
+tending to rrelt, loosen, and flush ice formations from the aircraft.
+~
+(3) Sane manufacturers reccmnend that p.1re hot water can be used to
+deice the aircraft at ambient temperatures above +26°F. Below that temperature
+or if ice formations occur, sufficient FPO mixed with the water is reccmnended
+to prevent freezing during the deicing process. In the latter case, as
+discussed before, the freeze point of the remaining film may be unkrx,wn. Once
+the aircraft is clean (deiced) a final coat of FPO should be added to prevent
+freezing due to temperature depression by any of the factors mentioned earlier.
+If hot water alone is used for deicing, all surfaces should be coated with a
+solution of FPO to assure that the freezing point of remaining filnv3 will be oo
+greater than 20°F below ambient or surface temperature whichever is lower.
+(4) Other techniques include frequent use of FPO fluids during storage
+under conditions of precipitation or frost to reduce the workload and time
+required to prepare an aircraft for flight. Experience has shown that if ice
+formations are not allowed to adhere to an aircraft surface they a'te easier to
+reroove. If ice formations can be prevented from forming, only final inspections
+need to be performed under sare conditions. Under other oonditions, however,
+further treatment may be required to assure that the residual film has a
+freezing point sufficiently low to prevent ice crystals from forming during taxi
+and takeoff.
+c. Conditions of Freezing Precipitation.
+(1) General.
+(i) The foregoing paragra?'ls deal primarily with the capabilities
+and limitations of FPO fluids in clear (nonprecipitation) weather oonditions.
+This paragra?'l addresses the capabilities and limitations of FPO fluids under
+weather conditions where ice, frost, or snow may form. FPO fluids have the
+capability of preventing the formation of frost, ice, or snow for a finite
+perioo of time. The time of protection depends upon many factors and is
+therefore unpredictable. The primary factors that influence this time of
+protection are ambient temperature, surface temperature, FPO fluid film
+thickness, FPO mixture strength, and the rate of addition of roisture. These
+factors are influenced by many other variables such as solar radiation, relative
+htnnidity, surface contour, surface inclination angle, surface roughness, wind
+effects, fluid application procedures, residual roisture on the surface prior to
+deicing, etc. But to bring the i;:bysical process into perspective ooe nust
+visualize a simple case where ooly a few of these variables are examined.
+(ii) As discussed earlier, once the deicing process is carpleted,
+a thin film of deicing fluid remains oo the surface and this film contains a
+mixture of FPO and water. The ratio of water to FPO is unknown and therefore
+the freezing point is unknown. Assume that a very rich mixture of fluid is
+uniformly added to the surface in a manner that rost roisture is flushed 8Jllay
+while realizing that sane water will always remain in the solution. Also assume
+that the fluid film that remains is 80% ethylene glyool. Under these
+assumptions, the question then becanes "How much water nust be added to this
+remaining film to cause the freeze point of the fluid to reach that of ambient
+temperature?" To answer this question, test results have shown that when
+10 Par 6
+12/17/82 AC 20-117
+Appendix 3
+ambient and surface temperature is 20°F the fluid film thickness ma surface
+sloped at an angle of 15° is at b?st (the nost) 0.10 nm deep. Fran the freeze
+chart (figure 3-1) it can b? seen that at 20°F a mixture of 16 percent ethylene
+glycol and 84 percent water will begin to crystalize.
+(2) Snow Conditions.
+(i) Precipitation rates in snow conditions have b?en found to
+contain water in arrounts up to 0.7 in/hr. A general rule of thumb, comronly
+used by meteorologists, is that the depth of snow is aoout 10 times the depth of
+melted snow. This rule of thumb, although useful for some p,irposes, could be
+misleading, since snow densities vary widely. Very dry snow can have a density
+of 30:1 (30 inches of snow contains 1 inch of water) and very wet snow can have
+a density of 5:1. In snow conditions, the primary influence ui;x:>n FPO life is
+the rate of addition of water and subsequent dilution of the FPO fluid. If snow
+is falling at a rate of 1/2 inch per hour and if the water content of this snow
+is 0.1, then the rate of addition of water to the FPD will be 0.05 in/hr.
+(ii) If we assume that as the falling snow contacts the surface
+film it nelts and the resulting water mixes thoroughly with the fluid contained
+in the film, the strength (glycol to water ratio) of 16 percent will b? reached
+in a specific time. This time can be calculated using rationale and equations
+given in appendix 2.
+(iii) From this assessment we can see that at a snowfall rate of
+1/2 inch per hour mto a wing having been coated with a very rich mixture, 100
+percent ethylene glycol, at an ambient terrperature of 20°F, crystallization may
+begin in approximately 25 minutes. Figure 3-2 presents the estimated life of
+deicing fluids as a function of ambient temperature for several snowfall rates.
+Extreme caution is emphasized that these estimates should not be used to attempt
+to estimate the time available fran deicing or anti-icing to takeoff, as noted
+clearly on the chart. The reason for this caution is that these estimated times
+are influenced by many variables, and figure 3-2 takes into account cnly a few.
+These variables are emphasized and their effects discussed in paragraph 7 of
+this appendix.
+Par 6 11
+AC 20-117 CHG .1 4/15/83
+Appendix 3
+40,----------------------------.-­
+CAUTION: THIS REPRESENTS ONE EXAMPLE
+OF THE USE OF AN FPO FLUID.
+DO NOT USE THIS CHART FOR
+ESTIMATING TIME AVAILABLE
+_ 30
+z FROM DEICING TO TAKEOFF.
+­
+:i
+z
+0
+ASSUMPTIONS:
+~
+=
+dt 0.05 mm
+:J
+=
+-' 20 M 60% ETHYLENE GLYCOL
+1
+~ =
+Rw 0.1 R
+6
+>
+a:
+(.)
+~
+w
+SNOW FALL RATE
+~
+j:: 10
+rnf"t'
+. /ht lf>lf> ~
+'/4 ,n
+1 mm/hf)
+2 1
+t==-------..!'~/2;.i:n:/h:r:l':],· in/hf l"'l f>· 4 mm/hf\
+o----_...._________'-_____._____
+...1...___
+~
+0 5 10 15 20 25 30
+TEMPERATURE °F
+FIGURE 3-2
+(iv) It is emphasized that the al:x>ve rationalization regarding the
+finite life of FPD fluids is simplified for understanding p..1qx>ses. Other
+physical processes occur within an FPD fluid film in the dynamic condition .of
+precipitation or addition of moisture by any means. It is imperative that .this
+process be understcx:x:i by all associated with winter c:perations of aircraft.
+(v) To assist the understanding of this process, figure 3-3
+depicts a surface containing a film of FJ?D fluid.
+12 Par 6
+AC 20-117
+12/ 17/82 Appendix 3
+---- H20 FROM SNOWFLAKE #2
+---- ICE CRYSTAL
+H 0 FROM MELTED SNOWFLAKE #1
+2
+--- FPD FLUID
+---AIRCRAFT SURFACE
+FIGURE 3-3
+(vi) As snow contacts the upper surface of this film it ITElts and
+the water, begins to mix with the FPO fluid. It is known that glycols are very
+soluble in water but it is also known that to assure a horoogeneous fluid, the
+mixture must be agitated or stirred. So when a snowflake or other ice crystal,
+supercooled rain drop, or water in any form contacts the fluid film surface, a
+finite time is required for the water to mix with the fluid. During this time,
+the water remains sanewhat in 1:X,1re form or a weak c:queous solution of FPD. If
+during this process, before the water from a snowflake mixes with the fluid,
+another snowflake inpacts the surface, as depicted in figure 3-3, a p:>rtion of
+the snowflake may rot ITElt inmediately but will remain in ice-crystal form.
+This process has been observed during simulated snow testing. As snow continues
+to impact the surface, ice crystals can be seen to form oo localized areas of
+the surface of the FPO fluid. Whether or rot these ice crystals will bond to
+the aircraft surface depends upon many factors, such as: fluid film thickness,
+FPO fluid strength, surface temperature, ambient tenperature and temperature of
+snow, rain, or ice crystals inpacting the surface. Another factor is the latent
+heat of fusion~ however, this effect is slight in oonparison to heat transfer to
+ambient air or to ma.ssive aircraft structures. As a snowflake inpacts the FPO
+surface and ITElts, heat is transferred from the fluid to the ice crystal. This
+reduces the surface temperature and, as precipitation oontinues, the rate at
+which snow will melt is reduced.
+(vii) If the FPO film is sufficiently thick, these surface ice
+crystals may initially be localized on or near the surface or be floating on the
+surface. But as the process oontinues, water being added will gradually mix
+with the FPD fluid and, in time, the fluid in the surface film will reach an
+aqueous solution that will freeze (become slush) at the prevailing temperature
+Par 6 13
+AC 20-117 12/17/82
+Appendix 3
+and with time bea:::me frozen or adhere to the aircraft surface. As the quantity
+of slush increases, the viscosity of the surface film increases, requiring
+greater forces to cause the surface slush to be blown off of aircraft surfaces.
+Once the crystallization process begins, the chances of proper blow-off during
+takeoff roll are minimal. In crl:lition, once the crystallization process begins,
+the surface may be expected to be a rough texture which can adversely inpair
+aircraft performance and flight dlaracteristics. It is also very inp:>rtant to
+uooerstand that many varieties of occur in nature and each will result in
+SJ1CM
+differing characteristics (surface textures or roughness) during the process of
+dilution and crystallization of FPO fluid mixtures.
+(3) Frost Coooitions.
+(i) Frost is formed fran the sublimation of water vapor cnto a
+surface where the temperature is below freezing. A method of retarding the
+formation of frost on aircraft surfaces is by applying a film of FPO fluid. As
+in previous examples, the maxinun thickness of fluid that can be expected to be
+retained is 0.10 nm. A typical heavy frost condition will produce a rate of
+accumulation of liquid water (in the form of frost) of 0.0008 in/hr or 0.02
+nm/hour. Again, we may, as an exanple, estimate tx:,w long the protective film of
+FPO fluid may last and assess the condition of the fluid as a function of time
+using rationale and nethods contained in appendix 2. The rationale used for
+snow awlies as well for frost since the FPO fluid will absorb the water rather
+than allow fonnation of frost, i.e., until the FPO fluid mixture is diluted to
+its freeze point. Then frost can begin to accumulate. However, it is
+enphasized that, under frost conditions, moisture will be absorbed by FPO fluids
+at a faster rate than roisture ~uld be deposited in the form of frost. This is
+due to the hygroscopic nature of FPO fluids.
+(ii) Assume that the anbient temperature is 20°F and the mixture
+that will begin to freeze at that tenperature is 16 percent FPO fluid. In this
+case, we have assumed that a SO percent solution of ethylene glycol and water
+was applied to a clean dry surface prior to the beginning of the dew or frost
+process. This example would be representative of a heavy frost condition, but
+it is emphasized that film thickness also is an extreme case. The estimated
+time of effectiveness for this exarrple is 10.4 hrs. It is ertp1asized that
+hygroscopic effects and other variables can significantly reduce this time.
+(iii) Figure 3-4 provides the estimated life of FPO fluids for
+various frost conditions. Extreme caution is emphasized that these estimates
+should not be used to attempt to estimate time available fran deicing or
+anti-icing to takeoff, as noted clearly on the chart. Many other factors nust
+be considered, such as type of FPO fluid, surfaces to which the fluid is
+applied, surface temperature, and other variables mentioned earlier. In
+addition, it is in:p:>rtant to realize that when the FPO fluid has been diluted to
+the freeze point, crystallization has begun. kl.y slight reduction in surface
+temperature could result in further crystallization and dangerous surface
+roughness. After the frost protection process has been utilized, the aircraft
+surfaces affected should be thoroughly cleaned and inspected to assure that
+residual diluted fluids will rot freeze during takeoff and climb:::>ut. This also
+applies to conditions where ambient temperature has increased since the
+application of the initial or repeated anti-frost solutions, because surface
+14
+Par 6
+12/17/82 AC 20-117
+Appendix 3
+temperature depression oo the upper surface of a wing producing lift can be
+significant. Temperature depression is a function of wing design, airspeed, and
+the aroount of lift being produced. The aircraft manufacturer can provide
+specific values of tenperature depression for their aircraft. care should be
+taken to assure that the residual surface film of FPO has a freeze p:>int m
+greater than 20°F below ambient tenperature whichever is lO'ft'er.
+CAUTION: THIS REPRESENTS ONE EXAMPLE
+OF THE USE OF AN FPO FLUID.
+DO NOT USE THIS CHART FOR
+ESTIMATING TIME AVAILABLE
+FROM DEICING OR ANTI-ICING
+1s
+TO TAKEOFF.
+0
+a:
+::::,
+-0
+:c
+z
+0
+~
+_, 10
+~
+U)
+> FROST
+a:
+(.)
+f:
+w
+~
+;:: 5
+0.02 mm/hr
+o.03
+mm/hr =
+6 0.05 mm
+1
+=
+M 60% ETHYLENE GLYCOL
+1
+o~--~:------:"::----...J....---...L----.L.-_
+_J
+0 5 10 15 20 25 30
+TEMPERATURE °F
+FIGURE 3-4
+(4) Freezing Rain arx1 Drizzle Coooitions.
+(i) Precipitation rates in freezing rain and drizzle oonditions
+have been found to vary frooi about 0.3 to 5.0 nm per hour or about 0.01 to 0.20
+in/hr. These oonditions can occur at ambient tenperatures between 32°F and
+Par 6 15
+12/17/82
+AC 20-117
+Appendix 3
+approximately 12°F. Freezing rain and drizzle water droplets are in the
+supercooled liquid state and freeze upon .inpact with other d::>jects. Because of
+the large size of freezing rain droplets (400 to 1300 microns) the ice produced
+is usually glaze ice. When an aircraft surface is coated with a film of FPD
+fluid, freezing rain and drizzle droplets inpacting the fluid film will mix
+readily with FPD fluid, causing rapid dilution and urrler certain conditions can
+wash EMay the FPD fluid. The effectiveness of FPO fluids to provide protection
+in freezing rain conditions can be estimated using the techniques contained in
+appendix 2. Under the nost severe freezing ra;n conditions (5.0 nm/hour or
+aoout 0.2 in/hour) crystallization \tlOuld be expected to begin in less than 11
+minutes at 25°F if p.ire ethylene glycol were used and if FPD fluid film
+thickness is assi..nned to be 0.1 nm. Airline q;,erational experience indicates
+that FPD fluids are short-lived in nost freezing rain conditions. In many
+instances, one side of the aircraft already deiced will begin to refreeze while
+the other side is being deiced. Figure 3-5 provides estimated FPD fluid life as
+a function of ambient temperature for several freezing rain precipitation rates.
+Extreme caution is emphasized that this chart should not be used to attempt to
+estimate time available fran deicing to takeoff.
+20-----------------------,,-----...--..--,
+CAUTION:
+THIS REPRESENTS ONE
+EXAMPLE OF THE USE OF
+AN FPO FLUID. DO NOT
+FREEZING RAIN RATE
+USE THIS CHART FOR
+z 15 ESTIMATING TIME
+:e AVAILABLE FROM
+DEICING TO
+z
+TAKEOFF.
+0
+~
+::::;
+....I
+~ 10
+Cl)
+>­
+a:
+u
+~
+w
+:e
+~
+f('\/\'\f'
+l21£,4 fC\ 61 = 0.05 mm
+oJO ,o/hf . roro/hr)
+=
+0.20 in/hr lS,08 M1 60% ETHYLENE
+GLYCOL
+0 ...__ ____.______.______.__________..____
+0 5 10 15 20 25 30
+TEMPERATURE °F
+FIGURE 3-5
+16 Par 6
+12/17/82 AC 20-117
+Appendix 3
+(ii) It is enp1asized that aircraft ice protection systems are
+designed basically to rope with the supercooled cloud environment (not freezing
+rain). Supercooled cloud water droplets have a Iredian volumetric diameter (MVD)
+of 5 to 50 microns. Freezing rain MVD is as great as 1300 microns. Large
+droplets of freezing rain impact nuch larger areas of aircraft corcponents and
+will, in time, exceed the capability of m::>st ice protection equipnent. Flight
+in freezing rain should be avoided where practical.
+7. VARIABLFS INFLUENCING THE EFFECTIVENF.SS OF AIRCRAFT GRXJND DEICING FWIOO.
+Many variables can influence the effectiveness of FPO fluids for deicing and the
+life of these fluids, especially under oonditions where m::>isture is being cdled
+to the fluid. This section is intended to provide a basic understanding of
+these variables and their influences. Each of these variables is discussed in
+the following subparagrai;tls.
+a. Chemical Carp:;,sition of FPO Fluids. FPO fluids intended for use in
+deicing or anti-icing aircraft are manufactured and distributed by a wide
+variety of CXl'lpanies either to manufacturer or custcmer specifications. Each
+may oontain a cxxnbination of dlemicals that have various freeze dlaracteristics.
+Although each FPO fluid is manufactured within tolerances oontained in the
+specification, batches may differ and may have significant variations in
+characteristics.
+b. Freezing Characteristics of FPO Fluids. These dlaracteristics were
+discussed in detail in a previous pa.ragrai;tl of this appendix. It is enphasized
+here that before a fluid is used oo an aircraft, the freeze dlaracteristics
+should be known by the user. A nethod of determining this is by thorough
+urrlerstanding of fluid procurement specifications and tolerances and quality
+control inspections or sarrpling by either the manufacturer or the user. In
+addition, FPO fluids are either premixed (diluted with water) by the
+manufacturer or mixed by the user fran bulk supplies. To assure known freezing
+characteristics, samples of the final mixture should be analyzed.
+c. FPO Fluid.Strength When Applied.
+(i) Fluid strength or the ratio of FPO ingredients, such as ethylene
+glycol to water, may be known if proper precautions are taken prior to
+application such as those outlined above. It is important, however, to realize
+that fluid strength is a very significant factor in deicing properties as well
+as the time that the FPO fluid may remain effective (anti-icing).
+(ii) Figure 3-6 presents estimates of ethylene glycol life as a
+fW1ction of ambient temperature for several cx:mnonly used fluid strengths. It
+can be seen that as fluid strength is increased, the time of effectiveness
+increases dramatically. This figure is presented for reference purposes only to
+illustrate the variation of fPD fluid life and should not be used for flight
+planning purposes. It is also enphasized that µJre (100 percent) ethylene
+glycol fluids should rot be used in ronprecipitation conditions, since the
+freeze point is nuch higher than fluids diluted with Wqter, as illustrated in
+figure 3-1. camon practice of the aviation cannunity is never to exceed the
+eutectic point when using ethylene glycol base fluids.
+Par 6 17
+AC 20-117
+12/17/82
+Appendix 3
+so----­
+CAUTION: THIS REPRESENTS ONE EXAMPLE
+OF THE USE OF AN FPO FLUID.
+40 DO NOT USE THIS CHART FOR
+ESTIMATING TIME AVAILABLE
+FROM DEICING TO TAKEOFF.
+z
+~
+~ 30
+j::
+~ ASSUMPTIONS:
+::i = 3
+....I Of 0.05 mm (1.97 X 10- in)
+~ =
+Rs 1/2 in/hr
+en
+>­ Rw = 0.1 R
+a: 5
+u 20
+0
+1­
+w
+:E
+j::
+10
+0
+0 5 10 15 20 25 30
+TEMPERATURE °F
+FIGURE 3-6
+d. Residual Moisture on the Surface. If a known (quantified strength) FPD
+fluid is added to a clean dry surface, the residual strength can generally be
+relied upon to remain at that strength if precipitation is oot in process.
+HCMever, if residual m:>isture (fran any source1 e.g., dew, melted ice,
+precipitation, etc.) is present on the surface, that rroisture can be expected to
+18 Par 7
+12/17/82 AC 20-117
+Appendix 3
+further dilute the FPO fluid being used. This will change the freeze
+characteristics and influence effectiveness time of the final film of FPO
+fluid.
+e. Fluid Film Thickness. After FPO fluid has been med to an aircraft
+surface, a thin film of FPO fluid will remain on the surface. This fluid film
+thickness has been found to vary from O. 002 mn to about O. 100 mn and is
+influenced by many parameters, but primarily surface and fluid temperature,
+fluid viscosity, surface contour, surface inclination angle, and surface
+tension. Film thickness (on a finite area of the surface) influences the
+effectiveness of the fluid. '!be effectiveness of the FPO fluid will be
+different on various parts of the aircraft. Figure 3-7 presents an enpirically
+derived relationship for estimating fluid film thickness as a function of
+several of these variables. It is enphasized that FPO fluid film thickness can
+vary significantly in the vicinity of surface discontinuities such as seams,
+cowling, inspection plates, rivets and screws, etc.
+..---------------------::a-­
+0.060
+0.050
+e
+!
+0.040
+Cl)
+ffi
+z
+~u
+0.030
+df = 0.0267 = 0.0088V;
+e
+/A
+sin 9
+~
+~
+WHERE:
+iI 0.020
+=
+II ­ IA FLUID VISCOSITY (lb/ft-hr)
+e = FLUID DENSITY (lb/tt3)
+"O
+8 = INCLINATION ANGLE (degrees)
+0.010
+0.000 _________________________,
+0 1.0 2.0 3.0 4.0
+V;~ne
+FIGURE 3-7
+f. FPO Fluid ~lication Techniques. Generally, FPO fluids, given time,
+will seek an equilibrium film thickness regardless of the nethod of application
+if the fluid is awlied in a uniform manner using sufficient quantities of
+fluid. All FPO fluids in ccmoon use contain wetting agents to aid in this
+process. If sufficient fluid is mt added to the surface, desired film
+thickness may mt be achieved. If the FPD fluid is mt uniformly applied,
+localized areas may be left with less than desired film thickness. In
+conditions of precipitation, if the rate of FPD awlication is slow, areas
+Par 7 19
+AC 20-117 12/17/82
+Appendix 3
+treated first with FPO fluid can have totally different dlaracteristics than
+areas treated last. In cases where oot water alone is being used for deicing,
+areas previously oversprayed with FPO fluids can be diluted by water splashed or
+flowing fran other areas being deiced. All of these factors are variables that
+can influence the effectiveness.
+g. Ambient T~rature. A specific mixture of FPO fluid will freeze
+(begin to crystallize) at a specific ambient temperature. For that specific
+mixture, the freeze p::>int is accurate and repeatable. sane cockpit installed
+outside air temperature gages are known to have inaccuracies as great as
+.:ts 0c. In addition,' the ambient temperature at the ranp, gate, tiedown area,
+taxiway or runway, may vary significantly from the tenperature in the airp:,rt
+tower or fran the therrocmeter on the line shack wall. Jnbient tenperature may
+be steady, rising, or falling. Each of these variables, usually unkrx,wn to the
+pilot, can either independently or in combination influence the time of
+effectiveness of FPO fluids.
+h. Aircraft Surface Temperature.
+(1) Aircraft surface (skin) temperature also influences FPO fluid
+effectiveness time. Surface temperatures can be drastically different from
+ambient temperatures for many reasons: solar radiation (cloudy day, surmy day,
+parked in the shade, etc.); temperatures of fuel in fuel cells; the type and
+location of fuel cells; fuel oold soaked during previous high altitude flight;
+quantity of fuel in fuel cells; the source of fuel (above or below ground
+storage); time since refueling; engine q;>eration; APU operation; q;>eration of
+subsystems or components that generate heat; thickness of the skin, type of
+skins, and skin materials. These are only a few of the many variables that can
+influence aircraft surface temperature.
+(2) Camon practice accepted in the aviation o::mnunity is that if it
+can be determined that a small quantity of dry snow is oot adhering to aircraft
+surfaces, it will blow off during the takeoff roll and thereby oot affect
+aircraft flight characteristics. This practice is well proven if one can
+ascertain that the snow is oot adhering to critical surfaces. Dry snow at oold
+ambient temperatures will oot adhere to dry aircraft surfaces if surface
+temperatures are also very oold and will remain oold during start, tax!, and
+takeoff. However, operation of engines, or other equipnent, refueling, solar
+radiation and many other factors may warm surface tenperatures, causing melting
+or partial melting of snow and p::>ssibly cause freezing prior to takeoff or
+during the takeoff roll. Sinply checking the consistency of snow during
+pre-flight inspection is not considered adequate. Pretakeoff inspections should
+also be performed. In addition, during preflight inspection and pretakeoff
+inspection, caution should be exercised when making this judgment to oot rely
+up:,n sp:,t checking, especially on areas of oollow structures, such as ailerons,
+sp:,ilers, etc., since these devices are oot oormally exp:,sed to certain heat
+sources. Under certain oonditions dry snow oould adequately blow off of a dry
+cold Sp::>iler but oot from large fuel tankage areas.
+i. Solar Radiation. Solar radiation can significantly influence aircraft
+surface and FPO fluid temperatures. In oonditions of heavy precipitation, solar
+radiation is usually slight. Generally, solar radiation will warm aircraft
+surfaces, but, in shadow areas, surface and FPO fluid temperatures will be
+colder.
+20 Par 7
+12/17/82
+AC 20-117
+Appendix 3
+j. Wind. .Ambient wind blowing CNer an aircaft surface tends to renove
+heat fran the surface at a nore rapid rate than under calm conditions.
+Evaporation of liquids can cause surface tenperatures to actually be lower than
+ambient. The rate of reduction of surface tenperatures and the tenperature
+depression is a function of many variables that make it inpractical to estimate,
+but this factor can influence FPO fluid effectiveness.
+k. FPO Fluid Teprature. Elevated FPO fluid tenperatures (hot fluid) are
+camonly used during the aircraft ground deicing process to assist in rrelting
+and reducing bond strength of ice formations. Fluid viscosity, however, is
+reduced with increases of fluid temperature. This can reduce the residual
+surface film thickness that is an essential parameter in FPO fluid
+effectiveness. Al.so, if hot fluids are applied during precipitation conditions
+(snow or other ice crystal), during the time that elevated fluid tercperatures
+remain, the heat provides a source of latent heat of fusion to rrelt impacting
+snow/ice crystals and to mix with and dilute the mixture. This process is
+favorable in that formation of water crystals in the upper surfaces of the fluid
+film will be delayed. However, in the presence of wind and other factors, the
+additional time, if any, cannot be estimated. If hot FPO fluids are oot
+utilized, ice crystals {precipitation) impacting the fluid will rrelt and mix at
+a slower rate and the latent heat of fusion demand will depress the surface film
+temperature. Use of hot or cold FPO fluids is considered acceptable comnon
+practice, however, unheated fluids will leave greater aroounts of residual film
+prolonging effectiveness while heated fluids are nore effective in the deicing
+process.
+1. Precipitation Rate and Type. Subfreezing precipitation occurs in many
+forms: supercooled rain (freezing rain or drizzle), snow, sleet, and
+canbinations thereof. Each of these conditions can produce an infinite variety
+of conditions and resulting characteristics on the surface of an aircraft. Snow
+has been categorized into 22 varieties, each having different crystalline
+structure and each containing various amounts of frozen water (density). Each
+type of precipitation contains droplets or ice crystals having various
+temperatures which may be equal to or below ambient temperature. These CX>Jllbined
+effects introduce another set of variables that cannot be quantitatively
+assessed to determine their influence upon effectiveness of FPO fluids.
+However, under these conditions surface roughness can vary significantly and in
+conjunction with other variables, time-to-initiation of freezing {surface
+roughness) can vary.
+m. Operation on Snow, Slush, or Wet Surfaces. Such operations can cause
+ice, snow or slush to be splashed or blown onto various aircraft surfaces. Jet
+engine exhaust {i n forward or reverse thrust), jet engine inlet vortices, prop
+or rotor wash, and taxi and takeoff operations can, through recirculation,
+blowing, or splashing, cause snow, ice particles or water to impact various
+aircraft surfaces and freeze or ~here to these surfaces or further dilute FPO
+deicing fluids. These occurrences are scmewhat predictable and should be
+expected during ground operations. The effect of these occurrences is
+unpredictable. If ice formations are anticipated, the clean aircraft concept
+must be implemented. These occurrences can also have an influence upon FPO
+fluid effectiveness.
+Par 7 21
+*
+U, S, Government Printins Office : l 988 -516-018/80302

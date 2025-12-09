@@ -1,0 +1,1280 @@
+Dear Customer,
+An in-flight interruption is not a regular event. None the less,
+as airlines strive to further optimize aircraft utilisation and minimize
+costs, it is inevitable that the effect of such event will become
+more significant for any given operation.
+Herein you will find briefings on the most significant opportunities
+currently available to minimize in-flight interruptions. The aim is to
+share A320 Family fleet experience between all operators.
+This FAST Special provides an analysis of in-flight interruptions
+recorded for the A320 Family fleet over the last 4 years. The
+main contributors have been identified and consequently
+proposals defined that may allow your airline to further reduce its
+in-flight interruption rate.
+The proposals range from relatively simple enhancements
+that are easy to implement to those that are more complex,
+consequently requiring more time and effort to introduce.
+However, all are effective means of reducing in-flight interruptions
+and in addition offer the possibility to further enhance operational
+efficiency.
+Information is provided to allow the benefits applicable to
+your organisation to be easily identified. We now invite you to
+consider each proposal in the context of your fleet and its
+operation. Should you need further information to support you,
+please feel free to contact us.
+Antoine Vieillard
+Vice President A320 Family Programme
+Customer Services
+LAICEPS
+TSAF
+Publisher:Bruno Piquet
+Editor:Kenneth Johnson
+Graphic Designer:Agnès Massol-Lacombe
+Customer Services Marketing
+Tel: +33 (0)5 61 93 43 88
+Fax: +33 (0)5 61 93 47 73
+E-mail: fast.magazine@airbus.com
+Printer Escourbiac
+FAST may be read on Internet http://www.airbus.com/customer/fast/asp
+under Customer Services/Publications
+ISSN 1293-5476
+This issue of FAST has been printed on paper
+produced without using chlorine,to reduce
+waste and help conserve natural resources.
+Every little helps!
+1
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+special
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+M A Y 2 0 0 5
+T E C H N O L O G Y
+A320 Family
+A practical guide to reducing
+in-flight interruptions
+Overall analysis 2
+ATA 21 Air conditioning
+François Gheur 4
+ATA 27 Flight controls
+Joan Rendu 6
+ATA 29 Hydraulic system
+Cédric Turroque 8
+ATA 32 Landing gear systems
+Jérôme Lesage 12
+ATA 36 Engine bleed air system
+Patrick Grave 15
+ATA 52 Doors
+Arnaud Blanc-Nikolaitchouk 18
+ATA 70-80 Propulsion system
+Raquel Sanchez-Garcia 21
+Airbus Customer Services Conclusion
+24
+© AIRBUS S.A.S. 2005. All rights reserved
+No other intellectual property rights are granted by the delivery of this Magazine than the right
+to read it,for the sole purpose of information.This Magazine and its content shall not be
+modified and its images shall not be reproduced without prior written consent of Airbus.
+This Magazine and the material it contains shall not,in whole or in part,be sold,rented,
+distributed or licensed to any third party.The information contained in this Magazine may vary
+over time because of future factors that may affect the accuracy of information herein.Airbus
+assumes no obligation to update any information contained in this Magazine.When additional
+information is required,Airbus S.A.S.can be contacted to provide further details.Airbus,its
+logo and product names are registered trademarks.Airbus S.A.S.shall assume no liability for
+any damage in connection with the use of this Magazine and of the materials it contains,
+even if Airbus S.A.S.has been advised of the likelihood of such damages
+Photographs by Hervé Bérenger, Hervé Goussé and Philippe Masclet
+ATA 21 - Air conditioning ATA 21 - Air conditioning
+LAICEPS
+TSAF
+3
+LAICEPS
+TSAF
+A320 FAMILY - IN-FIGHT INTERRUPTION REVIEW - OVERALL ANALYSIS A320 FAMILY - IN-FIGHT INTERRUPTION REVIEW - OVERALL ANALYSIS
+The cost of an in-flight interrup- • Flight Crew replacement (due to
+tion can vary significantly from maximum flying hours The data collection
+one operation to another. Costs are regulations) process starts with a
+greatly influenced by the nature of • The aircraft out of service for a Pilot Report which
+the event and the support available lengthy period (replacement to will lead the operator to raise
+at the aircraft’s location. be sourced) an Air Safety Report
+(or equivalent) that must be
+sent to its airworthiness
+The immediate operational impact By attributing the in-flight inter-
+authority. Airbus either
+of an in-flight interruption could be: ruption events shown in the chart
+collects a copy of this ASR,
+below to their appropriate ATA
+receives the details in the
+• Flying to a runway long enough chapters the ATA drivers are identi-
+airline’s monthly reliability
+to accept the aircraft (in cases fied. That is, the ATA chapters
+report, or more frequently,
+such as flap locks) against which the majority of root
+receives the contents of the
+• ‘Overweight’landing causes have been attributed. For
+reliability report plus the
+• ‘Single engine’landing each ATA chapter a specific sec-
+incident report text in
+following an in-flight engine tion in this FAST Special has been
+electronic format and this is
+shutdown produced. Each of these sections
+then loaded directly into the
+• Passenger discomfort in the presents a further breakdown of the Airbus database in Toulouse
+OOvveerraallll aannaallyyssiiss case of excessive cabin altitude events and based on this, proposals using the following
+are made that will allow in-flight definitions:
+Further consequences could be: interruptions to be minimized. It
+should be noted that not all propos- • Definition of
+• Men and materials sent to the als are applicable to all aircraft in In-Flight Turn-Back (IFTB):
+It is essential to minimise the delays Most passengers, even frequent In-flight interruptions typically diverted aircraft to repair it the fleet, but information to allow The return of an aircraft to the
+and cancellations that accompany the flyers, have never experienced an follow specific warnings to the and/or ferry it back to base the applicability to be determined airport of origin as a result of the
+operation of commercial aircraft. Airbus in-flight interruption, such as an In pilot indicating: • Cancellation of following flights has been provided in all cases. malfunction or suspected
+continues to develop and deliver efficient, Flight Turn Back (IFTB) or a diver- for the aircraft. malfunction of any item on the
+proven solutions to reduce technical sion (DV). They are very rare. • Landing gear ‘retracted • Lack of spares leading to an The issues causing in-flight inter- aircraft (Note:also called
+delays and cancellations for every aircraft Nevertheless, airline Fleet and uplocked’not confirmed AOG situation ruptions can equally result in Airturnback).
+in the A320 Family fleet. Managers know that there is a need electrically • Passengers booked onto another delays at the departure gate.
+to consider technical delay reduc- • Excessive cabin altitude flight and/or hotel, meal and Therefore, when considering the • Definition of
+An in-flight interruption such as a tion and in-flight interruption event warning compensation costs added value the proposals made in Flight Diversion (DV):
+turn-back or diversion places the aircraft, limitation when looking at aircraft • Flight control surface not • Aircraft, baggage, and freight this FAST Special will bring to a The landing of an aircraft at an
+it’s passengers, freight and crew in the or procedures enhancements. responding checked by the emergency given operation, their effects airport other than the airport of
+origin or destination as a result
+wrong place and in need of maintenance • Engine shutdown following services (following smoke should be considered not only in
+of the malfunction or suspected
+crew attention. Furthermore, these events Global analysis of in-flight inter- excessive vibration or exhaust warning, for example) the context of minimizing in-flight
+malfunction of any item on the
+can have a major impact throughout ruptions for the A320 Family gas temperature • Other aircraft and crews interruptions but in overall opera-
+aircraft.
+schedules. The trend for A320 Family shows that there has been a steadi- • Hydraulic low level warning rescheduled at short notice tional efficiency.
+in-flight interruptions is steadily declining ly improving trend in the rate over due to leakage
+Throughout this document
+and today the in-service fleet experiences the last few years. • Smoke warning In-flight turnbacks for year 2004
+the term ‘in-flight interruption’
+an in-flight interruption for technical % contribution pere ATA
+is used when describing
+reasons about once every 7000 flights.
+either an IFTB or DV.
+To ensure that all operators of A320 A320 world fleet
+Family aircraft are briefed on the In-flight interruptions rate per Airbus computes:
+100 revenue takeoffs Flight interruption rate per
+opportunities for minimising in-flight 0% 5% 10% 15% 20% 25% 30%
+100 revenue takeoffs as
+interruptions within their operation,
+ATA 32 LANDING GEAR 14% (IFTB+DV)* 100/revenue take
+Airbus Customer Services has produced
+offs.
+this FAST Special. It aims to share fleet- (2001-2004) ATA 21 AIR CONDITIONING 14%
+0.06
+wide experience with all operators.
+ATA 70-80 PROP. SYSTEM 14%
+To do this it focuses on the principle root
+ATA 29 HYDRAULICS 9%
+causes of in-flight interruptions and 0.04
+consequently identifies proposals that are ATA 36 PNEUMATICS 8%
+widely applicable and that have
+0.02 ATA 27 FLIGHT CONTROLS 6%
+demonstrated their value in terms of not
+ATA 52 DOORS 6%
+only minimizing in-flight interruptions
+but also in reducing delays and 0.00 Others 29%
+cancellations. 2001 2002 2003 2004
+2
+ATA 21 - Air conditioning ATA 21 - Air conditioning
+ATA 21
+Air conditioning
+LAICEPS
+TSAF
+5
+LAICEPS
+TSAF
+ATA 21 -AIR CONDITIONING ATA 21 - AIR CONDITIONING
+Proposal 2
+ATA 21-50-00
+PACK BELLOWS
+Rupture of clamps Proposal 1
+has caused pack bel- ATA 21-26-00 ENHANCED AEVC
+lows to break open,
+leading to cabin pres- New AEVC PN 87292325V06
+surisation difficul-
+VSB 87292325-21-008
+ties. Replacing these Rev.02 24-Jul-02
+clamps by corrosion- • AIR CONDITIONING
+resistant and welded AVIONICS EQUIPMENT
+VENTILATION COMPUTER
+ones will minimize
+87292325 – IMPROVEMENT OF
+François Gheur such occurrences.
+THE AEVC ADAPTATION TO ALL
+Environmental Control System
+VALVES AND FANS,IMPROVEMENT
+Customer Services Engineering Example of a
+OF TRANSPARENCY TIME
++ failed clamp
+Cheap - Quick - Easy (STANDARD V05)
+Modification 31678
+- Embodiment Rank MSN 1856
+None
+VSB 87292325-21-011
+Rev.00 05-Apr-04
+Proposal 3 • AIR CONDITIONING
+ATA 21 Distribution AVIONICS EQUIPMENT
+ATA 21-50-00
+Between 2001 and 2004, Avionics ventilation (63%) VENTILATION COMPUTER
+CONDENSER
+Air cooling (15%) 87292325 – REDUCTION OF
+14% of in-flight interruptions have 21-00-00 Pressurization (9%) SMOKE WARNINGS (STANDARD
+been attributed to ATA 21 chapter, 21-31-00 12% Some pressurisation difficulties V06)
+Miscellaneous (12%)
+Modifications 33967
+environmental control system. 9% have been linked to rupture of the
+Embodiment Rank MSN 2290
+condenser (see example of rup-
+They can be further divided as 21-50-00 21-26-00
+tured condenser below) of one air SB 21-1147 Rev.00 05-Apr-04
+shown in the pie chart to the right. 15% 63% conditioning pack. The affected • AIR CONDITIONING
+AVIONICS EQUIPMENT
+pack will then no longer supply air
+VENTILATION – INSTALL THALES
+The main reason for in-flight to the cabin due to the significant
+AEVC STANDARD V06
+interruptions linked to the Proposal 1 leak at the rupture. The solution
+environmental control system is the ATA 21-26-00 AEVC and circuit board has been to increase the thickness TFUs 21.26.00.019 and
+ENHANCED AEVC of the wall that exhibited this Example of a ruptured 21.26.00.020
+inability to pressurise the aircraft.
+failure mode. condenser
+The avionics equipment ventilation The latest Avionics Equipment Proposal 2
+computer can cause inability to Ventilation Computer (AEVC) stan- ATA 21-50-00 - PACK BELLOWS
+pressurise by leaving the vent skin dard clears two major issues. It can
+New clamp PN NSA5532C612
+air valves open. This is addressed by now deal with disruption of the elec-
+trical signals from the skin air valves, SB 21-1155 planned for Sep-05
+proposal 1. Another cause of
+• AIR CONDITIONING
+which previously caused AEVC and
+pressurisation problems is major INSTALL IMPROVED CLAMP ON
+skin air valve faults, which could
+BELLOWS AT PACK OUTLET AND
+leaks at pack level. Two pack
+result in an in-flight interruption. BETWEEN PACK OUTLET CHECK
+components have been reinforced in This new controller also prevents VALVE AND MIXER UNIT
+that respect. These are proposals 2 spurious avionics smoke warnings in Modification 35038
+Embodiment Rank MSN 2538
+flight triggered by a pin crack at the
+and 3.
+level of the Random Access Memory
+Proposal3
+module. With this latest AEVC stan-
+Miscellaneous events (21-00-00) are ATA 21-50-00 - CONDENSER
+dard, shock absorption has also been
+mainly smell or smoke reports with improved and the smoke detector test Crack New condenser PN 756A0000-06
++
+various origins not linked to the air inhibited in flight. Cheap modification Contact
+VSB 756A-21-04 Rev.00 15 - Feb 05
+conditioning. For example, an oil • AIR CONDITIONING
+François Gheur
+smell due to an APU oil leak will be + Resolves large portion of - Weight increase: approx. Environmental Control System STRENGTH IMPROVEMENT OF
+SIDE PLATE
+logged under ATA 21 as a first step intermittent system failures. 250gr/unit Customer Services Engineering
+Improves dispatch reliability Tel:+33 (0)5 61 93 44 67
+instead of ATA 49. TFU 21.52.32.003
+Fax :+33 (0)5 61 93 44 38
+- francois.gheur@airbus.com
+None
+4
+ATA 21 - Air conditioning
+LAICEPS
+TSAF
+ATA 21 - Air conditioning
+7
+LAICEPS
+TSAF
+ATA 27 - FLIGHT CONTROLS ATA 27 - FLIGHT CONTROLS
+Flap rotary actuators filled with Note that the vibration reporting
+ATA 27
+grease pre mod 28898 or pre mod sheet also allows isolation of vibra-
+28899 need removal for re-greas- tion/noise from any source (e.g.
+ing approximately every 5 years flight controls, belly fairing seals,
+(Refer to MPD task 275449-05-1). engines, doors etc).
+A new type of actuator post mod
+28898 or 28899 (post SB 27-1138)
+Flight controls
+embodied since MSN 1256 are
+filled with semi fluid and are ser-
+viceable on wing. This eases main-
+tenance and avoids removal/instal-
+lation of the actuators.
++
+Joan Rendu Reduced maintenance
+Engineer Flight Control Systems
+Customer Services Engineering -
+Need to replace greased
+actuator with semi-fluid one
+Proposal 2
+VIBRATION
+ATA 27 distribution
+Airbus has adressed the majority of
+In 2004, 6% of all in-flight (129 events Jan.01 - Sept.04)
+airframe vibration sources.
+interruptions have been attributed
+elac (9%) However, vibration related events
+to ATA chapter 27.Constributors can still occur and comprehensive
+spoiler (8%) 22% 9%
+are multiple but, as the chart 8% advice for addressing them effec-
+flap (37%)
+tively is provided in the Trouble
+shows, the two most significant are
+yaw damper (5%) Shooting Manual (TSM).
+7%
+flaps and vibration.
+vibration (12%)
+When the aircraft is on ground it is
+aileron (7%)
+The flap category represents the 12% 37% difficult for maintenance to identi-
+other (22%) 5% fy the vibration source.
+biggest contributor to operational
+interruptions with 37% of the total
+Effective troubleshooting of in
+Proposal 1 flap rotary actuators had recently
+for flight controls. This includes flight vibration avoids vibration re-
+FLAP ROTARY ACTUATOR been removed for re-greasing.
+faults that range from single SFCC occurrence and associated poten-
+tial operational interruptions.
+(Slat and Flap Control Computer) There are 4 rotary actuators on Investigation revealed that during
+faults with no effect on flap and each wing. The function of these accomplishment of removal
+Rapid and efficient troubleshoot-
+actuators is to translate the rotary or installation of the flap rotary
+slat availability, to faults that lead ing requires accurate pilot report-
+motion of the flap drive shaft into actuators a slight mis-rigging in the
+to flap/slat lock. Flap or slat lock ing using the vibration reporting
+movement of the flaps. flap transmission had been
+sheet (entry point for TSM task 05-
+has a direct impact on landing induced. This was found as a con-
+50-00-810-801).
+distance (defined in the Flight Further to flap lock events, it was tributing factor in the reported flap
+reported in several cases that the locks.
+Crew Operating Manual). It is important to note that for opti-
+mum troubleshooting efficiency,
+the flight crew should attempt to
+Vibration is the second most
+isolate the vibration source during
+significant operational interruption
+flight by modifying the flight para-
+contributor with 12%. It should be meters (e.g. pitch, yaw, speed, etc.).
+noted that vibration has no effect Contact
+on handling or performance
+Flap rotary actuator + Joan Rendu
+efficiency: concerned surfaces and Minimum cost,improves Engineer Flight Control Systems
+communication between flight
+Customer Services Engineering
+systems remain fully efficient
+crew and maintenance
+Tel:+33 (0)5 62 11 01 42
+during vibration events. Fax:+ 33 (0)5 61 93 44 25
+- joan.rendu@airbus.com
+None
+6
+ATA 21 - Air conditioning ATA 21 - Air conditioning
+Miscellaneous (56%)
+3% 5% Unknown (15%)
+15%
+Ground Service and
+PTU Manifolds (8%) 8%
+Hoses (15%)
+Check Valve
+56% 15% in Manifold (3%)
+Pressure Switch (5%)
+LAICEPS
+TSAF
+9
+LAICEPS
+TSAF
+ATA 29 - HYDRAULIC SYSTEM ATA 29 - HYDRAULIC SYSTEM
+Example of an illustration displayed on the
+‘Visual inspection Guide’ CD-Rom
+condition’ parts, Airbus recom-
+ATA 29
+mends to carry out visual inspec-
+tions of these flexible hoses, and
+more particularly those in specific
+and sensitive areas, such as the land-
+ing gear, landing gear doors, flight
+controls and the hydraulic bay.
+Hydraulic system
+During such an inspection, the
+installation of the line must be
+checked (routing, clearances,
+clamp position/integrity), as well
+as the integrity of the flexible hoses
+Cédric Turroque themselves (see rejection criteria in
+Engineer Hydraulic Systems the following paragraph).
+Customer Services Engineering
+Wire-braided hoses/conduits have
+to be replaced when:
+• Two or more wires in one plait
+or several wires are broken in a
+concentrated area
+ATA 29 distribution
+• 10% or more of a given braided (Green, Yellow and Blue
+area exhibits wear from chafing systems), as well as at the outlet
+A hydraulic system is usually False low level (4%) • Braid is protected by a neoprene port of the Blue Electric Motor Pressure Switch shape change
+considered lost when one of the 5% 4% 6% False low pressure (6%) overlay and wear or chafing into Pump (EMP).
+following cockpit messages is triggered: 10% 2% the braid has occurred.
+False/other (2%)
+fluid quantity loss, fluid/pump overheat Both types of switches have the
+or air/hydraulic low pressure (or 16% Low level (57%) To ease the operator’s integration of same general design, the main dif-
+overpressure in a few cases). These can Low pressure (16%) such visual inspection in their ference being the warning thresh-
+scheduled maintenance pro- old value, which is higher for the
+either be the result of a spurious/false Overheat (10%)
+grammes, Airbus has developed a engine switch.
+fault message, or generated by a 57% Other (5%)
+CD-Rom, called ‘Hydraulic
+confirmed system failure.
+Systems – Visual Inspection Guide’. As shown in the main leak drivers
+It covers all the areas and equipment pie chart, the pressure switches
+Main leak drivers for
+Hydraulic system loss alone does that could be checked and has been currently installed can give some
+the 57% low level items
+not necessarily lead to in-flight developed in conjunction with oper- spurious low-pressure messages. In
+interruption, as some operators (crews), ators of the A320 Family. addition, hydraulic leakage from
+the switch itself was reported in
+in this situation, can choose to continue 'old' shape 'new' shape
+past years. It is estimated that over- the flight or not. +
+Can be done during aircraft all pressure switch failures have
+maintenance check led to 8.4% (for ATA 29) of the in-
+In 2004, 9% of in-flight interruptions flight interruptions since 2001.
+-
+were attributable to ATA 29. For our Additional maintenance
+review, we have divided the causes into It has therefore been decided to
+two main categories: Proposal 2 develop an enhanced design for
+HYDRAULIC PRESSURE both pressure switch types to cure
+SWITCHES these issues. For this purpose:
+• Interruptions due to hydraulic system
+malfunctions (i.e. false fault messages, Proposal 2
+Proposal 1 in the hose. In addition, some flex- Two types of pressure switch are • PN 450-1-3100-00 will replace
+overheat, low pressure, etc.). These HYDRAULIC PRESSURE SWITCHES
+FLEXIBLE HOSE INSPECTION ible hoses are subject to difficult installed on A320 Family aircraft: PN 50-1-3100-00 on the EDP
+represent approximately 40% of the environmental conditions, such as outlet ports • Airbus Service Bulletin 29-1096:
+‘INSTALL MODIFIED “EDP”SENSE LINE ON V2500
+total in-flight interruptions for ATA29. Flexible hoses are installed in the temperature variation, foreign • Engine pressure switches, • PN 450-2-3100-00 will replace ENGINES’
+• Interruptions due to hydraulic hydraulic distribution system object damage, or chemical attacks located at the outlet port of both PN 50-2-3100-00 on the • TFU 29.11.17.001:
+leakages, which account for the where movement is required and to (carbon burst, de-icing fluid etc.). Green and Yellow Engine manifolds and EMP outlet ports. ‘EDP PRESS SWITCH FAILURE ON IAE V2500
+remaining 60%. ease removal/installation of com- If not replaced, damage to a hose or Driven Pumps (EDPs) ENGINE’
+• TFU 29.30.00.008:
+ponents. Pressure fluctuations, pul- its wire braid, can lead to hydraulic • And manifold pressure These units are still under the vali- ‘HYDRAULIC PRESSURE SWITCH LOW
+sations of the system and bending leakage, and possibly system loss. switches, located on the High dation process and will be avail- RELIABILITY’
+cycles impose a high level of stress Although flexible hoses are ‘on Pressure (HP) Manifolds able for procurement mid-2005.
+8
+ATA 21 - Air conditioning
+LAICEPS
+TSAF
+ATA 21 - Air conditioning
+11
+LAICEPS
+TSAF
+ATA 29 - HYDRAULIC SYSTEM ATA 29 - HYDRAULIC SYSTEM
+Typical pipe installation Breakdown of ZCV66 Check-valve
+For further information on their some recommendations, detailed embodying SB A320-29-1113.
+availability and to follow up Airbus in SIL 29-080, that describe the This requires some
+actions, please refer to TFU preventive replacement of these modifications to the plumbing
+29.30.00.008. manifolds. installation surrounding the
+manifold.
+Please also refer to closed TFU PTU and Ground Service
+29.11.17.001 (EDP Pressure Manifolds leakages represent 19% +
+Reduces leakage
+Switch failure on IAE Engines), of in-flight interruptions due to
+which introduces a new pressure hydraulic leakage for aircraft prior
+-
+switch installation on IAE Engines to MSN 972. Scheduled replacement
+through Airbus SB 29-1096 and
+IAE SB V2500-NAC-0263. GROUND SERVICE MANIFOLD
+PRE-MOD 25159 Proposal 4
++ Airbus recommends that pre-mod CHECK-VALVES IN HP/PTU
+Prevents spurious message and
+leakage 25159 Green and Blue Ground MANIFOLD
+Service Manifolds, PN S4- Retainer ring
+- 3500272, are replaced by post-mod Check-Valves PN ZCV66 and
+None
+25159 Manifolds, PN S4-3500711, ZCV67 are located in the HP and
+S4-3500712 or PN S4-350071L PTU Manifold pre-mod 27490, i.e.
+Proposal 3 before reaching 19,000 flight before MSN 972 (FINs 1059GM,
+GROUND SERVICE AND cycles (refer to SIL 29-077). 1094GM, 2059GM, 3059GM &
+POWER TRANSFER UNIT 3094GM).
+(PTU) MANIFOLDS PTU MANIFOLD
+PRE-MOD 27490 Further to several operator reports Proposal 4
+Ground Service Manifold PN Airbus recommends that the pre- of hydraulic leakage from check- CHECK-VALVES IN HP/PTU
+S4-3500272 is originally installed mod 27490 Yellow PTU manifolds valve ZCV66 / ZCV67, Airbus has MANIFOLD
+on aircraft pre-mod 25159 are replaced before reaching launched investigations to deter- • Airbus Service Bulletin
+(MSN<632). 15,000 flight cycles: mine the root cause. Each time, it 29-1107:
+was found that a retainer ring was ‘INSTALL MODIFIED CHECK-
+VALVES’
+The Power Transfer Unit Manifold • Either by the same model PN missing on the leaking units, lead-
+• Airbus Service Bulletin
+PN D2907019000200/400/600 are D2907019000X00 with further ing to the cap loosening and subse- 29-1109:
+originally installed on aircraft pre- replacements scheduled within quent O-ring damage. ‘CHECK AND RE-INSTALL
+mod 27490 (MSN before 972). 15,000 flight cycles RETAINER RING ON CHECK-
+• Or by an improved PTU Two solutions are available to oper- VALVE PN ZCV66/67’
+Proposal 3 The investigations carried out on manifold PN 1556A9900-01 ators:
+GROUND SERVICE AND several returned units of the above that has demonstrated enhanced
+POWER TRANSFER UNIT PNs have led Airbus to publish fatigue endurance properties, by • The preferred solution is to
+MANIFOLDS install a new check-valve,
+• Airbus Service Bulletin 29-1113: PN ZCV66-1/ZCV67-1, by
+‘INTRODUCE LIEBHERR PTU Airbus SB 29-1107 (covering
+MANIFOLD’ PTUManifold cracked
+Circle Seal Controls SB
+• Airbus Service Information Letter
+ZCV66-29-1 & ZCV67-29-1)
+29-077:
+‘INTRODUCTION OF IMPROVED • Otherwise, inspect, as per
+GROUND SERVICE MANIFOLD SB 29-1109, the already
+(GSM) IN THE GREEN (FIN installed check-valves and
+1146GM) AND BLUE (2146GM)
+verify that the retainer rings are
+HYDRAULIC SYSTEMS FOR PRE-
+correctly fitted. If not, VSB
+MOD 25159 AIRCRAFT’
+• Airbus Service Information Letter ZCV66-29-2/ZCV67-29-2 must
+29-080: be carried out to replace and
+‘RECOMMENDATIONS FOR safety (Loctite) the retainer ring.
+PREVENTIVE REPLACEMENT OF
+THE YELLOW PTU MANIFOLD AND
+THE GREEN AND BLUE GROUND + Contact
+Two solutions available
+SERVICE MANIFOLDS’
+Ease of implementation Cédric Turroque
+• TFU 29.19.00.001:
+Engineer Hydraulic Systems
+‘YELLOW SYSTEM GROUND
+- Customer Services Engineering
+SERVICE MANIFOLD FAILURE’ None
+Tel:+33 (0)5 62 11 82 51
+• TFU 29.13.15.001:
+Fax :+33 (0)5 61 93 32 73
+‘YELLOW SYSTEM – PTU
+cedric.c.turroque@airbus.com
+MANIFOLD BODY CRACKS” 50mm
+10
+ATA 21 - Air conditioning ATA 21 - Air conditioning
+LAICEPS
+TSAF
+13
+LAICEPS
+TSAF
+ATA 32 - LANDING GEAR SYSTEMS ATA 32 - LANDING GEAR SYSTEMS
+Proposal 1
+ATA 32
+GROUND LOCK SAFETY
+DEVICES
+Installation of the landing gear
+safety devices (ground lock pins
+Landing gear systems and collars), when the aircraft is
+towed or pushed-back during
+flight operation is optional. Airbus
+do not intend to make recommen-
+dations to favour one way or the
+other as some airlines require
+installation of ground lock pins
+Jérôme Lesage and collars, whereas some do not
+Engineer A380 & A320 Family Landing gear
+want to do this.
+Customer Services Engineering
+The rationale behind this optional
+statement is that during the A320
+Family operation, green hydraulic
+power supply is generally ON, giv-
+Landing gear safety devices:
+ing two different means to physi-
+ground lock pins and collars
+ATA 32 IFTB number per FH and % cally achieve the landing gear
+down and locked position:
+Landing gear non-retraction during
+% ATA32% Nbr per FH (Log)
+take-off phase is a key factor in in-flight • Gear architecture (nose landing
+20.0 ATA32 rate per FH 1.0E-04
+interruptions. It represents roughly 14% of gear over-centred position and
+downlock springs),
+fleet reports. Although significant decrease
+• Green power supply at the
+in rate has been demonstrated on ATA 32, 15.0
+downlock actuators.
+the large number of equipments involved in
+the landing gear extension/retraction However, under towing operation
+10.0
+sequence still gives a remote, but wide, for maintenance, when the hydraulic
+spread of failure modes. power supply is not available, one
+downlock means is removed. Under
+5.0
+The proposals given provide simple and such circumstances, Airbus recom-
+mends usage of the ground lock pins
+proven advice to significantly reduce ATA
+and collars which are 100% reliable
+32 related flight interruptions.
+0.0 1.0E-05
+to ensure physical downlocking of
+2001 2002 2003 2004
+the landing gear.
+The first one, related to ground lock pins
+and ground lock sleeves, commonly called
+With regard to the above, Airbus
+‘safety devices’, or ‘safety pins’, may ATA 32 distribution Two ATA32 key contributing factors would like to highlight the follow- • Some airlines who fit ground
+have been identified.
+appear obvious. However, the increase of ing: lock pins and collars during
+flight interruptions reported due to safety turnaround have particular
+devices forgotten on the landing gear prior 32-40/32-50 Systems • Installation of the devices is check-lists requesting their
+18% 27% optional. It is not a requirement flight crew to ask ground crew
+to take off, combined with an increase of
+for operational pushback (i.e. to show, in their hands, removed
+queries on the subject led us to make
+during turnaround) pins and collars prior to final
+Safety Pin
+known Airbus operator experiences. • The devices are made visible dispatch. This may be an
+8%
+(with a red flag for the pins) to effective way to avoid
+The other one relates to the nose landing the ground crew. It remains the interruptions, if you wish to
+gear (NLG) ‘flight/ground’indication MLG operator’s responsibility to install those pins during short
+system. This item aims to address 3% check they do not hang turn arounds.
+underneath the aircraft prior to
+improvements and thus to correct one of
+NLG departure +
+the main contributing factors to landing 24/25GA Ease of implementation
+5% 11% • It remains the airline’s Low cost
+gear retraction failure.
+maintenance staff responsibility
+Hyd. Leaks Equipment to ensure the red paint/flags are -
+6% 22% None
+in good condition
+12
+LAICEPS
+TSAF
+ATA 21 - Air conditioning
+15
+LAICEPS
+TSAF
+ATA 32 - LANDING GEAR SYSTEMS
+Two rod links configuration Single rod links configuration
+Target lever
+Cover
+Rod link
+Proposal 2 • Rod links reinforcement
+NOSE LANDING GEAR (Messier-Dowty -Vendor Service
+‘FLIGHT/GROUND’ Bulletin 580-32-3157)
+INDICATING SYSTEM • Target lever modification to add
+a greasing path and then allow
+The NLG ‘flight/ground’ indicat- its lubrication (Messier-Dowty
+ing system consists of a mechani- -Vendor- Service Bulletin
+cal mechanism driving two sensors 580-32-3155).
+(FIN 24GA and 25GA) see figure
+above. It indicates whether the air- Both Vendor Service Bulletin
+craft is ‘in flight’ and ‘straight’ 580-32-3155 and 580-32-3157 are
+(shock absorber extended and cen- covered by Airbus Service Bulletin
+tred) or ‘on ground’ (shock A320-32-1288.
+absorber compressed or not
+‘straight’). Pending embodiment of these
+modifications, some maintenance
+Three failure modes have been may be applied to prevent the fail-
+identified that induce bending or ure mode of the rod eye end and
+fatigue break of the sensors target lever axle (refer to TFU 32-
+24/25GA rod links, which can lead 21-11-012): ‘Cleaning of the inter-
+to flight interruptions: face rod link axle as well as the
+Contact
+target lever axle. If the target lever
+Jérôme Lesage • Looseness of the NLG cover or the axles are removed, ensure
+Engineer A380 & A320 Family • Seizure/jamming of the rod links the axle lever torque value is
+Landing gear • Corrosion/seizure of the target between 4 and 5nm (2.949 to
+Customer Services Engineering
+lever eye end bearings. 3.687lbf)’.
+Tel:+33 (0)5 62 11 86 11
+Fax :+33 (0)5 61 93 32 73
+jerome.lesage@airbus.com The following modifications have
++ been defined to address these fail- Long term effectiveness
+ure modes: Cost effective
+- • Cover fastening reinforcement One grease point added to the
+(Messier-Dowty -Vendor NLG.
+Modification point of embodiment
+Service Bulletin 580-32-3133)
+in production (MSN)
+A320 (Std 1) A321 (Std 2) A319 (Std 3) A318 (Std 4)
+VSB 580-32-3133 856 864 860 1660
+SB A320-32-1288 2336 2363 2355 2358
+14
+LAICEPS
+TSAF
+15
+LAICEPS
+TSAF
+ATA 36 - ENGINE BLEED AIR SYSTEM
+ATA 36
+Engine bleed air system
+Patrick Grave
+Pneumatics,Ice and Fire Protection
+Customer Services Engineering
+ATA 36 Distribution
+During 2004, 8% of all in-flight
+11%
+interruputions have been attributed 36%
+11%
+to ATA chapter 36.Analysis of these
+interrruptions clearly shows that the
+11%
+main causes are either bleed air duct
+leak detection or bleed air over-
+temperature regulation (leading to 15%
+17%
+single or double bleed loss). These
+Overtemp (36%) Over pressure (11%)
+two main reasons are driving more
+Bleed leak (17%) Low pressure (11%)
+than 60% of ATA chapter 36
+Bleed fault (15%) Other (11%)
+interruptions.
+The main contributors
+to these failure modes are well
+The new
+Proposal 1
+identified and have fixes already technology
+BLEED AIR DUCTS LEAKS
+developed
+available:
+for the bleed air duct
+Investigation revealed that bleed
+seals is also available
+air ducts leaks represent 17% of in-
+• Temperature Control Thermostat for the air conditioning
+flight interruptions. For this type of packs through SB A320-
+(TCT) failure is one major
+failure mode there are two possible 21-1153 (available
+contributor to the over-temperature solutions. second quarter of
+regulation (either TCT failure or 2005).It should be
+The first solution (considered as a noted that bleed air
+TCT filter clogging) preventive action) is the applica- leaks in the pack bay
+• Bleed air duct seal leakage for tion of the MPD tasks for preven- will trigger a wing leak
+tive seals replacement (ABS0737 warning and as such
+bleed air leaks.
+considered as the best reliable seal contribute to ATA36
+from previous design). These rec- reliability performance.
+ommendations are also described
+in SIL 36-047.
+LAICEPS
+TSAF
+17
+LAICEPS
+TSAF
+16
+LAICEPS
+TSAF
+17
+LAICEPS
+TSAF
+ATA 36 - ENGINE BLEED AIR SYSTEM
+Temperature Control Thermostat (TCT) Location
+Proposal 3
+BLEED OVER-TEMPERATURE
+DUE TO TCT FILTER
+CONTAMINATION
+Part of 51% of in flight interrup-
+tions (combined bleed fault and
+over-temperature).
+Another well known possibility for
+bleed air over-temperature is the
+TCT filter clogging. To address
+this issue regular filter cleaning is
+recommended and is available
+through the application of the cor-
+responding MPD task. Today’s rec-
+ommended interval is 20 months.
+Nevertheless, depending on oper-
+ating environment and operator’s
+experience, a less or a more fre-
+quent initial interval may be used.
+For example, it has been well
+established that Middle East opera-
+tors were more affected than oth-
+ers. This recommendation is also
+described in SIL 36-055.
++
+Ease of implementation
+Low cost
+-
+None
+Contact
+Patrick Grave
+Pneumatics,Ice and Fire Protection
+GroupManager
+Customer Services Engineering
+Tel:+33 (0)5 61 93 43 13
+Fax :+33 (0)5 61 93 44 38
+patrick.grave@airbus.com
+LAICEPS
+TSAF
+ATA 36 - ENGINE BLEED AIR SYSTEM
+Typical installation Proposal 2
+Bleed air duct seal installation
+BLEED OVER-TEMPERATURE
+DUE TO TCT FAILURE
+Part of 51% of in flight interrup-
+tions (combined bleed fault and
+over-temperature). For informa-
+tion: bleed fault warnings can be
+due to either an over-temperature
+or an over-pressure. From experi-
+ence, it is considered that a large
+Previous seals designs
+part of bleed faults are due over-
+temperature and consequently
+linked to TCT behaviour.
+Flange "A" Flange "B"
+ABS 0605 type
+The type of failure is known to be
+"X" Flanges must be parallel TCT Filter
+due to a particular TCT Part
+(+ 2mm / 0.078in.)
+-
+Number (PN). An improved PN is
+available to address this issue and
+Peri-seal application of a one-time TCT
+The second solution offers a far
+inspection, as per SB A320-36-
+greater service life and is consid-
+1049, will allow the TCT PN to be
+NSA 8054 type ered the final fix. It incorporates a identified and replaced if required.
+new design of bleed air duct seal,
+ABS1040, and is available through
++
+SB A320-36-1043 (Modification Ease of implementation
+32027, Embodiment rank MSN Low cost
+1830).
+peri-seal Peri-airseal -
+None
++
+Ease of implementation
+ABS 0632 type
+Low cost
+-
+None
+Examples of TCT
+clogged filters
+peri-seal
+ABS 0737 type
+Male duct peri-seal
+New seal design
+ABS1040-XXX
+1
+2
+Ambient air Bleed air
+16
+LAICEPS
+TSAF
+19
+LAICEPS
+TSAF
+18
+LAICEPS
+TSAF
+19
+LAICEPS
+TSAF
+AATTAA 2512 -- ADiOr OcoRnSditioning ATA 21 -A TAAir 5c2o n-d DitiOoOniRnSg
+28WV/34WV that monitors the
+ATA 52 Old/new handle distribution Detail of door handle
+position of the handle can generate a
+mechanism
+warning.
+32%
+68%
+This issue was initially addressed
+Proximity
+by mod 23213 that introduces a
+switch
+Doors reinforced handle on MSN 455, 28WV/34WV
+471, 513 to 516, 524 and subse-
+quent (SB A320-52-1039).
+A/C with old handle (32%) Handle Target
+Cases were reported where a rein-
+A/C with new handle (68%)
+forced handle is installed on a pre-
+mod 23213 aircraft as a replace-
+Arnaud Blanc-Nikolaïtchouk ment without full embodiment of
+Old/new handle
+Structure Engineer Support SB A320-52-1039. This SB con-
+Events distribution
+Customer Services Engineering
+sists of installing a reinforced han-
+dle and handle fitting, and rework-
+24%
+76.% ing the handle mechanism. If a
+post-mod handle is installed on a
+pre-mod aircraft without the mech-
+anism rework, interference may
+occur causing the handle to move
+ATA 52 Distribution
+Overall, for the year 2004, 6% of in- out of its recess, resulting in a
+flight interruptions were attributed to Reports on old handles (76%) warning being generated.
+ATA chapter 52.
+Reports on new handles (24%)
+1% 7% 13% Pax doors (13%) It is recommended to fullyembody
+As far as doors are concerned, cargo SB A320-52-1039 on pre-mod
+16% 10%
+door false open warnings were Emergency exits (10%) Proposal 1 23213 aircraft. TFU 52.30.00.002
+identified as the main contributor to Cargo doors (53%) CARGO DOOR HANDLE also contains details on this point.
+reported in-flight interruptions or
+Access/service doors (16%)
+rejected take off. In addition, analysis On pre-mod 26213 (old design) air-
+MLG doors (1%) +
+shows that, in most cases identified craft, the cargo door handle can be Long term effectiveness
+preventive actions could have avoided 53% Other (7%) deformed or cracked due to over-
+these events. loading or impact damage. In these -
+None
+cases, the proximity switch
+In all cases, doors were confirmed
+closed and locked afterwards.
+Since the introduction of a new Old standard door handle New standard door handle
+Cargo door distribution from MSN001 from production aircraft
+standard of cargo door handle
+mechanism, the number of events has
+been drastically reduced. Handle recycled
+or reajusted (28%)
+The major causes identified are: 3% 13% 28% Sensor replaced (26%)
+3% Adjustment of switch (16%)
+• Cargo door handle deformed or
+Connector loose (11%)
+cracked (old standard) 11%
+• Partial embodiment of Mechanism readjusted (3%)
+SB A320-52-1039 (old standard) Other (3%)
+• Proximity switch 28WV/34WV or 16%
+26% No info (13%)
+30WV/32WV
+• Handle hook mechanism jammed
+(old standard) Two types of cargo door handle can Although two thirds of aircraft in
+be found on A319/A320/A321 air- service at the end of 2004 are fitted
+More detailed information on these craft. Mod 26213 introduced a new with the new cargo door standard,
+issues is provided in SIL 52-055. cargo door improved design, start- reports on ‘old standard’ handles
+Trouble shooting information is given ing with MSN 759. From this MSN, represent more than 75% of the
+in Trouble Shooting Manual 52-31-00. a completely new design of handle cases as you can see on the pie
+was introduced. chart on the following page.
+18
+ATA 21 - Air conditioning ATA 21 - Air conditioning
+LAICEPS
+TSAF
+21
+LAICEPS
+TSAF
+20
+LAICEPS
+TSAF
+20
+LAICEPS
+TSAF
+AATTAA 2512 -- ADiOr OcoRnSditioning ATA 70-80A -TAP R2O1P -U ALSir IOcoNn dSiYtiSoTnEinMg
+Proximity switch
+Proposal 2
+30WV/32WV ATA 70-80
+PROXIMITY SWITCH 28WV
+/34WV or 30WV/32WV
+Door sill
+The proximity switches 28WV
+/34WV and/or 30WV/32WV can
+become incorrectly adjusted or Propulsion system
+faulty. AMM procedure 52-71-00
+Proximity switch describes the cargo door proximity
+switch adjustment procedures.
+As a preventive action, some opera-
+Target tors have introduced a proximity
+switch adjustment check, as per Raquel Sanchez-Garcia
+Cargo door A320 Family Propulsion System Engineer
+AMM 52-71-00, every C-check.
+Customer Services Engineering
+Door sill Proximity switch
+Introduction of an all metal sensor
+PN 8-933-01 improved the reliabil-
+ity of the sensors. The new all metal
+sensor is fully interchangeable with
+the previous standard and is now the
+preferred spare part.
+ATA 70-80 distribution
+Inductance check of the proximity
+Cargo door
+sensors is covered by AMM task
+32-31-73 and allows their condition V2500-A5 CFM56-5A
+Target
+to be assessed.
+Over the last four years the 35% 23%
+Handle hook number of events attributed to the
++
+mechanism Cheap and simple
+Propulsion System has regularly
+- decreased. In 2004, 14% of in-flight
+Pre-mod None
+interruptions were attributed to the
+V2500-A1 6%
+ATAchapters concerned (ATA 70 to 36% CFM56-5B
+Proposal 3
+HANDLE HOOK MECHANISM 80). During these four years, well
+A
+The review of each propulsion Generic proposals
+over 900 aircraft have been
+Cases of the handle hook mecha- system reveals two common con-
+delivered (a fleet growth of amost
+nism (IPC 52-31-21) being stiff or tributors to in-flight interrup- The first generic proposal is to
+jammed have been found. In these 70%). tions, which are Exhaust Gas implement an engine trend monitor-
+Cargo door handle cases, the hook does not engage Temperature (EGT) and vibra- ing system. Low EGT margin con-
+Handle flap
+correctly on the handle. Should tion. ditions, as well as possible drift in
+such a situation occur, the handle These events were reviewed for engine behaviour can be monitored
+Cargo door handle flap will not be flush with the door Several causes were identified, and actions initiated before possible
+each of the propulsion systems
+outer skin contour and generate a amongst them bird strike and EGT events occur.
+warning. employed in the A320 Family overlimit are the most numerous. Secondly, in order to monitor fleet
+Hook reliability and follow related engine
+Whereas bird strikes are hard to
+(breakdown shown in the pie-chart)
+It is recommended to clean/lubri- reliability initiatives, we suggest
+prevent, some EGT driven events
+cate the handle locking linkage to identify the main contributors contacting Airbus Customer
+may be avoided through close
+every C-check as per MPD Services Powerplant or your engine
+and proposals are provided trend monitoring.
+Contact 523000-03-1 and AMM task 12- representative.
+22-52-640-009. accordingly.
+Arnaud Blanc-Nikolaïtchouk More engine information is also
+Structure Engineer Support
+available on:
+Customer Services Engineering +
+Easy to implement • www.cfm56.com
+Tel:+33 (0)5 61 93 29 74
+Fax :+33 (0)5 61 93 36 14 • www.iae4u.com
+arnaud.blanc-nikolaitchouk@airbus.com -
+None
+21
+ATA 21 - Air conditioning
+LAICEPS
+TSAF
+ATA 21 - Air conditioning
+23
+LAICEPS
+TSAF
+22
+LAICEPS
+TSAF
+ATA 70-80 - PROPULSION SYSTEM ATA 70-80 - PROPULSION SYSTEM
+CFM56-5B in-flight interruptions ATA 70-80 CFM56-5A in-flight V2500-A5 IFTB and DV
+(98 events Jan 01 - Sep 04) interruptions ATA 70-80 (142 events Jan 01 - Sep 04)
+Engineering test- V2500-A1 & A5
+13%
+44% 8% 27% 4% 11% ing on-engine ENGINE 37% 27% 31% 19%
+has confirmed
+10%
+7%
+the need for har- For V2500-A1, EGT and
+10%
+ness bracket vibration are the biggest
+9%
+6% 8.2% modification. contributors to in-flight 2%
+2% 8% 15% 6% 10% A new bracket i a n n t d e rr 1 u 3 p . t 4 io % n s re w sp it e h c tiv 2 e 7 l % y. 6% 10% 6% 13% 6% 12% 16%
+3% 4% 5% (see illustration With the exception of for- 3%
+on the left) will eign object related damage
+CFM56-5A & 5B ENGINES be added to better support the har- the evolution in these parameters INTERIM MEASURES
+nesses and the current bracket, made can be monitored with a trend Although VSV actuator replace- EGT
+For CFM56-5A engines during the of aluminium alloy, will be replaced monitoring system (see Generic ment and/or VSV system lubrica-
+Vibration
+last four years Full Authority by a stainless steel one. The modifi- Proposals on page 21). tion may reduce the occurrence
+Digital Electronic Control cations may be done on wing and a rate of the events, these actions are Compressor vane
+(FADEC) faults are the biggest Service Bulletin and kit will be avail- For V2500-A5, EGT and engine not expected to fully clear the
+Engine stall and
+contributor to in-flight interrup- able from the second quarter of 2005. stalls are the biggest contributors issue. Since warnings occurring in Compressor vane
+tions (14.6%). Normally, this with 20% and 16% respectively. the above conditions have no EPR
+includes faults in the Electronic impact on engine parameters, no
+Control Unit system (ECU). Regarding stall events, two main specific maintenance is required Oil pressure
+drivers were identified: when this issue is experienced.
+Oil clog
+Vibration is the second biggest con- Until recently, such alleviation of
+tributor with 10.8%. In the majority • HP Compressor 6: Fleet maintenance action had to be cov- Oil quantity loss
+of cases this is attributed to Low Proposal 2 Management Plan completed ered on a case by case basis via
+Others
+Pressure Turbine (LPT) and High Compressor vane successfully (IAE NMSB 72- IAE One Time Concession (OTC).
+Pressure Compressor (HPC) blade Air System VBV Stop Mechanism 0445 - Airbus SB 72-1023) The Airbus TSM was updated to
+Foreign Object Damage (FOD). CFM56-5A & CFM56-5B • Variable Stator Vane system cover this for the Nov 04 revision
+(VSV). to reduce the maintenance burden.
+For CFM56-5B during the last four A numbers of events were reported
+years vibration (13%), N1 (Low to be due to seized VBV stop Proposal 1 CORRECTIVE ACTIONS
+Pressure System Speed) fluctua- mechanism. Investigation revealed Compressor Vane VSV IAE has identified an area of mar-
+tions (8%) and compressor vane that a defined population of units V2500-A5 ginality in fuel servo pressure ver-
+(8%) faults are the biggest contrib- were assembled with insufficient sus required VSV load at certain
+utors to in-flight interruptions. The quantity of lubricant. The following Several cases of transitory ‘ENG ambient conditions and engine
+Contact
+event causes are the T12 tempera- corrective actions have been imple- COMPRESSOR VANE’ warnings power change conditions. Further
+ture sensor and the air system mented: have been reported at Take Off (TO) investigation eventually led IAE to Raquel Sanchez-Garcia
+Variable Bleed Valve (VBV). to Climb (CLB) thrust transition, on review the following possible soft- Propulsion System Engineer
+• Production assembly manual hot days, on recently delivered air- ware fixes for this issue: Customer Services Engineering
+Proposal 1 revised (Apr 04) craft, with no impact observed on Tel:+33 (0)5 61 93 25 53
+Fax :+33 (0)5 93 44 38
+N1 fluctuations • Component Maintenance Manual main engine parameters. In these • Improvement of TO to CLB raquel.sanchez-garcia@airbus.com
+T12 sensor temperature 75-31-22 TR 75-05 (Oct 04) circumstances, the warning is asso- engine deceleration schedule, or
+CFM56-5B issued ciated with ‘CHA(B) VSV • Refinement of fault triggering
+• Affected population ACT/HC/EEC1(2)’failure message conditions, or
+The dual T12 temperature sensor identification: 1867 parts are in the Post Flight Report, and • Improvement of VSV control
+measures the engine inlet total air affected ‘SVATK’ in FADEC troubleshoot- schedule
+temperature and the ECU in the • CFM Service Bulletin SB75- ing data. This issue was initially
+engine power management logic 0062 (5A), & SB75-0030 (5B) to identified on engines below 2500 Three possible FADEC software
+uses this temperature value. The improve VBV System reliability. flight hours since new, when the changes are currently being evalu-
+T12 dual temperature sensor is Mobil 28 grease is introduced in outside air temperature was more ated by IAE. One of these changes,
+installed on the fan inlet cowl and the VBV ballscrew actuators, than 30°C. However, deeper under- or a combination of these changes
+is connected to the ECU by branch- replacing the Tribolube 2 grease. standing proved that the issue is will be incorporated in FADEC
+es of the harness HJ8 and HJ10. These SBs will be issued second more linked to flight cycles (FC) software SCN19 that is scheduled
+quarter 2005. than flight hours and that: for the beginning of 2006.
+Investigation has shown that vibra-
+tion can cause the wiring harness • Occurrence rate should
+and T12 sensor connectors to wear drastically decrease after
+heavily. Connector wear generates 1,500FC,
+particle liberation and contamination • Occurrence rate should
+and degrades the T12 sensor signal. drastically decrease below 25°C.
+23
+LAICEPS
+TSAF
+V2500-A1 IFTB and DV ATA 70-80
+(56 events Jan 01 - Sep 04)
+Vibration Oil quantity loss
+N1 Fluctuations Oil filter
+EGT Surge
+Smoke Reverser
+Compressor vane FADEC
++
+Oil pressure Others Ease of implementation
+Low cost
+Oil leak
+-
+None
+Current bracket (aluminium
+alloy) & new bracket
+(stainless steel
+New additional brackets
+Current bracket
++ +
+Ease of implementation Ease of implementation
+Minimum cost Low cost
+- -
+None None
+22
+LAICEPS
+TSAF
+A320 FAMILY - IN-FIGHT INTERRUPTION REVIEW - CONCLUSION
+GUIDE TO CHARTS
+A graphical assessment is provided for those proposals
+Hydraulicdistribution System
+with a particularly wide interest.
+Hose inspection
+There is one chart for each proposal and each assesses
+the relative merits of each proposal against the five criteria 5 Cost
+as follows: 4
+• Cost . . . . . . . . . . . . . . . . . . 5 = Low 1 = High
+3
+• Applicability. . . . . . . . . . . . . 5 = Wide 1 = Limited
+2
+• Ease of implementation . . . . 5 = Easy 1 = Complex ROI 1 Applicability
+• Effectiveness . . . . . . . . . . . . 5 = High 1 = Low
+0
+• ROI (Return On Investment) . 5 = Short period 1 = Long term
+In short,the greater the area covered
+the higher the overall interest.
+Ease of
+Effectiveness implementation
+Air conditioning Nose Landing Gear
+Pack bellow clamps Flight/Ground indicating system
+5 Cost 5 Cost
+4 4
+3 3
+ROI 2 Applicability ROI 2 Applicability
+1 1
+0 0
+Ease of
+Ease of
+Effectiveness implementation Effectiveness implementation
+Air conditioning Pack Bleed air duct seals
+Condenser reinforcement
+Cost Cost
+5 5
+4 4
+3 3
+ROI 2 Applicability ROI 2 Applicability
+1 1
+0 0
+Ease of
+Ease of
+Effectiveness implementation Effectiveness implementation
+AEVC V06 Temperature Control Thermostat
+Cost Cost
+5 5
+4 4
+3 3
+2 2
+ROI Applicability ROI Applicability
+1 1
+0 0
+Ease of
+Ease of
+Effectiveness implementation Effectiveness implementation
+25
+LAICEPS
+TSAF
+A320 FAMILY - IN-FIGHT INTERRUPTION REVIEW - CONCLUSION
+Conclusion
+As this FAST Special has explained, For this FAST Special, analysis of Other proposals that are considered
+the events recorded during the last to be of particular interest are:
+an in-flight interruption is a rare
+four years has been carried out. event and, for the A320 Family, the
+This has allowed proposals that • Nose Landing Gear
+rate continues to fall. Nonetheless, will be applicable to the greatest Ground/Flight Indicating
+these events are unquestionably number of operators to be identi- System(page 14)
+fied. However, as might be expect- • Bleed Air Duct seals
+significant for any aircraft operator.
+ed for a mature aircraft family, the (page 15 and 16)
+root causes are widely spread. • Air Conditioning Pack
+The ongoing process of identifying Nonetheless, some proposals stand Bellows clamps(page 5)
+reliability drivers continues. Airbus out as having a wide applicability • Air Conditioning Pack
+and offer a significant contribution Condenser reinforcement
+and its vendors will also continue to
+to further in-flight interruption (page 5)
+offer new enhancements as needs
+reduction. In addition, most pro- • Hydraulic Hose inspection
+and opportunities appear. posals offer an intrinsic improve- (page 8 and 9)
+ment in overall system reliability
+that should not be forgotten when Implementation of any one of the
+The current fleet of the A320 Family considering their implementation. proposals in this FAST Special
+is operated by approximately 150
+applicable to your airline and its
+different organizations. Today, on The recently available standard fleet will reduce the number of in-
+average, an aircraft of the A320 V06 of the Avionic Equipment flight interruptions.
+Ventilation Computer, (AEVC),
+Family experiences an in-flight
+described on page 4, addresses a Should there be any questions con-
+interruption approximately once
+number of issues that have been at cerning the contents of this docu-
+every 7000 flights. For an operator of the root of a relatively high per- ment please do not hesitate to con-
+six aircraft with average utilisation centage of in-flight interruptions. tact the author of the relevant ATA
+chapter, your Regional Customer
+this suggests one in-flight
+Similarly, theTemperature Control Services Manager (RCSM) or your
+interruption event every four or five
+Thermostat (TCT), described on Customer Services Director
+months. page 17, has also been identified as (CSD).
+being the cause of a relatively high
+number of events, particularly when
+operating in dusty environments.
+24

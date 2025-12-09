@@ -1,0 +1,1808 @@
+www.airbus.com
+The Airbus A380 is leaps ahead. Surpassing current levels of efficiency and
+with state-of-the-art cabin design, it embodies 30 years of non-stop innovation.
+Airbus, setting the standards.
+.skramedartderetsigererasemantcudorpdnaogolsti,subriA
+One giant leap.
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+8
+3
+T
+S
+A
+F
+38
+J U L Y 2 0 0 6
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+Customer Services
+events
+Just happened
+SPARES,SUPPLIER A300/A310 ADVANCED A330/A340 FAMILY HUMAN FACTORS
+SUPPORT & WARRANTY COCKPIT PROGRAMME TECHNICAL SYMPOSIUM SYMPOSIUM
+SYMPOSIUM TOULOUSE,FRANCE SUN CITY,SOUTH AFRICA MOSCOW,RUSSIA
+ATHENS,GREECE 22 - 23 MARCH 2006 28 MAY - 2 JUNE 2006 14 - 16 JUNE 2006
+13 - 16 FEBRUARY 2006 A two-day briefing for The latest developments The 22nd Human Factors
+Over 70 customer represen- A300/A310 operators in support services from Symposium took place
+tatives from Europe and was held in March 2006 Airbus were explained, with the theme of:
+Africa and 30 supplier in Toulouse to detail this including FAIR (an inter- ‘Human Factors as a core
+companies attended the programme which con- active forum for resolu- value at Airbus’. The sym-
+symposium titled ‘Working siders aircraft operation tion of technical issues), posium encompassed HF
+together in partnership’. until the year 2025 and AirN@v and e-Catalogue strategy, HF training,
+Airlines, MROs and major beyond. With this ad- developments, as well as operations and threat and
+suppliers exchanged views vanced cockpit, airlines the new concept for error management in
+on how to optimize mainte- would benefit from a sig- Service Bulletins. flight operations, ATC and
+nance and operational nificant reduction in The airline caucus identi- maintenance.
+costs.Airbus presented the maintenance costs, the fied issues to be addressed, Particular importance was
+Airbus Modular Spares FMS2 (Flight Manage- which were landing gear, given to the Human
+Services (AMSS), a fully ment System) and the design service goal exten- Factors Toolkit Project,
+flexible supplychain serv- new ATM (Air Traffic sion and fuel tank contam- which is intended to rec-
+ices approach, enabling Management) capabilities ination. For non-technical oncile Human Factors
+customers to focus on their will allow trajectory issues, vendor manage- Theory with operational
+individual core business. prediction and optimiza- ment, single source suppli- guidance.
+Airbus Supplier monitor- tion, resulting in signifi- ers and AD traceability by The event was sponsored
+ing recognized the progress cant fuel saving. part number changes were by ICAO and IAC
+made on supplier perform- There was also a review highlighted. Also request- (Interstate Aviation Com-
+ance while continuous of the current in-service ed were more frequent mittee) of the CIS
+improvement initiatives requirement for enhance- updates outside sympo- (Commonwealth of
+with BFE and engines sup- ment of the existing siums. Independent States).
+pliers were presented to Flight Management Sys- Operational Excellence
+customers. tem memory and data awards were presented.
+Airbus Warranty further loading characteristics. Gulf Air was awarded as
+demonstrated via an on- Though the Advanced best operator of a small
+site classroom the capaci- Cockpit is the long-term fleet of six A330s and
+ties of its all-new on-line comprehensive solution Korean Air was awarded as
+services, which enhance to this, it was announced top operator of a large fleet
+efficiency in everyone’s that feasibility studies to of 19 A330s. China
+operations whilst ensuring investigate a shorter term Airlines with a fleet of
+protection of customers’ solution are underway, seven A340s and Luft-
+rights. further feedback will be hansa German Airlines
+given during the third with 39 A340s were award-
+quarter of 2006. ed for their excellence.
+South African Airways
+received the award as best
+A340-600 operator.
+Coming soon
+TRAINING SYMPOSIUM,SAN FRANCISCO,USA,2 - 5 OCTOBER 2006
+After an outstanding event in Bangkok in December 2004, Airbus is pleased to announce the eighth dynamic and
+highly informative forum dedicated to the Airbus international training scene. This two yearly event provides airline
+training professionals with a unique opportunity.
+Whether the focus is on flying, cabin safety or aircraft maintenance, participants will get the latest status of all Airbus
+training programmes, technologies, techniques and perspectives and will share their Airbus training experience with
+the industry’s most senior players. Separate but integrated conference streams covering pilot training, cabin crew train-
+ing, maintenance training and simulation & training technologies will complement an exhibition featuring the latest
+developments in these fields. Invitations were sent in June 2006.
+J U L Y 2 0 0 5
+83TSAF
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+Publisher:Bruno Piquet
+Editor:Kenneth Johnson
+Graphic Designer:Agnès Massol-Lacombe
+Authorization for reprint of FAST articles should be requested
+from the editor at the FAST e-mail address given below
+Customer Services Communications
+Tel: +33 (0)5 61 93 43 88
+Fax: +33 (0)5 61 93 47 73
+E-mail: fast.magazine@airbus.com
+Printer Escourbiac
+FAST may be read on Internet
+http://www.content.airbusworld.com/SITES/Customer_services/index.html
+under Customer Services/Publications
+ISSN 1293-5476
+Airbus Customer Services
+©AIRBUS S.A.S. 2006. All rights reserved
+No other intellectual property rights are granted by the delivery of this Magazine than
+the right to read it,for the sole purpose of information.This Magazine and its content shall
+not be modified and its images shall not be reproduced without prior written consent of Airbus.
+This Magazine and the material it contains shall not,in whole or in part,be sold,rented,distributed
+or licensed to anythird party.The information contained in this Magazine may vary over time
+because of future factors thatmay affect the accuracyof information herein.Airbus assumes no
+obligation to update anyinformation contained in this Magazine.When additional information
+is required,Airbus S.A.S.can be contacted to provide further details.Airbus,its logo and product
+names are registered trademarks.Airbus S.A.S.shall assume no liability for
+anydamage in connection with the use of this Magazine and of the materials it contains,
+even if Airbus S.A.S.has been advised of the likelihood of such damages
+This issue of FAST has been printed on paper
+produced without using chlorine,to reduce Photographs:
+exm company: Hervé Goussé and Philippe Masclet waste and help conserve natural resources.
+Pages 2 to 9: Emirates Airline Every little helps!
+1
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+J U L Y 2 0 0 6
+38
+Performance monitoring of IFE systems 2
+Proposal for the future
+from Emirates Airline perspective
+Mahmood Ameen and Vijay Rathnam
+Performance monitoring of IFE systems 10
+Airbus vision for the future
+Marc Virilli
+The A380 maintenance programme is born! 11
+Amajor success by all involved
+Cover: See A380 maintenance Christian Delmas and Régis Broutee
+programme article on page 11
+Hypoxia - An invisible enemy 20
+Cabin depressurization effects
+on human physiology
+Hartwig Asshauer
+Fuel contamination 26
+Prevention and maintenance actions
+Christopher McGregor
+Fuel contamination 31
+Part II
+Customer Services 32
+Around the clock...Around the world
+TITLE - SUB-TITLE
+83TSAF
+PERFORMANCE MONITORING OF IFE SYSTEMS - PROPOSALS FOR THE FUTURE FROM EMIRATES AIRLINE PERSPECTIVE PERFORMANCE MONITORING OF IFE SYSTEMS - PROPOSALS FOR THE FUTURE FROM EMIRATES AIRLINE PERSPECTIVE
+There are many parties involved in according to priority/ criticality,
+the life cycle of IFE development and review technical logs.
+and maintenance. The airlines Moreover, if you are lucky, you
+engineering projects team, which is may be apprised of the customer’s
+the focal point within an airline, feedback.
+works with other departments such
+as in-flight services, catering, IFE Inthe end, what you have compiled
+media services, maintenance engi- can best be described as a mixed
+neering, procurement, spares plan- bag of information, and you have
+ning and cabin/IFE maintenance come to realize that the report still
+teams. Externally, the projects does not represent how the IFE per-
+team interfaces with OEMs formed throughout flight. In addi-
+(Original Equipment Manufactu- tion, the compilation process has
+rers - Airbus or Boeing), IFE ven- most probably taken considerable
+dors, seat vendors, galley vendors, time while the Senior VP is waiting
+Airshow/ Camera and other third for the information. It is fair to say
+party suppliers. Typically, the that this collection and reporting
+development cycle takes well over process is more impromptu than
+twoyears from the kick-off stage to organized. Every few weeks or
+delivery of the first aircraft with months, you may have to go
+operational and certified IFE. through a similar exercise, some
+routine, others requested.
+Consider the following scenario:
+You have worked tirelessly for two What is missing in the above sce-
+years along with other teams to nario is a clear and concise method
+successfully develop and deliver an of objectively, qualitatively and
+IFE system, which is fully installed quantitatively reporting IFE in-ser-
+and operational. The responsibility vice performance. Such a reporting
+does not stop here. If all goes well, method would provide the most
+the first revenue flight with passen- realistic summary of system per-
+gers is successful. Over a period of formance throughout the flight.
+several months after entry into ser-
+vice, as is common with complex This article puts forward proposals
+systems ; you find a certain num- to achieve this objective from
+ber of problems. On Monday Emirates Airline’s perspective.
+morning, your Senior Vice Some alternatives are presented.
+President asks your team for input The proposals apply equally to
+on how the IFE is performing in both wide body aircraft and single
+Today’s In Flight Entertainment (IFE) systems ating system layer,acore software layer, an appli- service. You hastily review the in- aisle aircraft equipped with IFE.
+installed in many wide body aircraft are undoubted- cation layer, a BITE (Built-In Test Equipment) service logs, pore over
+ly some of the most complex systems engineering reporting layer and a Graphic User Interface MTBUR/MTBF data, scan and res-
+professionals have ever designed and developed. (GUI) layer. These are augmented by databases can in-service problems organized
+On average, well over 2,000 Line Replaceable that identify an airlines chosen cabin/seat config-
+Units (LRUs) are installed and linked by networks uration, overhead display configuration and
+onboard the aircraft. These systems have a core applicable media storage and reproducing devices
+hardware platform layer, a network layer, an oper- (video, audio and games).
+Mahmood Ameen Vijay Rathnam
+Vice President Projects Engineer,IFE programs
+Emirates Engineering Projects Emirates Engineering Projects
+Emirates,Dubai,UAE Emirates,Dubai,UAE
+2 3
+83TSAF
+Performance
+monitoring
+of IFE systems
+Proposals for the future from
+Emirates Airline perspective
+3
+PERFORMANCE MONITORING OF IFE SYSTEMS - PROPOSALS FOR THE FUTURE FROM EMIRATES AIRLINE PERSPECTIVE
+Proposal ‘A’ expensive, unscheduled mainte- Based on these parameters, the second bus from CMEU2 to the
+nance actions outside the main DMU performs several tasks, the DMU and a third bus from the
+Link between IFE
+base of the airline. In addition, the results of which are either found on EPESC to the DMU.
+and ACMS ACMS is presently used for vari- DAR (Direct Access Recorder)
+ous tasks such as hard landing cassettes, floppy disks (via MDDU The IFE servers shall regularly
+detection, team proficiency moni- - Multi Disk Drive Unit), on the transmit various data such as seat
+With the integration of modern, toring and trouble shooting at the MCDU (Multipurpose Control and operational mode (audio, video,
+state-of-the-art technology such as system level. The main objective of Display Unit) screen or (if they are interactive modes), seatbox health
+fly-by-wire or Full Authority ACMS is more preventative in downloaded via ACARS - Aircraft status, EADB (Enhanced Area
+Digital Engine Control (FADEC), nature. Communication Addressing and Distribution Box) health status,
+the complexity of aircraft systems Reporting System) directly on the handset operational status, over-
+has led to the development of the The ACMS is organized around a ground support computer at the head health status, AVOD (Audio
+Aircraft Condition Monitoring DMU (Data Management Unit, on airline ground station. ACMS gen- Video On Demand) availability
+System (ACMS). The ACMS mon- A340-500 the FDIMU - Flight erates at least 21 reports, which status, CMEU availability status,
+itors the data supplied by various Data Interface and Management include several standard reports AVOD storage device health sta-
+aircraft systems for trend monitor- Unit), which interfaces with other and three user programmable tus, AVOD server health status,
+ing to get maintenance relevant aircraft systems. Approximately reports. CMT (Cabin Management
+data. This data enables the airline 13,000 parameters from 48 com- Terminal) health status, CTU
+to customize their maintenance puters (via ARINC 429 data buses) PROPOSAL ‘A’ CONSISTS OF THE (Central Telecommunication Unit)
+planning. Long-term trend moni- on the aircraft are fed into the FOLLOWING ELEMENTS health status, SATCOM (Satellite
+toring of the engines and APU DMU. Communication Unit) availability
+(Auxiliary Power Unit) prevents Connect the IFE main servers such status, seat reset status at least
+as CMEU (Centralized Memoryand once every 30 minutes (this
+Expansion Unit) and main process- should be customizable to an air-
+ing LRUs (Line Replaceable Units) line’s specific needs) via ARINC
+such as EPESC (Enhanced 429 buses to the DMU. In addi-
+Passenger Entertainment System tion, software configuration data
+Controller) via ARINC 429 bus to and database configuration are
+the DMU.There shall be at least one sent once at the beginning of the
+bus from CMEU 1 to the DMU, a flight to the DMU.
+5
+83TSAF
+PERFORMANCE MONITORING OF IFE SYSTEMS - PROPOSALS FOR THE FUTURE FROM EMIRATES AIRLINE PERSPECTIVE
+5
+83TSAF
+100
+80
+0
+30
+0
+29
+91
+0
+16
+31
+61
+0 ACMS - Data management function for proposal A
+23
+18
+38
+0
+0
+100
+65
+39
+49
+0
+100
+39
+82
+0
+28
+52
+4
+7
+83TSAF
+PERFORMANCE MONITORING OF IFE SYSTEMS - PROPOSALS FOR THE FUTURE FROM EMIRATES AIRLINE PERSPECTIVE PERFORMANCE MONITORING OF IFE SYSTEMS - PROPOSALS FOR THE FUTURE FROM EMIRATES AIRLINE PERSPECTIVE
+The DMU processes all engineer- In addition to standard report trig- Proposal ‘B’ CMEU availability status, AVOD
+ing data received from the IFE sys- gers for report <23>, means shall storage device health status,
+Built-in condition
+tem and generates IFE perfor- be provided to support user defin- AVOD server health status, CMT
+mance/stability reports on ground, able triggers via the IFE database. monitoring health status, CTU health status,
+at takeoff and every hour after take These user definable triggers are SATCOM availability status and
+off, at TOC (Top Of Climb), at used to monitor specific events seat reset status at least once every
+TOD (Top Of Descent), at touch such as AVOD stream failure, Instead of connecting the DMU 30 minutes (this should be cus-
+down and upon arrival at the gate. CMEU server failure, and CMT via ARINC 429 data buses to core tomizable to an airline’s specific
+failure to capture the overall IFE servers and processing units, needs) via internal buses to the
+These reports are sent as IFE cabin IFE health conditions via this proposal necessitates fully IRM. In addition, software config-
+Stability Report <23> either to the reports. certified software running as part uration data and database configu-
+printer on arrival, to floppy disks on of the CMEU servers 1 and 2. ration are sent once at the begin-
+MDDU or down linked automatical- In addition, the logic for the The core certified software is ning of the flight to the IRM.
+ly via ACARS, Data-3, swift 64 or report<23> shall provide means to essentially ACMS report<23> IFE
+BGAN (broad band), whichever is capture all commanded and com- Stability/Performance report re- The IRM processes all engineering
+available and selected as the channel manded seat reset data along with hosted on CMEUs 1 and 2. data received from the IFE system
+of communication by the airline. A pertinent UTC (Universal Time and generates the IFE
+sample of such an IFE Stability Clock), data and seat location The algorithm and implementation Stability/Performance report on
+report<23> is shown below. parameters. is certified as part of the core soft- ground, at takeoff and every hour
+ware by the OEM (Airbus or after take off, at TOC, at TOD, at
+Boeing as applicable) during the touch down and upon arrival at the
+certification process. Once certi- gate. These reports are sent as IFE
+fied, the IFE vendor cannot Stability report <23> either to the
+modify these core algorithms. printer in flight, to floppy disks on
+For further discussions, we shall MDDU or down linked automati-
+call this software IRM (IFE Report cally via ACARS, Data-3, swift 64
+Domain). or BGAN whichever is available
+and selected as the channel of com-
+The IFE servers regularlytransmit munication bythe airline. Asample
+various data such as seat opera- of such an IFE Stability report<23>
+tional mode (audio, video, interac- is shown previous page.
+tive modes), seatbox health status,
+EADB health status, handset oper- In addition to standard report
+ational status, overhead health sta- triggers for report <23>, means
+tus, AVOD availability status, shall be provided to support user
+7
+83TSAF
+00
+1166
+3311
+6611
+00
+2233
+1188
+3388
+00
+00
+110000
+6655
+3399
+4499
+00
+110000
+3399
+8822
+00
+2288
+5522
+Sample user
+programmable triggers
+Seat availability explanation
+For example,the seat 10B may have a
+status of FC,which translates into binary
+values 11111100 and gives the following
+IFE availability:
+The status of each seatin the IFE stability report <23> is represented •Audio available
+by two hexadecimal digits. •Video available
+•AVOD available
+•Games available
+Audio Video AVOD Games Interactive Telephone Airshow Camera •Interactive available
+•Telephone available
+1 1 1 1 1 1 1 1 •Airshow NOT available
+•Camera NOT available
+10B
+1 1 1 1 1 1 0 0
+1means available, 0 means not available
+6
+PERFORMANCE MONITORING OF IFE SYSTEMS - PROPOSALS FOR THE FUTURE FROM EMIRATES AIRLINE PERSPECTIVE
+definable triggers via the IFE Software
+database. These user definable
+considerations in
+triggers are used to monitor spe-
+cific events such as AVOD stream airborne systems
+failure, CMEU server failure, and
+CMT failure to capture the overall
+cabin IFE health conditions via Presently, ACMS software is clas-
+reports. sified as Level D or Level E. Level
+D is assigned to report generation
+The logic for the report<23> shall software and Level E for the data
+also provide means to capture all collection software. Report genera-
+commanded and uncommanded tion software refers to standard
+seat reset data along with pertinent reports such as the engine cruise
+UTC, data and seat location report and cruise performance
+parameters. report, which highly influence
+engine performance warranty cal-
+If critical changes have to be culations and scheduled mainte-
+installed in the IRM domain, they nance. The IFE Stability report,
+shall not be down linked bynormal which is a user definable report,
+down load procedures used by IFE is classified under Level E. All
+systems. Instead, these changes IFE software products onboard are
+shall be approved by OEMs prior currently classified as Level E
+to controlled installation on the systems based on DO-178B
+CMEU servers. classifications.
+83TSAF
+PERFORMANCE MONITORING OF IFE SYSTEMS - PROPOSALS FOR THE FUTURE FROM EMIRATES AIRLINE PERSPECTIVE
+Comparison of
+the two proposals
+PROPOSAL ‘A’ MERITS
+Once certified, the ACMS software
+architecture and its implementation
+tend to be more stable. It has the
+added advantage of rigorous control
+by OEMs. The links to all other
+peripherals (such a printer, MDDU,
+ACARS and MCDUs) are already
+established and implemented as part
+of the ACMS system configuration.
+PROPOSAL ‘B’ MERITS
+No additional wiring between the
+IFE and DMU is necessary.
+Implementation is under the con-
+trol of one vendor without involv-
+ing the ACMS supplier.Integration
+and testing are entirelybetween the
+IFE vendor and OEM.
+8 9
+83TSAF
+About the authors...
+Mahmood AMEEN Vijay RATHNAM
+Mahmood Ameen is currently head Vijay Rathnam is currently Projects
+of the Cabin,IFE and Avionics Engineer in Emirates Engineering,
+Engineering projects section at Dubai.He serves as a focal engineer
+Emirates Airline where he serves as for IFE development for Emirates
+Vice President of Engineering new fleet and also is responsible for
+Projects.In his role,he oversees the the development of enhanced cabin
+development of new IFE and Cabin lighting (mood lighting/star lighting)
+systems for all of Emirates new fleet systems.Vijay,a US citizen,has
+ofaircraft.He is also responsible for extensive experience in IFE industry
+the in-house retrofit and and avionics systems (FMS,ACMS)
+maintenance of cabin and IFE development.He holds a Bachelor of
+systems in Emirates current fleet. Engineering (Electrical) from the
+Mr.Ameen holds a Bachelor of University of Madras,and Master of
+Science in Aeronautical Engineering Science in Computer Science from
+from St Louis University,Missouri, the University of Texas,USA.
+USA and Master of Science in
+100
+Air Transport Management from
+80 Cranfield University,UK.
+0
+30
+CONTACT DETAILS
+0
+29
+Mahmood Ameen
+91
+Vice President
+0
+Emirates Engineering Projects
+Emirates,Dubai,UAE
+Tel:+97 14-2181415
+Illustrations provided byEmirates Airline Fax:+97 14-2991299
+16
+mahmood.ameen@emirates.com
+31
+61
+0 Vijay Rathnam
+Projects Engineer,IFE programs
+Emirates Engineering Projects
+Emirates,Dubai,UAE
+23 Tel:+ 97 14-2181000
+18 Fax:+ 97 14-2991299
+38 vijai.rathnam@emirates.com
+0
+Conclusion
+0
+100
+65
+Although a sample report is provided in monitoring enhancements proposed
+39 this article, it could be further enhanced above to such systems to provide value
+with additional parameters and formatting added IFE maintainability services both to
+as deemed necessary.The interval for the an airline's maintenance control centre
+49 report trigger and parameters to monitor and line maintenance teams
+0 can be further refined.
+100
+With the enormous complexity of present
+39
+There are recent developments in the day IFE systems, it is critical for airlines to
+industry to implement health-monitoring have a complete, comprehensive,
+systems, which are aimed at remotely objective window into the performance of
+82
+collecting and monitoring aircraft data to IFE throughout the flight, at take off and at 0
+28 determine the status of an aircraft's landing. These added tools will provide
+52 current and future serviceability. There is the necessary mechanism to report with
+potential to connect the IFE health confidence the performance of IFE.
+9
+TITLE - SUB-TITLE
+83TSAF
+PERFORMANCE MONITORING OF IFE SYSTEMS - AIRBUS VISION FOR THE FUTURE
+Performance monitoring
+of IFE systems
+Airbus vision for the future
+CONTACT DETAILS
+Marc Virilli
+Head of Cabin
+and Cargo Systems
+Airbus Customer Services
+Tel:+33 (0)5 61 93 46 41
+Fax:+33 (0)5 61 93 44 25
+marc.virilli@airbus.com
+Conclusion
+This approach is global for all systems Airbus. In the next issue of FAST
+installed on Airbus aircraft and includes Magazine, we will share in more detail
+IFE (In Flight Entertainment) systems. Airbus vision for the future for IFE
+Both proposals in the previous article Systems trend monitoring and enhanced
+from Emirates Airline arevery valid ones, maintenance processes using the
+which in their principle complement aircraft as a major node of a network as
+investigation paths under study in shown above.
+10
+83TSAF
+THE A380 MAINTENANCE PROGRAMME IS BORN! - AMAJOR SUCCESS BY ALL INVOLVED
+*AIRMAN(Aircraft Maintenance Analysis) Aircraft Health Monitoring and Management has
+is a real-time health monitoring and been a constant major subject for Airbus for some
+troubleshooting solution developed by Airbus. years now and solutions for both raw OMS
+AIRMAN constantly analyses the status
+(Onboard Maintenance System) data acquisition
+messages sent by aircraft systems and helps
+such as BITE (Build In Test Equipment) and
+airlines to optimize their maintenance and
+troubleshoot their aircraft to: Marc Virilli ACMS (Aircraft Condition Monitoring System)
+•Better anticipate possible aircraft technical plus on-ground processing (AIRMAN*) have been
+events. developed and are available on all the Airbus cur-
+•Improve their aircraft dispatch reliability.
+rent product line. Enhancements of these systems
+•Cut their maintenance and operational costs.
+are implemented at the opportunity of each new
+•Improve their maintenance task efficiency.
+aircraft as well as new services aimed at improv- The A380
+ing pro-active and predictive maintenance based
+on performance monitoring and other state-of-
+the-arttechnologies.
+maintenance
+programme is born!
+A major success by all involved
+On 23 December 2005, Airbus received accep- This article describes the way this milestone was
+tance of the A380 Maintenance Review Board achieved thanks to the very active and dedicated
+Report (MRBR) from the European Aviation involvement of hundreds of people from opera-
+Safety Agency (EASA). This significant achieve- tors, authorities, suppliers and Airbus in the MRB
+ment is one major step in the A380 scheduled process.
+maintenance activity, but not the first, nor the last.
+Christian Delmas Régis Broutee
+Director Maintainability Director Maintenance Planning
+and Maintenance Engineering &Services
+Airbus Customer Services Airbus Customer Services
+11
+THE A380 MAINTENANCE PROGRAMME IS BORN! - AMAJOR SUCCESS BY ALL INVOLVED THE A380 MAINTENANCE PROGRAMME IS BORN! - AMAJOR SUCCESS BY ALL INVOLVED
+Lufthansa Technik was nominated
+ISC chair by the operators panel,
+Airbus co-chaired the ISC and
+GSAC was nominated MRB chair
+by the JAA.
+The ISC also gave the A380 PPH
+preliminary acceptance and vali-
+dated the overall planning defini-
+tion to help the first A380 operator
+Singapore Airlines to get a CAAS
+approved Operator Maintenance
+Programme for EIS (Entry Into
+Service). As a consequence, the
+overall MRBR planning highlight-
+ed the need for the first MPP sub-
+mission to the MRBs for approval
+12 months before EIS.
+The ISC also defined the organi-
+zation in charge of the develop-
+ment of the MRBR, relying on
+nine MWGs.
+To ensure an optimized contribu-
+tion from all ISC/MWG and MRB
+participants, the ISC also set up an
+intensive planning for training
+sessions.
+FEBRUARY TO JULY 2003:
+THE TRAINING SESSIONS
+AND A380 PPH APPROVAL
+From February to July 2003,
+Airbus Maintenance Engineering
+organized five one-week training
+sessions around the world with the
+support of hosting customers,
+Airbus Engineering and A380
+Programme organizations. All in
+all, more than 350 people from
+customers, airworthiness authori-
+ties, vendors and suppliers were
+given a general familiarization of
+the A380 design and trained on
+the A380 PPH.
+83TSAF
+110000
+8800
+00
+3300
+The A380 MRBR Maintenance Engineering orga-
+00
+2299 nized three working sessions with
+9911 the airworthiness authorities to
+00 For more details on APPLICATION FOR THE finalize the preparation of the PPH
+the MRB process
+MAINTENANCE REVIEW BOARD before submission to the Industry
+and ISC organization
+see the article in PROCESS Steering Committee.
+1166 FAST31 December 2002.
+3311 In December 2000, Airbus official- The European JAA represented by
+6611 lylaunched the A380 maintenance the GSAC (France), the LBA
+00
+programme. To meet certification (Germany), the CAA (UK) and
+targets, Airbus must comply with also the FAA (USA) and the CASA
+the JAR/FAR 25-1529 Instructions (AUS) contributed to the A380
+2233 for Continued Airworthiness PPH preparation.
+1188
+applicable at that time. As the
+3388
+00 A380 Type Certification (TC) FEBRUARY 2003:
+holder, Airbus must prepare, revise
+THE FIRST INDUSTRY STEERING
+as necessary and submit for
+COMMITTEE
+approval to the relevant airworthi-
+00
+ness authorities the initial mini- From 18 to 20 February 2003,
+110000
+6655 mum scheduled maintenance/ Airbus organized the first A380
+3399 inspection requirements that are Industry Steering Commitee (ISC),
+applicable to the A380 aircraft. whose responsibilities were:
+• Toapprovethe A380 PPH.
+4499 Just after the A380 first metal cut • To monitor the development
+00 (Jan 2002), Airbus officially of the A380 MRBR and the
+110000 applied for the Maintenance different Maintenance Working
+3399
+Review Board (MRB) process to Groups (MWG) activities.
+the Joint Airworthiness Authorities • Tosubmit the A380
+(JAA) in June 2002. At this time Maintenance Programme
+8822
+Airbus initiated an MRB process Proposal to the MRBs for
+00
+2288 compliant with: approval.
+5522 • JAA OPS Administrative &
+Guidance Material Section 2-
+First ISC meeting participants
+Part 2 – Chapter 16
+• FAR 121 AC 121-22A
+At the time of application, the
+applicable Maintenance Steering
+Group method was MSG3 Rev
+2002.1. This is the revision that was
+used to develop the A380 MRBR.
+THE A380 POLICY AND
+PROCEDURES HANDBOOK
+From June to November 2002
+Airbus Maintenance Engineering
+developed the A380 Policy and
+Procedures Handbook (PPH)
+which, compared to the MSG3
+document, provides additional
+procedures, details, guidance,
+interpretation of the rules, mainte-
+nance interval selection, form
+sheets, etc. necessaryfor analysis.
+The PPH also provides detailed
+work steps, responsibilities and
+scheduling. Between November
+2002 and January 2003, Airbus
+12
+83TSAF
+Industry Steering Committee schedule
+Airbus maintenance training sessions
+13
+15
+83TSAF
+THE A380 MAINTENANCE PROGRAMME IS BORN! - AMAJOR SUCCESS BY ALL INVOLVED THE A380 MAINTENANCE PROGRAMME IS BORN! - AMAJOR SUCCESS BY ALL INVOLVED
+This was not achieved by chance. Consequences
+First of all, the active involvement
+of the A380
+of Airbus maintenance engineers in
+the very early stages of the aircraft MRBR proposal
+design development was essential.
+acceptance versus
+The A380 maintenance tasks inter-
+val targets had been selected at the the MRBR approval
+beginning of the ‘A3XX’ story,
+well before it became the A380. All
+through the concept and design Readers familiar with the MRB
+phases of the A380 programme, Process may wonder why ‘MRBR
+Airbus maintenance and design Proposal’acceptance is mentioned
+engineers worked together to opti- instead of ‘MRBR approval’in this
+mize scheduled and unscheduled article.
+maintenance. Their target was to
+offer an A380 with optimized According to the Instructions for
+maintenance costs to operators, Continued Airworthiness (ICA)
+while maintaining safety as the pri- JAR/FAR 25-1529, an approved
+maryobjective. All design specifi- MRBR is required at the latest for
+cations are defined so that the aircraft EIS. However, as agreed by
+A380 design fulfils the initial the ISC the A380 MRBR planning
+MRBR targets and also remains has been developed in such a way
+compatible with future mainte- that enough time is provided to the
+nance programme evolutions first operator to get approval for its
+according to in-service experience. Operator Maintenance Programme
+(OMP) by its local authorities.
+All through the A380 design devel-
+opment and the MRB process, Consequently, review of the MSG3
+operators, airworthiness authorities analyses started in July 2003 based
+and Airbus challenged each other, on the design known at that time.
+contributing to the continuous Because of this and the numerous
+improvement of the overall MRB design changes that typically hap-
+process with the common objective pen during the design and flight
+to offer the A380 with the most test phases, the MRBs were not in
+appropriate maintenance pro- a position to approve a document
+gramme to support a safe, reliable covering the aircraft EIS design
+and economical aircraft operation. standard at this time.
+This led to the development of very
+thorough MSG3 analyses and the In addition, during the develop-
+selection of the most appropriate ment and review of the MSG3
+tasks and intervals. analyses by the MWGs, some
+15
+83TSAF
+110000
+8800
+00
+3300
+JUNE 2003:
+00 During Maintenance Task completion progress
+2299 THE PPH APPROVAL
+Working Groups
+9911
+00 In the mean time, thanks to the activities
+lessons learned during the training
+sessions, the PPH was updated and
+1166 got its first approval by the ISC and
+3311 acceptance by the MRBs in June
+6611 2003. The major highlights of this
+00
+PPH are the aircraft yearly utiliza-
+tion for medium/long haul routes.
+2233 The A380 PPH becomes the
+1188
+industry benchmark in the opin-
+3388
+00 ion of the MRBs and operators
+who report it as the best they have
+ever seen.
+00
+110000 The MWG activity
+6655
+3399
+From June 2003 to March 2005, the
+The first A380
+nine MWGs reviewed the MSG3
+4499 analyses for A380 systems, struc- Maintenance
+00 tures and zones selecting the most
+110000 appropriate scheduled maintenance Programme
+3399
+tasks to ensure a safe, reliable and
+Proposal (MPP)
+economical aircraft operation.
+8822
+During this 21 month period,more Thanks to the efficient MSG3
+00
+than 900 MSG3 dossiers prepared analyses production and quality 2288
+5522 byAirbus and major vendors main- monitoring process controlled by
+tenance engineers, representing the the ISC, the initial target was met:
+equivalent of more than 30,000 The A380 MPP is ready for review
+MSG3 analysis pages (equivalent) and acceptance by the A380 ISC
+were reviewed during 54 MWG in March 2005.
+meetings from which close to
+1,000 scheduled maintenance tasks During the tenth meeting in March
+A380 PPH aircraft utilization assumptions
+were selected. 2005 the ISC completed review of
+the MWG results and concluded that
+the selected scheduled maintenance
+tasks and associated intervals are the
+most appropriate ones. The ISC then
+accepted the compiled MPP.
+On 8 April 2005, some days prior to
+the A380 maiden flight, the first
+A380 MPP was submitted to the
+MRBs for acceptance according to
+the planning set up more than two
+years earlier. Early involvement in
+design phases and very active opera-
+tor involvement were two key issues.
+Most of the initial technical objec-
+tives were met in the A380 MRBR
+proposal, particularly the objec-
+tives associated with task selection
+and interval definition.
+14
+• In-service experience
+(AD/CN, Service Bulletins
+(SB), Service Information
+Letters (SIL), All Operators
+Telex (AOT)…)
+The MPD provides additional
+information for each sched-
+uled maintenance task such
+as, access, zones, source data,
+preparation work, man hours,
+elapsed time and reference to
+the associated Aircraft
+Maintenance Manual (AMM)
+procedure.
+Similar requirements for dif-
+ferent sources are consolidat-
+ed in the MPD at task and/or
+Threshold/ Interval level.
+At this stage of the A380 pro-
+gramme, the MPD contains
+only data coming from the
+MRBR proposal.
+ASIMPLIFIED MPD
+WITH NEW FEATURES
+Compared to other Airbus pro-
+grammes, the A380 MPD is sim-
+plified. Volume 2 is deleted as:
+• The zoning and access
+illustrations previously covered
+in section 10 and 11 are
+redundant with AMM Chapter
+06 information.
+• The illustrations of the Structure
+Significant Items (SSI) from the
+MRBR structures section,
+previously covered in section 12
+are now available in the relevant
+AMM procedures.
+With experience gained from other
+Airbus programmes and in agree-
+ment with the A380 ISC, a new
+task numbering concept was intro-
+duced to be self-explanatory and
+remain compatible with future
+maintenance programme and plan-
+ning evolution. To assist operators
+maintenance planning organiza-
+tions, a new appendix for mainte-
+nance planning is available. In this,
+all MPD tasks whatever the source,
+are packaged into maintenance
+checks according to typical aircraft
+operations.
+17
+83TSAF
+THE A380 MAINTENANCE PROGRAMME IS BORN! - AMAJOR SUCCESS BY ALL INVOLVED THE A380 MAINTENANCE PROGRAMME IS BORN! - AMAJOR SUCCESS BY ALL INVOLVED
+17
+83TSAF
+• The ‘MRBR Proposal’will
+Maintenance Planning Document on CD
+be updated according to the
+changes identified during the
+March 2005 - June 2006 MWG
+and ISC meetings and
+submitted to the MRBs to
+be approved prior to EIS.
+This will become the first
+A380 approved MRBR.
+• The first A380 operator, at that
+time, will only have to integrate
+the changes in its OMP in order
+to get approval from its local
+airworthiness authority.
+This agreement offers benefits:
+• To the first A380 operator who
+can anticipate their programme
+and planning to minimize
+workload just prior to EIS and
+100
+80 limit it to a programme revision.
+0 • Toall A380 operators who
+30 can prepare in advance their
+maintenance programme and
+assumptions on Flight Manual planning.
+0
+(FM) and Master Minimum • Tolocal authorities who have
+29
+Equipment List (MMEL) are contributed to the MRB process
+91
+0 made. These assumptions must be and can approvetheir operators
+cleared for the MRBR approval. To OMP more quickly. New task numbering concept
+protect the first A380 operator’s
+interests an agreement is therefore
+16 The A380
+31 found between operators, MRBs
+61 and Airbus: Maintenance
+0 • The first MRBR will be called
+Planning
+‘MRBR proposal’and will not
+be approved but accepted by the Document
+23 EASA. It will thus be
+18 recognized as an acceptable ASCHEDULED MAINTENANCE
+38
+0 basis by the first operators local DATA REPOSITORY
+airworthiness authority for
+approval of the first OMP. Parallel to the A380 MRB process,
+• All design changes will be Airbus Maintenance Planning
+0 analysed by Airbus maintenance organization prepared the A380 New appendix for maintenance planning
+100
+engineering for MSG3 analyses Maintenance Planning Document
+65
+update and review by the (MPD) with new and enhanced
+39
+relevant MWG prior to features. The MPD is a single ref-
+submission of the MPP to erence for all repetitive tasks
+the MRBR for approval. recommended by Airbus and is a
+49
+0 This process is a standard one non-approved document that con-
+100 that remains applicable tains approved and non approved
+39 throughout the aircraft life in scheduled maintenance require-
+the MRBR revision process. ments from:
+• All assumptions taken and • The MRBR
+82 recorded during reviewof the • The Airworthiness
+0
+MSG3 analyses must be Limitation Items document
+28
+52 confirmed,if not, MSG3 (ALI)
+analyses and MRBR must be • The Certification
+reviewed and updated Maintenance Requirements
+accordingly. document (CMR)
+16
+19
+83TSAF
+Conclusion
+Amarvellous experience and a real team The A380 has not yet been delivered to its
+spirit.The acceptance of the A380 MRBR first customer but the MRBR and the MPD
+proposal by EASA is a major step in the have already switched from the
+A380 maintenance programme development to the revision phase.
+development. This was achieved thanks to
+avery efficient ISC organization where Airbus Maintenance Planning organization
+operators, airworthiness authorities, major has developed a specific assistance for
+suppliers and Airbus joined efforts to give the Flight Test department. The A380 flight
+the A380 a maintenance programme at test aircraft scheduled maintenance is
+the same level as the aircraft: Areference already performed according to the A380
+in the industry. MPD, customized to the aircraft definition
+and operation.
+Hundreds of thousands of working hours
+have been invested in the A380 MRBR, Avery efficient result
+more than 8,000 meeting man-days, more First technical evaluations of the A380
+than 30,000 equivalent pages of maintenance programme, based on
+documents prepared, reviewed and standard aircraft operation confirms that
+validated by hundreds of people. All this the initial MRBR targets aremet:
+was performed in a very professional and •An equivalent A check can be scheduled
+very friendly atmosphere. every 750fh
+•An equivalent C check can be
+The result is that the A380 has a scheduled every 24 months/6,000fh
+maintenance programme ready for •Structure inspections can be scheduled
+implementation. The MPD provides the every 6 and 12 years
+tools to help operators develop their
+maintenance programme (OMP) get it This leads to significant maintenance
+approved by their local airworthiness man-hours and maintenance cost savings
+authority and prepare the associated A380 compared to aircraft with similar
+maintenance schedule. Airbus operations.
+Maintenance Planning Organization offers
+customized services to help operators in
+these activities.
+19
+83TSAF
+THE A380 MAINTENANCE PROGRAMME IS BORN! - AMAJOR SUCCESS BY ALL INVOLVED THE A380 MAINTENANCE PROGRAMME IS BORN! - AMAJOR SUCCESS BY ALL INVOLVED
+100
+80
+0
+30
+ASIMPLIFIED MPD Next steps worthiness authorities to perform sions will combine source docu-
+0
+29 AVAILABLE IN MULTIPLE FORMATS the MSG3/SSA (System Safety ment revisions as much as possible
+91 Assessment) compatibility check according to the different planning
+As previously mentioned the A380
+0 The A380 MPD and associated that leads to selection of the and document approvals.
+MRBR Proposal acceptance by
+features are available in multiple Certification Maintenance Requi-
+EASA is the first major step in the
+formats to meet operators expecta- rement (CMR) (compliance with
+development of the A380 sched-
+16 tions and provide an easy interface JAR/FAR 25-1309). As with the
+uled maintenance documentation.
+31 with their systems. MRBR development process, early
+61 It was not the first one, and it will
+involvement of Airbus maintenance
+0 not be the last.
+engineers during the design phases
+is essential to reduce the number of
+THE MRB PROCESS
+CMRs to the minimum.
+23
+18 Following ISC, MRBs and Airbus
+THE MPD
+38
+agreement, the A380 MRBR will
+0
+be updated according to design The A380 MPD will be revised
+changes to obtain a formal approval every time one of the source docu-
+CONTACT DETAILS
+for EIS of the first aircraft. Then, ments is revised. To minimize the
+0 once the A380 becomes an in ser- burden on operator’s maintenance Christian Delmas Régis Broutee
+100 vice aircraft, the MRBR will fol- planning organizations, MPD revi- Director Maintainability Director Maintenance
+65
+low a standard revision process and Maintenance Engineering Planning & Services
+39
+Airbus Customer Services Airbus Customer Services
+according to:
+Tel:+33 (0)5 61 93 14 04 Tel:+33 (0)5 67 19 02 13
+• Design changes
+Fax:+33 (0)5 61 93 28 72 Fax:+33 (0)5 61 93 22 78
+• New regulations christian.delmas@airbus.com regis.broutee@airbus.com
+49
+• In-service experience feedback 0
+100
+39 For this, it is essential that from day
+In particular, the AirN@v module one, A380 operators collect in
+‘AirN@v / Planning’ offers the appropriate databases the results of
+82 possibility to be 100% compatible the scheduled maintenance tasks
+0 with the other AirN@v newgener- (findings and nil findings) to later
+28
+52 ation of technical data browsing supportMRBR evolution exercises.
+tools, which are easy to use and
+AirN@v module ‘AirN@v / Planning’
+interactive (see article in FAST 35). THE AIRWORTHINESS
+LIMITATION ITEM
+The Airworthness Limitation Item
+(ALI) process has also started with
+the target to get the A380 ALI
+document approved for the A380
+type certification (compliance to
+JAR/FAR 25-571).
+A380 fatigue and damage toler-
+ance evaluations will be performed
+and associated scheduled mainte-
+nance requirements will be pub-
+lished in the A380 document at
+type certification. The ALI will
+later be updated once results from
+the fatigue test cell are available.
+THE CERTIFICATION MAINTENANCE
+REQUIREMENT
+The process has also started. Two
+Certification Maintenance Coordi-
+nation Committee meetings have
+taken place with operators and air-
+18
+21
+83TSAF
+HYPOXIA - AN INVISIBLE ENEMY - CABIN DEPRESSURIZATION EFFECTS ON HUMAN PHYSIOLOGY HYPOXIA - AN INVISIBLE ENEMY - CABIN DEPRESSURIZATION EFFECTS ON HUMAN PHYSIOLOGY
+Operating at high altitude without system. She decided not to use the
+Human physiology
+adequate understanding, training portable oxygen equipment and
+or equipment protection can be went straight to the flight deck. Within the lungs the alveola provide the interface between
+dangerous as shown by the follow- Before being able to assist the air and blood.The blood which is returned from the body
+tissue into the alveolae has given away most of its oxygen
+ing extracts from two accident captain she collapsed onto the
+so that the oxygen partial pressure in the lungs is higher
+reports: floor. Once again, the first officer
+than in the arriving blood.A process of diffusion then
+attempted to put on the oxygen drives oxygen through the thin alveolar wall into the blood.
+‘One of the first encounters with mask for the captain, this time
+the dangers of high altitude flight successfully. Soon afterward, the
+was reported in 1862 when a bal- captain regained consciousness
+loon flight was made to study the and was unaware he had been
+effects of low ambient pressure. unconscious, which is a typical
+The balloon ascended to approxi- reaction from a victim of hypoxia.’
+mately 29,000ft and during the
+flight a series of “strange” symp-
+toms, notably loss of visual and The hypoxia
+hearing capability, paralysis of
+effects of
+arms and legs, and finally, uncon-
+sciousness occurred. The team a quick cabin
+could have been lost, but was
+depressurization
+saved by one member pulling the
+balloon valve rope with his teeth
+(his arms were already paral- During a quick depressurization
+ysed), to descend the balloon. The the partial pressure of oxygen in
+team recovered as the balloon the lungs/alveolae reduces rapidly
+descended, but this marked for the with the effect of reverse diffusion.
+first time the risk of low ambient This means that once the oxygen
+pressure.’ partial pressure in the alveolae has
+reached a level that is below the
+‘In 1998 a decompression incident level in the blood, the blood oxy-
+occurred on an aircraft at gen moves out of the body back The most important parameters for the oxygen diffusion
+35,000ft. Both the captain and the into the ambient air. This effect of process are the oxygen percentage and barometric
+ambient pressure.Changing these parameters changes
+first officer had received altitude- reverse diffusion unfortunately fur-
+immediately the oxygen saturation level in blood and with
+chamber training during their pre- ther reduces the already verylimit-
+it the oxygen supply to the bodytissue.Unfortunately,
+vious military careers and knew ed oxygen storing capability of there is no significant storage of oxygen in the human
+about the effects of low cabin blood and supports hypoxia effects. body,unlike many other chemical substances necessary
+to maintain life.The blood is the only storehouse for pressure. The first officer attempt- Holding of breath cannot stop the
+oxygen,and its capacity is very limited.Hence,the
+ed to control the cabin rate of reverse flow since the pulmonary
+human body lives only a hand-to-mouth existence with
+climb by switching to the standby gas expansion would lead to seri- its oxygen supply.
+pressurization system. When use ous lung injury.
+As the pressure of air in the atmosphere decreases with
+of the standby system failed to increasing altitude,the partial pressure of oxygen in the
+improve the situation, he donned Severe hypoxia caused by a signif- air reduces and with it the diffusion of oxygen into the
+body.Reduction of oxygen availability in the body results his oxygen mask. The captain, who icant reduction in cabin pressure is
+in loss of functions ranging from slight impairment up to had been talking with a passenger very dangerous for flight crew
+death.It is the nervous system,in particular in the higher
+who was visiting the flight deck, because: centres of the brain,and the eyes which have a high
+attempted to don his oxygen mask • The victims of hypoxia rarely metabolism with no oxygen reserve.These are most
+sensitive to oxygen depletion and therefore are the first too,but in doing so he knocked his notice that theyare about to
+to be affected by a reduced oxygen supply. glasses to the floor. When trying to pass out.
+retrieve them he lost conscious- • Usually there is quickly a loss For healthy persons altitude exposure up to 15,000ft is
+usually not hazardous since cardiovascular and
+ness and slumped forward. The of critical judgment
+respiratorycompensatorymechanisms (faster breathing
+first officer attempted to help the • Most victims often experience a and increased pulse rate/blood circulation) act to
+captain but was unable to do this, mildly euphoric state maintain adequate oxygenation at the cellular level.
+so initiated a descent to 25,000ft. • Thinking is slowed, muscular
+The effects of reduced oxygen supply to the body
+A short time later the first officer coordination is impaired (hypoxia) vary between persons,depending on health,
+asked the senior flight attendant physical fitness,age,activity level and statistical scatter
+with the population.Pilots and flight attendants usually
+to assist the captain. To enter the The only effective means of
+require more oxygen during an emergency than healthy,
+flight deck the flight attendant had protection is the quick donning of
+seated passengers and might therefore suffer earlier
+to remove her oxygen mask con- oxygen masks as the first action - from hypoxia effects.
+nected to the fixed cabin oxygen before troubleshooting!
+21
+83TSAF
+GENERAL BLOOD CIRCULATION
+Hypoxia
+An invisible enemy
+Cabin depressurization effects
+on human physiology
+DEFINITIONS OF HYPOXIA When public air transportation first became
+commonly available, flights did not reach alti-
+Hypoxia is separated into four types: tudes that represented a significant risk of
+• Hypoxic hypoxiais a condition caused by reduced
+reduced oxygen supply - called hypoxia - to
+barometric pressure,affecting the body's ability to
+either passengers or crew. However, in the late transfer oxygen from the lungs to the
+bloodstream. 1940s and 1950s aircraft were developed that
+• Histotoxic hypoxiacan be induced by the allowed safe transport of the flying public at
+introduction of substances like alcohol or drugs altitudes around 40,000ft, which have remained
+into tissue,reducing its ability to accept oxygen
+relativelyconstant since then. from the bloodstream.
+• Hypaemic hypoxia(or anaemic hypoxia)is a result
+of the blood being unable to carryoxygen,e.g.
+caused by exposure to carbon monoxide.
+• Stagnant hypoxiaresults from the body's
+inability to carry oxygen to the brain,which can
+result from high gravity-forces causing blood to
+pool in the lower extremities of the body.
+Hartwig Asshauer
+Certification Manager
+Hydro-Mechanical & Air Systems
+Airbus Engineering
+20
+HYPOXIA - AN INVISIBLE ENEMY - CABIN DEPRESSURIZATION EFFECTS ON HUMAN PHYSIOLOGY
+Oxygen One means to increase oxygen par-
+tial pressure is to increase the oxy-
+partial pressure
+gen concentration in breathing air.
+At 40,000ft cabin altitude an oxy-
+The concentration of oxygen in the gen partial pressure of maximum
+atmosphere is constant at 20.95% 188mbar can be achieved by
+at altitudes up to 100,000ft, which breathing pure oxygen (100% oxy-
+means that according to Dalton's gen concentration without over-
+Law* the oxygen partial pressure pressure).
+at sea level is 212mbar (20.95% of
+1013mbar where 1013mbar is the Another additional means for
+standard atmospheric pressure at hypoxia protection is positive
+sea level). pressure breathing, which is usu-
+ally found in modern crew oxy-
+As altitude increases above sea gen masks and means the delivery
+level the partial pressure of the of pure oxygen under pressure
+component gases decreases consis- into the respiratory tract. For civil
+tent with the decrease in total applications positive pressure
+atmospheric pressure. For exam- breathing is able to increase addi-
+ple, the partial pressure of oxygen tionally the oxygen partial pres-
+at 40,000ft is reduced to 39mbar sure by around 20 to 30mbar
+only, which is far too inadequate to provided that the overpressure
+support human metabolism. condition is limited to some min-
+utes only. This means that at
+40,000ft it requires 100% oxygen
+concentration of the breathing gas
+combined with positive pressure
+breathing to achieve sea level
+equivalent conditions. Positive
+pressure breathing requires some
+training and is tiring and inconve-
+nient, which is the rationale for
+having so far provided this pro-
+tection feature to flight crew only
+(for short time use only).
+83TSAF
+0
+0
+100
+65
+39
+*Dalton’s Law Time of Useful Time of Safe
+49(1 766 -1844)
+0In1801,the English astronomer Consciousness Unconsciousness
+10a0n d chemist,John Dalton,
+39d iscovered the pressure
+relationship among gases in a In the 'World of Hypoxia' the Time Some experts believe that for pas-
+mixture.Dalton's Law states that of Useful Consciousness (TUC) is sengers - in contradiction to the
+82 the pressure exerted by a mixture a very important parameter. For flight crew - a short period of
+of gases is equal to the sum of
+0 low ambient pressure conditions it unconsciousness during cabin
+the pressures that each would
+28 exert if it alone occupied the indicates the time available to per- depressurization can be tolerated 52
+space filled by the mixture. form purposeful activities, such as since they are not performing an
+oxygen mask donning or aircraft operational task. Unconsciousness
+control. Beyond this time frame is a clear sign of insufficient oxy-
+mental and physical capabilities gen supply to the brain and it is
+are dangerously impaired and obvious that this time can only be
+finally result in unconsciousness very short before permanent brain
+and potentially death. damage occurs. So far, it has not
+been possible to associate a specif-
+As shown in the table on the right, ic time frame for the safe time of
+TUC is negatively correlated with unconsciousness.
+altitude.It is important to note that
+even if activities are performed The uncertainties in extrapolation
+within the TUC time frame there is of animal data and the wide vari-
+a significant deterioration of work ability in individual tolerances
+rate and mental capability,which is have so far prevented determina-
+correlated with the time spent at low tion of a commonly agreed value
+Á Early type of shaped pressure conditions (at the end of for Time of Safe Unconsciousness
+oxygen mask for passengers the TUC time frame, performance is (TSU) among human physiology
+much lower than at the beginning). experts. It is believed that a safe
+time of unconsciousness is some-
+The TUC is the 'Window of where between 90 seconds and
+Opportunity' for donning an oxy- 4minutes.
+gen mask and can be very limited
+so must take overriding precedence
+over any other activities.
+Á Current oxygen mask for passengers
+Í
+22 23
+83TSAF
+HYPOXIA - AN INVISIBLE ENEMY - CABIN DEPRESSURIZATION EFFECTS ON HUMAN PHYSIOLOGY
+Time of Useful Consciousness
+20,000ft All unacclimatized persons
+lose useful consciousness
+within 10 minutes
+25,000ft Useful consciousness is lost
+after 2.5minutes or less
+30,000ft TUC:approx.30 seconds
+37,000ft TUC:approx.18 seconds
+45,000ft TUC:approx.15 seconds
+These data on TUC are averaged
+values based on tests with healthy
+individuals when breathing ambient air
+(no supplemental oxygen provided).
+Alarge individual variation in the effects of
+hypoxia has been found.There is evidence
+that TUC is shorter for people exposed to
+stress conditions.
+Mask straps inflated Mask in place
+Í Í
+23
+Ë Flight crew oxygen mask *
+* Manufacturer EROS
+HYPOXIA - AN INVISIBLE ENEMY - CABIN DEPRESSURIZATION EFFECTS ON HUMAN PHYSIOLOGY
+25
+83TSAF
+HYPOXIA - AN INVISIBLE ENEMY - CABIN DEPRESSURIZATION EFFECTS ON HUMAN PHYSIOLOGY
+Airworthiness
+requirements
+The Airworthiness authorities have
+identified the risk of hypoxia and
+have created requirements (see
+table on the left).
+Also, after an accident in the USA
+the FAA initiated a Special
+Certification Review (SCR) on
+pressurization systems. The SCR
+recommends that the aircraft flight
+manual (for aircraft certified for
+flights above 25,000ft) require in
+the emergency procedures the
+donning of oxygen masks as the
+first crew action after a cabin
+altitude warning.
+This highlights again the impor-
+tance of immediate donning of
+oxygen masks when cabin depres-
+surization occurs.
+CONTACT DETAILS
+Hartwig Asshauer
+Certification Manager
+Hydro-Mechanical
+&Air Systems
+Airbus Engineering
+Tel:+33 (0)5 62 11 04 98
+Conclusion Fax:+33 (0)5 61 93 31 55
+hartwig.asshauer@airbus.com
+The first step for any flight crew member passengers that wereunable to protect
+faced with cabin depressurization should themselves against hypoxia by using the
+be the immediate donning of an oxygen passenger oxygen masks provided.
+mask. Any delay in donning a mask will Severehypoxia is very dangerous for
+significantly increase the risk of losing unprotected passengers and requires a
+consciousness before cabin pressure is quick return to an adequate cabin
+regained. Severe hypoxia leads usually to pressure or where not possible (above
+the loss of critical judgement combined high terrain), it requires a check by the
+with a mildly euphoric state, which makes flight attendants that the passenger
+hypoxia very dangerous for flight crew. oxygen masks arecorrectly used.
+This is highlighted also in the FAA Special
+Certification Review that was issued some For a long time transport aircraft have
+years ago on the effects of cabin been equipped with oxygen systems for
+depressurization. flight crew and passengers that provide an
+adequate protection against hypoxia. As
+Moreover, in case of rapid cabin long as these oxygen systems are used
+depressurization a quickly accomplished according to their simple procedures the
+emergency descent is often the only invisible enemy hypoxia poses little
+means of fast re-oxygenation of danger to flight crews and passengers.
+25
+83TSAF
+0
+0
+100
+65
+39
+Effect on human physiology of moderate cabin altitude
+49
+0
+100 Very large numbers of aircrew and passengers have been exposed to breathing air at cabin altitudes up
+39 to 8,000ft over the last 60 years without significant deleterious effects.Although exposure to this altitude
+reduces the oxygen partial pressure in the pulmonary tract the tissues of the body are maintained well
+above the required level.
+82
+Some airlines still allow smoking in the aircraft cabin,which results in carbon monoxide inhalation with
+0
+the smoke.Carbon monoxide has a 240-times greater tendency than oxygen to attach to red blood
+28 haemoglobin,thus inactivating a large amount of haemoglobin as an oxygen carrier.It has been found that
+52
+the hypoxia effects from carbon monoxide and altitude are additive; hence chronic smokers are at a
+higher equivalent altitude than non-smokers in terms of blood oxygen supply.
+Also,alcohol poisons body tissues in such a manner that they cannot use oxygen properly.Usually,it is
+noticed by passengers that the physiological effect of alcohol consumed during flight is more intense than
+atsea level,which is due to the additive hypoxia effects of alcohol and altitude.
+Oxygen equipment For flight crew there are usually
+quick donning oxygen masks
+on civil aircraft
+installed, which can be donned
+with one hand in less than 5 sec-
+On modern aircraft oxygen equip- onds. The mask straps are com-
+ment is installed to provide ade- bined with elastic tubes that
+quate protection against the dam- inflate and stiffen when the mask
+aging effects of hypoxia in case of is taken from its stowage, allow-
+cabin depressurization: ing the mask to be easily put over
+the head with one hand. Once the
+grip on the mask is released, the
+Extract of the prime requirements tubes deflate and their elastic
+characteristics ensure a perfect fit.
+GENERAL The required oxygen concentra-
+•CS/FAR 25.841 (a):Maximum cabin pressure altitude under normal operation:8,000ft tion of the breathing air is auto-
+•CS/FAR 25.841 (a): Maximum cabin pressure altitude after any probable failure condition in the
+matically adapted to the cabin
+pressurization system:15,000ft
+pressure. •FAR 25.841 (a) (2) (i):Maximum exposure time to cabin pressure altitude exceeding
+25,000ft:2minutes
+For the passenger oxygen supply
+•FAR 25.841 (a) (2) (ii):Exposure to cabin pressure altitude that exceeds 40,000ft:Not allowed
+the continuous flow concept is
+CABIN OCCUPANTS used on all Airbus aircraft.
+•CS/FAR 25.1443 (c):Provides oxygen system performance data on oxygen flowand Oxygen is delivered continuously
+required partial pressure of oxygen to an expandable oxygen bag
+•CS/FAR 25.1447 (c) (1):The total number of masks in the cabin must exceed the number where it is conserved during exha-
+of seats by at least 10% lation, so it is available during the
+•CS/FAR 25.1443 (d):Defines oxygen flow for first-aid oxygen equipment (for cabin next inhalation to supplement the
+depressurization treatment)
+steady oxygen flow.
+•JAR OPS 1.760/FAR 121.333 (e) (3):Requires first-aid oxygen for at least 2% of
+passengers
+It was decided at an early stage in
+•JAR OPS 1.770 (b) (2) (i)/FAR 121.329 (c):Defines the percentage of passengers that need
+passenger oxygen mask develop-
+to be provided with supplemental oxygen (cabin pressure altitude dependent)
+ment that the untrained civilian
+FLIGHT CREW population should not be expected
+•CS/FAR 25.1443 (a) & (b):Provides oxygen system performance data on oxygen flow and to recognize the correct orienta-
+required partial pressure of oxygen tion for a shaped mask, and it was
+•CS/FAR 25.1447 (c) (2) (i):For aircraft operating above 25,000ft quick donning oxygen required that a mask should be
+masks are required for the flight crew which can be donned with one hand within 5 operable in any position in which
+seconds it might be donned by the user.
+•FAR 121.333 (c) (2) (i) (A):One flight crew member needs to wear permanently his oxygen
+A second basic requirement was
+mask when the aircraft is operated above FL410
+a universal size, which finally
+•FAR 121.333 (c) (3):In case one flight crew member leaves the controls the remaining pilot
+defined the well-known cylindri-
+needs to use his oxygen mask when the aircraft is operated above 25,000ft
+cal mask body.
+24
+Fuel Quantity level. In some cases the probe will
+over-read or 'disagree' with a
+Indication System
+neighbouring reading.
+The Fuel Quantity Indication At aircraft level on the flight deck
+System (FQIS) measures the quan- a key symptom of severe fuel
+tity of fuel in each of the aircraft contamination is FQI fluctuation
+fuel tanks. The FQIS provides this during flight, or degraded FQI
+information to the flight deck pro- indication.
+viding a display of the Fuel on
+Board (FOB) and, via the ECAM
+(Electronic Centralized Aircraft
+Monitor) systems page, the indi-
+vidual tank quantities. On the
+A300/A310 and A330/A340 fleets
+the data is used in the auto-transfer
+functions e.g. CG (Centre of
+Gravity) control.
+Airbus aircraft utilize capacitance
+to measure the level (volume) of
+fuel within the aircraft fuel tanks.
+Vertical probes located through-
+out the tanks measure the fuel
+level in the tanks. Each probe has
+two concentric aluminium tubes.
+The open ends of the tubes allow
+the fuel to move freely up and
+between the tubes. The capaci-
+tance value of the probe changes
+in proportion to the depth of fuel
+within the tank. When the probe is
+dry the capacitance value is low,
+but as fuel moves up the probe the
+capacitance value increases. Fuel
+density is measured for example
+using the fuel dielectric value or In some cases aircraft dispatch
+variations with the speed of may be limited by the status of the
+sound. The FQIS uses the volume FQI display (please refer to the
+and density values to calculate the MMEL).
+mass (kg or lb).
+Symptoms and
+The effect of
+prevention
+microbiological
+contamination on Operators are encouraged to focus
+on prevention of microbiological
+an aircraft FQIS
+fuel contamination to avoid
+the penalties associated with
+The probes and downstream calcu- occurrences. The bacteria causing
+lations are calibrated for use in jet such contamination live within the
+fuel. The probes measure from water/fuel interface and these liv-
+'unusable' to full tank capacity. ing organisms enter either via the
+However, when the fuel is contam- fuel supply or are airborne.
+inated the fuel characteristics However, to live and develop with-
+change. The probes may also in the tank the bacteria require
+become contaminated. Typically, water (for oxygen). Therefore, the
+the probes will now read a higher first consideration in prevention is
+capacitance level than the real fuel minimizing water content in the
+27
+83TSAF
+FUEL CONTAMINATION - PREVENTION AND MAINTENANCE ACTIONS FUEL CONTAMINATION - PREVENTION AND MAINTENANCE ACTIONS
+Degraded indication on the
+ECAM
+27
+83TSAF
+Fuel
+contamination
+Prevention and
+maintenance actions
+Airbus continues to focus on optimizing aircraft Airbus has for many years worked with our part-
+availability and a key issue is the availability of ners in IATA (International Air Transport
+the Aircraft Fuel Quantity Indication System Association) on this issue. This work culminated
+(FQIS). Within the industry the major threat to the in publication of the IATA Guidance Material on
+FQIS availability is microbiological contamina- Fuel Contamination, which summarized the sci-
+tion of the fuel. Such contamination will impact ence behind contamination and collated the best
+the FQIS readings, typically driving the FQIS recommendations from the OEMs (Original
+probe readings out of limit. If left untreated, con- Equipment Manufacturers), operators and
+tamination can also generate acids in the fuel microbiologists.
+tanks, which may attack the wing tank structure.
+Airbus continues to develop recommendations
+based on operator feedback and this article sum-
+marizes current knowledge on prevention and
+maintenance actions.
+Christopher McGregor
+Group Manager Fuel Systems
+Airbus Customer Services
+26
+fuel tank system. All modern civil evident to the naked eye. Any
+aircraft incorporate water drainage 'cloudiness' in either fluid indicates
+and/or scavenge systems to help possible contamination and action
+achieve this. The Airbus wing is required.
+design ensures water is maintained
+in suspension and fed to the Currently, Airbus recommends an
+engines; any remaining water is annual analysis of fuel from each
+then drained at regular intervals aircraft to test for fuel/water cont-
+via the water drain valves. The amination, which should be con-
+water drainage interval for each sidered a minimum for all opera-
+Airbus aircraft programme is tors. However, each individual
+detailed in its Maintenance operator needs to assess their risk
+Planning Document (MPD). levels, especially their experience
+at aircraft and fuel supply level
+A second key element of preven- and define their testing require-
+tion is monitoring. Often over- ments accordingly as an annual
+looked is the need to visually test may not be sufficient in some
+inspect any water resulting from circumstances.
+the MPD water drain task. Drained
+water and fuel will separate within There are a number of fuel contam-
+the container with the water ination test kits available in the
+settling to the bottom. Both should market place, each with advantages
+be clear with no particulates and disadvantages. The main issue
+with all test kits is that they cannot
+be used as a single snapshot to pro-
+vide a detailed analysis of tank con-
+ditions. However, they can be used
+effectively to create a baseline for
+operation from which an increase
+in contamination can be observed
+and the appropriate action taken.
+In summary, the key indicators of
+fuel contamination are particulates
+observed in drained water, results
+from the fuel analysis or FQI fluc-
+tuations, or degradation observed
+on the flight deck. If no action is
+taken and these symptoms are
+ignored engine main filter clog
+events can be anticipated.
+Maintenance
+actions
+In all cases operators are recom-
+mended to include contamination
+prevention in their maintenance
+programme. Based on the previous
+explanation the most important
+tasks are water drainage and fuel
+monitoring.
+Another possibility is sharing
+the common objectiveof prevention
+with an operators fuel supply
+company. Currently there are no
+requirements for fuel supply com-
+29
+83TSAF
+0
+FUEL CONTAMINATION - PREVENTION AND MAINTENANCE ACTIONS FFUUEELL CCOONNTTAAMMIINNAATTIIOONN -- PPRREEVVEENNTTIIOONN AANNDD MMAAIINNTTEENNAANNCCEE AACCTTIIOONNSS
+23
+18
+38
+0
+0 1) Get a fuel sample Microbial growth
+100 2) Use a biological test kit inspection and maintenance
+actions
+65
+39
+•Low level of bio contamination Low
+requires regularmonitoring Level of contamination?
+49
+(within 1 to 12 months)
+0
+100 High or moderate
+39
+•Do the microbiological detection test
+•Repeat the bio contamination test again in 10 days, but after at least 5flights.
+within 10 days Take corrective action if necessary
+82
+0
+28
+52
+Low
+Level of contamination? •Within 10 days apply biocide to all fuel tanks
+as per AMM 28-11-00 Page Block 301
+In-tank observation of
+High
+microbiological fuel
+contamination:
+fuel contamination attached to
+•Within 10 days en,ter the fuel tank for inspection
+the tank structure
+••PPhhyyssiiccaallllyy rreemmoovvee mmiiccrroobbiioollooggiiccaall ddeeppoossiittss
+aass ppeerr AAMMMM 2288--1111--0000 PPaaggee BBlloocckk 330011
+panies or distributors to test for to be burnt by the engines and
+microbiological fuel contamination. avoid operators disposing of the
+treated fuel.
+In these discussions we refer oper-
+ators to the JIG (Joint Inspection Airbus recommends metered injec-
+Group). Under the IATA umbrella tion of the biocides to ensure ade-
+airport facilities are audited and quate mixing within the fuel. The
+actions taken to maintain the qual- biocides are not effective at low
+ity of the fuel supply. temperatures hence the soak time
+defined in the AMM cannot
+If fuel contamination is detected, the include flight time.
+industry has developed the follow-
+ing guidance and recommendations. If tank contamination is severe the
+This flow-chart will be integrated biocides will only kill the outer
+into all Airbus aircraft AMMs layer of bacteria attached to the tank
+(Aircraft Maintenance Manuals). It and probe surfaces. Therefore, as
+is difficult to provide a single rec- per the flowchart, tank entry and
+ommendation to cover all scenarios cleaning is recommended to remove
+but the flow-chart does summarize all visible traces of contamination.
+very well the thought process and The time, schedule disruption and
+objective of avoiding fuel tank entry cost of tank entryis well understood
+if at all possible. and appreciated by Airbus. Hence,
+the need to focus on prevention to
+Currently within the industry two avoid this financial impact is cru-
+biocides are approved for aviation cial. If a decision is taken to enter a
+use. The maximum concentrations tank, Airbus recommends a thor-
+are defined in the Airbus AMMs ough cleaning of it. The pressure to
+and are a compromise between the return an aircraft to service is well
+effectiveness of the biocide and the understood,but if a tank is not thor-
+maximum concentration allowed oughly cleaned there is a significant
+by the engine and APU (Auxiliary risk of contamination developing
+Power Unit) manufacturers. These again requiring additional future
+concentrations allow treated fuel maintenance action.
+29
+83TSAF
+28
+FUEL CONTAMINATION - PREVENTION AND MAINTENANCE ACTIONS FUEL CONTAMINATION - PART II
+83TSAF
+0
+23
+18
+38
+0
+Developments Report) entry and hence changes
+0 require airworthiness authority
+100 The current recommendations on input and approval.
+65
+prevention and maintenance tasks
+39
+have taken many years to develop For the A330/A340 Family an
+and Airbus recognizes the efforts activity is launched to study reduc-
+and expertise of our partners in ing the impact of contamination on
+49
+IATA. As a result, today there is the FQI.
+0
+100 much more advice and guidance
+39 available at aircraft and fuel supply Airbus also intends to study new
+level than ever before. and more effective biocides, which
+are available in the market place,
+82 For the future Airbus will continue but not currently approved within
+0
+to look at ways of reducing the the aviation industry. Biocide
+28
+associated maintenance burden. approval however is a long lead-
+52
+time item requiring primarily
+For the A320 and A330/A340 engine manufacturer approval.
+families of aircraft engineering There are also significant health and
+action has been launched to further safety issues to consider. Further
+develop the water management information on this initiative will be
+systems within the aircraft. announced when available.
+The objective is to enhance the
+water scavenge efficiency and at a
+later date extend the water drainage
+interval; this is a MRBR
+(Maintenance Review Board
+FURTHER READING
+Airbus Documentation CONTACT DETAILS
+SIL 28-079 • AMM 12-32-28 • AMM 28-11-00 • MPD 28-11-00
+Key partners Christopher McGregor
+ECHA MICROBIOLOGY www.echamicrobiology.co.uk Group Manager
+CONIDIABIOSCIENCE www.conidia.com Fuel Systems
+MERCK www.microbiology.merck.de Airbus Customer Services
+TANK TIGERS www.aoginc.com Tel:+33 (0)5 62 11 76 02
+TANK DEVILS www.tankdevils.com Fax:+33 (0)5 61 93 44 25
+christopher.mcgregor@airbus.com
+Conclusion
+Prevention is the key to avoiding analysis or FQI fluctuations or degradation
+microbiological fuel contamination. observed on the flight deck.
+Water drainage and fuel sample analysis
+arethe critical tasks at aircraft level. Operators arerecommended to consult the
+All fuel contains a background level of IATA Guidance Material on Microbiological
+bacteria, so minimizing water content Contamination in Aircraft Fuel Tanks for
+within the aircraft fuel tanks will significantly assistance in planning contamination
+reduce the risk of contamination prevention tasks. In addition please consult
+developing within the tanks. In the long Airbus Service Information Letter 28-079.
+term, preventing contamination will reduce Success against contamination requires
+the future potential for structural corrosion long-term industrial co-operation. Within
+and damage to in-tank components. the IATA framework Airbus will continue to
+Again, the key indicators of fuel work with industry partners to combat fuel
+contamination are particulates observed contamination and optimize prevention and
+in drained water, results from the fuel maintenance practices.
+30
+83TSAF
+31
+CUSTOMER SUPPORT AROUND THE CLOCK... AROUND THE WORLD
+WORLDWIDE
+Jean-Daniel Leroy
+VPCustomer Support
+Tel: +33 (0)5 61 93 35 04
+Fax: +33 (0)5 61 93 41 01
+USA/CANADA
+Thorsten Eckhoff
+Senior Director Customer Support
+Tel: +1 (703) 834 3506
+Fax: +1 (703) 834 3463 Customer Support Centres
+Training centres
+CHINA Spares centres / Regional warehouses
+Peter Tiarks Resident Customer Support Managers (RCSM)
+General Manager Customer Support RCSM location Country RCSM location Country
+Tel: +86 10 804 86161 Ext. 5040
+Fax: +86 10 804 86162 / 63 Abu Dhabi United Arab Emirates London United Kingdom
+Ajaccio France Louisville United States of America
+Algiers Algeria Luton United Kingdom
+RESIDENT CUSTOMER SUPPORT Al-Manamah Bahrain Macau S.A.R. China
+ADMINISTRATION Alma-Ata Kazakhstan Madrid Spain
+Jean-Philippe Guillon Amman Jordan Manchester United Kingdom
+Amsterdam Netherlands Manila Philippines
+Director Athens Greece Mauritius Mauritius
+Resident Customer SupportAdministration Auckland New Zealand Memphis United States of America
+Tel: +33 (0)5 61 93 31 02 Baku Azerbaijan Mexico City Mexico
+Fax: +33 (0)5 61 93 49 64 Bandar Seri BegawanBrunei Miami United States of America
+Bangalore India Milan Italy
+Bangkok Thailand Minneapolis United States of America
+TECHNICAL,SPARES,TRAINING Barcelona Spain Montreal Canada
+Airbus has its main spares centre in Hamburg, Beirut Lebanon Moscow Russia
+and regional warehouses in Frankfurt, B B e ru rl s in sels G Be e l r g m iu a m ny M Na u n m c b h a a i ng I C n h d i i n a a
+Washington D.C., Beijing and Singapore. Buenos Aires Argentina Nanjing China
+Cairo Egypt New York United States of America
+Airbus operates 24 hours a dayevery day. Casablanca Morocco Newcastle Australia
+AOG Technical and Spares calls. C C h h a e r n lo g t d t u e U C n h i i t n e a d States of America N Pa o l u m m a e d a e Mallorca N Sp e a w in Caledonia
+Cologne Germany Paris France
+Airbus Technical AOG Centre (AIRTAC) Colombo Sri Lanka Paro Bhutan
+Tel: +33 (0)5 61 93 34 00 Copenhagen Denmark Phoenix United States of America
+Dalian China Pittsburgh United States of America
+Fax:+33 (0)5 61 93 35 00 Damascus Syria Prague Czech Republic
+support.airtac@airbus.com Delhi India Qingdao China
+Denver United States of America Quito Ecuador
+Spares AOGs in North America should be Detroit United States of America Rome Italy
+Dhaka Bangladesh San’a Yemen
+addressed to: Doha Qatar San Francisco United States of America
+Tel: +1 (703) 729 9000 Donetsk Ukraine San Salvador El Salvador
+Fax:+1 (703) 729 4373 Dubai United Arab Emirates Santiago Chile
+Dublin Ireland Sao Paulo Brazil
+Dusseldorf Germany Seoul South Korea
+Spares AOGs outside North America Fort Lauderdale United States of America Shanghai China
+should be addressed to: Frankfurt Germany Sharjah United Arab Emirates
+Tel: +49 (40) 50 76 3001/3002/3003 Guangzhou China Shenyang China
+Fax:+49 (40) 50 76 3011/3012/3013 H H a a i m ko b u urg G Ch e i r n m a any S S h in e g n a z p h o e r n e C Si h n i g n a a pore
+Hangzhou China Sydney Australia
+Airbus Training Centre Toulouse, France Hanoi Vietnam Taipei Taiwan
+Tel: +33 (0)5 61 93 33 33 Helsinki Finland Tashkent Uzbekistan
+Hong Kong S.A.R. China Tehran Iran
+Fax:+33 (0)5 61 93 20 94 Indianapolis United States of America Tokyo Japan
+Istanbul Turkey Toulouse France
+Airbus Training subsidiaries Izmir Turkey Tulsa United States of America
+Miami, USA - Florida Jakarta Indonesia Tunis Tunisia
+Johannesburg South Africa Varna Bulgaria
+Tel: +1 (305) 871 36 55 Karachi Pakistan Vienna Austria
+Fax:+1 (305) 871 46 49 Kita-Kyushu Japan Washington United States of America
+Beijing, China Kuala Lumpur Malaysia Wuhan China
+Tel: +86 10 80 48 63 40 K La u r w na a c it a city C Ku yp w r a u i s t X Z i u 'a ri n ch S C w hi i n tz a erland
+Fax:+86 10 80 48 65 76 Lisbon Portugal
+83TSAF
+32
+www.airbus.com
+The Airbus A380 is leaps ahead. Surpassing current levels of efficiency and
+with state-of-the-art cabin design, it embodies 30 years of non-stop innovation.
+Airbus, setting the standards.
+.skramedartderetsigererasemantcudorpdnaogolsti,subriA
+One giant leap.
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+8
+3
+T
+S
+A
+F
+38
+J U L Y 2 0 0 6
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y

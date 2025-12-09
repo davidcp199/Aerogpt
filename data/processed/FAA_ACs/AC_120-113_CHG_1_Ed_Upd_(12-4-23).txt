@@ -1,0 +1,359 @@
+Advisory
+U.S. Department
+of Transportation
+Circular
+Federal Aviation
+Administration
+Subject: Best Practices for Engine Date: 1/9/18 AC No: 120-113
+Time-In-Service Interval Extensions
+Initiated by: AFS-300 Change: 1
+1. PURPOSE. This advisory circular (AC) provides information on engine time-in-service
+interval extensions. The AC explains the background of engine time-in-service intervals as well
+as the Federal Aviation Administration’s (FAA) regulatory requirements for time limitations and
+time-in-service intervals for engine overhauls. The AC also provides aircraft operators with
+information on the best practices for an engine time-in-service interval extension program and
+how to obtain an engine time-in-service interval extension. The contents of this document do not
+have the force and effect of law and are not meant to bind the public in any way, and the
+document is intended only to provide information to the public regarding existing requirements
+under the law or agency policies.
+2. PRINCIPAL CHANGES. This change to the AC removes content referring to
+airframe/engine utilization reports, as these reports are no longer required. This change also
+clarifies maintenance program instructions and requirements.
+PAGE CONTROL CHART
+Remove Pages Dated Insert Pages Dated
+Page 1 1/6/16 Page 1 1/9/18
+Pages 3 and 4 1/6/16 Pages 3 and 4 1/9/18
+Page 6 1/6/16 Page 6 1/9/18
+Page 8 1/6/16 Page 8 1/9/18
+John S. Duncan
+Executive Director, Flight Standards Service
+1/9/18 AC 120-113 CHG 1
+Advisory
+U.S. Department
+of Transportation
+Circular
+Federal Aviation
+Administration
+Subject: Best Practices for Engine Date: 1/6/16 AC No: 120-113
+Time-In-Service Interval Extensions
+Initiated by: AFS-300 Change:
+1 PURPOSE OF THIS ADVISORY CIRCULAR (AC). This AC provides information
+on engine time-in-service interval extensions. The AC explains the background of engine
+time-in-service intervals as well as the Federal Aviation Administration’s (FAA)
+regulatory requirements for time limitations and time-in-service intervals for engine
+overhauls. The AC also provides aircraft operators with information on the best practices
+for an engine time-in-service interval extension program and how to obtain an engine
+time-in-service interval extension. The contents of this document do not have the force
+and effect of law and are not meant to bind the public in any way, and the document is
+intended only to provide information to the public regarding existing requirements under
+the law or agency policies.
+2 AUDIENCE. This AC applies to aircraft operators who want to learn about the best
+practices for a time-in-service interval extension program. The AC is also for operators
+who wish to propose an engine time-in-service interval extension for FAA approval.
+3 WHERE YOU CAN FIND THIS AC. You can find this AC on the FAA’s website at
+https://www.faa.gov/regulations_policies/advisory_circulars and the Dynamic Regulatory
+System (DRS) at https://drs.faa.gov.
+4 DEFINITIONS.
+1. Responsible Flight Standards Office. The FAA office with oversight responsibility
+for operators submitting proposed time-in-service interval extensions. For purposes of
+this AC, this includes the FAA’s International Field Offices (IFO) with oversight
+responsibility for maintenance programs for foreign operators of U.S.-registered
+aircraft within and outside the United States in common carriage.
+2. Time-In-Service Interval. The established operating time between engine overhauls.
+3. Time-In-Service Interval Extension Program. For purposes of this AC, an engine
+time-in-service interval extension program means your documented policies and
+procedures to maintain your engines in an airworthy condition so you can extend the
+useful life of those engines.
+1/6/16 AC 120-113
+5 RELATED TITLE 14 OF THE CODE OF FEDERAL REGULATIONS (14 CFR)
+PARTS.
+• Part 91,
+• Part 119,
+• Part 121,
+• Part 125,
+• Part 129, and
+• Part 135.
+6 BACKGROUND.
+6.1 Extending the Useful Life of Engines. The engine manufacturer establishes the
+recommended time-in-service interval, which is an estimated number of hours, cycles, or
+events that an engine can safely and reliably operate without exceeding the overhaul
+service wear limits. Some engine manufacturers refer to the recommended
+time-in-service intervals as time between overhaul (TBO) intervals.
+6.2 Guidance From Engine Manufacturers. Engine manufacturers usually list
+time-in-service intervals in their Service Bulletins (SB), Service Instructions (SI), or
+Service Information Letters (SIL). Some engine manufacturers allow for time-in-service
+interval extensions based on how an operator operates and maintains its engines, while
+other engine manufacturers do not.
+6.3 FAA Approval for Time-In-Service Interval Extensions. We may allow a
+time-in-service interval extension if you can extend the useful life of an engine without
+compromising safety. Time-in-service interval extensions should be based on:
+• Demonstrated in-service reliability,
+• Proper justification, and
+• Risk analysis.
+6.4 Unauthorized Extensions. You must be aware that time-in-service interval extensions
+do not authorize time extensions for life-limited parts or for items specified in an
+FAA-approved Airworthiness Limitation Section (ALS), or in an Airworthiness Directive
+(AD).
+7 REGULATORY REQUIREMENTS FOR TIME LIMITATIONS AND/OR
+TIME-IN-SERVICE INTERVALS FOR ENGINE OVERHAULS.
+7.1 Part 119. Section 119.49(a)(8) requires certificate holders (CH) conducting domestic,
+flag, or commuter operations to obtain operations specifications (OpSpecs) containing:
+“Time limitations, or standards for determining time limitations, for overhauling,
+2
+1/9/18 AC 120-113 CHG 1
+inspecting, and checking airframes, engines, propellers, rotors, appliances, and
+emergency equipment.”
+7.2 Part 121. Section 121.135(b)(18) requires that a CH’s manual must contain: “Time
+limitations, or standards for determining time limitations, for overhauls, inspections, and
+checks of airframes, engines, propellers, appliances, and emergency equipment.”
+7.3 Part 125. Section 125.247(d) states, “No person may operate an airplane subject to this
+part unless—(1) The installed engines have been maintained in accordance with the
+overhaul periods recommended by the manufacturer or a program approved by the
+Administrator; and (2) The engine overhaul periods are specified in the inspection
+programs required by § 125.247(a)(3).”
+7.4 Part 129. Section 129.14(a) states, “Each foreign air carrier and each foreign person
+operating a U.S.-registered aircraft within or outside the United States in common
+carriage must ensure that each aircraft is maintained in accordance with a program
+approved by the Administrator in the operations specifications.” OpSpec D085 states:
+“The maintenance program must be sufficiently comprehensive in scope and detail to
+fulfill the foreign air carrier’s responsibility to maintain the aircraft in an airworthy
+condition in accordance with applicable Federal aviation regulations and standards
+prescribed and approved by the Administrator. The program shall be included in the
+foreign air carrier’s manual. Each aircraft and its component parts, accessories, and
+appliances must be maintained in an airworthy condition in accordance with the time
+limits for the accomplishment of the overhaul, replacement, periodic inspection, and
+routine checks of the aircraft and its component parts, accessories, and appliances. Time
+limits or standards for determining time limits shall be contained in a document approved
+by the Administrator and referenced in these operations specifications.”
+7.5 Part 135. Paragraphs (a) and (b) of § 135.421 state, “(a) Each certificate holder who
+operates an aircraft type certificated for a passenger seating configuration, excluding any
+pilot seat, of nine seats or less, must comply with the manufacturer’s recommended
+maintenance programs, or a program approved by the Administrator, for each aircraft
+engine, propeller, rotor, and each item of emergency equipment required by this chapter.
+(b) For the purpose of this section, a manufacturer’s maintenance program is one which is
+contained in the maintenance manual or maintenance instructions set forth by the
+manufacturer as required by this chapter for the aircraft, aircraft engine, propeller, rotor
+or item of emergency equipment.” For further information on what constitutes the
+manufacturer’s “maintenance instructions,” refer to the requirements for the instructions
+for continued airworthiness (ICA) in the applicable certification rule (e.g., 14 CFR
+part 23 appendix A, § A23.3(b)).
+7.6 Part 91.
+7.6.1 Fractional Ownership (part 91 subpart K (part 91K)). For fractional ownership operations
+conducted under part 91K, paragraph (a)(5) of § 91.1015 states, “(a) Each person
+conducting operations under this subpart or furnishing fractional ownership program
+management services to fractional owners must do so in accordance with management
+3
+1/9/18 AC 120-113 CHG 1
+specifications issued by the Administrator to the fractional ownership program manager
+under this subpart. Management specifications must include: (5) Time limitations, or
+standards for determining time limitations, for overhauls, inspections, and checks for
+airframes, engines, propellers, rotors, appliances, and emergency equipment of aircraft.”
+Note, however, there is no specific regulation in part 91K that requires compliance with
+the manufacturer’s overhaul limits. Therefore overhauls would only be required under
+part 91K if included as part of a Continuous Airworthiness Maintenance Program
+(CAMP) submitted by the program manager and approved under § 91.1411.
+7.6.2 Part 91 (excluding part 91K). Owners/operators of aircraft that are being operated strictly
+under part 91 do not have to follow the manufacturer’s recommended time-in-service
+overhaul intervals. This is because by definition overhauls are a form of maintenance, not
+inspection (refer to 14 CFR part 1, § 1.1), and are not included in the inspection program
+requirements under § 91.409. Overhauls are part of the maintenance program; as such,
+overhauls are not mandatory for part 91 operators. Therefore, part 91 operators are not
+required to request time-in-service interval extensions.
+8 OPSPECS/MANAGEMENT SPECIFICATIONS (MSPECS) CONTAINING TIME
+LIMITATIONS AND/OR TIME-IN-SERVICE INTERVALS FOR ENGINE
+OVERHAULS. The appropriate paragraph in Part D of an operator’s OpSpecs/MSpecs
+contains or references the time limitations, or standards for determining time limitations,
+for overhauling, inspecting, and checking airframes, engines, propellers, rotors,
+appliances, and emergency equipment.
+9 APPROVED MAINTENANCE RELIABILITY PROGRAM. An approved
+maintenance reliability program allows an operator subject to a CAMP under part 121
+or 135 to establish the time limitations or standards for determining intervals between
+overhauls, inspections, and checks without prior FAA review. If an operator has an
+approved maintenance reliability program, the operator should follow that program’s
+procedures when adjusting engine time-in-service intervals.
+10 ENGINE TIME-IN-SERVICE INTERVAL EXTENSION PROGRAM.
+10.1 Policy and Procedures to Extend the Useful Life of an Engine. An engine
+time-in-service interval extension program describes an operator’s documented policies
+and procedures to maintain its engines in an airworthy condition so the operator can
+extend the useful life of those engines. An operator may include a time-in-service interval
+extension program as part of its aircraft inspection or maintenance program.
+10.2 Instructions From Engine Manufacturers. Operators should follow any specific
+instructions available from the engine manufacturer in order to operate and maintain
+engines in a manner that warrants a time-in-service interval extension.
+10.3 Monitor and Determine Engine Condition. An operator’s time-in-service interval
+extension program should monitor the health of an engine from the last overhaul through
+the time-in-service interval extension. The time-in-service interval extension program
+4
+1/6/16 AC 120-113
+should be able to determine an engine’s condition so that the operator can remove the
+engine from service prior to failure.
+11 BEST PRACTICES FOR A TIME-IN-SERVICE INTERVAL EXTENSION
+PROGRAM. An operator’s time-in-service interval extension program can include
+policies and procedures for performing and documenting the following best practices.
+Operators may include the following items in the program at their discretion unless
+required by the engine type certificate (TC) and/or the operator’s responsible Flight
+Standards office.
+1. Engine trend monitoring.
+2. Engine oil analysis.
+3. Maintaining a history of the oil consumption for each engine.
+4. Accomplishing oil changes at frequent intervals (reciprocating engines).
+5. Inspecting oil filter elements/oil filter debris analysis (reciprocating and turbine
+engines).
+6. Documenting cylinder compression checks at scheduled intervals (reciprocating
+engines).
+7. Inspecting baffle conditions to ensure proper engine cooling (reciprocating engines).
+8. Inspecting the condition of the engine case.
+9. Documenting borescope inspections and any findings.
+10. Documenting propeller balancing.
+11. Documenting engine instrumentation calibrations/checks.
+12. Adopting engine manufacturer or operator’s engine vibration analysis/monitoring
+program.
+13. Inspecting engine components for security and condition.
+14. Ground running an engine at scheduled intervals to determine satisfactory
+performance of powerplant systems and static power output.
+15. Using the engine manufacturer or a single source as the engine maintenance provider
+when seeking fleet-wide time-in-service interval extensions.
+16. Verifying the quality of the maintenance provider’s engine maintenance and overhaul
+performance. Any replacement parts recommended in the appropriate engine
+manufacturer’s SB can be replaced at the overhaul or at the appropriate maintenance
+task interval.
+17. Although not a regulatory requirement, installing new cylinders on a reciprocating
+engine at the overhaul may add to the engine’s reliability.
+18. Overhauling or replacing all engine accessories per the manufacturer’s
+recommendations. Accessories play a very important part in the life of an engine.
+5
+1/9/18 AC 120-113 CHG 1
+19. Requesting engine overhaul teardown reports that show dimensional checks and wear
+of critical parts. Prior to teardown, you should have operated the engine to within
+five percent of the current approved time-in-service interval.
+20. Continued compliance with the pilot’s operating handbook (POH), Airplane Flight
+Manual (AFM), or Rotorcraft Flight Manual (RFM) can make a big difference in the
+reliability of the engine, and it may help to extend the TBO.
+21. Using all or parts of an engine manufacturer’s time-in-service interval extension
+program.
+12 HOW AN OPERATOR PROPOSES AN ENGINE TIME-IN-SERVICE
+INTERVAL EXTENSION. If an operator plans to propose an engine time-in-service
+interval extension, the operator should submit the proposal in writing to its responsible
+Flight Standards office or IFO.
+12.1 Collaboration Between the Operator and the FAA. The operator and the responsible
+Flight Standards office will collaborate with each other to determine a reasonable length
+of the time-in-service interval extension.
+12.2 Length of the Time-In-Service Interval Extension. The length of the time-in-service
+interval extension may vary depending on an operator’s particular operation. For
+example, a time-in-service interval extension could be a one-time extension of 25 flight
+hours for one engine, or a fleet-wide extension of several hundred hours per engine. It is
+the operator’s responsibility to provide the responsible Flight Standards office with
+adequate information to justify all aspects of the proposed time-in-service interval
+extension. The length of the extension should allow the operator to extend the useful life
+of the engines without compromising the safety of the flying public.
+12.3 Responsibility for Operating Engines During Time-In-Service Interval Extensions.
+The operator is responsible for operating any engine during a time-in-service interval
+extension in accordance with all terms and conditions of the interval extension approval.
+13 SUPPORTING DOCUMENTATION TO SUBSTANTIATE THE PROPOSED
+ENGINE TIME-IN-SERVICE INTERVAL EXTENSION. Depending on the type of
+engine (i.e., turbine or reciprocating), the items that the operator should submit for review
+may include:
+13.1 Mechanical Interruption Summary Reports (MISR). The responsible Flight Standards
+office should review previous MISRs to detect trends or irregularities. These may
+indicate problem areas in maintenance procedures, or operational procedures with regard
+to the reliability of the operator’s engines.
+13.2 Service Difficulty Reports (SDR). The responsible Flight Standards office should query
+the SDR database for information on the type of engine the operator wants to extend. A
+high number of reports, failures, or other deficiencies may be a reason to reject the
+time-in-service interval extension.
+6
+1/6/16 AC 120-113
+13.3 Type Certificate Data Sheets (TCDS). The responsible Flight Standards office should
+review the appropriate current TCDS for any information relating to time extensions or
+restrictions. The TCDS may also indicate life limits or reference the manual where life
+limits are located, if applicable.
+13.4 Engine Manufacturer’s SBs, SIs, SILs, or Recommendations. The operator should
+supply the responsible Flight Standards office with a list of the engine manufacturer’s
+SBs, SIs, and SILs that contain time-in-service interval extension information, as well as
+any information supporting or not supporting an extension, including statements of no
+technical objection from the manufacturer. The FAA may require the operator to comply
+with certain inspections and other criteria in the service documents before it grants a
+time-in-service interval extension.
+13.5 Oil Analysis Reports. The responsible Flight Standards office should review the
+operator’s oil analysis reports (if applicable) for abnormal wear and recommendations
+from the lab for follow-up action. Repeat abnormal wear reports may indicate a problem
+with the operator’s engine maintenance program.
+13.6 Trend Monitoring Reports. If an operator has a trend monitoring program, the
+responsible Flight Standards office should review it for abnormalities that would indicate
+a problem with their engine maintenance program.
+13.7 Engine Overhaul Teardown Reports. The operator should provide the responsible
+Flight Standards office any current (last overhaul) indepth teardown reports showing
+recorded dimensional checks and the condition of critical parts. The operator should have
+operated the engine(s) that are chosen for the teardown to within five percent of the
+currently-approved time-in-service interval. The number of teardown reports that an
+operator should provide will be determined by the responsible Flight Standards office and
+will depend on the size and complexity of the operator’s aircraft fleet.
+13.8 Recommendations from the Engine Maintenance Provider. An operator’s engine
+maintenance provider is in a position to help determine the length of the proposed
+time-in-service interval extension. This is the maintenance organization that
+disassembled, inspected, performed dimensional checks of critical parts, and completed
+the overhaul of the sample engine(s).
+13.9 Engine Maintenance History. The responsible Flight Standards office should review the
+operator’s aircraft fleet’s past engine maintenance history for early engine removals from
+service, early overhauls, repeat maintenance actions, cylinder changes, compression
+checks, oil filter inspections, and static power output engine runs. The responsible Flight
+Standards office should determine if the engine(s) received other maintenance actions,
+including the installation of recommended replacement parts (identified in the appropriate
+engine manufacturer’s service-related information) that should be replaced at the engine’s
+overhaul.
+13.10 Oil Consumption History. This is the history of oil consumption throughout the
+engine’s operation since its last overhaul.
+7
+1/9/18 AC 120-113 CHG 1
+13.11 AD Records. Some ADs may restrict operating an engine past the recommended
+time-in-service interval.
+13.12 Continuing Analysis and Surveillance System (CASS) Reports. The responsible
+Flight Standards office should review CASS reports (for those operators who have a
+CASS program) for any trends involving the operation of the operator’s engines or
+powerplant systems.
+13.13 Maintenance Review Board Report (MRBR). If an operator operates a transport
+category aircraft, or one built to Maintenance Steering Group – 3rd Task Force (MSG-3)
+standards, the MRBR (if applicable) may contain pertinent information about the engine.
+13.14 Other Data. Any other data that the responsible Flight Standards office or the Policy and
+Standards Division (AIR-600) requests that has been deemed necessary to substantiate
+the time-in-service interval extension.
+14 HOW THE FAA APPROVES OR REJECTS THE PROPOSAL.
+14.1 Notification of Rejection. If the responsible Flight Standards office determines the
+proposed time-in-service interval extension is unacceptable, it will notify the operator by
+letter that the proposal is rejected. The letter should include the reasons for the rejection.
+Also, the responsible Flight Standards office should return the proposed time-in-service
+interval extension documentation to the operator.
+14.2 Notification of Approval. If the responsible Flight Standards office determines that the
+proposed time-in-service interval extension does not present a safety hazard and is not
+contrary to any regulatory requirement, it will accomplish the following:
+14.2.1 Notify and Advise the Operator. Notify the operator by letter that the FAA approves the
+operator’s proposed time-in-service interval extension and advise the operator to revise
+its inspection or maintenance program, and/or time limitations document (whichever is
+applicable to the operator’s operation).
+14.2.2 Update OpSpecs/MSpecs. Update the appropriate paragraph of Part D of the operator’s
+OpSpecs/MSpecs to reflect their revised time limitation or time-in-service interval.
+15 AC FEEDBACK FORM. For your convenience, the AC Feedback Form is the last page
+of this AC. Note any deficiencies found, clarifications needed, or suggested
+improvements regarding the contents of this AC on the Feedback Form.
+8
+Advisory Circular Feedback Form
+If you find an error in this AC, have recommendations for improving it, or have suggestions for
+new items/subjects to be added, you may let us know by contacting the Flight Standards
+Directives Management Officer at 9-AWA-AFB-120-Directives@faa.gov.
+Subject: AC 120-113 CHG 1, Best Practices for Engine Time-In-Service Interval Extensions
+Date: _____________________
+Please check all appropriate line items:
+An error (procedural or typographical) has been noted in paragraph ____________
+on page _______.
+Recommend paragraph _____________ on page __________ be changed as follows:
+______________________________________________________________________
+______________________________________________________________________
+In a future change to this AC, please cover the following subject:
+(Briefly describe what you want added.)
+______________________________________________________________________
+______________________________________________________________________
+Other comments:
+______________________________________________________________________
+______________________________________________________________________
+I would like to discuss the above. Please contact me.
+Submitted by: Date: ______________________

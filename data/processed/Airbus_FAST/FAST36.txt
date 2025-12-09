@@ -1,0 +1,1705 @@
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+5
+0
+0
+2
+Y
+L
+U
+J
+J U L Y 2 0 0 5
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+J U L Y 2 0 0 5
+63TSAF
+36
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+Publisher:Bruno Piquet
+Editor:Kenneth Johnson
+Graphic Designer:Agnès Massol-Lacombe
+Customer Services Communications
+Tel: +33 (0)5 61 93 43 88
+Fax: +33 (0)5 61 93 47 73
+E-mail: fast.magazine@airbus.com
+Printer Escourbiac
+FAST may be read on Internet
+http://www.content.airbusworld.com/SITES/Customer_services/index.html
+under Customer Services/Publications
+ISSN 1293-5476
+Airbus Customer Services
+©AIRBUS S.A.S. 2005. All rights reserved
+No other intellectual property rights are granted by the delivery of this Magazine than the right
+to read it,for the sole purpose of information.This Magazine and its content shall not be
+modified and its images shall not be reproduced without prior written consent of Airbus.
+This Magazine and the material it contains shall not,in whole or in part,be sold,rented,
+distributed or licensed to any third party.The information contained in this Magazine may vary
+over time because of future factors that may affect the accuracy of information herein.Airbus
+assumes no obligation to update any information contained in this Magazine.When additional
+information is required,Airbus S.A.S.can be contacted to provide further details.Airbus,its
+logo and product names are registered trademarks.Airbus S.A.S.shall assume no liability for
+any damage in connection with the use of this Magazine and of the materials it contains,
+even if Airbus S.A.S.has been advised of the likelihood of such damages This issue of FAST has been printed on paper
+produced without using chlorine,to reduce
+Photographs by Airbus France: Jean Jodar (page 5) waste and help conserve natural resources.
+exm company: Hervé Bérenger, Hervé Goussé and Philippe Masclet Every little helps!
+1
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+J U L Y 2 0 0 5
+Customer Services
+events
+Just happened Coming soon
+PERFORMANCE AND OPERATIONS CONFERENCE A300/A310 FAMILY TECHNICAL SYMPOSIUM
+IN BANGKOK, THAILAND, 4 - 8 APRIL IN LISBON, PORTUGAL, 14 -18 NOVEMBER AFFC - Auto Fuel Feed Controller 2
+Our vision for the EFB (Electronic Flight Bag) and its sup- Preparation for this technical symposium is already in Upgrading your Airbus fleet for additional
+port, how to deal with Required Navigation Performance progress. There will be presentations on actual in-service
+maintainability
+and the way to fly RNAV approaches were announced and issues affecting the A300/A310 Family programme as well
+Daniel Percy
+discussed at this symposium. Other topics included: our as subjects of more general interest.
+legacy document project, the first A380 Flight Crew For information, contact your local resident customer sup-
+Low fuel temperatures 5
+Operating Manual delivery, the A350 status, our vision on port manager. Agenda and participation forms will be sent
+CNS/ATM (Communication Navigation Surveillance/Air out in September. Basics,principles of operations and a new software
+Traffic Management), our concept and new tools for oper- tool for predictions
+ational cost management and our vision of safety related HUMAN FACTORS SYMPOSIUM Lars Kornstaedt
+equipment that will be fitted on our future aircraft. IN MADRID, SPAIN, 22 - 24 NOVEMBER
+300 flight operations specialists from 86 airlines and about
+Airbus will continue the dialogue with its operators at this AACT - Airbus Active learning and 12
+50 representatives from 19 vendors, associations and
+symposium, discussing human factors aspects with practi- Competence focused Training
+authorities participated in this very well appreciated event.
+cal and operational perspectives on:
+A new approach to maintenance training
+• Flight operations (environmental, safety, pure ops
+TECHNICAL DATA SUPPORT & SERVICES Christèle Bertrand
+e.g. procedures, philisophy, systems)
+SYMPOSIUM IN ATHENS, GREECE, 25-29 APRIL • Maintenance (safety, CRM, organization, procedures,
+T2CAS - Terrain and Traffic Collision 16
+The modular concept of our advanced consultation tool manuals)
+'AirN@v' was announced at this symposium. The concept • Cabin operations (safety, CRM, organization, Cover: Low fuel temperature country Avoidance System
+will give seamless one-stop-access to aircraft documenta- procedures, mass travel, medical aspects) Upgrading your aircraft by combining
+tion and significant gains in efficiency. It will also support • Training (to flight operations, maintenance, TCAS and TAWS in one unit
+our move to delivering 'Service-Oriented Data' in the com- cabin operations, to human factors) Christine Vigier
+ing years. There will be no rupture in the use of standards • ATC (environmental, safety, pure operations
+and delivery of data, as this will be totally transparent to e.g. procedures, philisophy, systems)
+A new concept for Service Bulletins
+technical data end-users. It was also announced that in line
+with Airbus' policy of applying new technology applica- Addressing airline expectations for 21
+tions for existing aircraft programmes, Airbus has launched Service Bulletins
+AirN@v for all A310 and A300-600 fleet customers. Annick Pedron
+The symposium was much appreciated and customers fully
+endorsed Airbus migration from outdated media to full dig- RFID - Radio Frequency IDentification 28
+ital data application. Supporting the aircraft supply chain
+Andreas Teufel
+A320 FAMILY SYMPOSIUM
+IN RHODES, GREECE, 23 -27 MAY
+Customer Services 35
+This had a record participation of 345: 167 from 91 airlines,
+47 from 16 vendors and representatives of the Maintenance Around the clock...Around the world
+Repair and Overhaul Network. Evaluation forms gave a
+very high satisfaction level and, overall, we saw customers A double-decker of fifty years ago……. 36
+satisfied with A320 Family performance.
+The symposium gave an opportunity to exchange views and
+allowed Airbus to optimize its focus on operators' main
+issues. Customers acknowledged our improvements of
+their main concerns with projects such as Forum for
+Airlines Issues Resolution (FAIR), New Service Bulletin
+Concept, maintenance costs, Time To Get a Fix and also
+appreciated demonstrations of the latest A320 Family
+enhancements and the ongoing product evolution.
+AFFC - UPGRADING YOUR AIRBUS FLEET FOR ADDITIONAL MAINTAINABILITY
+3
+63
+TSAF
+AFFC - UPGRADING YOUR AIRBUS FLEET FOR ADDITIONAL MAINTAINABILITY
+AFFC
+Auto Fuel Feed Controller
+Upgrading your Airbus fleet for additional maintainability
+3
+63
+TSAF
+The Auto Fuel of transient aircraft conditions.
+Airbus and Goodrich Fuel and
+Feed Controller
+Utility Systems have therefore
+AFFC location
+incorporated additional and
+Replacing all the relays of the cur- improved logic within the AFFCs
+rent system, except for six essential software. The result is a reduction
+for supply of power to the pumps, in the number of indicated auto-
+the AFFC is a line replaceable feed failures, and a subsequent
+digital computer. It controls the decrease in maintenance workload.
+inner and center fuel tank boost
+pumps, and the water scavenge When genuine autofeed system
+pumps. As with the current system, failures are indicated, the AFFCs
+the outer tank pumps are controlled BITE (Built In Test Equipment)
+independently of the AFFC. function provides vastly improved
+assistance to maintenance crews
+In order to provide automatic con- to troubleshoot the fault. The
+trol, the AFFC takes inputs from AFFCs BITE has two levels of
+the aircraft power circuits, flight status indication, one for line
+deck push button switches and the maintenance and one for base
+refuel panel. System inputs also maintenance personnel.
+come from the inner and center
+tank level sensors, the fuel quanti- At line maintenance level, LEDs
+Photo courtesy of Air Hongkong ty computer and pump feedback (Light Emitting Diodes) on the
+TS codes
+signals. front panel of the AFFC provide
+fault codes, which indicate the sta-
+The AFFC has been designed to tus of the autofeed system, both
+interface with the existing aircraft internally and externally to the
+signals, and does not require any AFFC. The codes can be easily
+changes to the flight crew interface read from the AFFC and cross-
+for its operation. When crew select checked with troubleshooting doc-
+auto-mode on the overhead fuel umentation to identify which com-
+panel, the AFFC will operate to ponents should be targeted by
+automatically control the fuel feed. maintenance crews. This allows for
+On Airbus A310 and A300-600 aircraft types, sup- Recognising these factors, Airbus and Goodrich rapid troubleshooting and helps
+ply of fuel to the engines is maintained by an auto- Fuel and Utility Systems joined forces to review Improved system dispatch of the aircraft. At the base
+matic system, which controls the center and inner the system and recently introduced an updated maintenance level, an ARINC429
+maintainability
+tank fuel pumps and the water scavenge pumps. auto-feed system, which takes advantage of devel- transmitter can be interrogated in
+The current system was conceived before wide- opments in digital computer technology. through added order to provide system data for the
+spread introduction of digital technology and con- past 20 flights. This transmitter can
+functionality
+sists of up to 30 fault and control relays, which are The new Auto Fuel Feed Controller (AFFC) has also be interrogated to obtain the
+located in different avionics panels. The system been designed to dramatically improve maintain- current status of all discrete AFFC
+architecture and implementation necessitates a ability and to augment the already high system The AFFC brings added function- inputs and outputs.
+good level of system knowledge to troubleshoot. reliability. In addition, the opportunity has been ality to the fuel feed system in
+Also, as the relays age with the aircraft, their reli- taken to introduce system operation improve- order to greatly reduce trou- Both the BITE and the ARINC429
+ability can decrease. These factors can increase ments through the software control logic. bleshooting workload. It achieves transmitter are autofeed system
+the need and the time required for troubleshooting this by both reducing the number improvements, enabling trouble
+the system. of autofeed faults seen on the air- shooting that is not feasible with
+craft and by providing efficient the current system.
+troubleshooting tools.
+AFFC installation
+The amount of logic the current
+autofeed system can apply to the
+monitored system inputs is limited It is possible to install the AFFC on
+by the number of relays. all A300-600 and A310 aircraft
+Daniel Percy
+Airbus Customer Services Experience with the current system types, which do not already have it
+Fuel Systems Engineer has shown that a number of indi- selected as an option. The installa-
+Customer Services Engineering cated autofeed faults could be pre- tion is completed in two stages:
+vented by having additional logic Provisioning and installation. Both
+within the system to take account of these stages are covered
+2
+63
+TSAF
+AFFC - UPGRADING YOUR AIRBUS FLEET FOR ADDITIONAL MAINTAINABILITY
+Auto Fuel Feed Controller inputs and outputs
+28V DC aircraft power
+Push button switches
+Pumps control
+Tank level sensors
+Cockpit lamps & ECAM
+Fuel quantity computer
+Water scavenge control
+Refuel panel
+Maintenance transmitter
+Pump feedback signals
+Pin programming
+by Service Bulletins (SBs), which The installation stage reconfigures
+are already available from Airbus. the aircraft wiring to connect the
+provisioned harness to the fuel sys-
+During the provisioning a new tem electronics and then remove
+wiring harness is installed in the the current relays. Once this is
+forward avionics bay between the completed, the AFFC is installed in
+AFFC and the relays, which are to the mounting cage, and the harness
+be replaced. A mounting cage is plugged in to the AFFCs connec-
+also installed in the avionics bay tors to complete the new system.
+between frames 12 and 12A. These Finally, some cleanup work is com-
+modifications have already been pleted in order to remove cables
+completed prior to delivery on air- made redundant by installation of
+craft from MSN 859 onwards. the AFFC.
+CONTACT DETAILS
+Daniel Percy
+Airbus Customer Services
+Fuel Systems Engineer
+Customer Services Engineering
+Tel:+33 (0)5 62 11 76 33
+Fax:+33 (0)5 61 93 32 73
+daniel.percy@airbus.com
+Conclusion
+Troubleshooting of faults on relay The AFFC has been in operation with
+based automated aircraft systems requires two operators since early 2005 and has
+a good level of system knowledge and accumulated over 3200 flight hours so far
+generally needs longer time periods without any faults reported on the
+when compared to the functionality autofeed system. The system is available
+provided by the BITE of digital systems. and the standard SBs can be ordered by
+For A300-600 and A310 aircraft autofeed any operator wishing to embody the
+system relays that are ageing and may be modification.
+experiencing an increase in unscheduled
+maintenance, the AFFC offers the
+opportunity to enhance fleet reliability and
+limit the risk of dispatch delays.
+5
+63
+TSAF
+LOW FUEL TEMPERATURES - BASICS,PRINCIPLES OF OPERATIONS AND A NEW SOFTWARE TOOL FOR OPERATIONAL PREDICTIONS
+LLooww ffuueell
+tteemmppeerraattuurreess
+BBaassiiccss,, pprriinncciipplleess ooff ooppeerraattiioonnss
+aanndd aa nneeww ssooffttwwaarree ttooooll
+ffoorr ooppeerraattiioonnaall pprreeddiiccttiioonnss
+With the operation of the very long range on the Electronic Centralized Aircraft Monitor
+A340-500 and -600 on polar routings, the (ECAM) and in Flight Crew Operating
+exposure of Airbus aircraft to low fuel temper- Manual (FCOM) 3.02.28 and describes new
+ature issues has increased. This article summa- software now available to operators to predict
+rizes some basics regarding the minimum fuel fuel temperatures for a given flight at the time
+temperature that can be tolerated, reviews the of dispatch.
+principles of the FUEL LO TEMP procedures
+Lars Kornstaedt
+Airbus Customer Services
+Group Manager A380 Performance
+Flight Operations Support and Services
+5
+7
+63
+TSAF
+7
+63
+TSAF
+LOW FUEL TEMPERATURES - BASICS,PRINCIPLES OF OPERATIONS AND A NEW SOFTWARE TOOL FOR OPERATIONAL PREDICTIONS LOW FUEL TEMPERATURES - BASICS,PRINCIPLES OF OPERATIONS AND A NEW SOFTWARE TOOL FOR OPERATIONAL PREDICTIONS
+Minimum The fuel freezing point is common- tanks. JetA1 can be considered as engine inlet temperature is the actu-
+ly measured with the ASTM auto- having unaltered freezing character- al fuel freezing point with the man-
+allowed fuel
+mated optical test method D5901- istics up to a content of 10% of ufacturers margin added to it (see
+03. ASTM International is an orga- JetA, above that fraction results right-hand table).
+temperature
+nization which develops standards, become unpredictable and the fuel
+amongst which are the fuel freez- freezing point should be considered FUEL HEAT MANAGEMENT SYSTEM
+Operating the aircraft within the ing point tests. This test method is to be that of JetA fuel. LIMITATION
+certified environmental envelope is based on the observation of wax
+not sufficient to prevent issues crystals completely disappearing ACTUAL FUEL FREEZING POINT During flight, the fuel temperature
+with cold fuel. Indeed, safe engine from a warmed fuel sample that quickly drops below the freezing
+operation leads to two engine-spe- was previously frozen. The method When known, the actual fuel freez- point of water, of which a certain
+cific limitations: the minimum is used widely except for Russian ing point of the fuel carried proportion is always contained in
+inlet temperature and the fuel heat and other Eastern-European fuels, onboard the aircraft may be aviation fuels. This water can then
+management system limitation. for which the GOST (Russian state retained as a criterion for cold fuel form ice crystals, which could trav-
+More information on fuel charac- standard) method gives the temper- management in flight, if a monitor- el to the engine inlet filters and
+teristics is given in the ‘Getting ature at which solid particles first ing process, including mainte- clog them. To avoid this, the fuel is
+to Grips with Cold Weather appear during the cooling process. nance, dispatch, and crew proce- warmed in the oil cooling system.
+Operations’ brochure available The ASTM method therefore dures, has been set up in a way that For some engine types, a minimum
+from Airbus. affords higher margins. is acceptable to local authorities. fuel temperature below which take-
+The process involves the retrieval off and/or flight is not permitted
+FUEL FREEZING POINT The specification fuel freezing of samples from the tanks through therefore results from the engine
+point depends directly on the level the drain holes after the refueling is capability to warm up a water-satu-
+The fuel characteristic that best of distillation aimed for in its pro- completed. These are then put rated fuel flow, unless an anti-ice
+describes the lower limit in tem- duction. The higher the distillation through jet fuel quality analysers, additive is used. Minimum inlet temperature
+perature for use in aircraft opera- grade, the lower the yield of fuel results can be radioed to the crew if
+Operational
+tions is not actually the fuel freez- from the crude oil. Fuel of different not available before takeoff. Based
+ing point, but the pumpability specifications is found in different on a fuel freezing point measure- procedures
+limit. This limit is very close to the parts of the world, each with a dif- ment survey conducted by a com-
+pour point, a temperature at which ferent specification fuel freezing pany involved in research in cold
+GROUND PROCEDURES
+0°C
+the fuel, cooled without stirring, point. The main focus is on JetA1, temperature behaviour of petrole-
+will only just still pour from a primarily available everywhere um products at major US airports, a Special attention should be paid to
+0°C
+standard glass cylinder. However, except the United States of typical benefit of at least 3°C and the fuel contained in the outer tanks
+since the pour point is difficult to America, and on JetA, which is up to 18°C can be expected from before a flight through forecast cold 3°C
+determine accurately, the fuel used there (see left-hand table). the implementation of such a mon- atmosphere is commenced. These
+4°C
+freezing point continues to be used itoring process. tanks may remain completely or
+as a reference for low-temperature FUEL MIXTURES partially filled with the cold reserve
+A320F 4°C
+characteristics. MINIMUM INLET TEMPERATURE fuel from the previous flight.
+When flying between areas where This may have an unrelated, but A340 5°C
+Fuel is a mixture of different hydro- different fuel types are available, Engines have an oil cooling system undesirable, effect of leading to
+carbons that do not all solidify at the mixtures of fuel with different spec- at their inlet, which uses the arriving wing surface icing after landing in a
+same temperature. When fuel is ification fuel freezing points will fuel as a heat sink, thus warming it. humid environment. More impor-
+Fuel freezing point cooled, an increasing proportion of occur in the tanks. Experimental Various system architectures and tantly, if partially filled, it may lead
+wax crystals form in the fuel. The evidence has shown that fuel mix- hardware leads to a varying specifi- to high-proportion mixtures of dif-
+wax crystals can block fuel lines tures do not behave as ideal fluids cation of the minimum temperature ferent fuel types. Both can be avoid-
+and filters, thus causing engine and that the resulting fuel freezing that a given engine type can cope ed by performing a manual transfer
+instability, power loss and eventual- point is commonly adversely affect- with. The minimum temperature of the outer tank fuel inboard dur-
+ly flameout, and their formation ed. Airbus recommends avoiding is expressed as a margin versus ing the taxi-in. If the outer tanks
+JetA -40°C should therefore be avoided. mixtures in the outer, most exposed fuel freezing point - the minimum remain full with fuel of a lower
+JP5 -46°C
+JetA1/JP8 -47°C
+RT/TS-1 -50°C
+JetB -50°C
+TH -53°C
+JP4 -58°C
+6
+9
+63
+TSAF
+9
+63
+TSAF
+LOW FUEL TEMPERATURES - BASICS,PRINCIPLES OF OPERATIONS AND A NEW SOFTWARE TOOL FOR OPERATIONAL PREDICTIONS LOW FUEL TEMPERATURES - BASICS,PRINCIPLES OF OPERATIONS AND A NEW SOFTWARE TOOL FOR OPERATIONAL PREDICTIONS
+freezing temperature than fuel local- The figure ‘tank transfer schemat-
+TAT increase - ‘fly faster’
+ly available, it may be advantageous ic’ shows an example for the
+to keep that fuel there, since experi- A340-500 and -600, the FCOM
+ence shows that a higher initial fuel 3.02.28 FUEL LO TEMP proce-
+temperature only has a delaying dures request manual transfers:
+effect on the cooling process, but • From outers to inners, when
+usually does not affect the minimum the fuel freezing point is
+temperature observed in-flight. The reached in the outers
+benefit of the lower freezing point • Forward from the trim tank,
+prevails in such a case. when the fuel freezing point
+is reached in the trim tank
+IN-FLIGHT PROCEDURES • From center to inner, when
+the minimum acceptable
+On aircraft equipped with a fuel temperature is reached in
+temperature measurement system, the inners
+an ECAM warning is triggered
+when the fuel temperature drops TAT INCREASE
+below the minimum acceptable tem-
+perature in that tank. The minimum In addition to manual transfers, the
+acceptable temperature is not the procedure also recommends to
+same for all tanks. The temperature increase the TAT (Total Air
+in the feed tanks (typically, but not Temperature), which is the temper-
+exclusively, the inner tanks) may not ature measured on the structure of
+drop below the minimum acceptable the aircraft. The TAT is derived
+temperature limited by the engine from the outside or Static Air
+inlet and the heat management sys- Temperature (SAT) and depends on
+tem limitation, while the fuel in the the Mach (Ma) number:
+remaining tanks may be allowed to
+reach the freezing point. The ECAM TAT = SAT x (1 + 0.2 x Ma2)
+warnings are calibrated to the spe-
+cification values of JetA and There are two means of increasing
+JetA1 fuel and request manual fuel the TAT: increasing speed to
+transfers. The crew may delay the increase aerodynamic warming,
+application of the procedures appro- and reducing altitude to fly in
+priately, if the actual fuel freezing warmer air. The TAT formula high-
+point of the fuel carried is known. lights that speed increase only has a
+marginal effect, while the exchange
+rate SAT to TAT is one to one.
+To give an impression of the effect
+in time, both means are shown in
+separate variations from a basic
+scenario, which considers an
+A340-600 taking off at Maximum
+Take Off Weight (MTOW) flying
+from the US East Coast to East
+Asia on a great circle routing at
+Long Range Cruise (LRC) speed
+and on an optimum altitude pro-
+file. The aircraft is using JetA fuel
+with a specification fuel freezing
+point of -40°C. A statistical outside
+temperature profile is considered
+for this example, based on a 95%
+reliability for January, meaning
+that at any point during an actual
+flight in that month, there is only a
+5% chance of encountering lower
+temperatures.
+8
+)tf
+0001(
+edutitla
+/
+)C°(
+erutarepmeT
+)tf
+0001(
+edutitla
+/
+)C°(
+erutarepmeT
+The first variationconsists in fly-
+ing at maximum managed speed
+(Ma 0.845 for this type) on a fuel-
+Comparison of fuel temperatures in outer
+optimized profile. The figure “fly
+and inner 1/4 tanks for two speeds
+faster” shows the relevant parame-
+ters plotted against the ground dis-
+tance, the basic scenario always
+shown in shades of blue and the
+variation case in shades of
+red/orange. The speed increase
+leads to a shift in the optimum pro-
+file, which is mirrored by the SAT
+profile, but even where the aircraft
+flies at the same altitude, a small
+increase in TAT can be observed.
+This increase delays the moment
+when the temperature drops below
+freezing point in the outer tanks by
+some 300 nautical miles (nm), but
+does not avoid the need for the
+manual transfer procedure from Distance (nm)
+the outers to the inners. It does,
+however, succeed in maintaining
+the inner tanks temperature above TAT increase - ‘fly lower’
+or at the freezing temperature,
+which is sufficient for the Rolls Comparison of fuel temperatures in outer
+Royce Trent 500 engines that and inner 1/4 tanks for two altitude profiles
+equip this aircraft type. This
+comes at a cost: fuel burn at iden-
+tical takeoff weight is increased by
+7.9 tonne (t).
+The second variation considers
+flying the whole distance at Flight
+Tank transfer schematic Level (FL) 290. The figure ‘fly
+lower’shows the large increase in
+SAT, which is mirrored by the TAT.
+The lower flight level succeeds in
+delaying the manual transfer by
+800 nm and subsequently main-
+taining a comfortable margin of the
+fuel freezing point in the inner
+tanks. The cost of this variation is a
+fuel burn increase by 5.5t. Distance (nm)
+11
+63
+TSAF
+11
+63
+TSAF
+LOW FUEL TEMPERATURES - BASICS,PRINCIPLES OF OPERATIONS AND A NEW SOFTWARE TOOL FOR OPERATIONAL PREDICTIONS LOW FUEL TEMPERATURES - BASICS,PRINCIPLES OF OPERATIONS AND A NEW SOFTWARE TOOL FOR OPERATIONAL PREDICTIONS
+Fuel temperature From this data, it determines the operability on a variety of plat- the route is established with the
+nominal fuel distribution and forms. At this time, stand-alone Airbus Flight Planning (FLIP)
+prediction software
+movement during the flight and solutions are being developed for software, which is also part of the
+simulates the effect of the various PC and UNIX under RS6000, in PEP.
+As described in the previous sec- heat exchange processes, like con- addition to the basic implementa-
+tion, while it is possible to manage vection, radiation, external heat tion, which is a complete solution For the statistical weather data, a
+cold fuel issues once in flight, an sources and mass transfer. The included in the Performance connection has been built to the
+un-forecasted occurrence can lead result is a detailed output of the Engineer’s Programs (PEP) soft- NOAA GUACA (National Oceanic
+to over-consumption and even fuel temperatures in each tank at ware suite. and Atmospheric Administration
+diversion. In order to give airlines each waypoint, a summary that - Global Upper Air Climatic Atlas),
+the ability to analyse a flight for its indicates whether the flight can be An important aspect lies in the which was compiled from data
+exposure to fuel freezing before it dispatched under the given condi- large variety of flight plans to be obtained in the 80’s and 90’s from
+is flown, Airbus has designed the tions, whether any manual trans- imported. This has been tackled in the ECMRWF (European Centre
+Fuel Temperature Prediction (FTP) fers were triggered during the sim- the PEP environment through the for Medium Range Weather
+software. ulation, and what the lowest tem- definition of a standard format, Forecasts). This database needs to
+perature forecast in each tank is. which uses XML (eXtensible be installed specifically to allow
+PRINCIPLES This information allows the dis- Markup Language) and is a subset extraction of statistical data for
+patcher to decide in an informed of the standard defined for the monthly or seasonal exposure
+The FTP software relies on exter- manner, which areas may have to A380 Onboard Information analysis.
+nal data sources to obtain: be avoided on a critical flight. System (OIS). The translation of
+• Navigation data (waypoints, the airline pilot log to XML Information and the database are
+distance, time) OPERATING MODES requires the development of a cus- available from the NOAA website:
+Schematic of heat
+• Weather data (temperatures) tomized tool. All the relevant infor- http://navy.ncdc.noaa.gov/prod-
+exchange mechanisms
+• Performance data (altitude, The FTP can be used in two ways mation for this task is provided in ucts/compactdisk/guaca.html.
+speed, fuel on board) depending on the original source the Performance Programs Manual
+of the navigation, weather and per- (PPM), but assistance and even the The FLIP computation results in a
+formance data: the Flight Plan development of such a tool is avail- specific output, which can be direct-
+Analysis and the Sector Analysis. able as an Airbus service. ly imported into the FTP PEP user
+interface, through which the same
+FLIGHT PLAN ANALYSIS SECTOR ANALYSIS type of analysis can be obtained as
+for a Flight Plan Analysis.
+The Flight Plan Analysis uses an The Sector Analysis is designed to
+airline operational flight plan (or help assess the exposure of a city- APPLICABILITY CONTACT DETAILS
+pilot log) as a basis for the compu- pair to cold fuel issues on a statis-
+Lars Kornstaedt
+tation. Operational flight plans are tical basis. For this task, some The FTP software is available for
+Airbus Customer Services
+Fuel level tank generated with Computerized simplifications are made. The all A330/A340 Family aircraft and Group Manager
+Flight Planning (CFP) systems routing is assumed to be a Great will be released for entry into ser- A380 Performance
+available from a number of Circle one; the performance on vice of the A380 and the A350. Flight Operations Support
+and Services
+providers. They run on different
+Tel:+33 (0)5 61 93 36 75
+hardware, like PCs, UNIX or main-
+Fax:+33 (0)5 61 93 29 68
+frame computers, or even remotely Conclusion fltops.perfo@airbus.com
+over Internet or similar connections, lars.kornstaedt@airbus.com
+and they produce a document,
+which is highly customized by the
+operators to their specific needs. For some years monitoring of fuel This led to a review and from this
+temperatures for flights in cold came Airbus’ recommendation that
+One of the design constraints for atmospheres, such as trans-polar flights, operators implement a fuel quality
+the FTP software was therefore its has been normal and operational monitoring programme for exposed flights
+procedures to deal with this have been from airports where only high freezing
+put in place. With the very long range temperature fuel is available and the
+A340-500 and A340-600, Airbus creation of the Fuel Temperature
+considered the increased exposure of Prediction (FTP) programme. The FTP
+these aircraft to low temperatures should enables the prediction and avoidance of
+be addressed at an earlier stage in the cold fuel issues at the time of aircraft
+process than through the existing in-flight dispatch and is recommended for
+management procedures detailed in the operators to support their operations on
+FCOM and triggered by ECAM warnings. routes where such issues can arise.
+10
+AACT - A NEW APPROACH TO MAINTENANCE TRAINING
+13
+63
+TSAF
+AACT - A NEW APPROACH TO MAINTENANCE TRAINING
+AACT
+Airbus Active learning and
+Competence focused Training
+A new approach to maintenance training
+In the past, maintenance training mainly focused A further step in this process sees the AACT
+on theoretical knowledge acquisition. As part of (Airbus Active learning and Competence focused
+Airbus policy of continually improving training Training) course being introduced. The AACT
+courses, the maintenance training courses began course is a new approach developed by Airbus for
+to evolve, starting with the implementation of the training maintenance technicians.
+MTD (Maintenance Training Device) in the
+course flow a few years ago. The MTD allowed The main innovation in this new approach is the
+trainees to gain practical skills before having real intensive use of new Airbus simulation tools, like
+practice on an aircraft. the M/FTD (Maintenance/Flight Training Device)
+and the virtual aircraft, which enable maintenance
+tasks to be performed throughout all their steps.
+13
+63
+TSAF
+AACT New simulation
+objectives tools
+The AACT innovations focus on The key elements of AACT cours-
+two central aspects: es are two new training tools: the
+M/FTD and the virtual aircraft.
+ACTIVE LEARNING
+The M/FTD is a training tool that
+Training experts generally agree is common to flight and mainte-
+that, whatever the subject is, most nance training. It replicates the real
+people learn better when they are aircraft cockpit with PC (Personal
+actively involved during training. Computer) screens and simulates
+With AACT, aircraft maintenance the aircraft systems and mainte-
+technician trainees will participate nance BITE (Built In Test
+more actively in the course, and will Equipment).
+not be passive recipients of theoret-
+ical knowledge only. This active Two versions of the M/FTD are
+participation in the classroom is available:
+especially important for technicians • The 3D M/FTD, which is built
+accustomed to involvement in the with touch-screens displayed as
+actual operation of aircraft. in a real cockpit, plus some
+essential aircraft hardware
+OPERATIONALLY ORIENTED TRAINING equipment (like Flight Control
+Unit and Multipurpose Control
+The obvious objective of any main- & Display Unit)
+tenance training course is to train • The 2D M/FTD, which is a
+people to be competent in their job, lighter version of the M/FTD
+that is: maintaining and operating and consists of only two
+aircraft safely and efficiently. screens, without the aircraft
+hardware equipment
+Adaptation and evolution of such
+training is always necessary to The virtual aircraft tool is a new
+handle the latest aircraft technolo- Airbus application, based on virtu-
+gies and maintenance practices. In al reality and running on a normal
+the newest Airbus aircraft, espe- PC. It simulates the whole aircraft
+cially the A380, the aircraft sys- and enables trainees, in a three-
+tems are more integrated and dimensional on-screen environ-
+sophisticated maintenance tools ment, to walk around the aircraft
+are provided for maintenance tech- and locate aircraft components or
+nicians. To follow these aircraft visit aircraft areas, such as the Both of these tools
+evolutions, AACT training will be avionics bay or main landing gear will be intensively used
+more operationally oriented than bay. When linked with the M/FTD, in the AACT programme
+before and not only focused on air- maintenance actions can also be to perform the practical
+craft system knowledge. simulated in the virtual aircraft. sessions,as well as
+to support the
+theoretical part.
+Virtual aircraft M/FTD
+Christèle Bertrand
+Airbus Customer Services
+Training Project Leader
+Training & Flight Operations Support and Services
+12
+AACT - A NEW APPROACH TO MAINTENANCE TRAINING
+15
+63
+TSAF
+AACT - A NEW APPROACH TO MAINTENANCE TRAINING
+AACT training a task in a more realistic way and
+as a whole, from cockpit actions
+programme
+such as post-flight report consul-
+tation and fault isolation through
+For theoretical sessions, the air- the Multifunction Control and
+craft systems will still be described Display Unit, to action on an air-
+using classical Computer Assisted craft component, like removal and
+Training (CAT) lessons, whereas installation of a suspect unit, then
+the system operation, control & back to the cockpit to perform
+indications will be demonstrated BITE tests of the installed unit.
+with the 2D M/FTD. This use of
+the M/FTD in the classroom will This complete simulation environ-
+allow the instructor to use the ment brought by the M/FTD and
+M/FTD simulation to demonstrate virtual aircraft, coupled with the
+systems with more flexibility and aircraft documentation access, pro-
+realism for the benefit of trainees. vides an efficient and secure way
+to conduct major practical exercis-
+During training the main aircraft es when compared to a real aircraft
+components will be located and where all tasks cannot be actually
+described in the virtual aircraft, and completely performed by all
+avoiding unnecessary immobiliza- trainees. The virtual aircraft
+tion of an actual aircraft, which can answers the main issues encoun-
+be difficult and costly. Each trainee tered on real aircraft, such as diffi-
+will also be able to use the virtual culty to simulate faults, remove
+aircraft freely at any time in the and replace components, the safety
+training to review components and risk for trainees, time necessary to
+locations. allow each trainee to perform tasks
+and so on.
+Practical sessions of servicing
+and troubleshooting maintenance New learning
+tasks (Aircraft Maintenance
+environment
+Manual and Trouble Shooting
+Manual tasks) will be performed
+by trainees on the M/FTD cou- The 2D M/FTD and the virtual air-
+pled with the virtual aircraft and craft will be installed in the class-
+using the electronic aircraft docu- room, directly on the trainees' desk,
+mentation. This link between both to maximize training benefits from
+tools allows simulation of the the tools. This easy access to the
+whole aircraft (inside and out- tools will allow a greater mix of
+side), and not only the cockpit as theory and practice than was previ-
+was the case in previous genera- ously possible and will enable
+tion training devices. With these explanation of systems theory step
+tools, trainees are able to perform by step, prior to practical applica-
+15
+63
+TSAF
+tion. Trainees will therefore Course
+become more and more active in
+deployment
+the learning process, at every stage
+of the training. Furthermore, they
+will no longer need to wait to the The AACT approach will be pro-
+end of the theoretical part to inter- gressively applied to all Airbus
+act in the course and perform the maintenance courses. The first
+tasks by themselves. course using the AACT philosophy
+is the A320 Family maintenance
+In the AACT course, human fac- course and will be run in autumn
+tors training will be integrated and 2005 in the Hamburg training cen-
+will no longer be considered as tre. After this, AACT courses will
+separate training. Human factor be implemented in 2006 for the
+issues will be integrated with tech- first A380 maintenance course,
+nical and operational training and and then on A330 and A340 Family
+spread in the different types of ses- courses.
+sions: theoretical lessons and oper-
+ational scenarios.
+CONTACT DETAILS
+Christèle Bertrand
+Airbus Customer Services
+Training Project Leader
+Training & Flight Operations
+Support and Services
+Conclusion
+Tel: +33 (0)5 61 93 25 07
+Fax: +33 (0)5 61 93 20 73
+christele.bertrand@airbus.com
+Using the latest simulation tools like
+M/FTD and virtual aircraft and
+providing an easy and intense access
+to them for trainees, allows in a sense
+to bring the aircraft into the
+classroom. The AACT course,
+combining the efficiency of such tools
+and a more active learning
+environment will significantly enhance
+the quality and efficiency of
+maintenance training, and as a
+consequence the safety and efficiency
+of maintenance operation on aircraft.
+14
+T2CAS - UPGRADING YOUR AIRCRAFT BY COMBINING TCAS AND TAWS IN ONE UNIT
+17
+63
+TSAF
+T2CAS - UPGRADING YOUR AIRCRAFT BY COMBINING TCAS AND TAWS IN ONE UNIT
+Airbus aircraft have been equipped with the and Traffic Collision Avoidance System) which
+GPWS (Ground Proximity Warning System), combines the Terrain Awareness Warning System
+which was followed by the Enhanced Ground (TAWS) currently named EGPWS, and the TCAS
+Proximity Warning System (EGPWS) certified in in one unit.
+1997 to warn of terrain collision hazards. In addi-
+tion, Traffic alert and Collision Avoidance System As an alternative to the currently certified TAWS
+(TCAS) has been installed to warn of aircraft and the TCAS, the T2CAS allows maintenance
+mid-air collision hazards. cost reductions as well as a global weight
+decrease.
+Since February 2005, Airbus is offering a solution
+integrating both functions: the T2CAS (Terrain
+17
+63
+TSAF
+TAWS TCAS
+The TAWS generates alerts to inform the flight crew The TCAS function is an independent,onboard
+that the terrain ahead of the aircraft on its intended collision avoidance system designed to assist flight
+flight path poses a hazard to safe flight. crews in avoiding midair collisions.
+TAWS is intended to warn the flight crew of hazards When activated,TCAS acts as a backup means of
+that could result in controlled flight into terrain with collision protection from other aircraft that have an
+sufficient time for them to assess the situation and Air Traffic Control Radar Beacon System (ATCRBS) or
+determine the best remedial action. Mode-S Transponder.
+TAWS is mandated by the European Aviation Safety
+Agency for all types of aircraft from the first of
+January 2005 (end of March 2005 for the Federal
+Aviation Administration).
+T2CAS
+Ground Terrain and traffic avoidance combined Traffic
+collision collision
+avoidance avoidance
+system TAWS + TCAS system
+T2CAS
+• Predictive • TCAS 2000
+Terrain and Traffic Collision alerting platform
+• Situation display • Situation display
+• GPWS modes
+Avoidance System
+Upgrading your aircraft by combining
+TAWS functions
+TCAS and TAWS in one unit
+The T2CAS-TAWS part specifica-
+tion is a class A TAWS per TSO
+C151b standard. It therefore pro-
+vides suitable aural and visual
+warnings to alert the crew of any
+hazardous situation with respect to
+the terrain ensuring the following
+functions:
+Mode 1 A Forward Looking Terrain Avoidance (FLTA) function
+Excessive rates of descent The FLTA function looks ahead of the aircraft along and below
+the aircraft lateral and vertical flight path and provides suitable
+Mode 2 alerts if a potential terrain threat exists.The FLTA function on
+Excessive closure rate to terrain the T2CAS is based on a worldwide terrain database.
+Mode 3 A Premature Descent Alert (PDA) function
+Negative climb rate or altitude loss after take off The PDA function of the TAWS uses the aircraft’s current
+position and flight path information,determined from a suitable
+Mode 4 navigation source and airport database,to determine if the
+Flight into terrain when not in landing configuration aircraft is hazardously below the normal approach path for the
+Christine Vigier nearest runway as defined by the alerting algorithm,visual and
+Airbus Customer Services Mode 5 aural discretes signal for both caution and warning alerts,(a
+Senior Design Manager Excessive downward deviation from an ILS (Instrument specific visual and aural discrete signal is sent to the flight
+Airbus Upgrade Services Landing System) glideslope crew for each type of alert,either caution or warning).
+16
+T2CAS - UPGRADING YOUR AIRCRAFT BY COMBINING TCAS AND TAWS IN ONE UNIT
+19
+63
+TSAF
+19
+63
+TSAF
+T2CAS - UPGRADING YOUR AIRCRAFT BY COMBINING TCAS AND TAWS IN ONE UNIT
+TAWS functions
+Mode 2 nuisance alert!
+CCPPAA ddeetteeccttss nnoo tthhrreeaatt
+TCAS functions
+TCAS functions
+The T2CAS-TCAS part corre-
+sponds to a TCAS II change 7.0 in
+compliance with existing regula-
+tions. It is functionally, as well as
+operationally, equivalent to any
+TCAS II change 7.0 installed in TCAS separation areas
+aircraft in–service.
+The TAWS part of the T2CAS - A new aural warning ‘Avoid The system has 3 main functions:
+uses the same cockpit interface as Terrain’alerts the flight crew • Detects close aircraft (equipped
+for EGPWS. In comparison to that the climb capability of the with Air Traffic Control (ATC)
+EGPWS the T2CAS-TAWS offers aircraft may not be sufficient to transponders),
+some significant enhancements: clear the terrain. • Displays possible collision
+• Certified FLTA (Forward - A corresponding red and black aircraft,
+Looking Terrain Avoidance) crosshatched area on ND depicts • Activates vertical orders in
+and PDA functions are the terrain concerned. order to avoid collision.
+ensured by the CPA (Collision • The nuisance prone mode 2
+Prediction and Avoidance) (solely based on measured radio The system is designed to generate
+function in T2CAS. Based on altitude) is inhibited while safe separation between aircraft
+actual aircraft climb FLTA function (the CPA predicted to be on collision trajec-
+capability, the CPA offers the function previously described) tories, while minimizing ATC
+following enhancements: is operative. clearance deviations or excursions.
+TCAS continually surveys the air- TA: Traffic Advisory
+space around the host aircraft by
+Avoid terrain alert TAWS display
+actively interrogating and seeking RA: Resolution Advisory
+replies from the transponders of
+other aircraft in the vicinity. It rec-
+ognizes replies from aircraft
+equipped with ICAO Mode-A,
+Mode-C, or Mode-S transponders
+and determines the range, relative
+bearing, and the relative altitude of
+the other aircraft. Using this infor-
+mation, TCAS predicts flight
+paths, estimates the separation at
+the closest point of approach
+“Avoid terrain” (CPA), and determines if a poten-
+tial conflict exists. If a conflict is
+detected, the system gives guid-
+ance for the optimum vertical
+avoidance manoeuvre.
+18
+21
+63
+TSAF
+T2CAS - UPGRADING YOUR AIRCRAFT BY COMBINING TCAS AND TAWS IN ONE UNIT A NEW CONCEPT FOR SERVICE BULLETINS ADRESSING AIRLINE EXPECTATIONS FOR SERVICE BULLETINS
+Wiring provisions and installation
+T2CAS
+Ground Terrain and traffic avoidance combined Traffic
+collision collision
+avoidance avoidance
+system TAWS + TCAS system
+• Predictive • TCAS 2000
+alerting platform
+• Situation display • Situation display
+• GPWS modes
+Wiring provisions the production line for all pro-
+grammes.
+and installation
+To retrofit the aircraft with a
+Installed at the same rack as the T2CAS, the following prerequi-
+TCAS computer, this upgrade sites have to be installed if not A new concept
+solution is easy to integrate in the available on the aircraft:
+avionics compartment as it uses the • EGPWS provisions
+same peripheral computers as the and the related peripheral
+EGPWS. computers,
+• TCAS Change 7.0, for Service Bulletins
+Airbus delivers 2 Service Bulletins • Compatible mode S ATC
+and the related kits: The first is for transponder,
+wiring provisions and the second for • Pin programming according to
+T2CAS installation. As an option, the aircraft configuration,
+the aircraft wiring provisions for • T2CAS computer and
+addressing airline expectations
+T2CAS can be directly installed on associated antennas.
+for Service Bulletins
+Conclusion
+Airbus has launched a 'Service Bulletin New The project arose from one core idea that led
+Concept' (SB New Concept) project, which Airbus to a new approach to SBs: there is a
+has the objectives to: real need to reduce airlines engineering work-
+The combination of the TCAS and types of Airbus aircraft (except
+• Improve SB communication load generated by SBs.
+TAWS into one Line Replaceable A300 B2/B4) since the first
+Unit (LRU) provides an innovative embodiment for each programme • Ease SB understanding
+CONTACT DETAILS and flexible alternative to the two has been realized between • Reduce airline engineering SB workload
+separate LRUs of the existing February and April 2005: An A320 • Match SBs with airline practices
+Christine VIGIER
+systems. Combining them into was retrofitted at the end of • Minimize aircraft ground-time
+Airbus Customer Services
+T2CAS gives significant February, an A340 at the beginning • Contribute to improving vendor
+Senior Design Manager
+enhancements over some of the of March and an A300-600 at the performance
+Airbus Upgrade Services
+functions of the existing systems, end of April.
+Tel: +33 (0)5 67 19 02 17
+provides a weight decrease and
+Fax: +33 (0)5 62 11 08 47
+christine.vigier@airbus.com furthermore reduces maintenance The system item is scheduled to Annick Pedron
+costs for operators. be available via the Upgrade Customer Services
+Since February 2005, Airbus can Services E-catalogue at the Manager Process,Method & VSB Monitoring
+provide a certified solution for all beginning of 2006. Service Bulletin Department
+21
+63
+TSAF
+20
+23
+63
+TSAF
+23
+63
+TSAF
+A NEW CONCEPT FOR SERVICE BULLETINS ADRESSING AIRLINE EXPECTATIONS FOR SERVICE BULLETINS A NEW CONCEPT FOR SERVICE BULLETINS ADRESSING AIRLINE EXPECTATIONS FOR SERVICE BULLETINS
+How to access event notification services
+A new approach A tremendous number of ideas
+were generated by the analysis
+to SBs
+and services were identified that
+could help in several areas of the
+The project is a completely new airline process, not only in the
+approach to SBs and was initiated ‘engineering preparation’area.
+by key messages from the airline
+community, which led Airbus to The future services defined will
+analyse what could be improved cover the different steps of the SB
+and identify a new concept for integration process, from receipt to
+SBs. The decision to launch the embodiment and cover mainly
+project was taken with some air- Airbus SBs, but will also cover
+lines and workshops were orga- vendor SBs to some extent and
+nized in 2004 to ensure the SB embrace the project objectives.
+New Concept will really match air-
+lines expectations. Improve SB
+communication
+Working together with these air-
+lines, Airbus identified enhance-
+ments to apply to SBs to achieve Airlines would like improved com-
+the project objectives and defined munications with Airbus and are
+future services to be offered. This also interested in sharing experi-
+was done by a collaborative ence with the general airline com-
+approach with the involved munity. This will be achieved with
+airlines, which allowed Airbus a service called ‘General on-line
+to understand and analyse the services’, which started with the
+SB integration process on the air- ‘Event Notification’service avail-
+line’s side (Refer to figure ‘A able on Airbus On-Line Services
+generic view of SB processing at since September 2004. Airlines
+airlines’). registering to the ‘notification sub-
+scription’ are then notified by
+This joint analysis of airline e-mail whenever SBs are made
+activities resulting from the available on Airbus On-Line
+receipt of SBs allowed Airbus to Services (Refer to figure ‘How to
+understand any difficulties the access event notification services’
+airlines could face with handling on the following page) .
+SBs and determine what should
+be changed, what improvements The next step, by the beginning of
+should be required and what new 2006, will be an SB on-line report-
+on-line SB services could be ing service to make the SB accom-
+offered to reduce airline SB activ- plishment reporting activity easier
+ities and make them easier. for airlines.
+Select the
+After this, an SB FAQ (Frequently
+A generic view of SB frequency,
+processing at airlines Asked Questions) and forum will the type of
+be introduced. This will be done as documents
+a second step of the Airbus FAIR and enter
+related
+(Forum for Airline Issues
+e-mail
+Resolution) project in the third
+addresses.
+quarter of 2006. This service will
+offer a forum for discussion, so
+that airlines can share experience
+with other airlines on SB embodi-
+ment. It will also provide an area
+where Airbus will inform airlines
+of queries received and their asso-
+ciated answers, to proactively
+anticipate similar queries from
+other airlines.
+22
+25
+63
+TSAF
+25
+63
+TSAF
+A NEW CONCEPT FOR SERVICE BULLETINS ADRESSING AIRLINE EXPECTATIONS FOR SERVICE BULLETINS A NEW CONCEPT FOR SERVICE BULLETINS ADRESSING AIRLINE EXPECTATIONS FOR SERVICE BULLETINS
+Ease SB tion of photos into SBs to comple- engineers may spend a significant way of working and will be
+ment the current illustrations. The amount of time identifying what addressed by Airbus in three ways:
+understanding
+advantage of photo integration is to impacts a specific aircraft and • Configuration management
+better show the area concerned by reworking an SB into smaller tasks • Detailed task breakdown
+SB implementation can be some- a modification or inspection. for engineering orders to enable • Introduction of hyperlinks
+times time consuming and airlines accomplishment on that aircraft.
+would like Airbus to make SBs The possibility of using a digital Man-hours can be saved by provid- CONFIGURATION MANAGEMENT
+easier to understand to reduce this. mock-up to build movies showing ing airlines with a document in line
+part of the modification for com- with their working practices in the This will ease access to SB data by
+For some complex SBs an addi- plex SBs is also under study. This shape of a ‘fully engineered SB’– introducing management by con-
+tional document called an ‘SB is feasible because Airbus designs meaning an SB ready for an airline figuration, which will harmonize
+booklet’ has been already intro- new aircraft models using 3D com- to use and designed in accordance SB contents and allow data filter-
+duced. This booklet describes a puter aided design, so the 3D views with engineering orders. ing. Using it, airlines can easily
+complete modification in photos could be used to implement a select, consult, extract and down-
+taken during an SB validation on library of movies. This will be The ‘fully engineered SB’ objec- load data concerning their own
+in-service aircraft (Refer to figure applicable only for new aircraft tive is to adapt SBs to the airlines fleet or individual aircraft.
+‘Extracts from SB booklets avail- programmes. How to access SB booklets
+able on Airbus On-Line Services’). on Airbus On-Line Services
+Reduce airline
+These are available now on Airbus
+engineering SB
+On-line Services and are accessible
+from the ‘Service Bulletin workload
+Information’ area of the ‘General
+Information’ service (Refer to This area is the major one of inter-
+figure ‘How to access SB booklets est for airlines and will be covered
+on Airbus On-Line Services’on the by an enhancement known as ‘fully
+following page). engineered SB’. SBs are some-
+times quite complex and can also
+This approach will be further cover several different aircraft con-
+enhanced in 2006 with the integra- figurations. As a result, airline
+Extracts from SB booklets available
+on Airbus On-Line Services
+24
+27
+63
+TSAF
+How to access VSB on
+Airbus On-Line Services
+Other enhancements, related to
+Airbus internal processes, are also
+planned with a VSB on-line scrutiny
+to improve VSB timeliness and accu-
+racy. Airbus is also working with CONTACT DETAILS
+suppliers to make available by the
+Annick Pedron
+end of 2007 all VSBs on Airbus On- Airbus Customer Services
+Line Services and not only those cov- Manager Process,Method &
+ered by an Airbus SB. VSB Monitoring
+Service Bulletin Department
+Tel:+33 (0)5 61 93 28 59
+Fax:+33 (0)5 61 93 42 51
+annick.pedron@airbus.com
+Conclusion
+Continuous improvement is one of The concept is already providing some
+the key objectives of Airbus Customer benefits in SB activities and, as future
+Services and the SB New Concept is a waves of enhancements are implemented,
+concrete example of this. The concept numerous additional benefits will become
+has been defined and implemented in available to airlines to enhance the
+partnership with airlines to ensure SB and efficiency and reduce the costs of their
+associated services enhancements fully SB activities.
+match airline expectations.
+27
+63
+TSAF
+A NEW CONCEPT FOR SERVICE BULLETINS ADRESSING AIRLINE EXPECTATIONS FOR SERVICE BULLETINS A NEW CONCEPT FOR SERVICE BULLETINS ADRESSING AIRLINE EXPECTATIONS FOR SERVICE BULLETINS
+DETAILED TASK BREAKDOWN hours to enable planning of work to
+fit into shift patterns. This break-
+Segmenting accomplishment inst- down approach is now being
+ructions into smaller tasks will applied for any new Airbus SB. For
+accommodate shift work organiza- very complex SBs it allows drastic
+tion and improve flexibility at reduction of the time required to
+embodiment level. Tasks will be prepare work instructions.
+also enriched with information
+such as associated kits, location, The second step, planned for the
+man-hours and skills as this type of first half of 2006, will give
+information is necessary to orga- access to customized SB data,
+nize work on an aircraft. filterable in accordance with fleet
+configurations.
+HYPERLINKS
+The third step, based on a new
+Hyperlinks will allow navigability SB product structure, will further
+between SBs and referenced docu- enhance access to airline data and
+ments, such as the Aircraft will enable navigability with
+Maintenance Manual. other technical manuals through
+new on-line services. This service
+Implementation of the ‘fully engi- is planned to be operational
+neered SB’ is foreseen in several beginning 2007.
+waves, with three major steps, to
+give initial benefits immediately. Minimize aircraft
+ground-time
+The first step introduces manage-
+ment by configuration. SB accom-
+plishment instructions are struc- The ‘fully engineered SB’ will
+tured by configuration to ease minimize aircraft ground-time to
+access to data applicable to a spe- some extent and it will also be
+cific configuration (Refer to figure enhanced by other innovative ser-
+‘Management of accomplishment vices, such as one known as ‘other
+instruction per configuration’) and applicable SBs’. This will enable
+will be broken down according to retrieval of SBs that could be
+the type of work and the work area. embodied at the same time as a
+Whenever possible, breakdown given SB as they involve the same
+will be in tasks of about 3 to 4 zones or access. This offers the
+opportunity to reduce the global
+Management of accomplishment time required for accomplishment
+instruction per configuration of these other SBs if they were per-
+formed separately.
+Improved supplier
+performance
+The airline community expects
+Airbus to be more involved in sup-
+plier activities and contribute to a
+good supplier performance. On-
+line access to Vendor Service
+Bulletins (VSBs) covered by an
+Airbus SB has been operational on
+Airbus On-Line Services since
+April 2005, giving a more effi-
+cient, easier access to VSBs via a
+single point of contact (Refer to
+figure ‘How to access VSB on
+Airbus On-Line Services).
+26
+RFID - SUPPORTING THE AIRCRAFT SUPPLY CHAIN
+1.
+2.
+3.
+1.An RFID reader
+2.RFID tag size
+3.Text name plate with RFID tag
+29
+63TSAF
+RFID - SUPPORTING THE AIRCRAFT SUPPLY CHAIN
+RFID tags are essentially micro- unique identification and history. It
+chips, and mostly referred to as is not sufficient to know the num-
+transponders, tags or RFID chips. ber of units received, but more
+The RFID tags always listen for specifically: where did the part
+radio signals sent by RFID readers. come from, where was it installed,
+When a tag receives a radio query, it how many hours was it operated,
+responds by transmitting its unique who repaired it, who installed what
+identification frequency code and type of software last and so on. It
+data back to the source of the radio requires short distance reading to
+signal. Depending on the required ensure accurate readings, with
+range, the RFID tag works either communication taking place exclu-
+without its own energy source (pas- sively with a single tag at a reading
+sive system) or with its own energy distance within centimetres.
+source (active system). Passive
+RFID tags are powered by the radio The chips used in Airbus applica-
+signal that wakes them up and trig- tions are set today at a capacity of
+gers an answer. 4 kilobytes with dimensions of
+just 8 millimetres (0.31 in.) in
+Today's conventional use of RFID diameter and can be flush metal
+identification requirements are mounted.
+mostly of low data density, while
+the benefit for the aviation industry RFID benefits
+lies in the high data density that is
+needed for tracing. The aviation industry is similar to
+other organizations in looking for
+Data density types
+efficiency enhancements and cost
+savings and the supply chain for
+Which type of data density is spares, tools and similar goods is
+applied depends on the actual task recognised as an area offering
+requirements. potential. Interfaces within supply
+chains and the associated adminis-
+LOW DATA DENSITY tration and information flow are
+areas where efficiency can be sig-
+Low data density is mostly used for nificantly improved through using
+simple information listing, i.e. RFID functionality.
+informing the RFID reader of the
+number of identical items within Among the many advantages of
+one package. Long distance reading RFID over the widely used bar cod-
+for total data capture is possible. ing is its ability to read the data
+Communication with several tags contained in the chip, without line The RFID
+simultaneously under an anti colli- of sight, with the data instantly frequencies applied
+sion system is also possible. The transferred by radio waves. This in different countries of the
+anti collision system enables the allows, for example, reading of
+world:
+reader to receive data from each tag periodical check information of
+on a one-by-one basis. When multi- oxygen masks installed in an air- •The frequency used for
+ple tags are in the same radio fre- craft without the need to take them lowdata densityis from 860
+quency and transmit data together, out from behind ceiling panels. to 950 MHz and typical
+the reader communicates with the deployment is for transport
+tags to prevent the collision of data. Suppliers can use RFID to ensure crates,logistic systems and
+This is, for example, accomplished parts are genuine, reducing the risk warehousing.
+by transmitting a gap pulse. of unapproved parts entering the •The RFID frequency used
+supply chain. for high densityis 13.56
+HIGH DATA DENSITY MHz and is currently the
+Data recorded, such as repair histo- sole frequency recognised
+High data density is used for trac- ry or cycle time information, are and used as standard
+ing of goods when a complete, shared so that the integrity and frequency for RFID
+unambiguous part history is need- dynamic historycan be established, worldwide.
+ed,as in the aviation industry.Each leading to increased maintenance
+component that is traced has a reliability and aircraft safety.
+63TSAF
+RFID
+Radio Frequency IDentification
+Supporting the aircraft supply chain
+Around the world, organizations mandate their This article provides an update on Airbus RFID
+business partners to tag their goods with Radio activities subsequent to the article published in
+Frequency Identification (RFID) devices. For FAST 30. It gives an overview of Airbus RFID
+example, one of the biggest US supermarket activities and achievements and the positive
+chains insists that its top suppliers tag their crates effect of RFID on the aircraft spares supply chain.
+with RFID from 2005 onwards. RFID is an auto-
+mated identification system, which allows touch The article further describes the individual steps
+free identification of goods or shipments within taken towards a total integration of RFID into a
+process control, tracking and tracing as well as companies ERP (Enterprise Resource Planning)
+functions in many other areas of the supply chain. environment and gives information on Airbus
+leading industry activities to define RFID
+RFID is used today in many aspects of daily life, standards.
+such as access passes to security areas, toll pay-
+ment stations, logistics and anti theft protection.
+However, the technological basis applied for such
+purposes is different from the one needed for the
+aviation industry.
+Andreas Teufel
+Airbus Customer Services
+Director Spares Marketing/On-site Support
+Spares Support and Services
+28
+RFID - SUPPORTING THE AIRCRAFT SUPPLY CHAIN
+31
+63TSAF
+RFID - SUPPORTING THE AIRCRAFT SUPPLY CHAIN
+While marking, tracking and shar- marking for safety and authenticity The integration is fully applied for RFID systems that cover Safety in flight aboard
+ing is common in many industries, reasons is recognized, though these and transferable to other RFID identification cards and smart
+commercial aircraft
+the really important aspect for the can depend on the part and its envi- users that want to link RFID to ERP labels and ATA Spec 2000 for
+aviation industry lies in RFIDs ronment. Therefore, permanent systems. definition of data structure
+In cooperation with a European charter airline,
+potential to trace - addressing parts marking must be applied
+Airbus has performed in-flight tests of RFID
+essential safety aspects of parts according to the differing needs, AIRBUS INITIATIVES FOR RFID and
+tags carried on Airbus A320 aircraft.
+originality. Tracing means captur- Airbus actively promotes available RFID STANDARDIZATION
+safety aspects
+During over 6,000 documented flight hours in
+ing the current status of the part technologies such as text nameplates, AND DEPLOYMENT
+and creating its history records. and barcodes and is researching the 12 aircraft,tests were conducted with zero
+possibilities of the RFID technology. The most important objective for For RFID use on aircraft, the main defects.The tag received unlimited approval
+Typical traceable information RFID use is to define an interna- requirement is that RFID devices from the German Airworthiness Authorities
+includes: The benefits of RFID described tional standard for the data fields need to be of high integrity and (LBA) after this successful test,paving the
+•Part history and status, i.e. modi- previously mean that the whole and frequencies. radio frequencystable. way for future airworthiness approval of the
+fications, software versions process can be made quicker, more technology.
+• Calibration efficient and less costly. Therefore, Airbus leads the international National airworthiness authorities
+• Certification Airbus is investigating the possibil- standardization activities through are working on the airworthiness Safety for tag
+• Authorized documents ities of deploying RFID on future active participation at steering approval and regulations policy for
+Resistance to physical impact
+• Updated information aircraft programmes and will con- boards and regular industry confer- passive RFID to be used on board
+• Unambiguous part identification tinue to lead industry activities to ences. civil aircraft. The Federal Aviation Together with EADS Astrium in Bremen,
+standardize RFID, develop new Agency (FAA) issued a policy
+Airbus performed safety tests with RFID tags
+The advantages of tracing have led projects and finally promote wide- Airbus also participates in the guidance memo for 13.56 MHz
+to identify any risk of defect or interference in
+to RFID being widelyintroduced to spread application of RFID tech- ATA Spec 2000 Chapter 9 Task passive RFID on 13th April 2005.
+the hostile environments common in
+manage supply chains from manu- nology where it is applicable under Force, Permanent Bar Code Parts
+commercial aircraft operation.Tags were
+facturing, to shipping, to stocking security and cost effective aspects. Identification and actively pursues Airbus expects the FAA memo to
+store shelves. a continuous dialogue with cus- be followed by similar action from exposed to severe conditions followed by read
+SOFTWARE ASPECTS tomers, suppliers and other aircraft the European Aviation Safety and write experiments.Safety tests included
+The Air Transport Association OF RFID manufacturers. Agency (EASA). temperature changes,chemical liquid
+(ATA) has also added an RFID exposure,humidity,lightning induced
+standard to its Spec 2000 e-busi- Special read/write software for Airbus main objectives are: The main objectives of such a safe- transient susceptibility,electrostatic
+ness applications for the aviation RFID applications was created to • Define harmonized ty policy are that data of parts must discharge,shock and vibration as well as fire
+parts industry. read, write, and add data on the identification information be accessible any time, anywhere, impact.None of the physical impacts had
+chip. As the software is independent, • Develop tag data standards by anyone and need to be in line
+negative effects on the read write
+Airbus vision it can be used with any system • Define passive and active RFID with data protection rights.
+functionality or data integrity.Neither did
+allowing integration into all existing usage in close cooperation with
+for RFID the hostile test environment cause defects in
+data processing systems. regulation authorities Components need to be easily
+the tags.The tag is resistant against a
+• Develop an agreed standard traceable with a full transparency
+temperature range from minus 50°Celsius
+Airbus recognized the potential of Special software is also required to for data exchange between of the product life cycle and the
+RFID early on (see“Airbus’RFID transfer the data into companies different parties while possibility of verifying informa- to plus 70°Celsius,safe against aggressive
+chronology”) and since then has Enterprise Resource Planning sys- considering existing aviation tion on line 24/7 from one central liquids and safe from electromagnetic
+actively led RFID activities in the tem. Airbus uses a specially devel- standards such as ISO secure database. interference (EMI).Certification of conformity
+aviation industry. oped interface for RFID data (International Standards to RTCA DO-160 was received from EADS
+The necessity for permanent parts exchange with Airbus' ERP system. Organization) standards laboratory Astrium Bremen.
+Safety for data access
+An important aspect is authorized password
+protection for data access and modification
+and also to back-up data on the ERP system.
+Safety for part security
+The destruction of a tag needs to be ensured
+if removed from a part or tool.It is essential
+to prevent counterfeit parts equipped with
+tags from scrapped components.Each tag
+must have a valid serial number.
+Manufacturers can use the chip to prevent
+unapproved parts entering the supply chain.
+63TSAF
+Radio frequency
+applications for RFID
+High Frequency (HF):
+13.56MHZ
+Today's sole worldwide standard RFID
+frequency
+Ultra High Frequency (UHF):
+862 - 960MHZ
+Standard frequency range useable for
+RFID,but currently not commonly applied
+worldwide.
+•USA 902-928MHz
+•Europe 865-868MHz
+•Japan 950 - 956MHz
+•Korea 910 - 914MHz
+•Australia 923 - 928MHZ
+•China approx.900MHz
+Airbus' RFID chronology
+1997-RFID deployment on Airbus
+tools for loan service business
+1998-Development of RFID
+infrastructure and application
+1999-Further gain of practical
+experience with operation under RFID
+2002-Airbus initiates global
+standardization activity on RFID in aviation
+2003-Airbus developed book of
+technical requirements for RFID
+2003-ATA Spec 2000 chapter 9 was
+renamed “Automatic Identification &
+Capturing”
+2003-Successful onboard aircraft test of
+RFID with resulting unlimited approval by
+German National Airworthiness Authorities
+(LBA)
+2004-ATASpec 2000:First RFID section
+with basic requirements embodied
+2005-ATA Spec 2000:Mandatory data
+elements are defined
+2006-Airbus Singapore warehouse to
+operate under RFID
+30
+RFID - SUPPORTING THE AIRCRAFT SUPPLY CHAIN
+33
+63TSAF
+RFID - SUPPORTING THE AIRCRAFT SUPPLY CHAIN
+1
+The cycle starts in the ERP
+system with a customer order,
+which triggers an event in the
+SCEM, starting the process.
+The ordered tool is then
+prepared for delivery to the
+customer.
+2
+The forwarder collects the tool
+shipment and updates the
+transportation data in the ERP
+system, resulting in a message
+that creates an event in the
+SCEM. The message is then
+passed via the middleware
+to the RFID reader and written
+on the shipments tag and tool
+box.
+3
+The data is now available elec-
+tronically and online, both on
+the RFID tags and via the
+SCEM capability on the
+Internet and can be accessed
+by the authorized supply chain
+parties.
+4
+When the tool is delivered to
+the customer bythe forwarder, The instant availability of adminis-
+Airbus Loan Process ERP
+the delivery is acknowledged trational data provides better trans-
+Supply chain event Management
+through a mobile device via the parency of the supply chain, there-
+&RFID
+Internet signalling the SCEM by minimizing idle time and
+that the delivery is complete. improving tool availability. The
+The tool data and status is next step will be to integrate cus-
+available in the SCEM and on- tomers and freight carriers into the
+line at every stage in the RFID processes. They will then be
+process enabling efficient ship- able to update the data on the chip
+ment tracking and routing and track the location of a particu-
+between customers, repair shop lar tool using the SCEM via the
+and Airbus warehouses. Internet.
+5
+Once the customer returns the
+tool, the tag on the tool is read
+and the SCEM automatically
+notifies quality inspection by
+email, avoiding any delay in
+the internal process. After this
+a quality inspection and pack-
+ing is carried out. Once this is
+notified, the tool is registered
+as quality inspected and ready
+for delivery again.
+Processes possible today include
+the return of tools to the tool shop
+by customers, transfer of tools
+from warehouse to repair shop, and
+return of tools from repair shop to
+the warehouse.
+63TSAF
+RFID/ERP • Faster loan tool re-availability
+due to streamlined process and
+integration thus reduced stock levels
+• Possibility to completely trace
+at Airbus tools
+the part's history from cradle
+tograve
+for loan service
+• Faster and more accurate loan
+invoicing
+In 1997 Airbus started to deploy
+RFID in its tools business. The HOW IT WORKS
+motivation for this innovative step
+was the intention to provide a bet- The Airbus supply chain manage-
+ter, quicker service to customers by ment activities for tools are based
+improving the efficiency of admin- on an ERP Supply Chain Event
+istration in the tool loan business. Manager (SCEM), which is the
+By introducing RFID, Airbus was central system, functioning
+able to reduce the Turn around between the Airbus back office
+Time (TAT) by over 25% and ERP system and the RFID infra-
+processes throughout the supply- structure consisting of tag, RFID
+chain were accelerated, among reader and middleware. The mid-
+them for good data entries and dleware is a software specifically
+quality inspection due to faster and developed for Airbus to ensure
+more accurate data availability. communication between the RFID
+reader and the SCEM. The SCEM
+As a result, tools managed with is linked to the ERP system via an
+RFID had a higher effective avail- ERP application interface. Using
+ability, in addition reduced paper- an ERP exchange infrastructure,
+work and error rates led to signifi- the management console commu-
+cantly reduced administration. nicates with the RFID middleware
+via an XML (eXtensible Markup
+Some of the other significant Language) interface. The data is
+results included: then written to or read from the tag
+• Higher data accuracydue to via the RFID server.The interface
+automatic data capture and is open to allow incorporation of
+avoidance of carry forward and bar code scanning or other SCEM
+multiplying data entry mistakes or ERP standard interfaces at a
+• Easier, faster and improved later date. The SCEM triggers the
+flow of information between all process and workflows, both inter-
+participants in the supply chain nallyand externally.
+Complete paperwork available on RFID tags Benefits of RFID in
+the tool loan business
+•Last certificate •Dimensions - length,weight,
+•Original receipt number height •Less (or no) paperwork
+•Last check •Owner •Leaner administration
+•Simple and accurate exchange of
+•Original certificate •Next check
+data
+•Part number •Test laboratory
+•Standardized documentation in
+•Tool set •Manufacturer
+compliance with aerospace industry
+•No.of units •Original receipt date vendor
+standard ATA Spec 2000
+•Periodic check code •Last receipt date •Instant availability of all the
+•Serial number •Customs code necessary data with the tool
+•Designation •Shipping information •Repair order on the tag
+•Improved repair management •Net / gross tare •Shipping advice
+•Availability of next shipping address
+32
+RFID- SUPPORTING THE AIRCRAFT SUPPLY CHAIN
+Airbus promotion AIRBUS WAREHOUSE TO OPERATE
+FULLY WITH RFID
+of RFID
+Airbus is evaluating the launch of
+a pilot project for an all RFID
+applications
+warehouse. Once a go-ahead
+decision has been taken, RFID can
+Airbus is actively promoting RFID be introduced in three steps:
+through various projects of the • Tools & ground support
+RFID application, for example in equipment will be equipped
+cargo and luggage handling and also with RFID
+facilitates knowledge transfer on • Repair management and
+these applications to customers quality inspection will be
+through regular conferences. For managed via RFID
+this purpose, Airbus is creating a • RFID will be extended to all
+knowledge database for future cus- spares stored in this
+tomer access. warehouse
+The most important next step is the UNAPPROVED PARTS IDENTIFICATION CONTACT DETAILS
+revision of the ATA Spec 2000 and PROJECT.
+Andreas Teufel general agreement from the FAA Airbus has launched a project
+Airbus Customer Services and EASA. with a university to provide a
+Director Spares Marketing
+means for the identification of
+/On-site Support
+Airbus has started several projects to unapproved parts in aircraft Spares Support and Services
+Tel:+49 (0) 40507 62320 further test RFID technology in the engines through RFID.
+Fax:+49 (0) 40507 62155 aerospace environment. The selec-
+andreas.teufel@airbus.com tion process for the solution RFID IN LOGISTICS FOR
+http://spares.airbus.com
+providers has already started. MANUFACTURING
+Airbus has launched a project
+Carlo K.Nizam
+Airbus Customer Services CERTIFICATION OF RFID TAGS AS with a university to investigate
+Head of Business Systems REPLACEMENT OF YELLOW TAGS and deploy the use of RFID in the
+Improvement Airbus puts great emphasis on the logistics of manufacturing.
+Tel:+44 (0) 11793 64119 elimination of paper documents for
+Fax:+44 (0)11793 65133
+supplier parts. By application of CABIN INTERIOR PARTS carlo.nizam@airbus.com
+RFID, the so-called Yellow Tags Airbus has launched a project to
+Jens Heitmann identifying the quality control equip specific cabin interior parts
+Airbus Customer Services status of a part will no longer be with RFID to support catering
+Head of Systems/Equipment
+required. requirements. Standardization
+Tel:+49 (0) 40743 75991
+Fax:+49 (0)40743 77998
+jens.heitmann@airbus.com
+63
+TSAF
+CUSTOMER SUPPORT AROUND THE CLOCK... AROUND THAE RWTIOCRLLED
+Customer Support Centres
+Training centres Spares centres / Regional warehouses
+Resident Customer Support Managers (RCSM)
+RCSM location Country
+Louisville United States of America
+Luton United Kingdom
+Macau S.A.R. China
+Madrid Spain
+Manchester United Kingdom
+Manila Philippines
+Mauritius Mauritius
+Memphis United States of America
+Mexico City Mexico
+Miami United States of America Milan Italy
+Minneapolis United States of America
+Montreal Canada
+Moscow Russia
+Mumbai India
+Nanchang China
+Nanjing China
+New York United States of America
+Newcastle Australia
+Ningbo China
+Noumea New Caledonia
+Palma de Mallorca Spain
+Paris France
+Paro Bhutan
+Phoenix United States of America
+Pittsburgh United States of America
+Prague Czech Republic
+Qingdao China
+Quito Ecuador
+Conclusion Rome Italy
+Sana’a Yemen
+San Francisco United States of America
+San Salvador El Salvador
+Santiago Chile
+Sao Paulo Brazil
+RFID implementation in the tools loan A future step will be to use RFID Seoul South Korea
+Shanghai China
+service has resulted in significant technology to manage certain groups of Sharjah United Arab Emirates
+improvements in service to customers and aircraft spares. Shenyang China
+reductions in administration.There are Shenzhen China
+Singapore Singapore
+multiple continuing qualitative advantages Airbus will continue heading industry Sydney Australia
+contributing further to efficiency and activities to define and implement industry Taipei Taiwan
+Tashkent Uzbekistan
+administrative reductions.The next steps standards. Tehran Iran
+will be to enable freight carriers to manage Tokyo Japan
+Toronto Canada
+the physical processes of the tool loan Tulsa United States of America
+service by themselves. Tunis Tunisia
+Vienna Austria
+Washington United States of America
+Xi'an China
+Zurich Switzerland
+34
+63
+TSAF
+Customer support
+WORLDWIDE
+Jean-Daniel Leroy
+VP Customer Support
+Tel: +33 (0)5 61 93 35 04
+Fax: +33 (0)5 61 93 41 01
+USA/CANADA
+Philippe Bordes
+Senior Director Customer Support
+Tel: +1 (703) 834 3506
+Fax: +1 (703) 834 3464
+CHINA
+Ron Bollekamp
+Senior Director Customer Support
+Tel: +86 10 804 86161 RCSM location Country
+Fax: +86 10 804 86162 / 63
+Abu Dhabi United Arab Emirates
+Algiers Algeria
+RESIDENT CUSTOMER SUPPORT Al-Manamah Bahrain
+ADMINISTRATION Amman Jordan
+Jean-Philippe Guillon Amsterdam Netherlands
+Athens Greece
+Director Auckland New Zealand
+Resident Customer Support Administration Baku Azerbaijan
+Tel: +33 (0)5 61 93 31 02 Bandar Seri BegawanBrunei
+Fax: +33 (0)5 61 93 49 64 Bangalore India Bangkok Thailand
+Barcelona Spain
+TECHNICAL,SPARES,TRAINING Beirut Lebanon
+Airbus has its main Spares centre in Hamburg, Brasilia Brazil
+and regional warehouses in Frankfurt, Brussels Belgium
+Budapest Hungary
+Washington D.C., Beijing and Singapore. Buenos Aires Argentina
+Cairo Egypt
+Airbus operates 24 hours a day every day. Casablanca Morocco
+AOG Technical and Spares calls. Charlotte United States of America
+Chengdu China
+Colombo Sri Lanka
+Airbus Technical AOG Centre (AIRTAC) Copenhagen Denmark
+Tel: +33 (0)5 61 93 34 00 Dalian China
+Fax:+33 (0)5 61 93 35 00 Damascus Syria
+Delhi India
+support.airtac@airbus.com
+Denver United States of America
+Derby United Kingdom
+Spares AOGs in North America should be Detroit United States of America
+addressed to: Dhaka Bangladesh
+Doha Qatar
+Tel: +1 (703) 729 9000
+Dubai United Arab Emirates
+Fax:+1 (703) 729 4373 Dublin Ireland
+Duluth United States of America
+Spares AOGs outside North America Dusseldorf Germany
+Fort Lauderdale United States of America
+should be addressed to:
+Frankfurt Germany
+Tel: +49 (40) 50 76 3001/3002/3003 Guangzhou China
+Fax:+49 (40) 50 76 3011/3012/3013 Hangzhou China
+Hanoi Vietnam
+Helsinki Finland
+Airbus Training Centre Toulouse, France Hong Kong S.A.R. China
+Tel: +33 (0)5 61 93 33 33 Indianapolis United States of America
+Fax:+33 (0)5 61 93 20 94 Istanbul Turkey
+Jakarta Indonesia
+Jinan China
+Airbus Training subsidiaries
+Johannesburg South Africa
+Miami, USA - Florida Karachi Pakistan
+Tel: +1 (305) 871 36 55 Kuala Lumpur Malaysia
+Fax:+1 (305) 871 46 49 Kuwait city Kuwait
+Lanzhou China
+Beijing, China Larnaca Cyprus
+Tel: +86 10 80 48 63 40 Lisbon Portugal
+Fax:+86 10 80 48 65 76 London United Kingdom
+35
+A DOUBLE-DECKER OF FIFTY YEARS AGO...
+A double-decker of fifty years ago…
+63
+TSAF
+The first flight of the A380 in April 2005
+generated unprecedented worldwide publicity and
+caught the attention of the general public concerning large
+double-deck aircraft.
+However, the A380 is not the first double-deck aircraft, there have been a
+number of them over the years, one of which was the Breguet 763 airliner.
+Design work on this aircraft started in 1936 with the Breguet 730 prototype, but was
+postponed due to the Second World War. In 1946, work started again and the prototype,
+designated Breguet 761, made its first flight at Villacoublay in France on 15 February 1949.
+A heavier version was then introduced, designated the 763 Provence, which was destined for
+Air France and flew mainly on the route from Paris to Algiers from 1953 to 1971.
+A final version of the aircraft, the 765 Sahara, was built for the French Air Force and flew for
+the first time in July 1958. This version was heavier, modified for military use and had longer
+range. It remained in service until 1969 when the Transall replaced it.
+In its day, it was an impressive aircraft, but a comparison of its characteristics with the state-of-
+the-art A380 shows just how far the aviation industry has come in the fifty-six years since this
+double-decker first flew.
+The Breguet 765 characteristics were:
+Wingspan: 45.5m (149ft)
+Length: 29m (95ft)
+Height: 10.15m (33ft)
+Speed: 400km/h (250 miles/hour)
+Range: 4000km (2,500 miles)
+Payload: 17t freight or 130 passengers
+Flight crew: 5
+36
+.ecnarF
+riA
+fo
+ysetruoc
+yB
+”ecnarF
+riA
+eésuM
+noitcelloC“
+otohP
+www.airbusworld.com
+AIRMAN AIRcraft Maintenance ANalysis.
+He’s flexible and adaptable. He can’t leap tall of in-service live data checks. He can provide
+buildings in a single bound but he can run a fleet analysis of available data and
+of aircraft. He’s AIRMAN: A unique software tool access to all relevant information
+designed to optimise the maintenance of your fleet. He can save millions. For more
+Always handy to have around, AIRMAN can reduce contact Airbus Customer Services
+aircraft turnaround time. He can provide millions Airbus. Setting the standards

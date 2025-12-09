@@ -1,0 +1,1430 @@
+T
+S
+E
+G
+I
+D
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+4
+3
+T
+S
+A
+F
+34
+J U L Y 2 0 0 4
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+This issue of FAST marks the end of an era - it is the last FAST which will Denis Dempster,
+be produced under the guidance of our editor Denis Dempster. Denis, who is Agnès Massol-Lacombe
+retiring in the summer, has been FAST editor almost since the beginning, taking and Kenneth Johnson
+over from the third issue. His first issue of FAST was in 1984, when Airbus had
+only the A300 and A310 aircraft in service. Since then, the A320 and A330/A340
+aircraft families have gone into service, with a resulting increase of articles
+covering their advanced technology. Denis has seen FAST through the expansion
+of the Airbus family and the ups and downs of our industry. He has unfailingly
+produced excellent, informative and well received articles, which is confirmed
+by the results of the survey enclosed in FAST 33. These results give very high
+scores for the level of content, readability, attractiveness and quality of FAST.
+Denis brought exceptional abilities, patience and humour to FAST and he will
+be sorely missed, but after 49 years in the industry, his retirement is well earned,
+so my colleagues and I here in Airbus would like to thank him for his
+exceptional work and wish him well in his retirement. I feel confident that you,
+the readers of his work over the past 20 years, will feel the same and therefore
+we will wish him well on your behalf.
+We are fortunate that Agnès Massol-Lacombe, who is the art director of FAST
+and has worked on it since the beginning, will carry on with us to provide
+continuity in the future with our new editor. Agnès provides the artistic
+organisation, which makes FAST the attractive magazine it is, confirmed by the
+survey mentioned above.
+Our new FAST editor is Kenneth Johnson. Kenneth has wide and long
+experience of the commercial aircraft industry from propjet airliners, through
+Concorde to the fly-by-wire airliners of today. He has over 20 years experience
+with Airbus aircraft, having been involved with all of them from the A300 to the
+A340, both in France and Germany. His experience covers various technical and
+industry areas including structural, cabin, electrical and avionic systems and he
+has spent the last 17 years here in Toulouse involved in the production of
+technical, communication and marketing documents for Airbus Customer
+Services. He, Denis and Agnès have worked together in the production of this
+FAST to ensure a smooth handover and Kenneth will take over as FAST editor
+for future issues.
+I and my colleagues welcome Kenneth to the Airbus Customer Services
+Communications team and wish him well in his new task.
+Bruno Piquet,
+FAST Publisher
+J U L Y 2 0 0 4
+Publisher:Bruno Piquet
+Editors:Denis Dempster & Kenneth Johnson
+Graphic designer:Agnès Massol-Lacombe
+assisted by Cécile Lahaye - Sonovision
+Customer Services Communication
+Tel: +33 (0)5 61 93 43 88
+Fax: +33 (0)5 61 93 47 73
+E-mail: fast.digest@airbus.com
+Printer Escourbiac
+FAST may be read on Internet http://www.airbus.com
+under Customer Services/Publications
+ISSN 1293-5476
+This issue of FAST has been printed on paper
+produced without using chlorine,to reduce
+waste and help conserve natural resources.
+Every little helps!
+T
+S
+E
+G
+I
+D
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+34
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+Aging aircraft electrical systems investigation 2
+Airbus recommendations to enhance the design &
+maintenance of aircraft electrical wiring systems
+Dominique Chevant
+Electrical protection devices 11
+Avoiding overheating
+Jean-Luc Barré
+Patrick Scudier
+How to tackle bleed air leaks 18
+Improving durability of seals on hot air ducts
+Patrick Grave
+Customised Spares Logistics 23
+A new Airbus concept based on supply chain
+experiences
+Helmut Diekhoff
+Andreas Teufel
+Aircraft Systems Maintenance Aids 28
+available from Airbus
+A380 accommodation at airports 30
+Airbus Customer Services events 31
+From the archives... 100 years ago 32
+Customer Services 33
+Around the clock… Around the world
+Airbus Customer Services
+© AIRBUS 2004. All rights reserved
+The articles herein may be reprinted without permission except where
+copyright source is indicated, but with acknowledgement to Airbus.
+Articles which may be subject to ongoing review must have their accuracy verified
+prior to reprint. The statements made herein do not constitute an offer. They are
+based on the assumptions shown and are expressed in good faith. Where the
+supporting grounds for these statements are not shown,
+the Company will be pleased to explain the basis thereof.
+Photo cover © Airbus - Computer graphic by I3M
+Photographs by Hervé Bérenger, Hervé Goussé and Philippe Masclet
+43
+TSAF
+1
+AGING AIRCRAFT ELECTRICAL SYSTEMS INVESTIGATION AGING AIRCRAFT ELECTRICAL SYSTEMS INVESTIGATION
+43
+TSAF
+3
+43
+TSAF
+BACKGROUND TASK 1
+SAMPLING INSPECTION OF THE
+The investigation into a fatal acci- FLEET
+dent on 17 July 1996 resulted in a
+heightened awareness of the impor- The first working group conducted
+tance of maintaining the integrity an in-depth survey of the condi-
+of aircraft and, in February 1997, tion of the electrical wiring in an
+the US White House Commission aging aircraft fleet. This sampling
+on Aviation Safety and Security program included a non-intrusive
+(WHCSS) recommended to the inspection of the electrical wiring
+Federal Aviation Administration on 81 in-service aircraft (eight air-
+(FAA) to work in cooperation craft types selected: B727, B737,
+with airlines and manufacturers B747, DC-8, DC-9, DC-10, A300
+to expand the FAA’s Aging and L1011) and an intrusive evalua-
+Airplane Programme to include tion of the electrical wiring
+Aging aircraft
+non-structural components. removed from six decommissioned
+aircraft, with additional laboratory
+In July 1998, the FAA issued the analysis of wiring samples.
+Aging Transport Non-Structural
+electrical systems Systems Plan to address the A total of 3,372 notable items were
+WHCSS recommendation. The found during the survey, most of
+Aging Systems Plan focussed them were related to maintenance
+specifically on wiring systems. activity, passage of personnel, lack
+of housekeeping and/or inadequate
+investigation
+To help fulfil the actions specified protection. Fluid or chemical cont-
+in this Aging Systems Plan, the amination, significant dust, lint
+FAA set-up an Aging Transport and metal shavings were seen on
+Systems Rulemaking Advisory most aircraft.
+Committee (ATSRAC), which is
+AAiirrbbuuss rreeccoommmmeennddaattiioonnss
+composed of key members of the None of the observed items were
+aviation industry, to give recom- determined to be issues affecting
+ttoo eennhhaannccee tthhee ddeessiiggnn && mmaaiinntteennaannccee ooff
+mendations on aircraft safety aircraft or personnel safety and no
+issues and propose enhancements immediate airworthiness issues
+aaiirrccrraafftt eelleeccttrriiccaall wwiirriinngg ssyysstteemmss to current procedures. were noted. However, for reasons Wire failures are known
+of repeat occurrences in the same to be contributory factors
+ATSRAC PHASE 1 general area, 182 items were in some aircraft incidents
+Aircraft systems, including electrical wiring systems, Security, chaired by Vice President Gore, thought to be “Significant”. and wire related failures
+are becoming more and more complex and electrical the US Federal Aviation Administration and industry ATSRAC focused its efforts on jet Additional engineering analysis can be attributed to
+wires and their associated components are becoming representatives are working together to determine transport category aircraft whose was conducted to propose solu- multiple factors. These
+increasingly important with respect to aircraft whether existing design and maintenance practices type certificates were at least 20 tions as necessary via either include, but are not
+systems that are necessary for safe flight. There has may be improved to ensure the continued years old and in 1998 was given maintenance enhanced inspection limited to: localised heat
+been, and continues to be, events associated with wire airworthiness of older aircraft. five major tasks. They included guidelines and processes and/or damage, breached wire
+failures, and aging wiring has become a key issue collecting data on aging electrical Service Bulletins (SBs). insulation, embrittlement,
+that transcends individual federal agencies. This is being done under the “Aging Transport wiring systems through aircraft chafing, arcing, reduced
+System Rule making Advisory Committee” inspections, reviewing aircraft The result of this analysis with insulation resistance,
+As a logical follow-on to a 1997 recommendation by (ATSRAC) activities. manufacturer’s fleet service history, regard to five fixes for the A300, defective or broken
+the White House Commission on Aviation Safety and reviewing operator’s maintenance and the availability status for each, connectors. Nevertheless,
+criteria, standard practices for elec- is provided in table1. problems associated with
+trical wiring and repair training systems on aging aircraft
+programmes. The evaluation of the survey are not completely related
+results and findings indicated that to the degradation of wire
+To accomplish these tasks in many cases, the current design, over time. Wire system
+ATSRAC chose to establish five maintenance and modification degradation could also
+separate working groups com- procedures could identify existing result from inadequate
+Dominique Chevant posed of ATSRAC members and or potential electrical wiring design, installation,
+Aircraft Aging Systems Manager
+industry representatives, to provide problems. However, the survey maintenance and
+Customer Services Engineering
+technical support in conducting confirmed that these inspection modification practices.
+analyses and developing recom- procedures could not always pre-
+mendations. vent an actual or potential wiring
+2
+AGING AIRCRAFT ELECTRICAL SYSTEMS INVESTIGATION AGING AIRCRAFT ELECTRICAL SYSTEMS INVESTIGATION
+43
+TSAF
+5
+43
+TSAF
+Table 1- A300 inspection and modification status
+problem from occurring. Specific In order to ensure that wiring systems
+recommendations included enhan- are adequately addressed during
+Significant item Status References
+cement of scheduled maintenance development of a maintenance pro-
+programmes, improved training gramme, the team developed an
+1. Clamp slippage - Inspection Service Bulletin (ISB) issued 21-Feb-03 with compliance recommended to assess clamp ISB 24-0094
+on rod .. dated 21-Feb-03 programmes, and enhanced pro- Enhanced Zonal Analysis Procedure
+- ESPM 20 Repair section provides enhanced technical process for improved gripping of the clamping ESPM 20-52-13 cedures for wiring protection, (EZAP) that complements existing
+attachment when found loose.
+cleaning and routing. procedures used to develop Zonal
+Inspection Programmes. The logic
+2. Bundle sagging - Enhanced inspection guidelines as per Task 3 report will be introduced in MPD section Introduction. MPD-Intro
+- ESPM 20 Repair section provides enhanced inspection criteria for bundle sagging and technical process ESPM 20-52-13 TASK 2 process assesses each aircraft zone
+for repair as necessary
+REVIEW OF FLEET SERVICE that contains wiring and, through a
+HISTORY series of questions, determines the
+3. Conduit clamping - Enhanced inspection guidelines as per Task 3 report will be introduced in MPD section Introduction. MPD-Intro need for tasks to minimize the
+at conduit end - ESPM 20 Repair section provides grommet clamps alternative to metal clamps at the end of convoluted ESPM 20-52-13
+This second task was to review presence of combustible material
+conduits.
+existing service data, such as manu- (cleaning tasks), and the need for
+facturer’s Service Bulletins, manu- either stand alone GVI’s or dedicated
+4. Bundle at - Modification Service Bulletin (MSB) (Mod. 12432/D21880) issued 15-Jan-03 with compliance MSB 24-0096
+facturer’s Service Information Detailed Inspections of specific
+panel 811VU recommended, to introduce additional bundle protection and attachment. dated 15-Jan-03
+- Illustrated Parts Catalog (IPC) will reflect the latest installation configuration as per MOD/SB embodiment (IPC 31-16-12) Letters, All-Operators Telexes, wiring installations in addition to
+& reporting process for IPC revision. Operator Information Telexes, and GVI’s performed as part of zonal
+the fleet history relating to aircraft inspections.
+5. Bracket unstuck - Mod SB (Mod 12431/D21879) issued 15-Jan-03 with compliance recommended, to introduce riveted MSB 24-0097 electrical wiring.
+at panel 800VU brackets. dated 15-Jan-03 TASK 4
+- Illustrated Parts Catalog (IPC) reflects the latest installation configuration as per MOD/SB embodiment (IPC 31-16-11)
+& reporting process for IPC revision. Each aircraft manufacturer STANDARD PRACTICES FOR
+reviewed thousands of documents ELECTRICAL WIRING
+to determine the need for specific
+recommendation, or upgrade of The task of this working group was
+compliance. As far as Airbus air- to review any documentation related
+Table 2 - Service Bulletins upgraded from “Recommended” to “Mandatory” craft are concerned, three A300 SBs to wiring standard practices, which
+were proposed for compliance is used to inspect or repair aircraft
+change, from “Recommended” to wiring, and to identify areas for
+SB reference Issue date Title References of “Mandatory” (seeTable2). possible improvement.
+A310 and A300-600 SB
+In addition five A300 SBs were The main working group recom-
+24-0053 14-Apr-81 Electrical power - Pylon - Inspection of feeder cables 24-2021 Rev 7: 31-Jul-02
+Rev 7 31-Jul-02 24-6011 Rev 6: 31-Jul-02 issued with a “recommended” mendations were to all aircraft
+compliance instead of “Desirable” manufacturers to adopt a common
+24-0079 15-Mar-93 Improve tightening of APU starter feeder terminal blocks 24-2045 Rev 6: 25-Feb-03 or “Optional”. When applicable, document format including the
+Rev 3 25-Feb-03 24-6034 Rev 4: 25-Feb-03 the A300 recommendations were same standard practices for care
+validated on A310/A300-600 air- and maintenance of wiring systems.
+24-0083 25-Feb-94 Inspect and repair wiring looms in wing/pylon inter face area 24-2052 Rev 5: 31-Jul--002 craft (seeTable2).
+Rev 4 31-Jul-02 24-6039 Rev 8: 31-Jul-02 TASK 5
+TASK 3 INSPECTION AND REPAIR
+Service Bulletins upgraded from "Desirable" or "Optional" to "Recommended" IMPROVEMENT OF MAINTENANCE TRAINING
+CRITERIA
+SB reference Issue date Title References of The fifth task consisted of reviewing
+A310 and A300-600 SB
+Using knowledge gained from airline and repair station training
+Task 1, the third working group programmes for inspection and
+24-0085 12-Dec-94 Improve strength of the electrical bundles at flap screw jack 24-6043 Rev 4
+Rev 5 06-Mar-01 issued 06-Mar-01 addressed maintenance practices repair of non-structural systems, to
+and the effectiveness of maintenance ensure that they adequately covered
+25-0119 22-Dec-78 Improvement of wire bundle protection in FWD cargo compartment N/A programmes. Recommendations aging wiring system components.
+Rev 6 13-Nov-00 were developed to enhance general The working group confirmed that
+practices concerning in-service training programmes should be
+27-0100 26-Jun-78 Rerouting of wire assembly 813 VB between FR 84 V - strut and variable lever N/A handling of electrical wiring. enhanced in the area of wiring
+Rev 4 13-Nov-00 arm unit These included guidance on the maintenance practices and deliver a
+minimisation of contamination standardised training curriculum
+28-0057 21-Jun-78 Installation of thermo shrinkable tube for protection of fuel pump feeders N/A during repairs/servicing and an containing a series of recommended,
+Rev 2 08-Jan-01 enhancement of inspection crite- detailed lesson plans covering addi-
+ria, particularly with respect to tional training for aging systems. The
+53-0046 29-Jun-78 Improve wiring installation between FR 25 and FR 31 in the cargo compartment N/A improving the effectiveness of content would be adjusted for any
+Rev 2 13-Nov-00
+General Visual Inspections model of aircraft and student skill
+(GVIs). level.
+4
+AGING AIRCRAFT ELECTRICAL SYSTEMS INVESTIGATION AGING AIRCRAFT ELECTRICAL SYSTEMS INVESTIGATION
+43
+TSAF
+7
+43
+TSAF
+ATSRAC five tasks and subsequently wiring systems, and to combine arrangement of Standard Wiring
+PHASE 2 assigned four additional tasks to these current regulations into one Practices make it difficult to locate
+ATSRAC in January 2001. These section. and extract pertinent data neces-
+The results and recommendations new tasks were intended to facili- sary for electrical repairs. The team
+from the above initial tasking indi- tate implementation of earlier rec- The product for this working therefore defined a standard for-
+cated that problems associated ommendations. As a result, four group was the creation of a new mat and minimum content of the
+with wiring systems on aging air- new working groups were estab- FAR/JAR Part 25 Subpart H that Electrical Standard Wiring
+craft were not completely related lished. contains all existing Part 25 Practices Manual (ESWPM) so
+to the degradation over time of requirements, including the cre- that aircraft maintenance techni-
+wiring systems. The review of TASK 6 ation of new requirements for cians can easily use manuals from
+these systems also found inade- ADDRESS THE NEED FOR NEW wire system safety assessment, different manufacturers.
+quate installation and mainte- WIRE SYSTEM CERTIFICATION wire separation and wire identifi-
+nance practices could lead to what REQUIREMENTS cation. An Advisory Circular was In addition, the working group pro-
+is commonly referred to an “aging developed to support these new/ posed that paper-based legacy doc-
+system” problem. Therefore the Specifically, Task 6 was formed to proposed regulations. uments be upgraded to reflect for-
+scope of ATSRAC is not limited address wire related certification mat and content. Nevertheless,
+solely to age-related issues, but issues. The working group was TASK 7 documents created and used in
+also involves improving the con- therefore tasked to review all pre- ADDRESS THE NEED FOR AN electronic form, and because of the
+tinued airworthiness of aircraft vious recommendations in the ELECTRICAL STANDARD WIRING searchable nature of the electronic
+systems, and in particular wiring Code of Federal Airworthiness PRACTICES MANUAL document, need not implement a
+systems. Regulations (FAR) 14 Part 25, in standardized format. The structure
+Joint Airworthiness Regulations At the conclusion of the Task 4 of these electronically-based docu-
+The FAA accepted the ATSRAC (JAR) Part 25 and ATSRAC, to report, the working group stated ments is in fact transparent to the
+recommendations from the first identify all requirements related to that the current presentation and user.
+6
+AGING AIRCRAFT ELECTRICAL SYSTEMS INVESTIGATION
+43
+TSAF
+AGING AIRCRAFT ELECTRICAL SYSTEMS INVESTIGATION
+TASK 8 part now of a new ATSRAC task. to provide technical support to to take over from the AMM
+ENHANCED TRAINING However, it is likely that aircraft develop recommendations on Chapter 20. A generic Electrical
+PROGRAMME FOR ELECTRICAL manufacturers will have to develop these tasks: Standard Practices Manual (ESPM)
+WIRING SYSTEMS EZAP within 24 months after the was launched in April 2001. This
+rule goes into effect. Then, opera- • Assemble technical and new manual encompasses the old
+Previous tasking to ATSRAC tors are likely to be required to economic information and Chapter 20 and new chapters like
+resulted in recommendations incorporate the EZAP tasks into alternatives to the previous standard inspection tasks, cleaning
+regarding the need for develop- their maintenance programmes recommended actions, identify tasks, electrical component repair
+ment of an enhanced training within one year after EZAP the minimum set of training to and replacement procedures, etc, to
+programme addressing wiring sys- development. support EZAP and provide make easier the application of
+tems. In continuity with these pre- recommendations on the wiring inspection. This manual was
+vious recommendations, a wiring FAA ACTION PLAN extension of EZAP applicability lately updated to improve recom-
+maintenance training programme to STC installations. mendations regarding wiring instal-
+was developed including wire sys- The ATSRAC efforts are part of an • Review and develop lation and protection and to add
+tem practices and documentation, overarching plan developed by the implementation plans for guidelines on wiring separation.
+inspection, applicable repair FAA. This Enhanced Air- viable tools and methods
+schemes, wiring modifications and worthiness Programme for resulting from ongoing FAA ELECTRICAL WIRING
+wiring repairs. This training is cus- Aircraft Systems (EAPAS) out- research programme. INTERCONNECTION SYSTEMS
+tomised for different target groups lines the recommendations of the COURSE
+and could be used for initial and ATSRAC but is also intended to Completion of the above tasks is Airbus Training Division has
+refresher training. focus on all aircraft systems, expected by January 2005. Never- developed a wiring training course
+including mechanical systems, theless, the overall FAA Aging based on the ATSRAC Task 5 and 8
+TASK 9 which will undergo detailed evalu- Aircraft programme encompasses recommendations. This training
+IMPLEMENT AN ENHANCED ation after wiring systems. The numerous rulemaking programmes called “Electrical Wiring Inter-
+MAINTENANCE PROGRAMME current focus of this programme (Fuel Tank Safety Operational Rules, connection Systems” course is to
+FOR WIRING SYSTEMS resolves around aging wiring sys- Aging Systems, Aging Structure, help operators better understand
+tems and provides strategies for Widespread Fatigue Damage, and maintain their aircraft electri-
+This working group was tasked to how the FAA and industry will Corrosion Prevention Control cal installation. This course is cus-
+propose regulatory text and sup- work to improve the airworthiness Programme), which may result in tomised to cover all Airbus aircraft
+porting advisory material to of wire systems through near-term several rulemakings that require per- and incorporates practical and
+reflect the recommendations pro- and long-term actions, with the formance of non-scheduled mainte- hands-on sessions to teach techni-
+vided in the earlier Task 3 report. intent to disseminate the products nance checks. The FAA therefore set cians how to adequately evaluate
+thorough the industry. up a “Tiger Team” to review imple- the wiring system and effectively
+In its original concept, the mentation methods and compliance use the applicable aircraft wiring
+Enhanced Zonal Analysis The EAPAS also includes an times with the objectives to develop practices documentation.
+Procedure (EZAP) envisioned an extensive Aging Electrical System an integrated plan to align all rule-
+analysis of all wiring installed in Research Programme. This pro- making programmes and to priori- AIRBUS EZAP POLICY
+zones in which combustible mate- gramme is intended to conduct tize rules if necessary. The “Tiger AND PROCEDURES
+rials may be present. The logic research into aging wiring systems Team” results are not yet available Airbus has initiated the process of
+would identify where additional to determine mechanisms that but publication of the Notice of developing EZAP for all their
+repetitive tasks in these zones drive the aging process, develop Proposed Rulemaking and Advisory aircraft types. Airbus is currently
+would minimise accumulation of tools to better inspect and maintain Circulars is not expected before mid testing application of the EZAP
+these materials and/or would wiring, and develop technologies 2005. on a sample of aircraft includ-
+improve the likelihood that wiring that mitigate the hazards associated ing A300/A310, A320 and
+system degradation, including age with wiring failure. AIRBUS ACTION A330/A340 families. The
+related issues, will be identified Airbus EZAP policy and proce-
+and corrected in a timely manner. The FAA is now considering the Airbus has supported ATSRAC dures have been presented to
+ATSRAC recommendations on the since 1998 through active partici- and accepted by all Industry
+Analysing all wiring retrofitted second set of tasks forwarded in pation within the ATSRAC com- Steering Committees and with
+into the aircraft under November 2002. The FAA recog- mittees and various working the exception of the A300,
+Supplemental Type Certificate nized the benefits that ATSRAC groups and has already initiated the will be applied to all Airbus types
+(STC) modifications, was deemed provided through previous tasking following actions: through the Maintenance Review
+not cost beneficial when com- and therefore requested that com- Board (MRB) process. Depending
+bined with the recommended mittee’s assistance throughout the ELECTRICAL STANDARD on the aircraft type, final validation
+training for technicians. EAPAS rulemaking process. PRACTICES MANUAL of EZAP procedures are scheduled
+Mandatory implementation of Therefore, the FAA requested To anticipate ATSRAC Tasks 4 and from mid 2004 till mid 2005.
+both EZAP and Electrical Wiring ATSRAC in April 2003 to manage 7 recommendations, Airbus decid-
+Training is therefore still under additional tasks and ATSRAC ed to develop a new electrical For the A300, new and modified
+discussion within the FAA and is formed two new working groups standard wiring practices manual tasks that are recommended to be
+8
+43
+TSAF
+9
+43
+TSAF
+In spite of the precautions taken in the selection of This article presents three families of electrical
+aircraft electrical cables and their installation, protection devices:
+unforeseen overheating may occur. Overheating may
+also be due to an abnormal electrical load on a piece of • Thermal Circuit Breakers (CB),
+equipment. This could then result in the total or partial widely used to date,
+de-activation of the electrical installation owing to a • Arc Fault Circuit Breakers (AFCB),
+short circuit, so electrical installations must be under development,
+protected against this hazard. To this end, electrical • Solid State Power Controller (SSPC),
+circuit protection devices achieve this function. introduced with A380.
+Jean-Luc Barré Patrick Scudier
+Aircraft Electrical Installation and Standard Items Aircraft Electrical Installation and Standard Items
+Customer Services Engineering Customer Services Engineering
+11
+43
+TSAF
+AGING AIRCRAFT ELECTRICAL SYSTEMS INVESTIGATION ELECTRICAL PROTECTION DEVICES
+added to operator's programs will be • confirm the material selection,
+promulgated by an SB expected mid • confirm the predicted
+2005. All new recommendations performance of the complete
+will be included in the MPD revi- electrical wiring installation and
+sion following publication of the SB to update if necessary the
+(for A300) and revised MRB inspection and repair processes.
+Reports (for all other types).
+All inspections confirmed the
+ELECTRICAL INSTALLATION robustness of both A300 and
+MATURITY REVIEW A320 family electrical installation
+In addition to the above actions, and but also provided valuable infor-
+to anticipate ATSRAC future mation in respect to technology
+requirements, Airbus decided in with regards to certain electrical
+2000 to launch an electrical installa- components, wiring installation
+tion survey programme on early and operators’ maintenance prac-
+A320s, called Electrical Installation tices. They also confirmed the
+Maturity Review (EIMR). need for increased awareness
+among electrical maintenance
+In fact, Airbus initiated its own personnel of the importance of Electrical
+Aging Aircraft Electrical Installa- wiring installation (and specifi-
+tion Survey programme in 1992 cally wiring segregation on fly-
+with the A300 (See “Aging – The by-wire aircraft) and to improve
+Electrical Connection”, FAST ESPM for wiring installation and protection devices
+n°14 Feb 93 and FAST n°18 Jun separation guidelines.
+95). As well as for the A300, the
+A320 EIMR programme consists Both studies also highlighted the
+of wiring inspections of a sample need to do this type of review on
+of in-service aircraft to ascertain other Airbus aircraft types.
+It is widely recognized in the electrical industry
+the condition of the complete Inspection of the A310 and
+wiring installation, and to collect A300-600 aircraft has been that wiring has to be protected against overheating.
+and use data with the intent to: recently initiated and other
+Aircraft electrical circuits are no exception,
+Airbus aircraft types will follow
+• confirm the wiring installation in sequence.
+as this article explains.
+design principle and improve if
+necessary the present electrical
+design,
+Conclusion
+CONTACT DETAILS The FAA has launched an Airbus is fully participating
+important programme on aircraft and supporting the FAA advisory
+Dominique Chevant
+systems aging to enhance the committee tasks and follow-up
+Aircraft Aging Systems Manager
+current aircraft systems efforts. In addition, aircraft
+Customer Services Engineering
+airworthiness programmes manufacturers are coordinating
+Tel:+33 (0)5 61 93 29 28
+Fax:+33 (0)5 61 93 44 25 and ATSRAC was requested to ensure a continuing consistent
+dominique.chevant@airbus.com to develop, co-ordinate and programme support and
+follow-up the implementation of communication to their
+the enhancements related to the customers.
+design and maintenance of
+aircraft electrical systems and
+associated documentation and
+training.
+10
+43
+TSAF
+ELECTRICAL DEVICES PROTECTION EELLEECCTTRRIICCAALL DDEEVVIICCEESS PPRROOTTEECCTTIIOONN
+Overheated 50Amp CB
+One pole CB
+THERMAL CIRCUIT cockpit and in the bulk cargo com- A high number of the overheats
+BREAKER partment. This is why monitoring experienced on 50Amp CBs were
+means are required to enable the found to be due to insufficient One topic of the FAA Aging
+A thermal CB will cause the circuit crew to check CB status. The tightening of attachment screws Electrical Systems Research
+to open when a predetermined cur- CBMU (Circuit Breaker Monito- leading to loose connections. The Program (refer to the “Aging aircraft
+rent is detected. The circuit open- ring Unit) linked to each circuit wire terminals should be tightened electrical systems” article page 2 to
+ing is achieved by a thermal sens- breaker auxiliary contact allows to the correct torque value given in 10) focused on aging circuit break-
+ing element (e.g. bi-metal) whose monitoring of individual circuit the AMM (Aircraft Maintenance ers. In November 2002 the FAA
+Not monitored Monitored
+characteristics are dependent on the breakers. The principal functions Manual) chapter 20-21-12 or ESPM issued a report ref. DOT/FFF/
+current. of the CBMU are: (Electrical Standard Practices AR-01/118 that provides technical
+Manual) chapter 20-46-10. data for a series of tests on circuit
+These CBs are selected according • acquisition of the circuit breakers removed from several
+to their: breaker position, The high number of reports of retired large transport aircraft.
+Three pole CB
+• monitoring of the circuit 50Amp CBs tripping has resulted
+• tripping time with respect to breaker, 50AMP CBs in a number of corrective improve- The results of the study indicated that
+the current intensity, • circuit breaker identification and ON A300/A310 FAMILY AIRCRAFT ments and inspections such as: circuit breakers installed in aircraft
+• compensation with respect to transmission to the ECAM Ref. Documents: with extended service life will con-
+the ambient temperature. (Electronic Centralised Aircraft AOT 24-08, OIT 999.0077/99, SIL 24-045, • decrease of electrical load of tinue to protect the electrical wire
+Monitor) to build CB page TFU 92.00.00.006 some AC (alternating current) provided there is a more controlled
+These characteristics are specific to display, Bus bars (Mods 8648 & 11134), evaluation of circuit breaker aging.
+each CB and are given in the • proper functioning of the built- On Airbus A300/A310 family • installation of a larger wire The report makes several recommen-
+Airbus Standards Manual. in-test-equipment (BITE). operators have reported 50Amp gauge on some CBs dations aimed at improving the relia-
+CBs tripping or being overheated. (Mod11332), bility of circuit breakers, and reduc-
+The CBs can be of three poles In the event a circuit breaker trips Investigations revealed the fol- • inspection of the most heavily ing maintenance related problems,
+(115VAC three-phase) or single (disconnects), a warning signal is lowing causes: loaded 50Amp CBs, including:
+pole (28VDC or 115VAC single- generated on the ECAM and EWD • replacement of the existing
+phase). In addition to the main con- (Engine/Warning Display). The • possible high load in certain 50Amp CBs by improved • periodic cycling of circuit
+tacts (used in a power circuit), cir- crew can then call up the circuit configurations, ones. breakers,
+cuit breakers may have auxiliary breaker tripped list on the SD • temperatures up to 180°C at • inspection of circuit breaker
+contacts that are used to make a (System Display). circuit breaker terminal strips The latest standard is part num- panels for loose or broken
+permanent check of the main con- causing burn marks on the ber NSA931323-501 hardware, incorrect wire
+tact position. For other aircraft types (A300/A310 casing, Amendment B. attachment, overheating and
+and A320 family aircraft) most of • variation of circuit breaker electrical arcing.
+CB MONITORING the CBs are located in the cockpit. tripping characteristics due to TRIPPED CB REENGAGEMENT
+However, monitoring of some CBs malfunction of the Ref. Document: OIT/FOT 999.0172/99 The FAA is now considering these
+On A330/A340 Family aircraft the is performed via various methods of temperature compensation recommendations and is expected to
+CBs are located in the avionics CB status acquisition depending on function, The likely cause for CB tripping is provide guidance material that rec-
+compartment underneath the aircraft type. • insufficient tightening of an abnormality in the electrical ommends the above.
+attachment screws causing load or in the associated wiring.
+circuit breaker temperature Consequently, reengagement of a It is also Airbus’ intent to issue a
+increase. tripped CB may aggravate any Service Information Letter that rec-
+ommends operators to perform an
+initial manual cycling of all thermal
+circuit breakers on and off under no
+power within an initial 24 month
+period and thereafter at intervals not
+to exceed 36 months.
+The Airbus Enhanced Zonal Analysis
+Procedure will also consider circuit
+breaker panels to permit visual
+inspection of circuit breakers.
+13
+43
+TSAF
+12
+ELECTRICAL DEVICES PROTECTION
+Arc Fault Circuit Breaker (AFCB) Only AFCB implementation on a
+technology has been already intro- 115VAC aircraft electrical network
+duced into housing and industrial was considered in the first phase of
+markets over the past 10 years. the programme. A prototype test
+Adapting the technology for use in programme has been defined with
+aircraft will improve safety by suppliers and AFCB prototypes
+reducing arcing occurrences and have been tested on an electrical
+their consequences, and will laboratory test bench, then during
+reduce costs by limiting damage to an aircraft test flight. The next step
+both electrical wiring and the sur- is now to conduct an evaluation of
+rounding area. the AFCB end-component maturity
+on aircraft during a six month period
+AIRBUS ACTION to be completed by the end of 2004.
+Due to the specifics of circuit After having demonstrated good
+breakers installed on Airbus aircraft maturity, an industrial product
+(in terms of specifications and over- qualification will proceed and
+all dimensions), Airbus decided in Airbus may then determine which
+2000 to launch its own AFCB pro- systems the AFCB will be used on.
+gramme, similar to that of the FAA.
+The first feasibility phase of such a SOLID STATE POWER
+programme defined single pole CONTROLLER
+and three pole AFCBs that, in addi-
+tion to the functions provided by The electrical power distribution
+traditional circuit breakers, have system in the A380 introduces a big
+the ability to detect complex current- jump forward for the protection
+time waveforms that are charac- function by using the Solid State
+teristic of wiring anomalies/arcing Power Controller (SSPC).
+in an aircraft environment. Other
+challenges were to develop prod- The SSPCmodule is a conjunction
+ucts likely to replace current circuit of electronic and semiconductor
+breakers at competitive prices within devices in the same electronic card.
+the 1-50Amp range, and to solve the Unlike the conventional thermal CB
+main issues of reliability and overall or AFCB that are considered electri-
+dimensions. cal standard items, the SSPC
+43
+TSAF
+15
+43
+TSAF
+ELECTRICAL DEVICES PROTECTION
+15
+43
+TSAF
+Protection and
+commutation devices
+Additional benefits
+of SSPC technology
+15
+43
+TSAF
+ELECTRICAL DEVICES PROTECTION
+electrical damage by propagating ARC FAULT
+it, with possible risk of affecting CIRCUIT BREAKERS
+other equipment. It may even
+result in a temperature increase Research into new technologies to
+and smoke emission in the area improve wiring safety is a key issue
+concerned. for individual federal agencies and
+industry. To this end, the Federal
+Airbus recommendations with Aviation Agency (FAA) has
+regard to the reengagement of a launched an extensive Aging
+tripped CB in flight and on the Electrical System Research Pro-
+ground are as follows: gram (refer to the “Aging aircraft
+electrical systems” article page 2 to
+• In flight, Airbus does not 10). This programme is intended to
+authorise a pilot to reengage a conduct research into aging wiring
+CB which tripped by itself, systems to determine mechanisms
+unless the Captain, using that drive the aging process, develop
+his/her emergency authority, tools to better inspect and maintain
+judges it necessary for safe wiring, and develop technologies
+continuation of the flight. In that mitigate the hazards associated
+this emergency case, only one with wiring failure.
+reengagement should be
+attempted. As part of this programme, the
+• On the ground, the pilot may FAA, in partnership with the
+reengage the CB provided the Office of Naval Research, initiated
+action is coordinated with the a study of arc-fault circuit interrup-
+maintenance team and the tion technology, which promises to
+cause of the CB tripping is overcome some of the issues
+identified. caused by wiring degradation.
+These recommendations are also PRINCIPLE
+detailed in the applicable chapters
+of the FCOM (Flight Crew The Arc Fault Circuit Breakers
+Operating Manual) and TSM provide additional protection
+(Trouble Shooting Manual). against arcing conditions in addition
+to the thermal overload protection
+provided by thermal CBs. Arc
+Fault Circuit Interruption (AFCI)
+technology monitors the electrical
+circuit for arcing events that are
+indicative of potential wiring
+Arc Fault Circuit Breaker
+issues that could result in a short
+circuit. In essence, the device
+keeps a count of each momentary
+insulation breakdown and breaks
+the circuit when the count of these
+exceeds a predefined number. The
+heating caused by these intermit-
+tent contacts may be below the
+normal rating of a thermal CB.
+14
+ELECTRICAL DEVICES PROTECTION
+system for dispatch under MEL
+criteria. So, PDMI can be consid-
+ered as a virtual Circuit Breaker
+Panel.
+Some PDMI Functions are:
+• provide manual override
+ON/OFF control of each
+SSPCchannel,
+• secure the open state of SSPC
+channels (flag or lock-out),
+• provide manual reengagement
+to tripped channels,
+• review configuration status
+and load assignment,
+• display Built-In-Test Status,
+• summary of tripped channels
+and manually opened channels
+• sort by ATA chapter,
+• sort by Power Bus and/or
+MMEL,
+• maintenance status (e.g. name
+of operator, maintenance
+duration, reason for lock-out).
+43
+TSAF
+17
+43
+TSAF
+17
+43
+TSAF
+3. Tag the CB
+Module is part of the electrical
+power centre, and is considered as
+equipment.
+The SSPC Module works primarily
+as a protection device for the aircraft
+wiring against overload, and as a
+system power supply switch for
+technical operation and load man-
+agement.
+The SSPC has the same function as
+a circuit breaker, but by using a
+comparison of a triggering curve
+rather than the traditional mechani-
+cal tripping function. 4. Warning message when CB has been tagged
+So, basically, the SSPC technology
+combines the functions of the cir-
+cuit breaker and relay in classical
+electromechanical technology.
+With this new technology, the trip
+threshold of the device protection is
+programmable. It also allows
+switching ON/OFF of the loads,
+and controls and monitors the
+switch status.
+SSPC cards are customisable for
+the cabin loads. For each SSPC
+channel, two current ratings are
+available: 3A to 5A and 7.5A to
+Conclusion
+15A with in-between software pro-
+gramming capability.
+Due to the large number of circuits CONTACT DETAILS The electrical devices protection At the time of writing the FAA had
+to protect, it would have been nec- such as thermal CB, AFCB, or not mandated installation of AFCBs
+Jean-Luc Barré
+essary to have a huge panel and SSPC have the same main basic and even though the FAA strongly
+Aircraft Electrical Installation
+space available if classical function: ensure protection of aircraft supports activities to define Arc Fault
+and Standard Items
+electromechanical technology Customer Services Engineering electrical installations. Whatever the Detection CBs, it is expected that
+were used. This new technology Tel:+33 (0)5 62 11 82 52 technology used, tripped electrical replacement of conventional circuit
+allows reduction of the man- Fax:+33 (0)5 61 93 44 25 devices protection should only be breakers by AFCBs will be up to the
+machine interface whilst saving jean-luc.barre@airbus.com reengaged once, if at all, as airlines.
+described above and in the
+weight.
+Patrick Scudier appropriate manuals such as the The sheer size of the A380 and
+Aircraft Electrical Installation AMM and TSM. thesignificantly greater electrical
+POWER DISTRIBUTION
+and Standard Items
+installation has meant that
+MAINTENANCE INTERFACE (PDMI) Customer Services Engineering
+A relatively new technology – conventional circuit protection
+Tel:+33 (0)5 62 11 06 71
+ArcFault Circuit Interruption (AFCI) devices would take up far too much
+The new SSPC technology allows Fax:+33 (0)5 61 93 44 25
+technology – has been developed to space and be excessively heavy.
+a newer maintenance man-machine patrick.scudier@airbus.com
+improve the overall level of aircraft This has led to the development of
+interface. One of the functions of
+wiring protection. This new the Solid State Power Controller,
+the Power Distribution Mainte-
+technology that is predictive in which provides the necessary
+nance Interface (PDMI) is to allow
+nature, will reduce arcing protection, a user-friendly man-
+the engineer to control the SSPC as
+occurrences and possible collateral machine interface, and several
+a conventional circuit breaker. damage. possibilities of customisation.
+They may be tripped and tagged to
+permit maintenance, or to isolate a
+17
+43
+TSAF
+16
+43
+TSAF
+ELECTRICAL DEVICES PROTECTION
+Example of SSPC maintenance status
+4 examples of screen pages displaying the maintenance
+status of the SSPC
+1. Search by CBs in fuel system
+2. Select a CB
+16
+43
+TSAF
+17
+HOWTOTACKLEBLEED AIR LEAKS
+43
+TSAF
+HOWTOTACKLEBLEED AIR LEAKS HOWTOTACKLEBLEED AIR LEAKS
+QUALIFICATION TESTING
+Two types of qualification testing,
+(dynamic and static) were imposed:
+Patrick Grave
+Group Manager
+Pneumatics,Ice and Fire Protection
+Customer Services Engineering
+19
+43
+TSAF
+DYNAMIC TESTING
+• Total of 240,000 movement cycles at 24 cycles/minute.
+• Combination of ±10 mm (0.4inch) linear and ±3°angular
+displacement to simulate wing bending.
+• 200,000 cycles at 215°C (420°F) and 40,000 cycles at 260°C
+(500°F) representing aircraft operation(see illustration below).
+• One pressure cycle for every twomovement cycles, ambient to
+4.2bar (61psi)(see illustration above).
+STATIC TESTING
+• Proof pressure 6.2bar (90psi) at 215°C (420°F) for 1 minute.
+• Burst pressure 13.2bar (190psi) at 215°C (420°F) for 1 minute.
+QUALIFICATION RESULT QUALIFICATION CRITERIA
+Static qualification testing
+• Static leak rate at 4.2bar
+At the end of this qualification test- (61psi) in cold and hot state
+How to tackle
+ing, only one seal satisfied the well below maximum
+qualification criteria (seal A on the allowed.
+illustration Qualification test bench • No extrusion tendencies.
+on page 21).That seal being identi- • Minimal wear.
+bleed air leaks
+fied as PN ABS1040 is manufac- • No cracks, extrusion or
+tured by Advanced Products. deformation after proof and
+burst test.
+Improving durability of seals
+Dynamic qualification testing
+on hot air ducts
+Leaks from bleed air ducts cause approximately Later, as the technology evolved, different seals
+one third of ATA36 operational interruptions. were proposed. Each were to the latest technology,
+A high proportion of these leaks can be attributed to but never providing the durability desired. The latest
+previous generation seals. These seals are fitted at in the series was ABS0737.
+numerous locations in the bleed (ATA36), anti-ice
+(ATA30) and air conditioning (ATA21) systems. To cater for this situation Airbus introduced a periodic
+Consequently, the need for a reliable seal is of the seal replacement in the MPD (Maintenance Planning
+utmost importance to the efficient operation of an Document) to avoid operational interruptions. In
+aircraft. parallel a call for tender was launched with various
+seal manufacturers. The primary goal was to find a
+At the beginning of Airbus operations, bleed air ducts new seal able to withstand the new qualification
+were equipped with a pair of seals with part numbers process called “accelerated aging test”. This test being
+(PN) NSA8054-08 and PN NSA8054-09, being used a combination of endurance, temperature and pressure
+together. This type of seal was, at that time, the only conditions more demanding than those used previously
+one available on the market. and adapted to the latest materials.
+18
+HOWTOTACKLEBLEED AIR LEAKS
+Test performances show:
+• the ABS1040 seals provide
+significant reduction in bleed
+air leakage compared to the
+ABS0737 seals.
+• the ABS1040 seals continue
+to provide excellent long-term
+performance while the
+The PN ABS1040 seal is made of ABS0737 seals degrade over
+PTFE (polytetrafluorethylene), in time resulting in steadily
+two parts: deteriorating performance.
+• the seal is equipped with a IN-SERVICE EVALUATION
+spring to keep it expanded,
+• a filler ring to reduce the Also, before making this new seal
+volume of the recess. available for general airline use, it
+was decided to perform an in-service
+PERFORMANCE
+evaluation to confirm that the tests
+COMPARISON
+reflected the real life environment.
+This evaluation was performed with
+Following the qualification test, five different airlines operating in
+another test programme was per- different environmental conditions
+formed to compare the performance (Cathay Pacific, Air Macau,
+of the ABS1040 seals to the Lufthansa, MyTravel and Austrian
+ABS0737 seals (“back to back Airlines) and on two aircraft types
+testing”).For that purpose, a specif- (two A330/A340 Family and four
+AABBSS11004400 sseeaallss
+ic “back to back” test bench was A320 Family).
+developed in order to be able to
+compare the performance of the This evaluation has accumulated
+AABBSS00773377 sseeaallss
+two types of seal in real time and in more than 26,000 flight hours and
+similar conditions. 12,500 flight cycles without any
+seal failure or detection of any
+Seals were installed on production bleed air leaks, demonstrating the
+ducts during the pressure and tem- good behavior of seal ABS1040
+perature cycles. during aircraft operation
+Qualification test benches
+Leakage per cycle (grams/second)
+Seal A 0 0 0 0 0.1 0 0 0 0 0 0 0 0.1
+Seal B 0 0 0 0 0.3 0 0.1 0.3 0.1 0.1 0.2 0.2 0.3
+Seal C 0 0 0.1 0 0 0 0.1 0 0 0 0 0 0.1
+Seal D 0 0.1 0 0.1 0.1 0.1 0.3 0.1 0.1 0.1 0.1 0.1 0.2
+Leakage
+0.3
+0.2
+0.1
+0
+0 10 20 30 40 50 60 70 80 90 100 110 120
+Cycles
+43
+TSAF
+HOWTOTACKLEBLEED AIR LEAKS
+AABBSS11004400 sseeaallss
+AABBSS00773377 sseeaallss
+Following the test, the ABS0737 seal showed significant deterioration and erosion
+while the ABS1040 seal remained in excellent condition
+21
+43
+TSAF
+Back to back test bench
+ABS0737 ABS1040
+20
+43
+TSAF
+HOWTOTACKLEBLEED AIR LEAKS CUSTOMISED SPARESLOGISTICS
+RESULTS and a direct benefit on the
+Operational Interruption rate.
+From the investigation, it is clear
+that seal ABS1040 will bring about A direct consequence of the reduc-
+a much-wanted decrease in bleed tion in Operational Interruptions is
+air leaks. the positive effect it will have on
+the Direct Maintenance Costs of an
+A Detection Leak Localisation aircraft. A reduction in this area is
+System (DLLS) has been installed of major importance to airlines and
+on the A340-500, -600 series. It is always sought after. This will be
+dedicated to maintenance and sim- brought about as a result of the
+plifies troubleshooting so reducing introduction of ABS1040 seals and
+the amount of time the aircraft is by the reduction in the number of
+delayed on the ground. A combina- times the aircraft is grounded due
+tion of the DLLS and new seals to bleed leaks.
+should have a significant impact
+Customised
+Spares Logistics
+Conclusion
+It is clearly evident that Bleed Air adequately to satisfy the
+CONTACT DETAILS A new Airbus concept based
+Leaks caused by inadequate sealing requirements set by the investigation
+Patrick Grave have been a continuous cause of process. Airbus now uses the
+Group Manager,Pneumatics, concern over a number of years. ABS1040 seals on new production on supply chain experiences
+Ice and Fire Protection Despite some improvements in aircraft bleed air systems.
+Customer Services Engineering technology standards, seals still
+Tel:+33 (0)5 61 93 43 13
+failed to meet the desired level of Furthermore, it should be noted that
+Fax:+33 (0)5 61 93 44 38
+performance. However, upon the after installation of the ABS1040 During the life cycle of an aircraft, time, information technology (IT) based monitoring
+patrick.grave@airbus.com
+highly successful completion of the seals (mod number in table above) location and requirement of spare parts are not systems are all key elements involved in harmonising
+“accelerated aging test”, having the the preventive seal replacement usually plannable. the spares related processes, resulting in cost savings
+results of the “back to back test” recommended in the Maintenance and high transparency. Following these requirements
+with the previous bleed seal Planning Document (MPD) will be Therefore on-time delivery of spare parts requires Airbus Spares Support and Services in Hamburg, as
+standard, and the in-service cancelled and only the leak check
+integration and management of flexible supply chains the headquarters for world-wide spares supply for
+evaluation, it was agreed to select will remain. The periodicity of the
+between the vendor’s activities and customer’s Airbus aircraft, has developed Customised Spares
+the ABS1040 seal for in-service and leak check will be reviewed upon
+requirements. The physical distribution of parts, Logistics (CSL).
+production aircraft. feedback of in-service experience.
+qualified communication and sophisticated
+The new bleed seal incorporates The incorporation of this modification
+significant design improvements due is highly recommended by Airbus
+to both the material change and the since it is now well demonstrated
+new shape. The seal is made from that the ABS1040 seal will
+Teflon, superseding the traditional dramatically improve bleed air
+silicon and the innovative new shape system performance, bring a
+incorporates a two-part design significant reduction in maintenance
+feature. As explained in this article, costs, and improve aircraft dispatch Helmut Diekhoff Andreas Teufel
+Manager Customised Spares Logistics Director Spares Marketing
+the Teflon material and the reliability.
+Spares Support & Services Spares Support & Services
+revamped design perform
+23
+43
+TSAF
+22
+43
+TSAF
+CUSTOMISED SPARESLOGISTICS CCCUUUSSSTTTOOOMMMIIISSSEEEDDD SSSPPPAAARRREEESSSLLLOOOGGGIIISSSTTTIIICCCSSS
+SUPPLY CHAIN DRIVING point the achieved delivery This situation causes considerable SERVICE SCOPE
+FORCES performance very much uncertainty so an increased effort of
+depends on the ability of this tracking and tracing of shipments is Airbus manages dedicated approved
+Based on 30 years of experience in subcontracted forwarder to required, particularly for priority forwarders, negotiating freight rates,
+supply chain management and effectively transport the customer requests such as AOG steering the complete supply chain
+logistics, Airbus Spares is clearly shipments to the customer. (Aircraft on Ground) orders. up to the point of demand. Priority
+aware of some weaknesses in the shipments like AOG and WSP
+conventional supply chain. The eye Here the challenge starts. For eco- Aircraft operators, aware of the (Work Stoppage) are monitored on
+opener was during an Airbus sym- nomic and process-related reasons supply chain and delivery risks, are their way to the customer. Routine
+posium when the customers com- forwarders tend to consolidate forced to compensate with either (RTN) shipments are consolidated
+plained of a delivery performance shipments, route them through dis- increased manpower for tracking to further reduce customers’ costs.
+of 66% versus Airbus’ reported tribution hubs, subcontract second and tracing efforts, or increased Delivery is performed to the agreed
+delivery performance of 98%. or third tier service providers and and costly spares provisioning and location and within the agreed time-
+integrators, or are requested to inventory levels. frame.
+It appears that 30% of the perfor- consider service freight for ship-
+mance gets lost within the supply ping customer goods. OBJECTIVE OF CUSTOMISED ADVANCED TRACKING
+chain between the supplier and the SPARES LOGISTICS AND TRACING ABILITIES
+customer’s final location. The fol- This fragmentation of the supply
+lowing describes what occurs with- chain in respect to shipment The objective of the Customised The management of transport is
+in the conventional supply chain: responsibility and actual handling, Spares Logistics scheme is to address performed by Airbus and all ship-
+causes the challenges to perfor- the tracking and tracing problems ments are actively monitored.
+• Suppliers prepare the shipments mance which customers experi- described above and bring relief to Additionally the customer has the
+for dispatch and hand them over ence. Each change in responsibili- customers by providing updated possibility to get advanced, mile-
+to the customer appointed ty, each hand-over, each interface information about the shipment at stone based, tracking data via the
+forwarders. With this hand-over, within the supply chain inherits a any time, and supplied by one single Internet based Airbus Spares Portal,
+the shipment passes the so certain amount of risk causing source. The customer can then rest http://spares.airbus.com.
+called “yellow line” of the shipment delay, transport ineffi- assured that the shipment will arrive
+suppliers warehouse or airport; ciency and loss of transparency. on time with a guaranteed delivery By integrating the web-sites of for-
+this means the supplier is no performance of 98%. warders and integrators, customers
+longer responsible for the The supplier at the start of the sup- receive 24h on-line real-time track-
+shipment. ply chain, as well as the customer The performance level is assured ing and tracing information through
+• The forwarder who picks up the at the other end, can lose track of through continuous performance the Airbus Spares Portal. In addi-
+shipment, is conventionally the shipment and no longer be able measurement by Airbus. Customised tion, Airbus monitors each priority
+subcontracted by the final to determine the current location Spares Logistics is focussed on a bal- shipment until it arrives at the cus-
+customer and acts therefore on of, or estimated arrival of, the ship- ance of optimal cost and service, cor- tomer’s specified final destination,
+behalf of the customer. At this ment. responding to the three strategic goals taking into account the special
+- safety, aircraft operational reliability aerospace logistics requirements.
+and reduction of operating costs.
+CHARACTERISTICS OF CSL
+• Airbus as Single Point of Contact
+for the entire supply chain.
+• Competitive freight rates due to
+Airbus and European Aeronautic
+Defense and Space Company
+(EADS) volume discounts.
+• On-line Tracking and Tracing
+transparency.
+• Customisation of the supply
+chain, covering all steps from
+pick up to customs clearance,
+considering service freight
+restrictions, special clauses and
+exceptions, and defining
+handover interfaces.
+• Reduction of interfaces
+throughout the supply chain.
+25
+43
+TSAF
+The “Customised Spares
+Logistics” concept is the
+result of the long-term
+experience in aviation
+logistics focused on
+customer requirements and
+the transport logistics
+capability of Airbus Spares
+Support and Services.
+http://spares.airbus.com
+24
+43
+TSAF
+CUSTOMISED SPARESLOGISTICS CUSTOMISED SPARESLOGISTICS
+MATERIAL SCOPE IMPLEMENTATION
+OF THE CSL PROCESS
+Customised Spares Logistics can
+be used for transportation of any Initially the current supply chain
+spares purchased from Airbus. This for shipments from Airbus and
+includes Proprietary Parts, Ground suppliers to the final customer des-
+Support Equipment, tools, and tination will be analysed. Next, a
+supplier parts. It also covers deliv- customised Standard Operation
+eries from Hamburg as well as Procedure will be prepared togeth-
+drop-shipments. er with a CSL proposal. This will
+ensure the performance will match
+LEAD TIME BASED the agreed lead times, ensure safe information on the current rates. The rates are passed
+PRICING CONCEPT processes and cost-efficient spares shipment status and location. directly on to customers, leading
+transport. It includes general con- to reduced transport costs.
+According to geographical zones tractual items and all necessary • They also experience a reduction
+defined by IATA (map below) a operational details such as respon- in hidden costs, be it through • Since Airbus is responsible for
+priority based lead time and pric- sibilities, information required savings for not having to invest the delivery of spares and tools
+ing concept is applied for the regarding customs issues etc. After time and capacity in tracking right to customer’s doorstep,
+Airbus Customised Spares an initial period of operation, usually and tracing of shipments, or be it there is one single contact for
+Logistics concept. Table below between three to six months, all for not having to keep extra the entire supply chain, resulting
+shows the different lead times for relevant business figures will be inventory to compensate for in a continuous increase in
+shipments ex-Europe to the speci- reviewed by Airbus together with potential lack of spares due to supply chain efficiency.
+fied IATA zones. the customer. shipment delays.
+• The whole service is backed-up
+To get a clear view of the yearly CUSTOMER ADVANTAGES • Customers further profit from by regular benchmark studies
+costs, individual business cases can FROM CSL the economies of scale obtained and continuous performance
+be prepared according to the ship- by Airbus. These economies of measurements to ensure
+ment structure of each customer. Customers benefit from using CSL scale lead to competitive freight optimised operations.
+The customer will then receive an in various ways:
+individual commercial proposal
+before entering into the agreement. • They can rely on scheduled
+All invoicing shall be consolidated delivery times with the added
+and provided on monthly basis. convenience of on-line, real-time
+Conclusion
+CONTACT DETAILS
+Customised Spares Logistics (CSL)
+Andreas Teufel
+Director Spares Marketing provides benefits for the entire supply
+Spares Support & Services chain. Not only do customers benefit, but
+Tel:+49 (40) 5076 2320 also the suppliers and forwarders are able
+Fax:+49 (40) 5076 2155 to achieve their promised delivery
+andreas.teufel@airbus.com performance. The result is leaner supply
+chains, meaning higher efficiency and
+Helmut Diekhoff
+less wastage for the entire system.
+Manager Customised Spares Logistics
+Spares Support & Services
+Tel:+49 (40) 5076 2577 That can only be of benefit to all!
+Fax:+49 (40) 5076 2626
+helmut.diekhoff@airbus.com
+27
+43
+TSAF
+CUSTOMISED SPARESLOGISTICS
+CUSTOMER QUOTE
+“As far as we are concerned we only
+see advantages [of using Customised
+Spares Logistics]. Our freight costs are
+lower, leading to economic benefits.
+Additionally, Airbus manages the
+complete supply chain in cooperation
+with the forwarder, which includes the
+physical handling of the shipments as
+well as the electronic shipment tracking
+and coordination. Therefore we do not
+need to pay attention to the actual supply
+and dispatch of the required spare parts.
+As a consequence, we have been able to
+decrease our administrative costs. We
+only notify Airbus Spares Support and
+Services when we require particular
+spare parts - that’s all we need to do!”
+Martin Schmidt
+Director Material & Logistics
+Austrian Airlines Technik
+(translated from LOGISTIK inside 17/2003)
+26
+43
+TSAF
+AIRCRAFT SYSTEM MAINTENANCE AIDS AVAILABLE FROM AIRBUS AIRCRAFT SYSTEM MAINTENANCE AIDS AVAILABLE FROM AIRBUS
+Aircraft System Maintenance Aids available from Airbus
+A300/A310 Family A330/A340 Family
+AIRCRAFT TYPE TITLE ATA ISSUE REFERENCE AIRCRAFT TYPE TITLE ATA ISSUE REFERENCE
+A300-600/A310 Autoflight System Operation / Troubleshooting Guidelines 22 APR 03 SEE43/952.2636/03 A330/A340 (all) IDG (Integrated Drive Generator) Servicing Procedure 24 JAN 01 SEE51/953.0616/01
+A300 Flap System Trouble Shooting Procedure 27 DEC 88 No reference A330/A340 (all) NBPT Simulation Tool (No Break Power Transfer) 24 2003 GDCOS-SL343/03
+A300/A300-600 Flap System / Flap Jamming Trouble Shooting Guidelines 27 MAY 89 ST34/0001/89 A330/A340-200 & -300 Cargo Loading System (CLS) Operation / Trouble Shooting Guidelines 25 2003 SEE24/949.4902/03
+A300-600 Slat / Flap System Trouble Shooting Guidelines 27 FEB 97 SEE41-952.0834/97 A330/A340-200 & -300 Cargo Hold Maintenance 25 SEP 00 AI/SR S064//00
+A300 Slat System Jam Trouble Shooting Guidelines 27 FEB 97 SEE41-952.0835/97 A330/A340 (all) Slat / Flap System Trouble Shooting Guidelines 27 FRB 97 SEE41/952.0832/97
+A300 Flap System Jam Trouble Shooting Guidelines 27 FEB 97 SEE41-952.0836/97 A330/A340-200 & -300 Refuel System - Description & Trouble Shooting Guidelines 28 JUN 99 SEE31/951.1398/99
+A310 Slat / Flap System Trouble Shooting Guidelines 27 MAR 98 SEE53-953.1907/98 A330/A340 (all) Hydraulic System Maintenance Practices 29 2002 SEE34/951.2403/02
+A310 Spoiler Control Computers Trouble Shooting Guidelines 27 AUG 98 SEE53-953.4553/98 A330 (PW/RR) Engine Bleed Air System - Operation/Trouble Shooting Guidelines 36 APR 02 SEE/949.2963/00
+A310 Spoiler Control Computers Trouble Shooting Guidelines (for FEDEX only) 27 AUG 98 SEE53/953.6135/98 A330 (GE) Engine Bleed Air System - Operation/Trouble Shooting Guidelines 36 JUN 02 SEE/949.2966/00
+A300-600 Spoiler Control Computers Trouble Shooting Guidelines 27 AUG 98 SEE53-953.4556/98 A340-200 & -300 Engine Bleed Air System - Operation/Trouble Shooting Tips 36 JUN 99 SEE23/949.2725/99
+A300-600 Spoiler Control Computers Trouble Shooting Guidelines (for FEDEX only) 27 AUG 98 SEE53-953.6134/98 A330/A340-200 & -300 Doors & Escape Slide Control System - Operation/Trouble Shooting Guidelines 52 JAN 04 SEE23/949.5096/96
+A310-300/A300-600R Trim Tank System Trouble Shooting Guidelines 28 NOV 90 ST22-948.1341/90
+A300/A310/A300-600 Hydraulic System Maintenance Practices 29 MAR 99 SEE34-951.0684/99 All Aircraft Families
+A310/A300-600 Engine Bleed System Trouble Shooting Guidelines 36 APR 90 ST23/0002/90
+TITLE ATA ISSUE REFERENCE
+A310/A300-600 Engine Bleed System Trouble Shooting Guidelines 36 JUL 02 SEE23-949.4691/95
+Leak Prevention on Hydraulic Tube Fitting 29 2004 GDCOS A002/04
+A300B2/B4 Engine Bleed System Trouble Shooting Guidelines 36 JUN 02 SEE23-949.5177/96
+(sets of 5)
+Hydraulic Systems Maintenance Practices 29 APR 02 SEE34 951.3026/99
+A320 Family Fuel Tank Maintenance Practices (except A340-500 & -600) 57 2002 SEA22/943.1409/02
+AIRCRAFT TYPE TITLE ATA ISSUE REFERENCE
+Delivery conditions for pocket size booklets/brochures/leaflets & posters (posters: by set of 5)
+A319/A320/A321 Air Conditioning Trouble Shooting Guidelines 21 2002 SEE22/949.8283/97
+A318/A319/A320/A321 Avionics Equipment Ventilation Trouble Shooting Guidelines 21 2002 SEE22/949.7305/99 Free of charge (beyond these figures, the requested quantities will be delivered upon receipt of a purchase order)
+A319/A320/A321 CIDS (Cabin Intercommunication Display System) 23 JAN 99 SEE41/952.0797/99
+Fleet size 1-3 4-10 11-20 21-30 31-40 41-50 > 50
+Trouble Shooting Guidelines
+A318/A319/A320/A321 IDG (Integrated Drive Generator) Servicing Procedure 24 JAN 01 SEE51/953.0616/01 Quantity supplied 10 20 30 40 45 50 50
+A319 Slide / Slide Raft Arming / Disarming Procedures (for EASY JET only) 25 SEP 03 SEE21/949.7706/03 This information is taken from SIL00-032 dated march 2004.
+In the event of any conflict the text of the SIL applies
+A318/A319/A320/A321 Slide / Slide Raft Arming / Disarming Procedures 25 OCT 03 SEE21/949.9098/03
+A318/A319/A320/A321 Slat / Flap System Trouble Shooting Guidelines 27 JAN 90 ST34/993.396/89
+A318/A319/A320/A321 Slat / Flap System Trouble Shooting Guidelines 27 FEB 97 SEE41/952.0831/97
+1 Videotape/1 CD is free of charge for each company. Brochure
+A318/A319/A320/A321* Slat / Flap System - System Evolution 27 MAY 97 SEE41/952.2528/97
+CDs are sold by set of 3 irrespective of fleet size.
+A318/A319/A320/A321 Procedure for Re-greasing A320 Flap Actuators 27 FEB 98 No reference
+Video
+A318/A319/A320/A321 A320 Family Flight Control System - Elevator Rigging 27 APR 03 GDCOS-S097/03
+Issue 2004
+Free of charge quanties are provided in accordance
+A318/A319/A320/A321 Shark Fin Tool for Easy Flap Adjustment 27 JAN 00 SEE5959.0073/00 CD
+with fleet size.Additional quanties are at prices
+A318/A319/A320/A321 Hydraulic System Maintenance Practices 29 MAY 99 SEE34/951.1497/99
+reflected in the “Airbus Customer Services Catalog”
+A320 AIDS Trouble Shooting Guidelines (for TELEDYNE DMU only) 31 JUN 89 ST33/0004/89 (Session 2, paragraph 2.1.2 - “Maintenance and Poster
+A318/A319/A320/A321 CFDS - Guidelines for Trouble Shooting using Centralized 31 FEB 96 SE54/953.1211/96
+Engineering”).
+Fault Display System
+A purchase order form is provided in the Catalog.
+A319/A320/A321 Braking and Steering System Trouble Shooting Guidelines 32 FEB 03 SEE32/957.0519/03
+Twin gear
+Requests and associated purchase order are to be
+A320 Braking and Steering System Trouble Shooting Guidelines 32 DEC 97 SEE32/957.4606/97
+sent to the following address:
+(for IAC only) Bogie gear
+A319/A320/A321 Engine Bleed Air System Trouble Shooting Guidelines 36 JUN 02 SEE23/949.0229/95 Fabienne Baron
+AIRBUS S.A.S.
+A319/A320/A321 Vacuum Toilet System Trouble Shooting Guidelines 38 APR. 03 SEE21/949.3269/03
+Engineering Services - SEE5 Department
+A318/A319/A320/A321 Passenger Door Operation & Maintenance 52 MAY 02 SEE5 956.0214/02
+1, rond-point Maurice-Bellonte
+31707 BLAGNAC Cedex
+(*) In addition to this document, the "SLAT/FLAP SYSTEM – EVOLUTION" brochure is distributed to detail the component and part number
+France
+evolution versus modification embodiment.
+Tel: +33 (0)5 61 93 47 40
+Fax: +33 (0)5 61 93 44 25
+fabienne.baron@airbus.com
+28
+A380 ACCOMMODATION AT AIRPORTS
+In May 2003, the International Civil Most States which are willing to accommodate
+Aviation Organization (ICAO) A380 operations at their airports, and noticeably
+Council initiated a twofold Action States having potential alternate airports, may lack
+Plan for the introduction of New the background information and international
+Large Aircraft (NLA) into international working relationship which seems necessary for the
+civil aviation service. application of the ICAO Circular on NLA operations.
+In line with the ICAO decision, an NLA Information
+The first step was to publish a Circular on NLA Forum website (below) has been created, hosted by
+operations at existing airports to provide States the European Civil Aviation Conference (ECAC).
+with information concerning airports facilities and The aim of the website is to provide an easy,
+services, air traffic management and flight time-saving and informative access to all the
+operations, which should be considered for documentation relevant to NLA. It will facilitate
+accommodating NLA operations at existing airports. the exchange of information between States’
+Secondly, a review will be undertaken of the current administrations, international organisations, airports,
+Annex 14, Aerodromes Volume I, code F provisions, airlines, research organisations and industry.
+including their underlying basis, considering the
+results of studies within and outside ICAO.
+43
+TSAF
+AIRBUS CUSTOMER SERVICES EVENTS
+Customer Services
+events
+A380
+Coming soon
+HUMAN FACTORS SYMPOSIUM
+Just happened New Delhi, India, 14-16 September
+accommodation at airports
+Seoul, Korea, 23-25 November
+SUPPLIER SUPPORT SYMPOSIUM
+Toulouse, France, 2-3 March Airbus will continue the dialogue with its operators at
+this forum, discussing human factors aspects with prac-
+The event brought together 160 representatives from tical and operational perspectives.
+engine manufacturers, major suppliers, BFE suppliers,
+small suppliers and distributors. It generated much AIRBUS SPARES & SUPPLIER SERVICES
+interest amongst the supplier support community, who REGIONAL SYMPOSIUM
+thanked Airbus for organising such an event to share Puerto Vallarta, Mexico, 25-28 October
+with them details of Airbus recent developments, expec-
+tations from them and vision for the future. This event focuses on the latest developments related to
+spares support and services for all Airbus customers of
+A330/A340 TECHNICAL SYMPOSIUM the Americas. The conference follows the theme
+Athens, Greece, 14-18 June “Reducing cost through supply chain partnerships”.
+Working sessions began on Monday morning and WARRANTY CONFERENCE
+continued through Friday midday. The sessions, as usual, Toulouse, France, 30 November-2 December
+comprised presentations based on actual service issues
+affecting the A330/A340 programmes as well as subjects This event will be the second concerning Airbus
+of more general interest. Awards for operational excel- warranty processes. A significant number of suppliers
+lence were made to Lufthansa, Lan Chile, Korean Air are expected to participate to address open issues and
+lines and Srilankan Airlines. positively exchange ideas for the benefit of all parties
+involved.
+3RD SPARES LOGISTICS CONFERENCE
+Hamburg, Germany, 15-16 June 7TH TRAINING SYMPOSIUM
+Bangkok, Thailand, 6-10 December
+This event was the traditional gathering of Airbus
+customers, suppliers, forwarders and representatives of This event will continue with the two separate events
+This website will be further developed and
+other industries to discuss expert views and concepts, specific to Maintenance Training and Flight Crew
+kept up to date on a continuous basis:
+plus share experience on supply chain logistics. Training introduced with the 6th symposium, with
+Amongst a wide spectrum of logistical aspects, the event which, generally speaking, attendees were highly
+http://www.ecac-ceac.org/nla-forum.
+focused on the Airbus service of Customised Spares satisfied and both events were perceived as beneficial
+Logistics, CSL. and well organised.
+30
+43
+TSAF
+31
+43
+TSAF
+FROM THE ARCHIVES 100 YEARS AGO...
+100 years ago, on 20 September 1904, the Wright brothers made the first
+human flight of more than one kilometre.
+Only 25 years later Maitlandand Hegenbergermade the first successful
+flight from San Francisco to Hawaii in a Fokker F-VII trimotor. Their flight
+covered 3890km.
+The following year, the Australian, Charles Kingsford-Smith, also in a
+Fokker F-VIIb with three Wright 230hp engines, made the first crossing of
+the Pacific Ocean from San Francisco to Brisbane and then on to Sydney.
+A flight of some 12,000km in three legs via Hawaii and Suva.
+Captain Charles Kingsford-Smith From left to right, J.W. Warner,
+with his fellow crew members. radio operator, First Officer Ulm and
+navigator H.W.Lyons.
+Three months later he made
+the first flight from Australia
+to New Zealand.
+In the following two years,
+Kingsford-Smith continued to
+make the first round the world
+flight via India, London and
+New York arriving back at
+San Francisco in the same
+Fokker VIIb. A round trip of
+some 54,000km.
+Fokker at this time was the
+largest aircraft manufacturer
+in the world with factories in
+Europe and the USA. However
+the success did not last.
+Fokker was overtaken by
+Douglas Aircraft Company
+who had more modern
+products. However Douglas
+Aircraft became insolvent in
+1967. Fokker were declared
+bankrupt in 1996 and the
+company was finally wound
+up in May 2004.
+The “Southern Cross” on arrival in Hawaï on 1st June 1928
+32
+CUSTOMER SUPPORT AROUND THE CLOCK... AROUND THAER WTIOCRLLED
+Customer Support Centres
+Training centres
+Spares centres / Regional warehouses
+Resident Customer Support Managers (RCSM)
+RCSM location Country
+Macau S.A.R. China
+Madrid Spain
+Manchester United Kingdom
+Manila Philippines
+Mauritius Mauritius
+Memphis United States of America
+Mexico City Mexico
+Milan Italy
+Minneapolis United States of America
+Monastir Tunisia
+Montreal Canada
+Moscow Russia
+Mumbai India
+Nanchang China
+Nanjing China
+New Castle Australia
+New York United States of America
+Ningbo China
+Noumea New Caledonia
+Palma de Mallorca Spain
+Paris France
+Philadelphia United States of America
+Phoenix United States of America
+Pittsburgh United States of America
+Port of Spain Trinidad and Tobago
+Qingdao China
+Quito Ecuador
+Rome Italy
+San Francisco United States of America
+San Salvador El Salvador
+Santiago Chile
+Sao Paulo Brazil
+Seoul South Korea
+Shanghai China
+Sharjah United Arab Emirates
+Shenzhen China
+Shenyang China
+Singapore Singapore
+Sydney Australia
+Taipei Taiwan
+Tashkent Uzbekistan
+Tehran Iran
+Tokyo Japan
+Toronto Canada
+Tulsa United States of America
+Tunis Tunisia
+Valetta Malta
+Ventiane Laos
+Verona Italy
+Vienna Austria
+Washington United States of America
+Xi'an China
+Zurich Switzerland
+43
+TSAF
+Customer support
+WORLDWIDE
+Jean-Daniel Leroy
+VP Customer Support
+Tel: +33 (0)5 61 93 35 04
+Fax: +33 (0)5 61 93 41 01
+USA/CANADA
+Philippe Bordes
+Senior Director Customer Support
+Tel: +1 (703) 834 3506
+Fax: +1 (703) 834 3464
+CHINA
+Ron Bollekamp
+Director Customer Support
+Tel: +86 10 804 86161
+Fax: +86 10 804 86162 / 63
+RESIDENT CUSTOMER SUPPORT
+ADMINISTRATION RCSM location Country
+Jean-Philippe Guillon
+Abu Dhabi United Arab Emirates
+Director
+Algiers Algeria
+Resident Customer Support Administration Amman Jordan
+Amsterdam Netherlands
+Tel: +33 (0)5 61 93 31 02
+Athens Greece
+Fax: +33 (0)5 61 93 49 64 Auckland New Zealand
+Bandar Seri BegawanBrunei
+Bangalore India
+TECHNICAL,SPARES,TRAINING Bangkok Thailand
+Airbus has its main Spares centre in Hamburg, Beirut Lebanon
+Brussels Belgium
+and regional warehouses in Frankfurt,
+Buenos Aires Argentina
+Washington D.C., Beijing and Singapore. Cairo Egypt
+Casablanca Morocco
+Charlotte United States of America
+Airbus operates 24 hours a day every day. Chengdu China
+AOG Technical and Spares calls Colombo Sri Lanka
+Copenhagen Denmark
+in North America should be addressed to: Dalian China
+Tel: +1 (703) 729 9000 Damascus Syria
+Delhi India
+Fax: +1 (703) 729 4373 Denver United States of America
+Derby United Kingdom
+Detroit United States of America
+AOG Technical and Spares calls outside
+Dhaka Bangladesh
+North America should be addressed to: Doha Qatar
+Dubai United Arab Emirates
+Tel: +49 (40) 50 76 3001/3002/3003
+Dublin Ireland
+Fax: +49 (40) 50 76 3011/3012/3013 Duluth United States of America
+Dusseldorf Germany
+Frankfurt Germany
+Airbus Training centre Toulouse, France Florence Italy
+Tel: +33 (0)5 61 93 33 33 Guangzhou China
+Hangzhou China
+Fax: +33 (0)5 61 93 20 94
+Hanoi Vietnam
+Helsinki Finland
+Hong Kong S.A.R. China
+Airbus Training subsidiaries
+Indianapolis United States of America
+Miami, USA - Florida Istanbul Turkey
+Tel: +1 (305) 871 36 55 Jakarta Indonesia
+Jinan China
+Fax: +1 (305) 871 46 49 Johannesburg South Africa
+Beijing, China Karachi Pakistan
+Katowice Poland
+Tel: +86 10 80 48 63 40 Kuala Lumpur Malaysia
+Fax: +86 10 80 48 65 76 Kuwait city Kuwait
+Lanzhou China
+Larnaca Cyprus
+AIRBUS TECHNICAL AOG CENTER (AIRTAC) Lisbon Portugal
+London United Kingdom
+Tel: +33 (0)5 61 93 34 00 Louisville United States of America
+Fax: +33 (0)5 61 93 35 00 Los Angeles United States of America
+support.airtac@airbus.com Luton United Kingdom
+33
+www.airbusworld.com
+Over a million pages of information, now online.
+We could write pages and pages on how we can make personalised details and you can even cut and paste any
+your business information management more cost effective. relevant information into your own
+But why hunt through endless filing cabinets when with documents. Don’t go through the
+Airbus On-Line Services you get rapid, up to date access long haul to find what you want,
+to all our technical data? It’s simple and easy to use. visit www.airbusworld.com instead.
+All subscribers have totally secure access to all their Airbus. Setting the standards.

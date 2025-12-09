@@ -1,0 +1,439 @@
+TCDS No.: E.055 Type
+Issue: 16 TAE 125 series engines Date: 27 October 2025
+TYPE-CERTIFICATE
+DATA SHEET
+No. E.055
+for
+TAE 125 series engines
+Type Certificate Holder
+Continental Aerospace Technologies GmbH
+Platanenstr. 14
+D-09356 Sankt Egidien
+Germany
+For Models:
+TAE 125-01
+TAE 125-02-99
+TAE 125-02-114
+TAE 125-02-114P
+TAE 125-02-125
+TAE 125-02-125R
+TE.CERT.00052-001 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 1 of 12
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+Intentionally left blank
+TE.CERT.00052-001 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 2 of 12
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: E.055 Type
+Issue: 16 TAE 125 series engines Date: 27 October 2025
+TABLE OF CONTENTS
+I. General ..................................................................................................................................... 4
+1. Type/ Model/ Variants ......................................................................................................... 4
+2. Type Certificate Holder ......................................................................................................... 4
+3. Manufacturer ....................................................................................................................... 4
+4. Date of Application ............................................................................................................... 4
+5. EASA Type Certification Date ................................................................................................ 4
+II. Certification Basis ..................................................................................................................... 5
+1. EASA Certification Basis ........................................................................................................ 5
+1.1. Airworthiness Standards .................................................................................................... 5
+1.2. Special Conditions (SC) ....................................................................................................... 5
+1.3. Equivalent Safety Findings ................................................................................................. 5
+1.4. Deviations ......................................................................................................................... 5
+1.5. Environmental Protection .................................................................................................. 5
+III. Technical Characteristics .......................................................................................................... 6
+1. Type Design Definition .......................................................................................................... 6
+2. Description ........................................................................................................................... 6
+3. Equipment ............................................................................................................................ 6
+4. Dimensions .......................................................................................................................... 6
+5. Dry Weight ........................................................................................................................... 6
+6. Ratings ................................................................................................................................. 6
+7. Control System ..................................................................................................................... 7
+8. Fluids (Fuel, Oil, Coolant, Additives) ...................................................................................... 8
+9. Aircraft Accessory Drives ...................................................................................................... 8
+IV. Operating Limitations .............................................................................................................. 8
+1. Temperature Limits .............................................................................................................. 8
+2. Speed Limits ......................................................................................................................... 8
+3. Pressure Limits ..................................................................................................................... 8
+4. Time Limited Dispatch (TLD) .................................................................................................. 9
+V. Operating and Service Instructions ........................................................................................... 9
+VI. Notes ...................................................................................................................................... 9
+SECTION: ADMINISTRATIVE ........................................................................................................ 12
+I. Acronyms and Abbreviations ............................................................................................... 12
+II. Type Certificate Holder Record ........................................................................................... 12
+III. Change Record .................................................................................................................. 12
+TE.CERT.00052-001 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 3 of 12
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: E.055 Type
+Issue: 16 TAE 125 series engines Date: 27 October 2025
+I. General
+1. Type/ Model/ Variants
+TAE 125 / TAE 125-01, TAE 125-02-99, TAE 125-02-114, TAE 125-02-114P, TAE 125-02-125,
+TAE 125-02-125R
+2. Type Certificate Holder
+Continental Aerospace Technologies GmbH
+Platanenstr. 14
+D-09356 Sankt Egidien
+Germany
+DOA EASA.21J.010
+3. Manufacturer
+Continental Aerospace Technologies GmbH
+POA DE.21G.0269
+Previous Manufacturers:
+Technify Motors GmbH (19 August 2013 to 31 July 2019)
+Thielert Aircraft Engines GmbH (before 19 August 2013)
+4. Date of Application
+TAE 125-01 TAE 125-02-99 TAE 125-02-114 TAE 125-02-114P TAE 125-02-125
+27 Febr. 2001 3 June 2005 13 Febr. 2007 22 June 2017 15 May 2019
+TAE 125-02-125R
+25 March 2022
+Note: Application for TAE 125-01 had been made to JAA before EASA was established.
+5. EASA Type Certification Date
+TAE 125-01 TAE 125-02-99 TAE 125-02-114 TAE 125-02-114P TAE 125-02-125
+03 May 2002 14 Aug. 2006 06 March 2007 18 October 2017 22 July 2020
+TAE 125-02-125R
+27 October 2025
+Note: TAE 125-01 had been certified by LBA Germany (TC/TCDS 4631) prior to EASA existence.
+This TCDS replaces LBA TCDS No 4631.
+Transfer date to EASA Type Certificate: 24 March 2006
+The TAE 125-02-114 engine model was previously approved as Major Change (power
+increase to 114 kW) to the initial 99 kW engine version under EASA approval number
+EASA.E.C.01379 on 3 Jan. 2007 (application date: 11 Sept. 2006).
+The TAE 125-02-99 engine model was previously approved as TAE 125-02.
+TE.CERT.00052-001 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 4 of 12
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: E.055 Type
+Issue: 16 TAE 125 series engines Date: 27 October 2025
+II. Certification Basis
+1. EASA Certification Basis
+1.1. Airworthiness Standards
+TAE 125-01 JAR-E, Change 10, 15 August 1999
+TAE 125-02-99 CS-E, 23 September 2003 except CS-E 130 (h) (see Note 2)
+TAE 125-02-114
+TAE 125-02-114P
+TAE 125-02-125
+TAE 125-02-125R CS-E, Amendment 6, 24 June 2020
+1.2. Special Conditions (SC)
+TAE 125-01 SC1 Electronic Engine Control System
+SC2 Contaminated Fuel
+SC3 Failure Analysis
+SC4 Fire Precautions
+SC5 Certification of Programmed Logic Devices
+TAE 125-02-99 SC1 Failure Analysis
+TAE 125-02-114
+TAE 125-02-114P
+TAE 125-02-125
+TAE 125-02-125R
+TAE 125-02-114P SC2 Engine Flame Out during Flight
+TAE 125-02-125
+TAE 125-02-125R SC2 Piston Engines intended for Use in Rotorcraft
+1.3. Equivalent Safety Findings
+TAE 125-01 ESF1 Propeller Functioning Test
+ESF2 Engine Test Control Parameters
+ESF3 Engine Type Design
+TAE 125-02-99 CS-E 70 and CS-E 100: Engine Type Design
+TAE 125-02-114
+TAE 125-02-114P
+TAE 125-02-125
+TAE 125-02-125R
+Endurance Test – Schedule for Engine Incorporating a
+TAE 125-02-125R
+Turbocharger
+1.4. Deviations
+none
+1.5. Environmental Protection
+none (not required for piston engines)
+TE.CERT.00052-001 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 5 of 12
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: E.055 Type
+Issue: 16 TAE 125 series engines Date: 27 October 2025
+III. Technical Characteristics
+1. Type Design Definition
+TAE 125-01: TDD 02-01, Issue 2 dated February 02, 2002 or later approved issue/revision
+TAE 125-02-99: TDD 02-02, Issue 1 dated June 30, 2006 or later approved issue/revision
+TAE 125-02-114: TDD 02-02, Issue 2 dated Dec. 11, 2006 or later approved issue/revision
+TAE 125-02-114P: TDD-02-02, Issue 4 dated July 19, 2013 or later approved issue/revision
+TAE 125-02-125: TDD-02-02-125, Issue 1 dated Jan. 31, 2020 or later approved issue/revision
+TAE 125-02-125R: TDD-02-02-125R, Issue 1 dated Sep. 01, 2023 or later approved issue/revision
+2. Description
+The TAE 125 engine is a 4-cylinder, four stroke Diesel piston engine with an displacement of
+1689 cm³ (TAE 125-01) resp. 1991 cm³ (TAE 125-02-99, TAE 125-02-114, -114P, -125), equipped
+with common rail high pressure direct injection, turbocharger, gearbox with reduction ratio of
+1 : 1.689 and propeller governor (except TAE 125-02-125R) and FADEC.
+3. Equipment
+See Installation Manual.
+4. Dimensions
+Model TAE 125-01 TAE 125-02-99, -114, 114P TAE 125-02-125 TAE 125-02-125R
+Overall Length 816 mm 816 mm 823 mm 624 mm
+Overall Height 636 mm 636 mm 624 mm 622 mm
+Width 778 mm 778 mm 778 mm 767 mm
+5. Dry Weight
+Model TAE 125-01, TAE 125-02- TAE 125-02- TAE 125-02-
+TAE 125-02-99, -114 114P 125 125R
+Weight 134 kg 153 kg 156 kg 129 kg
+6. Ratings
+Rating TAE 125-01, TAE 125-02- TAE 125-02- TAE 125-02-125
+TAE 125-02-99 114 114P
+125 kW at
+Take-off (5 min)
+99 kW at 114 kW at 114 kW at 3900 rpm
+3900 rpm 3900 rpm 3900 rpm 114 kW at
+Max. Continuous
+3800 rpm
+Max.
+85 kW at 88 kW at
+Recommended
+Power 3400 rpm 3400 rpm
+Cruising 71 kW at 97 kW at
+3400 rpm 3400 rpm
+Max. Best Economy 71 kW at 71 kW at
+Cruising 3250 rpm 3250 rpm
+TE.CERT.00052-001 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 6 of 12
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: E.055 Type
+Issue: 16 TAE 125 series engines Date: 27 October 2025
+Rating TAE 125-02-125R
+125 kW at
+Take-off (5 min)
+3900 rpm
+114 kW at
+Max. Continuous
+3900 rpm
+Max.
+90 kW at
+Power
+Recommended
+3900 rpm
+Cruising
+Note : The performance values specified above correspond to minimum values defined under
+the conditions of ICAO or ARDC standard atmosphere.
+7. Control System
+The engine is equipped with a Full Authority Digital Engine Control (FADEC). Software verified to
+level C according to RTCA Document DO-178B.
+TAE 125-01:
+FADEC P/N 02-7610-55001 R1 or later approved standard
+Software: TAE-125 m2.91 or later approved standard
+Software Mapping: Refer to Service Bulletin TM TAE 000-0007 for approved software
+P/N.
+TAE 125-02-99, TAE 125-02-114:
+FADEC P/N 05-7610-K000101 or later approved standard
+Software: TAE-125 m3.0 or later approved standard
+Software Mapping: Refer to Service Bulletin TM TAE 000-0007 for approved software
+P/N.
+TAE 125-02-114P:
+FADEC D4 P/N 05-7611-E0019 04 or later approved standard
+Software: D4-160 or later approved standard
+Software Mapping: Refer to Service Bulletin TM TAE 000-0007 for approved software
+P/N.
+TAE 125-02-125:
+FADEC D4 P/N 05-7611-E0019 06 or later approved standard
+Software: D4-190 or later approved standard
+Software Mapping: Refer to Service Bulletin TM TAE 000-0007 for approved software
+P/N.
+TAE 125-02-125R:
+FADEC D4 P/N 05-7611-E0019 06 or later approved standard
+Software: D4-220 or later approved standard
+Software Mapping: Refer to Service Bulletin TM TAE 000-0007 for approved software
+P/N.
+TE.CERT.00052-001 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 7 of 12
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: E.055 Type
+Issue: 16 TAE 125 series engines Date: 27 October 2025
+8. Fluids (Fuel, Oil, Coolant, Additives)
+See Operation & Maintenance Manual for approved fluids (see also Note 4).
+9. Aircraft Accessory Drives
+All models except TAE 125-02-114P: There are no provisions for customer/aircraft furnished
+equipment.
+TAE 125-02-114P Rotation Speed (rpm) Max. Torque Type of Drive
+Accessory Drive CW 7670 3.7 Nm Belt pulley
+CW = Clock-Wise
+Speed is indicated for a reference engine speed of 3900 rpm.
+Accessory drive direction of rotation is as viewed facing the drive.
+IV. Operating Limitations
+1. Temperature Limits
+Minimum opening up Fuel Temperature (for Diesel fuel operation only,
+see also OM-02-01 resp., OM-02-02, OM-02-02P, OM-02-02B, OM-02-02R): -5 °C (23 °F)
+Minimum opening up Oil Temperature: 50 °C (122 °F)
+Max. Oil Temperature (all except TAE 125-02-125, -125R): 140 °C (284 °F)
+Max. Oil Temperature (TAE 125-02-125, -125R): 120 °C (248 °F)
+Minimum ambient temperature for starting: -32 °C (-26 °F)
+Minimum ambient temperature for starting (TAE 125-02-114P, -125, -125R):-25 °C (-13 °F)
+Minimum opening up Cooling Fluid Temperature: 60 °C (140 °F)
+Max. Cooling Fluid Temperature: 105 °C (221 °F)
+Max. Gearbox Temperature (except TAE 125-02-125R): 120 °C (248 °F)
+2. Speed Limits
+Maximum Engine Overspeed (Crankshaft Speed): 4220 rpm
+3. Pressure Limits
+Minimum Fuel Pressure (at inlet of LP engine pump): 200 mbar (2.9 psi)
+Minimum Oil Pressure: 1.0 bar (14.5 psi)
+Minimum Oil Pressure (TAE 125-02-125R): 1.2 bar (17.4 psi)
+Oil Pressure (normal operation): 2.3 …6.0 bar
+(33.4 … 87 psi)
+Oil Pressure (normal operation, flight mode), (TAE 125-02-125R) 3.0 …6.0 bar
+(43.5 … 87 psi)
+Maximum Oil Pressure (for cold start, max. up to 20 sec): 6.5 bar (94.3 psi)
+TE.CERT.00052-001 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 8 of 12
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: E.055 Type
+Issue: 16 TAE 125 series engines Date: 27 October 2025
+4. Time Limited Dispatch (TLD)
+The engine is not approved for Time Limited Dispatch. All engine systems and equipment must be
+functional prior to aircraft take-off. Any detected engine system or equipment failure must be corrected
+before next flight. For special instructions, see applicable Operation & Maintenance Manual.
+V. Operating and Service Instructions
+Manuals TAE 125-01 TAE 125-02-99 , TAE 125- TAE 125-02- TAE 125-02-
+TAE 125-02-114 02-114P 125 125R
+Installation Manual IM-02-01 IM-02-02 IM-02-02P IM-02-02B IM-02-02R
+Operation Manual OM-02-01 OM-02-02 OM-02-02P OM-02-02B OM-02-02R
+Instructions for TAE 125-01 TAE 125-02-99, TAE 125- TAE 125-02- TAE 125-02-
+Continued TAE 125-02-114 02-114P 125 125R
+Airworthiness (ICA)
+Maintenance OM-02-01 OM-02-02 OM-02-02P OM-02-02B OM-02-02R
+Manual
+Repair Manual RM-02-01 RM-02-02 RM-02-02 RM-02-02 RM-02-02
+Overhaul Manual OHM-02-01 OHM-02-02 OHM-02-02 OHM-02-02 OHM-02-02
+Service Bulletins
+as issued
+and Service Letters
+VI. Notes
+1. Engine model numbers may include suffixes in parentheses to define installation specific
+configuration changes. The software of the electronic engine control for each application has a
+specific software mapping. See Service Bulletin TM TAE 000-0007 for the installation versions and
+software mappings. Also refer to Installation Manual for appropriate installation.
+2. The applicable EASA Certification Basis for the TAE 125-02 engine models (except -125R) would
+have been the same as for the TAE 125-01 engine model, however, TAE elected to comply to CS-
+E except for CS-E 130 (h).
+3. The TAE 125 engine models (except TAE 125-02-125R) are approved for the installation in Part 23
+normal and utility category airplanes. The TAE 125-02-125R engine model is approved for
+installation in Part 27 Category B rotorcraft.
+4. The TAE 125 engine is approved for the operation with Jet fuels (see Operation & Maintenance
+Manual) and Diesel fuel according to EN 590. However, the cloud point (CFPP) of Diesel fuel is
+regulated by national appendices to the EN 590 Standard, and it varies between the countries and
+the time of the year. Therefore, the installation of a fuel tank thermometer is required as well as
+TE.CERT.00052-001 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 9 of 12
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: E.055 Type
+Issue: 16 TAE 125 series engines Date: 27 October 2025
+a minimum engine starting temperature is defined (refer to Installation Manual IM-02-01 resp.
+IM-02-02, IM-02-02P, IM-02-02B, IM-02-02R).
+The TAE 125-02-114P and TAE 125-02-125, -125R engine have been tested for fuels up to
+minimum derived cetane number of 40 (TAE 125-02-114P) resp. 36 (TAE 125-02-125, -125R,
+determined according EN ISO 5165) for an operating envelope defined in the applicable
+Installation Manual.
+5. The TAE 125-01 engine, including the FADEC, is approved for use with the propeller MTV-6-A/187-
+129, MTV-6-A/190-129 and MTV-6-A-C-F/CF187-129 models. This approval does not include the
+approval of the propellers and their control systems (see also Note 12).
+The TAE 125-02-99 and TAE 125-02-114 engine models, including the FADEC, are approved for
+use with the propeller models
+MTV-6-A-(1*)/(2**)-(3***)-(4****)
+(1*) Feather provision (Hub):
+- blank = no feather position possible
+- C - F = counterweights for pitch change forces to increase pitch and feather
+position possible
+(2**) Position of pitch change pin:
+- blank = pin position for pitch change forces to decrease pitch (Constant Speed)
+- CF (Constant Speed & Feather) pin position to allow feather, pitch change forces
+to increase pitch
+(3***) Propeller Diameter:
+- Propeller diameter from 175cm to 190cm
+(4****) Identification of blade design:
+- 69
+- 80
+- 129
+This approval does not include the approval of the propellers and their control systems (see also
+Note 12).
+The TAE 125-02-114P engine, including the FADEC, is approved for use with the propeller MTV-6-
+A/LD203-80 model. The TAE 125-02-125 engine, including the FADEC, is approved for use with the
+propeller MTV-6-R/190-69 model. These approvals do not include the approval of the propellers
+and their control systems (see also Note 12).
+6. For TAE 125-01: Overhaul is permitted for several engine parts only, see Overhaul Manual OHM-
+02-01.
+7. For the TAE 125-01 core engine a recommended engine life has been established. The Time
+Between Replacement (TBR) of the TAE 125-01 and the Time Between Overhaul (TBO) of the TAE
+125-02 models is published in Service Bulletin TM TAE 125-0001.
+8. The engine control system has been tested according to DO-160D for lightning protection and
+magnetic interference. The demonstrated levels are declared in the Installation Manual.
+TE.CERT.00052-001 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 10 of 12
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: E.055 Type
+Issue: 16 TAE 125 series engines Date: 27 October 2025
+9. The FADEC must not be installed in a dedicated fire zone. The installation conditions are defined
+in the Installation Manual.
+10. Installation Assumptions: See Installation Manual.
+11. The EASA approved Airworthiness Limitations Section of the Instructions for Continued
+Airworthiness is published in the applicable "Operation & Maintenance Manual" document,
+chapter 5 "Airworthiness Limitations".
+12. This engine design (except -125R) features an integrated propeller control in the FADEC. The
+software in the FADEC has been developed in accordance with DO-178B at level C. The approval
+of the engine and its FADEC does not include approval of the propeller control system.
+13. Sales name of the model
+TAE 125-01: CENTURION 1.7
+TAE 125-02-99: CD-135 (previous name until 18 July 2014:
+CENTURION 2.0)
+TAE 125-02-114: CD-155 (previous name until 18 July 2014:
+CENTURION 2.0 S)
+TAE 125-02-114P: CD-155P
+TAE 125-02-125: CD-170
+TAE 125-02-125R: CD-170R
+TE.CERT.00052-001 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 11 of 12
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: E.055 Type
+Issue: 16 TAE 125 series engines Date: 27 October 2025
+SECTION: ADMINISTRATIVE
+I. Acronyms and Abbreviations
+n/a
+II. Type Certificate Holder Record
+Thielert Aircraft Engines GmbH
+before 19 August
+Platanenstr. 14
+2013
+D-09350 Lichtenstein
+Germany DOA EASA.21J.010
+Technify Motors GmbH
+Platanenstr. 14 19 August 2013 to
+D-09356 Sankt Egidien 31 July 2019
+Germany DOA EASA.21J.010
+Continental Aerospace Technologies GmbH
+From 01 August
+Platanenstr. 14
+2019
+D-09356 Sankt Egidien DOA EASA.21J.010
+III. Change Record
+Issue Date Changes TC issue
+Issue 1 24 March 2006 Initial version 24 March 2006
+Issue 2 14 August 2006 Addition of new model TAE 125-02 14 August 2006
+Issue 3 03 January 2007 For TAE 125-02: Increase of take-off power from
+99 kW to 114 kW, decrease of min. ambient
+temp. for starting from -25°C to -32 °C
+Issue 4 06 March 2007 Introduction of TAE 125-02-99 and TAE 125-114 06 March 2007
+as separate models
+Issue 5 11 May 2007 Editorial change
+Issue 6 22 April 2008 Increase of TAE 125-02-114 max.
+recommended/ best economy cruising power
+from 71 kW to 97 kW
+Issue 7 19 August 2013 Change of TC Holder /Manufacturer 19 August 2013
+Issue 8 20 March 2014 Change in Note 5: Approved propellers for TAE
+125-02-99 and TAE 125-02-114
+Issue 9 18 July 2014 Change of sales names
+Issue 10 08 January 2016 Change in Note 6 and 7: Limited overhaul for
+TAE 125-01 only
+Issue 11 18 October 2017 Addition of TAE 125-02-114P as new model 18 October 2017
+Issue 12 02 December 2019 Name Change of TC Holder /Manufacturer 02 December 2019
+Issue 13 22 July 2020 Addition of TAE 125-02-125 as new model 22 July 2020
+Issue 14 18 August 2021 Editorial correction: Missing max. oil temp. and
+dimensions for TAE 125-02-125 added
+Issue 15 08 April 2025 For TAE 125-02: Addition of EN 15940 (Note 4.)
+Issue 16 27 October 2025 Addition of TAE 125-02-125R as new model 27 October 2025
+(EASA Major Change Approval 10088414).
+-END-
+TE.CERT.00052-001 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 12 of 12
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union

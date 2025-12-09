@@ -1,0 +1,2447 @@
+Advisory
+US.D epartment Circular
+of Transportation
+Federal Aviation
+Administration
+AC 120-40B
+Date: 7/ 2Q/Ql
+AIRPLANE SIMULATOR
+QUALIFICATION
+_--.-__
+Initiated By: ASO-
+. Advisory
+Circular
+-- - _._____-__-_ _____
+AIRPLANE SIMULATOR Date: 7129191 ACNE. 1%4OB
+QUALIFICATION
+Initiated by: ASO- chge~
+I PURPOSE. This advisory circular (AC) provides an acceptable means, but not the
+l
+only means, of compliance with the Federal Aviation Regulations (FAR) regarding the
+evaluationand qualification of airplane simulatorsused in training programs or airmen
+checking under Title 14 Code of Federal Regulations (CFR). Criteria specified in this
+AC are those used by the Federal Aviation Administration (FAA) to determine.whether
+a simulator is qualified and the qualification level. While these guidelines are not
+mandatory, they are derived from extensive FAA and industry experience in determining
+compliance with the pertinent FAR. Mandatory terms used in this AC such as "shall"
+or "must" are used only in the sense of ensuring applicability of this particular
+method of compliance when the acceptable method of compliance described herein is
+used. Applicable regulations, must also be referenced to assure compliance with the
+provisions therein. This AC does not change regulatory requirements or create
+additional ones, and does not authorize changes in, or deviations from, regulatory
+requirements. The provisions of the FAR are controlling. This document does not
+interpret the regulations. Interpretations are issued only under established agency
+procedures. This AC applies only to the evaluation of airplane simulators. See, for
+example, AC 120-45, Advanced Training Devices (Airplane Only) Evaluation and
+Qualification.
+2 CANCELLATION. AC 120040A, Airplane Simulator and Visual System Evaluation, dated
+J;ly 31, 1986, is canceled. Operators having simulator improvement or acquisition
+projects in progress on the effective date df this advisory circular have 90 days from
+the effective date to notify the National Simulator Program Manager (NSPM) of those
+projects which the operator desires to complete under the provisions of AC 120-40A.
+3 RELATEDF AR SECTIONS. FAR Part 1; FARSections 61.57, 61.58, and 61.157, FAR Part
+.6i Appendix A; FAR Section 63.39, FAR Part 63 Appendix C; FAR Sections 121.407,
+121.409, 121.439, and 121.441; FAR Part 121 Appendices E, F, and H; FAR Sections
+125.285, 125.287, 125.291, and 125.297; and FAR Sections 135,293, 135.297, 135.323,
+and 135.335.
+.4 RELATED READING MATERIAL. AC 120028C, Criteria for Approval of Category III
+Landing Weather Minima; AC 12049, Criteria for Approving Category I and Category II
+Landing Minima for FAR 121 Operators; AC 120035B, Line Operational Simulations: Line-
+Oriented Flight Training, Special Purpose Operational Training, Line Operational
+Evaluation; AC' 120-41, Criteria for Operational Approval of Airborne Wind Shear
+Alerting and Flight Guidance Systems; AC 120-45, Advanced Training Devices (Airplane
+Only) Evaluation and Qualification; AC 120-46, Use of Advanced Training Devices
+(AirplaneOnly); AC 150/5300-13,Airport Design; AC 150/5340-IF, Marking of Paved Areas
+on Airports; AC 150/5340-4C, Installation Details for Runway Centerline Touchdown Zone
+Lighting Systems; AC 150/5340-19, Taxiway Centerline Lighting System; AC 150/534b-24,
+Runway and Taxiway Edge Lighting System; and AC 150/5345-28D, Precision Approach Path
+Indicator (PAPI) Systems.
+AC 120040B- 7729791
+5 . BACKGROUND.
+a. The availability of advanced technology has permitted greater use of
+flight simulators for training and checking of flight crewmembers. The
+complexity, costs, and operating environment of modern aircraft also has
+encouraged broader use of advanced simulation. Simulators can provide more
+indepth training than can be accomplished in airplanes and provide a very high
+transfer of learning and behavior from the simulator to the airplane. The use
+of simulators, in lieu of airplanes, results in safer flight training and cost
+reductions for the operators. It also achieves fuel conservation and reduction
+in adverse environmental effects.
+b Astechnologyprogressed and the capabilities of flight simulation were
+recognized, FAR revisions were made to permit the increased use of simulators
+in approved training programs. Simulators have been used in training and some
+checking programs since the middle 1950's. Various FAR amendments gradually
+permitted additional simulator credits. The most significant recognition of
+simulator capability has occurred since the early 1970's. In December 1973, FAR
+Amendments 61-62 and 121-108 permitted additional use of visual simulators.
+Amendments to FAR Section 121.439 permitted simulators approved for “the landing
+maneuver” to be substituted for the airplane in a pilot recency of experience
+qualification. These changes to the FAR constituted a significant step toward
+the development of Amendments 61-69 and 121-161 issued June 24, 1980, which
+contained the FAA Advanced Simulation Plan. To support this plan, the National
+Simulator Evaluation Program was established by the FAA in October 1980. The
+program is administered and directed by the NSPM.
+c. The need for standard criteria was necessitated by the use of
+simulators for training and checking. The evolution of the simulator technology
+and the concomitant increased permitted use has required a similar evolution of
+the criteria for simulator qualification. A listing of known simulator criteria
+should, therefore, be informative. The qualification basis for a given simulator
+may be any of the past criteria, depending on when the simulator was first
+approved or last upgraded. The following list provides the effective dates of
+simulator qualification criteria documents:
+FAR Part 121, Appendix B l/9/65 to 2/2/70
+AC 121-14 12/19/69 to 2/9/76
+AC 121014A 2/9/76 to 10/16/78
+AC 121014B 10/16/78 to 8/29/80
+FAR Part 121, Appendix H 6/30/80 to Present
+AC 121014C 8/29/80 to l/31/83
+AC 120-40 l/31/83 to 7/31/86
+AC 120-40A 7/31/86
+Each of these documents has addressed the greater complexity represented by
+succeeding generations of simulators. Complexity of the highest level is not,
+however, required of all simulators. In fact, simulators are divided into levels
+Par 5
+7129191 - AC 120040B
+that authorize additional training and checking with increased simulator
+capability. Until the advent of the Advanced Simulation Plan, there were two
+levels of simulators --nonvisual andvisual. Some visual simulators were approved
+for “the landing maneuver ” The Advanced Simulation Plan introduced three
+l
+additional levels--Phase I, Phase II, and Phase III. Those visual simulators
+previously approved for “the landing maneuver” were incorporated into Phase I.
+The training and checking credits for nonvisual and visual simulators were
+delineated in FAR Part 61, Appendix A, and FAR Part 121, Appendices E and F.
+Credits for Phases I, II, and III were contained in the Advanced Simulation
+Plan. Four levels of simulators were, therefore, addressed; Basic (nonvisual
+and visual simulators), Phase I, Phase II, and Phase III. Each of the four
+levels is progressively more complex than the preceding level and each contains
+all the features of preceding levels plus the requirements for the designated
+level. As the technology has advanced, so has the qualification guidance.
+Efforts to keep the criteria updated are, therefore, ongoing with active
+participation from both industry and government resources.
+d Continuing this same process, the FAA, in coordination with industry,
+has reiiewed a wide spectrum of devices used in training in order to provide
+guidance on required standards and permitted uses. While recognizing the
+requirement to categorize and define training devices, it became obvious that
+the designation of simulators was outmoded. The concept of phases was no longer
+applicable since it derived from an FAR provision which allowed operators to
+upgrade their simulator inventories in phases while enjoying certain simulator
+use privileges. The concept of upgrade in phases is essentially complete and
+the designation of “phase” for identification of simulator complexitv is no
+longer descriptive. Operators no longer begin at a lower level of qualification
+and upgrade in phases. The tendency is to acquire a given level simulator that
+best suits their position. Therefore, simulators were redesignated. The new
+designations and their relationships with the simulator definitions used
+previously and in FAR Part 121, Appendix H, are:
+Level A - Visual
+Level B - Phase I
+Level C - Phase II
+Level D - Phase III
+Nonvisual simulators are now grouped with Level 6 training devices, but must meet
+the requirements, except for visual, of a Level A simulator. There is no other
+change in their characteristics or description; just their “name.” Alphabetic
+designations were chosen for simulators to maintain a distinction from the
+numerically designated training devices.
+6 . DEFINITIONS.
+a. Airplane Simulator is a full size replica of a specific type or make,
+model, and series airplane cockpit, including the assemblage of equipment and
+computer programs necessary to represent the airplane in ground and flight
+operations, a visual system providing an out-of-the-cockpit view, and a force
+Par 5
+AC 120~40B-. 7129191
+cueing system which provides cues at least equivalent to that of a three
+degrees-of-freedommotion system; and is incompliance withtheminimum standards
+for Level A simulator.
+b Approval Test Guide (ATG) is a document designed to validate that the
+performance and handling qualities of a simulator agree within prescribed limits
+with those of the airplane and that all applicable regulatory requirements have
+been met. The ATG includes both the airplane and simulator data used to support
+the validation. The Master Approval Test Guide (MATG) is the FAA approved ATG
+and incorporates the results of FAA witnessed tests. The MATG serves as the
+reference for future evaluations.
+c. Convertible Simulator is a simulator in which hardware and software
+can be changed so that the simulator becomes a replica of a different model,
+usually of the same type airplane. Thus, the same simulator platform, cockpit
+shell, motion system, visual system, computers, and necessary peripheral
+equipment can be used in more than one simulation.
+s
+d Highlight Brightness is the area of maximum displayed brightness which
+satisfies the brightness test in appendix 1, item 4k.
+e. Latency is the additional time beyond that of the basic airplane
+perceivable response time due to the response time of the simulator. This
+includes the update rate of the computer system combined with the respective time
+delays of the motion system, visual system or instruments.
+f NSPM is the FAA Manager responsible for the overall administration and
+direction of the National Simulator Evaluation Program.
+g* Operator, as used in this AC, identifies the person or organization
+requesting FAA qualification of a simulator and is responsible for continuing
+qualification and liaison with the FAA.
+h . Simulation Data are the various types of data used by the simulator
+manufacturer and the applicant to design, manufacture, and test the flight
+simulator. Normally, the airplane manufacturer will supply airplane data to the
+simulator manufacturer.
+i. Simulator Evaluation Specialist is anFAA technical specialist trained
+to evaluate simulators and to provide expertise on matters concerning airplane
+simulation.
+j. Snapshot is a presentation of one or more variables at a given instant
+of time. A snapshot is appropriate for a steady state condition in which the
+variables are constant with time.
+k Statement of Compliance (SOC) is a certification from the operator that
+specific requirements have been met. It must provide references to needed
+sources of information for showing compliance, rationale to explain how the
+4 Par 6
+7/29/91 AC 120~40B
+referenced material is used, mathematical equations and parameter values used,
+and conclusions reached.
+1 Time History is a presentation of the change of a variable with respect
+to time. It is usually in the form of a continuous data plot over the time
+period of interest or a printout of test parameter values recorded at multiple
+constant time intervals over the time period of interest.
+IL Transport Delay is the total simulator system processing time required
+for an input signal from a pilot primary flight control until motion system,
+visual system, or instrument response. It is the overall time delay incurred
+from signal input until output response. It does not include the characteristic
+delay of the airplane simulated. ’
+n. Upgrade, for the purpose of this AC, means the improvement or
+enhancement of a simulator for the purpose of achieving a higher level
+qualification.
+0. Validation Flight Test Data, for the purpose of this AC, are
+performance, stability and control, and other necessary test parameters
+electrically or electronically recorded in an airplane using a calibrated data
+acquisition system of sufficient resolution and verified as accurate by the
+company performing the test to establish a reference set of relevant parameters
+to which like simulator parameters can be compared. Other data, such as
+photographic data, maybe consideredacceptable flight test dataafter evaluation
+by the NSPM.
+P* Visual System Response Time is the interval from an abrupt control
+input to the completion of the visual display scan of the first video field
+containing the resulting different information.
+7 . DISCUSSION.
+a. The procedures and criteria for simulator evaluations under the
+National Simulator Evaluation Program are contained in this AC. A simulator,
+qualified by the NSPM in accordance with the guidance and standards herein, will
+be recommended to the operator’s principal operations inspector (POI) or
+certificate holding district office, as appropriate, for approval for use within
+an operator’s training program.
+b Evaluation of simulators used for training or certification of airmen
+l
+under Title 14 CFR fall under the direction of the National Simulator Evaluation
+Program. A simulator will be evaluated under the provisions of this AC if it
+is used in a training program approved under FAR Parts 63, 121, 125, or 135; or
+if it is used by an operator in the course of conducting the Pilot-in-command
+proficiency check required by FAR Section 61.58 or the issuance of an airline
+transport pilot certificate or type rating in accordance with the provisions of
+FAR Section 61.157.
+Par 6 5
+7724741
+AC 12040B .
+c. Under the National Simulator Evaluation Program concept, a simulator
+is evaluated for a specific operator by an FAA Simulator Evaluation Specialist.
+Based on a successful evaluation, the NSPM will certify that the simulator meets
+the criteria of a specific level of qualification. Upon qualification by the
+NSPM, approval for use of the simulator in a particular training program will
+be determined by the PO1 in the case of FAR Parts 63, 121, 125, or 135
+certificate holders or by the Flight Standards District Office (FSDO) responsible
+for oversight of a training center when the training center is using the
+simulator to conduct checks required by FAR Part 61.
+d FAA evaluations of simulators located outside the United States will
+be performed if such simulators are being used by a U.S. operator to train or
+certificate U.S. airmen. Evaluations may be conducted otherwise as deemed
+appropriate by the Administrator on a case-by-case basis.
+e. Operators who contract to use simulators alreadyqualifiedand approved
+at a particular level for an airplane type are not subject to the qualification
+process. However, they are required to obtain FAA approval to use the simulator
+in their approved training programs.
+8 . EVALUATION POLICY.
+a. The methods, procedures, and standards defined in this AC provide one
+means 9 acceptable to the Administrator, to evaluate and qualify a simulator.
+If an applicant desires to use another means, a proposal must be submitted to
+the NSPM for review and approval prior to the submittal of a detailed ATG. If
+an applicant chooses to utilize the approach described in this AC, the applicant
+must adhere to all of the methods, procedures, and standards herein.
+b The simulator must be assessed in those areas which are essential to
+l
+completing the airman training and checking process. This includes the
+simulator’s longitudinal and lateral-directional responses; performance in
+takeoff, climb, cruise, descent, approach, and landing; control checks; cockpit,
+flight engineer, and instructor station functions checks; and certain additional
+requirements depending upon the complexity or qualification level of the
+simulator. The motion system and visual system will be evaluated to ensure their
+proper operation.
+c. The intent is to evaluate the simulator as objectively as possible.
+Pilot acceptance, however, is also an important. consideration. Therefore, the
+simulator will be subjected to validation tests listed in appendix 2 of this AC
+and the functions and subjective tests from appendix 3. These tests include a
+qualitative assessment of the simulator by an FAA pilot who is qualified in the
+respective airplane. Validation tests are used to compare objectively simulator
+and airplane data to assure that they agree within specified tolerances.
+Functions tests provide a basis for evaluating simulator capability to perform
+over a typical training period and to verify corr:ct operation of the simulator
+\
+controls, instruments, and systems.
+Par 7
+AC 120-40B
+7/29/91
+d Tolerances, listed for parameters inappendix 2, should not be confused
+l
+with design tolerances specified for simulator manufacture. Tolerances for the
+parameters listed in appendix 2 are the maximum acceptable to the Administrator
+for simulator validation.
+e. A convertible simulator will be addreSsed as a separate simulator for
+each model and series to which it will be converted and FAA qualification
+sought. An FAA evaluation is required for each configuration. For example, if
+an operator seeks qualification for two models of an airplane type using a
+convertible simulator, two ATG’s or a supplemented ATG, and two evaluations are
+required.
+f For airplanes issued an original type certificate after June 1980 or
+for significant amendments to an original type certificate, or for a supplemental
+type certificate whichwould result in handling qualities or performance changes,
+only manufacturer’s flight test data will be accepted for initial qualification.
+Exceptions to this policy must be submitted to the NSPM for review and
+consideration. It is the intent of the FAA that all tests listed in this AC be
+applied to simulator qualification. However, for airplanes which were type
+certificated, their flight tests completed and data released before the issuance
+of this AC, the NSPM will consider the use of alternative data from the airplane
+manufacturer. For older airplanes, particularly those certificated before June
+1980, additional flight testing may be necessary. For a new type or model of
+airplane, predicted data validated by flight test data, which has not received
+final approval by the manufacturer, can be used for an interim period as
+determined by the FAA. In the event that predicted data are used in programming
+the simulator, it should be updated as soon as practicable when actual airplane
+flight test data become available. Unless specific conditions warrant otherwise,
+simulator programming should be updated within 6 months after release of the
+final flight test data package by the airplane manufacturer.
+g. If a problem with a validation test result is detected by the FAA
+Simulator Evaluation Specialist, the test may be repeated. If it still does not
+meet the test tolerance, the operator may demonstrate alternative test results
+which relate to the test in question. In the event a validation test(s) does
+not meet specified criteria, but the criteria is not considered critical to the
+level of evaluation being conducted, the NSPM may conditionally qualify the
+simulator at that level. The operator will be given a specified period of time
+to correct the problem and submit the ATG changes to the NSPM for evaluation.
+Alternatively, if it is determined that the results of a validation test would
+have a detrimental effect on the level of qualification being sought or is a firm
+regulatory requirement, the NSPM may qualify the simulator to a lesser level or
+restrict maneuvers based upon the evaluation completed. For example, if a
+Level D evaluation is requested and the simulator fails to meet landing test
+tolerances, it could be qualified at Level A.
+h Evaluation dates will not be established until the ATG has been
+reviewdd by the NSPM and determined to be acceptable. Within 10 working days
+of receiving an acceptable ATG, the NSPM will coordinate with the operator and
+Par 8 7
+AC 120040B - - 7129191
+PO1 to set a mutually acceptable date for the evaluation. To avoid unnecessary
+delays, operators are encouraged to work closely with the NSPM during the ATG
+development process prior to making formal application.
+i. At the discretion of the FAA Simulator Evaluation Specialist, the
+operator’s pilots may assist in completing the functions and validation tests
+during evaluations. However, only FAA personnel should manipulate the pilot
+controls during the functions check portion of an FAA evaluation.
+9 . INITIAL OR UPGRADE EVALUATIONS.
+a. Anoperator seeking simulator initial or upgrade evaluationmust submit
+a request in writing to the NSPM through the PO1 or responsible FAA FSDO. This
+request should containa compliance statement certifying that the simulator meets
+all of the provisions of this AC, that the cockpit configuration conforms to that
+of the airplane, ‘that specific hardware and software configuration control
+procedures have been established, and that the pilot(s) designated by the
+operator confirm that it is representative of the airplane in all functions test
+areas. A sample letter of request is included in appendix 4.
+b . The operator should submit an ATG which includes:
+(1) A title page with the operator and FAA approval signature blocks.
+(2) A simulator information page, for each configuration in the case
+of convertible simulators, providing:
+(i) The operator’s simulator identification number or code.
+(ii) Airplane model and series being simulated.
+(iii) Aerodynamic data revision.
+(iv) Engine model and its data revision.
+(v) Flight control data revision.
+(vi) Flight Management System identification and revision level.
+(vii) Simulator model and manufacturer.
+(viii) Date of simulator manufacture.
+(ix) Simulator computer identification.
+(x) Visual system model and manufacturer.
+(xi) Motion system type and manufacturer.
+(3) Table of contents.
+(4) Log of revision and/or list of effective pages.
+(5) Listing of all reference source data.
+(6) Glossary of terms and symbols used.
+Par 8
+7129191 . AC 120-40B
+(7) SOC with certain requirements. SOC’s must provide references to
+sources of information for showing compliance, rationale to explain how the
+referenced material is used, mathematical equations and parameter values used,
+and conclusions reached. Refer to appendix 1, “Simulator Standards ,” comments
+column, for SOC requirements.
+(8) Recording procedures or required equipment for the validation
+tests.
+(9) The following for each validation test designated in appendix 2
+of this AC:
+(i) Name of the test.
+(ii) Objective of the test.
+(iii) Initial conditions.
+(iv) Manual test procedures.
+(v) Automatic test procedures (if applicable).
+(vi) Method for evaluating simulator validation test results.
+(vii) Tolerances for relevant parameters.
+(viii) Source of Airplane Test Data (document and page number).
+(ix) Copy of Airplane Test Data.
+(x) Simulator Validation Test Results as obtained by the
+operator.
+(xi) A means, acceptable to the NSPM, of easily comparing the
+simulator test results to airplane test data.
+c. The operator’s simulator test results must be recorded on a
+multichannel recorder, line printer, or other appropriate recording media
+acceptable to the NSPM. Simulator results should be labeled using terminology
+common to airplane parameters as opposed to computer software identifications.
+These results should be easily compared with the supporting data by employing
+cross-plotting, overlays, transparencies, or other acceptable means. Airplane
+data documents included in an ATG may be photographically reduced only if such
+reduction will not alter the graphic scaling or cause difficulties in scale
+interpretationor resolution. Incremental scales ongraphical presentations must
+provide the resolution necessary for evaluation of the parameters shown in
+appendix 2. The test guide will provide the documented proof of compliance with
+the simulator validation tests in appendix 2. In the case of a simulator
+upgrade, an operator should run all validation tests for the requested
+qualification level. Validation test results offered in a test guide for a
+previous initial or upgrade evaluation should not be used to validate simulator
+performance in a test guide offered for a current upgrade. For tests involving
+time histories, flight test data sheets, or transparencies thereof, and simulator
+test results should be clearly markedwith appropriate reference points to ensure
+an accurate comparison between simulator and airplane with respect to time.
+Operators using line printers to record time histories should clearly mark that
+information taken from the line printer data output for cross-plotting on the
+airplane data. The cross-plotting of the operator’s simulator data to airplane
+Par 9
+AC 120940B 7/29/91
+data is essential to verify simulator performance in each test. During an
+evaluation, the FAA will devote its time to detailed checking of selected tests
+from the ATG. The FAA evaluation serves to validate the operator’s simulator
+test results.
+d The completed ATG and the operator’s compliance letter and request for
+the evaluation will be submitted through the operator’s POI. The PO1 will then
+submit the total package with a letter or memorandum of endorsement to the NSPM.
+The ATG will be reviewed and determined to be acceptable prior to scheduling an
+evaluation of the simulator.
+e. A copy of an ATG for each type simulator by each simulator manufacturer
+will be required for the NSPM’s file. The NSPM may elect not to retain copies
+of the ATG for subsequent simulators of the same type by a particular
+manufacturer, but will determine the need for copies on a case-by-case basis.
+Data updates to an original ATG should be provided to the NSPM in order to keep
+FAA file copies current.
+f The operator may elect to accomplish the ATG validation tests while
+the simulator is at the manufacturer’s facility. Tests at the manufacturer’s
+facility should be accomplishedat the latest practical time prior to disassembly
+and shipment. The operator must thenvalidate simulator performance at the final
+location by repeating at least one-third of the validation tests in the ATG and
+submitting those tests to the NSPM. After review of these tests, the FAA will
+schedule an initial evaluation. The ATG must be clearly annotated to indicate
+when and where each test was accomplished.
+& In the event an operator moves a simulator to a new location and its
+level of qualification is not changed, the following procedures shall apply:
+(1) Advise the PO1 and NSPM of the move.
+(2) Prior to returning the simulator to service at the new location,
+the operator should perform a typical recurrent validation and functions test.
+The results of such tests will be retained by the operator and be available for
+inspection by the FAA at the next evaluation or as requested.
+(3) The NSPM may schedule an evaluation prior to return to service.
+h When there is a change of operator, the new operator must accomplish
+all requiredadministrative procedures including the submission of the currently
+approved Master Approval Test Guide (MATG) through the PO1 to the NSPM. The ATG
+must be identified with the new operator by displaying the operator’s name or
+logo. The PO1 will then submit the package as described in paragraph 8d above.
+The simulator may, at the discretion of the NSPM, be subject to an evaluation
+in accordance with the original qualification criteria. However, a simulator
+having Phase I status resulting from a landing maneuver approval under AC 121014B
+must meet the Phase I requirements in FAR Part 121, Appendix H, in the event of
+the sale or transfer of the simulator from one operator to another.
+IO Par 9
+7/29/91 AC 120040B
+i. The scheduling priority for initial and upgrade evaluations will be
+based on the sequence in which acceptable ATG's and evaluation requests are
+received by the NSPM.
+j. The ATG will be approved after the completion of the initial or upgrade
+evaluation and all discrepancies in the ATG have been corrected. This document,
+after inclusion of the FAA witnessed test results, becomes the MATG. The MATG
+will then remain in the custody of the operator for use in future recurrent
+evaluations.
+10 . RECURRENTE VALUATIONS.
+a. For a simulator to retain its qualification, it will be evaluated on
+a recurrent basis using the approved MATG. Unless otherwise determined by the
+NSPM, recurring evaluations will be accomplished every 4 months by a Simulator
+EvaluationSpecialist. Each recurrent evaluation, normally scheduled for 8 hours
+of simulator time, will consist of functions tests and approximately one-third
+of the validation tests in the MATG. The MATG is to be completed annually.
+b Dates of recurrent evaluations will normally not be scheduled beyond
+30 days of the date due. Exceptions to this policy will be considered by the
+NSPM on a case-by-case basis to address extenuating circumstances.
+c. In the interest of conserving simulator time, the following Optional
+Test Program (OTP) is an alternative to the 8-hour recurrent evaluation
+procedure:
+(1) Operators 0 f simula tors having the app ropria teautomatic recording
+and plotting capabilities may aPP ly for eval uation under the OTP.
+(2) Operators must notify the NSPM in writing of their intent to enter
+the OTP. If the FAA determines that the evaluation can be accommodated with
+4 hours or less of simulator time, recurrent evaluations for that simulator will
+be planned for 4 hours. If the 4-hour period is or will be exceeded and the
+operator cannot extend the period, then the evaluation will be terminated and
+must be completed within 30 days to maintain qualification status. The FAA will
+then reassess the appropriateness of the OTP.
+(3) Under the OTP, at least one-third of all the validation tests will
+be performed and certified by operator personnel between FAA recurrent
+evaluations. Complete coverage will be required through any three consecutive
+recurrent evaluations. These tests and results will be reviewed by the FAA
+Simulator Evaluation Specialist at the outset of each evaluation. The one-
+third of validation tests executed for each recurrent evaluation should be
+accomplishedwithin the 30 days prior to the scheduled evaluation or accomplished
+on an evenly distributed basis during the 4-month period preceding the scheduled
+evaluation. Twenty percent of those tests conducted by the operator for each
+recurrent evaluation will then be selected and repeated by the Simulator
+Evaluation Specialist along with 10 percent of those tests not performed by the
+operator.
+Par 9
+11
+AC 120040B 7129191
+d . With appropriate arrangement and understanding between the operator
+and FAA, an extended interval recurrent evaluation schedule based on semiannual
+FAA inspections can be arranged. The extended interval evaluation schedule
+relies on quarterly checks by the operator.
+e. Prior to arrival for an on-site evaluation, the FAA inspector will
+notify the operator if any tests are planned to be run that may require special
+equipmentor technicians. These tests would includelatencies, control dynamics,
+sounds and vibrations, or motion system tests.
+f In instances where an operator plans to remove a simulator from active
+status’for prolonged periods, the following procedures shall apply to requalify
+the simulator pursuant to this AC:
+(1) The NSPM and PO1 shall be advised in writing. The notice shall
+contain an estimate of the period that the simulator will be inactive.
+(2) Recurrent evaluations will not be scheduled during the inactive
+period. The NSPM will remove the simulator from qualified status on a mutually
+established date not later than the date on which the first missed recurrent
+evaluation would have been scheduled.
+(3) Before a simulator can be restored to FAA qualified status, it
+will require an evaluation by the NSPM. The evaluation content and time required
+for accomplishment will be based on the number of recurrent evaluations missed
+during the inactive period. For example, if the simulator were out of service
+for 1 year, it would be necessary to complete the entire test guide since under
+the recurrent evaluation program, the MATG is to be completed annually.
+(4) The operator will notify the NSPM of any changes to the original
+scheduled time out of service.
+(5) The simulator will normally be requalified using the FAA-approved
+MATG and criteria that was in effect prior to its removal from
+qualification; however, inactive periods exceeding 1 year will require a review
+of the qualification basis and, if conditions warrant, may require the
+establishment of a new qualification basis.
+11 SPECIAL EVALUATIONS.
+l
+a. Between recurring evaluations, if deficiencies are discovered or it
+becomes apparent that the simulator is not being maintained to initial
+qualification standards, a special evaluation of the simulator may be conducted
+by the NSPM to verify its status.
+b . The simulator will lose its qualification when the NSPM can no longer
+ascertain maintenance of the original simulator validation criteria based on a
+recurrent or special evaluation. Additionally, the PO1 shall advise the operator
+and the NSPM if a deficiency is jeopardizing training requirements, and
+arrangements shall be made to resolve the deficiency in the must effective
+manner) including the withdrawal of approval by the POI.
+12 Par 10
+7129191 AC IZO-40B
+12 . MODIFICATION OF SIMULATORS, MOTION SYSTEMS, AND VISUAL SYSTEMS.
+a. In accordance with FAR Part 121, Appendix H, operators must notify the
+PO1 and NSPM at least 21 days prior to making software program or hardware
+changes which might impact flight or ground dynamics of a simulator. A complete
+list of these planned changes, including dynamics related to the motion and
+visual systems and any necessary updates to the MATG, must be provided in
+writing. Operators should maintain a configuration control system to ensure the
+continued integrity of the simulator as qualified. The configuration control
+system may be examined by the FAA on request.
+b Modifications which impact flight or ground dynamics, systems
+functions, and significant ATG revisions may require an FAA evaluation of the
+simulator.
+13 . SIMULATOR QUALIFICATION BASIS. The FAR require that simulators must
+maintain their approved performance, functions, and other characteristics.
+Except as provided in paragraph 2, all initial upgrade and recurrent evaluations
+of those simulators initially qualified according to the acceptable methods of
+compliance described herein will be conducted in accordance with the provisions
+of this AC. Simulators approved prior to this AC will continue to maintain their
+current qualification as long as they meet the standards under which they were
+originally approved, regardless of operator, except as noted in paragraph 9h.
+Any simulator upgraded to Level B, C, or D standards or any visual system or
+motion system upgrade requires an initial evaluation of that simulator, visual
+system, or motion system in accordance with the provisions herein.
+William J. Whitq
+Acting Director, Flight Standards Service
+Par 12 13 (and 14)
+APPENDIX 1. SIMULATOR STANDARDS
+1 DISCUSSION. This appendix describes the minimum simulator requirements for qualifying Level A,
+Live1 B, Level C, and Level D airplane simulators. An operator desiring evaluation of an airplane
+simulator not equipped with a visual system (nonvisual simulator) must comply with Level A simulator
+requirements except those pertaining to visual systems. Appropriate FAR as indicated in paragraph 3 of
+this AC must be consulted when considering particular simulator requirements. The validation and
+functions tests listed in appendices 2 and 3 must also be consulted when determining the requirements
+of a specific level simulator. For Levels C and D qualification, certain simulator and visual system
+requirements included in this appendix must be supported with a statement of compliance and, in some
+designated cases, an objective test. Compliance statements will describe how the requirement is met,
+such as gear modeling approach, coefficient of friction sources, etc. The test should show that the
+requirement has been attained. In the following tabular listing of simulator standards, required
+statements of compliance are indicated in the comment column.
+SIMULATOR LEVEL
+2. GENERAL A B C D
+a. Cockpit, a full-scale replica of the X x X
+airplane simulated. Direction of movement of
+controls and switches identical to that in the
+airplane. The cockpit, for simulator purposes,
+consists of all that space forward of a cross-
+section of the fuselage at the most extreme aft
+setting of the pilots’ seats. Additional
+required crewmember duty stations and those
+required bulkheads aft of the pilot seats are
+also considered part of the cockpit and must
+replicate the airplane.
+b . Circuit breakers that affect procedures X X X
+and/or result in observable cockpit indications
+properly located and functionally accurate.
+SIMULATOR STANDARDS (Cont’d) SIMULATOR LEVEL
+A B C
+c. Effect of aerodynamic changes for X X X
+various combinations of drag and thrust normally
+encountered in flight corresponding to actual
+flight conditions, including the effect of change
+in airplane attitude, thrust, drag, altitude,
+temperature, gross weight, center of gravity
+location, and configuration.
+d Ground operations generically X
+l
+represented to the extent that allows turns
+within the confines of the runway and adequate
+control on the landing and roll-out from a
+crosswind approach to a running landing.
+e. All relevant instrument indications X X X Numerical values must be
+involved in the simulation of the applicable presented in the
+airplane automatically responded to control appropriate units for
+movement by a crewmember or external disturbances U.S. operations, for
+to the simulated airplane; i.e., turbulence example, fuel in pounds,
+or windshear. speeds in knots, altitudes
+in feet, etc.
+f Communications and navigation equipment X X See appendix 3, par. 1, for
+corresponding to that installed in the further information
+applicant’s airplane with operation within the regarding long-range
+tolerances prescribed for the applicable airborne navigation equipment.
+equipment.
+g* In addition to the flight crewmember X X
+stations’, two suitable seats for the instructor/
+check airman and FAA inspector. The NSPM will
+consider options to this standard based on
+,
+SIMULATOR STANDARDS (Cont’d) SIMULATOR LEVEL COMMENTS
+s:
+\o
+A B C D )--r
+.
+unique cockpit configurations. These seats
+must provide adequate vision to the pilot’s
+panel and forward windows in visual system models.
+Observer seatsneed not represent those found in
+the airplane b&,must be equipped with similar
+positive restraint devices.
+h . Simulator systems must simulate the X
+applicable airplane system operation, both on
+the ground and in flight. Systems must be
+operative to the extent that normal, abnormal,
+and emergency operating procedures appropriate
+to the simulator application can be accomplished.
+i. Instructor controls to enable the X X X
+operator to control all required system
+variable&and insert abnormal or emergency
+conditions into the airplane systems.
+L Control forces and control travel X X X X
+which correspond to that of the replicated
+airplane. Control forces should react
+in the same manner as in the airplane
+under the same flight conditions.
+k Significant cockpit sounds which X X X X
+result’from pilot actions corresponding to
+those of the airplane.
+ST%
+SIMULATOR STANDARDS (Cont’d) SIMULATOR LEVEL COMMENTS L
+A B C D
+1 Sound of precipitation, windshield X X Statement of Compliance.
+l
+wipers, and other significant airplane noises
+perceptible to the pilot during normal operation
+and the sound of a crash when the simulator is
+landed in excess of landing gear limitations.
+m. Realistic amplitude and frequency of X Tests required for noises
+cockpit noises and sounds, including precipita- and sounds that originate
+tion, windshield wipers, precipitation static, a from the airplane or
+engine and airframe sounds. The sounds shall be airplane systems.
+coordinated with the weather representations
+required in FAR Part 121, Appendix H, Phase III
+(Level D), Visual Requirement No. 3.
+~-
+n. Ground handling and aerodynamic X X X Statement of Compliance.
+programming to include: Tests required.
+(1) Ground effect--for example:
+roundout, flare, and touchdown. This requires
+data on lift, drag, pitching moment, trim, and
+power in ground effect.
+(2) Ground reaction--reaction of the
+airplane upon contact with the runway during
+landing to include strut deflections, tire
+friction, side forces, and other appropriate
+data, such as weight and speed, necessary to
+identify the flight condition and configuration.
+SIMULATOR STANDARDS (Cont’d) SIMULATOR LEVEL COMMENTS
+A B C
+(3) Ground handling characteristics-
+steering inputs to include crosswind, braking,
+thrust reversing, deceleration, and turning
+radius.
+0. Windshear models which provide training X X Tests required.
+in the specific skills required for recognition
+of windshear phenomena and execution of recovery
+maneuvers. Such models must be representative
+of measured .or accident derived winds, but may
+include simplifications which ensure repeatable
+encounters. For example, models may consist
+of independent variable winds in multiple
+simultaneous components. Wind models should
+be available for the following critical phases
+of flight:
+(1) Prior to takeoff rotation.
+(2) At liftoff.
+(3) During initial climb.
+(4) Short final approach.
+The FAA Windshear Training Aid presents one
+acceptable means of compliance with simulator
+wind model requirements. The ATG should either
+reference the FAA Windshear Training Aid or
+present ariplane related data on alternate
+SIMULATOR STANDARDS (Cont’d) SIMULATOR LEVEL
+A B C D
+methods implemented. .Wind models from the Royal
+Aerospace Establishment (RAE), the Joint Airport
+Weather Studies (JAWS) Project and other
+recognized sources may be implemented, but
+must be supported or properly referenced in the
+ATG
+l
+P* Representative crosswinds and X X X X
+instructor controls for wind speed and direction.
+Q* Representative stopping and directional X X Statement of Compliance.
+control forces for at least the following runway Objective tests required
+conditions based on airplane related data. for (I), (2), (3),
+Subjective check for
+(1) Dry (4L 0, (6).
+(2) Wet
+(3) ICY
+(4) Patchy Wet
+(5) Patchy Icy
+(6) Wet on Rubber Residue in Touchdown
+Zone
+r. Representative brake and tire failure X X Statement of Compliance.
+dynamics (including antiskid) and decreased brake Tests required for de-
+efficient due to brake temperatures based on creased braking efficiency
+airplane related data. due to brake temperature.
+SIMULATOR STANDARDS (Cont’d) SIMULATOR LEVEL COMMENTS
+A B C D
+s. A means for quickly and effectively X X Statement of Compliance.
+testing simulator programming and hardware.
+This may include an automated system which
+could be used for conducting at least a portion
+of the tests in the ATG.
+t. Simulator computer capacity, accuracy, X X X X Statement of Compliance.
+resolution, and dynamic response sufficient for FAR 121, Appendix H,
+the qualification level sought. specifies computer
+standard for Phases II
+& III (Levels C and D).
+u. Control feel dynamics which replicate X X
+the airplane simulated. Free response of the Tests required. See
+controls shall match that of the airplane appendix 2, par. 3.
+within the tolerance given in appendix 2. Initial
+and upgrade evaluation will include control free
+response (column, wheel, and pedal)
+measurements recorded at the controls. The
+measured responses must correspond to those of
+the airplane in takeoff, cruise, and landing
+configurations.
+(1) For airplanes with irreversible
+control systems, measurements ma. y be obtained
+on the ground if proper Pitot static inputs are
+provided to represent conditions typical of
+those encountered in flight. Engineering
+validation or airplane manufacturer rationale
+will be submitted as justification to ground
+test or omit a configuration.
+SIMULATOR STANDARDS (Cont’d) SIMULATOR LEVEL COMMENTS
+A B C D
+(2) For simulators requiring static
+and dynamic tests at the controls, special test
+fixtures will not be required during initial
+evaluations if the operator’s ATG shows both
+test fixture results and alternate test method
+results, such as computer data plots, which were
+obtained concurrently. Repeat of the alternate
+method during the initial evaluation may then
+satisfy this test requirement.
+v. Relative responses of the motion system,
+visual system, and cockpit instruments shall be Tests required.
+coupled closely to provide integrated sensory
+cues 6 These systems shall respond to abrupt X X For Levels A and B,
+pitch, roll and yaw inputs at the pilot’s position response must be within
+within MO/300 milliseconds of the time, but not 300 milliseconds.
+before the time, when the airplane would respond
+under the same conditions. Visual scene changes X X For Levels C and D,
+from steady state disturbance shall occur within response must be within
+the system dynamic response limit of 150 milliseconds.
+150/300 milliseconds but not before the resultant
+motion onset. The test to determine compliance
+with these requirements should include
+simultaneously recording the analog output from
+the pilot’s control column, wheel, and pedals,
+the output from an accelerometer attached to the
+motion system platform located at an acceptable
+location near the pilots’ seats, the output signal
+to the pilots’ seats, the output signal to the
+visual system display (including visual system
+SIMULATOR STANDARDS (Cont’d) SIMULATOR LEVEL COMMENTS
+A B C D
+analog delays), and the output signal to the
+pilot’s attitude indicator or an equivalent test
+approved by the Administrator. The test results
+in a comparison of a recording of the simulator’s
+response to actual airplane response data in the
+takeoff, cruise, and landing configuration.
+The intent is to verify that the simulator system
+transport delays or time lags are less than
+150/300 milliseconds and that the motion and
+visual cues relate to actual airplane
+responses. For airplane response, acceleration
+in the appropriate rotational axis is preferred.
+As an alternative, a transport delay test may
+be used to demonstrate that the simulator system
+does not exceed the specified limit of
+150/300 milliseconds.
+This test shall measure all the delay encountered
+by a step signal migrating from the pilots’
+control through the control loading electronics
+and interfacing through all the simulation
+software modules in the correct order, using a
+handshaking protocol, finally through the normal
+output interfaces to the motion system, to the
+visual system and instrument displays. A
+recordable start time for the test should be
+provided by a pilot flight control input. The
+SIMULATOR STANDARDS (Cont’d) SIMULATOR LEVEL COMMENTS
+A B C D
+test mode shall permit normal computation time
+to be consumed and shall not alter the flow of
+information through the hardware/software system.
+The transport delay of the system is then the
+time between the control input and the individual
+hardware responses. It need only be measured
+once in each axis, being independent of flight
+conditions.
+w. Aerodynamic modeling which, for X Statement of Compliance.
+airplanes issued an original type certificate Tests required. See
+after June 1980, includes low-altitude level- appendix 2, par. 4, for
+flight ground effect, Mach effect at high further information on
+altitude, effects of airframe icing, normal and ground effect. Mach
+reverse dynamic thrust effect on control surfaces, effect, aeroelastic
+aeroelastic representations, and representations representations, and
+of nonlinearities due to sideslip based on nonlinearities due to
+airplane flight test data provided by the sideslip are normally
+manufacturer. included in the simulator
+aerodynamic model, but
+the Statement of
+Compliance must address
+each of them. Separate
+tests for thrust effects
+and a Statement of
+Compliance and demon-
+stration of icing
+effects are required.
+SIMULATOR STANDARDS (Cont’d) SIMULATOR LEVEL COMMENTS
+A B C D
+X. Aerodynamic and ground reaction X X X Statement of Compliance.
+modeling for the effects of reverse thrust on Tests required.
+directional control.
+Y* Self-testing for simulator hardware X Statement of Compliance.
+and programming to determine compliance with Tests required.
+simulator performance tests as prescribed in
+appendix 2. Evidence of testing must include
+simulator number, date, time, conditions,
+tolerances, and appropriate dependent variables
+portrayed in comparison to the airplane
+standard. Automatic flagging of “out-of-
+tolerance” situations is encouraged.
+2. Diagnostic analysis printouts of X Statement of Compliance.
+simulator malfunctions sufficient to determine
+compliance with the Simulator Component
+Inoperative Guide (SCIG). - These printouts shall
+be retained by the operator between recurring
+FAA simulator evaluations as part of the daily
+discrepancy log required under FAR Section
+121.407(a)(5).
+aa. Timely permanent update of simulator X X X
+hardware and programming subsequent to airplane
+modification.
+bb Daily preflight documentation either X X X
+in the daily log or in a location easily
+accessible for review.
+SIMULATOR STANDARDS (Cont’d) SIMULATOR LEVEL
+A B C
+3 . MOTION SYSTEM.
+a. Motion (force) cues perceived by the X X X X
+pilot representative of the airplane motions,
+i.e. 9 touchdown cues, should be a function of the
+simulated rate of descent.
+b A motion system having a minimum of X X
+three degrees of freedom.
+A motion system which produces cues X X Statement of Compliance.
+C.
+at least equivalent to those of a six-degrees-of- Tests required.
+freedom synergistic platform motion system.
+d A means for recording the motion X X X X See 2.~. of this appendix.
+response time for comparison with airplane data.
+e. Special effects programming to include: X X X
+(1) Runway rumble, oleo deflections,
+effects of groundspeed and uneven runway
+characteristics.
+(2) Buffets on the ground due to
+spoiler/speedbrake extension and thrust reversal.
+(3) Bumps after lift-off of nose and
+main gear.
+SIMULATOR STANDARDS (Cont’d) SIMULATOR LEVEL COMMENTS
+B C D
+(4) Buffet during extension and
+retraction of landing gear.
+(5) Buffet in the air due to flap and
+spoiler/speedbrake extension.
+(6) Stall buffet to, but not
+necessarily beyond, the FAA certificated stall
+speed, Vs.
+(7) Representative touchdown cues for
+main and nose gear.
+(8) Nosewheel scuffing.
+(9) Thrust effect with brakes set.
+f Characteristic buffet motions that result X Statement of Compliance.
+from operation of the airplane (for example, Tests required.
+high-speed buffet, extended landing gear,
+flaps, nosewheel scuffing, stall) which can
+be sensed at the flight deck. The simulator
+must be programmed and instrumented in such a
+manner that the characteristic buffet modes can
+be measured and compared to airplane data.
+Airplane data are also required to define
+flight deck motions when the airplane is
+subjected to atmospheric disturbances. General
+SIMULATOR STANDARDS (Cont’d) SIMULATOR LEVEL COMMENTS
+B C D
+purpose disturbance models that approximate
+demonstrable flight test data are acceptable.
+Tests with recorded results which allow the
+comparison of relative amplitudes versus
+frequency are required.
+1
+4 . VISUAL -SYSTEMS.
+a. Visual system capable of meeting all X X X X
+the standards of this appendix and appendices
+2 and 3 (Validation and Functions and Subjective
+Tests Appendices) as applicable to the level
+of qualification requested by the applicant.
+I
+b . Optical system capable of providing X X
+at least a 45 degrees horizontal and 30 degrees
+vertical field of view simultaneously for each
+pilot.
+c. Continuous minimum collimated visual X X Wide angle systems
+field of view of 75 degrees horizontal and providing cross cockpit
+30 degrees vertical per pilot seat. Both pilot viewing must provide a
+seat visual systems shall be able to be operated minimum of 150 degrees
+simultaneously. horizontal field of view;
+75 degrees per pilot seat
+operated simultaneously.
+d b A means for recording the visual X X X X
+response time for visual systems qualified under
+AC 121~14C and subsequent.
+SIMULATOR STANDARDS (Cont’d) SIMULATOR LEVEL COMMENTS s:
+u)
+P
+A B C D
+e. Verification of visual ground segment X X X X
+and visual scene content at a decision height on
+landing approach. The ATG should contain
+appropriate calculations and a drawing showing
+the pertinent data used to establish the airplane
+location and visual ground segment. Such data
+should include, but is not limited to:
+(1) Airport and runway used.
+(2) Glide slope transmitter location
+for the specified runway.
+(3) Position of the glide slope
+receiver antenna relative to the airplane
+main landing wheels.
+(4) Approach and runway light
+intensity setting.
+(5) Airplane pitch angle.
+The above parameters should be presented for
+the airplane in landing configuration and a
+main wheel height of 100 feet (30 meters) above
+the touchdown zone. The visual ground
+segment and scene content should be determined
+for a runway visual range of 1,200 feet or
+350 meters.
+f . For the NSPM to qualify precision X X X
+weather minimum accuracy on simulators
+qualified under previous advisory circulars,
+operators must provide the information
+required in e. above.
+SIMULATOR STANDARDS (Cont’d) SIMULATOR LEVEL
+A B C D
+& Visual cues to assess sink rate and X X X
+depth perception during takeoff and landing.
+h Test procedures to quickly confirm X X Statement of Compliance.
+visual’system color, RVR, focus, intensity, level Tests required.
+horizon, and attitude as compared to the
+simulator attitude indicator.
+i. Dusk scene to enable identification of X X Statement of Compliance.
+a visible horizon and typical terrain Tests required.
+characteristics such as fields, roads, bodies
+of water.
+j. A minimum of ten levels of occulting. X X Statement of Compliance.
+This capability must be demonstrated by a Tests required.
+visual model through each channel.
+k Daylight, dusk, and night visual scenes X Statement of Compliance.
+w/sufficient scene content to recognize airport, Tests required.
+the terrain, and major landmarks around the
+airport and to successfully accomplish a visual
+landing. The daylight visual scene must
+be part of a total daylight cockpit environment
+which at least represents the amount of light
+in the cockpit on an overcast day. Daylight
+visual system is defined as a visual system
+capable of producing, as a minimum, full
+color presentations, scene content comparable
+in detail to that produced by 4,000 edges
+F
+-
+3
+*
+SIMULATOR STANDARDS (Co&d) SIMULATOR LEVEL COMMENTS s:
+A B C
+or 1,000 surfaces for daylight and 4,000
+light points for night and dusk scenes, 6 foot-
+lamberts of light measured at the pilot’s
+eye position (highlight brightness), 3 arc-
+minutes resolution for the field of view
+at the pilot’s eye, and a display which is
+free of apparent quantization and other
+distracting visual effects while the simulator
+is in motion. The simulator cockpit ambient
+lighting shall be dynamically consistent with
+the visual scene displayed. For daylight
+scenes, such ambient lighting shall neither
+“washout” the displayed visual scene nor fall
+below 5 foot-lamberts of light as reflected from
+an approach plate at knee height at the pilot’s
+station and/or 2 foot-lamberts of light as
+reflected from the pilot’s face. All brightness
+and resolution requirements must be validated
+by an objective test and will be retested at
+least yearly by the NSPM. Testing may be
+accomplished more frequently if there are
+indications that the performance is degrading
+on an accelerated basis. Compliance of the
+brightness capability may be demonstrated with
+a test pattern of white light using a spot
+photometer.
+(1) Contrast Ratio. A raster drawn
+test pattern filling the entire visual scene
+(three or more channels) shall consist of a
+matrix of black and white squares no larger
+SIMULATOR STANDARDS (Cont’d) SIMULATOR LEVEL
+c
+A B
+than 10 degrees and no smaller than 5 degrees
+per square with a white square in the center of
+each channel.
+Measurement shall be made on the center bright
+square for each channel using a 1 degree spot
+photometer. This value shall have a minimum
+brightness of 2 foot-lamberts. Measure any
+adjacent dark squares. The contrast ratio is
+the bright square value divided by dark square
+value
+l
+Minimum test contrast ratio result is 5:l.
+Note: Cockpit ambient light levels should be
+maintained at Level D (Phase III) requirements.
+(2) Highlight Brightness Test.
+Maintaining the full test pattern described
+above, superimpose a highlight area completely
+covering the center white square of each
+channel and measure the brightness using the
+3 degree spot photometer. Light points or light
+point arrays are not acceptable. Use of
+calligraphic capabilities to enhance raster
+brightness is acceptable.
+F
+4
+c‘ SIMULATOR STANDARDS fcont’d) SIMULATOR LEVEL
+A B C
+(3) Resolution will be demonstrated
+by a test pattern of objects shown to occupy
+a visual angle of 3 arc-minutes in the visual
+scene from the pilot’s eyepoint. This should
+be confirmed by calculations in the statement
+of compliance.
+(4) Light point size - not greater than
+6 arc-minutes measured in a test pattern
+consisting of a single row of light; points
+reduced in length until modulation is just
+discernible, a row of 40 lights will form
+a 4 degree angle or less.
+(5) Light point contrast ratio - not
+less than 25:l when a square of at least
+1 degree filled (i.e., light point modulation is
+just discernible) with light points is compared
+to the adjacent background.
+APPENDIX 2. SIMULATOR VALIDATION TESTS
+1 DISCUSSION. Simulator performance and indicate in the ATG where flight test data are
+system operation must be objectively evaluated by unavailable or unsuitable for a specific test,
+comparing the results of tests conducted in the For such a test, alternative data should be
+simulator to airplane data unless specifically submitted to the NSPM for approval. Submittals
+noted otherwise. To facilitate the validation of for approval of data other than flight test must
+the simulator, a multichannel recorder, line include an explanation of validity with respect
+printer, or other appropriate recording device to available flight test information.
+acceptable to the NSPM should be used to record
+each validation test result. These recordings The Table of Validation Tests of this appendix
+should then be compared to the airplane source generally indicates the test results required.
+data. Unless noted otherwise, simulator tests should
+represent airplane performance and handling
+The ATG provided by the operator must describe qualities at operating weights and centers of
+clearly and distinctly how the simulator will be gravity (CG) typical of normal operation. If a
+set up and operated for each test. Use of a test is supported by airplane data at one extreme
+driver program designed to automatically weight or CG, another test supported by airplane
+accomplish the tests is encouraged for all data at midconditions or as close as possible to
+simulators. Self testing of simulator hardware the other extreme should be included. Certain
+and programming to determine compliance with all tests which are relevant only at one extreme CG
+simulator requirements is specified by FAR or weight condition need not be repeated at the
+Part 121, Appendix H, for Phase III (Level D) other extreme. Tests of handling qualities must
+simulators. It is not the intent and it is not include validation of augmentation devices.
+acceptable to the FAA to test each simulator
+subsystem independently. Overall integrated Simulators for highly augmented airplanes will be
+testing of the simulator must be accomplished to validated both in the unaugmented configuration
+assure that the total simulator system meets the (or failure state with the maximum permitted
+prescribed standards. A manual test procedure degradation in handling qualities) and the
+with explicit and detailed steps for completion augmented configuration. Where various levels of
+of each test must also be provided. handling qualities result from failure states,
+validation of the effect of the failure is
+The tests and tolerances contained in this necessary. Requirements for testing will be
+appendix must be included in the operator’s ATG. mutually agreed to between the operator and the
+Levels B, C, and D simulators must be compared to NSPM on a case-by-case basis.
+flight test data except as otherwise specified.
+For airplanes certificated prior to June 1980, an
+operator may 9 after reasonable attempts have
+failed to obtain suitable flight test data,
+SIMULATORV ALIDATION TESTS (Cont'd)
+In the case of simulators approved under previous a. Parameters, Tolerances, and Flight
+advisory circular) the tolerances of this Conditions. The Table of Validation Tests of
+appendix may be used in subsequent. recurrent this appendix describes the parameters,
+evaluations for any given test providing the tolerances, and flight conditions for simulator
+operator has submitted a proposed ATG revision to validation. When two tolerance values are given
+the NSPM and has received FAA approval. for a parameter, the less restrictive may be used
+unless otherwise indicated.
+2 TEST REQUIREMENTS. The ground and flight
+tests required for qualification are listed in If a flight condition or operating condition is
+the Table of Validation Tests. Computer shown which does not apply to the qualification
+generated simulator test results should be level sought, it should be disregarded.
+provided for each test. The results should be Simulator results must be labeled using the
+produced on a multichannel recorder, line tolerances and units given.
+printer, or other appropriate recording device
+acceptable to the NSPM. Time histories are b Flight Conditions Verification. When
+required unless otherwise indicated in the Table comparing the parameters listed to those of the
+of Validation Tests. airplane, sufficient data must also be provided
+to verify the correct flight condition. For
+Flight test data which exhibit rapid variations example, to show that control force is within +5
+of the measured parameters may require pound (2.225 daN) in a static stability test,
+engineering judgment when making assessments of data to show the correct airspeed, power, thrust
+simulator validity. Such judgment must not be or torque, airplane configuration, altitude, and
+limited to a single parameter. All relevant other appropriate datum identification parameters
+parameters related to a given maneuver or flight should also be given. If comparing short period
+condition must be provided to allow overall dynamics, normal acceleration may be used to
+interpretation. When it is difficult or establish a match to the airplane, but airspeed,
+impossible to match simulator to airplane data altitude, control input, airplane configuration,
+throughout a time history, differences must be and other appropriate data must also be given.
+justified by providing a comparison of other All airspeed values should be clearly annotated
+related variables for the condition being as to indicated, calibrated, etc., and like
+assessed. values used for comparison.
+NOTE: The application of this appendix to
+simulator validation requires reference to FAR
+Part 121, Appendix H, to acquire full knowledge
+of simulator criteria for approval.
+TABLE OF VALIDATION TESTS
+I= Initial Evaluation
+R= Recurrent Evaluation
+Qualification
+n,
+Test Tolerance Flight Condition Requirement Comments
+1. PERFORMANCE
+a. TAXI
+(1) Minimum Radius Turn +3 Feet (0,9m) or Ground/Takeoff
+20% of Airplane
+Turn Radius
+I
+(2) Rate of Turn vs. 210% or +2'/s*c. Ground/Takeoff IR
+Nosewheel Steering Turn Rate
+Angle
+b. TAKEOFF Wnfactored aircraft certifi-
+cation data may be used.
+(1) Ground Acceleration 55% Time and Distance Ground/Takeoff IR IR Acceleration Time and Distance
+Time and Distance or 25% Time and 2200 should be recorded for a
+Feet (61 Meters) of minimum of 80% of total
+Distance segment. (Brake release to
+Vr)*
+(2) Minimum Control Speed Maximum Airplane Ground/Takeoff IR Engine failure speed must be
+Ground (Vmc ) Aero- Lateral Deviation within +l knot of airplane
+dynamic Cont rols Only ~25% or 25 Feet engine failure speed.
+per Applicable Air- (1.5 Meters)
+worthiness Standard
+or
+Low Speed, Engine
+Inoperative Ground
+Control Characteristics
+(3) Minimum Unstick Speed 23 K$s Airspeed Ground/Takeoff 3R V is defined as that speed
+or equivalent as +1.5 Fitch a Fu which the last main
+provided by the landing gear leaves the
+airplane manufacturer ground. Main 1andWg Gear
+Strut Compression or equiva-
+lent air/ground signal should
+be recorded. Record as a
+minimum from 10 Kts before
+start of rotation,
+I = Initial Evaluation
+R= Recurrent Evaluation
+Qualification
+Test olerance Flight Condition rement
+A
+1. PERFORMANC(ET AKEOFFc onIt).
+(4) Normal Takeoff +3 K$s Airspeed Ground/Takeoff t IR IR Record Takeoff prc Ifile from
+21.5* Pitch and First Segment brake release to at least
+21.5 Angle of Attack Climb 200 ft. (61 Meters) Above
+220 Feet (6 Meters) Ground Level (AGL).
+Altitude *Applies only to reversible
+25.0 lb (2.224 dN) or 210% control systems.
+Column Force*
+I I I
+(5) Critical Engine 23 K$s Airspeed Ground/Takeoff 'IR IR IR IR Record Takeoff profile at
+Failure on Takeoff 21.5 o Pitch, and First Segment maximum takeoff weight to at
++1.5 Angle of Attack Climb least 200 ft. (61 Meters) AGL.
+220 Feet (6 Meters) Engine failure speed must be
+I
+Altitude within +3 Kts of airplane
+rf2 Bank and data. *Applies only to
+Sideslip Angle reversible control systems.
+~5.0 lb (2.224 dN) or +lOI
+1
+Column Force*
+~5.0 lb (2.224 dN) or 210%
+Rudder Pedal Force*
+t3.0 lb (1.334 dN) or 105
+Aileron Wheel Force*
+1
+(6) Crosswind Takeoff +3 K+ Airspeed Ground/Takeoff IR IR IR IR Record Takeoff profile to
+~1.5~ Pitch, and First Segment I Ia t least 200 ft. (61 Meters)
+21.5 Angle of Attack Climb AGL with same relative wind
+220 Feet (6 Meters} t profile as airplane test.
+Alsitude *Applies only to reversible
++2 Bank and control systems.
+Sideslip Angle I
+55.0 lb (2.224 dN) or 210%
+Column Force*
+1
++5.0 lb (2.224 dN) or 210%
+Rudder Pedal Force*
+23.0 lb (1,334 dN) or 10%
+Aileron wheel Force*
+1 I I
+(7) Rejected Takeoff Overall Distance 2 ? Ground IR IR IR 'IR Auto brakes will be used
+Braking Effort f. ? Iw here applicable, Maximum
+(To Be Determined) braking effort, Auto or
+Manual.
+TABLE OF VALIDATION TESTS (Cont'd)
+I = Initial Evaluation
+R= Recurrent Evaluation
+Qualification
+Test Tolerance Flight Condition Reauirement
+A B C D
+1. PERFORMANC(EC on71
+c. CLIMB
+(1) Normal Climb +3 Kts Airspeed Climb With All IR IR IR May be a Snapshot Test.
+All Engines Operating &5% or +lOO FPM Engines Operating Manufacturer's gross climb
+(0.5 Meters/See.) gradient may be used for
+Climb Rate flight test data.
+(2) One Engine Inoperative +3 Kts Airspeed Second Segment IR IR IR IR May be a Snapshot Test.
+Second Segment Climb 25% or 2100 FPM Climb With One Manufacturer's gross climb
+(0.5 Meters/Set.) Engine Inoperative gradient may be used for
+Climb Rate, but not flight test data. Test at
+less than the FAA weight altitude, temperature
+Approved Flight Manual limited conditions.
+Rate of Climb
+(3) One Engine Inoperative +3 Kts Airspeed Approach Climb IR IR IR IR May be a Snapshot Test.
+Approach Climb for 25% or 2100 FPM With One Engine Manufacturer% gross climb
+Airplanes With Icing (0.5 Meters/Set.) Inoperative gradient may be used for
+Accountability per Climb Rate, but not flight test data. Use near
+Approved AFM less than the FAA maximum landing weight.
+Approved Flight Manual
+Rate of Climb
+d. STOPPING
+(1) Deceleration Time and 25% of Time. For Landing IR IR IR IR Time and Distance should
+Distance, Wheel distance up to be recorded for at least
+Brakes Using Manual 4000 Feet (1220 m.) 80% of the total segment
+Braking, Dry Runway ~200 Feet (61 m.) (TD to Full Stop). Brake
+(No Reverse Thrust) or 210% whichever is system pressure should be
+smaller, For ‘distance available.
+greater than 4000
+Feet (1220 m.)
+t5k of distance.
+(2) Deceleration Time and 25% Time and the Landing IR IR IR IR Time and Distance should
+Distance, Reverse Smaller of 210% or be recorded for at least
+Thrust, Dry Runway 200 Feet (61 Meters) 80% of the total
+(No Wheel Braking) of Distance demonstrated reverse thrust
+segment.
+I = Initial Evaluation
+R= Recurrent Evaluation
+Qualification
+Test Tolerance Flight Condition Requirement
+1, PERFORMANC(ES TOPPINGC onW
+(3) Stopping Time and Representative Landing FAA approved Airplane Flight
+Distance, Wheel Stopping Time and I Manual (AFM) data is
+Brakes, Wet Runway Distance acceptable.
+(No Reverse Thrust) I
+(4) Stopping Time and Representative Landing I I FAA approved AFM data is
+Distance, wheel Stopping Time and acceptable.
+Brakes, Icy Runway Distance f
+(No Reverse Thrust)
+8. ENGINES
+(1) Acceleration Ti ~10~ Approach or IR IR IR IR T- = Total time from initial
+Tt 210% Landing tbottle movement until a
+I
+10% response of a critical
+engine parameter.
+T = Total time from T. to
+98% go-around power. critical
+engine parameter should be a
+measurement of power (N , N2
+EPR, Torque, etc.) Plo 4 fro&
+flight idle to go-around
+power for a rapid (slam)
+throttle movement.
+(2) Deceleration Ti 210% Ground/Takeoff Test from maximum takeoff power
+Tt &lo% to 10% of maximUm takeoff power
+(90% decay in power). Time
+history should be provided.
+TABLE OF VALIDATION TKSTS (Contld)
+I = Initial Evaluation
+R= Recurrent Evaluation
+Qualification
+Tgst Tolerance Flisht Condition Resuiremnt Comments
+.
+A B C D
+2. HANDLING QWALITIES
+a, STATIC CONTROLC HECKS**
+(1) Column Position vs. +2 lbs (0.89 daN) Ground IR IR IR IR Uninterrupted control sweep,
+Force and Surface fireakout 6tOp t0 Stop.
+Position Calibration +5 Pbs (2.224 daN)
+or+10% Force
++2 Elevator
+(2) Wheel Position vs. +2 lbs (0.89 daN) Ground IR IR IR IR 'Uninterrupted control sweep,
+Force and Surface breakout 6tOp t0 Stop.
+Position Calibration k3 lbs (1.334 daN)
+or&lo% Force
++10 Aileron
++3 Spoiler
+(3) Pedal Position vs. +5 lbs (2.224 daN) Ground IR IR IR IR Uninterrupted control sweep,
+Force and Surface Breakout stop to stop.
+Position Calibration +5 lbs (2.224 daN)
+or+10% Force
+,Z Rudder
+(4) Nosewheel Steering +z lbs (0.89 daN) Ground IR IR IR XR Uninterrupted control swe8p,
+Force & Position Breakout 6tOp t0 Stop.
+fr3 lbs (1.334 daN)
+or_+10% Force
+22 Nosewheel Angle
+(5) Rudder Pedal Steering +2' Nosewheel Angle Ground IR IR IR IR
+Calibration
+I 1
+**Column, wheel, and pedal position v6. force shall be measured at the control. An alternate method acceptable to the NSPMi n lieu of
+the test fixture at the controls is to instrument the simulator in an equivalent manner to the flight test airplane. The force and
+position data from this instrumentation can be directly recorded and matched to the airplane data. Such a permanent installation would
+iFsi
+eliminate the need for installation of external devices.
+z
+a;3
+E 7
+"Z
+NW
+TABLE OF VALIDATION TESTS (Cont'd)
+I = Initial Evaluation
+Go
+R = Recurrent Evaluation
+Qualification
+Test Tolerance Flisht Condition Reguirement Comments
+4
+I -I
+A B c D
+2. HANDLINGQ UALITIES (STATIC CONTROLC HECKSC onW .
+(6) Pitch Trim Calibration +0.5' of Computer Ground and IR IR l[R IR Measure trim rate for go-
+Indicator vs. Computed Trim Angle Go-Around around. Trim rate input and
+210% Trim Rate surface rate time history is
+appropriate.
+(7) Alignment of Power +5* of Power Lever Ground IR IR LR IS imultaneous qecording for all
+Lever Angle vs. Angle engines. A 5. tolerance
+Selected Engine applies against airplane data
+Parameter (EPR, N1, and between engines. May be
+Torque, etc.) Snapshot Test.
+(8) Brake Pedal Position k5 lb (2.224 daN) IR IR 1R IR Simulator computer output
+Vs. Force or 10% results may be used to show
+~10% or 150 psi (1033 kPa) compliance. Relate hydraulic
+brake hydraulic system pressure to pedal
+pressure position in a ground static
+test.
+b. DYNAMIC CONTROLC HECKS**
+(1) Pitch Control +lOS of time for Takeoff, Cruise, IR IR Data should be normal control
+first zero crossing, Landing displacement in both
+and *lO(n+l)% of directions. Approximately 25%
+period thereafter. to 50% of full throw.
+jrlOS amplitude of
+first overshoot. n is the sequential period of
+220% of amplitude of . a full cycle of oscillation.
+2nd and subsequent
+OVerShOOts greater Refer to paragraph'3 this
+than 5% of initial appendix.
+displacement,
++l overshoot.
+**Column, wheel, and pedal position vs. force or time shall be measured at the control. An alternate method acceptable to the NSPM in
+lieu of the test fixture at the controls is to instrument the simulator in an equivalent manner to the flight test airplane. The force
+and position data from this instrumentation can be directly recorded and matched to the airplane data. Such a pernanent installation
+would eliminate the need for installation of external devices.
+F
+4
+TABLE OF VALIDATION TESTS (Cont'd)
+I= Initial Evaluation
+R= Recurrent Evaluation
+Qualification
+Test Tolerance Flicrht Condition Requirement Comments
+C D
+2. HANDLINGQ UALITIES (DYNAMICC ONTROLC HECKS** ConW
+(2) Roll Control Same as (1) above. Takeoff, Cruise, IR IR Data should be normal control
+Landing displacement. Approximately
+I I 25% to 50% of full throw.
+~---~ ~~
+(3) Yaw Control Same as (1) above. Takeoff, Cruise, IR IR Data should be normal control
+Landing I displacement. Approximately
+25% to 50% of full throw.
+C, LONGITUDINAL I
+(1) Power Change Dynamics +3 Kts Airspeed Approach to IR IR IR IR Wing flaps should remain in
+5100 Feet (30 Meters) Go-Around the approach position, Time
+Altitude history of uncontrolled free
+220% or ~1.5' Pitch I response for time increment
+1 from 5 seconds before
+the initiation of the
+configuration change to
+15 seconds after completion
+of the configuration change.
+1
+(2) Flap/Slat Change +3 Kts Airspeed Retraction, After 'IR IR IR IR Time history of uncontrolled
+DyrraraiCS 2100 Feet (30 Meters) Takeoff. Extension, free response for time
+Altitude Approach to Landing IR IR IR 'IR increment from 5 seconds
+220% or 51.5' Pitch before the initiation of the
+configuration change to 15
+seconds after completion
+of the configuration change.
+(3) Spoiler/Speedbrake 23 Kts Airspeed Cruise and IR IR IR IR Time history of uncontrolled
+Change Dynamics ~100 Feet (30 Meters) Approach free response for time
+Altitude increment from 5 seconds
+220% or 21.5' Pitch before the initiation of the
+configuration change to
+15 seconds after the
+completion of the configu-
+ration change.
+TABLE OF VALIDATION TESTS (Cont@d)
+I = Initial Evaluation
+R= Recurrent Evaluation
+.ifi zati
+Teat Tolerance Fliuht Condition iire lent
+A B D
+2. HANDLING QUALITIES (LONGITUDINAL Can't)
+(4) Gear Change Dynamics +3 Kts Airspeed Takeoff to Second IR IR IR IR Time history of uncontrolled
++I00 Feet (30 Heters) Segment Climb, free respon663 for a time
+Altitude Approach to Landing increment of 5 seconds before
+220% or +1.5* Pitch the initiation of the
+configuration change to 15
+seconds after the completion
+of the configuration change.
+(5) Gear and Flap/Slat +l second or Takeoff, Approach IR IR IR IR Normal and alternate flaps,
+Operating Times 10% of Time extension and retraction.
+Normal gear, extension and
+retraction. Alternate gear,
+extension only.
+(6) Longitudinal Trim +l" Pitch Control Cruise, Approach, 'IR IR IR 'IR May be Snapshot Tests.
+(Stab and Elev) Landing
++l Pitch Angle
+55% Net Thrust
+or Equivalent
+(7) Longitudinal Maneuvering +5 lbs (22.224 daN) Cruise, Approach, 'IR 'IR IR 'IR May be series of Snapshot
+Stability (Stick or tlO% Column Landing Tests. Force or surface
+Force/g) Force or Equivalent deflection must be in correcs
+Surface dixection. oApproximately 20 ,
+30 I and 45 banJc angle should
+be presented
+(8) Longitudinal Static +5 lbs (22.224 daN) Approach Data for at least 2 speeds
+Stability or +lOt Column Force above and 2 speeds below trim
+or Equivalent Surface speed. May be a series of
+Snapshot Tests.
+TABLE OF VALIDATION TESTS (Cont'd)
+x = Initial Evaluation
+R= Recurrent Evaluation
+Qualification
+Test Tolerance Flight Condition Reauirement
+2. HANDLING QUALITIES (LONGITUDINAL ConW
+(9) Stick Shaker, Airframe +3 oKts Airspeed Second Segment Stall Warning Signal should
+Buffet, Stall Speeds +2 Bank for speeds Climb and Approach be recorded and must occur
+higher than stick or Landing in the proper relation to
+shaker or initial stall.
+buffet
+(10) Phugoid Dynamics &lO% of Period Cruise Test should include 3 full
+210% of Time to 112 cycles (6 overshoots after
+or Double Amplitude input completed) or that
+or fi.02 of Damping sufficient to determine time
+Ratio to l/2 amplitude whichever
+is less.
+(11) Short Period Dynamics +1%5* Pitch or Cruise
++2 /sec. Pitch Rate
++.lOg Normal
+e
+Acceleration
+d, IlATERAL DIRECTIONAL
+(1) Minimum Control Speed, +3 Kts Airspeed Takeoff or Landing V may be defined by a
+Air (Vm ), per (Whichever is most p:g f ormance or control limit
+Applic ais e Airworthi- critical in which prevents demonstration
+ness Standard airplane) Of VRca in the conventional
+or manner.
+Low Speed Engine
+Inoperative Handling
+Characteristics in Air
+(2) Roll Response (Rate) 210% or +2*/set. Cruise and Approach Test with normal wheel
+Roll Rate or Landing deflection (about 30%).
+TABLE OF VALIDATION TESTS (Cont'd)
+I = Initial Evaluation
+R= Recurrent Evaluation
+walification
+Test Tolerance Flisht Condition Resuirentent Comments
+'A B : c D
+r
+-i
+(3) Roll Response to 210% or +2*/set. Approach or Landing 'IR IR 'IA IR Roll rate response.
+Roll Controller Roll Rate
+I
+Step Input
+(4) Spiral Stability Correct Trend, 22' Cruise 'IR IR IR IR ,Airplane data averaged from
+Bank or 210% in multiple tests may be used.
+20 Seconds Test for both directions.
+(5) Engine Inoperative +l* Rgdder Angle Second Segment and IR IR IR IR May be Snapshot Tests.
+Trim or +l Tab Angle Approach or Landing
+oreEquivalent Pedal I
++2 Sideslip Angle
+(6) Rudder Response +2*Jsec. or 210% Approach or Landing IR /I R IR IR ITest with stability augmen-
+Yaw Rate tation ON and OFF, Rudder
+step input of approximately
+25% rudder pedal throw.
+(7) Dutch Roll, Yaw 50.5 sec. or ,105 Cruise and IR IR IR Test for at least 6 cycles
+Damper OFF of Period. Approach or Landing I with stability augmentation
++10% of Tine to OFF.
+l/2 or Double
+Amplitude or
+2.02 of Damping Ratio.
+520% or 21 88~. L
+of Time Difference
+Between Peaks of
+Bank and Sideslip. I
+(8) Steady State Sideslip For a given*rudder Approach or Landing IR IR IR IR May be a series of Snapshot
+1
+poqition ~2 Bank, Tests.
++l Sideslap, I
++lO% or +2. Aileron,
+tlO# or +5 Spoiler
+or Equivalent wheel
+Position
+WLE OF VALIDATION a (Cont'd)
+I = Initial Evaluation
+R= Recurrent Evaluation
+Qualification
+Tolerance Recruirement
+B
+2, HANDLINGQ UALITIES (Con91
+0. LANDINGS
+(1) Normal Landing +3 K@ Airspeed Landing IR IR IR Test from a minimum of 200 ft.
++1.5o Pitch (61 Meters) AGL to Nosewheel
+9.5 Angle of Attack Touchdown. Derotation may
+klO% Altitude or be shown as a separate segment
++lO Feet (3 Meters) from the time of main gear
+touchdown.
+(2) Crosswind Landing +3 K$s Airspeed Landing IR IR IR Test from a minimm of 200 ft.
+21.5, Pitch (61 Meters) AGL to Nosewheel
+21.5 Angle of Attack Touchdown and rollout to
+210% Altitude or 60 Kts, Use near maximm
++lQ Feet (3 Meters) landing weight with same
+lf2* Bank Angle Relative Wind Profile as
++2 Sideslip Angle aircraft test,
+or Yaw Angle
+(3) One Engine Inoperative +3 Kss Airspeed Landing IR IR IR Test from a minimum of 200 ft.
+Landing +1.50 Pitch (61 Meters) AGL to Nosewheel
+21.5 Angle of Attack Touchdown.
+210% Altitude or
+218 Feet (3 Meters)
++2* Bank Angle
++2 Sideslip Angle
+or Yaw Angle
+(4) Directional Control +5 Kts Airspeed Landing IR IR IR Airplane test data required,
+(Rudder Effectiveness) however, airplane manu-
+With Reverse Thrust, facturer's engineering
+Symmetric and Asymmetric simulator data may be used for
+reference data as last resort.
+Airplanes with demonstrated
+minimum speed for rudder
+effectiveness +5 Kts. Others,
+test to verify simulator meets
+conditions demonstrated by
+airplane manufacturer.
+TABLE OF VALIDATION TESTS (Cont'd)
+I= Initial Evaluation
+R= Recurrent Evaluation
+Qualification
+Test Tolerance Flight Condition Requirement Comments
+2. HANDLING QUALITIES Kon't)
+f. GROUNDE FFECT
+(1) A Test to Demonstrate +I0 Elevator or Landing See paragraph 4, this
+Longitudinal Ground Stabilizer Angle appendix. A rationale must
+Effect 25% Net Thrust or be provided with justification
+Equivalent of results.
++l Angle of Attack
+tlO% Height/Altitude
+or +5 Feet (1.5 m.)
+t3 Jnots Airspeed
++l Fitch Attitude
+Appropriate test to
+demonstrate Frequency
+Response required.
+b. Leg Balance As specified by IR IR IR IR Appropriate test to
+operator for demonstrate Leg Balance
+simulator acceptance. I I I I required.
+c. Turn Around Check As specified by IR IR IR IR Appropriate test to
+operator for demonstrate Smooth Turn
+simulator acceptance. I I I I Around required.
+d. Characteristic Buffet See Appendix 1, IXR Compliance statement required.
+Hotions para 3.f. Test required.
+TABLE OF VALIDATION TESTS (Cont'd)
+I= Initial Evaluation
+R= Recurrent Evaluation
+Qualification
+Tolerance Fliuht Condition Requirement
+A B c D
+4. VISdAL SYSTa - (Note: Refer to Appendix 3 for additional visual tests.)
+.a. Visual Ground Segment 520% Landing. Static at IR IR IR IR The ATG should indicate the
+(VW Threshold lights must 100 ft. (30 Meters) source of data, i.e., ILS
+be visible if they wheel Height Above G/S antenna location, pilot
+are in the visual Touchdown Zone eye reference point, cockpit
+segment. on Glide Slope. cutoff angle, etc., used to
+(See example in Runway Visual make visual ground segment
+Comments.) Range = 1200 Ft. or scene content calculations.
+350 Meters. Tolerance Example:
+If the calculated VGS for the
+airplane is 840 ft., the 20%
+I I tolerance of 168 ft. may be
+applied at the near or far
+end of the simulator VGS
+or may be split between both
+as long as the total of
+168 ft. is not exceeded.
+b. Visual System Color Demonstration Model IR JR
+I I
+c. Visual RVR Calibration Demonstration Hodel IR IR
+I I
+d. Visual Display Focus Demonstration Model IR
+and Intensity I I
+8. Visual Attitude vs. Demonstration Model IR IR
+Simulator Attitude
+Indicator (Pitch and
+Roll of Horizon) I
+f. 'Demonstrate 10 Levels Demonstration Model IR IR May be requested for recurrent
+of Occulting Through evaluation.
+Each Channel of System I I
+-
+TABLE OF VALIDATION TESTS (Cont'd)
+I = Initial Evaluation
+R = Recurrent Evaluation
+Qualification
+Tolerancg Flight Conditior) Reauirement
+A B C D
+5. SIMULATORS YSTEMS
+a. VISUAL, MOTION, AND COCKPIT INSTRUMENTR ESPONSE
+Visual, Motion, and 150 milliseconds or Takeoff, Cruise IR One test is required in each
+Instrument Systems less after airplane Approach or Landing axis (pitch, roll, and yaw)
+response to an abrupt response. for each of the 3 conditions
+pilot controller input, compared to airplane data
+compared to airplane 300 milliseconds or Takeoff, Cruise, IR IR for a similar input. (Total
+response for a similar less after airplane Approach or Landing 9 tests.)
+input. response. Visual change may start
+before motion response, but
+or motion acceleration must
+occur before completion of
+visual scan of first video
+field containing different
+information.
+Transport Delay 150 Railliseconds or Pitch, Roll, Yaw IR IR One test is required in each
+less after control axis. (Total 3 tests.)
+movement.
+300 milliseconds or Pitch, Roll, Yaw IR IR See Appendix 1, Item 2.~.
+less after control
+movement.
+b. SOUND
+Realistic araplitude and frequency of cockpit noises and sounds, IR Test results must show a
+including precipitation static, and engine and airframe sounds. comparison of the amplitude
+The sounds shall be coordinated with the weather representations and frequency content of
+required in FAR Part 121, Appendix H, Phase III (Level D), Visual the sounds that originate from
+Requirement No. 3. the airplane or airplane
+systems.
+TABLE OF VALIDATION TESTS (Cont'd)
+I= Initial Evaluation
+R = Recurrent Evaluation
+Qualification
+Test Tolerance Flight Condition Requirement Comments
+A B
+c. DIAGNOSTIC TESTING
+(1) A means for quickly and effectively testing simulator
+programming and hardware. This could include an
+automated system which could be used for conducting
+at least a portion of the tests in the ATG.
+(2) Self testing of simulator hardware and programming to
+determine compliance with Levels B, C, and D Simulator
+Requirements.
+(3) Diagnostic analysis as prescribed in FAR Part 121,
+Appendix H, Phase III (Level D) Simulator Requirement
+No. 5.
+SIMULATOR VALIDATION TESTS (Cont’d)
+3 CONTROL DYNAMICS. The characteristics of an measured at and recorded directly from the
+airplane flight control system have a major cockpit controls. This procedure is usually
+effect on the handling qualities. A significant accomplished by measuring the free response of
+consideration in pilot acceptability of an the controls using a step or pulse input to
+airplane is the “feel” provided through the excite the system. The procedure must be
+cockpit controls. Considerable effort is accomplished in takeoff, cruise, and landing
+expended on airplane feel system design in order flight conditions and configurations.
+to deliver a system with which pilots will be
+comfortable and consider the airplane desirable For airplanes with irreversible control systems9
+to fly. In order for a simulator to be measurements may be obtained on the ground if
+representative, it too must present the pilot proper Pitot-static inputs are provided to
+with the proper feel; that of the respective represent airspeeds typical of those encountered
+airplane. This fact is recognized in FAR in flight Likewise o it may be shown that for
+Part 121, Appendix H, Phase II (Level C) some airplanes, takeoff, cruise, and landing
+Simulator Requirement IO, which states: configurations have like effects. Thus, one may
+“Aircraft control feel dynamics shall duplicate suffice for another, If either or both
+the airplane simulated. This shall be determined considerations apply, engineering validation or
+by comparing a recording of the control feel airplane manufacturer rationale must be submitted
+dynamics of the simulator to airplane as justif ication for ground tests or for
+measurements in the takeoff, cruise, and landing eliminating a configuration. For simulators
+configuration.” requiring static and dynamic tests at the
+controls, special test fixtures will not be
+Recordings such as free response to an impulse or required during initial and upgrade evaluations
+step function are classically used to estimate if the operator’s ATG shows both test fixture
+the dynamic properties of electromechanical results and the results of an alternative
+systems. In any case, it is only possible to approach, such as computer plots which were
+estimate the dynamic properties as a result of. produced concurrently and show satisfactory
+only being able to estimate true inputs and agreement. Repeat of the alternative method
+responses. Therefore, it is imperative that the during the initial evaluation would then satisfy
+best possible data be collected since close this test requirement.
+matching of the simulator control loading system
+to the airplane systems is essential. The a. Control Dynamics Evaluations. The
+required control feel dynamic tests dictated by dynamic properties of control systems are often
+FAR Part 121, Appendix H, are described in 2.b. stated in terms of frequency, damping, and a
+of the Table of Validation Tests of this section. number of other classical measurements which can
+be found in texts on control systems. In order to
+W For initial and upgrade evaluations, it is establish a consistent means of validating test
+required that control dynamic characteristics be results for simulator control loading, criteria
+SIMULATOR VALIDATION TESTS (Co&d)
+are needed that will clearly define the overshoots becomes questionable. Only those
+interpretation of the measurements and the overshoots larger than 5 percent of the total
+initial displacement should be considered
+tolerances to be applied. Criteria are needed
+significant. The residual band, labelled T(A ) on
+for both the underdamped system and the
+Figure 1 is +5 percent of the initial disp Pa ce-
+overdamped system, including the critically ment amplitude A, from the steady state value of
+damped case In case of an underdamped system the oscillation. Oscillations within the
+l
+with very light damping, the system may be residual band are considered insignificant. When
+quantified in terms of frequency and damping. In comparing simulator data to airplane data, the
+critically damped or overdamped systems, the process should begin by overlaying or aligning
+frequency and damping is not readily measured the simulator and airplane steady state values
+and then comparing amplitudes of oscillation
+from a response time history. Therefore, some
+peaks, the time of the first zero crossing, and
+other measurement must be used.
+individual periods of oscillation. The simulator
+should show the same number of significant
+b For Levels C and D Simulators. Tests to overshoots to within one when compared against
+verify that control feel dynamics represent the the airplane data. This procedure for evaluating
+airplane must show that the dynamic damping the response is illustrated in Figure 1.
+cycles (free response of the control) match that
+(2) Critically Damped and Overdamped
+of the airplane within specified tolerances. The
+Response. Due to the nature of critically damped
+method of evaluating the response and the
+responses (no overshoots), the time to reach
+tolerance to be applied are described below for
+90 percent of the steady state (neutral point)
+the underdamped and critically damped cases. value should be the same as the airplane within
++I 0 percent. The simulator response should be
+(1) Underdamped Response. Two measure- critically damped also. Figure 2 illustrates the
+ments are required for the period, the time to procedure.
+first zero crossing (in case a rate limit is
+Tolerances
+present) and the subsequent frequency of
+oscillation. It is necessary to measure cycles
+The following table summarizes the tolerances, T.
+on an individual basis in case there are See Figures 1 and 2 for an illustration of the
+nonuniform periods in the response, Each period referenced measurements.
+will be independently compared to the respective
+period of the airplane control system and, T&J. 910% of P,
+consequently, will enjoy the full tolerance T(P,) +20!% of P,
+specified for that period. T(P,) +30% of P
+T(P,) 710(n+l)%*of P
+T(A,) 910% of A,, +28% of Subsequent Peaks
+The damping tolerance should be applied to T&j) 75% of A = Residual Band
+overshoots on an individual basis. Care should &ershoo& -+ I
+be taken when applying the tolerance to small
+overshoots since the significance of such
+SIMULATOR VALIDATION TESTS (Cont’d)
+c. Alternative Method for Control Dynamics. Tolerances
+One airplane manufacturer has proposed, and the
+FAA accepts, an alternative means for dealing (1) Static Test - Items 2.a. (l)(2) and
+with control dynamics. The method applies to (3) of this appendix.
+airplanes with hydraulically powered flight (2) Dynamic Test - 2 lb. or 10 percent on
+controls and artificial feel systems. Instead of dynamic increment above static test.
+free response measurements, the system would be
+validated by measurements of control force and The FAA is open to alternative means such as the
+rate of movement. one described above. Such alternatives must,
+however, be justified and appropriate to the
+For each axis of pitch, roll, and yaw, the application. For example, the method described
+control shall be forced to its maximum extreme here may not apply to all manufacturers’ systems
+position for the following distinct rates. These and certainly not to airplanes with reversible
+tests shall be conducted at typical taxi 9 control systems. Hence, each case must be
+takeoff, cruise, and landing conditions. considered on its own merit on an ad hoc basis.
+Should the FAA find that alternative methods do
+(1) Static Test - Slowly move the control not result in satisfactory simulator performance,
+such that approximately 100 seconds are required then more conventionally accepted methods must be
+to achieve a full sweep. A full sweep is defined used +
+as movement of the controller from neutral to the
+stop, usually aft or right stop, then to the 4 . GROUND EFFECT. During landing and takeoff,
+opposite stop, then to the neutral position. airplanes operate for brief time intervals close
+to the ground. The presence of the ground
+(2) Slow Dynamic Test - Achieve a full significantly modifies the air flow past the
+sweep in approximately 10 seconds. airplane and, there fore 9 cha .nges the aerodynamic
+characteristics. The clos e proxim ity of the
+(3) Fast Dynamic Test - Achieve a full ground imposes a barrier which inhibits the
+sweep in approximately 4 seconds. downward flow normally associated with the
+production of lift. The downwash is a function
+NOTE : Dynamic sweeps may be limited to forces of height with the effects usually considered to
+not exceeding 100 lb. be negligible.above a height of approximately one
+wingspan. There are three main effects of the
+reduced downwash:
+a. A reduction in downwash angle at the tail
+for a conventional configuration.
+SIMULATOR VALIDATION TESTS (Cont’d)
+b An increase in both wing and tail lift e. Airspeed.
+because of changes in the relationship of lift
+coefficient to angle of attack (increase in lift This listing of parameters assumes that ground
+curve slope). effect data is acquired by tests during “fly-
+bYS ” at several altitudes in and out of ground
+c. A reduction in the induced drag. effect. The test altitudes should, as a minimum,
+be at 10 percent, 30 percent, and 70 percent of
+Relative to out-of-ground effect flight (at a the airplane wingspan and one altitude out of
+given angle of attack), these effects result in ground effect; e.g., 150 percent of wingspan.
+higher lift in ground effect and less power Level fly-bys are required for Level D, but not
+required for level flight. Because of the for Level C and Level B. They are, however,
+associated effects on stability, they also cause acceptable for all levels.
+significant changes in elevator (or stabilizer)
+angle to trim and stick (column) forces required If, in lieu of the level fly-by method for Levels
+to maintain a given lift coefficient in level B and C, other methods such as shallow glidepath
+flight near the ground. approaches to the ground maintaining a chosen
+parameter constant are proposed, then additional
+For a simulator to be used for takeoff and in validation parameters are important. For
+particularly landing credit, it must faithfully example, if constant attitude shallow approaches
+reproduce the aerodynamic changes which occur in are chosen as the test maneuver, pitch attitude,
+ground effect. The parameters chosen for and flight path angle are additional necessary
+simulator validation must obviously be indicative validation parameters. The selection of the test
+of these changes The primary validation methods and procedures to validate ground effect
+l
+parameters for longitudinal characteristics in is at the option of the organization performing
+ground effect are: the flight tests; however, rationale -must be
+provided to conclude that the tests performed do
+a. Elevator or stabilizer angle to trim. indeed validate the ground effect model.
+b Power (thrust) required for level flight The allowable longitudinal parameter tolerances
+(PLF)’ for validation of ground effect characteristics
+l
+are:
+c. Angle of attack for a given lift
+coefficient. Elevator or Stabilator Angle 21"
+d 0 Height/altitude. Power for Level Flight (PLF)+5-%
+SIMULATOR VALIDATION TESTS (Cont’d)
+Angle of Attack +1*
+Altitude/Height +lO%
+or 25' (1.5 m.)
+Airspeed +3 Knots
+Pitch Attitude 21'
+The lateral-directional characteristics are also
+altered by ground effect. Because of the above-
+mentioned changes in lift curve slope, roll
+damping 9 as an example, is affected. The change
+in roll damping will affect other dynamic modes
+usually evaluated for simulator validation. In
+fact, Dutch-roll dynamics, spiral stability, and
+roll-rate for a given lateral control input are
+altered by ground effect. Steady heading
+sideslips will also be affected. These effects
+must be accounted for in the simulator modeling.
+Several tests such as “crosswind landing,” “one
+engine inoperative landing,’ and ‘engine failure
+on takeoff” serve to validate lateral-
+directional ground effect since portions of them
+are accomplished while transiting altitudes at
+which ground effect is an important factor.
+SIMULATOR VALIDATION TESTS (Cont'd)
+P=Period
+A=Amplitude
+T(P)=Tolerance applied
+.
+to Period
+T(A)=Tolerance applied
+to Amplitude
+Displacement
+vs
+Time
+Figure 1. Under-damped Step Response
+SIMULATOR VALIDATION TESTS (Cont'd)
+r-
+O.lA&.
+I
+I- Pg 4
+Displacement
+vs
+Time
+Figure 2. Critically-damped Step Response
+7/29/91 AC 120-40B
+Appendix 3
+APPENDIX 3. FUNCTIONS AND SUBJECTIVE TESTS
+1 DISCUSSION. Accurate replication of airplane systems functions will be
+l
+checked at each flight crewmember position by an FAA Simulator Evaluation
+Specialist. This includes procedures using the operator’s approved manuals and
+checklists. Handling qualities, performance, and simulator systems operation
+will be subjectively assessed by an FAASimulator EvaluationSpecialist qualified
+in the respective airplane.
+At the request of a POI, the Simulator Evaluation Specialist may assess the
+simulator for a special aspect of an operator’s training program during the
+functions and subjective portion of a recurrent evaluation. Such an assessment
+may include a portion of a LOFT scenario or special emphasis items in the
+operator’s training program. Unless directly related to a requirement for the
+current qualification level, the results of such an evaluation would not affect
+the simulator’s current status.
+Operational principal navigation systems including inertial navigation systems,
+OMEGA, or other long-range systems, and the associated electronic display systems
+will be evaluated if installed. The Simulator Evaluation Specialist will include
+in his report to the PO1 the effect of the system operation and system
+limitations.
+2 TEST REQUIREMENTS. The ground and flight tests and other checks required
+f;r qualification are listed in the Table of Functions and Subjective Tests.
+The table includes maneuvers and procedures to assure that the simulator
+functions and performs appropriately for use in pilot training and checking in
+the maneuvers and procedures delineated in FAR Part 61 and FAR Part 121,
+Appendices E and F. It also contains tests to assure compliance with FAR
+Part 121, Appendix H, and other regulatory provisions. Maneuvers and procedures
+are included to address some features of advanced technology airplanes and
+innovative training programs. For example, “high angle of attack maneuvering”
+is included to provide an alternative to “approach to stalls.” Su_c h an
+alternative is necessary for airplanes employing flight envelope limiting
+technology. The portion of the table addressing pilot functions and maneuvers
+is divided by flight phases. Visual systems testsare listed separately as are
+special effects.
+All systems functions will be assessed for normal and, where appropriate,
+alternate operations. Normal, abnormal, and emergency procedures associated with
+a flight phase will be assessed during the evaluation of maneuvers or events
+within that flight phase. Systems are listed separately under “Any Flight Phase”
+to assure appropriate attention to systems checks.
+Par 1
+0
+.
+0
+c
+iz
+z
+*r
+:
+*r
+$
+J--k
+.
+0 t-c 5 :2 .
+X
+x
+x
+x
+X
+X
+x
+x
+X
+--.
+-
+-
+-_-
+_
+_
+~_
+~-~
+_
+-
+~
+-
+X
+X
+x
+x
+X
+x
+X
+x
+x
+X
+7/29/91- AC 120040B
+Appendix 3
+TABLE OF FUNCTIONS AND SUBJECTIVE TESTS (Cont'd) SIMULATORL EVEL
+A B D
+(i) Engine parameter relationships.
+(ii) Acceleration characteristics.
+(iii) Nosewheel and rudder steering.
+(iv) Crosswind (maximum demonstrated).
+(v) Special performance.
+(vi) Instrument takeoff.
+(vii) Landing gear, wing flap, leading
+edge device operation.
+(viii) Other.
+(2) Abnormal/Emergency.
+(i) Rejected.
+(ii) Rejected special performance.
+(iii) With failure of most critical
+engine at most critical point along takeoff path
+(continued takeoff).
+(iv) With windshear.
+(v) Flight control system failure
+modes.
+(vi) Other.
+d . INFLIGHT OPERATION
+(1) Climb.
+(i) Normal.
+(ii) One engine inoperative.
+(iii) Other.
+Par 1 3
+7/29/91
+AC 120040B
+Appendix 3
+TABLE OF FUNCTIONS AND SUBJECTIVE TESTS (Cont'd) SIMULATOR LEVEL
+A B C D
+(2) Cruise. X X X X
+(i) Performance characteristics (speed
+vs. power).
+(ii) Turns with/without spoilers (speed
+brake) deployed.
+(iii) High altitude handling.
+(iv) High speed handling.
+(v) Mach tuck and trim, overspeed
+warning.
+(vi) Normal and steep turns.
+(vii) Performance turns.
+(viii) Approach to stalls (stall warning,
+buffet, and g-break) cruise, takeoff, approach, and
+landing configuration.
+(ix) High angle of attack maneuvers
+( cruise, takeoff, approach, and landing).
+(x) Inflight engine shutdown and
+restart.
+(xi) Maneuvering with one engine
+inoperative.
+(xii) Specific flight characteristics.
+(xiii) Manual flight control reversion.
+(xiv) Flight control system failure
+modes.
+(xv) Other.
+(3) Descent. X X X X
+(i) Normal.
+Par 1
+AC 120-40B
+7/29/91 _
+Appendix 3
+TABLE OF FUNCTIONS AND SUBJECTIVE TESTS (Cont'd) SIMULATOR LEVEL
+A B D
+(ii) Maximum rate.
+(iii) Manual flight control reversion.
+(iv) Flight control system failure
+modes.
+(v) - Other.
+e. APPROACHES
+(1) Nonprecision.
+(i) Approach procedure(s), one or
+more of the following.
+-- NDB
+-- VOR, RNAV, TACAN
+-- DME ARC
+-- LOC/BC
+-- AZI, LDA, LOC, SDF
+-- ASR
+(ii) Missed approach.
+(iii) All engines operating.
+(iv) One or more engines inoperative.
+(2) Precision.
+(i) PAR.
+(ii) ILS.
+(A) Normal.
+(B) Engine(s) inoperative.
+(C) Category I published approach.
+1 Manually controlled with
+and without flight director to 100 ft. (30 m.) below
+CAT I minima.
+Par 1
+7/29/91
+AC IZO-40B
+Appendix 3
+TABLE OF FUNCTIONS AND SUBJECTIVE TESTS (Cont'd) SIMULATORL EVEL
+2 With crosswind (maximum
+demonstrated).
+3 With windshear.
+(D) Category II published approach.
+1 Autocoupled, auto-
+throttle, autoland. -
+2 All engines operating
+missed approach.
+(E) Category III published
+approach.
+1 With generator failure.
+2 With 10 knot tailwind.
+3 With 10 knot crosswind.
+5 One engine inoperative.
+(iii) Missed approach.
+(A) All engines operating.
+(B) One or more engines inoperative,
+(3) Visual. X X
+(i) Abnormal wing flaps/slats.
+(ii) Without glide slope guidance.
+f . VISUAL SEGMENTA ND LANDING
+(1) Normal.
+(i) Crosswind (maximum demonstrated). X
+(ii) From VFR traffic pattern.
+Par 1
+6
+7129191 AC 120040B
+Appendix 3
+TABLE OF FUNCTIONS AND SUBJECTIVE TESTS (Cont’d) SIMULATOR LEVEL
+A B
+(iii) From nonprecision approach.
+(iv) From precision approach.
+(v) From circling approach.
+NOTE : Simulators with visual systems which permit
+completing a circling approach without violating
+FAR Section 91.175(e) may be approved for that
+particular circling approach procedure.
+(2) Abnormal/emergency.
+(i) Engine(s) inoperative.
+(ii) Rejected.
+(iii) With windshear.
+(iv) With standby (minimum electrical/
+hydraulic) power.
+(v) With longitudinal trim malfunction.
+(vi) With lateral-directional trim
+malfunction.
+(vii) With loss of flight control
+power (manual reversion).
+(viii) With worst case failure of flight
+control system (most significant degradation of
+fly-by-wire system which is not extremely improbable).
+(ix) Other flight control system
+failure modes as dictated by training program.
+(x) Other.
+go SURFACE OPERATIONS (POST LANDING1
+(1) Landing roll and taxi.
+(i) Spoiler operation.
+Par I
+AC 120-40B- 7129191
+Appendix 3
+TABLE OF FUNCTIONSA ND SUBJECTIVE TESTS (Cont’d) SIMULATOR LEVEL
+A B C D
+(ii) Reverse thrust operation.
+(iii) Directional control and ground
+handling, both with and without reverse thrust.
+(iv) Reduction of rudder effectiveness
+with increased reverse thrust (rear pod-mounted
+engines).
+(v) Brake and anti-skid operation
+with dry, wet, and icy conditions.
+(vi) Brake operation.
+(vii) Other.
+h . ANY FLIGHT PHASE
+(1) Airplane and powerplant systems
+operation. X X X X
+(i) Air conditioning.
+(ii) Antiicing/deicing.
+(iii) Auxiliary powerplant.
+(iv) Communications.
+(v) Electrical.
+(vi) Fire detection and suppression.
+(vii) Flaps/slats/speed brakes
+(viii) Flight controls.
+(ix) Fuel and oil.
+(x) Hydraulic.
+(xi) Landing gear.
+(xii) Oxygen.
+Par 1
+T/29/91 . AC 1Z O-40B
+Appendix 3
+TABLE OF FUNCTIONS AND SUBJECTIVE TESTS (Cont'd) SIMULATOR LEVEL
+A B C D
+(xiii) Pneumatic.
+(xiv) Powerplant.
+(xv) Pressurization.
+(2) Flight management and guidance systems. X X X X
+(i) Airborne radar.
+(ii) Automatic landing aids.
+(iii) Autopilot.
+(iv) Collision avoidance system.
+(v) Flight control computers.
+(vi) Flight data displays.
+(vii) Flight management computers.
+(viii) Head-up displays.
+(ix) Navigation systems.
+(x) Stall warning/avoidance.
+(xi) Stability and control augmentation.
+(xii) Windshear avoidance equipment.
+(3) Airborne procedures. X X
+(i) Holding.
+(ii) Air hazard avoidance.
+(iii) Windshear.
+(4) Engine shutdown and parking. X X
+(i) Engine and systems operation.
+(ii) Parking brake operation.
+Par 1
+7129191
+AC IZO-40B
+Appendix 3
+TASLE OF FUNCTIONS AND SUBJECTIVE TESTS (Cont'd) SIMULATORL EVEL
+B
+(5) Other.
+2 VISUAL SYSTEM
+l
+a. Accurate portrayal of environment relating
+to simulator attitudes.
+b The distances at which runway features
+are viiible should not be less than those listed
+below. Distances are measured from runway threshold
+to an airplane aligned with the runway on an
+extended 3 degree glide slope.
+(1) Runway definition, strobe lights,
+approach lights, runway edge white lights and VAST
+lights from 5 statute miles (8 kilometers) of.the
+runway threshold.
+(2) Runway centerline lights and taxiway
+definition from 3 statute miles (4.8 kilometers).
+(3) Threshold lights and touchdown zone
+lights from 2 statute miles (3.2 kilometers).
+(4) Runway markings within range of
+landing lights for night scenes; as required by 3 arc-
+minutes resolution on day scenes.
+c. Representative airport scene content
+including:
+(1) Airport runways and taxiways.
+(2) Runway definition.
+(i) Runway surface and markings.
+10 Par I
+7129191 AC IZO-40B
+Appendix 3
+TABLE OF FUNCTIONS AND SUBJECTIVE TESTS (Cont'd) SIMULATOR LEVEL
+A B C D
+(ii) Lighting for the runway in use
+including runway edge and centerline lighting,
+touchdown zone, VASI, and approach lighting of
+appropriate colors.
+(iii) Taxiway lights.
+d . Operational landing lights. X X X X
+e. Instructor controls of: X X X X
+(1) Cloudbase.
+(2) Visibility in statute miles (km) and
+RVR in feet (meters).
+(3) Airport selection.
+(4) Airport lighting.
+f Visual system compatibility with aero-
+dynamic programming. X X X X
+Visual cues to assess sink rates and depth
+&
+perception during landings. X X X
+(1) Surface on taxiways and ramps.
+(2) Terrain features.
+h . Dusk and night visual scene capability. X X
+i. Minimum of three specific airport scenes. X X
+(1) Surfaces on runways, taxiways, and
+ramps.
+(2) Lighting of appropriate color for all
+runways including runway edge, centerline, VASI, and
+approach lighting for the runway in use.
+(3) Airport taxiway lighting.
+(4) Ramps and terminal buildings which
+correspond to an operator's Line-Oriented Flight
+Training and Line Oriented Simulator scenarios.
+Par 2 11
+AC 120-408 7129191
+Appendix 3
+TABLE OF FUNCTIONS AND SUBJECTIVE TESTS (Cont’d) SIMULATOR LEVEL
+A B D
+j. General terrain characteristics and
+significant landmarks.
+k At and below an altitude of 2,000 feet
+(610 m:) height above the airport and within a radius
+of 10 miles (16 kilometers) from the airport,
+weather representations, including the following:
+(1) Variable cloud density.
+(2) Partial obscuration of ground scenes;
+the effect of a scattered to broken cloud deck.
+(3) Gradual break out.
+(4) Patchy fog.
+(5) The effect of fog on airport lighting.
+1 A capability to present ground and air
+hazards such as another airplane crossing the active
+runway or converging airborne traffic.
+m. Operational visual scenes which portray
+representative physical relationships known to
+cause landing illusions such as short runways,
+landing approaches over water, uphill or downhill
+runways, rising terrain on the approach path, and
+unique topographic features.
+n. Special weather representations of light,
+medium, and heavy precipitation near a thunderstorm
+on takeoff, approach, and landings at and below an
+altitude of 2,000 feet (610 m.) above the airport
+surface and within a radius of 10 miles (16 kilometers)
+from the airport.
+0. Wet and snow-covered runways including
+runway lighting reflections for wet, partially
+obscured lights for snow, or suitable alternative
+effects.
+P* Realistic color and directionality of
+airport lighting.
+12 Par 2
+7129191 AC IZO-40B
+Appendix 3
+TABLE OF FUNCTIONS AND SUBJECTIVE TESTS (Cont’d) SIMULATOR LEVEL
+A B C D
+Q* Weather radar presentations in airplanes
+where radar information is presented on the pilot’s X
+navigation instruments. Radar returns should
+correlate to the visual scene.
+r. Freedom from apparent quantization (aliasing). X
+3 SPECIAL EFFECTS
+l
+a. Runway rumble, oleo deflections, effects of
+groundspeed and uneven runway characteristics. X
+b Buffets on the ground due to spoiler/
+speedbrake extension and thrust reversal. X
+c. Bumps after lift-off of nose and main gear. X
+d Buffet during extension and retraction of
+landing gear. X
+e. Buffet in the air due to flap and spoiler/
+speedbrake extension and approach-to-stall buffet. X
+f Touchdown cues for main and nose gear. X
+l
+g* Nosewheel scuffing. X
+h Thrust effect with brakes set. X
+l
+i. Representative brake and tire failure
+dynamics (including antiskid) and decreased brake
+efficiency due to high brake temperatures based on
+airplane related data. These representations should X X
+be realistic enough to cause pilot identification of
+the problem and implementation of appropriate
+procedures. Simulator pitch, side loading, and
+directional control characteristics should be
+representative of the airplane.
+j. Sound of precipitation and significant
+airplane noises perceptible to the pilot during
+normal operations and the sound of a crash when the X X
+simulator is landed in excess of landing gear
+limitations. Significant airplane noises should
+include noises such as engine, flap, gear, and
+spoiler extension and retraction and thrust
+reversal to a comparable level as that found in the
+Par 2
+AC 120-40B 7/29/ 91
+Appendix 3
+TABLE OF FUNCTIONS AND SUBJECTIVE TESTS (Co&d) SIMULATORL EVEL
+A B C
+airplane. The sound of a crash should be related
+in some logical manner to landing in an unusual
+attitude or in excess of the structural gear
+limitations of the airplane.
+k 0 Effects of airframe icing. X X
+Par 3
+14
+a
+9t
+w
+.
+.
+.
+H
+d=‘
+H
+AC 1 zo-40B
+7129191 .
+Appendix 4
+APPENDIX 4. EXAMPLES (Cont’d)
+Name, POI, (Operator)
+FAA FSDO
+Address
+City, State, Zip
+0
+Dear Mr. .
+(Name) Airlines requests evaluation of our (Type)
+airplane simulator for Level qualification. The (Name)
+simulator with (Name) visual system is fully defined on page
+of the accompanying approval test guide (ATG). We have completed tests
+of the simulator and certify that it meets all applicable requirements of FAR
+Section 121.407 (or FAR Sections 135,335 or 125.297), FAR Part 1% Appendix H,
+and the guidance of AC 120040B. Appropriate hardware and software configuration
+control procedures have been established. Our pilots have assessed the simulator
+and found that it conforms to the (Name) Airlines
+(Type) airplane cockpit configuration and that the simulated
+systems and subsystems function equivalently to those in the airplane. Our
+pilots have also assessed the performance and flying qualities of the simulator
+and find that it represents the respective airplane.
+(Added comments as desired.)
+Sincerely,
+FIGURE la Application Letter
+I
+0
+W
+I\
+:r
+AC 120-40B
+7/29/91 -
+Appendix 5
+APPENDIX 5, WINDSHEAQRU ALIFICATIONf- RESERVED1
+*U.S. Government Printing OfFice: 1996 - 405-571155748 'I (and 2)

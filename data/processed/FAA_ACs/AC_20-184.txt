@@ -1,0 +1,1325 @@
+Advisory
+U.S. Department
+of Transportation Circular
+Federal Aviation
+Administration
+Subject: Guidance on Testing and Installation of Date: 10/15/15 AC No: 20-184
+Rechargeable Lithium Battery and Battery
+Initiated By: AIR-133
+Systems on Aircraft
+This advisory circular (AC) provides manufacturers and installers with an acceptable means of
+compliance to meet the installation, operation, maintenance and airworthiness requirements for
+installation of lithium batteries on aircraft (14 CFR part 21, 23, 25, 27 and 29).
+If you have any suggestions for improvements or changes, you may use the template provided at
+the end of this AC.
+Susan J.M. Cabler
+Acting Manager, Design, Manufacturing, &
+Airworthiness Division
+Aircraft Certification Service
+10/15/15 AC 20-184
+CONTENTS
+Paragraph Page
+CHAPTER 1. Introduction ......................................................................................................... 1-1
+1.1 PURPOSE .................................................................................................................... 1-1
+1.2 SCOPE ......................................................................................................................... 1-1
+1.3 Rechargeable Lithium Batteries ................................................................................ 1-2
+1.4 Background. ................................................................................................................ 1-2
+CHAPTER 2. Installation of Lithium Batteries on Aircraft ....................................................... 2-1
+2.1 Certification Process. .................................................................................................. 2-1
+2.2 Acceptable Means of Compliance (MOC) for Installation Approval. ................... 2-1
+2.3 Test Requirements. ..................................................................................................... 2-3
+2.4 System Safety Assessment. ......................................................................................... 2-4
+2.5 Software. ...................................................................................................................... 2-5
+2.6 Complex Electronic Hardware. ................................................................................. 2-5
+2.7 Health Monitoring. ..................................................................................................... 2-5
+2.8 Flammability. .............................................................................................................. 2-6
+2.9 Instructions for Continued Airworthiness (ICA). ................................................... 2-6
+CHAPTER 3. Maintenance and Operational Considerations for Lithium Battery Systems ...... 3-1
+3.1 Aircraft Battery Maintenance. ...................................................................................... 3-1
+3.2 Aircraft Battery Replacement. .................................................................................. 3-2
+3.3 Aircraft Battery Storage and Handling. ................................................................... 3-3
+Appendix A. Definition of Size in Terms of Watt Hours (Wh) on Lithium Battery and Battery
+Systems ................................................................................................................................. A-1
+Appendix B. Related Regulations and Documents ......................................................................B-1
+B.1 Regulations ..................................................................................................................B-1
+B.2 Advisory Circulars ......................................................................................................B-1
+B.3 Orders and Handbooks ..............................................................................................B-2
+B.4 Other ............................................................................................................................B-3
+B.5 Industry Documents....................................................................................................B-3
+Appendix C. Terms and Definitions ............................................................................................C-1
+Appendix D. Typical Special Condition (SC) and Intent for Each SC for Parts 23, 25, 27, and 29D-1
+10/15/15 AC 20-184
+CONTENTS (CONTINUED)
+Paragraph Page
+Appendix E. MOC for Small and Medium Lithium Batteries (Using RTCA DO-347 MOPs)... E-1
+Appendix F. MOC for Large Lithium Batteries and Battery Systems (Using RTCA DO-311 and
+Some Tests of DO-347 MOPs) .............................................................................................. F-1
+Appendix G. Flow Chart for Lithium battery Means of Compliance certification Process. ...... G-1
+Appendix H. Advisory Circular Feedback Information ............................................................. H-1
+ii
+10/15/15 AC 20-184
+CHAPTER 1. INTRODUCTION
+1.1 PURPOSE.
+1.1.1 This AC provides an acceptable means to show compliance to the airworthiness requirements for
+installed rechargeable lithium battery and battery systems on aircraft using standards provided in
+RTCA, Inc., documents RTCA DO-347 and RTCA DO-311. This AC provides guidance on how
+to obtain installation approval for installed rechargeable lithium battery and battery systems on
+aircraft.
+1.1.2 The guidance in this AC is intended for manufacturers, installers, maintenance personnel, and
+users of installed rechargeable lithium batteries and battery systems on aircraft. As with all
+advisory material, this AC is not mandatory and does not constitute a regulation. It is issued for
+guidance purposes and to outline a means of compliance with applicable airworthiness
+requirements.
+1.1.3 For the purpose of this AC, installed rechargeable lithium batteries and battery systems will be
+referred to as lithium batteries.
+1.2 SCOPE.
+1.2.1 Chapter 2 of this AC applies to the certification of installed lithium batteries on aircraft approved
+under Title 14 of the Code of Federal Regulations (14 CFR) parts 23, 25, 27, and 29 per:
+1.2.1.1 Type certificates (TC),
+1.2.1.2 Amended type certificates (ATC),
+1.2.1.3 Supplemental type certificates (STC)
+1.2.1.4 Amended supplemental type certificates (ASTC), and
+1.2.1.5 Parts manufacturer approvals (PMA).
+Note: The guidance can be used for any FAA process to approve the installation of lithium
+batteries.
+1.2.2 Chapter 3 of this AC provides guidance on maintenance and operational considerations for lithium
+batteries on aircraft. Appendix A defines battery sizes in terms of watt hours. Appendix B lists
+related regulations and documents. Appendix C provides definitions. Appendix D discusses
+special conditions. Appendices E and F discuss means of compliance (MOC) to the special
+conditions. Appendix G provides a flow chart for lithium battery means of compliance
+certification process. Appendix H contains the AC feedback form.
+1-1
+10/15/15 AC 20-184
+1.3 Rechargeable Lithium Batteries.
+1.3.1 Lithium batteries are installed in various aircraft types and serve various purposes. Lithium
+batteries are of different sizes, chemistries, and produced under different manufacturing processes.
+They are also of different levels of complexity. Some of the benefits of lithium batteries include
+weight savings, high energy density per unit weight and per unit volume, relatively constant
+voltage during discharge, good low-temperature performance, and long shelf life. Because of their
+high energy content and potential thermal instability, lithium batteries can present hazards if
+improperly designed, tested, used, and/or stored. Failure of a lithium battery, often times results in
+thermal runaway, which is a self-sustaining uncontrolled increase in pressure and temperature.
+Thermal runaway often results in fire as the flammable gases vented from the battery are ignited
+due to the high temperatures. In addition, the unburned vented battery gases can be toxic. Some
+of the uses for lithium batteries on today’s aircraft include, but are not limited to:
+1.3.1.1 Emergency lighting;
+1.3.1.2 Cockpit voice recorders, flight data recorders, and recorder independent power
+supplies;
+1.3.1.3 Main batteries for standby or emergency power;
+1.3.1.4 Auxiliary power units (APU) or main starting batteries; and
+1.3.1.5 Special functions batteries (such as installed rechargeable flashlights, electronic
+equipment, safety equipment, avionics equipment, and communications equipment).
+1.3.2 Lithium batteries have certain failure and operational characteristics, as well as maintenance
+requirements, which differ significantly from those of nickel-cadmium and lead-acid rechargeable
+batteries. The introduction of lithium batteries into aircraft applications raises the need for
+additional design, installation, maintenance and monitoring requirements.
+1.4 Background.
+1.4.1 The proposed use of lithium batteries for equipment and systems on aircraft prompted the FAA to
+review the adequacy of its guidance. Our review indicates the existing guidance does not
+adequately address failure, operational, and maintenance characteristics of lithium batteries that
+could affect the safety and reliability of aircraft lithium battery installations.
+1.4.2 At present, there is limited in-service experience with the use of installed rechargeable lithium
+battery technology in applications on aircraft. However, users of this technology from aircraft
+operators to personal computer users, wireless telephone manufacturers, and the electric vehicle
+industry have noted safety problems with lithium batteries. These known potential safety problems
+may result from overcharging, over-discharging, internal cell defects and flammability of cell
+components. In general, lithium batteries are significantly more susceptible to internal cell failures
+that can result in self-sustaining increases in temperature and pressure (that is, thermal runaway)
+than existing nickel-cadmium or lead-acid batteries. The following are examples of the possible
+failures of lithium batteries. These possible failures are mitigated by following the tests and
+validation stipulated by MOC in Appendix E and F.
+1-2
+10/15/15 AC 20-184
+1.4.2.1 Overcharging.
+Overcharging causes heating and destabilization of cell components, leading to a
+potentially unsafe condition. The electrolyte can ignite, resulting in a self-sustaining
+fire or explosion. The severity of thermal runaway due to overcharging increases with
+increased battery capacity because of the higher amount of electrolyte.
+1.4.2.2 Over-discharging.
+Discharge of some types of lithium batteries beyond the manufacturer’s
+recommended specifications can cause corrosion of the cell electrodes, resulting in
+loss of battery capacity that cannot be reversed by recharging. This loss of capacity
+may not be detected by the simple voltage measurements commonly available to
+flight crews as a means of checking battery status, a problem shared with nickel-
+cadmium batteries. In addition, over-discharging has the potential to lead to an unsafe
+condition (creation of dendrites that could result in internal short circuit during the
+recharging cycle).
+1.4.2.3 Flammability of Cell Components.
+Unlike nickel-cadmium and lead-acid batteries, some types of lithium batteries use
+liquid electrolytes that are flammable. The electrolyte can serve as a source of fire.
+This material can serve as a source of fuel for an external fire if a cell failure occurs.
+Lithium battery cells have the potential to ignite spontaneously or experience an
+uncontrolled temperature and pressure increase, resulting in propagation to adjacent
+cells
+1.4.2.4 Internal Defects.
+Undetected internal defects within a cell have the potential to cause an internal short
+circuit, which may lead to an unsafe condition. These internal defects may not
+become apparent until long after the battery has been placed into service.
+1.4.2.5 Extreme Temperature:
+Exposure to an extreme temperature environment has the potential to create major
+hazards. Care must be taken to ensure that the battery remains within the
+manufacturer’s recommended specification.
+1-3
+10/15/15 AC 20-184
+CHAPTER 2. INSTALLATION OF LITHIUM BATTERIES ON AIRCRAFT
+2.1 Certification Process.
+This chapter provides certification guidance for the installation of lithium batteries on aircraft.
+Coordinate the certification program with the responsible FAA Aircraft Certification Office and
+directorate as described in FAA Order 8110.4, Type Certification or in FAA Order 8110.42,
+Parts Manufacturer Approval Procedures.
+2.2 Acceptable Means of Compliance (MOC) for Installation Approval.
+2.2.1 Certification Plan.
+Prepare a certification plan describing all aspects of showing compliance for the
+installation of the lithium batteries on the aircraft. The certification plan should be
+submitted early in the certification process to help the ACO understand the scope of the
+certification project. Include the following items at a minimum:
+2.2.1.1 Project description and schedule;
+2.2.1.2 System description, including a description of the aircraft system interfaces
+and any aircraft system modifications made to accommodate the aircraft
+battery system installation;
+2.2.1.3 A plan for system safety assessment;
+2.2.1.4 Certification basis and MOC, including itemized MOC to any applicable
+special conditions;
+2.2.1.5 Communication and coordination of the test plan(s);
+2.2.1.6 Conformity plan;
+2.2.1.7 A plan for instructions for continued airworthiness; and
+2.2.1.8 Compliance and substantiation documentation.
+2.2.2 Compliance Checklist.
+2.2.2.1 Lithium battery installations must meet all applicable airworthiness
+regulations of the product and any applicable special condition imposed by
+the directorate. These installations shall also meet the guidance in this
+chapter and the airworthiness regulations in Table 1 at a minimum.
+2-1
+10/15/15 AC 20-184
+Table 1. Regulations Concerning Lithium Battery Installations
+14 CFR Section Subject Matter
+§ 21.31 Type Design
+§ 21.33 Inspection and tests
+§ 21.50(b) Instructions for Continued Airworthiness and
+Maintenance Manuals
+§§ 23/25/27/29.301 Loads
+§§ 23/25/27/29.303 Factor of Safety
+§§ 23/25/27/29.305 Strength and Deformation
+§§ 23/25/27/29.307 Proof of Structure
+§ 25.581 Lightning Protection
+§§ 27/29.610 Lightning and Static Electricity Protection.
+§§ 23/25/27/29.785 Seats, Berths, Litters, Safety Belts, and Harnesses
+§§ 23/25/27/29.787(b) Baggage and Stowage Compartments
+§§ 23/25/27/29.831 Ventilation (Smoke and Toxicity)
+§§ 23/25/27/29.853 Compartment Interiors (Flammability)
+§§ 23/25/27/29.863 Flammable Fluid Fire Protection
+§ 23.867 Electrical Bonding and Lightning Protection
+§ 25.869 Fire Protection: Systems
+§§ 23/25/27/29.1301 Equipment Function and Installation
+§§ 23/25/27/29.1309 Equipment, Systems, and Installations
+§§ 25/27/29.1316 Electrical and Electronic System Lightning
+Protection
+§§ 25/27/29.1317 High–intensity Radiated Fields (HIRF) Protection
+§ 25.1322 Warning, Caution, and Advisory Lights
+§§ 23/25/27/29.1351 Electrical Systems and Equipment, General
+§§ 25/29.1353 Electrical Equipment and Installations
+§§ 23/27.1353 Storage Battery Design and Installation
+2-2
+10/15/15 AC 20-184
+14 CFR Section Subject Matter
+§§ 25/29.1355 Distribution System
+§§ 23/25/27/29.1357 Circuit Protection Devices
+§23.1359 Electrical System Fire Protection
+§29.1359 Electrical system fire and smoke protection.
+§§ 25/29.1363 Electrical System Tests
+§§ 23/27.1365 Electric Cables
+§§ 23/27.1367 Switches
+§§ 23/25/29.1431 Electronic Equipment
+§§ 23/25/27/29.1529 Instructions for Continued Airworthiness
+§§ 23/25/27/29.1541 Markings and Placards, General
+§ 23.1559 Operating Limitations Placard
+§§ 27/29.1559 Limitations Placard
+§§ 23/25/27/29.1581 Aircraft Flight Manual, General
+§§ 23/25/27/29.1583 Operating Limitations
+§§ 23/25/27/29.1585 Operating Procedures
+2.2.2.2 The following are additional compliance requirements pertaining to lithium batteries:
+14 CFR 23/25/27 and 29.1353 do not adequately address lithium battery installation.
+Therefore special conditions will be mandated by the specific directorates to meet the
+equivalent airworthiness requirement of 14 CFR parts 23, 25, 27 and 29.
+A typical special condition and intent is provided in Appendix D and a typical MOC for
+the special condition is provided in Appendices E and F. There may be cases where
+certain special conditions listed in Appendix D are not required. Each directorate
+should verify the applicability of these acceptable means of compliance for their
+respective products based on risk.
+2.3 Test Requirements.
+2.3.1 Environmental Test Requirements.
+2.3.1.1 Lithium battery systems on aircraft must meet environmental qualification
+standards in:
+2.3.1.1.1 RTCA/DO-160G, Environmental Conditions and Test Procedures for
+Airborne Equipment, dated December 8, 2010, or the most recent revision;
+2-3
+10/15/15 AC 20-184
+2.3.1.1.2 RTCA DO-347, Certification Test Guidance for Small and Medium
+Rechargeable Lithium Batteries and Battery Systems, dated
+December 18, 2013; and
+2.3.1.1.3 RTCA DO-311, Minimum Operational Performance Standards for
+Rechargeable Lithium Battery Systems, dated March 13, 2008, or the most
+recent revision.
+2.3.1.2 These environmental tests are representative of the conditions the battery
+system may encounter during its life cycle. Consider the following areas
+when determining the scope and type of environmental tests:
+2.3.1.2.1 Equipment configuration,
+2.3.1.2.2 Installation-specific environment encountered on in-service platforms,
+2.3.1.2.3 Duration of exposure periods,
+2.3.1.2.4 Geographical locations, and
+2.3.1.2.5 Frequency of environmental occurrences alone or in combination.
+2.3.2 Means of Compliance: Testing and Validation.
+Follow the guidance in Appendix E to this AC for small and medium lithium batteries,
+and the guidance in Appendix F for large lithium batteries, to show compliance to the
+requirements of the airworthiness regulations and any special conditions imposed by the
+directorates. Ground tests should be performed to demonstrate that the lithium batteries
+installed on the aircraft will perform safely as intended. Flight tests may be required for
+conditions not demonstrated during ground tests.
+2.4 System Safety Assessment.
+2.4.1 Perform a system safety assessment to show compliance with §§ 23/25/27/29.1309 and
+any applicable special condition. This assessment should address concerns associated
+with the installation of the lithium batteries and battery systems, the possibility of direct
+(or indirect) injury to a person, any adverse effect on crew function, or any adverse
+effect on other equipment and systems. These effects could be a result of normal
+operation or a failure in the lithium batteries. Your system safety assessment should
+consider, but not be limited to, the following:
+2.4.1.1 The levels of hazard associated with installation and use of the
+lithium battery:
+2.4.1.2 Rationale addressing the lithium battery installation design assurance level
+as appropriate for performance and safety requirements based on location
+and intended function;
+2.4.1.3 Ensure no interference due to any failures of the lithium battery;
+2-4
+10/15/15 AC 20-184
+2.4.1.4 System separation and zonal analysis;
+2.4.1.5 Impact on flight crew and egress procedures;
+2.4.1.6 Protection against fire, smoke, and electrical shock hazards;
+2.4.1.7 Other safety analysis appropriate to the system being installed; and
+2.4.1.8 Statement of compliance for each requirement identified by the SSA and
+each mitigating design feature in order to comply with XX.1309. You can
+find additional guidance in the following ACs:
+2.4.1.8.1 AC 25.1309-1A, System Design and Analysis;
+2.4.1.8.2 AC 29-2C, Certification of Transport Category Rotorcraft;
+2.4.1.8.3 AC 27-1B, Certification of Normal Category Rotorcraft; and,
+2.4.1.8.4 AC 23.1309-1E, System Safety Analysis and Assessment for Part 23
+Airplanes.
+2.4.2 Coordinate your assessment with the responsible FAA Aircraft Certification Office to
+determine the depth of analysis required. Include a system description, a description of
+how the system is installed on the aircraft, and a list of functions and criticality. You
+can find additional guidance in Appendix B to this AC.
+2.4.3 The safety assessment of the lithium batteries installation should address the battery
+system, the aircraft interface, and the aircraft functional loads to which the battery
+system provides power.
+2.5 Software.
+AC 20-115C, Airborne Software Assurance, defines an acceptable means for showing
+compliance with the applicable airworthiness regulations for the software aspects of
+airborne systems and equipment certification.
+2.6 Complex Electronic Hardware.
+Any lithium batteries hardware containing complex electronic hardware should comply
+with the most recent revision of RTCA/DO-254, Design Assurance Guidance for
+Airborne Electronic Hardware, and AC 20-152.
+2.7 Health Monitoring.
+Lithium batteries should be stored in accordance with the manufacturer's
+recommendations for state of charge and temperature; consideration should be provided
+for any monitoring circuitry that may drain the battery during the storage period.
+Additionally, overcharging of individual cells could lead to thermal runaway. Health
+monitoring of lithium batteries needs to be taken into account during testing and
+certification to ensure that proper state of charge can be maintained.
+2-5
+10/15/15 AC 20-184
+2.8 Flammability.
+Aircraft batteries must meet the applicable flammability requirements of
+§§ 23/25/27/29.853, 23/25/27/29.863, and 25.869 that ensure the protection of structure
+and critical systems. Test the materials to ensure they meet applicable requirements of
+§§ 23/25/27/29.853, 23/25/27/29.863, and 25.869.
+The FAA Aircraft Materials Fire Test Handbook, DOT/FAA/AR-00/12, describes an
+acceptable means of compliance with 14 CFR part 25, Appendix F. If thermal and
+acoustic insulation material is used as part of the battery equipment and exposed, the
+requirements of § 25.856(a), Appendix F, part VI, at amendment 25-111 (or later
+amendment) must be met. Refer to the test methods described by AC 25.856-1,
+Thermal/Acoustic Insulation Flame Propagation Test Method Details.
+2.9 Instructions for Continued Airworthiness (ICA).
+2.9.1 During the certification process of the lithium batteries, complete the ICA in accordance
+with the following as applicable to the certification basis of the product:
+2.9.1.1 14 CFR part 21.50(b);
+2.9.1.2 14 CFR part 23/25/27/29.1529;
+2.9.1.3 14 CFR parts 25.1709 and 25.1729;
+2.9.1.4 14 CFR part 23, Appendix G;
+2.9.1.5 14 CFR part 25, Appendix H;
+2.9.1.6 14 CFR parts 27/29, Appendix A; and
+2.9.1.7 FAA Order 8110.54, Instructions for Continued Airworthiness,
+Responsibilities, Requirements, and Contents.
+2.9.2 Develop the ICA so it is compatible with other maintenance instructions for the aircraft.
+2.9.3 Refer to chapter 3 of this AC for additional details specific to the maintenance of
+lithium batteries on aircraft.
+2.9.4 The ICA must contain an “Airworthiness Limitations” section if deemed necessary. The
+Airworthiness Limitations section is FAA-approved and specifies maintenance required
+under §§ 43.16 and 91.403, unless the FAA has approved an alternative program.
+2.9.5 The ICA should also include, but are not limited to, the following information:
+2.9.5.1 Specifics of the lithium batteries installation, including individual
+component part numbers and any other unique installation requirements;
+2.9.5.2 Electrical wiring diagrams/schematics, electrical equipment drawing;
+2-6
+10/15/15 AC 20-184
+2.9.5.3 Maintenance instructions, basic control and operation, testing, servicing,
+maintenance schedule, inspection, troubleshooting, removing and replacing
+parts, repairs, special tools, fixtures and equipment, component manual; and
+2.9.5.4 Configuration control, storage instructions.
+2.9.6 The ICA must contain the recommended manufacturer’s maintenance and inspection
+requirements to ensure the batteries whose function is required for safe operation of the
+aircraft will perform their intended function as long they are installed in the aircraft.
+The ICA must contain:
+2.9.6.1 Operating instructions and equipment limitations in an installation
+maintenance manual.
+2.9.6.2 Installation procedures and limitations sufficient to ensure cells or batteries,
+when installed according to the installation procedures, still meet the
+airworthiness requirements of the aircraft. The limitations must identify
+any unique aspects of the installation.
+2.9.6.3 Maintenance requirements for measurements of battery capacity at
+appropriate intervals will be performed to ensure the batteries, whose
+function is required for safe operation of the aircraft, will continue to meet
+their intended function as long as they are installed in the aircraft.
+2.9.6.4 Scheduled servicing information to replace batteries per the manufacturer’s
+recommendations.
+2.9.6.5 Maintenance and inspection requirements to visually check for a battery
+and/or charger degradation.
+2.9.7 The ICA should also contain maintenance procedures for lithium batteries in spares
+storage to prevent the replacement of batteries with batteries that have experienced
+degraded charge retention ability or other damage due to prolonged storage.
+2.9.8 The ICA must contain instructions to replace batteries based on the lithium batteries
+original equipment manufacturer (OEM) maintenance manual.
+2.9.9 Replacement of individual cells within lithium batteries must be approved by the
+lithium battery’s OEM and the FAA. Mixing of cells from different manufacturers
+within a lithium battery is not permitted unless an alternate means proposed by the
+lithium batteries OEM and approved by the FAA exist.
+.
+2-7
+10/15/15 AC 20-184
+CHAPTER 3. MAINTENANCE AND OPERATIONAL CONSIDERATIONS FOR LITHIUM
+BATTERY SYSTEMS
+3.1 Aircraft Battery Maintenance.
+At a minimum, follow the battery Original Equipment Manufacturer’s (OEM)
+instructions because maintenance and inspection requirements for aircraft lithium
+batteries vary with the type of chemical technology and physical construction.
+Performance of lithium batteries at any time in a given installation will depend on
+several factors that include, but are not limited to the following:
+3.1.1 Lithium Battery Chemistry.
+The electrolyte and cathode materials used in lithium batteries can be a highly reactive
+substance; therefore, care must be exercised to maintain them in accordance with their
+OEM maintenance manual.
+3.1.2 Age.
+To determine the life and age of the lithium battery, record the manufacturing and/or
+installation date of the battery. During normal battery maintenance, document battery
+age in either the aircraft maintenance log or the shop maintenance log. Do not keep
+batteries in service longer than recommended by the lithium battery manufacturer.
+3.1.3 State of Charge.
+State of charge of the lithium battery will be determined by the cumulative effect of
+charging and discharging the battery. Safeguards must be implemented to ensure the
+aircraft does not begin flight with a battery not sufficiently charged to accomplish the
+intended function of the lithium battery.
+3.1.4 State of Health.
+Follow OEM instructions. The following list may be useful considerations:
+3.1.4.1 Length of time the battery has been in service,
+3.1.4.2 Environmental factors (such as excessive heat or cold), and
+3.1.4.3 Observed failures (such as low voltage under load).
+3.1.4.4 Appropriate battery performance measurements as specified by the battery
+manufacturer such as capacity, voltage, internal resistance, etc.
+3-1
+10/15/15 AC 20-184
+3.1.5 Mechanical Integrity.
+To ensure proper mechanical integrity, the battery must be installed and connected
+correctly and be free of any physical damage. The buildup of explosive gases can be
+avoided by incorporating battery and battery compartment venting systems. Check
+periodically to ensure the venting system is securely connected and oriented in
+accordance with the maintenance manual’s installation procedures. Follow the
+procedures approved for the specific aircraft and battery system to ensure the battery
+system is capable of delivering specified performance. The venting system should take
+into account specific installation requirements of the aircraft and battery manufacturer.
+3.1.6 Reliability of Charging/Monitoring Systems.
+Follow the manufacturer’s recommendation for maintenance inspections concerning the
+battery charging and monitoring systems.
+3.1.7 Shop-Level Maintenance Procedures.
+Shop procedures must follow the lithium battery manufacturer’s recommendations.
+3.1.8 Aircraft Battery Inspection.
+Evidence of battery failure can sometimes be detected by a visual inspection.
+Manufacturer-recommended inspections should include, but not be limited to, the
+following actions:
+3.1.8.1 Inspect battery terminals and all other connections for evidence of
+corrosion, pitting, arcing, and burns. Clean as required.
+3.1.8.2 Inspect the battery for improper installation (loose terminal screws, battery
+terminal links, or connector).
+3.1.8.3 Inspect the battery mounting.
+3.1.8.4 Inspect for evidence of physical damage including heat
+damage/discoloration.
+3.1.9 Batteries in a rotating stock must be functionally checked at the manufacturer’s
+recommended inspection intervals. Some failure modes may include degraded charge
+retention capability, settling of particulates, or other damage due to prolonged storage.
+Batteries in rotating stock may also require periodic servicing per the manufacturer’s
+instructions.
+3.2 Aircraft Battery Replacement.
+3.2.1 Make sure replacement batteries are in airworthy condition. Refer to the battery
+manufacturer maintenance manuals for proper maintenance of lithium batteries. Refer
+to the aircraft maintenance procedures for replacement of lithium batteries.
+3.2.2 The ICA should include the manufacturer’s recommendations for the battery mandatory
+replacement schedule and periodic maintenance.
+3-2
+10/15/15 AC 20-184
+3.2.3 Installation of lithium batteries differs from aircraft system to aircraft system. Refer to
+the applicable aircraft manuals to remove and install batteries.
+3.2.4 When replacing batteries, check for corrosion and moisture on the battery interfaces.
+3.2.5 When replacing batteries, check for short circuit to battery case such as insulation
+resistance test.
+3.2.6 The maintenance record should reflect all battery replacements. Record the expiration
+date of the battery.
+3.2.7 The lithium batteries should be replaced with an approved battery for the specific
+aircraft application.
+3.2.8 Deep discharge may result in a potentially unsafe condition. Replace the battery based
+on the manufacturer’s recommendation.
+3.3 Aircraft Battery Storage and Handling.
+3.3.1 Storage requirements can vary with the battery type, so follow the manufacturer’s
+recommended storage procedures to achieve the best results.
+3.3.2 Record the date of charging. If the battery is not used within the manufacturer’s
+recommended interval, service the battery per the manufacturer’s recommendation.
+3.3.3 To maintain battery integrity, follow the manufacturer’s recommendation for charged
+batteries being held in “ready for service” areas.
+3.3.4 Handling procedures and precautions vary with battery size and configuration. Follow
+the manufacturer’s recommendation to prevent mishandling of the battery.
+3.3.5 Follow the manufacturer’s recommendation procedure to prevent electrostatic discharge
+during storage and handling.
+3.3.6 For packaging and shipping, follow the manufacturer’s recommended procedures.
+3.3.7 Check batteries before use for any leakage or deformity. Do not use the batteries if there
+is any evidence of leakage or deformity.
+3.3.8 Aircraft vibration and/or contact oxidation can result in poor electrical connections.
+Ensure proper connector maintenance procedures are followed.
+3.3.9 Observe the following precautions when handling lithium batteries:
+3.3.9.1 Do not store lithium batteries with other hazardous or
+combustible materials.
+3.3.9.2 Do not heat or incinerate lithium batteries.
+3-3
+10/15/15 AC 20-184
+3.3.9.3 Do not dispose of lithium batteries with other waste unless allowed by
+applicable regulations.
+3.3.9.4 Use special care in handling lithium batteries. Do not open, puncture, crush,
+disassemble, or subject batteries to physical abuse.
+3.3.10 Lithium batteries can be a personal safety hazard due to the possibility of lethal shock
+and must be labeled to clearly indicate the hazard.
+3.3.11 Follow all manufacturer’s recommended safety precautions and procedures.
+3.3.12 Material Safety Data Sheets must be enclosed with lithium batteries for shipping.
+Follow all original equipment manufacturer’s recommended specifications.
+3-4
+10/15/15 AC 20-184
+Appendix A
+APPENDIX A. DEFINITION OF SIZE IN TERMS OF WATT HOURS (WH) ON LITHIUM
+BATTERY AND BATTERY SYSTEMS
+Table A-1
+Installed Very Small, Small, Medium, and Large Size Rechargeable Lithium-Battery and
+Battery System Categories Means of Compliance
+Battery Size Single-Cell Multi -Cell
+Battery Battery
+Acceptable Means of Compliance
+Electrical Electrical
+Energy Energy
+(Wh)* (Wh)*
+Very small batteries include most button cells. No further testing is
+required if they have already met the requirements of UL 1642, UL
+Very Small Wh < 2 Wh < 2
+2054, or IEC 62133. Otherwise, they shall be tested to the requirements
+of small batteries in the next row (refer to Appendix E of this AC).
+RTCA DO-347, Certification Test Guidance for Small and Medium
+Sized Rechargeable Lithium Batteries and Battery Systems, provides
+guidance for an acceptable means of compliance to each of the special
+condition requirements (refer to Appendix E of this AC).
+In addition to the testing of Appendix E, compliance with all other
+Small/Medium 2 ≤ Wh < 60 2 ≤ Wh < 300 applicable airworthiness requirements is required.
+Compliance test plans and results are required.
+A Functional Hazard Assessment, System Safety Assessment, Fault
+Tree Analysis and /or Failure Modes and Effects Analysis, as applicable,
+must be accomplished per 14 CFR 23/25/27/29.1309 and 25.1709.
+Coordinate this evaluation with the Aircraft Certification Office as early
+as possible for the project.
+RTCA DO-311, Minimum Operational Performance Standards for
+Rechargeable Lithium Battery Systems and selected sections of RTCA
+DO-347, Certification Test Guidance for Small and Medium Sized
+Rechargeable Lithium Batteries and Battery Systems, provides
+guidance for an acceptable means of compliance to each of the special
+condition requirement (refer to Appendix F of this AC) regardless of the
+Large Wh ≥ 60 Wh ≥ 300 installation location and intended function of the battery and battery
+system. In addition to the testing of Appendix F, compliance with all
+other applicable airworthiness requirements is required.
+A system safety assessment must be accomplished per 14 CFR
+23/25/27/29.1309 and 25.1709.
+Coordinate this evaluation with the Aircraft Certification Office as early
+as possible for the project.
+*A Watt hour (Wh) is defined as the rated capacity (in ampere-hours, Ah) times the nominal battery voltage.
+Note: When approved and published by RTCA, DO-311A, Minimum Operational Performance
+Standards for Rechargeable Lithium Battery Systems, can also be used to provide compliance to the
+special conditions in lieu of Appendix E and F in this AC. Coordinate with the cognizant ACO and
+directorate if you would like to use this alternate means of compliance to the special conditions.
+A-1
+10/15/15 AC 20-184
+Appendix B
+APPENDIX B. RELATED REGULATIONS AND DOCUMENTS
+B.1 Regulations
+14 CFR Part 21 Certification Procedures for Products and Parts
+14 CFR Part 23 Airworthiness Standards: Normal Utility, Acrobatic,
+and Commuter Category Airplanes
+14 CFR Part 25 Airworthiness Standards: Transport Category
+Airplanes
+14 CFR Part 27 Airworthiness Standards: Normal Category
+Rotorcraft
+14 CFR Part 29 Airworthiness Standards: Transport Category
+Rotorcraft
+14 CFR Part 43 Maintenance, Preventive Maintenance, Rebuilding,
+and Alteration
+14 CFR Part 145 Repair Stations
+B.2 Advisory Circulars
+AC 20-136B Protection of Aircraft Electrical/Electronic Systems
+Against Indirect Effects of Lightning
+AC 20-152 RTCA/DO-254 Design Assurance Guidance for
+Airborne Electronic Hardware
+AC 20-158A The Certification of Aircraft Electrical and
+Electronic Systems for Operation in the High
+Intensity Radiated Fields (HIRF) Environment
+AC 21-16G RTCA Document DO-160 versions D, E, F, and G,
+“Environmental Conditions and Test Procedures for
+Airborne Equipment”
+AC 23.1309-1E System Safety Analysis and Assessment for Part 23
+Airplanes
+B-1
+10/15/15 AC 20-184
+Appendix B
+AC 23-17C Systems and Equipment Guide for Certification of
+Part 23 Airplanes and Airships
+AC 25.1309-1A System Design and Analysis
+AC 25-16 Electrical Fault, Fire Prevention and Protection
+AC 25-1581-1 Airplane Flight Manual
+AC 27-1B, Change 1 Certification of Normal Category Rotorcraft
+AC 29-2C, Change 1 Certification of Transport Category Rotorcraft
+AC 120-16 Air Carrier Maintenance Programs
+AC 120-42A Extended Range Operation with Two Engine
+Airplanes (ETOPS)
+AC 43.13-1B Acceptable Methods, Techniques and Practices,
+Aircraft Inspection, and Repairs
+AC 43.13-2A Acceptable Methods, Techniques, and Practices –
+Aircraft Alterations
+AC 20-115C Airborne Software Assurance
+B.3 Orders and Handbooks
+FAA Order 8110.4 Type Certification
+FAA Order 8110.42 Parts Manufacturer Approval Procedures
+FAA Order 8110.54 Instructions for Continued Airworthiness,
+Responsibilities, Requirements, and Content
+FAA Aircraft Materials http://www.fire.tc.faa.gov/handbook.stm
+Fire Test Handbook
+B-2
+10/15/15 AC 20-184
+Appendix B
+B.4 Other
+DOT/FAA/AR-04/26 Flammability Assessment of Bulk-Packed,
+Non-rechargeable Lithium Primary Batteries in
+Transport Category Aircraft, June 2004
+TSO-C179a Permanently Installed Rechargeable Lithium Cells,
+Batteries and battery Systems.
+B.5 Industry Documents
+Society of Automotive Certification Considerations for Highly-Integrated or
+Engineers (SAE) Complex Aircraft Systems
+Aerospace
+Recommended Practice
+(ARP) 4754
+SAE ARP 4761 Guidelines and Methods for Conducting the Safety
+Assessment Process on Civil Airborne Systems
+and Equipment
+RTCA DO-178C Software Considerations in Airborne Systems and
+Equipment Certification
+RTCA DO-254 Design Assurance Guidance for Airborne Electronic
+Hardware
+RTCA DO-311 Minimum Operational Performance Standards for
+Rechargeable Lithium Battery (Systems)
+RTCA DO-347 Certification Test Guidance for Small and Medium
+Rechargeable Lithium Batteries and Battery Systems
+RTCA DO-160G Environmental Conditions and Test Procedures for
+Airborne Equipment
+B-3
+mm/dd/yyyy AC 20-184
+Appendix C
+APPENDIX C. TERMS AND DEFINITIONS
+C.1.1 For purposes of this AC, the following definitions apply:
+C.1.2 Airworthiness. The compliance of a battery or part thereof with all conditions and
+regulations required by the regulatory authorities for their safe operation and
+performance in an airborne environment.
+C.1.3 Battery Cell. In a battery, a cell is a single energy or charge-storing unit within a pack
+of one or more cells that form the battery. Each cell has a voltage rating that is
+combined with the other cells’ voltages to form the overall battery voltage rating.
+C.1.4 Battery. One or more electrically connected cells, assembled in a single container
+having positive and negative terminals. A battery may include inter-cell connectors and
+protective and other devices.
+C.1.5 Battery System. One or more electrically connected batteries that provide power to
+equipment. A battery system may include a charger, controlling circuitry and means for
+monitoring of battery temperature, battery state, and current as well as system testing
+and related functions.
+C.1.6 Charged Battery. A battery that has been fully charged in accordance with the battery
+manufacturer’s instructions or as defined in the design documentation.
+C.1.7 Continued Safe Flight and Landing. The aircraft is capable of continued controlled
+flight and landing, possibly using emergency procedures, without requiring exceptional
+pilot skill or strength. Upon landing, some aircraft damage may occur as a result of a
+failure condition.
+C.1.8 Failure. An occurrence that affects the operation of a component, part, or element such
+that it can no longer function as intended (this includes both loss of function and
+malfunction). Note: Errors may cause Failures, but are not considered to be Failures.
+C.1.9 Primary (Non-Rechargeable) Versus Secondary (Rechargeable) Battery. One of
+the basic differences among battery types is whether the battery is to be used once or
+is to be recharged. Batteries that are used and discarded are known as primary or
+non-rechargeable. Batteries that can be used repeatedly are known as secondary
+or rechargeable.
+C.1.10 Redundancy. The presence of more than one independent means for accomplishing a
+given function or flight operation.
+C.1.11 Serviced Battery. A battery that has been fully prepared and maintained in accordance
+with the manufacturer’s instructions or as defined in the design documentation.
+C-1
+mm/dd/yyyy AC 20-184
+Appendix C
+C.1.12 Service Life. The maximum combined shelf life and installed life of an undischarged
+cell or battery. Service life will be stated by the equipment manufacturer. The end of
+service life is indicated by a “replace-by” or expiration date. Service life is equivalent to
+useful life.
+C.1.13 Shelf Life. The maximum period at which an undischarged cell or battery stored under
+standard conditions retains 80 percent of rated ampere-hour capacity. The cell/battery
+manufacturer specifies shelf life.
+C.1.14 System. A combination of components, parts, and elements, which are interconnected to
+perform one or more functions.
+C-2
+10/15/15 AC 20-184
+Appendix D
+APPENDIX D. TYPICAL SPECIAL CONDITION (SC) AND INTENT FOR EACH SC
+FOR PARTS 23, 25, 27, AND 29
+Special Condition Requirement #1:
+Safe cell temperatures and pressures must be maintained during any foreseeable charging or
+discharging condition and during any failure of the charging or battery monitoring system not
+shown to be extremely remote. The rechargeable lithium battery installation must preclude
+explosion in the event of those failures.
+The intent of this SC requirement:
+The cells within the lithium battery system shall be designed to minimize the impact of
+self-sustained, uncontrolled increases in cell temperature or pressure, as a result of any
+foreseeable charging or discharging condition. The probability of this event must be shown to be
+extremely remote (1 event in 10 million (1x10-7) flight hours). It must preclude explosion in the
+event of any failure.
+Special Condition Requirement #2:
+Design of the rechargeable lithium batteries must preclude the occurrence of self-sustaining,
+uncontrolled increases in temperature or pressure.
+The intent of this SC requirement:
+The lithium battery system shall be designed to minimize the impact of self-sustained,
+uncontrolled increases in temperature or pressure, as a result of any failure within the battery.
+The probability of impact must be extremely improbable (1 event in 1 billion (1x10-9) flight
+hours).
+Special Condition Requirement #3:
+No explosive or toxic gases emitted by any rechargeable lithium battery in normal operation,
+or as the result of any failure of the battery charging system, monitoring system, or battery
+installation which is not shown to be extremely remote, may accumulate in hazardous quantities
+within the aircraft.
+The intent of this SC requirement:
+The battery system shall not emit any explosive or toxic gases, smoke, or fluids during normal
+operation except through designed venting provisions.
+Battery systems shall be capable of containing or safely relieving the maximum pressure buildup
+that can occur under worst-case failure conditions. If the battery system is not capable of
+containing the maximum pressure, then the appropriate provisions shall be included to safely
+relieve pressure from the battery. Emissions shall only escape through designed pressure
+relief provisions.
+Hazardous emissions may be flammable, explosive, corrosive, or toxic in certain concentrations.
+The installer should work with the manufacturer to quantify and mitigate the effects of hazardous
+emissions. Ensure that the aircraft installation is compatible with the emissions and temperatures
+that the battery or battery system may generate during any failure condition.
+D-1
+10/15/15 AC 20-184
+Appendix D
+Accommodate any venting provisions on the battery or battery system as applicable. Provide
+containment of electrolyte leakage, toxic or explosive gases, and debris as applicable.
+The probability of this failure must be shown to be extremely remote (1 event in 10 million
+(1x10-7) flight hours).
+Special Condition Requirement #4:
+Installations of rechargeable lithium batteries must meet the requirements of Title 14 of the Code
+of Federal Regulations (14 CFR) 23/25/27/29.863(a) through (d) for parts 23, 25, 27, and 29.
+The intent of this SC requirement:
+Internal and external materials of the rechargeable lithium battery and battery system shall meet
+the applicable certification flammability requirements of the installation. They must meet the
+requirements of §§ 23/25/27/29.863(a) through (d).
+Special Condition Requirement #5:
+For Part 23:
+No corrosive fluids or gases that may escape from any rechargeable lithium battery may damage
+surrounding structure or any adjacent systems, equipment, or electrical wiring of the airplane in
+such a way as to cause a major or more severe failure condition, in accordance with § 23.1309(c)
+and applicable regulatory guidance.
+The intent of this SC requirement:
+There shall be no damage to surrounding structure or any adjacent systems, equipment,
+or electrical wiring from the fluids or gases emitted from the battery. The design assurance
+level (DAL) must meet the requirement of § 23.1309(c) and any other applicable
+airworthiness regulations.
+For Part 25:
+No corrosive fluids or gases that may escape from any rechargeable lithium battery may damage
+surrounding structure or any adjacent systems, equipment, or electrical wiring of the airplane in
+such a way as to cause a major or more severe failure condition, in accordance with § 25.1309(b)
+and applicable regulatory guidance.
+The intent of this SC requirement:
+There shall be no damage to surrounding structure or any adjacent systems, equipment, or
+electrical wiring from the fluids or gases emitted from the battery. The DAL must meet the
+requirement of § 25.1309(b) and any other applicable airworthiness regulations.
+For Part 27:
+No corrosive fluids or gases that may escape from any rechargeable lithium battery may damage
+surrounding structure or any adjacent systems, equipment, or electrical wiring of the rotorcraft in
+such a way as to cause a major or more severe failure condition, in accordance with § 27.1309(b)
+and (c), and applicable regulatory guidance.
+The intent of this SC requirement:
+D-2
+10/15/15 AC 20-184
+Appendix D
+There shall be no damage to surrounding structure or any adjacent systems, equipment, or
+electrical wiring from the fluids or gases emitted from the battery. The DAL must meet the
+requirement of § 27.1309(b) and (c), and any other applicable airworthiness regulations.
+For Part 29:
+No corrosive fluids or gases that may escape from any rechargeable lithium battery may damage
+surrounding structure or any adjacent systems, equipment, or electrical wiring of the rotorcraft in
+such a way as to cause a major or more severe failure condition, in accordance with § 29.1309(b)
+and applicable regulatory guidance.
+The intent of this SC requirement:
+There shall be no damage to surrounding structure or any adjacent systems, equipment, or
+electrical wiring from the fluids or gases emitted from the battery. The DAL must meet the
+requirement of § 29.1309(b) and any other applicable airworthiness regulations.
+Special Condition Requirement #6:
+Each rechargeable lithium battery installation must have provisions to prevent any hazardous
+effect on structure or essential systems caused by the maximum amount of heat the battery can
+generate during a short circuit of the battery or of its individual cells.
+The intent of this SC requirement:
+The lithium battery system shall be designed to minimize the impact of self-sustained,
+uncontrolled increases in temperature or pressure, as a result of cell failures (for example,
+internal cell short circuit) or a short circuit of the battery. It shall prevent any hazardous effect on
+adjacent or nearby structures or essential systems during this failure.
+Special Condition Requirement #7:
+The lithium battery system must have a capability to control the charging rate of the battery
+automatically, so as to prevent battery overheating or overcharging, and either—
+(i) A battery temperature sensing and over-temperature warning system with a means
+for automatically disconnecting the battery from its charging source in the event of an
+over-temperature condition, or
+(ii) A battery failure sensing and warning system with a means for automatically disconnecting
+the battery from its charging source in the event of battery failure.
+The intent of this SC requirement:
+The rechargeable lithium battery or battery system shall have protective features to prevent
+unsafe conditions during operation.
+The monitoring and protective system shall control the charging rate of the battery automatically
+in order to prevent any overcharging or overheating. This includes automatically disconnect
+charging when this particular fault occurs.
+Special Condition Requirement #8:
+Any rechargeable lithium battery installation, the function of which is required for safe operation
+of the aircraft, must incorporate a monitoring and warning feature that will provide an indication
+D-3
+10/15/15 AC 20-184
+Appendix D
+to the appropriate flight crewmembers whenever the state-of-charge of the batteries has fallen
+below levels considered acceptable for dispatch of the aircraft.
+The intent of this SC requirement:
+Any aircraft that uses a lithium battery or battery system whose function is necessary for safe
+operation shall require the incorporation of a monitoring and warning feature that will provide an
+accurate indication to the appropriate flight crewmembers whenever the state-of-charge of the
+batteries has fallen below levels considered acceptable for dispatch of the aircraft.
+Special Condition Requirement #9:
+The instructions for continued airworthiness required by §§ 23/25/27/29.1529 must contain
+maintenance requirements to assure that the battery is sufficiently charged at appropriate
+intervals specified by the battery manufacturer and the equipment manufacturer that contain the
+rechargeable lithium battery or rechargeable lithium battery system. This is required to ensure
+that lithium rechargeable batteries and lithium rechargeable battery systems will not degrade
+below specified ampere-hour levels sufficient to power the aircraft system, for intended
+applications. The instructions for continued airworthiness must also contain procedures for the
+maintenance of batteries in spares storage to prevent the replacement of batteries with batteries
+that have experienced degraded charge retention ability or other damage due to prolonged
+storage at a low state of charge. Replacement batteries must be of the same manufacturer and
+part number as approved by the FAA. Precautions should be included in the instructions for
+continued airworthiness maintenance instructions to prevent mishandling of the rechargeable
+lithium battery and rechargeable lithium battery systems, which could result in short-circuit or
+other unintentional impact damage caused by dropping or other destructive means that could
+result in personal injury or property damage.
+The intent of this SC requirement:
+The ICA shall contain maintenance requirements to assure proper maintenance and operation of
+the rechargeable lithium batteries and battery system. All the above-mentioned requirements
+must be addressed including any mandatory requirement listed in the Airworthiness Limitation
+Section of the ICA, if applicable. Use Order 8110.54 as guidance for the compliance to this
+requirement.
+D-4
+10/15/15 AC 20-184
+Appendix E
+APPENDIX E. MOC FOR SMALL AND MEDIUM LITHIUM BATTERIES
+(USING RTCA DO-347 MOPS)
+Provide the following information to the applicable Aircraft Certification Office along with your
+compliance data:
+Acceptable Means of Compliance for Special Condition Requirement #1:
+a) Provide a list of all design features that show compliance to requirement #1.
+b) Provide a list of all analysis and test(s), including but not limited to the standards document
+number, revision, release date, and test number that show compliance to requirement #1.
+As an example for lithium battery and battery systems acceptable means of compliance
+including but not limited to the following RTCA DO-347 document design and test sections:
+1.5.2 Charging and Discharging Protection
+1.5.3 Mitigation of Cell Failure Effects
+1.5.5 Flammability
+1.6 Design Criteria
+1.7 Design Guidelines
+2.1 Test Conditions and Apparatus
+2.3.7 Short-circuit Test of a Cell
+2.3.8 Short-circuit Test with Protection Enabled
+2.3.9 Short-circuit Test with Protection Disabled
+2.3.10 Insulation Resistance Test
+2.3.12 Deep Discharge Test
+2.3.13 Overcharge Test with Protection Enabled
+2.3.14 Overcharge Test with Protection Disabled
+2.3.15 Thermal Runaway Containment Test
+2.6 Environmental Qualification Requirements
+3.1.5 Additional Equipment Installation Considerations
+Acceptable Means of Compliance for Special Condition Requirement #2:
+a) Provide a list of all design features that show compliance with requirement #2.
+b) Provide a list of all analysis and test(s), including but not limited to the standards document
+number, revision, release date and test number that show compliance to requirement #2.
+As an example for lithium battery and battery systems acceptable means of compliance
+including but not limited to the following RTCA DO-347 document design and test sections:
+1.5.1 Battery Protective Features
+E-1
+10/15/15 AC 20-184
+Appendix E
+1.5.2 Charging and Discharging Protection
+1.5.5 Flammability
+1.5.7 Environmental Qualification
+1.6 Design Criteria
+1.7 Design Guidelines
+2.1 Test Conditions and Apparatus
+2.3.2 Constant Voltage Discharge Test for High Rate Batteries
+2.3.8 Short-circuit Test with Protection Enabled
+2.3.9 Short-circuit Test with Protection Disabled
+2.3.10 Insulation Resistance Test
+2.3.11 Duty Cycle Test for High Rate Batteries
+2.3.12 Deep Discharge Test
+2.3.13 Overcharge Test with Protection Enabled
+2.3.14 Overcharge Test with Protection Disabled
+2.3.15 Thermal Runaway Containment Test
+2.6 Environmental Qualification Requirements
+3.1.5 Additional Equipment Installation Considerations
+3.2 Safety Considerations for Installed Equipment
+Acceptable Means of Compliance for Special Condition Requirement #3:
+a) Provide a list of all design features that show compliance with requirement #3.
+b) Provide a list of all analysis and test(s), including but not limited to the standards document
+number, revision, release date and test number that show compliance to requirement #3.
+As an example for lithium battery and battery systems acceptable means of compliance
+including but not limited to the following RTCA DO-347 document design and test sections:
+1.5.4 Battery Emissions
+1.5.5 Flammability
+1.5.7 Environmental Qualification
+1.6.2 Venting Provisions. For a Small/Medium battery, it is acceptable to vent into the
+surrounding battery container if meeting the provisions of this section.
+2.1 Test Conditions and Apparatus
+2.3.8 Short-circuit Test with Protection Enabled
+2.3.9 Short-circuit Test with Protection Disabled
+2.3.13 Overcharge Test with Protection Enabled
+E-2
+10/15/15 AC 20-184
+Appendix E
+2.3.14 Overcharge Test with Protection Disabled
+2.3.15 Thermal Runaway Containment Test
+2.6 Environmental Qualification Requirements
+3.1.3 Hazardous Battery Emissions
+3.1.5 Additional Equipment Installation Considerations
+Acceptable Means of Compliance for Special Condition Requirement #4:
+a) Provide a list of all design features that show compliance with requirement #4.
+b) Provide a list of all analysis and test(s), including but not limited to the standards document
+number, revision, release date and test number that show compliance to requirement #4.
+c) Because lithium batteries and battery systems contain high energy which can be a source of
+flammable fluid, applicants must show compliance with 23/25/27/29.863.
+As an example for lithium battery and battery systems acceptable means of compliance
+including but not limited to the following RTCA DO-347 document design and test sections:
+1.5.5 Flammability
+1.5.7 Environmental Qualification
+2.6 Environmental Qualification Requirements
+Acceptable Means of Compliance for Special Condition Requirement #5:
+a) Provide a list of all design features that show compliance with requirement #5.
+b) Provide a list of all analysis and test(s), including but not limited to the standards document
+number, revision, release date and test number that show compliance to requirement #5.
+c) Because lithium batteries and battery systems contain high energy which can be a source of
+flammable fluid, applicants must show compliance with 23/25/27/29.863.
+As an example for lithium battery and battery systems acceptable means of compliance
+including but not limited to the following RTCA DO-347 document design and test sections:
+1.5.1 Battery Protective Features
+1.5.4 Battery Emissions
+1.5.7 Environmental Qualification
+2.3.8 Short-circuit Test with Protection Enabled
+2.3.9 Short-circuit Test with Protection Disabled
+2.3.13 Overcharge Test with Protection Enabled
+2.3.14 Overcharge Test with Protection Disabled
+2.3.15 Thermal Runaway Containment Test
+2.6 Environmental Qualification Requirements
+3.1.3 Hazardous Battery Emissions
+E-3
+10/15/15 AC 20-184
+Appendix E
+3.1.5 Additional Equipment Installation Considerations
+3.2 Safety Considerations for Installed Equipment
+Acceptable Means of Compliance for Special Condition Requirement #6:
+a) Provide a list of all design features that show compliance with requirement #6.
+b) Provide a list of all analysis and test(s), including but not limited to the standards document
+number, revision, release date and test number that show compliance to requirement #6.
+As an example for lithium battery and battery systems acceptable means of compliance
+including but not limited to the following RTCA DO-347 document design and test sections:
+1.5.1 Battery Protective Features
+1.5.2 Charging and Discharging Protection
+1.5.5 Flammability
+1.5.7 Environmental Qualification
+1.6 Design Criteria
+1.7 Design Guidelines
+2.1 Test Conditions and Apparatus
+2.3.2 Constant Voltage Discharge Test for High Rate Batteries
+2.3.8 Short-circuit Test with Protection Enabled
+2.3.9 Short-circuit Test with Protection Disabled
+2.3.10 Insulation Resistance Test
+2.3.11 Duty Cycle Test for High Rate Batteries
+2.3.12 Deep Discharge Test
+2.3.13 Overcharge Test with Protection Enabled
+2.3.14 Overcharge Test with Protection Disabled
+2.3.15 Thermal Runaway Containment Test
+2.6 Environmental Qualification Requirements
+3.1.5 Additional Equipment Installation Considerations
+3.2 Safety Considerations for Installed equipment
+Acceptable Means of Compliance for Special Condition Requirement #7:
+a) Provide a list of all design features that show compliance with requirement #7.
+b) Provide a list of all analysis and test(s), including but not limited to the standards document
+number, revision, release date and test number that show compliance to requirement #7.
+As an example for lithium battery and battery systems acceptable means of compliance
+including but not limited to the following RTCA DO-347 document design and test sections:
+1.5.1 Battery Protective Features
+E-4
+10/15/15 AC 20-184
+Appendix E
+1.5.2 Charging and Discharging Protection
+1.7.2 Built-In-Test.
+1.7.3 Prevention from Back Charging
+2.3.12 Deep Discharge Test
+2.3.13 Overcharge Test with Protection Enabled
+2.3.14 Overcharge Test with Protection Disabled
+2.3.15 Thermal Runaway Containment Test
+2.5.1 Software
+2.5.2 Hardware
+2.6 Environmental Qualification Requirements
+Acceptable Means of Compliance for Special Condition Requirement #8:
+a) Provide a list of all design features that show compliance with requirement #8.
+b) Provide a list of all analysis and test(s), including but not limited to the standards document
+number, revision, release date and test number that show compliance to requirement #8.
+As an example for lithium battery and battery systems acceptable means of compliance
+including but not limited to the following RTCA DO-347 document design and test sections:
+2.3.1 Rated Capacity Test
+2.3.4 Charge Retention Test
+2.3.5 Shelf Life Test
+2.3.6 Float Life Test
+2.3.10 Insulation Resistance Test
+2.3.12 Deep Discharge Test
+2.5.1 Software
+2.5.2 Hardware
+3.1.1 Warning System
+Acceptable Means of Compliance for Special Condition #9:
+a) Provide a copy of the ICA.
+As an example for lithium battery and battery systems acceptable means of compliance
+including but not limited to the following RTCA DO-347 document design and test sections:
+1.5.6 Instructions for Continued Airworthiness
+2.3.4 Charge Retention Test
+2.3.5 Shelf Life Test
+2.3.6 Float Life Test
+E-5
+10/15/15 AC 20-184
+Appendix F
+APPENDIX F. MOC FOR LARGE LITHIUM BATTERIES AND BATTERY SYSTEMS
+(USING RTCA DO-311 AND SOME TESTS OF DO-347 MOPS)
+Provide the following information to the applicable Aircraft Certification Office along with your
+compliance data:
+Acceptable Means of Compliance for Special Condition #1:
+a) Provide a list of all design features that show compliance to requirement #1.
+b) Provide a list of all analysis and test(s), including but not limited to the standards document
+number, revision, release date and test number that show compliance to requirement #1.
+As an example for lithium battery and battery systems acceptable means of compliance
+including but not limited to the following DO-311 and listed RTCA DO-347 test:
+RTCA DO-311 sections
+1.5.2 Precautions during charging and discharging
+1.5.3 Prevention of Thermal Runaway
+1.5.6 Charging and Protection
+1.5.10 Design of Protection Circuits
+2.3.15 Duty Cycle Performance (for engine start batteries only)
+RTCA DO-347 sections
+1.5.2 Charging and Discharging Protection
+1.5.3 Mitigation of Cell Failure Effects
+1.5.5 Flammability
+1.6 Design Requirements
+1.7 Design Guidelines
+2.1 Test Conditions and Apparatus
+2.3.7 Short-circuit Test of a Cell
+2.3.8 Short-circuit Test with Protection Enabled
+2.3.9 Short-circuit Test with Protection Disabled
+2.3.10 Insulation Resistance Test
+2.3.12 Deep Discharge Test
+2.3.13 Overcharge Test with Protection Enabled
+2.3.14 Overcharge Test with Protection Disabled
+2.3.15 Thermal Runaway Containment Test
+2.6 Environmental Qualification Requirements
+3.1.5 Additional Equipment Installation Considerations
+F-1
+10/15/15 AC 20-184
+Appendix F
+Acceptable Means of Compliance for Special Condition #2:
+a) Provide a list of all design features that show compliance with requirement #2.
+b) Provide a list of all analysis and test(s), including but not limited to the standards document
+number, revision, release date and test number that show compliance to requirement #2.
+As an example for lithium battery and battery systems acceptable means of compliance
+including but not limited to the following RTCA DO-311 and selected section of DO-347
+document design and test sections:
+RTCA DO-311 sections
+1.5.2 Precautions during charging and discharging
+1.5.3 Prevention of Thermal Runaway
+1.5.6 Charging and Protection
+1.5.10 Design of Protection Circuits
+2.3.15 Duty Cycle Performance (for engine start batteries only)
+2.3.18 Overcharge with Protection Enabled Test
+RTCA DO-347 sections
+1.5.1 Battery Protective Features
+1.5.2 Charging and Discharging Protection
+1.5.5 Flammability
+1.5.7 Environmental Qualification
+1.6 Design Criteria
+1.7 Design Guidelines
+2.1 Test Conditions and Apparatus
+2.3.2 Constant Voltage Discharge Test for High Rate Batteries
+2.3.8 Short-circuit Test with Protection Enabled
+2.3.9 Short-circuit Test with Protection Disabled
+2.3.10 Insulation Resistance Test
+2.3.11 Duty Cycle Test for High Rate Batteries
+2.3.12 Deep Discharge Test
+2.3.14 Overcharge Test with Protection Disabled
+2.3.15 Thermal Runaway Containment Test
+2.6 Environmental Qualification Requirements
+3.1.5 Additional Equipment Installation Considerations
+3.2 Safety Considerations for Installed Equipment
+F-2
+10/15/15 AC 20-184
+Appendix F
+Acceptable Means of Compliance for Special Condition #3:
+a) Provide a list of all design features that show compliance with requirement #3.
+b) Provide a list of all analysis and test(s), including but not limited to the standards document
+number, revision, release date and test number that show compliance to requirement #3.
+As an example for lithium battery and battery systems acceptable means of compliance
+including but not limited to the following RTCA DO-311 and selected section of DO-347
+document design and test sections:
+RTCA DO-311 sections
+1.5.2 Precautions during charging and discharging
+1.5.3 Prevention of Thermal Runaway
+1.5.6 Charging and Protection
+1.5.10 Design of Protection Circuits
+1.9.6 Vent Mechanism
+2.3.15 Duty Cycle Performance (for engine start batteries only)
+2.3.18 Overcharge with Protection Enabled Test
+RTCA DO-347 sections
+1.5.4 Battery Emissions
+1.5.5 Flammability
+1.5.7 Environmental Qualification
+1.6.2 Venting Provisions
+2.1 Test Conditions and Apparatus
+2.3.8 Short-circuit Test with Protection Enabled
+2.3.9 Short-circuit Test with Protection Disabled
+2.3.14 Overcharge Test with Protection Disabled
+2.3.15 Thermal Runaway Containment Test
+2.6 Environmental Qualification Requirements
+3.1.3 Hazardous Battery Emissions
+3.1.5 Additional Equipment Installation Considerations
+Acceptable Means of Compliance for Special Condition #4:
+a) Provide a list of all design features that show compliance with requirement #4.
+b) Provide a list of all analysis and test(s), including but not limited to the standards document
+number, revision, release date and test number that show compliance to requirement #4.
+c) Applicants must show compliance with 14 CFR 23/25/27/29.863 because lithium batteries and
+battery systems contain high energy which can be a source of flammable fluid.
+F-3
+10/15/15 AC 20-184
+Appendix F
+As an example for lithium battery and battery systems acceptable means of compliance
+including but not limited to the following DO-311 and listed RTCA DO-347 test:
+RTCA DO-311 sections
+1.5.3 Prevention of Thermal Runaway
+1.5.6 Charging and Protection
+1.5.10 Design of Protection Circuits
+1.9.6 Vent Mechanism
+RTCA DO-347 sections
+1.5.5 Flammability
+1.5.7 Environmental Qualification
+2.6 Environmental Qualification Requirements
+Acceptable Means of Compliance for Special Condition 5:
+a) Provide a list of all design features that show compliance with requirement #5.
+b) Provide a list of all analysis and test(s), including but not limited to the standards document
+number, revision, release date and test number that show compliance to requirement #5.
+As an example for lithium battery and battery systems acceptable means of compliance
+including but not limited to the following DO-311 and RTCA DO-347 document design and
+test sections:
+RTCA DO-311 sections
+1.5.3 Prevention of Thermal Runaway
+1.5.6 Charging and Protection
+1.5.10 Design of Protection Circuits
+1.9.6 Vent Mechanism
+RTCA DO-347 sections
+1.5.1 Battery Protective Features
+1.5.4 Battery Emissions
+1.5.7 Environmental Qualification
+2.3.8 Short-circuit Test with Protection Enabled
+2.3.9 Short-circuit Test with Protection Disabled
+2.3.13 Overcharge Test with Protection Enabled
+2.3.14 Overcharge Test with Protection Disabled
+2.3.15 Thermal Runaway Containment Test
+2.6 Environmental Qualification Requirements
+3.1.3 Hazardous Battery Emissions
+F-4
+10/15/15 AC 20-184
+Appendix F
+3.1.5 Additional Equipment Installation Considerations
+3.2 Safety Considerations for Installed Equipment
+Acceptable Means of Compliance for Special Condition #6:
+a) Provide a list of all design features that show compliance with requirement #6.
+b) Provide a list of all analysis and test(s), including but not limited to the standards document
+number, revision, release date and test number that show compliance to requirement #6.
+As an example for lithium battery and battery systems acceptable means of compliance
+including but not limited to the following DO-311 and listed RTCA DO-347 test:
+RTCA DO-311 sections
+1.5.3 Prevention of Thermal Runaway
+1.5.6 Charging and Protection
+1.5.10 Design of Protection Circuits
+1.9.6 Vent Mechanism
+RTCA DO-347 sections
+1.5.1 Battery Protective Features
+1.5.2 Charging and Discharging Protection
+1.5.5 Flammability
+1.5.7 Environmental Qualification
+1.6 Design Criteria
+1.7 Design Guidelines
+2.1 Test Conditions and Apparatus
+2.3.2 Constant Voltage Discharge Test for High Rate Batteries
+2.3.8 Short-circuit Test with Protection Enabled
+2.3.9 Short-circuit Test with Protection Disabled
+2.3.10 Insulation Resistance Test
+2.3.11 Duty Cycle Test for High Rate Batteries
+2.3.12 Deep Discharge Test
+2.3.13 Overcharge Test with Protection Enabled
+2.3.14 Overcharge Test with Protection Disabled
+2.3.15 Thermal Runaway Containment Test
+2.6 Environmental Qualification Requirements
+3.1.5 Additional Equipment Installation Considerations
+3.2 Safety Considerations for Installed Equipment
+F-5
+10/15/15 AC 20-184
+Appendix F
+Acceptable Means of Compliance for Special Condition #7:
+a) Provide a list of all design features that show compliance with requirement #7.
+b) Provide a list of all analysis and test(s), including but not limited to the standards document
+number, revision, release date and test number that show compliance to requirement #7.
+As an example for lithium battery and battery systems acceptable means of compliance
+including but not limited to the following DO-311 and listed RTCA DO-347 test:
+RTCA DO-311 sections
+1.5.3 Prevention of Thermal Runaway
+1.5.6 Charging and Protection
+1.5.7 Warning System.
+1.5.10 Design of Protection Circuits
+1.9.6 Vent Mechanism
+2.3.18 Overcharge with Protection Enabled Test
+RTCA DO-347 sections
+1.5.1 Battery Protective Features
+1.5.2 Charging and Discharging Protection
+1.7.2 Built-In-Test
+1.7.3 Prevention from Back Charging
+2.3.12 Deep Discharge Test
+2.3.14 Overcharge Test with Protection Disabled
+2.3.15 Thermal Runaway Containment Test
+2.5.1 Software
+2.5.2 Hardware
+2.6 Environmental Qualification Requirements
+Acceptable Means of Compliance for Special Condition #8:
+a) Provide a list of all design features that show compliance with requirement #8.
+b) Provide a list of all analysis and test(s), including but not limited to the standards document
+number, revision, release date and test number that show compliance to requirement #8.
+As an example for lithium battery and battery systems acceptable means of compliance
+including but not limited to the following DO-311 and listed RTCA DO-347 test:
+RTCA DO-311 sections
+1.5.3 Prevention of Thermal Runaway
+1.5.6 Charging and Protection
+1.5.7 Warning System.
+F-6
+10/15/15 AC 20-184
+Appendix F
+1.5.10 Design of Protection Circuits
+1.9.6 Vent Mechanism
+RTCA DO-347 sections
+2.3.1 Rated Capacity Test
+2.3.4 Charge Retention Test
+2.3.5 Shelf Life Test
+2.3.6 Float Life Test
+2.3.10 Insulation Resistance Test
+2.3.12 Deep Discharge Test
+2.5.1 Software
+2.5.2 Hardware
+Acceptable Means of Compliance for Special Condition #9:
+a) Provide a copy of the ICA.
+Note: The electrical wiring interconnection systems (EWIS) maintenance and inspection tasks
+required by § 25.1729 must ensure that EWIS components associated with the batteries and
+battery systems are sufficient to detect degradation of any EWIS component that is designed and
+installed to support compliance with special condition items numbers 1 through 8.
+Note: The term “sufficiently charged”' means that the battery will retain enough of a charge,
+expressed in ampere-hours, to ensure that the battery cells will not be damaged. A battery cell
+may be damaged by lowering the charge below a point where the battery experiences a reduction
+in the ability to charge and retain a full charge. This reduction would be greater than the
+reduction that may result from normal operational degradation.
+As an example for lithium battery and battery systems acceptable means of compliance
+including but not limited to the following DO-311 and listed RTCA DO-347 test:
+RTCA DO-311 sections
+1.12 Instructions for Continued Airworthiness
+RTCA DO-347 sections
+2.3.4 Charge Retention Test
+2.3.5 Shelf Life Test
+2.3.6 Float Life Test
+F-7
+10/15/15 AC 20-184
+Appendix G
+APPENDIX G. FLOW CHART FOR LITHIUM BATTERY MEANS OF COMPLIANCE
+CERTIFICATION PROCESS.
+Notes:
+I. Has the Top Level Unit been FAA conformed (see FAA Form 8120-10 and Order 8110-4 Appendix
+4), and successfully tested per appropriate standards such as DO-311, DO-347, DO-160, DO-178 and
+DO-254 (or equivalent)? Has any regulatory compliance been accomplished for the Top Level Unit?
+II. Has the battery successfully completed any TSO MPS testing? Does it have an FAA TSO, such as
+TSO-C179a?
+III. Has the battery been FAA conformed and successfully tested per appropriate standards such as DO-
+311, DO-347, DO-160, DO-178 and DO-254? Has any regulatory compliance been accomplished on
+the battery?
+IV. Is there a Functional Hazard Assessment, System Safety Assessment and or failure Modes and Effects
+Analysis accomplished? If so, is the Hazard Assessment catastrophic?
+V. The battery size is defined by Table 1-1 on page 3 of the RTCA document DO-347. See page 33
+Section 2.8 of RTCA document DO-347 for industry standards.
+VI. The equipment must be evaluated for installation requirements. If the equipment has a TSO, the tests
+under the TSO MOPS can be used for compliance to the airworthiness regulations (Test Report must
+be provided). When there is a delta between the test accomplished under the TSO and the installation
+requirement based on criticality and location on aircraft only the delta tests, if any, need to be tested in
+order to comply with the airworthiness regulations.
+G-1
+10/15/15 AC 20-184
+Appendix H
+APPENDIX H. ADVISORY CIRCULAR FEEDBACK INFORMATION
+If you have comments or recommendations for improving this advisory circular (AC), or
+suggestions for new items or subjects to be added, or if you find an error, you may let us know
+by using this page as a template and 1) emailing it to 9-AWA-AVS-AIR500-Coord@faa.gov or
+2) faxing it to the attention of the AIR Directives Management Officer at 202-267-3983.
+Subject: (insert AC number and title) Date: (insert date)
+Comment/Recommendation/Error: (Please fill out all that apply)
+An error has been noted:
+Paragraph ____________________
+Page ______
+Type of error (check all that apply): Editorial:----- Procedural-----
+Conceptual____
+Description/Comments:______________________________________________
+_________________________________________________________________
+_________________________________________________________________
+Recommend paragraph ______ on page ______ be changed as follows:
+(attach separate sheets if necessary)
+_________________________________________________________________
+In a future change to this advisory circular, please include coverage on the following subject:
+(briefly describe what you want added attaching separate sheets if necessary)
+________________________________________________________________
+Name: __________________________
+H-1

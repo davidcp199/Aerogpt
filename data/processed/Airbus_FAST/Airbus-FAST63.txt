@@ -1,0 +1,1707 @@
+Airbus technical magazine
+April 2019
+#63
+FA S T
+Flight Airworthiness Support Technology
+Already have the FAST app?
+Now get the latest news for customers
+via Airbus’ Newsfeed app.
+FAST
+FAST and Newsfeed apps
+are downloadable to your preferred device
+9102
+-
+36#TSAF
+30
+Airbus technical magazine
+FAST magazine articles, primarily dedicated to Airbus
+commercial aircraft customers, are written by our
+Already have the FAST app? #63
+technical experts and focus on what is informative,
+interesting and useful to operators.
+Now get the latest news for customers
+Learn about innovations and evolutions to Airbus
+FA S T
+aircraft, as well as best practices to help optimise
+via Airbus’ Newsfeed app.
+fleet performance. And see where Airbus is working,
+sometimes with key players in the industry, to
+continue to support customers and prepare the future.
+Although the printed copy remains popular, you may
+prefer to switch to the app version of FAST, enabling
+Flight Airworthiness Support Technology
+you to share and comment. Any changes in preference
+can be sent to your field service or to the editor.
+Chief Editor: Deborah Buckler And for short news updates for customers, make
+sure you have the Newsfeed by Airbus app.
+Writing support: Parkinson Stephens Editorial, Chris Bockman
+This consolidates key news in one place, with content
+Design: Pont Bleu
+from across Airbus, streamlining and aligning
+Cover image: A220 interior, Frederick Lancelot communication in response to your requests
+(see opposite).
+Printer: Amadio
+Authorisation for reprinting FAST magazine articles:
+fast.magazine@airbus.com
+Deborah BUCKLER
+FAST magazine availability:
+Chief Editor
+On the FAST app (see QR code opposite page)
+Airbus website:
+www.aircraft.airbus.com/support-services/publications/
+ISSN 1293-5476
+Photo copyright Airbus. Photo credits: Airbus Photographic Library, Airbus Corporate Heritage,
+Aerotheque, Master Films, Hervé Gousset, Philippe Masclet, Benjamin Mouchet, Pierre-Jean Argaud,
+Alexandre Doumanjou, Frederick Lancelot, Sylvain Ramadier, Pascal Pigeyre, Anthony Pecchi The cabin waste mountain 04
+Managing the rising quantities and costs
+Targeting the perfect fit 08
+Reducing GSE-induced damage
+© AIRBUS 2019 All rights reserved. Proprietary document
+to aircraft
+By taking delivery of this Magazine (hereafter ‘Magazine’), you accept on behalf
+of your company to comply with the following. No other property rights are granted
+by the delivery of this Magazine than the right to read it, for the sole purpose of
+information. This Magazine, its content, illustrations and photos shall not be modified Pilot training 14
+nor reproduced without prior written consent of Airbus. This Magazine and the
+Meeting the need for competent,
+materials it contains shall not, in whole or in part, be sold, rented, or licensed to any
+third party subject to payment or not. This Magazine may contain market-sensitive qualified pilots
+or other information that is correct at the time of going to press. This information
+involves a number of factors which could change over time, affecting the true public
+representation. Airbus assumes no obligation to update any information contained in
+this document or with respect to the information described herein. The statements Flying the A220 20
+made herein do not constitute an offer or form part of any contract. They are based on
+Design features and airline feedback
+Airbus information and are expressed in good faith but no warranty or representation
+is given as to their accuracy. When additional information is required, Airbus can be
+contacted to provide further details. Airbus shall assume no liability for
+any damage in connection with the use of this Magazine and the materials it contains, Data management 30
+even if Airbus has been advised of the likelihood of such damages. This licence
+is governed by French law and exclusive jurisdiction is given to the courts and tribunals What big data is doing for aviation
+of Toulouse (France) without prejudice to the right of Airbus to bring proceedings for
+infringement of copyright or any other intellectual property right in any other court of
+competent jurisdiction. Airbus, its logo, A220, A300, A310, A318, A319, A320, A321, FANS C 34
+A330, A340, A350, A380 and A400M are registered trademarks.
+FAST Latest technology
+for air traffic management
+FAST from the past 38
+FAST and Newsfeed apps
+This brochure is printed on paper produced in factories that are accredited EMAS and certified
+ISO 9001-14001, PEFC and FSC CoC. Around the clock, 39
+are downloadable to your preferred device It is produced using pulp that has been whitened without either chlorine or acid. The paper is
+entirely recyclable and is produced from trees grown in sustainable forest resources. around the world
+The printing inks use organic pigments or minerals. There is no use of basic dyes or dangerous
+metals from the cadmium, lead, mercury or hexavalent chromium group. Field representatives and training centres
+9102
+-
+36#TSAF
+40
+The cabin waste
+mountain
+Managing the rising
+quantities and costs
+Article by
+Axel BECKER
+Trend Research manager
+AIRBUS
+axel.becker@airbus.com
+Matthias REISS
+Environmental Champion,
+Cabin and Cargo
+AIRBUS
+matthias.reiss@airbus.com
+For most passengers, when the cabin crew starts going through the aisle
+collecting the rubbish from seat trays, it’s usually a subconscious signal
+that landing is not too far off, especially on a short-haul flight.
+On a long-distance trip, passengers are just happy to fold up their tray.
+But what about the waste itself that is generated on a flight? The statistics
+are incredible. According to IATA 5.2 million tonnes of cabin waste were
+created in 2016 and that number is expected to double by 2030.
+9102
+-
+36#TSAF
+50
+The cabin waste mountain
+The cabin waste
+Why is cabin waste on the increase?
+There are several factors to explain this rise. First of all, we are consuming more on
+flights. We may be bringing fewer newspapers on board as we download from tablets
+mountain and mobile phones, but we drink far more from plastic cups and glasses, especially
+on short-haul flights. The food that we purchase on board is also more elaborately
+prepared with fancier wrapping. As more and more airlines charge for food services,
+passengers are increasingly bringing food on board with them that they purchased at
+the airport. According to IATA, 25% of meals on long-haul flights are not even eaten
+and are thrown away, ending up in landfills.
+Dealing with waste today
+Of course, with air traffic doubling every 15 years and a rapidly growing middle-class
+taking to the skies, especially in India and Asia, the waste in the cabin will inevitably
+continue to expand. The growing « airborne waste mountain » will become more and
+more of a challenge for the airline industry as it has to find new ways of disposing it.
+Currently, waste is collected but rarely sorted by cabin crew. There is little concrete
+data on how much waste is currently recycled, but nearly all of it is handed over to
+airports that then send it to landfills or incinerators.
+Overall, the cost of handling cabin waste is estimated at around 500 million US dollars
+per year according to IATA and that figure could rise substantially in the coming years.
+Airports are increasingly charging airlines more to handle airlines’ un-recycled waste.
+Some airlines actually find it cheaper, despite the extra weight, to hold on to their trash
+for the return flight, then unload it back at their hub where they may have lower
+unloading fees.
+5 million tonnes
+of waste by 2030
+Handling waste tomorrow
+Airlines clearly understand the challenges ahead when it comes to handling cabin
+waste. In recent feedback to Airbus, some airlines rated the issue of recycling as of
+very high or rather high importance today. However, the same airlines also said that
+in 5 years’ time, the issue will soar amongst their list of priorities.
+A combination of higher costs, possible new regulations in the future on recycling and
+a greater emphasis on aviation’s impact on the environment is encouraging the aircraft
+manufacturers, airlines, suppliers and regulators to find new solutions to better treat
+waste in the future. The European Union is currently co-financing studies within the
+industry to tackle the issue.
+Jon Godson, assistant director of IATA, specifically addresses the issue of aviation
+environment and better environmental practices in the cabin. Among the ideas it is
+promoting, is the reduction of over-ordering by catering companies, since so much
+food brought on board is not touched. Another idea is to offer vouchers to passengers
+to eat in the terminal before they board, particularly as regulations allow waste which
+is collected on the ground in airports to be recycled more easily. IATA also suggests
+the use of dedicated recycling carts.
+9102
+-
+36#TSAF
+60
+The cabin waste mountain
+Recycling on-board, quickly and easily
+One potential solution, the “Retrolley”, is already being rolled out and tested with
+several airlines on both long and short-haul flights in Europe and the Middle East.
+The Retrolley in its original form was designed by Brazilian aviation students in an
+Airbus ideas competition*. Airbus worked on maturing the design with Iacobucci
+Aerospace, an Italian manufacturer with over 40 years of expertise making cabin
+products including coffee machines, trash compactors and trolleys.
+The Retrolley is a totally re-designed trolley to collect trash and separate it in « real-
+time » as it is collected by the cabin crew. There are several different compartments,
+which can be customized according to the specific airline needs. One possible
+configuration is to have one container for cups that can be stacked up, one for liquids,
+one to hold recyclable paper and plastics and a fourth compartment for trash that
+cannot be recycled easily. They have been configured for flexibility, as Lucio Iacobucci,
+CEO, explains: ‘The Retrolley is a very simple system because it can be used
+on different flights. Cabin service for short flights may have more liquids to collect,
+and so we can configure the Retrolley with between 1 and 3 bins specifically for cups
+and liquids. However, on longer flights there could be bigger containers for a variety
+of waste. The bottom line is that there is no standard concept. Each airline has its
+approach and needs and the Retrolley can adapt to these requirements.’
+Jon Godson from IATA also sees the trolley as a way forward in the campaign against
+waste because it addresses health inspectors’ concerns about the need to clearly
+separate recyclable rubbish from other waste: ‘Retrolley is a great step forward for
+cabin waste recycling and should provide assurance to regulators that we can keep
+recyclables free from any bio-security risks.’
+Airbus is convinced that the Retrolley will be welcomed by the industry and will
+contribute to a more sustainable future because it fulfils key requirements for airlines:
+this trolley can be integrated into any galley without modifications and with a simple,
+non-electrical and lightweight design.
+Retrolley adapts
+to airlines’ needs
+CONCLUSION
+Cabin waste is on the increase, as are the associated costs of managing it. Challenges include
+the sheer volume of waste, but also the time and space constraints of the cabin crew and the
+environmental awareness requiring better recycling of waste.
+The Retrolley is one option, expected to be in service by end of 2019. The trolley enables direct
+sorting by cabin crew as they pass through the cabin. Already, 40 airlines worldwide have expressed
+interest in acquiring the trolley which is planned to be made available across the whole Airbus fleet.
+Trials began with a major European carrier in November 2018. The Retrolley is going through
+the certification process with the European Technical Standard Order (ETSO) under the authority
+of EASA. Meanwhile, the supplier is working closely with catering companies.
+9102
+-
+36#TSAF
+70
+The cabin waste mountain
+*Airbus Fly Your Ideas competition
+behind Retrolley concept
+The Retrolley was designed by 5 students from Sao
+Paolo University. They participated in the Fly Your
+Ideas competition that Airbus runs in partnership
+with UNESCO to encourage students to come up
+with new innovations to transform the world of
+aviation. The students worked alongside Airbus
+engineers to help turn their idea into a reality.
+Nicolas Jourdan, an Airbus cabin innovation
+manager, saw the students’ idea and thought:
+“Wow - this is so clear we should do something with
+this. We can make it fly, especially as it combines
+innovation and environmental goals together.”
+The Retrolley won the 2017 Crystal Cabin Award
+at the Aircraft Interiors Expo.
+www.airbus-fyi.com
+There is no standard fit for Retrolley, it can be fitted with between 1 and 3
+bins for cups and liquids. However, on longer flights there could be
+bigger containers for a variety of waste
+Get the FAST app
+Scan the QR code or search
+‘Airbus FAST’ on your app store
+9102
+-
+36#TSAF
+80
+Targeting
+the perfect fit
+Reducing GSE-induced damage to aircraft
+Damage to aircraft doors and airframe sections caused by
+Article by
+misaligned ground equipment costs the aviation industry
+Diego ALONSO TABARES
+billions of dollars every year. There is now a solution which
+Airport operations
+significantly lowers damage risk, developed through a AIRBUS
+diego.alonso-tabares@airbus.com
+collaborative approach involving airlines, ground equipment
+manufacturers, ground handlers and service providers.
+The proposal links reflective adhesive aircraft markings with
+camera-guided automated ground equipment to perform
+accurate docking. It is currently undergoing airline trials
+with a view to being adopted as an industry standard.
+Targeting the perfect fit
+9102
+-
+36#TSAF
+90
+Targeting
+All commercial aircraft experience ramp damage at some point during their in-service
+life. Airport equipment misalignment and distance misjudgement are a major issue
+for airlines, airport operators and ground handlers and are often compounded by time
+pressure and insufficient manpower on the apron.
+the perfect fit
+2,500 1.0
+0,9
+2,000 0,8
+0,7
+1,500 0,6
+0,5
+0,4
+1,000
+0,3
+0,2
+500
+0,1
+0
+0
+Q2-Q3 Q4-Q1 Q2-Q3 Q4-Q1 Q2-Q3 Q4-Q1 Q2-Q3 Q4-Q1 Q2-Q3 Q4-Q1
+2013 2013-2014 2014 2014-2015 2015 2015-2016 2016 2016-2017 2017 2017-2018
+Minor Severity Reports
+Low Severity Reports
+Moderate Severity Reports
+High Severity Reports
+Damage Rate per 1,000 sectors
+Damage Rate excluding minor severity per 1,000 sectors
+Over the years, attempts to establish a common set of aircraft door markings
+to accurately align Ground Support Equipment (GSE) have stalled in the absence
+of an industry consensus. Many airlines have attempted to create their own standards,
+only to see them incur paint-shop customisation costs then fail to gain recognition
+from ground service providers outside their home base.
+The solution to tackle this problem comprises standardised door markings and
+automated GSE which can operate under human supervision. The process hinges
+on a set of aircraft-mounted reflective stickers that are detected by cameras mounted
+on the GSE, which then guide the equipment to a precise position flush with the
+aircraft door.
+Airbus has qualified the reflective markings. They will be available for line-fit
+or retro-fit and can be applied to any 100-seat-plus aircraft type.
+stropeR
+fo
+rebmuN
+2,500 1.0
+0,9
+2,000 0,8
+0,7
+1,500 0,6
+0,5
+0,4
+1,000
+0,3
+0,2
+500
+0,1
+0
+0
+Minor Severity Reports
+Low Severity Reports
+Moderate Severity Reports
+High Severity Reports
+Damage Rate per 1,000 sectors
+Damage Rate excluding minor severity per 1,000 sectors
+stropeR
+fo
+rebmuN
+2,500 1.0
+0,9
+2,000 0,8
+0,7
+1,500 0,6
+0,5
+0,4
+1,000
+0,3
+0,2
+500
+0,1
+0
+0
+Minor Severity Reports
+Low Severity Reports
+Moderate Severity Reports
+High Severity Reports
+Damage Rate per 1,000 sectors
+Damage Rate excluding minor severity per 1,000 sectors
+stropeR
+fo
+rebmuN
+IATA Ground Damage Database
+Damage Severity and Rates
+Airport ground
+support equipment
+that docks to aircraft
+doors includes
+passenger boarding
+bridges; passenger
+stairs; catering and
+cleaning trucks;
+ambulifts; and cargo
+and belt loaders.
+Q2-Q3 Q4-Q1 Q2-Q3 Q4-Q1 Q2-Q3 Q4-Q1 Q2-Q3 Q4-Q1 Q2-Q3 Q4-Q1 Q2-Q3 Q4-Q1 Q2-Q3 Q4-Q1 Q2-Q3 Q4-Q1 Q2-Q3 Q4-Q1 Q2-Q3 Q4-Q1
+2013 2013-2014 2014 2014-2015 2015 2015-2016 2016 2016-2017 2017 2017-2018 2013 2013-2014 2014 2014-2015 2015 2015-2016 2016 2016-2017 2017 2017-2018
+9102
+-
+36#TSAF
+01
+Targeting the perfect fit
+2D & 3D cameras
+GSE is equipped with cameras that read
+the markings and verify the identification
+of the door in question, before calculating
+its position and distance from the aircraft.
+standard distance sensor
+Cameras used for
+automated docking.
+standard distance sensor
+Targeting the perfect fit
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+9102
+-
+36#TSAF
+11
+Door identification How the reflective markings proposal works
+The markings are based on Aircraft are fitted with two 19x19 cm adhesive markings around each door, as
+combinations of 16 different defined by the draft standard SAE AS 6896* ‘aircraft markings for ground support
+patterns; each combination equipment alignment’. The marking pattern identifies the aircraft door and its position
+can be recognised as a specific relative to the aircraft door. Markings are always at the same relative distance to the
+Passenger, Cargo or Bulk door. door sill and door edges regardless of aircraft type. The markings are highly reflective
+(e.g. second passenger door to ensure detectability and identification from a sufficiently large distance in all
+on aircraft starboard) weather and operating conditions.
+* SAE AS 6896 is a draft aerospace standard being written within the SAE AGE-3 committee
+(Society of Automotive Engineers, Aircraft Ground Equipment) together with IATA’s GSEE group.
+All GSE stakeholders are involved, from airframers, GSE manufacturers and ground handlers
+to airports, camera and sensor manufacturers.
+GSE is equipped with cameras that read the markings and verify the identification
+of the door in question, before calculating its position and distance from the aircraft.
+Once this is complete the GSE establishes the bearing to the door. When docked,
+the equipment can use the markings to follow any aircraft movements during loading
+and unloading and to maintain its position relative to the door.
+Airbus began work on the solution in 2014 in conjunction with a wide network of
+partners. Several versions of the markings’ design were required before they were
+frozen in late 2017. The adhesive stickers are manufactured by Adhetec and the
+solution is future-proofed thanks to its ability to use several camera technologies
+including 2D and 3D time-of-flight cameras.
+Both types of cameras emit light and receive a reflective feedback. 2D cameras use
+visible light and receive a 2D view, but can use aircraft door identity. 3D time-of-flight
+cameras use infrared light to generate a 3D shape of their environment where the
+‘reflective stain’ can be located.
+Benefits for aircraft operators
+The greatest benefit of the standardised markings is the reduced risk of aircraft
+damage from ground equipment. Besides costly material damage and lengthy
+insurance settlements, incidents can cause delays and flight operations disruption.
+The proposal supports a range of possible solutions from simple guidance to GSE
+operator to fully automated GSE docking, addressing the commonplace manpower
+shortages at airports around the world. Automation also leads to more predictable
+turnaround times, contributing to efficient ground operations that benefit airlines
+and airports alike. The solution can be retrofitted to existing equipment. A number
+of GSE manufacturers including Mallaghan, TLD and JBT have already expressed
+an interest in its standardisation and adoption.
+9102
+-
+36#TSAF
+21
+Targeting the perfect fit
+Trials with airlines
+The next step is to facilitate the adoption process. Every change in the ground
+handling environment is lengthy, but on the whole the stakeholders’ attitude is positive
+and the collaborative work of the standardisation groups advocates for a collectively-
+agreed vision of the future of ground handling. Several airlines are already conducting
+trials of the adhesive sticker proposal.
+Trialling the aircraft reflective markings proposal
+easyJet began trialling the GSE marking proposal in partnership with stair
+manufacturer Mallaghan at Belfast airport in March 2018, using seven of its A319
+aircraft and a prototype automated stair. Since its teams familiarised themselves
+with the markings and the alignment process, the results have been promising,
+says Dave Cross, until recently easyJet’s ground operations quality and safety
+manager and trial supervisor.
+Punctuality is the biggest casualty of GSE damage at easyJet. In 2017 the airline
+registered door damage on over 75% of its large A320 Family fleet. “Even the minor
+damage caused by the majority of incidents requires callout and the input of an
+engineer,” Cross says. “At an outstation that could add two to three hours’
+unscheduled ground time.”
+To reduce the damage risk, easyJet has increased its oversight of GSE maintenance,
+making sure the parts that interface with the aircraft fuselage are regularly inspected
+and maintained.
+Even better, a standardised approach to door markings and GSE automation would
+bring big benefits, Cross insists. Yet, as ground operations are not a regulated
+environment, “new ideas take a long time to embed.” easyJet’s size and influence
+“give us a better shot at helping to get the solution adopted” with the backing
+of IATA and the SAE, he says. “Anything that removes the risk of aircraft damage
+is to be welcomed. Once proven in operation, this solution is something easyJet Get the FAST app
+would consider for line and retrofit,” Cross concludes. Scan the QR code or search
+‘Airbus FAST’ on your app store
+Targeting the perfect fit
+CONCLUSION
+A straightforward solution for accurate airport ground support equipment docking, developed by a wide
+network of airline and ground service partners and Airbus, is on track for standardisation and industry-wide
+adoption after successful operational trials.
+Reflecting the collaborative spirit of its development, the proposal is not patented and is publicly available.
+It has worked its way through several proofs of concept in partnership with other airframers, airlines, ground
+services providers and camera and ground equipment manufacturers.
+The proposal’s introduction will significantly reduce the risk of damage at the ramp, lowering the financial
+exposure stakeholders face, and help address manpower shortages on the ground, thus enabling further
+automation around the aircraft.
+9102
+-
+36#TSAF
+31
+0
+1
+2
+3
+4
+5
+6
+7
+8 British Airways is currently trialling Airbus’ adhesive sticker solution for cargo loaders
+and is interested in its scalability to all GSE aircraft docking.
+“Any aircraft that is damaged whilst on the ground almost inevitably results in delays and
+disruption for customers,” says David Anderson, head of ground safety at the airline.
+“In addition to the customer impact there is a very long list of associated direct and indirect
+costs, including the cost of repairs, hotel accommodation, repatriation, EU261 compensation,
+9 ferry flights, loss of goodwill and knock-on cancellations.”
+As technology improves so should British Airways’ ability to reduce and then eliminate aircraft
+damage, Anderson stresses. “IATA Aircraft Handling Manual Chapter 9 describes in simple terms
+what is required to be fitted to GSE to provide a minimum level of protection to the aircraft.”
+“The standards are not new and there
+10 is evidence that some Ground Service
+Providers are starting to actively procure
+GSE that complies with these basic
+requirements,” Anderson continues.
+Yet he says it is “disappointing” that
+non-modified GSE is still offered for sale
+by some suppliers.
+11
+Anderson notes that IATA has conducted
+studies to assess the cost of modifying
+GSE and is very clear that modification
+costs are “significantly lower” than the
+cost of damage. However with most
+12 of the cost of damage currently borne
+by the airlines, “there can be little
+to incentivise some ground handlers
+to invest in the modifications that
+are commercially available to reduce
+the damage risk.”
+13 And what of Airbus’ involvement in standardisation efforts? “Airbus has actively supported
+work to identify an interface between GSE and the aircraft and has worked closely with SAE*
+and IATA to design a target that will work with developing technology,” Anderson says.
+“The development of an SAE standard for target design should give the industry the confidence
+that any new or retrofit solution will be scalable.”
+*Society of Automotive Engineers
+14 Commenting on the GSE markings trial Anderson says: “As an airline that has conducted some
+early trials, the chosen design is small enough to be unobtrusive and has the added benefit that
+it may allow some existing markings to be removed.
+Evidence would suggest that the GSE manufacturers are actively engaged in developing
+equipment that will interact with the targets. Some manufacturers are already trialling GSE with
+launch customers, whilst others are openly talking about how they will use the technology.
+15
+Due to its simplicity, the targets offer opportunities beyond positioning GSE with other obvious
+applications being passenger boarding bridge positioning or indeed any other equipment that
+engages with the aircraft.”
+9102
+-
+36#TSAF
+41
+Pilot training
+Meeting the need for competent, qualified pilots
+To help address the skills gap, Article by
+harmonise training quality and meet
+Captain Jean-Michel BIGARRE Susannah CRABOL
+demand for the estimated 540,000* new Head of Flight Training Flight Training Solutions Manager
+AIRBUS AIRBUS
+pilots needed worldwide over the next
+susannah.crabol@airbus.com
+20 years, Airbus has developed the
+Airbus Flight Training Reference,
+or AFTR, and is now introducing
+‘ab-initio’ pilot training for beginners.
+*Airbus 2018 Global Services Forecast
+9102
+-
+36#TSAF
+51
+Pilot training
+An integrated complete programme, from beginner
+to qualified commercial airline pilot
+Civil aviation faces the challenge of continuously improving flight training quality in a
+market expanding faster than cadets can be recruited. Reinforcing and improving flying
+skills and building airmanship is paramount for continued safe operation of commercial
+aircraft.
+To facilitate the development of competent, operationally-ready flight crew, the Airbus
+Flight Training Reference (AFTR) provides a standard. It is based on the pillars of
+quality, safety and competency. Company flight training experts meet frequently with
+regulators, airworthiness authorities, industry groups and airlines to develop pragmatic
+operational concepts that enable harmonised, cost-effective and rigorous global
+standards.
+Notably, the AFTR has led to the introduction of specific reinforcement training
+modules aimed at reinforcing basic skills such as instrument rating or multi-engine
+aircraft exposure. This allows cadets to start Phase III (JOC/MCC) of their flight training
+at the same level as their peers and meets the required levels set by the AFTR.
+This is an ‘ab-initio’
+The Airbus Flight Training Reference
+programme that
+The AFTR has four goals:
+incorporates the
+• To raise quality in flight training worldwide
+AFTR to apply
+• To harmonise the huge diversity of training standards
+its high standards amongst worldwide authorities
+• To ensure pilot competency
+from the very
+• To contribute to higher safety levels
+beginning
+Now in a further step, Airbus is introducing the Airbus Pilot Cadet Training Programme.
+This is an ‘ab-initio’ programme incorporating the AFTR to apply its high standards
+from the very beginning. The programme is operated in partnership with strategically-
+identified flight schools.
+The traditional training path to becoming a pilot comprises different phases (see
+graphic 1). Airbus is expanding its Competency-Based Training and Assessment
+(CBTA – see box overleaf) method to cover the entire path, for the first time
+incorporating CBTA into the screening and selection process.
+Phase 1 Phase 2 Phase 3 Phase 4 Phase 5
+Initial Initial Intermediate Advanced Ops
+(Basic) (Basic) Training Training Courses
+Training Training
+PPL CPL/IR/ME JOC/MCC Type LIFUS
+Rating +Ops
+Private Commercial Jet Orientation
+Pilot Licence Pilot Licence/ Course/
+Instrument Rating/ Multi Crew
+Multi-Engine Cooperation
+Graphic 1
+9102
+-
+36#TSAF
+61
+Pilot training
+Launched in mid-2018, the ab-initio scheme, known as the Airbus Pilot Cadet Training
+Programme, is based on EASA international regulations, with the initial phase being
+developed in partnership with ENAC, a leading French aeronautics and aviation university.
+It was certified by the EASA in December 2018.
+Its AFTR-based curriculum is an integrated A320 Family commercial pilot programme that
+is optimised for airlines. The primary target is naturally focused on ensuring the safe flight
+of our aircraft via the high training standards we employ. The scheme’s stringent entry
+requirements and assessment levels guarantee an optimised selection level to ensure the
+selected candidates are considered capable of completing the course and therefore remove
+cadet ‘fallout’ and precious ‘seats’ among the training chain.
+The programme prioritises the development and assessment of fundamental pilot
+competencies to better prepare a smooth transition from the training to the operational
+environment. This helps students acquire the knowledge, skills and attitude they need
+to become a skilled pilot.
+The programme was launched in conjunction with the Escuela de Aviación Mexico (EAM)
+flight school, located close to Airbus’ training centre in Mexico City. Participating flight
+schools are selected according to their ability to meet the standards set by the AFTR;
+the shared vision of the quality of their training; and their capacity to meet the volumes
+required to support the ab-initio scheme and operators’ requirements.
+Like EAM, once audited and selected, participating flight schools and their instructors will
+be standardised to the Airbus Pilot Cadet Training Programme operating under Airbus’
+supervision. The first batch of cadets began training at EAM in January 2019. A second
+flight school, located in South-West France (Angoulême), will join the programme in the
+spring of 2019.
+What is Type Rating? What is Competency-Based
+Training & Assessment (CBTA)?
+A type rating is a regulatory agency’s
+(EASA or FAA, for example) certification
+CBTA is a training concept that focuses
+of a pilot to fly a certain aircraft type that
+on the development of the eight core competencies
+requires additional training beyond the scope
+considered necessary to becoming a skilful pilot
+of the initial license.
+on commercial aircraft. The training programme is
+Many commercial pilots have multiple type
+completely adapted to the acquisition of these skills,
+ratings, allowing them to operate several types
+via continual assessment and competency-based
+with minimal transition training. This presents
+grading throughout the course. time and cost advantages to airlines.
+9102
+-
+36#TSAF
+71
+Pilot training
+Obtaining an Integrated Airline Transport Pilot Licence
+Cadets will receive over 750 hours of theoretical training and 200 hours of practical
+training during the 20-month ab-initio course. Candidates must be at least 18 years
+old and in possession of a High School diploma including mathematics, with a
+proficient level of English.
+After clearing the rigorous selection process created by Airbus and jointly reviewed
+with the flight school, students complete the initial training: an integrated Commercial
+Pilot Licence, Instrument Rating and Multi-Engine programme (CPL/IR/ME). They then
+become eligible to train as A320 Family pilots and frozen* Airline Transport Pilot
+Licence (ATPL) holders at an Airbus Training Centre. This sequenced process presents
+airlines with the benefit of recruiting operationally-ready pilots trained to harmonised
+standards.
+Escuela de Aviación Mexico (EAM) * A frozen ATPL refers to a Commercial Pilot Licence (CPL) holder who has passed
+flight school in Mexico City all the ATP theoretical exams. However, they can only pass the ATPL practical exam
+to unfreeze their ATP licence once they have logged 1500 flight hours on multi pilot aircraft.
+Integrated Airline Transport Pilot Licence (ATPL)
+Initial Intermediate Advanced
+training training training
+Airbus Integrated Jet Orientation Type Optional Airbus
+Pilot Commercial Pilot Corse Rating conversion Ops
+screening Licence (CPL) Multi Crew course courses
+programme Instrument Rating (IR) Cooperation
+Multi-Engine (ME) (APS MCC)
+Competency-Based Training & Assesment
+Cadets demonstrating an exceptional level of learning and competency, combined with a pre-
+disposition for teaching and decision-making observed during their Private Pilot Licence (PPL) phase,
+may be selected for the Airbus High Potential Pilot Cadet training programme. This incorporates pilot,
+instructor and captaincy training with a view to following an optimised career path.
+The Competency-Based Training & Assessment (CBTA) programme ensures successful applicants
+have the aptitude to acquire the eight ICAO industry-endorsed core piloting competencies:
+• Aircraft flight path management – automation
+• Aircraft flight path management – manual control
+• Application of procedures
+• Communication
+• Leadership & teamwork
+• Problem-solving & decision-making
+• Situational awareness
+• Workload management
+CIS region
+23,000
+Europe
+North America
+94,000
+69,000
+Middle East
+57,000
+Asia/Pacific
+219,000
+Africa
+25,000
+Latin America
+53,000
+9102
+-
+36#TSAF
+81
+Pilot Training
+540 000* new pilots needed
+over the next 20 years
+*Airbus 2018 Global Services Forecast
+Benefits for airlines:
+A competent and efficient pilot pool
+Airlines will see more globally-operational pilots, as students qualifying from the The aim of the AFTR has been
+training programme will be able to convert their licence from validity in the country to create a standard of quality in
+of acquisition to an alternative licence. The programme incorporates the latest flight training that is a worldwide
+safety recommendations and follows the most recent Airbus technical evolutions, reference. The ultimate goals of
+thanks to design office and flight test data that is fed back into the course. Airbus are that this reference is
+recognised and recommended
+The scheme purposefully involves the selected flying schools from the very start
+by authorities such as EASA
+to ensure the fundamentals of safe flight are instilled and maintained from end
+or the FAA, but more practically,
+to end. Ultimately, competent and efficient pilots contribute to increased safety
+that pilots are trained with the
+levels and indirectly to reduced airline operational costs.
+Airbus Training Reference to reach
+the same flight training level of
+Benefits for students
+competencies and proficiency.
+Strict selection means that students accepted for the ab-initio training are likely This standard is now Airbus’
+to make it through to qualification and a return on their investment. The ab-initio reference for working with any
+programme can be followed in any location within Airbus’ worldwide training training organisation – and is
+network once in place, subject to visa regimes and local approval. Aircraft paving the way for delivering
+approved for use as part of the scheme include modern, classic and glass- a worldwide high quality training
+cockpit fleets. programme leading to the
+continued safe operation
+of Airbus aircraft.
+Laminar Pilot training
+CIS region
+23,000
+Europe
+North America
+94,000
+69,000
+Middle East
+57,000
+Asia/Pacific
+219,000
+Africa
+25,000
+Latin America
+53,000
+Benefits for flight schools
+Beyond the brand recognition, flight schools partnering with Airbus on the ab-initio
+scheme benefit from the company’s global network, and strong relationships with
+airworthiness authorities and working groups. Flight schools operate entirely under
+the Airbus Approved Training Organisation’s responsibility, whereby Airbus provides
+all training manuals, documentation and training programmes, operations processes,
+and instructor and flight school standardisation. This provides significant cost savings
+for the flight schools who no longer have to carry out course development in particular.
+Through Airbus, the course is kept up to date in line with the latest fleet, safety and
+industry standards.
+CONCLUSION
+Airlines and future pilots alike will benefit from the Airbus Flight Training Reference and ab-initio cadet training
+programme, which emphasise and reinforce the safety culture. Quickly establishing an operationally-ready pool
+of pilots qualified to the latest, harmonised highest standards is an important step towards addressing the pilot
+shortage and reinforcing basic skills.
+Get the FAST app
+Scan the QR code or search
+‘Airbus FAST’ on your app store
+9102
+-
+36#TSAF
+91
+xyz
+Flying the A220
+Design features and airline feedback
+Following the partnership between Airbus and Bombardier
+and subsequent arrival of the A220 into the Airbus family,
+FAST takes a look at the design, innovations and operational
+strengths that are the hallmarks of the A220-100 and -300
+Interview with
+aircraft and speaks to two operators about their experience.
+Rob DEWAR
+Head of A220
+Customer Support & Engineering
+AIRBUS
+robert.dewar@abc.airbus
+99110022
+--
+3366##TTSSAAFF
+0022
+9102
+-
+36#TSAF
+12
+Flying the A220
+Flying the A220
+Aligning to a specific market segment
+The decision to design and build what became the C Series and then the A220 Family
+started with a reflection on what potential customers seemed to need. Nobody was
+offering a new aircraft with between 100 and 150 seats. Airbus and Boeing focused on
+larger aircraft while Bombardier and their closest rivals targeted the “below 100-seat”
+segment. It was clear that many airlines would be keen to operate a state-of-the-art,
+comfortable, fuel-efficient aircraft dedicated to the passenger range between these
+two segments.
+In fact, the predicted market for new aircraft aimed specifically at the 100-150 seat
+segment is currently estimated to be around 7,000 aircraft over the next two decades,
+half as replacements for ageing fleets and half to keep pace with growth.
+Determination to manufacture an aircraft which would meet the particular needs of
+operators’ routes and passenger numbers informed every stage of the design process.
+Comfort counts
+Another key goal was to design aircraft suitable for a travelling public that is growing
+in stature as well as in number. The fact that people are larger than before and growing
+was taken into account. Rob Dewar, responsible for the development of the A220
+Family, explained: “Aircraft designers have always set out to reduce drag and weight
+and so on but we added passenger comfort to that list at the earliest stages”.
+Addressing the fact that the average person is around 12 kilos heavier than 25 years
+ago had a direct impact on the width of the fuselage and the consequent ability to offer
+the widest economy seats.
+With the wider cabin comes larger luggage bins. Again, these are ideal for today’s
+travellers who prefer to take their belongings into the cabin on short-haul flights.
+‘Cabin-only’ luggage also facilitates the fast turnarounds that are of great importance
+to airlines operating on tight schedules and fine margins.
+There is even a bonus feature of the wider cabin that is primarily about the ‘feel’ rather
+than specific measurements. The overall impression of space that is created by
+increased shoulder and head-room, and the wider seats, creates the perception that
+there is also increased pitch compared to competitors. “Airlines tell us that their
+customers often comment on the extra legroom even though the pitch actually remains
+standard,” says Dewar. “That tells us something about the psychological effect of an
+overall feeling of comfort and a seat that fits your proportions.”
+Delivering on costs
+Much of the technological innovation in the A220 targets the operating costs.
+The aircraft’s fuel burn figures are a particular strength, amounting to 20% per seat
+compared to previous generations in the segment.
+Around one third of these fuel burn gains come from the lightweight structures and
+advanced systems. Extensive use was made of advanced aluminium for the main
+fuselage with Carbon Fibre Reinforced Plastic (CFRP), selected for construction
+of the wing, nacelle and aft fuselage. Developed alongside pilot, the cockpit includes
+sidesticks for intuitive flying, LCD displays, integrated flight management systems,
+an electronic checklist and head-up displays.
+The Pratt & Whitney geared turbofan engines account for approximately two thirds
+of the overall fuel-burn reduction. They share a lot of common architecture with the
+A320neo Family engines but have a smaller, 73-inch fan. “As is usually the case there
+was work to be done on the maturity of a brand new, highly advanced powerplant but
+they’re now in service and performance and reliability are both good,” says Dewar.
+The cockpit was developed
+alongside pilots. It includes
+sidesticks for intuitive flying,
+LCD displays, integrated flight
+management systems,
+an electronic checklist
+and head-up displays.
+9102
+-
+36#TSAF
+22
+Flying the A220
+Designed for short and long-haul
+– and a challenging airport
+Choosing to concentrate on one airport in
+particular might seem unusual, but knowing that
+launch operator SWISS was planning to fly out of
+London City offered the designers a challenge that
+became a strength. “It’s a difficult airport because
+the runway is short and the surrounding
+environment means that a steep approach and
+take-off are required,” Dewar explains. “SWISS
+had been restricted to 100-seat aircraft because
+of this but the A220 has allowed it to increase its
+capacity while using the same slots at the same
+airport.” The same advanced technology means
+that 99% of the world’s airports are accessible
+to the A220 Family.
+SWISS is using its A220s on short routes that
+involve completing seven or eight legs every day.
+The A220-100 deals with short fields and steep
+approaches while the A220-300 offers additional
+seats and further cost per seat reductions.
+In a contrasting approach airBaltic is capitalising
+on the A220’s ability to go long-haul – up to 3,200
+nautical miles. The Latvian carrier is using A220-
+300s on six to seven hour flights, including a new
+route from Riga to Abu Dhabi. The aircraft is at the
+centre of its growth strategy and was re-ordered
+only a year after its first -300 entered commercial
+service.
+9102
+-
+36#TSAF
+32
+Flying the A220
+Head-Up Display
+9102
+-
+36#TSAF
+42
+Flying the A220
+A220: the airlines’ view
+Peter KOCH SWISS’ A220 Fleet Chief, explains the airline’s experience
+of operating the A220:
+Have you had feedback on comfort levels from passengers? Are there
+any features of the cabin that seem particularly popular?
+The feedback from our passengers is very positive. They mostly appreciate the
+welcoming, bright cabin, the comfortable seats and the large windows as well
+as the fact that there is more space in the overhead bins and ample legroom.
+Also our cabin crews are pleased with the A220s. For example, they appreciate
+the spacious overhead bins and the ergonomic galleys. Last but not least, they
+benefit from the positive perception of the customers and their appreciation
+of the state-of-the-art aircraft.
+How do your pilots find the cockpit and systems?
+They have a lot of praise for the new aircraft. They are particularly impressed
+with how intuitive it is to fly and the perfect situational awareness provided
+by the large displays and the head-up displays.
+How do you use your A220s? Are they particularly suited to these
+routes and airports; if so, why?
+They offer a high degree of flexibility when it comes to our flight operations.
+With this aircraft, we’re able to operate on longer routes, such as Moscow,
+Cairo or Hurghada, as well as at operationally challenging airports with short
+and narrow runways and complex approaches, such as London City and
+Florence. At the same time, the A220 is an all-rounder that can be used for
+all our other short- and medium-haul destinations. From and to London City,
+the A220 allows us to transport more passengers than with any other aircraft.
+The A220-100 is currently the biggest aircraft flying into LCY which means we
+Largest
+can offer more seats on this important route with the same amount of flights.
+Straight sidewalls for windows
+increased personal space Largest stowage Excellent head clearance for best view
+and comfort in its class provided by pivot bins of the sky
+Are your aircraft delivering on performance and operating cost
+promises?
+The technical reliability lies in the nineties, which is a good value for a newly
+designed aircraft. Swiss and Airbus A220 teams continue to work together
+to continuously mature the aircraft in order to reach a comparable value with
+the other aircraft in the SWISS fleet.
+Overall, the new aircraft helped to decrease our unit costs. Thanks to the
+Widest
+A220, costs can be reduced by 25% per seat in comparison with the Avro
+economy
+RJ100 through lower maintenance costs and more fuel-efficient engines.
+class
+We are pleased to report that certain performance parameters such as fuel
+Wide
+seats
+consumption and range have proven substantially better than agreed.
+business class
+The fuel consumption is 20-25% lower compared with the Avro RJ100.
+seats
+It is also quieter than comparable aircraft types which is very important
+for densely populated areas.
+Overall, how would you describe your experience of operating A220s
+so far?
+All in all, SWISS is satisfied with the performance of the A220. With the
+state-of-the-art technologies that it incorporates, and with its engines,
+systems and construction materials, the A220 sets new benchmarks
+in terms of both its operating economics and its environmental credentials. Wide aisle
+Optimised cross-section
+Largest
+Straight sidewalls for windows
+increased personal space Largest stowage Excellent head clearance for best view
+and comfort in its class provided by pivot bins of the sky
+Widest
+economy
+class
+Wide
+seats
+business class
+seats
+Wide aisle
+9102
+-
+36#TSAF
+52
+Flying the A220
+9102
+-
+36#TSAF
+62
+Flying the A220
+Right sized for 100-150 seats Latest generation engines State-of-the-art aerodynamics
+NOx emissions
+20% 18* 50%
+lower fuel burn & CO emissions EPNdB margin to chapter 4 below CAEP/6
+2
+* Figures as at 15 March 2019
+9102
+-
+36#TSAF
+72
+Flying the A220
+airBaltic’s SVP Technical Operations, Andris VAIVODS also shared
+his view on how their new aircraft have started working life:
+How have your crew found working in the A220 cabin? Are the health monitoring/predictive
+maintenance systems proving useful?
+The Airbus A220-300 is the most modern aircraft of its size.
+Our crew are satisfied about being able to fly on the aircraft on The most notable benefits we’ve seen from
+a daily basis. Its new features make the duties more convenient proactive maintenance are reduced maintenance
+and a true pleasure. costs, increased reliability, decreased number
+of flight delays and airplane downtime for
+troubleshooting, as well as continued improvement
+How do your pilots find the cockpit and systems? of our punctuality and regularity rates.
+Feedback from the pilots has been very good – they feel that To prepare for the proactive maintenance
+the cockpit has been designed ‘by pilots for pilots’ as their capabilities, airBaltic maintenance staff took
+wishes and needs have been met. The latest avionics and other an Aircraft Health Monitoring System course.
+technologies on the Airbus A220-300 ease the daily duties In addition, duties for some positions within our
+of airBaltic teams significantly. company were adjusted to monitor maintenance
+data coming from the fleet and the company IT
+system was set up to route and store the relevant
+How do you use your A220s? Are they particularly suited data.
+to these routes and airports; if so, why?
+Once the aircraft lands, all the maintenance data
+The Airbus A220-300 provides both greater capacity and longer is automatically off-loaded to company servers.
+range than our current fleet. Because of that, the aircraft operates To find the desired report, you only need to access
+on such popular routes as Amsterdam, Barcelona, Budapest, the server. Manual download is also possible by
+Rome, Moscow, Nice, London, Paris, Vienna, Athens, Madrid and writing the maintenance report to a USB stick or
+many others. Notably, the longer range of the aircraft has enabled printing out smaller reports on a cockpit printer.
+airBaltic to launch direct flights to destinations such as Abu Dhabi, The data is analysed by our reliability engineers
+Almaty, Malaga and Lisbon. who keep a close eye on it.
+All of the engineers have access to the data. After
+analysis it is discussed during periodic engineering
+Are your aircraft delivering on performance and operating
+meetings where decisions on preventive actions
+cost promises?
+are made. Most critical data affecting airplane
+The aircraft has performed beyond our expectations, delivering dispatchability is delivered to maintenance and
+better overall performance, fuel efficiency and convenience for engineering staff while the aircraft is in flight, before
+both staff and the passengers. The fuel economy has reached it has landed. So, once the airplane reaches the
+22% and in 2018, the regularity of Airbus A220-300 flights reached gate, the maintenance team has everything in
+99.76%. Notably, Airbus A220-300 provides very high utilisation place to rectify any sudden problem. This results
+rates. Our aircraft have flown up to 18 block hours per day. in minimum effect on flight schedules.
+Have you had feedback on comfort levels from passengers? Overall, how would you describe your
+Are there any features of the cabin that seem particularly experience of operating A220s so far?
+popular?
+The introduction of Airbus A220-300 has been
+Already, every third airBaltic passenger enjoys the higher comfort very successful and provided the additional
+level provided by the Airbus A220-300 fleet. It offers an excellent efficiency any airline is seeking in the highly
+flying experience with benefits such as wider seats, larger competitive aviation market. Thanks to the good
+windows, more hand luggage space, and improved lavatories. overall performance, airBaltic took a decision
+The feedback we receive from passengers is overwhelmingly to introduce a single type fleet that will consist
+positive. If we look at revenue data, we see that advanced seat of up to 80 Airbus A220-300 aircraft.
+reservation is especially popular on the Airbus A220-300.
+With the larger windows, window seats are the most popular
+selection among passengers.
+Over the summer we also launched an improved cabin with new,
+comfortable seats on our Airbus A220-300 aircraft. Passengers
+now benefit from such additional improvements as more legroom,
+new pockets behind the seats for magazines, as well as hangers
+next to the seat for jackets.
+Flying the A220
+A220 Family - the story so far
+In-service status Orders and deliveries
+• 90,000+ revenue flights, • 536 orders from
+120,000+ flight hours 19 customers
+• 170+ routes • 60 deliveries
+(130+ destinations) to 5 operators
+(SWISS, airBaltic, Korean Air,
+• 7,000,000+ passengers
+Delta Air Lines, Air Tanzania)
+(estimation assuming 80% load factor)
+• 476 in backlog
+• 18+ hours daily utilisation,
+as of February 2019
+up to 13 legs per day
+Family commonality and differences
+Commonality is very high between the A220-100 and the A220-300, above 99 %.
+This allows a common spare inventory which reduces investment and maintenance
+costs as well as training costs for mechanics and crew.
+Nevertheless, the aircraft are neither stretches nor shrinks of each other and there are
+some important technical differences between the siblings:
+• The nose landing gear is common for both the -100 and -300, and the main landing
+gear for the -300 has been slightly reinforced due to the aircraft’s higher weight.
+• The -300 brake stack assembly has one additional pair of stator/rotator assemblies
+compared to the -100’s three.
+• The wing and the centre wing box have been structurally reinforced to carry the
+load increase.
+• The centre fuselage for the -300 is 3.4 m longer and was also structurally reinforced
+to carry the higher loads.
+• Environmental control systems are identical except for an additional bleed leak
+detection sensing element to accommodate fuselage length differences.
+9102
+-
+36#TSAF
+82
+Designed together for the highest commonality
+Future developments
+The A220-300 has achieved 180-minute ETOPS (extended range, twin-engined
+operation) approval, from the Canadian authorities with FAA and EASA to follow,
+which makes it unique in its class. Although the approval is actually based on the
+Get the FAST app
+distance from a diversion airport, over land or sea, when one engine fails, ETOPS
+Scan the QR code or search ‘Airbus allows the aircraft to cross large expanses of ocean so routes such as New York
+FAST’ on your preferred store to London and Seoul to Darwin are now possible.
+Also now certified is the addition of Category 3B auto-landing which provides for safe
+landing in zero-visibility conditions as long as the airport is also equipped to the
+required standard. “These developments are both extremely useful to many existing
+and potential customers but they are just part of an on-going strategy of constant
+improvement and innovation,” says Dewar. “We’re also looking at adding more seats,
+improving the flight deck, and further performance enhancements.”
+CONCLUSION
+Although the A220 Family has many of the advanced technologies that are associated with larger
+aircraft, they were incorporated with the customers and passengers of the 100-150 seat segment
+firmly in mind. This methodical ‘designing-in’ played a key role in the creation of two aircraft that
+complement the wider Airbus Family.
+9102
+-
+36#TSAF
+92
+Flying the A220
+>99% LRU
+Commonality
+Common Spares
+3.7m longer mid fuselage
+Common Structures
+& Systems
+A220-100 A220-300
+Range 5,460 km 5,920 km
+System optimization Typical seating 116 141
+for A220-300 Overall length 35.0 m 38.7 m
+9102
+-
+36#TSAF
+03
+Data management
+What big data is doing for aviation
+The rise of ‘big data’ and data analytics has been
+acknowledged throughout the business world for some time.
+With its Skywise data-sharing platform, Airbus is working
+Article by (left to right)
+with customers and suppliers to use the aviation industry’s
+Norman BAKER
+data more effectively than ever before. It is a collaborative
+Head of Digital Solutions
+approach designed to benefit everyone involved. norman.baker@airbus.com
+Matthew EVANS
+Head of Analytics Accelerator
+The birth of big data – and the challenge for aviation
+matthew.evans@airbus.com
+The analysis of big data did not originate in the aviation industry. It grew out of the
+rapid boom in on- line, consumer-oriented businesses and social media platforms.
+The companies involved realised that, thanks to the billions of interactions taking
+place, algorithms could be used to analyse and predict patterns of behaviour.
+Airbus, like all aircraft manufacturers, has always recorded data meticulously for safety
+reasons and made use of it to refine its products. A single A320 can generate up to
+24,000 parameters of data, adding up to ten gigabytes, every flight hour. However,
+data around the aircraft was traditionally recorded using a variety of means ranging
+from binary coding through numerical systems to photographs and video footage.
+Also, the number of aircraft and flights in the global fleet is far smaller than the billions
+of internet users worldwide so the total volume of data available is not on the scale
+available to leading consumer and social media brands. That makes reliable analysis
+through algorithms alone much more difficult.
+A further complication in making data work for aviation lies in the unique nature
+of every aircraft. As well as having cabin and engineering differences according
+to the requirements of customers, every aircraft builds a specific history over time with
+lengths of trips, number of legs in a day, weather and passenger numbers varying
+according to how, where and when it is operated. Without expert understanding,
+much of this data can prove to be irrelevant or, worse still, misleading.
+Context
+& Environement
+Operations
+Supply Chain
+Network
+People
+& user
+experience
+In-service
+fleet
+Information
+Systems
+Manufacturing Support
+Engineering
+9102
+-
+36#TSAF
+53
+Data management
+Collecting and securing data with Skywise
+The first key requirement for Skywise to be successful is an extensive data pool that
+is harmonised to make it accessible to analytics which run across all of the inputs.
+To build that, Airbus worked with well-established partners to make a secure system
+that includes operating data from participating airlines, flight test campaigns, fleet
+data, and the original design processes and in-service updates. To make data taken
+from so many different sources into a homogenous whole which can be analysed,
+a standardisation process takes place. This doesn’t mean that any data is deleted
+or altered, it is simply transferred into a standardised format so comparisons can be
+made and patterns spotted.
+As well as its previously exclusive access to flight test and design data, Airbus also
+adds its expertise in aeronautical engineering. It uses a team of over 20,000 highly
+qualified aviation professionals to ensure that when analysis takes place it is based
+on the data that matters most and that the results are properly understood before
+anyone draws conclusions.
+Who owns the Skywise data?
+Attitudes to data ownership vary around the world with some cultures embracing
+data-sharing as being central to innovation that will benefit all, while others see data
+as something to guard and protect.
+The Skywise approach is designed to suit both views. It starts from the premise
+that data only has real value once it can be used effectively, therefore sharing
+will be of greater benefit as participation widens. Nevertheless, all data remains under
+the control of the entities that join Skywise and in the ‘big picture’ that they can see
+and analyse, everything except their own data is anonymous to them. It is also
+possible to leave Skywise and withdraw own data although the trend is for users
+to appreciate the benefits and actually add more data over time.
+Put simply, the original contributor of any data put into Skywise
+maintains control over that data.
+9102
+-
+36#TSAF
+13
+9102
+-
+36#TSAF
+23
+Data management
+What are the practical benefits of Skywise?
+For airlines…...............................................................................................................................
+After the pooling and harmonisation of data, airlines can • LATAM reduced the fraction of mechanical issues leading
+monitor the performance and health of their aircraft much more to delays from 24% to 15% by identifying repeated issues,
+accurately. This allows much more effective planning of routine anticipating occurrences, and taking preventive action.
+maintenance and a more rapid response to any issues which
+• Bangkok Airways reported that joining Skywise core resulted
+do occur. One of the 60 airlines using the core version of
+in on-time performance increasing significantly in 2018.
+Skywise which is available to all Airbus customers reported
+• Japan Airlines said that the time spent on collecting data
+a 50% drop in maintenance-related delays. There are also
+decreased dramatically, saving hundreds of hours while
+proven fuel burn savings and other efficiency benefits while
+giving more time to engineers to perform analysis. This led
+almost any data-heavy task is made far easier. For example,
+to higher aircraft reliability.
+a typical Reliability Report used to take around three weeks
+to complete but Skywise users are now compiling them in a • At AirAsia Group, users leveraged Skywise to create
+matter of minutes with a single click. With the data-gathering dynamic CG (centre of gravity) targets that consider all
+side of the task already taken care of, airlines can move fuel-impacting parameters leading to reduced fuel penalties
+straight to analysis and action. and significant financial savings.
+Other benefits have varied according to the focus of individual Ten of the 60 participating airlines are also using the paid-for
+airlines but a few practical examples confirm that using predictive maintenance service which is working towards the
+Skywise core makes real operational differences. target of zero aircraft on ground. The plateau devoted to this
+is staffed by a mixture of data scientists and engineers,
+a combination that is leading to some creative solutions.
+Air Arabia started using Skywise Predictive Maintenance on
+its fleet of 60 A320 Family aircraft in early December of 2018.
+FAST asked Allan FULLILOVE, the airline’s Head of Engineering,
+how things were going so far.
+“
+Skywise Predictive Maintenance is simple to use and As a low-cost operator, we wish to achieve the
+projects data in an easily digestible manner. The display highest operational use of the aircraft. Changing
+graphs allow swift interpretation of data and that allows unscheduled reactions to a positive scheduled
+quick, easy decision-making. planning will create the necessary benefits to
+maintain this. Skywise Predictive Maintenance
+Integration was easy to us as we assembled a group of
+is therefore considered another vital tool
+engineering specialists who had previously undertaken
+to achieve this goal.
+investigation-based tasks. They have started looking
+at historical data to assess reliability and they’re now The ability to look at an aircraft’s technical
+applying forward-looking analytics which means performance at component or system level
+predictive data with Skywise Predictive Maintenance. performance and to then plan and execute
+corrective actions at scheduled opportunities
+We work differently now by adapting our processes
+can only bring greater value and savings.
+from the traditional reactive approach to a more
+And this is all done from an engineering desk
+strategic approach based on planning to create
+away from the aircraft.
+a better operational protection envelope.
+Over the last 30 years maintenance activities have
+We are more forward looking and, as we accumulate
+seen little change with each operator sharing more
+experience moving from reacting to defects, which
+or less the same focus on reaction-based solutions.
+tends to mean unscheduled maintenance, we’re
+Now, much needed change is fast becoming a
+moving to a more scheduled workload.
+reality through projects such as Skywise Predictive
+We have had a few good results on Skywise Predictive Maintenance. The use of big data to effect this is
+Maintenance that have prevented delays, and as the now very real. For us, this is a very positive step
+product matures we expect to see more. in the right direction. ”
+9102
+-
+36#TSAF
+33
+Data management
+............................................................................................................................... For Airbus…........................................... For suppliers…...................................................
+One simple benefit is that Skywise helps Airbus to build better Skywise for Suppliers is in the early adopters phase which is
+products. The larger volume of data, including operating data dedicated to defining, developing and testing the platform
+from airlines, means that the monitoring and analysis of fleet functionalities that will serve to make a step change between
+performance are more accurate than ever before, thus enabling Airbus and its partners and suppliers. There are already 15
+preventive and corrective measures. early adopter suppliers in the platform.
+The best example of this is the entry into service of the Skywise aims to serve as a single access point for Airbus and
+A350 XWB which rapidly achieved high levels of maturity suppliers to share relevant diverse data, to perform powerful
+at the same time as the programme was engaged in a steep data analytics, and to allow more informed decisions. This
+ramp-up. Once the first delivery was made, information should bring significant improvements in aircraft performance
+gathered from the flight test campaign and design office and operational excellence.
+was joined by a continuous flow of in-service data from early
+The overall goal is to implement the concept of the extended
+customers. This allowed root cause analysis of issues, and
+enterprise, enhancing cooperation between Airbus and its
+potential issues, which were then addressed rapidly meaning
+suppliers.
+that subsequent aircraft benefited more quickly than ever
+before. In the area of industrial performance, for example, some
+participating suppliers have moved from taking a few days
+Another crucial benefit for Airbus is the ability to respond to
+to a few minutes when identifying candidates to swap sections
+customer requests for bespoke solutions much more quickly
+in the production line. This has enabled them to keep to
+than before. The old response cycle involved launching
+delivery dates. In other cases, finding and sharing the root
+development if customers expressed an interest in a particular
+causes of quality problems has been improved from taking
+area. By the time development and certification were complete
+weeks to taking just days.
+18 months had usually passed, which meant that the solution
+might no longer be needed or the need had become less In the area of in-service, Skywise is in the experimentation
+urgent. There is now a library of previously developed and phase and striving to define a way to speed up the root cause
+certified ‘blocks’ of digital services and these can be combined analysis of in-service issues in cooperation with suppliers.
+into a solution that directly and quickly addresses the Thanks to data sharing and analysis through Skywise, real
+customer’s need. progress looks possible in areas such as Aircraft on Ground,
+Major In-Service Problems, No Fault Found, and more.
+Skywise now usually offers digital solutions within a few weeks
+Preliminary results are promising, with a double-digit
+of customer requests. That is a far better fit with the aspirations
+percentage reduction in time. Data governance, data
+of a customer focused company and with its customers’
+anonymisation, data ontology and setting up a scalable
+expectations.
+solution are some of the most important activities in this area.
+CONCLUSION
+Although there is still plenty of room for Skywise to grow, it is already proving its value in practice for
+operators and for Airbus and suppliers. They will soon be joined by additional suppliers and other aviation
+industry stakeholders. As momentum gathers, the volume of data will increase and further possibilities
+will open up. The mutual benefits generated by sharing data are becoming increasingly apparent.
+Get the FAST app
+Scan the QR code or search
+‘Airbus FAST’ on your app store
+9102
+-
+36#TSAF
+43
+FANS C
+Latest technology for air traffic management
+Article by (left to right)
+FANS C is the latest datalink technology for communication Thierry HARQUIN
+ATM International Cooperation coordinator
+between air traffic control and aircraft, developed by Airbus.
+AIRBUS
+It brings major benefits both for air traffic management thierry.harquin@airbus.com
+at a time when delays are growing, and for airlines thanks Jerome CONDIS
+Multi Program Projects Manager
+to its 4D trajectory (see box) management potential.
+AIRBUS
+It is now being used in a major in-service demonstration jerome.condis@airbus.com
+with airlines to confirm how beneficial it could be.
+What is FANS?
+The Future Air Navigation System (FANS) concept FANS 1/A technology was designed to cover oceanic and remote
+originated from ICAO. Its aim was to provide a data areas where no radar coverage exists. It is mandatory for airlines
+link between aircraft and the air traffic control services flying North Atlantic routes. Since then, it has also been deployed in
+that organise the flow of aircraft to and from airports. other areas, including domestic North American airspaces. In these
+areas, Airbus has been offering its FANS A+ (originally FANS A)
+In all areas, FANS replaces voice contact between
+solution.
+ATM and pilots with a text-based system which is
+similar to sending and receiving SMS messages. ATN B1 technology was designed for domestic flights within
+This proves particularly useful in circumstances where Europe where radar coverage was already present. Again, it is
+voice signals could be unclear by avoiding any mandatory for airlines operating in this area and Airbus has been
+confusion and the need to repeat instructions and offering its FANS B+ solution.
+requests. The use of digital communication also
+B2 technology was designed to cover all existing operations,
+opens the door to advanced system automation, both
+including FANS 1/A and ATN B1, and to address emerging
+in the cockpit and ground systems, which permits
+operations being explored as part of ATM renovation programmes,
+significant workload reduction for flight crew and
+such as SESAR in Europe or NextGen in US.
+controllers.
+FANS C, the latest Airbus datalink version, introduces B2 for the
+There are currently two technologies, FANS 1/A and
+very first time on any airframe, while combining all of the features
+ATN B1, which are already widespread, and even
+of FANS A+ and FANS B+ in a single, harmonised product. FANS C
+mandatory in many geographical areas. B2 is the new
+provides the airlines with continued worldwide datalink operations
+emerging technology that will support introduction
+and opens up the possibility of 4D trajectory planning that includes
+of new ATM techniques and gradually replace other
+time as an extra dimension.
+technologies.
+9102
+-
+36#TSAF
+53
+FANS C
+What is a 4D trajectory?
+The full 4D trajectory management is one of the key pillars of the European ATM target concept
+for 2020+ as defined by the SESAR (Single European Sky ATM Research ) programme which aims
+to manage worldwide air traffic growth and increasing environmental constraints.
+The aircraft trajectory is collaboratively designed by the aircraft operator and the ANSPs before
+the flight. It takes into account the airline’s business criteria and the air traffic constraints in the
+concerned areas. During flight it can be updated through avionics systems, in order to integrate new
+constraints such as meteorological changes. The trajectory is defined in four dimensions (4D) which
+are composed of the three geometrical dimensions (latitude, longitude and altitude), plus the time.
+The Time Of Arrival (TOA) at each waypoint along the trajectory is estimated with improved accuracy
+and reliability compared to previous approaches.
+These predictions are not aiming at constraining the aircraft along all the waypoints during the flight,
+unless this is required by traffic constraints; they are being used to get a more accurate picture of the
+traffic flow evolution far in advance, and then to adjust it efficiently with the offered airspace capacity.
+The approach uses 4D trajectories from takeoff to landing (even for airport surface operations in the
+ultimate steps), and requires significant improvements and upgrades in ground Air Traffic Management
+systems and procedures, as well as in the airline operation’ control centres.
+4D Trajectory predicted by the Flight Management System
+Vertical
+Top of
+Top of Climb
+Climb
+Horizontal
+08:57:22 09:15:47 09:40:21 09:48:38
+Time
+08:50:12 09:01:10 09:35:58 09:44:05 09:54:40
+- periodically e.g. every 15 min
+Downlink triggered by ATC: - on event e/.g. if more than 30 seconds late at a waypoint
+- on demand as needed by ATC
+What are the key benefits of FANS C?
+The first and most obvious benefit is that an aircraft can now be equipped with a
+single system. This responds to requests from Airbus customers who wanted to move
+away from choosing between FANS A and B.
+The second key advantage is the introduction of 4D trajectory planning possibilities
+into the field of ATM. Aircraft can share their active flight plan - including anticipated
+times, speeds and altitudes - with equipped Air Navigation Service Providers (ANSPs)
+and this is expected to reduce the increasing number of ATM-related delays at busy
+destinations.
+With FANS C aircraft, ground ANSP will have a better and more accurate predictability
+of traffic flows. 4D trajectory aircraft data will be able to feed a wide variety of
+automation tools used today by controllers to monitor, organise and sequence traffic
+in a given airspace sector and even beyond. With more predictable traffic data and
+additional automation tools, the controller workload could be reduced and additional
+air traffic control capacity can be envisaged. To close the air-ground synchronisation
+loop, FANS C aircraft can automatically update the onboard FMS flight plan based on
+uplinked route instructions, once the flight crew have reviewed and accepted them.
+Such automation, reducing the flight crew workload, is also a crucial enabler to allow
+smooth introduction of complex route clearance uplinks into the datalink Air Traffic
+Control exchanges. FANS C will contribute to the improvement of capacity in ATM
+congested areas in Europe but also in others parts of the world.
+9102
+-
+36#TSAF
+63
+FANS C
+“
+What’s in it for airlines? Air France supports FANS C / 4D and
+decided to be actively involved in the
+Recent figures (as for instance highlighted by Central Office for Delay Analysis SESAR DIGITS demo by retrofitting 25
+(CODA) from Eurocontrol) show that ATM-related delays are growing as the global aircraft because, in the short term, this
+fleet increases. Improved capacity in air traffic management will help reduce delays should highly improve the flight
+for airlines, particularly those relying on fast, on-time turnarounds as part of their predictability from an ATC and network
+operations. management perspective. As a
+consequence, we could expect a more
+Other benefits will be confirmed during the large-scale demonstration in Europe
+optimised use of the available en-route
+which is being organised as part of SESAR*. 4D trajectory planning may well lead
+capacity as well as flight efficiency
+to optimised descents being possible more often and this would reduce fuel burn.
+improvement for the arrival flows
+FANS C includes the technology to enable this but exactly how it will work for
+towards the major European hubs.
+ANSPs remains to be seen. For now, ATM systems will continue to place
+constraints on individual aircraft for a variety of reasons so optimised trajectories In the longer term, FANS C / ATN B2
+will not always be available although their frequency should increase. will be the cornerstone for the
+trajectory-based operations and ATC
+Operators may also find an increase in residual value of their aircraft. The installation
+a utomation. ”
+of FANS C will “future-proof” their assets if the technology becomes mandatory
+in more areas of the world while the optimised route planning will always be of value
+Laurent Renou
+in its own right. Furthermore, any FANS C aircraft will be able to fly anywhere so the
+Air France Flight Operations engineering,
+possible need to re-equip it for a new operator would be avoided. Head of ATM/CNS/SESAR
+Assessing FANS C in Europe and China
+A large-scale demonstration of FANS C is underway and 100 in-service A320 Family aircraft will be equipped
+with the new certified technology by the middle of 2020. The demonstration is known as DIGITS
+(Demonstration of Air Traffic Management Improvements Generated by Initial Trajectory Sharing)
+and is part of the Single European Sky ATM Research (SESAR) initiative.
+The focus on the A320 Family is to allow the assessment of the maximum number of flight cycles
+as they are very commonly used on short-haul flights within Europe.
+Seven European airlines (Air France, British Airways, EasyJet, Iberia, Novair, Thomas Cook
+and Wizzair), are participating and data will be collected from over 20,000 flights. They will be
+working alongside Airbus, suppliers and the ANSPs for Germany, the UK, Benelux and Italy
+to ascertain the exact benefits of FANS C in practice.
+Aircraft from the participating airlines will generate ‘extended projected profiles’ (the
+four-dimensional flight path) data via downlink messages triggered by air traffic control.
+Analysis of this ‘big data’ will be enriched with feedback captured from controllers and
+pilots so that operational experience will be built up to support the general deployment.
+Airborne deployment of FAN C / ATN B2 (SESAR Demonstration)
+100 92 96 98 100
+90 83 85 86 Equipped
+80 78 aircraft
+70 66
+60 57
+48
+50 46
+40 36 34
+31
+28
+30 24
+20 18 21
+2 1 0 0 1 2 7 1 2 4 5 7 10 12 15 of D Cu IG m IT u S la f t l i i v g e h t n s u / m 10 b 0 e 0 r
+0
+0
+Jan -
+19
+Feb -
+19
+Mar -
+19
+Apr -
+19
+May -
+19
+Jun -
+19
+Jul -
+19
+Aug -
+19
+Sep -
+19
+Oct -
+19
+Nov -
+19
+Dec -
+19
+Jan -
+20
+Feb -
+20
+Mar -
+20
+Apr -
+20
+May -
+20
+Jun -
+20
+An additional demonstration is taking place in China with a single flight involving an
+airline-equipped aircraft still under Airbus ownership. This is a technology trial rather
+than a data-gathering demonstration but of interest to the Chinese authorities (CAAC)
+to discover more about the potential of FANS C.
+9102
+-
+36#TSAF
+73
+FANS C
+* What is SESAR?
+“
+Launched in 2004 by the European Union, SESAR (Single European Sky ATM Research) is a
+EasyJet decided to support public-private partnership whose objective is to increase ATM performance and build a more
+the FANS C / 4D demo intelligent air transport system. Today, the SESAR Joint Undertaking, founded in 2007 to manage
+because we understood this partnership, features over 100 companies and 3,000 experts working in Europe and beyond.
+the significance of live flight
+According to SESAR, in 2012 there were 9.5 million European flights carrying 700 million
+trials to verify this important
+passengers. In 2035 those projections call for 14.4 million flights and 1.4 billion passengers.
+enabler for the future
+This increased volume of aircraft can only be sustained if new ATM processes are developed
+European airspace.
+and deployed to replace today’s ageing system.
+Captain Dan Wood
+A key component of facilitating more traffic is 4D trajectory technology. The idea is to share the
+Flight Operations Technical
+airborne intended trajectory with air traffic control (ATC) and take advantage of avionics functions
+Manager, EasyJet. ”
+to improve air traffic management processes. By upgrading the existing airborne and ground
+systems with 4D software, both the ATC and the flight crew can proactively know and agree on
+the trajectory to be flown and share the most accurate time predictions all along the route.
+4D technology was first demonstrated on an A320 flight in 2012. Since then, dozens of A320
+Family ferry flights between Hamburg and Toulouse have been used to help mature the technology.
+In 2014, the technology took another step forward with a wide-scale demonstration flight in
+real-world conditions. On a flight from Toulouse to Stockholm in Sweden via Copenhagen in Denmark,
+local ATCs provided six ‘controlled time of arrival (CTA)’ points. At each CTA point, the aircraft was
+within plus/minus 10 seconds and the flight crew reported no disruption in their activities.
+The technology is now certified on Airbus A320 Family aircraft and being demonstrated on a large
+scale through the DIGITS project.
+Get the FAST app
+Scan the QR code or search ‘Airbus
+FAST’ on your preferred store
+GLOSSARY
+ANSP Air Navigation Service Providers NextGen
+ATM Air Traffic Management NextGen is the Federal Aviation Administration (FAA) programme
+to modernise the air transportation system for the United States of
+DIGITS Demonstration of air traffic management
+America. This comprehensive initiative relies on satellite navigation
+Improvements Generated by Initial
+and advanced digital communications, to help improve and evolve
+Trajectory Sharing
+the National Airspace System.
+CONCLUSION
+Many of the possible benefits of FANS C will be confirmed once the data generated by the DIGITS
+is analysed. However, the immediate benefits of a single, harmonised product converging FANS A
+and B while adding new capabilities are clear now.
+While reconciling the datalink technologies of the past, FANS C is above all a breakthrough
+innovation that leads the way towards the 4D trajectory based operations, commonly recognised
+as the cornerstone of ATM optimisation and efficiency.
+esuoluoT
+-
+euqehtoreA
+dna
+egatireH
+etaroproC
+subriA
+fo
+ysetruoc
+otohP
+FAST FROM THE PAST
+There wouldn’t be any future without the experience of the past.
+These 1930 photos of Dornier
+aircraft show that cabin comfort
+- especially at mealtime -
+is nothing new.
+Today’s Airbus aircraft also offer high standards in cabin comfort, as well as in safety. See cabin waste article page 4
+And in addition, with environmental awareness, airlines may soon be using meal
+trolleys that help cabin crew sort recyclable cabin waste.
+The Armagnac SE-2010,
+built by the SNCASE (Société
+Nationale de Construction
+Aéronautique du Sud Est)
+at Toulouse flew for the first
+time in April 1949.
+It was designated as a long-range aircraft capable of carrying 100 passengers. See pilot training article page 14
+The illustration shows the full-sized cockpit mock-up used for studying
+the instrument layout and for crew training. Note that the controls
+for the four engines are suspended from just above the windshield.
+9102
+-
+36#TSAF
+83
+Around the clock, around the world
+Airbus has over 300 field reps, at over 140 stations around the world
+Technical, Material & Logistics
+9102
+-
+36#TSAF
+93
+Field
+Service
+Airbus Technical AOG Centre (AIRTAC) Spares RTN/USR, WSP and HMV Orders
+Support Tel: +33 (0)5 6193 3400 For Europe, Africa, Middle East,
+Fax: +33 (0)5 6193 3500
+Asia-Pacific & China: Please contact your
+airtac@airbus.com
+Tel: +33 (0)5 6193 3936 dedicated Single Point of Contact (SPOC).
+Fax: +33 (0)5 6193 4964 More info:
+AOG Spares Centre of Competence
+Tel: +49 (0)40 5076 4002
+For Europe, Africa, Middle East, Fax:+49 (0)40 5076 4012
+Asia-Pacific & China: ifd.spares@airbus.com
+Tel: +49 (0)40 5076 4001
+For Americas:
+Fax: +49 (0)40 5076 4011
+Please contact your dedicated
+aog.spares@airbus.com
+Single Point of Contact (SPOC).
+For Americas: More info:
+Tel: +1 70 3729 9000 cod.americas@airbus.com
+Fax: +1 70 3729 4373
+aog.na@airbus.com
+Training
+Visit Airbus.com/Support and Services/Training
+CAN TOO.
+FLY
+WE MAKE IT
+Introducing two clever ways to grow
+your business. The A220-100 and
+A220-300 are the newest members
+of our single aisle family – covering the
+market from 100 up to 240 seats and
+flying up to 4,000nm. And with the
+very latest in cabin ergonomics your
+passengers will be as comfortable as
+your profit margin.
+Profitability. We make it fly.
+airbus.com
+14043_AIR_Single_Aisle_297x210_FAST_Magazine_1.0.indd 1 06/03/2019 12:13
+HIgh Sierra:Users:drolfe:Desktop:14043_AIR_Single_Aisle_297x210_FAST_Magazine_1.0
+6 MARcH 2019 12:12 PM | SIZE: 297MM X 210MM | BLEED: 3MM | PUBLICATION: FAST MAGAZINE | CODE: X
+CUTTER LASER PMS
+14043_AIR_Single_Aisle_297x210_FAST_Magazine_1.0
+PROOF READER: DATE: PROJECT MANAGER: DATE:
+POWERED BY
+ACCOUNT MANAGER: DATE: CREATIVE: DATE:
+FINAL APPROVAL
+SIGNATURES

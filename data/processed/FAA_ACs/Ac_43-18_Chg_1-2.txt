@@ -1,0 +1,762 @@
+©
+Advisory
+U.S. Department
+Circular
+of Transportation
+Federal Aviation
+Administration
+Subject: Fabrication of Aircraft Parts by Date: 06/07/11 AC No: 43-18
+Maintenance Personnel
+Initiated by: AFS-300 Change: 2
+1. PURPOSE. This advisory circular (AC) has been revised to update AC 43-18, Fabrication of
+Aircraft Parts by Maintenance Personnel, dated February 29, 2008.
+2. PRINCIPLE CHANGES. This change updates information regarding the fabrication quality
+control system (FQCS), AC references, and all references related to Title 14 of the Code of
+Federal Regulations (14 CFR) part 21.
+PAGE CONTROL CHART
+Remove Pages Dated Insert Pages Dated
+1 02/29/08 1 06/07/11
+4 thru 11 02/29/08 4thrull 06/07/11
+Appendix 1 02/29/08 Appendix 1 06/07/11
+ORIGINAL Signed by
+/s/ John McGraw for
+John M. Allen
+Director, Flight Standards Service
+© Advisory
+U.S. Department
+of Transportation
+Circular
+Federal Aviation
+Administration
+Subject: Fabrication of Aircraft Parts by Date: 2/29/08 AC No: 43-18
+Maintenance Personnel
+Initiated by: AFS-300 Change: 1
+1. PURPOSE. This advisory circular (AC) has been revised to update AC 43-18, Fabrication of
+Aircraft Parts by Maintenance Personnel, dated March 24,2006.
+2. PRINCIPLE CHANGES. This change updates guidance, including all references related to
+Title 14 of the Code of Federal Regulations (14 CFR).
+PAGE CONTROL CHART
+Remove Pages Dated Insert Pages Dated
+1 thru 11 03/24/06 Ithrull 2/29/08
+ORIGINAL SIGNED BY
+John M. Allen for
+James J. Ballough
+Director, Flight Standards Service
+® Advisory
+U.S. Department
+Circular
+of Transportation
+Federal Aviation
+Administration
+Subject: Fabrication of Aircraft Parts by Date: 06/07/11 AC No: 43-18
+! Maintenance Personnel _
+||||dttod by; AFS 30() Change; 2
+1. PURPOSE. This advisory circular (AC) ensures that parts fabricated during maintenance
+and alteration have an equivalent level of safety as those parts produced under the original design
+holder's production certificate. This AC provides one means of complying with the requirements
+of Title 14 of the Code of Federal Regulations (14 CFR) parts 21 and 43 for the design and
+fabrication of parts by persons performing maintenance and alterations using methods,
+techniques, and practices acceptable to the Administrator. As required by regulations, such parts
+fabrication and their implementation must be accomplished "in such a manner...that the
+condition of the aircraft, airframe, aircraft engine, propeller, or appliance worked on will be at
+least equal to its original or properly altered condition." This AC is not mandatory and does not
+constitute a regulation. It outlines one method (but not the only method) of compliance with the
+rules. A person may elect to follow an alternative method, provided the Federal Aviation
+Administration (FAA) finds the alternative method to be an acceptable means of complying with
+the applicable requirements of 14 CFR.
+2. RELATED 14 CFR PARTS.
+a. Part 1, Definitions and Abbreviations.
+b. Part 21, Certification Procedures for Products and Parts.
+c. Part 23, Airworthiness Standards: Normal, Utility, Acrobatic, and Commuter Category
+Airplanes.
+d. Part 25, Airworthiness Standards: Transport Category Airplanes.
+e. Part 27, Airworthiness Standards: Normal Category Rotorcraft.
+f. Part 29, Airworthiness Standards: Transport Category Rotorcraft.
+g. Part 31, Airworthiness Standards: Manned Free Balloons.
+h. Part 33, Airworthiness Standards: Aircraft Engines.
+AC 43-18 3/24/06
+i. Part 35, Airworthiness Standards: Propellers.
+j . Part 39, Airworthiness Directives.
+k. Part 43, Maintenance, Preventive Maintenance, Rebuilding, and Alteration.
+1. Part 45, Identification and Registration Marking.
+m. Part 65, Certification: Airmen Other than Flight Crewmembers.
+n. Part 91, General Operating and Flight Rules,
+o. Part 145, Repair Stations.
+p. Part 183, Representatives of the Administrator.
+3. DEFINITIONS. The following definitions apply for this AC:
+a. Acceptable Data. Data is acceptable to the Administrator when used within the context
+of maintenance, a minor repair, or an alteration if the data substantiates that the product has been
+returned to its original or properly altered condition. Acceptable data may establish that the
+fabricated part complies with applicable airworthiness standards (i.e., regulations). When
+acceptable data is used to substantiate that the article meets the regulatory requirements and will
+be returned to its original or properly altered condition, it can be considered acceptable to the
+Administrator.
+b. Airworthy. The term "airworthy" is defined in 14 CFR part 3. § 3.5(a): a clear
+understanding of its meaning is essential in making an airworthiness determination. Furthermore,
+the definition of airworthy applies to type-certificated products (aircraft, aircraft engine, or
+propeller), and parts thereof. Title 49 of the United States Code (49 U.S.C.) § 44704(c) and
+14 CFR part 21, § 21.183(a), (b), and (c) state that the two conditions that must be met for
+issuance of an airworthiness certificate are:
+(1) The product must conform to its type certificate (TC). A product conforms to its TC
+when its configuration and the components installed are as described in the drawings,
+specifications, and other data that are part of the TC, which includes any Supplemental Type
+Certificates (STC), Airworthiness Directives (AD), and field-approved alterations incorporated
+into the product; and
+(2) The aircraft (product) must be in a condition for safe operation.
+NOTE: If one or more of these conditions are not satisfied, the product
+would not be considered airworthy.
+c. Approved Data. Data that has been approved by the FAA and that is used to perform
+maintenance and alterations on products under part 43. Approved data must be used when
+performing major repairs and alterations. The FAA approves the data in conjunction with the
+issuance of a TC, STC, Technical Standard Order Authorization (TSOA), or Parts
+Page 2 Par 2
+2/29/08 AC 43-18 CHG1
+Manufacturer Approval (PMA). Other forms of approved data include ADs, letters of
+engineering design approval issued by an FAA Aircraft Certification Office (ACO), maintenance
+instructions approved by an FAA Designated Engineering Representative (DER), and
+FAA-approved Structural Repair Manuals (SRM).
+NOTE: While technical and other forms of data are approved under the
+field approval process as declared on FAA Form 337, such approved data
+may not be sufficiently detailed to allow for fabrication of parts that are
+intended for use in multiple applications.
+d. Certificate Holder. Any person certificated by the FAA and authorized to perform
+maintenance, preventive maintenance, rebuilding, and alterations as provided in part 43, § 43.3.
+Within the context of this AC, if a certificate holder intends to fabricate a part for maintaining a
+product he/she may do so only under the provisions (privileges) of his/her certificate.
+e. Certificate Management ACO. The ACO responsible for issuing and overseeing the
+original design or technical approval under TC, STC, TSOA, or PMA of the product or article on
+which the fabricated part will be installed. The certificate management ACO is also responsible
+for managing continued airworthiness of a product for as long as it is in service.
+t Critical. A term of significance applied to a part or to a function performed by a part. A
+critical part performs a function of such significance (critical function) to the aircraft on which it
+is installed that, if it failed, the airworthiness of the aircraft would be degraded to an extent that
+would preclude continued safe flight or landing.
+g. Consumed. A fabricated part is considered consumed in a repair when it is installed into
+the next higher assembly component part, or within a product by the fabricator, while undergoing
+maintenance or an alteration.
+h. Design. Consists of all drawings and specifications, which may be summarized on a
+master drawing list. These are necessary to show the configuration of the part(s) and all
+information on dimensions, tolerances, materials, processes, and procedures necessary to define
+all characteristics of the part(s), as well as, the Airworthiness Limitations Section (ALS) of the
+instructions for continued airworthiness (ICA).
+i. Fabrication. An act in which a part/subpart is made (fabricated) and consumed by the
+fabricator on the product, or part thereof, in the course of performing maintenance or alterations
+in accordance with approved or acceptable data, depending on the category (CAT) classification
+of the part being fabricated and the applicable regulations. In addition, a maintenance record
+entry must be made with a description of work performed, date of completion, name of person
+who performed the work, and a satisfactory signature and FAA certificate number.
+j . Flight Standards District Office (FSDO). The FAA FSDO that has the responsibility
+for certificate management over the certificate holder that is undertaking the fabrication of the
+part or part thereof.
+Par 3 Page 3
+AC43-18CHG2 06/07/11
+k. Part. For the purposes of this AC, is an article that could be produced under the
+provisions of 14 CFR part 21 and is eligible for installation on a certificated aircraft without
+further manufacturing processes.
+NOTE: The definition of a part for the purposes of this AC would not
+include raw materials or repair segments being utilized for the repair or
+alteration of a part, (i.e., sheet metal stock, sealants, lubricants, raw forgings,
+or castings, billet material, etc.
+1. Parts CATs. Parts are classified into one of three CATs, depending on their potential
+effect on safety. They are listed on a Category Parts List (CPL). Criteria exists for establishing
+and identifying part CATs, as discussed in paragraphs 6d(l) and 7b(l) through (3) of this AC.
+The criteria details the level of FAA involvement necessary to approve the fabrication of such
+parts. It also specifies the level of technical data, quality control system, procedures
+development, and processes necessary to substantiate fabrication of such parts within each CAT.
+m. Project ACO. The ACO is responsible for a project, which results in approving data
+submitted by the fabricator to FAA for fabricating the part. The project ACO may be required to
+coordinate with the certificate management ACO, depending upon the criticality classification
+and complexity of the part to be fabricated.
+n. Production. An act in which a part is manufactured under part 21 to an approved design,
+or to an established industry standard or specification recognized by the United States.
+o. Subcontractor. A person providing parts, materials, or related services (welding, plating,
+machining, etc.) to the certificate holder responsible for fabrication of the part. The subcontractor
+must be subject to control and surveillance by that certificate holder who is ultimately
+responsible for the airworthiness of the part and its fabrication processes.
+4. RELATED READING MATERIAL (current editions).
+a. FAA Orders. You may obtain the current editions of these orders from the FAA Web
+site at http://www.faa.gov/.
+(1) Order 8110.42, Parts Manufacturer Approval Procedures.
+(2) Order 8120.2, Production Approval and Certificate Management Procedures.
+(3) Order 8120.11, Disposition of Scrap or Salvageable Aircraft Parts and Material.
+(4) Order 8130.2, Airworthiness Certification of Aircraft and Related Products.
+(5) Order 8900.1, Flight Standards Information Management System (FSIMS).
+b. Advisory Circulars. You may obtain the current editions of these ACs from the FAA
+Web site at http://www.airweb.faa.gov/rgl.
+(1) AC 20-62, Eligibility, Quality, and Identification of Aeronautical Replacement Parts.
+(2) AC 21-29, Detecting and Reporting Suspected Unapproved Parts.
+(3) AC 43-9, Maintenance Records.
+Page 4 Par 3
+06/07/11 AC43-18CHG2
+(4) AC 43.9-1, Instructions for Completion of FAA Form 337 (OMB NO. 2120-0020),
+Major Repair and Alteration (Airframe, Powerplant, Propeller, or Appliance).
+(5) AC 43.13-1, Acceptable Methods, Techniques, and Practices-Aircraft Inspection and
+Repair.
+(6) AC 43.13-2, Acceptable Methods, Techniques, and Practices-Aircraft Alterations.
+(7) AC 43-210, Standardized Procedures for Requesting Field Approval of Data, Major
+Alterations, and Repairs.
+(8) AC 91-82, Fatigue Management Programs for Airplanes with Demonstrated Risk of
+Catastrophic Failure Due to Fatigue.
+(9) AC 120-77, Maintenance and Alteration Data.
+5. BACKGROUND.
+a. Authority to Fabricate Parts. Maintenance personnel have raised questions and
+concerns regarding their authority to fabricate aircraft parts during the course of performing
+maintenance and alterations on a product or part thereof. Typically, such questions center around
+whether a person needs an approval under part 21 to produce parts for installation on
+type-certificated products or whether it is permissible to use the maintenance rules outlined in
+part 43 to fabricate parts for consumption during maintenance or alteration. Previous questions
+were evaluated against regulatory criteria and answered on a case-by-case basis.
+b. Difference in Rules. It is important to emphasize that design and production rules differ
+from maintenance and alteration rules. Therefore, it is crucial that the FAA organization
+responsible for each of these different activities is appropriately involved when acquiring
+approvals. For example, FSDO inspectors have the necessary knowledge on requirements for
+maintaining a product, whereas Manufacturing Inspection District Office (MIDO) inspectors
+possess the expertise and familiarity with the requirements for manufacturing parts and their use
+of specific materials and processes. Compliance with both the maintenance and manufacturing
+requirements is the only way a certificate holder can ensure that a fabricated part is airworthy.
+This AC provides guidance for establishing a system that ensures the same level of safety for
+parts fabricated under part 43, for maintenance or repair purposes, as those produced under the
+production rules under part 21.
+c. Conformance to Approved Design. Any person who engages in the design, production,
+operation, maintenance, or alteration of a civil aviation product is responsible for ensuring that
+the part/product conforms to its approved design and is in condition for safe operation.
+Therefore, an appropriately rated certificate holder that fabricates a part in the course of
+performing maintenance or alterations must possess:
+(1) Approved design data or data acceptable to the Administrator that is determined by
+the CAT classification for the part being fabricated; and
+Par 4 Page 5
+AC43-18CHG2 06/07/11
+(2) A FQCS (FQCS) to ensure each fabricated part conforms to its design data and is in a
+condition for safe operation.
+6. FABRICATION UNDER 14 CFR PARTS 21 AND 43.
+a. Important Considerations. Many elements affect the nature of the processes and extent
+of the requirements needed to fabricate parts during the course of performing maintenance and/or
+an alteration. This includes such elements as: the criticality (application) of the part being
+fabricated, any processes required for fabrication, sufficiency of design data, equipment
+necessary for fabrication of the part, and the extent of FAA involvement in data approval to
+I ensure the pertinent airworthiness requirements of the product are satisfied. Parts design data
+may be approved under § 21.8(d) and fabricated under § 43.13(a) and (b), providing the
+fabricator installs the part onto or within the product or part thereof while it is undergoing repair
+or alteration.
+NOTE: A certificate holder that desires to sell his/her fabricated parts
+separately (i.e., outside the course of performing maintenance or an
+I alteration) must obtain a PMA (refer to § 21.9(a)).
+b. Limitations. Parts fabrication must be performed within the privileges and limitations of
+the certificate holder's FAA authorization and ratings and in accordance with his/her established
+quality control system.
+c. Subcontractor Limitations. When a subcontractor is used in the fabrication process, the
+certificate holder under whose surveillance the fabrication occurs must control the design,
+manufacture, and quality of the part. The work performed by the subcontractor must be
+documented to support a determination of conformance to the purchase order requirements and
+substantiated by a maintenance record. The documentation must describe any special processes.
+Subcontractors must be subject to control and audit by the certificate holder fabricating the part
+for return to service.
+d. Required Documentation. Procedures for addressing the criteria recommended in
+paragraph 6d(l)(a), 1 through 7 below must be documented and recorded in a manual or similar
+type of document, easily understood, and readily available to the person(s) fabricating the part(s).
+(1) Required Data. This data must include the following, dependent on the CAT of the
+part as defined in paragraph 7, Determining Part Category.
+(a) For CAT 1 and CAT 2 Parts:
+7. Drawings and specifications necessary to show the configuration of the
+fabricated part.
+2. Information on materials, dimensions, and processes (including special
+manufacturing processes) necessary to define the structural strength or other critical
+characteristics of the fabricated part.
+3. Inspection and test procedures.
+4. Substantiating data (test reports, analysis, computations, and assessments)
+necessary to show that the design data used to fabricate the part for a repair or alteration meets
+Page 6 Par 5
+06/07/11 AC43-18CHG2
+the applicable airworthiness standards and that no detrimental consequences will result in
+degradation to the next higher-level subassembly or assembly, or to the product.
+5. Airworthiness limitations, as applicable.
+6. IC A/maintenance instructions if the application for design approval is sought
+for a product or article in which the fabricated part is eligible for installation, was filed on or
+after January 28, 1981.
+7. Fabricated part marking.
+(b) For CAT 3 Parts: Data adequate to substantiate that the fabricated part as
+consumed within the repair or during the alteration returns the product to its original or properly
+| altered condition, e.g., AC 43.13-2B, Service Bulletins (SB), component maintenance manual
+(CMM), service history, or prior service experience, etc., in accordance with § 43.13(b).
+NOTE: All fabrication repairs of parts must be accomplished in accordance
+with methods, techniques, and practices acceptable to the Administrator in
+accordance with § 43.13(a).
+(2) FQCS. In order to substantiate and demonstrate that a part being fabricated during the
+course of performing maintenance conforms to the approved design data and is in condition for
+safe operation, quality control system procedures should be established for ensuring all processes
+I and requirements necessary to fabricate the part are identified and adhered to. The depth and
+detail of the FQCS depends on the complexity and CAT classification of the part being
+fabricated. The following are recommended elements that could be addressed in the FQCS:
+(a) Design data control. Procedures for controlling design data and subsequent
+changes to ensure that only current, correct, and approved or acceptable data is used.
+(b) A list of the parts fabricated by nomenclature and part number.
+(c) Document control. Procedures for controlling quality system documents and
+data and subsequent changes to ensure that only current, correct, and approved or acceptable
+documents and data are used.
+(d) Subcontractor control. Procedures that:
+1. Ensure that each subcontractor-fiirnished part conforms to its approved
+design; and
+2. Require each subcontractor to report to the fabricator if a part has been
+released from that subcontractor and subsequently found not to conform to the applicable design
+data.
+(e) Inspecting and testing. Procedures for inspections and tests used to ensure that
+each part conforms to its approved design.
+Par 6 Page 7
+AC43-18CHG2 06/07/11
+(f) Inspection, measuring, and test equipment control. Procedures to ensure
+calibration and control of all inspection, measuring, and test equipment used in determining
+conformity of each part to its approved or acceptable design. Each calibration standard must be
+traceable to a standard acceptable to the FAA.
+(g) Inspection and test status. Procedures for documenting the inspection and test
+status of parts supplied to the approved design.
+(h) Nonconforming part control.
+1. Procedures to ensure that only parts that conform to their approved or
+acceptable design are installed on a type-certificated product. These procedures must provide for
+the identification, documentation, evaluation, segregation, and disposition of nonconforming
+articles. Only authorized individuals may make disposition determinations.
+2. Procedures to ensure that discarded articles are rendered unusable.
+(i) Corrective and preventive actions. Procedures for implementing corrective and
+preventive actions to eliminate the causes of an actual or potential nonconformity to the
+approved design or noncompliance with the FQCS.
+(j) Handling and storage. Procedures to prevent damage and deterioration of each
+part.
+(k) Control of quality records. Procedures for identifying, storing, protecting,
+retrieving, and retaining fabrication quality records associated with the part must be retained in
+accordance with regulatory requirements.
+(1) Internal audits. Procedures for planning, conducting, and documenting internal
+audits to ensure compliance with the FQCS. The procedures must include reporting results of
+internal audits to the person responsible for implementing corrective and preventive actions.
+(m) In-service feedback. Procedures for receiving and processing feedback on
+in-service failures, malfunctions, and defects. These procedures must include a process to—
+1. Address any in-service problem involving design changes; and
+2. Determine if any changes to the ICAs are necessary.
+(n) Quality escapes. Procedures for identifying, analyzing, and initiating appropriate
+corrective action for products or articles that have been released from the quality system and that
+do not conform to the applicable design data or quality system requirements.
+(3) Part Marking. Except as noted below, fabricated parts must be clearly identified
+with an additional permanent and legible marking.
+(a) The marking must include the following:
+Page 8 Par 6
+06/07/11 AC43-18CHG2
+1. The name, trademark, or symbol of the FAA certificate holder (fabricator)
+under whose control the fabrication occurred;
+2. A unique part number that clearly distinguishes the fabricated part; and
+5. The original manufacturer's part number if removed as a result of the
+fabrication.
+(b) Critical parts must be marked in accordance with part 45, § 45.15. This part
+marking provides traceability for subsequent operators and maintenance providers to the source
+of the fabricated part.
+NOTE: In cases where it is impractical to mark the fabricated part without
+compromising the airworthiness (integrity) of the part, the marking
+information should be included in the maintenance records for the part or
+part thereof.
+(4) ICA. Under § 21.50, design approval holders are required to develop and distribute
+information essential to continued airworthiness of their parts and/or products. Typically, these
+instructions are included in maintenance and overhaul manuals to describe the methods,
+techniques, and practices for performing inspections, maintenance, preventive maintenance, and
+alterations to ensure that the affected products are maintained in an airworthy condition. Certain
+sections of the ICA, and any changes to those sections, (e.g., airworthiness limitations, wiring
+diagrams, or SRM revisions) require FAA approval. When parts are fabricated during the course
+of performing maintenance, the fabricator must address the following ICA requirements that may
+be applicable to the fabricated part(s).
+(5) Determine whether the existing ICA for the original part is sufficient to ensure the
+fabricated part continues to meet all airworthiness requirements.
+(6) In cases where the original part manufacturer's ICA has been determined to be
+inadequate, the fabricator must develop its own ICA to ensure continued airworthiness of the
+fabricated or affected part.
+(7) When it is necessary to develop a new ICA, current inspection criteria essential to the
+airworthiness of the part(s) must be maintained and kept current.
+(8) When the certificate holder develops its own ICA, it must be provided with the part
+and made available to any other person requesting the ICA for maintaining the fabricated parts.
+(9) Revision control for the ICA must be maintained to ensure it remains applicable. This
+is particularly important when changes are made to the original product and the ICAs were
+changed to accommodate installation of a fabricated part.
+NOTE: Each Aircraft Certification Service (AIR) Directorate has an
+established Aircraft Evaluation Group (AEG) that is part of Flight
+Standards Service (AFS) and is directly responsible for the operational and
+maintenance aspects of the certification process.
+Par 6 ' Page 9
+AC43-18CHG2 06/07/11
+(10) Fabrication of Multiple Parts. A quantity of identical parts bearing the same
+part number may be fabricated at the same time, providing they will be consumed in later repairs
+by the certificate holder that fabricated those parts. Controls should be in place to prevent
+separate sales of these specific parts (i.e., sales to other persons independent of the repair). If a
+certificate holder desires to sell its fabricated part(s) separately, it must obtain a PMA. The
+| fabrication of multiple parts is not to be used as a means to circumvent the requirements of
+§ 21.9(a).
+(11) Recordkeeping. Fabrication of a part in accordance with this AC is subject to the
+maintenance recordkeeping provisions of § 43.9. A recordkeeping system should be established
+for documenting fabricated parts containing sufficient information to determine the airworthiness
+status of the part. Information contained in the maintenance record entry could include a
+description of work performed, date of work completion, person approving return to service,
+current status of any AD, current inspection status, and current status of life-limited parts. These
+maintenance records should be retained with the aircraft records.
+(12) Destruction of Replaced Material. Material replaced by the fabricated part
+should be mutilated/destroyed beyond any possibility of repair or reassembly and should not be
+retained for future use.
+7. DETERMINING PART CAT.
+a. Criticality Level—CPL.
+(1) For the purposes of this AC, the FAA recommends use of the CPL (a copy of the CPL
+can be found in Appendix 2), in combination with other factors, to determine a part's criticality
+level. The CPL classifies parts into one of three CATs depending on their effect on safety. The
+CPL should be used as a guide in determining a part's criticality. It's important to understand
+that not all component parts have been addressed on this list, and therefore, specific questions
+concerning parts not addressed can be evaluated by contacting the certificate-holding ACO.
+(2) When used in the context of this AC, this CPL is a means to determine the criticality
+category of the part and the level of AIR involvement needed in the design data approval process
+for certificate holders fabricating parts.
+NOTE: No part, or fabricated part thereof, that is the subject of an AD can
+be installed on an aircraft without complying with the AD or obtaining an
+alternative method of compliance (AMOC) approval from the responsible
+ACO.
+b. Part Categories.
+(1) CAT 1 Part. A fabricated part, the failure of which could prevent continued safe
+flight and landing; resulting consequences could reduce safety margins, degrade performance, or
+cause loss of capability to conduct certain flight operations.
+(a) Design Issues. A CAT 1 part is a part intended to be consumed within a major
+repair or major alteration. The certificating ACO, through the geographic ACO, must approve
+Page 10 Par 6
+06/07/11 AC43-18CHG2
+the design data. The list of data to be submitted to the ACO can be found in paragraph 6d(l)(a).
+The ACO will make the determination of necessary data for development and submittal based on
+each circumstance. In the case of a CAT 1 part, a DER may only "recommend approval" of the
+design data.
+(b) Fabrication Issues. The certificate holder is responsible for ensuring all aspects
+of the FQCS are addressed and satisfied. The guidelines provided in paragraph 6d(2) should be
+used to develop the FQCS for compliance.
+(2) CAT 2 Part. A fabricated part, the failure of which would not prevent continued safe
+flight and landing, but would reduce the capability of the aircraft or the ability of the flightcrew
+to cope with adverse operating conditions or subsequent failures.
+(a) Design Issues. A CAT 2 part is a part intended to be consumed within a major
+repair or major alteration. Design data is required to be approved by the geographic ACO or
+appropriately authorized DER. The list of required data to be submitted to the ACO or the DER
+for approval can be found in paragraph 6d(l)(a).
+(b) Fabrication Issues. The certificate holder is responsible for ensuring all aspects
+of the FQCS are addressed and satisfied. The guidelines provided in paragraph 6d(2) should be
+used to develop the FQCS for compliance.
+(3) CAT 3 Part. A fabricated part, the failure of which would have no effect on the
+continued safe flight and landing of the aircraft.
+(a) Design Issues. The fabrication of a CAT 3 part will generally require only
+acceptable data. Fabrication of this type of part will typically result in no involvement by AIR
+unless the AFS aviation safety inspector (ASI) requests assistance.
+(b) Fabrication Issues. The certificate holder is responsible for ensuring all aspects
+of the FQCS are addressed and satisfied. The guidelines provided in Appendix 1 should be used
+to develop the FQCS for compliance with paragraph 6d(l)(b).
+NOTE: A summary of the certificate holder requirements for data based on
+the CAT of the part can be found in Appendix 1.
+Par 7 Page 11
+06/07/11 AC43-18CHG2
+Appendix 1
+APPENDIX 1. SUMMARY OF REQUIREMENTS FOR CERTIFICATE HOLDERS
+SEEKING TO FABRICATE PARTS PURSUANT TO 14 CFR PART 21 AND PART 43
+Fabrication FQCS Required ACO Design DER FSDO
+Part Category Manual Data Approval Approval Review of
+Procedures Authority FQCS
+1 Yes Yes Yes (Recommend Yes
+Certificating Approval Only)
+ACO through the
+Geographical
+ACO
+2 Yes Yes Yes Yes Yes
+Geographic
+ACO
+3 Yes Yes Only Acceptable Not Required Yes
+Data is Required
+for this Category
+ACO
+Intervention
+Only on Request
+by AFS
+Fabrication part categories used in this AC were derived from FAA Order 8120.2, Production
+Approval and Certificate Management Procedures.
+Category 1 Part: A fabricated part, the failure of which could prevent continued safe flight and
+landing; resulting consequences could reduce safety margins, degrade performance, or cause loss
+of capability to conduct certain flight operations.
+Category 2 Part: A fabricated part, the failure of which would not prevent continued safe flight
+and landing, but would reduce the capability of the aircraft or the ability of the crew to cope with
+adverse operating conditions or subsequent failures.
+Category 3 Part: A fabricated part, the failure of which would have no effect on the continued
+safe flight and landing of the aircraft.
+Page 1 (and 2)
+2/29/08 AC 43-18 CHG1
+Appendix 2
+APPENDIX 2. CATEGORY PARTS LIST
+The infonnation contained in this appendix should be used as a guideline in determining a parts criticality. It is not all inclusive and specific questions concerning
+parts not addressed can be evaluated by contacting the certificate holding ACO.
+The CPL has not been reviewed for update since July 1,2004 and is not scheduled for anyfiiture update. Current FAA Safety Management System initiatives
+could render the CPL obsolete, at which time it will be eliminated. The CPL posted on the Internet is for information only and if used for other purposes than
+what is stated above it is solely at the user's risk.
+Sa£jag£(23-i),(25-i) 23,25 Fuselage Structural 23.25 Hydraulic Main Pump 23, Software Thrust (EEC) 23.25 Electrical Power System 23,
+(23-1), (25-2), (27-1), 21, (23-1). (25-1) Alternator/Generator Drfce 25,
+Pressure Bulkheads (23-1). (29-1) 27,29 System <23-2),(25-2) 27,29
+(2S-1) Man Accumulator AC Generator-Alternator
+Keel Beam (25-1) (25-2) (23-2) (25-2)
+Longeron/Stringer (25-2) Main Reservoir (25-2) AC Inverter (23-2) (25-2)
+Floor Beam (25-2) Auxiliary Pump (25-2) Phase Adapter (25-2)
+plates/Skms(25-2) AC Regulator (25-2)
+Fuselage to Wing Attach Fire Protection
+Fittings (25-1) Smoke Detection (25-2).
+StabBizer to Fuselage Attach (27-2). (29-2)
+Fittings (25-1) Fire Detection (25-2), (27-2).
+Gear to Fuselage attach (29-2)
+Fittings (25-1) Overheat Detection (25-2),
+Door Hinge (on Fuselage) (27-2), (29-2)
+(25-1) Extinguishing System
+Fuselage Panels (23-1), (25-1) (25-2), (27-2). (29-2)
+Fire Bottle-Fixed (25-2),
+(27-2), (29-2)
+Flight Central Surfaces 23,25 Flight Control Structural 23,25 Flight Control Servo 25, Thrust Reveraers (23-1), 23,25 Fuel System 23,
+Ailerons (23-1), (25-1) Actuators (25-2), 27,29 (25-2) Boost Pumps (23-1), (25-2), 25,
+Rudder (23-1), (25-1) Aileron Tabs (25-2) (27-1), (29-1) Auxiliary Power Units (23-1) Transfer Valves (23-1). 27.21
+TE Flaps (23-1), (25-2) jackscrew (23-1), (25-1) Flap Actuator (25-2) FADEC(23-1) (25-2)
+LE Devices (25-2) BeBcranks (23-1), (25-1) Rudder Actuator FuetSOV (23-1),(26-1)
+Elevator (23-1), (26-1) Flight Control Cables (23-1), (25-2) Digital Fuel Flow System
+Spoilers (26-2) (25-1) Stabilizer Actuator (23-2) (26-2)
+(25-2) Fuel Dump (26-2)
+Fuel Hose (Single engine
+applications ONLY) (23-2)
+(27-2), (29-2)
+Fuel Quantity indicator
+(23-2) (25-2), £27-2), (29-2)
+Fuel Flow Indicating (27-2),
+(29-2) (23-2)
+Fuel Pressure Indicating
+(27-2), (29-2) (23-2)
+Fuel Pump (25-2), (27-1).
+(29-1)
+Engine Lubrication
+System
+Oil Cooler (Single engine
+applications ONLY) (23-2)
+(27-2). (29-2)
+Page 1
+AC 43-18 CHG1 2/29/08
+Appendix 2
+CATEGORY PARTS LIST
+structural « CFR* Wniotwal CFR . HydrauJIo PhwrnaHo, CFR ^ Propulsion 8ystflnv-.\t. CFR
+ARswnbiiaa Btnteqie .'­ Components .'.-.-r- if!"*' " Compontns^' !PWl
+Engine Liquid Cooling
+System
+Radiators, Coolant Pumps.
+Water Hoses and Head
+Gasket (Single engine
+applications ONLY) (23-2)
+(27-2), (29-2)
+Crew Oxyoen System
+(27-2), (29-2)
+Indicating System
+Warning, Caution, and
+Advisory Lights (27-2),
+(29-2),
+Main Rotor Indicating
+System (27-2), (29-2)
+Engine Power (27-2), (29-2)
+Engine Temperature (27-2),
+(29-2)
+Empennage 23,25 Empennage 8trMfftnn»» 23,25 Control Valves (23-2), 23,25 Eng'"t cwlinq ftyfrm 23,25 Brake System and 23,25
+Horizontal Stabilizers (23-1), Elements Horizontal (25-2) Assembly Components
+lnleta(23-1),(25-2)
+(25-1) Stabilizer Shut Off Valves Brakes(23-1), (25-1)
+Nacelles (23-1), (25-2)
+V E e le r v ti a c t a o l r s s t a (2 b 3 il - i 1 z ) e . r ( s 2 ( 5 2 - 3 1 - ) 1 ), S Pl p a a te rs s / / R S i k b i s n s ( 2 ( 3 2 - 3 2 - ) 2 ) ( 2 ( 5 2 * 5 2 -2 ) ) ( R 2 u 3 d -2 d ) e , r ( 2 P 5 o - w 2 e ) r Control Fairings (23-1). (25-2) A (2 n 5 t - i- 2 S ) k id Valves (23-2),
+(25-1) Tab Structure (23-2) (25-2) Units (23-1), (25-2) Wheel Assemblies (23-1)
+Rudder (23-1), (25-1) Attach Fitting (23-2) (25-2) Rudder Power Control (25-2)
+Empennage Structural Unit (Boeing 737) Tire Casing (25-2)
+Elements Elevator (25-1) Tire Tube (25-2)
+Spars/Ribs (23-2) (25-2) Antiskid Section (25-2)
+Plates/Skins (23-2) (25-2) Master Cylinder/Brake Valve
+Tab Structure (23-2) (25-2) (25-1)
+Attach Fitting Elevator Tab
+(23-2) (25-2)
+Empennage Structural
+Elflmnnts Vortical Stabilizer
+Spars/Rfos (23-2) (25-2)
+Plaies/Skms (23-2) (25-2)
+Attach Fitting (23-2) (25-2)
+Ventral Structure (23-2) (25-2)
+EmpWn^gtrMgTuiaj
+Elements Hortzontal Stabilizer
+Spars/Ribs (23-2) (25-2)
+Plates/Skins (23-2) (25-2)
+Tab Structure (23-2) £25-2)
+Attach Fitting (23-2) (25-2)
+Wlno Structure f23-1V (26-1) 23,25 Wlno Structure Structural 23,25 Airborne Software^ 23, NOTAR (High Speed 27 29
+Elements CffnlrvtirtEflHlprrmit 25.33 FanU27-1U29-1)
+Page 2
+2/29/08 AC 43-18 CHG1
+Appendix 2
+CATEGORY PARTS LIST
+sassi Stniotural WJI, Sgg||graJ­ CFR * HydrwUo PnoumallQj CFR . - Propulsion System.:. •.... ifiW> ^ SysisMiil " .-CFR,
+ftSh ASMnitWoK *" pat­ "•- ofminls*' 'part ''Component*;. '* part*? "*'- "Gpnwmrti't-v.'' •|>artv, • ^.^n-Sa^^^n^S •gait—
+i\ir* *,-"». 1),(2") '^ll'lW.llL ' <ll AlOlSf Automat lr, pliant Control
+.". jfcVTi?(23»t.' <- ; M'.vi r rt.-i i:-. r, Syrems'Stabllltv
+Spars (23-1), (25-1) (25-1). (33-1) Auomentatlon Systems
+Ribs/Bulkheads (23-2) (25-2) Software Levels B, or C (per Flight Control Computers
+Longeron/Stringers (25-2) RTCA/D017aB)(23-2) (27-1), (29-2)
+Center Wing Box (25-1) (25-2). (33-2) Servo/Linear Actuators
+Auxiffiary Structure (25-2) (27-1), (29-1)
+Wing Attach Fitting (26-1) Electrical Power Systems
+NAC/pylon Wing Fitting AC Generator (27-2), (29-2)
+(23-1), (25-1) AC Inverters (27-2), (29-2)
+Blended Winglet (26-2) Battery (27-2). (29-2)
+Starter Generator (27-2).
+(29-2)
+Main Rotor 27,29 Main Rotor Control 27,29 Prooellere 35 Drive Systems 27,29
+Hubs (27-1), (29-1) Swasnpfetes (27-1). (29-1) (Hubs (35-1), Blades (3fr-1) Masts (27-1), (29-1)
+Trunnions (27-1), (29-1) Swashplate Drives (27-1), Blade Retention Devices Gear Boxes (27-1),
+Yokes (27-1). (29-1) (29-1) (35-1) (29-1)
+Spindles (27-1), (29-1) Anti-Dnves (27-1), (29-1) Counter Weights (35-1) Dnveshafts(27-1),
+Grips (27-1). (29-1) Anti- Links (27-1), (29-1) Pitch Control Systems (29-1)
+Pitch Horns (27-1), (29-1) Pitch Change Links (27-1), including PCU (35-1) Bearings (27-1), (29-1)
+Drag 613068(27-1), (29-1) (29-1) Governors (35-1) Hanger Bearings (27-1),
+Blades (27-1), (29-1) Drive Links (27-1), (29-1) Actuators (35-1) (29-1)
+Blade Spars (27-1). (29-1) Drive-Levers (27-1). (29-1) PCU Mechanisms (35-1) Clutches (27-1), (29-1)
+Damper Hubs (27-1), (29-1) Gimbal Stabilizer Bars (27-1). Propeller Electronic Controls Couplings (27-1), (29-1)
+Retention Pins/Straps/Bolts (29-1) (35-1), and Transmissions
+(27-1), (29-1) Mixing Levers (27-1), (29-1) Propeller Valve Modules Cases (27-1), (29-1)
+Tension-Torsion Straps (27-1), Collective Sleeves (27-1), (35-1) Gears (27*1), (29-1)
+(29-1) (29-1) Clutches (27-1), (29-1)
+Strap Packs (27-1), (29-1) Cyclic & Collective Control Oil Pumps (27-1), (29-1)
+Pillow Blocks (27-1, (29-1) Sticks (27-1), (29-1) Bearings (27-1), (29-1)
+Droop Restraint Bote (27-1). Actuator Supports (27-1),
+(29-1) (29-1)
+Elastomers Dampers (27-1), Control System
+(29-1) Tube6/BoN6/Plns(27-1),
+Bearings (27-1). (29-1) (29-1)
+Bushings (27-1), (29-1)
+Nose Section (23-1), (25-1) 23,25 Fuel Tank Structure 23, Drive Beits (27-1), (29-1) 27,30 Stall Warning (23-2). (25-2) 23,25
+Radomes (23-2), (25-2) Fuel Ceil (23-1), (25-1), (27-1), 25,
+(29-1) 27 29
+Nacelles/Pylons f23-1V (25-11 23,25 Nacelles/Pylons Structural 23,25 Gas Turbine Enalnes- 33 Anti-Ice System (23-2)
+Doors Elements 27 29 Enalne Rotors Pltot/Statlc Anti-Ice (23-2) 25,27,
+Passenger Crew Doors (25-1) Attachment Fittings (25-1), Fan Blades (33-1), (25-2) 29
+Emergency Exit Door (25-2) (27-1),(29-1) Disks (33-1), Blisks (33-1), Air Foil Anti Ice/Delce
+Landing Gear Doors (25-2) Bulkhead/Firewalls Impellers (33-1), Spools (23-2) (25-2), (27-2), (29-2)
+Cargo Baqgage Door (25-2) (Nac/PvBn) (23-2) (25-2), (Drum Rotors) (33-1), Window/Windshield & Doors
+Page 3
+AC 43-18 CHG1 2/29/08
+Appendix 2
+CATEGORY PARTS LIST
+Longerons/Stringers Thermal Shields for cooling (23-2) (25-2)
+(Nac/Pylon) (25-2) of main rotors (33-1), Antenna/Radome Anti Ice
+Plates/Skins (Nac/Pyion) Cooling Plates (33-1), (25-2)
+(25-2) Main Rotor Rotating Spacers Intake Anti-lce/Deice (27-2),
+Attach Frtbngs (Nac/Pyion) and Seals (33-1). Main Line (23-2) (29-2)
+(23-2) (25-1), (27-1), (29-1) Engine Shahs (I e, low and
+Engine Struts (23-1). (25-1), high pressure rotor shafts,
+(27-1), (29-1) propeller shafts for turboprop
+applications and power
+Engine Mounts (23-1), (25-1),
+(27-1), (29-1) transmission shafts for Input
+to propeller and transmission
+Pylon Lilt/Link Assemblies
+gearPoxes) (33-1), Main Line
+(27-1), (29-1)
+Engine Bearings (33-2).
+Rotating Compressor &
+Turbine Airfoils (33-2).
+Spinners (33-2)
+Gas Turbine Engines
+fContl 13
+Main Engine Mounts (I e ,
+redundant designa)(33-1),
+High Pressure Vessels (i a
+Casting subject to compressor
+dlscharge pressure &
+cornbuster PressureK33-1).
+Containment Structures (33-1),
+Pnmary Structures (i.e.
+structures that provide support
+and rigidity of the main engine
+backbone and for attachment
+of engine to airframe) (33-1),
+Main Engine Mounts (I e ,
+redundant designs)
+(33-2). Electronic Engine
+Ccnlrols/Fufl Authority Digital
+Electronic Controls (33-2),
+Gas Path (Static & Variable
+Nozzle Guide Vanes) (33-2),
+Control System Actuators
+(33-2), Combustion Liners
+(33-2), Fuel Nozzles (33-2)
+Flight Control Mechanisms 21,25 LifOCompression Struts (23-1) 21 Reciprocating Engines .13 Airborne Software 21,
+(23-1). (25-1) Flying Wires £23-1) Crankshafts (33-1) System^ Software Level A 25,
+Floats (23-1), Skis (23-1) Connecting Rods Assembly (perRTCA/D0178B), 27,29
+Tail Wheels (23-1) (33-1) (23-1)(25-1), (27-1). (29-1)
+Connecting Rod Bearings Software Levels B, or C (per
+(33-1) RTCA/D0178B)(23-2)
+Pistons (33-1) (25-2), (27-2), (29-2)
+Wrist Pins (33-1) Navigation System
+Cylinders (33-1) Wind Shear Detection
+Page 4
+2/29/08 AC 43-18 CHGl
+Appendix 2
+CATEGORY PARTS LIST
+Cylinder Heads (33-1) System (25-2)
+Engine Mounts (33-1) Ground Proximity System
+Crankcase (33-2) (23-2) (25-2)
+Crankshaft Bearings (33-2) Air Collision Avoidance
+Valve Train (valves, valve (TCAS) (23-2) (25-2)
+springs, pushrods, Air Speed Indicator (23-2)
+camshafts, rocker shaft (27-2), (29-2)
+assembly) (33-2) Altimeter (23-2) (27-2),
+Fuel Delivery Systems (29-2)
+(carburetors, Injectors, fuel Air Data Computer (23-2)
+pumps) (33-2), Valve (27-2), (29-2)
+Train/Accessory Drive Gears Attitude Gyro and Indication
+(33-2) (23-2) (27-2), (29-2)
+Electronic Engine Control Directional Gyro and
+(EEC)/Fuii Authority Digital indication (23-2) (27-2),
+Electronic Controls (33-2) (29-2)
+Pilot/Static System (23-2)
+(27-2), (29-2)
+LoealUerA/QK system
+(23-2) (27-2), (29-2)
+Glide Slops System (23-2)
+(27-2). (29-2)
+Tall Rotor and Controls 27,29 Balloons .11 Balloon Burner Systems 31 Balloon Fuel Systems .11
+Hubs (27-1). (29-1) Baskets (31-1) Burner Units (31-1) Fuel Manifolds (31-1)
+Yokes (27-1), (29-1) Envelopes (31-1)
+Trunnions (27-1). (29-1)
+Blades (27-1), (29-1)
+Blade spars (27-1), (29-1)
+Grips(27-1).(29-1)
+Pitch Change Links (27-1),
+(29-1) PrtchChange Bearings
+(27-1), (29-1)
+Output/Drive Shafts (27-1),
+(29-1)Gearsets (27-1), (29-1)
+strap Packs (27-1), (29-1)
+Pedal Linkages (27-1), (29-1)
+Bellcranks(27-1). Flapping &
+Lead/Lag Bearings (27-1),
+(29-1)
+Fuselage (27-1), (29-1) 27,29 Main Landing Gear 23, Main Landing. Gear 23, <toT"fMr*ETOlTrf»?Wc 33 yy]nd,oY/WlndfihHd 23,25
+Tail Boom (27-1). (29-1) Struts (23-1). (25-1), (27-1), 25, 25, Structures System 27,29
+Tail Boom Struts (27-1), (29-1) (29-1) 27 29 Landing Gear Actuator 27,29 Engine Mounts (t e non- Flight Compartment
+Tall Boom Mount Fittings Crosslubes (23-1), (25-1). (23-1), (25-2), (27-1), redundant designs) (33-1) Windows (23-1), (23-2)
+(27-1), (29-1) (27-1). (29-1) (29-1) High Pressure Vessels (25-1)
+Vertical Stabilizers (27-1), Drag Links (23-1). (25-2), Selector Valve (25-2) (Casings Subject to Passenger Compartment
+(27-11,(29-1)
+Page 5
+AC 43-18 CHGl 2/29/08
+Appendix 2
+CATEGORY PARTS LIST
+atructw
+Assambi
+(29-1) Fuse Pins (26-2) Landing Gear Door Compressor Discharge Windows (25-2)
+Horizontal Stabilizers (27-1) Attach Section (25-1) Actuator (25-2) Pressure & Combuster Door Windows (-'.)'•
+(29-1) Extension and Retract System Nose Landing Gear Pressure) (33-1) VHF Communication
+Elevator (27-1), (29-1) (25-2) Components Containment Structures (33-1) SjaleoL (27-2). (29-2)
+Elevator Horn (27-1), (29-1) Landing Gear Door Retract Shimmy Damper Primary structures (that
+Skin Assemblies (27-1), (29-1) Seclion (25-2) (25-2) provide support and rigidity of
+Bonded Panel Assemblies Landing Gear Position and Steenng Unit (25-2) the main engine backbone
+(27-1),(29-1) Warning (27-2) (29-2) and for attachment of engine
+Spars (27-1) (29-1) Hose Landing Gear to airframe (33-1)
+(23-1), (25-1)
+Strut/Axle (25-1)
+Attach Section (25-1)
+Stewing Links (23-1) (25-2)
+(27-1) (29-1)
+Page 6

@@ -1,0 +1,408 @@
+Advisory
+Circular
+U.S Department
+of Transportation
+Federal Aviation
+Administration AC 120-63
+Date: 1 O/l II94
+HELICOPTER SIMULATOR QUALIFICATION
+Initiated By: AFS-205
+Advisory
+U.S. Department
+Circular
+of Transportation
+Federal Aviation
+Administration
+Subject: HELICOPTER SIMULATOR Date: 1 O/l l/94 AC No: 120-63
+QUALIFICATION initiated by: AFS-205
+1. PURPOSE. This advisory circular (AC) provides an acceptablem eans, but not the only means, for
+qualifying helicopter simulators to be used in training programs or for airman checking under various parts
+of the Federal Aviation Regulations (FAR). Criteria specified in this AC are those used by the Federal
+Aviation Administration (FAA) to determine whether a simulator is qualified for such training and checking
+and, if so, the qualification level. While these guidelines are not mandatory, they are derived from extensive
+FAA and industry experience in determining compliance with the pertinent FAR. Mandatory terms used
+in this circular such as “shall” or “must” are used to ensure compliance with the criteria set forth in
+the advisory circular when the acceptablem ethod of compliance describedh erein is used. Applicable regula-
+tions must also be referencedt o ensure compliance with the provisions therein. This AC does not change
+regulatory requirements or create additional ones, and does not authorize changes in, or deviations from,
+regulatory requirements. This AC applies only to the evaluation of helicopter simulators. Criteria for the
+evaluation of airplane simulators are containedi n AC 120-40,a s revised, ‘ ‘Airplane Simulator Qualification. ’ ’
+2. RELATED FAR SECTIONS. FAR Part 1 and FAR 5s 61.51, 61.55, 61.57, 61.58, 61.63, 61.65,
+61.67,61.155,61.157,61.161,61.163,135.293,135.297,1 35.323,a nd 135.335.
+3. RELATED READING MATERIAL. AC 150/5300-2,a s revised, “Airport Design Standards - Site
+Requirements for Terminal Navigational Facilities”; AC 150/5340-l, as revised, “Marking of Paved Areas
+on Airports’ ‘; AC 150/5340-4, as revised, “Installation Details for Runway Centerline Touchdown Zone
+Lighting Systems”; AC 150/5340-19,“ Taxiway Centerline Lighting System”; AC 150/5340-21, “Airport
+Miscellaneous Lighting Visual Aids”; AC 150/5340-24,“ Runway and Taxiway Edge Lighting System”;
+AC 150/5345-28,a s revised, “Precision Approach Path Indicator (PAPI) Systems”; AC 150/5390-1 , as revised,
+‘ ‘Heliport Design Guide”; and AC 120-40,a s revised, “Airplane Simulator Qualification.”
+4. BACKGROUND.
+a The FAA has been involved in flight simulator evaluation and approval for well over three decades.
+As far back as 1954, air carriers were allowed to perform limited proficiency check maneuversi n AIRPLANE
+simulators. Credit for the use of these devices was hampered by the state of the technology available in
+early simulator development. More recently, however, rapid technological advances have permitted and
+encouragedt he expandedu se of flight simulators in the training and checking of flight crewmembers. In
+addition, the complexity, operating costs, and operating environment of modem aircraft have lead to the
+increasing use of advanceds imulator technology. Extensive experienceh as proven that modem simulators
+can provide more in-depth training than can be accomplished in the aircraft as well as provide a very high
+transfer of learning and behavior from the simulator to the aircraft. Their use, in lieu of aircraft, results
+in safer flight training and cost reductionsf or the operators,w hile achieving fuel conservationa nd a significant
+reduction in environmental impact.
+lOIll/ AC12043
+b. In recognition of expanding flight simulator capabilities, as technology has progressed,F AR revisions
+have been developed to permit the increasedu se of AIRPLANE simulators in approved training programs.
+To date, the FAR have not addressedth e training and checking of flight crewmembersi n helicopter simulators
+which, as a result, limited their use. Those helicopter simulators in use today have been evaluated and
+approvedo n a case-by-caseb asis. By exemption to the FAR, some personsh ave received credits for training
+and checking received in helicopter simulators. Provisions have been made in this document to permit
+the continued use of these existing simulators provided they continue to meet the criteria under which they
+were originally evaluateda nd approved.
+c. The same factors that have led to the widespread use and acceptanceo f airplane simulators, such
+as technological advancementsa, ircraft complexity, operatingc ost, operating environment, enhancedt raining,
+safety, environmental impact, etc., have recently spurreda dramatic increasei n interest in helicopter simulators.
+It is anticipated that the use of helicopter simulators will expand rapidly and that applicable regulations
+will be amended to extend formal credit to the use of helicopter simulators in approved training programs.
+a Evaluation and qualification of simulators and flight training devices are the responsibility of the
+FAA National Simulator Program Manager (NSPM). The NSPM is also responsible for the development
+of standardsg, uidancea nd policy concerningt hesed evices.
+5. DEFINITIONS AND APPLICATION.
+u Helicopter Simulator is a full size replica of a helicopter cockpit, representing a specific type or
+make, model, and series. It also includes the assemblageo f equipment and computer programs necessary
+to represent the helicopter in ground and flight operations, a visual system providing a real time out-of-
+the-cockpit view, a control force system, and a motion system which provides cues that are at least equivalent
+to that of a three-degrees-of-freedomm otion system; and is in compliance with the minimum standards
+for a Level B simulator. Appendix 1 describest he minimum requirementsf or Level B, Level C, and Level
+D helicopter simulators.
+b. Qualijktion Test Guide (QTG) is a document designedt o validate that the performancea nd handling
+qualities of the simulator agree within prescribed limits to those of the helicopter and that all applicable
+regulatory requirements have been met. The QTG includes both the helicopter and simulator data used
+to support the validation. The Master Qualification Test Guide (MQTG) is the FAA-approved QTG and
+incorporatest he results of FAA witnessed tests. The MQTG serves as the referencef or future evaluations.
+c. Convertible Simulator is a simulator in which hardware and software can be changed so that the
+simulator becomesa replica of a different model, but usually of the samet ype, helicopter.
+d Highlight Brightness is the area of maximum displayed brightness which satisfies the brightness
+test in Appendix 1, Item 4.1.
+e. Latency is the additional time beyond that of the basic helicopter perceivable response time due
+to the responset ime of the simulator. This includes the time delay effects of the computer system, control
+loading system, motion system, visual system, instruments,a nd all data communication and interface systems.
+$ National Simuliztor Program Manager (NSPM) is the FAA Manager responsible for the overall
+administration and direction of the National Simulator Program.
+g. Operator, as used in this AC, is the person or organization that requests FAA qualification of a
+simulator for use within the operator’s FAA-approved training program and is responsible for continuing
+qualification and liaison with the FAA.
+h. Simuliztion Da are the various types of data used by the simulator manufacturer and the applicant
+to design, manufacture,a nd test the flight simulator.
+2
+AC12043
+10/u/94
+i SimuZiztor Evahztion Specialist is an FAA technical specialist trained to evaluate simulators and
+to provide expertiseo n matters concernings imulation.
+j. Snapshot is a presentationo f one or more variables at a given instant of time. A snapshot is
+appropriatef or a steadys tatec ondition in which the variablesa re constantw ith time.
+k. Statement of CompZiance (SOC) is a certification from the operator that specific requirements have
+been met. The SOC incorporatesr eferencest o neededs ourceso f information for showing compliance, ration-
+ale to explain how the referencedm aterial is used, mathematical equations and parameter values used, and
+conclusionsr eached.
+I. Time History is a presentationo f the change of a variable with respect to time. (It is usually in
+the form of a continuous data plot over the time period of interest or a printout of test parameter values
+recordeda t multiple constantt ime intervals over the time period of interest.)
+m. Transporf Delay is the total simulator system processing time required from a pilot primary flight
+control input signal until a motion system, visual system, and instrument response. It is the overall time
+delay incurred from signal input until output response. It does not include the aircraft dynamic response
+of the helicopter simulated.
+n. Upgrade, for the purpose of this AC, means the improvement or enhancemento f a simulator for
+the purposeo f achieving a higher level qualification.
+o. VaZickztionF right Test Da@ for the purposeo f this AC, are the flight and ground handling, perform-
+ance, stability and control, propulsion, and other necessaryt est parameterse lectronically recorded in a heli-
+copter using a calibrated data acquisition system verified as accurate by the company performing the test.
+P. Visual System Response Time is the interval from an abrupt control input to the completion of
+the visual display scan of the first video field containing the resulting different information.
+6. DISCUSSION.
+a. The proceduresa nd criteria for simulator evaluation and qualification under the National Simulator
+Program are contained in this AC. There are currently three levels of complexity of helicopter simulators,
+levels B, C, and D, which are comparable in complexity and intended use to airplane simulators of the
+same level. Level A is reservedf or potential future use. A simulator, qualified by the NSPM in accordance
+with the guidancea nd standardsh erein, will be recommendedf or approval to the operator’sp rincipal operations
+inspector( POI) or certificate holding district office, as applicable for use within the operator’s training program.
+6. Evaluation of simulators used for training or certification of airmen under Title 14 CFR fall under
+the direction of the National Simulator Program. A simulator will be evaluated under the provisions of
+this AC if it is used in a training program approved for the sponsoring operator under FAR Part 121 or
+135 or if it is used as part of the FAA-approved training program by the operator in the course of conducting
+the Pilot-in-Command Proficiency Check required by FAR 5 61.58, the issuanceo f an airline transport pilot
+(ATP) certificate or type rating in accordance with the provisions of FAR § 61.163, or the issuance of
+a type rating in accordancew ith the provisions of FAR 5 61.63.
+c. Under the National Simulator Program concept, the simulator is evaluated for a specific operator
+by an FAA Simulator Evaluation Specialist. Based on a successful evaluation, the NSPM will certify that
+the simulator meets the criteria of a specific level of qualification. Upon qualification by the NSPM, approval
+for use of the simulator in the operator’s approved training program will be determined by the PO1 in the
+case of FAR Part 121, 127, 133, or 135 certificate holders or by the district office responsiblef or oversight
+of a training center when the training center is using the simulator to conduct checks required by FAR
+Part 61 as part of its approvedt raining program.
+3
+AC l20-63 lO/ll/94
+d, FAA evaluation of a simulator located outside the United States will be performed if the simulator
+is being used by the U.S. operatort o train or certificate U.S. airmen. Evaluationsm ay be conductedo therwise
+as deemeda ppropriateb y the Administrator on a case-by-caseb asis.
+e. Operatorsw ho contract to use simulators already qualified and approvedf or the sponsoringo perator
+at a particular level for a helicopter type are not subject to the qualification process. However, they are
+requiredt o obtain FAA approvalt o use the simulator in their approvedt raining programs.
+7. EVALUATION POLICY.
+Q, The methods, procedures,a nd standardsd efined in this AC provide one means, acceptable to the
+Administrator, to evaluate and qualify a simulator. If an applicant choosest o utilize the approachd escribed
+in this AC, he must adhere to all of the methods, procedures,a nd standardsh erein. However, this is not
+to imply that the NSPM may not apply sound engineering and/or operational judgment in the review or
+acceptanceo f data, data presentations,o r other material or elements and have the application remain within
+the applicability of this particular method of compliance. Should an applicant desire to use another means,
+a proposal must be submitted to the NSPM for review and approval prior to the submittal of a detailed
+QTG. During the developmento f this AC, frequencyr esponsem ethods were discussed,b ut were not selected
+as the primary means of simulator validation. The FAA is, however, receptive to proposals using frequency
+responsed ata as an alternativem eanso f validation.
+b. The simulator is evaluated in those areas that are essential to completing the airman training and
+checking process as required by regulation and by the sponsoring operator’s approved training program.
+This may include the following: aerodynamicr esponsesp; erformancei n hover, takeoff, climb, cruise, descent,
+autorotation,a pproach,a nd landing; flight control checks;c ockpit functions checks;a nd additional requirements
+dependingu pon the complexity or qualification level of the simulator. The motion system, instructor station
+functions, and visual system will also be evaluatedt o ensuret heir proper operation.
+c. The intent is to evaluate the simulator as objectively as possible. Pilot acceptance,h owever, is
+also an important consideration. Therefore, the simulator will be subjected to validation tests presented
+in Appendix 2 of this AC, and to the functions and subjective tests presentedi n Appendix 3. These tests
+include a qualitative assessmenot f the simulator by an FAA pilot who is qualified in the respectiveh elicopter.
+Validation tests are used to compare simulator and helicopter data objectively to ensure that they agree
+within specified tolerances. Functions tests are designedt o provide a basis for evaluating simulator capability
+to perform over a typical training period and to verify correct operation of the simulator controls, instruments,
+and systems.
+d Tolerances,l isted for parametersi n Appendix 2, should not be confused with design tolerancess peci-
+fied for simulator manufacture. Tolerancesf or the parametersl isted in Appendix 2 are the maximum accept-
+able to the Administrator for simulator validation.
+e. A convertible simulator will be addresseda s a separates imulator for each model and series to which
+it will be converted and for which FAA qualification will be sought. An FAA evaluation is required for
+each configuration. For example, if an operator seeks qualification for two models of a helicopter type
+using a convertible simulator, two QTG’s or a supplementedQ TG and two evaluationsa re required.
+J Initial qualification.
+(1) Only the aircraft manufacturer’sf light test data will be acceptedf or initial simulator qualification
+undert he following circumstances:
+(a) When an original type certificate was issueda fter June 1980.
+(b) When significant amendmentsa re made to an original type certificate.
+(c) When a supplementalt ype certificate would change the handling qualities or performance.
+lWlll94 AC 120-63
+(2) Exceptions to this policy must be submitted to the NSPM for review and consideration. It
+is the intent of the FAA that all testsl isted in this AC be applied to simulator qualification.
+(3) The NSPM will consider the use of alternative data from the helicopter manufacturer for heli-
+copters which were type certificated before the issuanceo f this AC. For older helicopters, additional flight
+testing may be necessary.
+(4) For a new type or model of helicopter, predictedd ata validated by the manufacturer’s preliminary
+flight test data may be used for an interim period as determined by the FAA. In the event predicted data
+is used in programming the simulator, it should be updated as soon as practicable when actual helicopter
+flight test data becomesa vailable. Unless specific conditions warrant otherwise, this updates hould be accom-
+plished within six months after releaseo f the final flight test data packageb y the helicopter manufacturer.
+g. If a problem with a validation test result is detected by the FAA Simulator Evaluation Specialist,
+the test may be repeated. If it still does not meet the test criteria, the operator may demonstratea lternative
+test results which relate to the test in question. In the event a validation test(s) does not meet specified
+criteria, but the criteria are not considered critical to the level of evaluation being conducted, the NSPM
+may conditionally qualify the simulator at that level. The operator will be given a specified period of time
+to correct the problem and submit the QTG changes to the NSPM for evaluation. Alternatively, if it is
+determined that the results of a validation test would have a detrimental effect on the level of qualification
+being sought or if the test outcome is a firm regulatory requirement, the NSPM may qualify the simulator
+to a lesser level or restrict maneuvers based upon the evaluation completed. For example, if a Level D
+evaluation is requesteda nd the simulator fails to meet hover test criteria, it could be qualified at Level B.
+Ji. Evaluation datesw ill not be establishedu ntil the QTG has beenr eviewed by the NSPM and determined
+to be acceptable. Within 10 working days of receiving an acceptable QTG, the NSPM will coordinate
+with the operatora nd PO1 to set a mutually acceptabled ate for the evaluation. To avoid unnecessaryd elays,
+the operator is encouragedt o work closely with the NSPM during the QTG development process prior to
+making formal application.
+i. At the discretion of the FAA Simulator Evaluation Specialist, the operator’s pilots may assist in
+completing the functions and validation tests during evaluations. However, only FAA personnel should
+manipulate the pilot controls during the functions check portion ofan FAA evaluation.
+8. INITIAL OR UPGRADE EVALUATION AND QUALIFICATION.
+a, The operator seeking simulator initial or upgrade evaluation and qualification pursuant to this AC
+must submit a request in writing to the NSPM through the PO1 or the responsible FAA Flight Standards
+District Office (FSDO). This request must contain an SOC certifying that the simulator meets all of the
+provisions of this AC. This shall include a certification that the cockpit configuration of the simulator
+conforms to that of the helicopter; the specific hardware and software configuration control proceduresh ave
+been established; and that the simulator is representativeo f the helicopter in all functional test areas, as
+confirmed by the operator’sd esignatedp ilots. A sample letter of requesti s included in Appendix 4.
+b. The operators hall submit a QTG which includes the following:
+(1) A title page with the operatora nd FAA approval signatureb locks.
+(2) A simulator information page,f or eachc onfiguration in the caseo f convertible simulators, provid-
+ing the following:
+(a) Operator’s simulator identification number or code.
+(b) Helicopter model and seriesb eing simulated.
+0 Aerodynamic model and datar evisions (as applicable).
+C
+5
+10ml94
+AC 120-63
+(d) Engine model and its datar evision.
+(e) Plight control model and data revisions (as applicable).
+(f) Flight ManagementS ystem identification and revision level.
+(g) Simulator model and manufacturer.
+(h) Date of simulator manufacture.
+(i) Simulator computeri dentification.
+(i) Visual systemm odel and manufacturer.
+(k) Motion system type and manufacturer.
+(3) Table of contents.
+(4) Log of revision and/orl ist of effective pages.
+(5) Listing of all references ourced ata.
+(6) Glossary of terms and symbols used.
+(7) WC’s that shall provide referencest hat include sourceso f information for showing compliance;
+rationale to explain how the referencedm aterial is used; mathematical equationsa nd parameterv alues used;
+and conclusions reached. Refer to Appendix 1, “Simulator Standards,” comments column, for SQC require-
+ments.
+(8) Recording procedureso r a list of equipmentr equiredo r the validation tests.
+(9) The following for eachv alidation test designatedin Appendix 2 of this AC:
+0a Name of the test.
+00 Objective of the test.
+0C Initial conditions.
+(a Manual test procedures.
+0e Automatic test procedures( if applicable).
+(0 Method for evaluatings imulator validation test resul tS .
+(s) Tolerancesf or relevant parameters.
+01) Sourceo f Helicopter Test Data (documenta nd page In umber).
+0i Copy of Helicopter Test Data.
+.
+0) Simulator Validation Test Results,a s obtainedb y the operator.
+00 A means, acceptablet o the NSPM, of easily comparing the simulator test results to Heli-
+copter Test Data.
+c. The operator’s simulator validation test results must be recorded on a multichannel recorder, line
+printer, or other appropriate recording media acceptablet o the NSPM. Simulator results shall be labeled
+using terminology common to helicopter parameters instead of computer software identifications. These
+results shall be easily compared to the supporting data by employing cross plotting, overlays, transparencies,
+overplotting of manufacturerd ata, or other acceptablem eans. Helicopter data documents included in a QTG
+may be photographically reducedo nly if such reduction will not alter the graphic scaling or cause diffkulties
+in scale interpretationo r resolution. Incremental scaleso n graphical presentationsm ust provide the resolution
+necessaryf or evaluation of the parameterss hown in Appendix 2. The test guide will provide the documented
+6
+lWly94 AC 120-63
+. proof of compliance with the simulator validation tests in Appendix 2. In the case of a simulator upgrade,
+the operator must run all validation tests neededf or the requestedq ualification level. Validation test results
+offered in a test guide for a previous initial or upgrade evaluation should not be offered to validate the
+simulator performance in a test guide offered for a current upgrade. For tests involving time histories,
+the flight test data sheets or transparenciest hereof and the results of the simulator tests shall be marked
+clearly with the appropriater eferencep oints to ensurea n accuratec omparisonb etween simulator and helicopter
+data with respect to time. Operators using line printers to record time histories shall clearly mark that
+information taken from the line printer data output for cross-plotting on the helicopter data. The cross-
+plotting of the operator’s simulator data to helicopter data is essential to verify simulator performance in
+each test. During an evaluation, the FAA will perform a detailed check of selected tests from the QTG.
+The FAA evaluation servest o validate the operator’ss imulator test results.
+d The completed QTG and the operator’s compliance letter and request for the evaluation shall be
+submitted through the operator’s POI. The PO1 will then submit the total packagew ith a letter or memoran-
+dum of endorsementt o the NSPM. The QTG will be reviewed and determined to be acceptable prior to
+schedulinga n evaluation of the simulator.
+e. A copy of a QTG for each type simulator by each simulator manufacturer will be required for
+the NSPM’s file. The NSPM may elect not to retain copies of the QTG for subsequents imulators of the
+same type by a particular manufacturer, but will determine the need for copies on a case-by-caseb asis.
+Data updates to an original QTG shall be provided to the NSPM in order to keep FAA file copies current.
+$ The operatorm ay elect to accomplish the QTG validation testsw hile the simulator is at the manufactur-
+er’s facility. Tests at the manufacturer’s facility should be accomplished at the latest practical time prior
+to disassembly and shipment. The operator must then validate simulator performance at the final location
+by repeating at least l/2 of the validation tests in the QTG and submitting those tests to the NSPM. After
+review of these tests, the FAA will schedule an initial evaluation. The QTG must be clearly annotated
+to indicate when and where eacht est was accomplished.
+g. In the event an operator moves a simulator to a new location and its level of qualification is not
+changed,t he following proceduress hall apply:
+(1) The operators hould advise the PO1a nd NSPM of the move.
+(2) Before returning the simulator to service at the new location, the operator shall perform a typical
+recurrent validation and functions test. The results of such tests will be retained by the operator and be
+available for inspection by the FAA at the next evaluation or as requested.
+(3) The NSPM may schedulea n evaluation prior to return to service.
+h. When there is a change of operator, the new operator must accomplish all required administrative
+procedures including the submission of the cwTently approved MQT Guide (MQTG) through the PO1 to
+the NSPM. The QTG must be identified with the new operator by displaying the operator’s name or logo.
+The PO1 will then submit the packagea s described in paragraph9 .d. The simulator may, at the discretion
+of the NSPM, be subject to an evaluation in accordancew ith the original qualification criteria.
+i The scheduling priority for initial and upgradee valuations will be based on the sequencei n which
+acceptableQ TG’s and evaluation requestsa re receivedb y the NSPM.
+j. The QTG will be approved after the completion of the initial or upgrade evaluation and after all
+discrepanciesi n the QTG have been corrected. This document, after inclusion of the FAA witnessed test
+results, becomes the MQTG. The MQTG will then remain in the custody of the operator for use in future
+recurrente valuations.
+7
+AC 120-63 10/u/94
+.
+9. RECURRENT EVALUATIONS.
+Q, For a simulator to retain its qualification pursuant to this AC, it will be evaluated on a recurrent
+basis using the approved MQTG. Unless otherwise determined by the NSPM, recurring evaluations will
+be accomplished every 6 months by a Simulator Evaluation Specialist. Each recurrent evaluation, normally
+scheduledf or 8 hours of simulator time, will consist of functions tests and approximately l/2 of the validation
+tests in the MQTG. The entire MQTG will, therefore,b e completedo n an annualb asis.
+b. Normally, dates of recurrent evaluations will not be scheduled beyond 30 days of the date due.
+Exceptions to this policy will be considered by the NSPM on a case-by-caseb asis to addresse xtenuating
+circumstances.
+c. In the interest of conserving simulator time, the following Optional Test Program (OTP) is an alter-
+native to the S-hourr ecurrente valuation procedure:
+(1) The operator of a simulator having the appropriatea utomatic recording and plotting capabilities
+may apply for evaluation of that simulator under the OTP.
+(2) The operator must notify the NSPM in writing of its intent to enter the OTP. If the FAA
+determines that the evaluation can be accommodatedw ith 4 hours or less of simulator time, recurrent evalua-
+tions for that simulator will be planned for 4 hours. If the 4hour period is or will be exceededa nd the
+operator cannot extend the period, then the evaluation will be terminated and must be completed within
+30 days to maintain qualification status. The FAA will then reassessth e appropriatenesso f the OTP.
+(3) Under the OTP, at least l/2 of all the validation tests will be performed and certified by the
+operator between FAA recurrent evaluations. Completion of all validation tests will be required through
+any two consecutive recurrente valuations. This information will be reviewed by the FAA Simulator Evalua-
+tion Specialist at the outset of each evaluation. These tests should be accomplished within the 30 days
+prior to the schedulede valuation or accomplished on an evenly distributed basis during the 6-month period
+precedingt he schedulede valuation. Twenty percento f those testsp erformed by the operatorf or each recurrent
+evaluation will then be selected and repeatedb y the Simulator Evaluation Specialist along with 10 percent
+of thoset ests not performed by the operator.
+d. Prior to arrival for an on-site evaluation, the FAA inspector will notify the operator if any tests
+are planned to be run that may require special equipment or technicians. These tests would include latencies,
+control dynamics, soundsa nd vibrations, or motion systemt ests.
+e. If the operator plans to remove a simulator from active status for a prolonged period, the following
+proceduress hall apply to requalify the simulator pursuantt o this AC:
+(1) The NSPM and PO1 shall be advised in writing. The notice shall contain an estimate of the
+period in which the simulator will be inactive.
+(2) Recurrent evaluationsw ill not be scheduledd uring the inactive period. The NSPM will remove
+the simulator from qualified status on a mutually establishedd ate no later than the date on which the next
+recurrente valuation would have been scheduled.
+(3) Before a simulator can be restored to FAA qualified status, it will require an evaluation by
+the NSPM. The evaluation content and time required for accomplishment will be based on the number
+of recurrent evaluations missed during the inactive period. For example, if the simulator were out of service
+for 1 year, it would be necessaryt o complete all tests contained in the test guide since, under the recurrent
+evaluationp rogram, all validation tests in the MQTG are to be completeda nnually.
+(4) The operator shall notify the NSPM of any changes to the originally scheduled time out of
+service.
+8
+lWlm4 AC12043
+(5) Normally, the simulator will be requalified using the FAA-approved MQTG and criteria that
+were in effect prior to its removal from qualification. Inactive periods exceeding 1 year or failure to adhere
+to the precedingp roceduresw ill require a review of the qualification basis.
+$ In general, convertible simulators will be evaluatedi n alternating model configurations so that only
+one model configuration is evaluated during any one recurrent evaluation. This policy is dependentu pon
+a high degree of commonality between model configurations and is subject to review by the NSPM on
+a case-by-caseb asis. .
+10. SPECIAL EVALUATIONS.
+Q, Between recurring evaluations,i f deficienciesa re discoveredo r it becomesa pparentt hat the simulator
+is not being maintained to initial qualification standardsa, special evaluation of the simulator may be conducted
+by the NSPM to verify its status.
+b. The PO1 shall advise the operatora nd the NSPM if a deficiency is jeopardizing training requirements.
+Arrangements shall then be made to resolve the deficiency in the most effective manner, which may include
+the withdrawal of approval by the POI.
+11. MODIFICATION OF SIMULATORS, MOTION SYSTEMS, AND VISUAL SYSTEMS.
+Q, The operator must notify the PO1 and NSPM at least 21 calendar days prior to making software
+program or hardware changesw hich might impact flight or ground dynamics of the simulator. A complete
+list and description of these planned changes,i ncluding dynamics related to the motion and visual systems,
+must be provided in writing. Any necessaryu pdates to the MQTG shall also be identified. Operators
+should maintain a configuration control system to ensuret he continued integrity of the simulator as qualified
+and to account for changesi ncorporated The configuration control system may be examined by the FAA
+on request.
+b. Modifications which impact flight or ground dynamics, systems functions, and significant QTG revi-
+sions may require an FAA evaluationo f the simulator.
+12. SIMULATOR QUALIFICATION BASIS. The FAR require that the simulator must maintain its
+approved performance, functions, and other characteristics. All initial, upgrade, and recurrent evaluations
+of any simulator qualified according to the acceptablem ethods of compliance described herein will be con-
+ducted in accordance with the provisions of this AC. Those simulators approved prior to this AC will
+continue to maintain their current qualification as long as they meet the standardsu nder which they were
+originally approved, regardlesso f operator. Any simulator upgraded to Level C or Level D standards,o r
+any visual system or motion system upgrade,r equires an initial evaluation of that simulator, visual system,
+or motion system in accordancew ith the provisions herein.
+13. LOSS OF QUALIFICATION/WITHDRAWAL OF APPROVAL.
+Q, The simulator will lose its qualification under this AC if the NSPM determines that it no longer
+meetst he original simulator validation criteria basedo n a recurrento r speciale valuation.
+b. While not a loss of qualification, the PO1 may withdraw approval for the use of the simulator in
+the approved training program, pursuantt o this AC, when a deficiency is jeopardizing training requirements.
+The PO1 will advise the NSPM that this action has been taken, and together they shall determine if further
+evaluation by the NSPM is required.
+William J. White ”
+Deputy Director, Flight StandardsS ervice
+9

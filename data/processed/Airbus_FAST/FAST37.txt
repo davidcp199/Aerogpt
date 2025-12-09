@@ -1,0 +1,1976 @@
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+7
+3
+T
+S
+A
+F
+37
+D E C E M B E R 2 0 0 5
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+Customer Services
+events
+Just happened Coming soon
+HUMAN FACTORS SYMPOSIUM SPARES,SUPPLIERS & WARRANTY
+REGIONAL SYMPOSIUM
+IN MADRID,SPAIN,28-30 NOVEMBER
+IN ATHENS,13-16 FEBRUARY 2006
+Airbus continued the dialogue with its operators at
+Following the Airbus Spares, Suppliers and
+this forum, discussing human factors aspects with
+Warranty symposium in Puerto Vallarta, Mexico
+practical and operational perspectives on:
+for operators in the Americas, and in Sanya,
+• Flight operations (environmental, safety, pure
+China, for Chinese operators, it is now the turn of
+ops e.g. procedures, philosophy, systems)
+Europe and Africa. A Spares, Suppliers &
+• Maintenance (safety, CRM, organization, proce-
+Warranty regional symposium will be held in
+dures, manuals)
+Athens, Greece, from the 13th to the 16th of
+• Cabin operations (safety, CRM, organization,
+February 2006 bringing together Airbus cus-
+procedures, mass travel, medical aspects)
+tomers, operators and suppliers. Its objective is to
+• Training (to flight operations, maintenance,
+review together strategic directions, operational
+cabin operations, to human factors)
+support issues and current spares and warranty
+• ATC (environmental, safety, pure operations e.g.
+services. Operators will be given the opportunity
+procedures, philosophy, systems)
+to express their requirements and share their expe-
+rience. Major suppliers will also have the opportu-
+A300/A310 FAMILY TECHNICAL SYMPOSIUM
+nity to present their support and services strategy.
+IN LISBON,PORTUGAL,14-18 NOVEMBER
+A landmark event occurred at this symposium,
+A330/A340 FAMILY TECHNICAL SYMPOSIUM
+with the first formal presentation to operators of
+IN SUN CITY,SOUTH AFRICA,28 MAY-2 JUNE 2006
+the Airbus initiatives to ensure Long Term Support Airbus is pleased to announce the date and loca-
+of the A300/A310 Family. The objective of this ini- tion of the next A330/A340 Technical Symposium.
+tiative is to ensure equivalent levels of operator The Symposium is the opportunity to review
+satisfaction for A300/A310 operators as for any actual in-service experience with the A330/A340
+other Airbus programme through to the last air- Family of aircraft as well as to discuss subjects of
+craft being in-service (up to year 2050). Clearly more general technical interest.
+the enhanced support foreseen for the A380 will A provisional agenda will be sent in February 2006.
+set the satisfaction benchmark, and for the
+A300/A310 Family other considerations that affect
+the level of service include the low rate of produc-
+tion (can affect spares availability) and the even-
+tual closure of the final assembly line, which must
+be anticipated. The operators at the symposium
+expressed their view that their expectations for the
+future had been met (61%) or exceeded (39%) in
+this respect.
+The symposium discussion otherwise covered
+various technical, maintenance and support issues
+and 100 participants from 36 operators were pres-
+ent, including all of the largest A300/A310 opera-
+tors. 67% of the operator respondents considered
+the event very useful and 33% useful.
+J U L Y 2 0 0 5
+73TSAF
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+Publisher:Bruno Piquet
+Editor:Kenneth Johnson
+Graphic Designer:Agnès Massol-Lacombe
+Authorization for reprint of FAST articles should be requested
+from the editor at the FAST e-mail address given below
+Customer Services Communications
+Tel: +33 (0)5 61 93 43 88
+Fax: +33 (0)5 61 93 47 73
+E-mail: fast.magazine@airbus.com
+Printer Escourbiac
+FAST may be read on Internet
+http://www.content.airbusworld.com/SITES/Customer_services/index.html
+under Customer Services/Publications
+ISSN 1293-5476
+Airbus Customer Services
+© AIRBUS S.A.S. 2005. All rights reserved
+No other intellectual property rights are granted by the delivery of this Magazine than
+the right to read it,for the sole purpose of information.This Magazine and its content shall
+not be modified and its images shall not be reproduced without prior written consent of Airbus.
+This Magazine and the material it contains shall not,in whole or in part,be sold,rented,distributed
+or licensed to any third party.The information contained in this Magazine may vary over time
+because of future factors that may affect the accuracy of information herein.Airbus assumes no
+obligation to update any information contained in this Magazine.When additional information
+is required,Airbus S.A.S.can be contacted to provide further details.Airbus,its logo and product
+names are registered trademarks.Airbus S.A.S.shall assume no liability for
+any damage in connection with the use of this Magazine and of the materials it contains,
+even if Airbus S.A.S.has been advised of the likelihood of such damages
+Photographs: This issue of FAST has been printed on paper
+exm company: Hervé Goussé and Philippe Masclet produced without using chlorine,to reduce
+Airbus France: Julie Pomery waste and help conserve natural resources.
+Cover page: Julie Pomery Every little helps!
+1
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+D E C E M B E R 2 0 0 5
+37
+Safety initiatives in Customer Services 2
+An overview of Airbus safety initiatives
+Michel Trémaud
+Airbus cabin air quality 7
+Still the best!
+Claire Nurcombe
+The European Aviation Safety Agency 11
+A new regulatory authority for European aviation
+Claude Schmitt
+Engine noise reduction programme 19
+Cover:A380 MSN004 at Frankfurt airport during
+Making aircraft engines better neighbours
+its check exercise, see article on page 23.
+Stephen Montgomery
+A380 23
+Airport ready
+Thomas Burger
+Thilo Stilp
+Airbus Training Airport 28
+A virtual airport for pilot training
+Kheireddine Belguedj
+Bernard Benetti
+Countering jet fuel price increases 32
+Guidance on fuel saving
+Simon Weselby
+Frédéric Desgeorge
+Giants of the skies,past and present 36
+Customer Services
+Around the clock...Around the world 37
+3
+73
+TSAF
+SAFETY INITIATIVES IN CUSTOMER SERVICES - AN OVERVIEW OF AIRBUS SAFETY INITIATIVES SAFETY INITIATIVES IN CUSTOMER SERVICES - AN OVERVIEW OF AIRBUS SAFETY INITIATIVES
+Continued implement safety enhancements in
+terms of Design, Operations (i.e.
+airworthiness and
+procedures) and Training.
+operational safety
+Safety enhancement efforts
+address equally flight operations,
+Operators and Maintenance, cabin operations and mainte-
+Repair and Overhaul (MRO) orga- nance. The lessons-learned
+nizations are required to report to derived from this process are
+their national authorities in-service blended with the conclusions and
+occurrences defined by their coun- recommendations from industry
+try's mandatory occurrence report- working groups in order to devel-
+ing (MOR) scheme. It is essential op and publish safety-awareness
+that such in-service occurrences informationin various media.
+are also reported to Airbus, docu-
+mented, analysed and understood Attaining and
+in order to prevent the reoccur-
+maintaining safe
+rence of known types of eventsand
+the occurrence of potential events. and profitable
+Indeed, this prevention process
+operations
+includes both areactive partand a
+proactive part.
+Support to operators in attaining
+For effective identification of and maintaining safe and prof-
+events precursors (also referred itable operations has been the
+to as weak signals), the proactive charter of Airbus Customer
+part also includes the analysis of Services since the entry-into-
+observations made by operators service of the first A300 aircraft
+in the frame of their flight opera- back in 1975. However, the indus-
+tions monitoring programme (i.e. try has greatly evolved and Airbus'
+incidents and human factors initial operators base of flag carri-
+reports, flight data analysis and ers has been enriched with charter
+line observations). operators and, more recently, low-
+cost carriers and corporate flight
+The operational, technical and departments.
+human factors analysis of in-
+service experience feedback The leased-aircraft concept has
+enables Airbus to continuously been an enabler in this market
+identify lessons-learned and evolution and has created a new
+Airbus Flight Operations Briefing
+Notes,an example of Airbus
+safety-awareness publications
+3
+73
+TSAF
+Safety initiatives
+in Customer Services
+An overview of Airbus
+safety initiatives
+As an aircraft manufacturer, the prime duty of Since 2003, Airbus Customer Services has
+Airbus in terms of safety is two-fold: deployed a yearly portfolio of safety initiatives
+• Ensure the continued airworthiness and that address all aspects of Airbus's internal core
+operational safety of the Airbus fleet, activities and all domains of an airline's operation.
+• Support Airbus operators in attaining and
+maintaining a safe and profitable operation. This article provides an overview of this portfolio
+of safety initiatives to encourage operators and
+The former represents the manufacturer's regula- other actors to take full advantage of these safety
+tory obligation, as Airbus is the holder of a design enhancement opportunities.
+and production operational approval. The latter
+reflects Airbus's commitment, as a customer
+services organization, to operators of Airbus
+aircraft.
+Michel Trémaud
+Senior Director
+Airbus Customer Services
+Head of Safety Management
+2
+SAFETY INITIATIVES IN CUSTOMER SERVICES - AN OVERVIEW OF AIRBUS SAFETY INITIATIVES
+framework of relationships bet- .Company safety management
+ween Airbus, its customers (i.e. the system (SMS),
+leasing companies) and the aircraft . Fleet upgrade and
+operators. The traffic growth in standardization,
+fast-developing geo-economic . English proficiency training.
+regions has been an additional
+driver in the evolution of Airbus Safety
+support to its aircraft operators.
+awareness
+Today, Airbus Customer Services
+offers a wide range of support and Safety management is a mindset;
+services to further enhance operat- safety readiness is a matter of
+ing safety. This support is both awareness… being aware to be
+direct (i.e., working with operators) mentally prepared. Over the past
+and indirect (i.e., working with years, Airbus Customer Services
+national civil aviation authorities, has developed a wide array of
+training organizations, MRO cen- safety awareness publications on
+tres, international safety organiza- various media:
+tions…) and spans the following • 'Getting to Grips with'
+basic elements of a safe operation: brochures that today cover 19
+• Regulations, flight operations themes,
+• Regulatory oversight by including cabin safety,
+national authorities, • Flight Operations Briefing
+• Operator's regulatory Notes, published on a monthly
+compliance and best practices: basis in the Airbus Safety
+. General organization, Library,
+. Flight operations organization (http://www.airbus.com/en/
+(including flight operations corporate/ethics/safety_lib/)
+monitoring process), and in a yearly collector box
+. Maintenance/engineering • E-Briefings,available on the
+organization including Flight Operations Community
+maintenance best practices, of the new airbusworld.com
+spares provisioning and customer portal,
+ground support (http://www.airbusworld.com/)
+equipment/tools, • Videos and CDs.
+5
+73
+TSAF
+SAFETY INITIATIVES IN CUSTOMER SERVICES - AN OVERVIEW OF AIRBUS SAFETY INITIATIVES
+To further ease the dissemination The above set of safety initiatives
+and understanding of complex are intended for the various users
+subjects by all stakeholders, some of Airbus products and their
+of the above safety awareness instructors, but would not be com-
+publications have been translated plete if Airbus were not involved
+into the Chinese and Russian upstream in the basic education
+languages. and training of future Airbus pilots,
+flight attendants and maintenance
+Training and mechanics. Therefore, cooperation
+programmes with state technical
+education
+universities, flight academies and
+flying colleges have been devel-
+Maintaining the link with operators oped in China and North America,
+after their type qualification, in one while similar programmes are cur-
+of the Airbus Training centres, is an rently being developed in Russia,
+important element of Airbus' safety Ukraine, India, South Africa and
+awareness strategy. In 2004, Airbus Australia.
+created the concept of regional
+Airline Instructors Seminars to pro- The objective of these programmes
+mote the continued exchange of is to provide students and cadets
+teaching and safety information with early exposure to modern
+between Airbus instructors and air- technology systems and flight
+line instructors. The following is the decks, by providing education and
+regional coverage achieved by these training organizations with:
+seminars in 2004 and 2005, and • Technical documentation and
+planned for 2006: safety awareness publications,
+• 2004: Taipei, Mumbai, Beijing, • Courseware,
+• 2005: Miami, Moscow, Hanoi, • Training devices.
+• 2006: Bangalore, Tunis, Beijing,
+plus locations to be selected in International
+the Middle East, Asia and South
+safety cooperation
+America.
+Acknowledging the requests of Airbus Customer Services is also
+operators, the initial concept that further involved in the develop-
+focused on flight operations has ment of workshops and seminars
+been extended to maintenance that are deployed in the context of
+from the last seminar in Hanoi. regional safety cooperation pro-
+grammes funded or led by the
+European Union, the International
+Civil Aviation Organization
+(ICAO) and Airbus.
+5
+73
+TSAF
+1
+2
+3
+4
+Flight Operations Briefing Notes
+collector box, brochure‘Getting to Airbus Training centres in
+Grips’in Chinese and Russian 1.Beijing
+languages,safety-awareness tutorials 2.Hamburg
+and courseware on CDs. 3.Miami
+4.Toulouse
+Airbus Safety Library home page
+hosted on the Airbus corporate
+website E-Briefings,a new interactive
+safety-awareness publication
+4
+The scope of these workshops and • Cabin operations
+seminars are defined to respond to . Cabin safety (see brochure
+regional needs and priorities. ‘getting to grips with Cabin
+As described below, they address a Safety’below).
+large cross-section of themes
+identified as causal or contributing
+factors in incidents and accidents:
+• Company safety management
+. Incident/accident prevention,
+. Safety Management System
+(SMS).
+• Flight operations
+. Preventing Controlled Flight
+Into Terrain (CFIT),
+. Approach and Landing
+Accident Reduction (ALAR),
+. Flight operations safety
+awareness (CFIT, ALAR,
+runway incursions, altitude
+deviations/level busts,
+fire/smoke/fumes in
+cockpit/cabin, weather
+avoidance, …),
+. Flight Operations Monitoring • Maintenance/Engineering
+(FOM), . Structural integrity/
+. Understanding and use of the maintenance of aging aircraft
+Minimum Equipment List structures,
+(MEL). . Maintenance of electrical,
+wiring and interconnections,
+. Maintenance human factors.
+73
+TSAF
+SAFETY INITIATIVES IN CUSTOMER SERVICES - AN OVERVIEW OF AIRBUS SAFETY INITIATIVES AIRBUS CABIN AIR QUALITY - STILL THE BEST!
+Airbus cabin
+air quality
+Still the best!
+Frequent flyers experience it regularly, flight After carrying out air quality analyses (see
+attendants and cockpit crew complain about it, but FAST 20 December 1996 'Airbus Cabin Air
+up until now nothing was done about it - that Quality - Only the Best!') and discovering that air
+smell coming from the exhausts of aircraft in front quality was worst during ground phases due to
+of you in the taxi queue waiting to take off. The the influence of external pollution, Airbus decid-
+CONTACT DETAILS major odour causing compounds in exhaust gases ed to concentrate on finding an answer to these
+and fuels are from the family of compounds complaints.
+Michel Trémaud known as VOCs (volatile organic compounds) and
+Senior Director
+they can really spoil that holiday feeling.
+Airbus Customer Services
+Head of Safety Management
+Tel:+33 (0)5 61 93 30 04
+Fax:+ (33) (0) 5 67 19 12 24
+michel.tremaud@airbus.com
+An accident investigator once said, his/her own contribution to aviation safety,
+'Safety is leaving no stone unturned' but aviation safety has been built from,
+to identify threats that may lie hidden on and is continuously enhanced by,
+the path to safety. Safety enhancement successive building blocks. All of them -
+Claire NURCOMBE
+initiatives must involve a mosaic of efforts small or large - contribute to making our ECS Engineer
+and cooperation programmes. safe aviation transportation system even Customised Systems
+None of us will ever be able to measure safer. Airbus Deutschland
+7
+73
+TSAF
+Installation 72%
+Maintenance human factors: understanding
+Servicing 9%
+and managing human errors
+Job set-up preparation 3%
+Test 2%
+Human movement 2%
+Removal 1%
+Others 11%
+Conclusion
+6
+Tapping points were installed In order to test the odour intensity
+upstream and downstream of the and hedonic tone (the tone des-
+catalyst where air samples could be cribes how pleasant the odour is),
+taken (see figure above). as well as the overall perceived air
+quality, test panels made up of
+In a quantitive analysis the iso- members of the public were given
+alkanes (a specialist term for com- questionnaires to rate how the air
+pounds consisting of chains of car- smelt upstream and downstream of
+bon molecules) were measured and the catalyst. The panellists had to
+it could be clearly seen that the rate how strong the odour was at
+longer carbon chains present different concentrations and tem-
+upstream of the catalyst were being peratures, and also whether it smelt
+broken down (see figure below). pleasant or not. After the overall air
+This proved that the catalyst was quality was judged by the panel-
+having an effect on the compounds lists they were asked to judge
+within the vapour, however this whether they could smell fuel
+type of analysis does not show odours in the air sample.
+whether the catalyst was effective-
+ly reducing odour. In addition to this human 'sniff'
+testing, samples were taken for the
+While the chemistry may seem GC-O analysis. For this the air
+simple, the human nose is not and sample is analysed by a GC-MS
+it was necessary to pursue some (gas chromatography - mass spec-
+additional testing to make sure trometry) analyser with a modified
+that the converter was not leading off-take. A GC-MS analysis pre-
+to more odorous by-products sents the full chemical spectrum
+being produced. To do this human of a sample, allowing the chemist
+noses were used, as well as elec- to see which individual compounds
+tronic analysers, in panel tests, are present. The GC-O analyser
+and GC-O (gas chromatography - additionally allows the flavour
+olfactometry) tests. chemist doing the analysis to
+9
+73
+TSAF
+AIRBUS CABIN AIR QUALITY - STILL THE BEST! AIRBUS CABIN AIR QUALITY - STILL THE BEST!
+Catalyst
+Fuel vapour Odourless
+molecules molecules
+Tapping points
+Nose testing and electronic analysis.
+With thanks to the Fraunhofer Institute for
+Building Physics
+*Cx is the number
++% Uncoated matrix of carbon atoms
+present in the
+carbon
+chain.
+Coated matrix
+-%
+Increasing Cx *
+9
+73
+TSAF
+Current standards with small amounts of other
+Experimental set-up
+compounds, such as sulphur.
+Hydrocarbons are a class of com-
+Ozone Converters (OZC) have pounds made up of hydrogen and
+been standard equipment for air- carbon combined in molecular
+craft for over 10 years and optional chains. These compounds are pre-
+equipment for 20 since it was sent in very small amounts, but
+found necessary to introduce due to the sensitivity of the human
+ozone removal capability after the nose the cabin occupants can
+first trans-Pacific flights in the smell them, even down to levels of
+mid-70's. The OZC is installed as a couple of parts per trillion of the
+standard equipment on A330/A340 compound.
+Family aircraft and the A380, and
+is increasingly being chosen as an The catalyst coating is applied to a
+option for the A320 Family. It was core within the converter's body
+therefore decided to investigate the and oxidizes these odorous com-
+possibility of developing a new pounds, resulting in the formation
+catalyst to remove both ozone and of odourless water (H2O) and car-
+VOCs. Airbus suppliers rose to the bon dioxide (CO2) as reaction
+challenge and developed a new cat- products (see figures below). Since
+alyst to remove these odours, VOCs are present in very low con-
+which could be combined with the centrations the amount of water
+existing ozone removing catalyst to and carbon dioxide created by the
+minimize installation costs and conversion process is small.
+weight impact.
+Test methods
+The conversion
+principle To investigate the performance of
+the catalyst the VOC containing
+vapours from an aircraft fuel sam-
+Catalyst and core structure
+The VOCs entering the bleed air ple was passed over the catalyst.
+supply via the engines may come VOCs may come from many
+from ground service vehicle sources, however fuel vapour was
+exhausts or engine exhausts selected to provide a realistic mix
+of other aircraft and mostly con- of contaminants that may be pre-
+sist of hydrocarbons (HC) mixed sent in contaminated airport air.
+Catalytic reaction
+Percentage difference for iso-alkanes
+up/down-stream of the catalyst
+Hot bleed air O2
+Oxygen O2
+H2O
+Water H2O CO2
+H2O
+Carbon dioxide CO2
+Odorous hydrocarbons (VOCS) HC
+8
+73
+TSAF
+EASA - A NEW REGULATORY AUTHORITY FOR EUROPEAN AVIATION
+The European
+Aviation Safety
+Agency
+A new regulatory authority
+for European aviation
+CONTACT DETAILS
+The formation of the European Aviation Safety It all started in 1969, when aerospace industry
+Claire NURCOMBE
+Agency (EASA) was the result of a longstand- leaders, conscious of the importance of inter-
+ECS Engineer
+Customised Systems ing request from European industry, going national co-operation for future aeronautical
+Airbus Deutschland back to 1969.EASA has now been in operation programmes, prompted AECMA, their
+since October 2003, so this is an appropriate European trade association*, to submit a
+Phone:+49 (0)40 743 83293
+time to take both a global and a closer look at request to the main European aviation certifi-
+Fax:+49 (0)40 743 73787
+Conclusion this new institution, see how it is established cation authorities, asking them to cooperate
+claire.nurcombe@airbus.com
+and understand its role and actions in relation and adopt common airworthiness certification
+to Airbus products. requirements.
+Still the best! This technology will become standard
+equipment for future aircraft programmes.
+Airbus is the first aircraft manufacturer to With the VOZC installed, and improved
+integrate this technology into their aircraft. cabin air quality on ground for crew and
+The installation of the combined VOZC is passengers, airlines will soon be 'smelling'
+Claude Schmitt
+available as an option for the A320 and the benefits of Airbus' dedication to Senior Director Strategies & Policies
+A330/A340 families and the A380. innovation. Engineering-Product Integrity
+11
+73
+TSAF
+AIRBUS CABIN AIR QUALITY - STILL THE BEST!
+identify the type of odour of the ozone converter equipment, mean-
+individual odorous compounds. ing minimal weight and mainte-
+The flavour chemist uses his or her nance impact for operators.
+trained nose to identify each odor-
+ous compound and give a descrip- The combined converter has the
+tion, such as 'green', 'citrus', or same maintenance requirements as
+Combined VOC/Ozone Converter 'roasty' to it. These descriptions can for the ozone converter and the two
+(VOZC) for A320
+then be compared to the known converters are fully interchange-
+odorous characteristics of chemi- able (although of course the odour
+cals and the compounds that are removing function is lost if
+causing the odour can be identified. exchanged for a standard ozone
+A perceived air quality improve- converter).
+ment of 80% and a significant
+reduction in the odour intensity was The modification is optional for
+confirmed during the testing. A320, A330/A340 families and the
+A380, although introduction as
+standard equipment for the A380 is
+Entry into service
+planned. The combined Ozone
+/VOC Converter (VOZC) will also
+The new odour removing function be standard equipment for future
+is integrated into the existing Airbus programmes.
+OZC and VOZC data for aircraft programmes
+* The AECMA association
+has now merged with
+European trade
+associations of space and
+defence industries to form
+the Aerospace and
+Defence Industries
+Association of Europe
+(ASD).
+10
+13
+73
+TSAF
+EASA - A NEW REGULATORY AUTHORITY FOR EUROPEAN AVIATION EASA - A NEW REGULATORY AUTHORITY FOR EUROPEAN AVIATION
+Aviation Safety Agency (EASA)
+and defines the agency's general
+organization and tasks.
+THE OBJECTIVES
+The main objective of the Basic
+Regulation is to ensure a high, uni-
+form, level of safety of civil aviation
+in Europe. Additional objectives, in
+line with general EU objectives and
+principles, have also been added,
+concerning environment protection,
+free circulation of products, ser-
+vices and persons, improved cost-
+efficiency, assistance to member
+states and promotion of European
+positions concerning aviation safety
+rules and standards.
+LEGAL COMPETENCE AND
+REGULATORY POWER
+The legislative level (EU Council
+and Parliament), through the Basic
+Regulation, defines the scope of • Verification of correct and uni-
+powers being transferred to the form implementation of Basic
+Community, adopts the essential Regulation and common rules
+requirements specifying the objec- by member states
+tives to be met, allocates the exec-
+utive tasks among the executive The decision and plan to transfer
+actors, and establishes the means the responsibility on rules govern-
+of judicial control. At the executive ing aircraft operations and qualifi-
+level, standards necessary for the cation of relevant personnel is
+implementation of the Basic Regu- already stipulated in the Basic
+lation may be adopted by either Regulation, while provision is
+the European Commission (imple- made for the subsequent transfer of
+menting rules) or by EASA (certi- rules concerning safety of air traf-
+fication specifications, acceptable fic control and airports (a new EU
+means of compliance). See Parliament and Council decision is
+‘General scheme’. necessary in this case).
+THE TRANSFER OF
+EASA functions
+LEGAL COMPETENCE
+Since 28 September 2003, legal EASA is in charge of drafting all
+competence and power have been future regulations relative to avia-
+transferred from member states to tion safety (for adoption by EASA
+the EU for: itself or for submission to European
+• Rules governing the Commission orParliament/Council)
+airworthiness of aircraft and and is responsible for compliance
+related products (type design, verification tasks associated with
+continued airworthiness, some of these regulations.
+maintenance organizations and
+personnel) The agency is also responsible for
+• Compliance determination for the coordination of research on avi-
+aircraft product designs and ation safety and assists the
+issuance of relevant type European Commission on a num-
+certificates ber of aspects, including the
+13
+73
+TSAF
+The authorities responded very European aviation safety require-
+What will EASA do
+positively and created in 1970 ments (no national differences or
+what would subsequently be called variants), and for a single process
+the Joint Aviation Authorities to obtain, from one authority only,
+(JAA), developing harmonized certificates and approvals having
+technical requirements (the Joint full validity throughout Europe.
+Aviation Requirements - ‘JARs’)
+with the support and contribution A number of solutions were
+General scheme of industry expertise. explored and many milestones
+passed before the governments of
+the European Union (EU), in
+March 2000, finally instructed the
+European Commission to negotiate
+the establishment of a new EU
+agency that could provide the
+effective, recognized, single
+authority requested by the various
+stakeholders concerned with avia-
+tion safety regulation.
+This process was finally completed
+with the adoption, on 15 July 2002,
+of the regulation ‘on common rules
+in the field of civil aviation and
+establishing a European Aviation
+Safety Agency’(referred to as the
+‘Basic Regulation’ in the follow-
+ing) by the EU Council and
+Parliament.* What will EASA not do
+* Regulation (EC) N°1592/2002 of the European However, despite the successive
+Parliament and of the Council,on common rules in the scope extensions (maintenance, The Basic
+field of civil aviation and establishing a European Aviation operations, licences) and proce-
+Safety Agency (15 July 2002). Regulation and
+dural improvements brought into
+the JAA system, it could not be the European
+legally empowered to fulfil the
+institutional context
+requests for a single set of binding
+Responsibility splitting between EASA and NAAs Within the framework of existing
+EU treaties and institutions,
+the Basic Regula-
+tion is setting up the
+organization of
+Community compe-
+tence for aviation
+safety. It constitutes
+a ‘European Avia-
+tion Safety Act’,
+which sets funda-
+mental objectives,
+establishes and
+organizes the exer-
+cise (and, if neces-
+sary, the transfer) of
+legal competence
+and regulatory pow-
+ers on aviation safe-
+ty matters in the
+EU. Finally, it estab-
+lishes the European
+12
+15
+73
+TSAF
+EASA - A NEW REGULATORY AUTHORITY FOR EUROPEAN AVIATION EASA - A NEW REGULATORY AUTHORITY FOR EUROPEAN AVIATION
+any airworthiness directive affect-
+ing a product and any design orga-
+nization approval or change thereof
+are now approved under the direct
+responsibility of the agency.
+During the transition phase, until
+the agency has built up sufficient
+in-house resources and expertise to
+carry out these tasks entirely on its
+own, EASA will rely on the NAAs
+which will provide assistance to
+ensure the continuity of certifica-
+tion tasks during the establishment
+phase of EASA. EASA and the
+NAAs are accordingly negotiating
+contractual outsourcing arrange-
+ments for this purpose.
+EASA has joined the JAA organiza-
+tion as a member and will represent
+EU member states in the JAA sys-
+tem, which is still developing oper-
+ations and crew licensing rules
+(pending taking over of these
+aspects by EASA). JAA member
+states will accept EASA certifica-
+tions and adopt the same require-
+ments, to avoid any duplication or
+divergence. A contract between the
+two organizations also allows
+EASA to rely on the expertise and
+experience of the JAA central office
+for a number of regulatory tasks.
+The funding
+of EASA
+The Basic Regulation stipulates
+that EASA’s budget will be funded
+by resources provided by a contri-
+bution from the EU and by charges
+levied from applicants to cover the
+costs related to its certification and
+oversight tasks.
+The EASA fees and charges sys- charging systems in each of the
+tem is the subject of a specific reg- member states (from free of charge
+ulation, which has been adopted by to full cost recovery from appli-
+the European Commission. In cants). An agreement has therefore
+doing so, the Commission has been been reached with the advisory
+faced with the difficulty of evaluat- board that the EASA fee structure
+ing the future workload involved and levels will be reconsidered
+for a number of tasks, and with the annually during the first 4 years.
+impossibility of making credible This will be done against the
+comparisons with the previous results of a detailed analytical
+situation characterized by com- accounting system, to examine
+pletely different cost recovery and the balance between tasks and
+15
+73
+TSAF
+inspections to be conducted in the composed of all professions con-
+EASA organization,the main factors
+member states to check the uni- cerned - the advisory board, has
+form implementation of the regula- been established and is being con-
+tions in Europe. Some of the tasks sulted regularly by the manage-
+related to the implementation of ment board prior to decisions
+regulations remain with National affecting interested parties. The
+Aviation Administrations (NAAs), advisory board may also formulate
+which requires a sharing of respon- positions, requests or proposals on
+sibilities between the agency and its own initiative.
+these administrations. A summary
+of what the agency will or will not While recourse to the EU Court of
+do and the sharing of responsibili- Justice always remains possible in
+ties is provided on pages 12 and 13. case of disagreement with an
+EASA decision, a board of appeal
+The structure is established as a built-in appeal
+process, which provides for a faster
+and organization
+resolution of disputes by indepen-
+of EASA dent experts.
+EASA is controlled by a manage- The EASA executive director was
+ment board, which comprises repre- recruited in September 2003 by the
+sentatives from each of the 25 EU management board, which also EASA organization chart
+member states, from the European endorsed the nominations of the
+Commission and from observers four directors heading the agency's
+(non EU member states having main functions (certification, rule-
+negotiated agreements with the EU). making, quality & standardization
+See EASA membership figure. and administrative) on his proposal.
+EASA is currently pursuing a
+In accordance with the Basic recruitment and staffing campaign
+EASA membership Regulation, a consultative body for its four directorates, and it is
+expected that, after having reached
+a level of around 100 staff at the end
+of 2004, the agency will expand its
+resources to around 200 staff by the
+end of 2005. The agency's final
+level of staffing should be reached
+at the end of 2006 (assumed to be
+approximately 300 persons).
+The EASA headquarters moved to
+Köln in Germany in November
+2004 and the agency's organization
+and structure are summarized in
+the figure on the right.
+Transition and
+relations between
+former JAA/NAAs
+system and EASA
+EASA has taken over member
+States responsibility for issuing
+certificates for aeronautical
+products and organizations. This
+means that since 28 September
+2003, any product design, any
+modification or repair to a product,
+14
+17
+73
+TSAF
+EASA - A NEW REGULATORY AUTHORITY FOR EUROPEAN AVIATION EASA - A NEW REGULATORY AUTHORITY FOR EUROPEAN AVIATION
+revenues, confirm or correct Regulations No. 1702/2003 and
+assumptions made, and adjust the 2042/2003 (See figure below).
+level of charges for the following Commission Regulation No.
+year. 1702/2003 provides, as an annex,
+the Part 21 implementing rule,
+The EASA fees and charges regu- dealing with the certification pro-
+lation entered into force on 1 June cedures for products, parts and
+2005 and transitional arrangements appliances (type certificates cover-
+should be such that any double ing airworthiness, noise and emis-
+charging of applicants is avoided sion requirements, approval of
+as EASA moves to the new parts and appliances, individual
+charging system. certificate of airworthiness, per-
+mits to fly, restricted certificates)
+The new European as well as related organization
+approvals (design and production).
+regulatory context
+Similarly, Commission Regulation
+To allow EASA to take over No. 2042/2003 provides, in several
+responsibility from 28 Sept 2003 annexes, the implementing rules of These new regulatory parts are ‘acceptable means of compliance’
+for product airworthiness and Part M (continued airworthiness of essentially based on former equiv- (‘Book 2’, equivalent to former JAR
+environmental aspects, which individual aircraft), Part 145 (orga- alent JAA JARs and associated sections 2 and 3). See figures above
+includes both certification and nizations involved in large and/or acceptable means of compliance and right.
+maintenance (continuing airwor- commercially operated aircraft), and guidance material, with the
+thiness) aspects, the prior adop- Part 66 (aircraft maintenance exception of Part M (which has no An important difference from the
+tion of relevant implementing licence for staff allowed to issue former equivalent JAR, as these former JAA system is that member
+rules by the Commission was certificates of release to service), aspects were addressed by indi- states may no more deviate from
+necessary: this was achieved with and Part 147 (maintenance training vidual member states and not by common rules, impose additional
+the adoption of Commission organizations). JAA). While the same paragraph requirements, nor conclude arran-
+numbering system is retained, gements with third countries.
+slightly different numbering is
+visible in the new parts, which EASA working
+contain not only the applicable
+procedures
+technical requirements (Section
+A) but also the procedures to be
+applied by NAAs (Section B) in The EASA Management Board has
+cases where they are in charge of adopted general principles that will
+implementing the relevant rules in govern the agency activities con-
+their territory (examples of Parts cerning rulemaking and certifica-
+21 and 145 numbering compared tion of products and organizations.
+to former JAR rules are shown Detailed procedures, in line with
+above. these principles, have been, or will
+soon be, developed by the agency
+Each of the above-mentioned EC itself for both rulemaking and cer-
+regulations also contains, for each tification activities.
+of the relevant parts, the modalities
+by which former certificates and For rulemaking activities, EASA is
+approvals, issued by NAAs in assisted by the Safety Standards
+accordance with former JAA or Consultative Committee (SSCC,
+national requirements and proce- representatives of interested par-
+dures, are automatically ‘grandfa- ties) and the Advisory Group of
+thered’and transferred into EASA National Authorities (AGNA, the
+certificates and approvals. representatives of NAAs) for the
+determination of rulemaking pri-
+For product certification require- orities and work programmes, and
+ments EASA has adopted the more generally the implementa-
+‘Certifications Specifications’(CS) tion of rulemaking activities.
+composed of the applicable ‘airwor- ‘Drafting groups’ may be called
+thiness code’(‘Book 1’, equivalent to prepare proposed texts, and in
+to former JAR section 1) and any case, a public consultation
+17
+73
+TSAF
+IR 21 architecture IR 145 architecture
+Rulemaking in EASA context
+Certification specifications
+Basic Regulation Annex I : Essential Requirements for Airworthiness Agency
+Regulation (EC) 1592/2002 of 15 July 2002 Annex II : Excluded Aircraft Opinion
+Regulation (EC) 1702/2003 on Airworthiness Regulation (EC) 2042/2003 Agency
+and Environmental Certification on Continuing Airworthiness Opinion
+Annex (Part 21) Section A: application requirements Annex I (Part-M): Section A: application requirements
+Section B: administrative procedures Continuing Airworthiness Section B: administrative procedures
+Requirements
+Appendices: EASA forms Appendices: EASA forms
+Annex II (Part-145):
+Parliament and Council
+Maintenance Organization Approvals
+European Commission
+Annex III (Part-66):
+Certifying Staff
+EASA
+Annex IV (Part-147):
+Training Organization Requirements
+Guidance Material Certification AMC & Guidance Material Agency
+Specifications
+CS, AMC & GM Part 21 Part M, 145,66,147
+AMC 20 CS AWO CS 22
+AMC 21 CS ETSO CS 23
+CS 25 CS Definitions CS 27
+CS 34 CS 29
+CS 36 CS VLA
+CS E CS VLR
+CS P
+CS APU
+16
+73
+TSAF
+EASA - A NEW REGULATORY AUTHORITY FOR EUROPEAN AVIATION ENGINE NOISE REDUCTION PROGRAMME -MAKING AIRCRAFT ENGINES BETTER NEIGHBOURS
+process is to be followed (NPA: International
+Notice of Proposed Amendment).
+relations, bilateral
+Similarly, detailed certification
+procedures for both products and agreements
+organizations have been prepared
+and published by the agency. Interested parties have requested
+that every step of EASA establish-
+Finalization ment be carefully made so as not to
+disturb the validation of European
+of transition
+certifications and approvals by for-
+and achievement eign, non-European, authorities
+and the international exchange of
+of remaining
+aeronautical products and services.
+EASA objectives In particular, industry has insisted
+on the necessity for the European
+Community to conclude appropri-
+Naturally, industry is carefully ate bilateral agreements with for-
+watching the establishment phase eign countries, in particular with
+of EASA and the transition from the USA. Negotiations are pro-
+the former JAA/NAAs system, gressing between the European
+with particular attention paid to Commission, EASA and a number
+the necessity of maintaining the of foreign authorities, and working
+availability of the necessary arrangements are already agreed
+authority expertise during and with a number of them.
+after this build-up phase. This
+requires careful management of a No significant difficulties have
+pool of sharable expertise, with been noted so far in the interna-
+appropriate sharing of this tional exchange of products and
+resource with national authorities, services, probably owing to the
+during the whole transition phase, fact that it has generally been
+until the agency is in a position to agreed that existing bilateral agree-
+fulfil its responsibility and con- ments will remain valid as long as
+duct all tasks with its own necessary until replaced by new
+resources. agreements with the EU/EASA.
+Not long after the creation of the first regular timeframes where aircraft could not land or
+air service between London and Paris, the res- take-off. These types of restrictions are still in
+idents of both cities started complaining about place today, both in London and Paris, as well
+aircraft noise. The arrival of the jet age exacer- as most other airports around the world. The
+bated the problem, Parisians and Londoners newer types of restrictions have become more
+living under the flight paths took their cases to complex, with different restrictions and land-
+higher governmental bodies. The result was ing fees enforced depending on the certified
+the introduction of operational restrictions and noise level of an aircraft.
+Stephen Montgomery
+Technical Manager
+Engineering Centre of Competence Powerplant
+19
+73
+TSAF
+Engine noise
+reduction programme
+Making aircraft engines
+better neighbours
+CONTACT DETAILS
+Claude Schmitt
+Senior Director
+Strategies & Policies
+Engineering-Product Integrity
+Tel:+33 (0)5 62 11 82 57
+Fax:+33 (0)5 61 93 42 71
+Conclusion claude.schmitt@airbus.com
+In line with the longstanding European accompanying the restructuring of the
+industry principle of maintaining one level European aerospace industry.
+of safety for air transport throughout
+Europe, the establishment of EASA is Airbus and the whole European industry
+considered by industry to be the logical are placing great hopes in EASA, which
+final step to pursue the achievement they consider potentially to become the
+reached by the former JAA system and best aviation safety system for Europe
+transform it into a more coherent and and a model for the world, as well as an
+efficient system, applying the principles of efficient partner of their future
+European Community treaties and development.
+18
+21
+73
+TSAF
+ENGINE NOISE REDUCTION PROGRAMME -MAKING AIRCRAFT ENGINES BETTER NEIGHBOURS ENGINE NOISE REDUCTION PROGRAMME -MAKING AIRCRAFT ENGINES BETTER NEIGHBOURS
+fairings were also modified to temperature resistant material. The
+include acoustic treatment. The idea was to utilize the current noz-
+result was an increase in the zle lines as much as possible to
+acoustic area of the thrust reverser ensure a new chevron nozzle could
+by approximately 2 square meters be easily fitted onto existing
+(21.5 sq ft). engines, without modification of
+the actual engine hardware.
+This increase would provide signif-
+icant noise reduction, but would
+Chevron nozzle
+not be enough.
+design challenges
+Next, the specialists turned their
+thoughts to the exhaust nozzle. The
+CFM engine nacelle has a separate Through model testing, it became
+flow short duct nacelle, which apparent that the chevrons had a
+means that the bypass air and the jet small but measurable effect on
+(or core air) stay separated until engine performance. This perfor-
+right at the exhaust of the engine mance impact would have to be
+where the two flows meet. These countered to ensure that the end
+two regions of air are moving at result would be no difference in the
+very different velocities, the core air operation of the aircraft, i.e. the
+being at much higher temperature operation of the engine and the
+and velocity than the bypass air. The basic engine reaction to control
+resulting difference in energy caus- commands would not be different
+es shock waves, and shear, which from the pre-chevron nozzle
+result in noise. This is typically the standard. The answer was to intro-
+highest noise source created by a duce a thrust compensator, which
+modern high bypass jet engine. thanks to the CFM FADEC (Full
+Authority Digital Engine Control)
+If the core airflow is distorted and simply required a software modifi-
+mixed into the bypass air there are cation and a way of identifying to
+less shock waves and hence the the aircraft when a chevron nozzle
+sound generated is reduced. was fitted. This is currently done
+However, distorting the flow of core through a FADEC software change
+air can have a significant affect on and a programmable engine data
+engine behaviour, especially for plug, which has push-pull pins
+performance and fuel efficiency. allowing a discrete to be set on or
+Any modification in this area would off for the thrust compensator.
+have to be rigorously tested for Additional verification from the
+effects on engine surge margin, MCDU (Multifunctional Control
+Exhaust Gas Temperature (EGT) and Display Unit) allows program-
+and Specific Fuel Consumption ming on the aircraft side to tell the
+(SFC) amongst others. system a chevron nozzle is fitted,
+allowing a check between aircraft
+Any distortion in this area there- and engine to be made. This
+fore needs to be performed in a ensures that the thrust compensator
+subtle manner. Studies on core logic is only applied when a
+chevron nozzles had shown good chevron nozzle is fitted.
+results from analysis, however
+model testing would be required to The result is full interchangeability
+ensure the analytical results could and mix-ability of the chevron noz-
+be proven in the real world. The zle on A320 Family aircraft.
+model tests could demonstrate the
+effects the chevrons would have on Another of the design challenges
+performance, but were subject to was durability. The introduction of
+the usual scatter associated to the chevrons meant that there were
+model testing. The existing nozzle now ‘petals’of material in the hot
+on the CFM56 engine is a two- air stream, which are subjected to
+piece construction made from high high thermal stresses as well as high
+21
+73
+TSAF
+Modern jets are much quieter than an A322 or A317 aircraft to be cer-
+those first jet aircraft, thanks to tified after 2006, and not to current
+increasing technology in both aircraft.
+engine design, with higher by-pass
+ratios and better internal aerody- During initial discussion by the
+namics, combined with improved ICAO council (where Airbus was
+nacelle design, increased sound represented), it was clear to Airbus
+absorption and flow mixers. and CFM that Stage 4 would quick-
+ly become the reference standard
+Nevertheless, Airbus, in associa- by which all aircraft are measured.
+tion with the major engine and Therefore, even before the noise
+nacelle manufacturers, constantly reduction target was known, Airbus
+strives to reduce aircraft noise to and CFM launched initial design
+Take-off and landing/certification conditions meet the requirements of both the studies targeted to be introduced on
+public and the environmental the current A321 aircraft powered
+authorities. by CFM engines. This would allow
+reduction of A320 Family noise
+levels to whatever the Stage 4 noise
+requirements would be.
+ICAO annex 16 certification
+Take-off and landing profiles
+Airbus and CFM, along with
+nacelle manufacturer Goodrich
+Aerostructures Group (GAG),
+started investigating ways to
+reduce the noise signature of the
+engine. The particular concern was
+for the A321 aircraft at the highest
+MTOW (Maximum Take Off
+Weight), as the other members of
+the A320 Family already had a very
+good margin over Stage 3.
+Nevertheless, it was clear that all
+modifications would have to be
+interchangeable across the entire
+Airbus A320 Family fleet to ensure
+part interchangeability and mix-
+ability was maintained.
+Noise is measured as the level of
+Thrust reverser increased acoustic area
+acoustic pressure variations (SPL:
+Sound Pressure Level) and its unit Where to look?
+is the dB (decibel). In certification,
+to take into account the duration
+effect of an aircraft flyover and the Two major areas of improvements
+presence of audible pure tones or in acoustics were identified, these
+discrete frequencies in the noise were both associated with the
+signal, aeronautics uses the EPNL exhaust or jet noise of the engine.
+(Effective Perceived Noise Level),
+expressed in EPNdB. The thrust reverser structure was
+acoustically treated along approxi-
+Increasing pressure from the public mately half of its internal surface.
+and governing bodies resulted in It was clear that increasing this
+the ICAO (International Civil acoustic area would increase the
+Aviation Organization) declaring a acoustic sound absorption and
+new noise regulation – Stage 4. hence decrease the overall measur-
+able exhaust noise. The inner fixed
+Stage 4 requirements only apply to structure was redesigned with
+new or derivative aircraft, for increased acoustic area. In addi-
+example, if Airbus were to develop tion, the support struts and several
+20
+73
+TSAF
+ENGINE NOISE REDUCTION PROGRAMME -MAKING AIRCRAFT ENGINES BETTER NEIGHBOURS A380 - AIRPORT READY
+A380
+Airport ready
+With the entry into service of the A380 less after the A340-600 visited to do the same
+than a year away, preparations by the lead air- before its entry into service. It was no coinci-
+lines and airports to receive the aircraft are in dence however that the A380 arrived, was han-
+full swing. The coming months will see the dled and departed using almost the same infra-
+culmination of many years of collaboration structure, procedures and equipment that the
+between Airbus and the airport community, A340 did four years earlier.
+all focused on ensuring a smooth entry into
+service. Many aspects of the A380 design have been
+driven by airport compatibility considerations,
+To ensure that Airbus customers receive a reli- thus minimizing the amount of adaptation, and
+able, mature aircraft with the capability to fit hence investment, required by airports to
+seamlessly into their existing ground opera- accommodate the aircraft. The main aim of
+tions environment, early dialogue with all this design optimization was to ensure that the
+stakeholders involved in airport operations A380 could be handled in the most part just
+was essential. This has been recognised on all like any other widebody aircraft. It was this
+Airbus aircraft programmes, and for the A380, capability that was validated by the tests at
+the extensive consultation is now paying divi- Frankfurt, which consisted of both an airside
+dends. On 29 October, at 08:56, A380 and landside element. The following describes,
+MSN004 touched down at Frankfurt Airport to with figures from the tests, the process of han-
+perform the first of a series of airport check dling the A380 and its similarities with other
+exercises, coincidentally 4 years to the day widebody aircraft.
+Thomas Burger Thilo Stilp
+Product Marketing Manager Group Manager
+A380 Product Marketing Ground Operations & Environment
+A380 Programme
+23
+73
+TSAF
+aerodynamic loads. The structure For a new certification of aircraft
+would have to be designed to ensure noise, there are certain weather
+full life. Extensive testing both on characteristics, which must be
+an engine in a test cell, as well as adhered to. There is a narrow band
+fully instrumented flight testing, of climatic conditions, which
+allowed GAG to correlate a detailed means flight testing can only be
+finite element model of the chevron performed at certain times of the
+nozzle. This model was then used year, to be certain of catching these
+Chevron nozzle thermal & stress analysis to demonstrate full life capability at weather conditions.
+all the extremes of the operating
+envelope of the aircraft. A production A321 was used for
+acoustic certification flights at an
+The test airport specially selected for its
+ideal weather conditions, which
+increased the chances of having
+During their development, the ‘good’weather.
+actual noise reductions resulting
+from the improvements could only The flight test provided good
+be estimated. The flight effects, results with the high weight A321
+particularly for the chevron noz- having an 11.2 EPNdB noise
+zle, could not be fully represented reduction compared to Stage 3,
+by model analysis. Therefore, the which is 1.2EPNdB below the
+true result would come only from Stage 4 requirements.
+flying the aircraft in the correct
+configuration in front of the
+airworthiness authorities.
+CONTACT DETAILS
+Stephen Montgomery
+Technical Manager
+Engineering
+Centre of Competence
+Powerplant
+Tel:+33 (0)5 62 00 03 00
+Conclusion Fax:+33 (0)5 61 93 49 08
+stephen.montgomery@airbus.com
+The Airbus and CFM view at the time was aircraft with this modification package are
+correct; Stage 4 has now become the easily identified as having associated lower
+reference standard to which all aircraft are noise characteristics and therefore being
+measured. With the application of the more environmentally friendly.
+noise reduction programme the A321 can
+join its A320 Family stable-mates in being The acoustic benefits for the other A320
+the quietest aircraft in service today. Family members will be less than for the
+A321, but would be able to be certified
+The noise reduction package is currently upon airline request - for airlines
+offered as the basic standard on all CFM interested in achieving even more margin
+powered Airbus A321 aircraft. It is also to Stage 4. This may be particularly
+optional on all the other A320 Family interesting in the future if individual
+aircraft. airports in highly populated city areas
+introduce penalties and landing
+Due to the easily distinguished profile of surcharges based on noise levels even
+the chevron nozzle, those airlines operating more stringent than Stage 4.
+22
+25
+73
+TSAF
+A380 - AIRPORT READY A380 - AIRPORT READY
+dling tests could begin. Several
+ramp scenarios were simulated,
+based around the standard layout
+with upper deck catering, shown
+on the right. Other equipment, not
+normally part of the normal turn
+round process was also tested as
+well as multiple pieces from dif-
+ferent manufacturers. In total
+around 40 different pieces of GSE
+(Ground Support Equipment)
+were used, this compares to
+around 21 for a standard A380
+turn round, a similar number to
+existing large aircraft.
+The first process to take place was
+the positioning of the passenger
+boarding bridges. Stand E9 is
+equipped with two boarding
+bridges, with the second able to
+reach the 8m (26.2ft) doorsill
+height of the upper deck.
+Although not an operational
+necessity, many airports are plan-
+ning some form of upper deck
+access to enhance product differ-
+entiation and passenger service
+levels. Docking took place at main
+deck door M1L (main deck for-
+ward left door) followed by upper
+deck door U1L (upper deck for-
+ward left door), shown on the
+right. The main deck bridge was
+then moved to main deck door
+M2L. The docking process went
+smoothly with the desired clear-
+ances achieved, although the
+upper deck bridge canopy was not
+fully flush with the fuselage of the
+aircraft, a small case which a
+minor adjustment of the canopy
+rigging will solve.
+Since MSN004 does not have a
+passenger cabin (it is equipped
+with a full flight test installation),
+boarding was restricted to the
+flight test crew. Full scale, timed,
+turn round tests including passen-
+ger boarding and cargo handling
+will be conducted during the route
+proving flights due to take place in
+mid 2006. These tests will validate
+that, due its superior cabin archi-
+tecture, the A380 will offer similar
+boarding and turn round times to
+existing aircraft using two main
+deck bridges.
+25
+73
+TSAF
+Airside current and future international
+A380 side profile comparison
+guidelines. In comparative terms it
+compatibility
+will generate half the noise energy
+of today’s largest aircraft and at the
+The airside element saw the air- same time carry 35% more passen-
+craft arrive at a landing weight of gers per movement.
+382 tonnes, just 4 tonnes below the
+maximum. It then taxied direct to Landside
+stand E9 at terminal 2 where
+compatibility
+ground tests were carried out until
+19:00, these are described in the
+following sections. The next day STANDS
+Baseline layout with upper deck catering
+the aircraft departed at 09:34 at a
+take-off weight of 400 tonnes. The landside element started as
+the aircraft approached stand E9,
+With a lower approach speed, bet- shown on the left, one of eventual-
+ter take-off, landing and climb per- ly 18 A380 capable stands at the
+formance than today’s largest air- airport. With a mezzanine cockpit
+craft, the A380 completed the air- between its main and upper decks
+side elements of the check success- the A380 reference pilot eye
+fully, and performed in much the height is 7.2m (23.6ft), between
+same way as any other widebody that of the 747-400 at 8.7m
+aircraft operating into Frankfurt (28.5ft) and other widebodies at
+that day. Similarly, due to better about 6m (19.7ft). This allows
+ground manoeuvrability and pave- good forward visibility as well as
+ment loading than aircraft such as compatibility with existing stand
+the A340-600 and B777-300ER, guidance systems, as was the case
+A380 docked at Frankfurt,stand E9,Terminal 2 no problems were encountered dur- at Frankfurt.
+ing the taxi to the stand.
+At a width of 80m (262.5ft), stand
+E9 is an ICAO (International Civil
+Aviation Organization) Code F
+stand, capable of accommodating
+any aircraft up to a maximum
+wingspan of 80m. Many of the
+more than 60 airports that will see
+Bridges docked at doors M1L and U1L
+A380 operations by 2010 are tak-
+ing advantage of the fact that
+Code F stands can have a MARS
+(Multi Aircraft Ramp uSage)
+capability. This capability allows
+two single-aisle aircraft to be
+parked in the same space as an
+A380. As terminal stands are used
+by many different sizes of aircraft
+during any given period, MARS
+stands allow airports to optimize
+gate usage and terminal efficien-
+cy. The A380 can also be accom-
+modated at 65m (213.3ft) wide
+Code E stands if the size of air-
+Many of those watching the air- craft on adjacent stands is limited
+craft arrive and depart noted how to that of smaller widebodies.
+quiet it was. The A380 is the first
+aircraft to be designed, and guaran- RAMP OVERVIEW
+teed, to meet very stringent local AND BRIDGE DOCKING
+noise limits (London QC2 depar-
+ture, QC1 arrival) and consequent- When the aircraft came to a stop
+ly also has significant margins to and was chocked, the ground han-
+24
+A380 - AIRPORT READY
+27
+73
+TSAF
+A380 - AIRPORT READY
+right) where cross-aisle galleys are
+generally located, to allow trans-
+port of catering trolleys from the
+aircraft main deck to the upper
+deck. Servicing of the aircraft via
+the main deck only is therefore
+possible. So why direct upper deck
+catering? The answer is time. With
+almost all airlines having their
+largest galley blocks at the M2 and
+U1 door cross-aisle galley posi-
+tions, the ability to access both
+directly, therefore avoiding the use
+of the trolley lift, can save up to 36
+minutes. As catering is in the criti-
+cal turn around path, the overall
+turn around time is also reduced by The fact that nine vehicle manufac- One of three upper deck catering
+36 minutes (assuming a standard turers have announced the avail- vehicles tested at Frankfurt
+555 seat cabin layout - this time ability of prototype vehicles before
+could vary depending on the airline entry into service (three of which
+layouts and galley locations). With were tested at Frankfurt) is again
+two standard passenger boarding testament to the cooperation
+bridges to the main deck of the air- between Airbus, the airlines, cater-
+craft, the use of upper deck cater- ers, and vehicle manufacturers.
+ing at door U1R allows the A380 to The upper deck catering working
+achieve a turn around time of 90 group, organized by Airbus, was
+CONTACT DETAILS
+minutes, comparable to today’s successfully concluded in the sum-
+largest aircraft, though with 35% mer of 2005 after eight meetings.
+Thomas Burger
+more passengers boarded. During these meetings different Product Marketing Manager
+concepts were analysed and basic Airbus Marketing Division
+Other doors on the aircraft upper functional requirements were Tel:+33 (0)5 62 11 84 73
+Fax:+33 (0)5 61 93 31 01
+deck could also be considered for defined. IATA has also developed a
+thomas.burger@airbus.com
+direct servicing but the galley loca- dedicatedAirport Handling Manual
+tions and sizes of most A380 cus- standard (926) in its 2005 issue. A Thilo Stilp
+tomer airlines are such that servicing new ISO standard on upper deck Group Manager
+them would not provide as big a ben- catering vehicles is also under Ground Operations & Environment
+A380 Programme
+efit as it does for the U1 position. development.
+Tel:+33 (0)5 62 11 06 33
+Fax:+33 (0)5 61 93 35 86
+thilo.stilp@airbus.com
+Conclusion
+The Frankfurt airport check exercise through a more general ground handling
+represented the culmination of many years working group. This will ensure that all
+of cooperation between Airbus and the relevant information is passed to those
+airport community on the design of the who will shortly be regularly servicing the
+A380. It also signalled the readiness of aircraft. The route proving campaign will
+airports to accept the aircraft using mainly then be the final validation of the airport
+existing infrastructure and equipment, optimized design of the A380, providing
+thus validating a design goal set from the Airbus, customer airlines, airports and
+start of the programme. In the coming ground handlers with the knowledge
+months Airbus contact with the ground and experience to ensure a smooth entry
+handling community will continue in into service.
+conjunction with customer airlines
+27
+73
+TSAF
+GROUND AND CABIN SERVICING – more wheels to spread its weight) it
+ONLY TWO NEW GSE PIECES does necessitate heavier and more
+REQUIRED FOR A380 SERVICING powerful tow tractors. This is espe-
+cially the case if push back at MRW
+Following the successful docking and under low traction conditions is
+of the bridges, the positioning and to be achieved.
+Most A380 servicing uses
+standard existing equipment connection of the ground servicing
+equipment could commence. With Both conventional (towbar) and
+main and lower deck doors as well towbarless A380 capable trac-
+as ground service connection tors are available from several
+points at the same height as those manufacturers. The require-
+of existing large aircraft, the A380 ments for these vehicles have
+is serviced using mostly existing been defined in Airbus orga-
+ground servicing equipment and nized working groups in which
+processes. Of the 21 pieces of airlines, GSE manufacturers and
+equipment that are required to ser- ground handlers were involved.
+vice the aircraft, 19 are standard Today eight manufacturers are
+widebody units, which can be offering A380 capable tractors
+found on any airport ramp today. with several already in service.
+As with any other aircraft, it is
+recommended to check the equip- Conventional A380 capable units
+ment manufacturers specification weigh around 70 tonnes and have
+against the aircraft requirements engines with around 300hp, which
+to ensure compatibility of a certain allow them to handle the A380 at
+piece of GSE. A380 requirements MRW and under poor surface fric-
+can be found in the Aircraft tion conditions. At weights below
+Characteristics for Airplane Plan- MRW and/or with good surface
+ning (AC) document, available on friction, it is also possible to use
+the Airbus website (link at the end existing widebody tractor units. As
+of this article). for all other aircraft, the A380
+requires its own dedicated towbar.
+The two A380 specific units are an
+upper deck catering vehicle, which Existing towbarless tractors can-
+allows direct access to the large not handle the A380 due to its
+upper deck galley in order to larger nose wheel size; therefore
+enhance catering times, and due to new models have been designed
+the aircrafts higher ramp weight, a and are today available from five
+more powerful tow tractor. These manufacturers. These new designs
+Getting ready for push back units are compatible with existing were again defined during the
+widebody aircraft, this being a working group meetings. Due to
+clear requirement from the airlines the direct interface between these
+and handlers that helped define tractors and the aircraft nose land-
+them in regular Airbus organized ing gear these units need to be
+working group meetings. They are qualified prior to being used on
+available from several manufactur- the A380 on a regular basis. The
+ers, some of who provided vehicles towbarless tractor qualification
+for the Frankfurt tests. procedure is a standard practice
+today for all Airbus and other man-
+A380 CAPABLE TOW TRACTORS ufacturers aircraft and ensures that
+the pushback and towing manoeu-
+Carrying 555 passengers up to vres will not adversely affect the
+8,000nm means that the A380 has a nose landing gear life cycle.
+higher MTOW and consequently
+MRW (Maximum Take-Off Weight UPPER DECK CATERING
+and Maximum Ramp Weight) than
+today’s largest aircraft. Although As a standard, the A380 is
+this extra weight does not result in equipped with trolley lifts at the Link to A380 Airplane Characteristics for Airtport Planning:
+higher pavement loading than exist- M2 and M5 doors (second and http://www.airbus.com/store/mm_repository/pdf/att00004248/media_object_file_AC_A380.pdf
+ing widebody aircraft (the A380 has fifth main deck doors left and
+26
+29
+73
+TSAF
+AIRBUS TRAINING AIRPORT - A VIRTUAL AIRPORT FOR PILOT TRAINING AIRBUS TRAINING AIRPORT - A VIRTUAL AIRPORT FOR PILOT TRAINING
+The ability to offer a wider range of necessitated diverting the course
+experience, such as ‘black hole’ of the river Loire!
+approaches, or airports in line with
+a pilot’s future operating environ- Fortunately, as this is a virtual
+ment in different parts of the world airport and consequently a virtual
+is the ideal for pilot familiarization, river diversion the real residents
+but is not feasible in this situation. of the new river course did not
+Considering these issues, and with a get wet!
+vision of what an ideal system
+should be like, Airbus training has For performance limitations:
+developed and introduced an innov- GPWS (Ground Proximity Warning
+ative tool for pilot training. This is System) training and ILS (Instrument
+the Airbus Training Airport - a vir- Landing System) approaches with
+tual airport - that is used in the a 4°glide slope a hill was introduced
+M/FTD (Maintenance/Flight Train- in line with the new runway. Urban
+ing Device) and in the Full Flight areas were also included for noise
+Simulator for the new Airbus Pilot abatement restrictions.
+Transition (APT) courses. Its objec-
+tive is to provide functionalities to The design of taxiways and ground
+enable pilot training on most types markings was done with experts
+of approaches, runways, signboards from the French Civil Aviation
+and ground markings etc that they Authorities in compliance with
+will encounter worldwide. ICAO (International Civil Aviation
+Organization) annex 14 as well as
+This article describes the six steps French regulations. Particular
+it took to achieve the Airbus attention was paid to ground mark-
+Training Airport: airport site, plat- ings due to the taxi training recom-
+form, terminal buildings and mended by the FAA (Federal
+facilities, charts, FMGS (Flight Aviation Administration) in Advi-
+Management Guidance System) sory Circular 120-74.
+database and visual scene.
+The platform has three runways
+Airport site of different lengths and widths
+and an additional one under
+construction. All have several
+The airport position is: 46 24.
+approach lighting systems (PAPI,
+4N/004 01.3E. The reason for this
+APAPI, PAPI L, PAPI R, VASI*).
+choice is the presence of a flying
+A LDIN (Lead-in Light System)
+school that has available runway
+approach is also available with a
+and radio aids. In addition, it is
+final turn over water as a lake was
+close to the centre of France, thus it
+added to enable this.
+is possible to fly a one-hour leg to
+the major airports of the neigh-
+The airport will be available in
+bourhood.
+2007 in Jeppesen ANS (Airport
+Navigation System). In addition,
+Platform
+the software makes it possible to
+reproduce airport traffic moving
+The airport platform was designed on the ground so training exercises,
+to provide the functionalities to in particular with low visibility, are
+train pilots on most of the types of achievable. One of the most diffi-
+runways, signboards, ground cult parts of a flight in some con- * ABBREVIATIONS
+markings and so on. To achieve gested airports is the taxi from the PAPI:Precision Approach Path Indicator
+this, it was designed according to gate to the holding point and from L:left - R:right
+the airport on the selected site. the runway to the gate. This is sig- APAPI:Abbreviated Precision Approach Path Indicator
+However, this did not offer all the nificantly eased when the airport is VASI:Visual Approach Slope Indicator
+possibilities needed, so it was nec- equipped with the SMGCS
+essary to add a new runway at 90° (Surface Movement Guidance
+to the existing one to allow partic- Control System) and the airport
+ular circling approaches, which also has this possibility.
+29
+73
+TSAF
+Airbus
+Training Airport
+A virtual airport for pilot training
+To complete a pilot type-rating course and issue an Flying to several airports gives some experience of
+adequate certificate Airbus training centre different runways, lighting systems, taxiways and
+includes in its curriculum a number of instrument parking, but the possibility to experience a wider
+and visual approaches, as required by airworthi- range of these is limited by the facilities of the air-
+ness authorities. To perform these it has become ports themselves. Furthermore, flying to these air-
+necessary to fly to several different airports ports requires the maintenance of a substantial
+because Toulouse Blagnac airport does not have amount of airport charts, performance tables and
+the capacity to handle all the approaches. visual scenes, which is time consuming, quite
+expensive and inconvenient for all involved.
+Captain Kheireddine Belguedj Bernard Benetti
+Flight instructor pilot CAA/TRI.TRE Aircraft Simulation Expert
+Training policy Training Devices Simulation & Maintenance
+Training and Flight Operations Support & Services Training and Flight Operations Support & Services
+Airbus Customer Services Airbus Customer Services
+28
+AIRBUS TRAINING AIRPORT - A VIRTUAL AIRPORT FOR PILOT TRAINING
+31
+73
+TSAF
+AIRBUS TRAINING AIRPORT - A VIRTUAL AIRPORT FOR PILOT TRAINING
+Visual scene This was achieved by day, as well as by
+night, in all kinds of weather conditions
+such as nice weather, fog and snow.
+For training tools like flight training When the runway is wet or contaminated
+devices or full flight simulators the visual with ice, snow, or slush, the visual
+scene is of paramount importance, as its system reflects the runway surface and
+level of reliability and visual quality has degraded braking action is reproduced.
+a direct impact on the level of training.
+Pilots in some regions of the world may
+The design of the airport visual scene have to land at night with only the
+started with a two-dimensional model runway lights as a reference, which is a
+drawing followed by building from this so-called ‘black hole approach’. Such
+a three-dimensional model using appro- an approach can be simulated with the
+priate software. The model data was airport by switching off all the lighting
+then translated by another software into of the environment of the visual scene
+data to be processed by the simulator except the lights of the landing runway.
+image generator. The airport is available
+for a number of visual systems of CONTACT DETAILS
+differentmanufacturers.
+Captain Kheireddine Belguedj
+Flight instructor pilot CAA/TRI.TRE - Training policy - Training and
+Particular attention was paid to details Flight Operations Support & Services - Airbus Customer Services
+to obtain high definition of the close Tel:+33 (0)5 61 93 20 71 - Fax:+33 (0)5 62 11 07 40
+kheireddine.belguedj@airbus.com
+environment of the airport.
+Bernard Benetti
+Aircraft Simulation Expert - Training Devices Simulation &
+Maintenance - Training and Flight Operations Support & Services
+Airbus Customer Services
+Tel:+33 (0)5 61 93 21 73 - Fax:+33 (0)5 61 93 20 73
+bernard.benetti@airbus.com
+For ENAC contact Hervé Pradines Conclusion PANS-OPS designer and instructor
+herve.pradines@enac.fr
+Airbus experience in the use of the Airbus charts and performance tables), offering
+Training Airport has demonstrated many benefits from a basic school to a
+benefits, some examples: professional training centre.
+• Training in extreme conditions (short and • Airbus Training Airport has been used
+narrow runway covered with ice, blowing since October 2004 in all Airbus training
+snow, crosswind and degraded braking centres and since November 2005 in the
+action). It is not necessary to have a centres of Airbus partners.
+Gander or Goose Bay visual scene to
+practise a localiser back course approach. • The airport will evolve at the same rate
+Pilots who need to fly for the first time to as development of Airbus technology and
+New York (Kennedy airport) or Tokyo airport regulation amendments.
+(Haneda airport) can practice an LDIN
+approach on the Airbus airport before their Considering the trend of basic training for
+first trip and therefore be familiar and airline pilots towards increasing simulator
+comfortable with it before doing it in time and reducing real aircraft handling,
+reality. an increasing part (most) of courses will
+be performed on training devices and full
+• The airport can be customised to flight simulators. Therefore, the Airbus
+reproduce an operator’s home airport and Training Airport with its wide range of
+implemented in any place in the world, so possibilities will be of great value to
+can comply with an operator’s local ensure good quality pilot training and
+training needs. generate increasing benefits for those
+using it.
+• It is flexible, adaptable and enables cost
+savings (no update required for airport
+31
+73
+TSAF
+Terminal buildings Non-precision approaches like
+VOR DME, ADF, localiser back
+and facilities
+course and even VDF
+(Voice Directional Finder) are also
+The airport has a main central possible.
+terminal building and two side
+satellites. Each is devoted to an The basic issue of the charts is in
+aircraft size: the north satellite for AIP (Aeronautical Information
+the A380, the central terminal for Publications) format converted to
+the A330/A340 and A300 families Jeppesen format and it will be
+and the south satellite for the A320 available in LIDO Flight Nav format
+Family. Three different aircraft as well. These formats are alterna-
+guidance systems are implemented tive versions of the charts available
+at the gates. The airport has two for airports (see examples and list
+control towers, a freight terminal, on the left).
+a maintenance hangar and several
+parking positions on the tarmac. FMGS database
+A fire station is included, as well as
+some administration buildings. The
+service roads and antennas of radio The STARs (Standard Terminal
+aids are also shown on the visual Arrival Routes), SIDs (Standard
+scene. Instrument Departures), and
+instrument approaches listed in the
+Airport charts pilot documentation are included
+in the FMGS (Flight Management
+and Guidance System) database
+LLiisstt ooff J Jepeppepseens ecnha crthsarts The airport charts were designed and coded according to ARINC
+by ENAC (Ecole Nationale de (Aeronautical Radio, Inc) 424
+STAR ATN 1C, BUZIL 1C, DJL 1C FOR RWYS 33L/R l’Aviation Civile), which is the norms. Due to the implementation
+STAR DJL 1A FOR RWYS 06, 07, 15L/R, 24 STAR DJL 1B FOR RWYS 15L/R, 24 French aviation academy. With the of artificial terrain and the modifi-
+airport it is possible to practise ILS cation of the environment the
+STAR CFA 1D, EB 1D FOR RWYS 06, 07, 33L/R
+approaches, CAT I, CAT II and EGPWS (Enhanced Ground
+SID ATN 1E, ATN 1N, BUZIL 1E, BUZIL 1N, CAT III with a 3° glide slope and Proximity Warning System) data-
+BUZIL 1S FOR RWYS 06, 07, 33L/R, 15L/R, 24
+also a 4° glide slope on different base is modified to match the
+SIDMOU 1N, MOU 1W, ONZON 1S FOR RWYS 33L/R, orientations of the same runway. surrounding terrain profile.
+24, 15L/R
+AIRPORT PLAN
+AIRPORT LIGHT DESCRIPTION
+AIRPORT PARKING PLAN
+APPROACH ILS RWY 06
+APPROACH ILS RWY 07
+APPROACH LOC (BCK CRS) RWY 15L
+APPROACH ILS RWY 33L
+APPROACH ILS RWY 33R
+APPROACH CAT II ILS RWY 33R
+APPROACH RNAV GNSS RWY 24
+APPROACH VOR DME RWY 15R
+APPROACH VOR DME RWY 24
+APPROACH VOR DME RWY 33L
+APPROACH VOR DME RWY 33R
+APPROACH NDB RWY 33R
+CIRCLING APPROACH FOR RWY 15L/R
+30
+TITLE - SUB-TITLE
+73
+TSAF
+32 33
+73
+TSAF
+COUNTERING JET FUEL PRICE INCREASES - GUIDANCE ON FUEL SAVING COUNTERING JET FUEL PRICE INCREASES - GUIDANCE ON FUEL SAVING
+None of the information
+contained in the ‘getting to
+grips’ publications is intended
+to replace procedures or
+recommendations contained in
+the Flight Crew Operating
+Manual (FCOM),but rather to
+highlight the areas where
+maintenance,operations and
+flight crews can contribute
+significantly to fuel savings.
+getting to grips getting to grips
+with fuel economy with the cost index
+ISSUE 3 - JULY 2004 ISSUE 2 - MAY 1998
+This examines the influence of In addition to navigation functions,
+flight operations on fuel conserva- the Flight Management Computer
+tion and provides recommenda- (FMC) carries out real-time perfor-
+tions to enhance fuel economy. It mance optimization aimed at pro-
+covers maximization of range for a viding best economics, not simply
+given payload, the decrease of fuel in terms of fuel consumption,
+uplift from high fuel cost airports but rather in terms of direct operat-
+and introduces the concept of cost ing costs. This is achieved using
+index (see ‘Getting to Grips with the cost index concept that helps
+the cost index’on the right). fuel and time-related costs to be
+balanced.
+Also, it systematically reviews fuel
+conservation relative to ground and Airbus has recently launched a new
+flight performance, including cen- software tool called AirS@vings. It
+tre of gravity position, excess is designed to provide a dynamic
+weight, flight planning, auxiliary determination of the cost index
+power unit operations, taxiing, under a wide variety of operational
+climb, step climb, cruise, descent, criteria so that it can be accurately
+holding and approach. tailored to the specifics of an air-
+ATA monthly jet fuel report
+line’s operation on a particular route.
+33
+73
+TSAF
+n f o r m a t i o n
+Countering
+jet fuel price
+increases
+Guidance on fuel saving
+In the last two years the average cost of jet fuel The mechanisms for maximising fuel economy
+has doubled as shown in the report on the right, are well understood as being aerodynamically
+while competition in the airline industry is clean aircraft,well maintained enginesand good
+intense. Consequently, more and more airlines are flight planning and procedures.
+looking to optimize their fuel consumption as a
+means of minimizing overall costs. This article highlights existing Airbus ‘Getting to
+grips with’ publications where information on
+optimizing fuel consumption can be found and
+identifies some additional areas for consideration.
+Simon Weselby Frédéric Desgeorge
+A320 Family Programme Manager A330/A340 Programme Manager
+Airbus Customer Services Airbus Customer Services
+32
+COUNTERING JET FUEL PRICE INCREASES - GUIDANCE ON FUEL SAVING
+getting hands-on getting to grips getting to grips
+experience with aircraft with aircraft
+with aerodynamic performance performance
+deterioration ISSUE 1 - JANUARY 2002 monitoring
+ISSUE 2 - OCTOBER 2001 ISSUE 1 - JANUARY 2003
+This examines the influence of This addresses three different This provides guidelines for air-
+aerodynamic deterioration on aspects of aircraft performance: craft performance monitoring
+operational costs. During an air- • Physical aspect: Reminders on based on feedback obtained from
+craft’s life deterioration is likely to flight mechanics, aerodynamics, many operators and on Airbus’
+occur and drag can increase by up altimetry, influence of external knowledge of its aircraft. It has
+to 2% within five years. This in parameters on aircraft five-objectives:
+turn can result in a significant fuel performance, flight optimization • Introduce performance
+consumption increase. However, concepts, etc. monitoring, presenting the
+this cost has to be traded against • Regulatory aspect: Description different analysis methods and
+the cost of maintenance to estab- of the main JAR and FAR tools.
+lish when it is cost-effective to certification and operating rules, • How to deal with the amount of
+carry out corrective measures. leading to the establishment of data required, the most common
+limitations. ways to get data routinely
+Cost-benefit analyses are a practi- • Operational aspect: Description recorded are described via a
+cal way to approach this and of operational methods, aircraft quick overview of the available
+Airbus has carried out numerous computer logics, operational aircraft systems.
+performance audits in cooperation procedures, pilot’s actions, etc. • Guidelines on the way to
+with airlines. Consequently this process the data using one of the
+can help operators determine cor- Airbus aircraft performance-
+rective actions that are financially monitoring tools, namely the
+beneficial despite the short-term APM programme.
+maintenance costs. • Assessing data coming from
+regular cruise performance
+analysis.
+• Airbus recommendations on
+how to use the results of
+analysis in daily aircraft
+operations.
+35
+73
+TSAF
+COUNTERING JET FUEL PRICE INCREASES - GUIDANCE ON FUEL SAVING
+Other areas for • Developing an engine water
+wash schedule
+consideration
+Over time, dirt accumulation on
+the compressor airfoils reduces
+In addition to the ‘getting to grips engine compressor efficiency.
+with’ publications an airline has Engine core water washes are
+many other routes available for recommended to remove this.
+minimizing fuel expenditure, Contamination levels depend on
+including: the aircraft’s operation and
+• Minimizing dispatches under environment, so wash frequency
+MEL (Minimum Equipment must be optimized by each
+List) conditionsthat include operator. Periodic engine water
+requirements for additional fuel washes also have a positive
+reserves, or where fuel burn is effect on the exhaust gas
+increased. temperature margin and
+Example: dispatch with wing consequently on engine life
+anti-ice valve failed in open • Trading passenger comfort or
+position may increase fuel service against weight (carrying
+consumption by up to 6% newspapers, magazines,
+depending on aircraft. blankets, reducing potable water
+• Implementing an engine health carried, etc.).
+monitoring system
+Example: engine component
+defects may increase fuel
+consumption while remaining
+operational and engine health
+monitoring can highlight such
+increases.
+• Working closely with the
+engine shopto establish an
+CONTACT DETAILS
+optimized refurbishment
+workscope that provides the best Simon Weselby
+compromise between cost, A320 Family Programme
+reliability and performance Manager
+Tel:+33 (0)5 62 11 75 16
+restoration
+Fax:+33 (0)5 61 30 00 79
+simon.weselby@airbus.com
+Frédéric Desgeorge
+A330/A340 Programme
+Manager
+Airbus Customer Services
+Tel :+33 (0) 5 61 93 42 01
+Fax :+33 (0) 5 61 30 00 79
+frederic.desgeorge@airbus.com
+Conclusion
+Airbus has previously published be best served by adopting a holistic or
+a wide range of information and airline-wide approach and not making fuel
+recommendations for the optimization economy the responsibility of any single
+of both aircraft performance and fuel entity in the organization.
+economy. These publications remain
+as valid today as when they were Airbus also recognizes the increasing
+published (with the exception of certain importance of fuel efficiency to its
+economic conditions). The breadth of customers so further support will become
+these recommendations illustrate that an available during the course of 2006.
+airline wishing to minimize its fuel bill will
+35
+73
+TSAF
+34
+73
+TSAF
+GIANTS OF THE SKIES, PAST AND PRESENT
+Giants of the skies,
+past and present
+A ‘giant of the skies’, a seven seater Fokker D378 of Aero Lloyd, lands at Hamburg Fuhlsbüttel
+airport in Germany in 1926 - the same year Germany’s main airport Frankfurt opened.
+Almost 80 years later, on 29 October 2005, another ‘giant of the skies’landed at Frankfurt airport
+and is shown docked. This is the 555 seater Airbus A380 - how things have changed, not only for
+aircraft but airports too!
+36
+CUSTOMER SUPPORT AROUND THE CLOCK... AROUND THE WORLD
+WORLDWIDE
+Jean-Daniel Leroy
+VP Customer Support
+Tel: +33 (0)5 61 93 35 04
+Fax: +33 (0)5 61 93 41 01
+USA/CANADA
+Philippe Bordes
+Senior Director Customer Support
+Tel: +1 (703) 834 3506
+Fax: +1 (703) 834 3464 Customer Support Centres
+Training centres
+CHINA Spares centres / Regional warehouses
+Ron Bollekamp Resident Customer Support Managers (RCSM)
+Senior Director Customer Support RCSM location Country RCSM location Country
+Tel: +86 10 804 86161
+Abu Dhabi United Arab Emirates London United Kingdom
+Fax: +86 10 804 86162 / 63
+Ajaccio France Louisville United States of America
+Algiers Algeria Luton United Kingdom
+RESIDENT CUSTOMER SUPPORT Al-Manamah Bahrain Macau S.A.R. China
+ADMINISTRATION Amman Jordan Madrid Spain
+Amsterdam Netherlands Manchester United Kingdom
+Jean-Philippe Guillon
+Athens Greece Manila Philippines
+Director Auckland New Zealand Mauritius Mauritius
+Resident Customer Support Administration Baku Azerbaijan Memphis United States of America
+Tel: +33 (0)5 61 93 31 02 Bandar Seri BegawanBrunei Mexico City Mexico
+Bangalore India Miami United States of America
+Fax: +33 (0)5 61 93 49 64
+Bangkok Thailand Milan Italy
+Barcelona Spain Minneapolis United States of America
+TECHNICAL,SPARES,TRAINING Beirut Lebanon Montreal Canada
+Berlin Germany Moscow Russia
+Airbus has its main spares centre in Hamburg,
+Brussels Belgium Mumbai India
+and regional warehouses in Frankfurt, Buenos Aires Argentina Nanchang China
+Washington D.C., Beijing and Singapore. Cairo Egypt Nanjing China
+Casablanca Morocco New York United States of America
+Charlotte United States of America Newcastle Australia
+Airbus operates 24 hours a day every day.
+Chengdu China Ningbo China
+AOG Technical and Spares calls. Cologne Germany Noumea New Caledonia
+Colombo Sri Lanka Orlando United States of America
+Airbus Technical AOG Centre (AIRTAC) Copenhagen Denmark Palma de Mallorca Spain
+Dalian China Paris France
+Tel: +33 (0)5 61 93 34 00
+Damascus Syria Paro Bhutan
+Fax:+33 (0)5 61 93 35 00 Delhi India Phoenix United States of America
+support.airtac@airbus.com Denver United States of America Pittsburgh United States of America
+Derby United Kingdom Prague Czech Republic
+Detroit United States of America Qingdao China
+Spares AOGs in North America should be
+Dhaka Bangladesh Quito Ecuador
+addressed to: Doha Qatar Rome Italy
+Tel: +1 (703) 729 9000 Donetsk Ukraine San’a Yemen
+Dubai United Arab Emirates San Francisco United States of America
+Fax:+1 (703) 729 4373
+Dublin Ireland San Salvador El Salvador
+Duluth United States of America Santiago Chile
+Spares AOGs outside North America Dusseldorf Germany Sao Paulo Brazil
+should be addressed to: Fort Lauderdale United States of America Seoul South Korea
+Frankfurt Germany Shanghai China
+Tel: +49 (40) 50 76 3001/3002/3003
+Guangzhou China Sharjah United Arab Emirates
+Fax:+49 (40) 50 76 3011/3012/3013 Hangzhou China Shenyang China
+Haikou China Shenzhen China
+Airbus Training Centre Toulouse, France Hanoi Vietnam Singapore Singapore
+Helsinki Finland Sydney Australia
+Tel: +33 (0)5 61 93 33 33
+Hong Kong S.A.R. China Taipei Taiwan
+Fax:+33 (0)5 61 93 20 94 Indianapolis United States of America Tashkent Uzbekistan
+Istanbul Turkey Tehran Iran
+Airbus Training subsidiaries Jakarta Indonesia Tokyo Japan
+Jinan China Toronto Canada
+Miami, USA - Florida
+Johannesburg South Africa Toulouse France
+Tel: +1 (305) 871 36 55 Karachi Pakistan Tulsa United States of America
+Fax:+1 (305) 871 46 49 kita-Kyushu Japan Tunis Tunisia
+Beijing, China Kuala Lumpur Malaysia Vienna Austria
+Kuwait city Kuwait Washington United States of America
+Tel: +86 10 80 48 63 40 Lanzhou China Xi'an China
+Fax:+86 10 80 48 65 76 Larnaca Cyprus Zurich Switzerland
+Lisbon Portugal
+73
+TSAF
+37
+www.airbusworld.com
+Over a million pages of information, now online.
+We could write pages and pages on how we can make personalised details and you can even cut and paste any
+your business information management more cost effective. relevant information into your own
+But why hunt through endless filing cabinets when with documents. Don’t go through the
+Airbus On-Line Services you get rapid, up to date access long haul to find what you want,
+to all our technical data? It’s simple and easy to use. visit www.airbusworld.com instead.
+All subscribers have totally secure access to all their Airbus. Setting the standards.

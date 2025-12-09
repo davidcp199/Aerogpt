@@ -1,0 +1,306 @@
+Advisory
+U.S. Department
+of Transportation
+Federal Aviation
+Circular
+Administration
+Subject: Aging Aircraft Inspections and Date: 1/15/09 AC No: 120-84
+Record Reviews
+Initiated by: AFS-300 Change: 1
+1. PURPOSE. This change revises this advisory circular (AC) to update references to Title 14
+of the Code of Federal Regulations (14 CFR) and Federal Aviation Administration (FAA)
+Order 8900.1, Flight Standards Information Management System.
+2. PRINCIPLE CHANGES. This change updates references to 14 CFR and FAA
+Order 8900.1 in AC 120-84. It also updates information on requesting extensions, found on
+page 3, paragraph 5d.
+PAGE CONTROL CHART
+Remove Pages Dated Insert Pages Dated
+2 and 3 10/22/04 2 and 3 1/15/09
+6 through 10 10/22/04 6 through 10 1/15/09
+ORIGINAL SIGNED by
+/s/ Chester D. Dalbey for
+John M. Allen
+Director, Flight Standards Service
+10/22/04 AC 120-84
+Advisory
+U.S. Department
+of Transportation
+Federal Aviation Circular
+Administration
+Subject: Aging Aircraft Inspections and Date: 10/22/04 AC No: 120-84
+Record Reviews
+Initiated by: AFS-300 Change:
+1. PURPOSE OF THIS ADVISORY CIRCULAR (AC). This advisory circular (AC)
+provides information pertaining to aging airplane inspections and records reviews accomplished
+to satisfy the requirements of the Aging Airplane Safety Final Rule. This information represents
+an acceptable way, but not the only way, for an aging airplane inspection and records review to
+be conducted. However, if you use the means described in this AC, you must follow it in all
+important aspects. The contents of this document do not have the force and effect of law and are
+not meant to bind the public in any way, and the document is intended only to provide
+information to the public regarding existing requirements under the law or agency policies.
+2. AUDIENCE. This AC is for air carriers operating airplanes under Title 14 of the Code of
+Federal Regulations (14 CFR) part 121, foreign air carriers or persons operating U.S.-registered,
+multiengine airplanes under 14 CFR part 129, and persons operating multiengine airplanes with
+nine or fewer seats in scheduled operations under 14 CFR part 135.
+3. WHERE YOU CAN FIND THIS AC. You can find this AC on the Federal Aviation
+Administration’s (FAA) website at https://www.faa.gov/regulations_policies/advisory_circulars
+and the Dynamic Regulatory System (DRS) at https://drs.faa.gov.
+4. EFFECTIVE DATE. December 8, 2003.
+5. BACKGROUND.
+a. The Aging Aircraft Safety Act of 1991 (the Act).
+(1) To address aging aircraft concerns, Congress enacted Title IV of Public Law
+(PL) 102-143, the Aging Aircraft Safety Act of 1991 (the Act). This act was subsequently
+codified as Title 49 of the United States Code (49 U.S.C.) § 44717. The Act instructs the
+Administrator to prescribe regulations that ensure the continuing airworthiness of aging aircraft.
+The Act requires the Administrator to conduct inspections and review the maintenance and other
+records of each aircraft an air carrier uses to provide air transportation. The Act also requires the
+Administrator to establish procedures for performing such inspections. These inspections and
+records reviews enable the Administrator to decide whether an aging aircraft is in a safe
+condition and maintained properly for operation in air transportation.
+(2) In addition to imposing obligations on the Administrator, the Act requires air carriers
+to demonstrate as part of these inspections that the maintenance of the aircraft’s structure, skin,
+and other age-sensitive parts and components has been adequate and timely enough to ensure the
+1/15/09 AC 120-84 CHG 1
+highest degree of safety. The Act also requires air carriers to make their aircraft and aircraft
+records available for inspection and review.
+b. The Aging Airplane Safety Final Rule.
+(1) On December 6, 2002, the Federal Aviation Administration (FAA) published the
+Aging Airplane Safety Interim Final Rule in the Federal Register (67 FR 72726). On
+February 2, 2005, the FAA published the Aging Airplane Safety Final Rule in the Federal
+Register (70 FR 5518). The final rule specifies mandatory aging airplane inspections for certain
+airplanes according to their years in service, as well as requiring damage-tolerance (DT)-based
+inspections and procedures to be included in the maintenance programs of certain airplanes. The
+Aging Airplane Safety Rule also prohibits operation of these airplanes after specified deadlines
+unless the maintenance programs under which the airplanes are maintained include DT-based
+inspections and procedures. The FAA implemented this requirement to assess the DT of older
+airplane structures and to ensure the continuing airworthiness of aging airplanes operated in air
+transportation.
+(2) The Aging Airplane Safety Rule permits certain appropriately authorized
+representatives of the Administrator to conduct required aging airplane inspections and review
+records. Aviation safety inspectors (ASI), Designated Airworthiness Representatives (DAR), or
+Organization Designation Authority (ODA) may carry out these required inspections and records
+reviews.
+6. AGING AIRPLANE INSPECTIONS AND RECORDS REVIEWS.
+a. Aging Airplane Safety Rule Requirements. The Aging Airplane Safety Rule requires
+that, after their 14th year in service (the calendar-time elapsed since the FAA issued an airplane
+its first U.S. or first foreign airworthiness certificate), certain airplanes must undergo inspections
+and records reviews by the Administrator. This action ensures the maintenance of the airplanes’
+age-sensitive parts and components has been adequate and timely. These airplanes include all
+those operated under part 121, all U.S.-registered, multiengine airplanes operated under part 129,
+and all multiengine airplanes used in scheduled operations under part 135. To ensure the
+maintenance is adequate and timely, the FAA will conduct structural spot inspections and review
+applicable airplane records. To satisfy the intent of the rule, the FAA will sample the tasks and
+records for each airplane, and perform continued surveillance of an air carrier’s maintenance
+program.
+b. Airplanes and Operations Affected. To determine which airplanes must undergo
+inspections and records reviews which the Aging Airplane Safety Rule requires, an affected
+operator should see Figure 1, Decision Logic—Applicability of Inspections and Records Review.
+If an air carrier operates an airplane under part 121, then part 121, § 121.1105 applies.
+Multiengine airplanes operated under part 129 and smaller multiengine airplanes operated under
+part 135 may also be subject to the Aging Airplane Safety Rule. If the airplanes are
+U.S.-registered and operate under part 129, then part 129, § 129.105 applies. Multiengine
+airplanes with nine or fewer seats in scheduled operations under part 135 must comply with
+part 135, § 135.422. Airplanes not used to conduct operations under these parts of 14 CFR are
+not subject to aging airplane inspections and records reviews. The Aging Airplane Safety Rule
+Par 5 Page 1
+1/15/09 AC 120-84 CHG 1
+also does not apply to an airplane operated between any point within the state of Alaska and any
+other point within the state of Alaska.
+c. Due Date for Inspections and Records Reviews. After the operator determines which
+of its airplanes the Aging Airplane Safety Rule affects, they should see Figure 2, Decision
+Logic—Initial Inspections and Records Review Due Date, to determine when each airplane’s
+initial inspection and records review is due. Although the aging airplane inspection and records
+review is only required after an affected airplane’s 14th year in service, the Aging Airplane
+Safety Rule requires airplanes past their 24th year in service as of December 8, 2003, to be
+inspected no later than December 5, 2007. This ensures ASIs inspect the oldest airplanes first
+and distribute the FAA’s workload for initial inspections. For an airplane that has passed its
+14th year in service, but not its 24th year in service as of December 8, 2003, an ASI must inspect
+the airplane no later than December 4, 2008. An airplane that has not passed its 14th year in
+service must have its first aging airplane inspection and records review within 5 years after the
+start of its 15th year in service. In all cases, subsequent inspections and records reviews are
+required at no more than 7-year intervals after the initial inspection and records review. The
+Aging Airplane Safety Rule prohibits persons from operating an affected airplane under
+parts 121, 129, and 135, unless the airplane has undergone the required inspection and records
+review. However, an operator could still operate an airplane under 14 CFR part 91 or part 125.
+d. Extensions. As specified in the Aging Airplane Safety Rule, the Administrator may
+approve an extension of up to 90 days on the repeat interval of an aging airplane inspection and
+records review to accommodate an unforeseen scheduling conflict. The ability of the operator to
+request and the FAA to subsequently approve an extension does not apply to the threshold dates
+for the initial inspections as stated in the applicable rule. The operator should submit a request
+for extension to its Principal Maintenance Inspector (PMI), along with justification for the
+extension. An air carrier may submit its request through email, fax, or other means acceptable to
+its PMI.
+NOTE: Even though a DAR or ODA may conduct the inspection and
+records review, only an air carrier’s certificate management office (CMO)
+may grant an extension to the repeat intervals. We intend that an air carrier
+must not operate an airplane after it has reached its threshold date until it
+has completed the inspection and review of records.
+Par 6 Page 2
+10/22/04 AC 120-84
+FIGURE 1. DECISION LOGIC—APPLICABILITY OF INSPECTIONS AND RECORDS
+REVIEW
+Par 6 Page 3
+10/22/04 AC 120-84
+FIGURE 2. DECISION LOGIC—INITIAL INSPECTIONS AND RECORDS REVIEW
+DUE DATE
+Par 6 Page 4
+1/15/09 AC 120-84 CHG 1
+7. CONDUCT OF AGING AIRPLANE INSPECTIONS AND RECORDS REVIEWS.
+a. General Information About Inspections and Records Reviews. An airplane’s
+inspection and records review should be carried out during an airplane’s heavy maintenance
+check. A heavy maintenance check is a “C” check or segment thereof, a “D” check or segment
+thereof, or other scheduled maintenance visit where structural inspections are accomplished. Air
+carriers should schedule their inspections and records reviews early and provide their PMI with
+advance-planning schedules for their airplanes’ heavy maintenance checks. PMIs should work
+closely with their air carrier to address any issues that may delay an airplane’s inspection and
+records review or prevent the airplane from returning to service as scheduled. The CMO may
+also get help from responsible ASIs to assist in performing these inspections and reviews. The
+inspections and records reviews may be conducted by an ASI, DAR, or ODA. In addition, an
+airplane’s inspection and records review may take place in different locations and be
+accomplished by different inspectors/designees.
+b. FAA Notification. Each air carrier must provide the FAA with notification at least
+60 days before each airplane will be available for its inspection and records review. The
+notification should be provided to the PMI in a form agreed to by the PMI and air carrier. An air
+carrier may make a single notification to cover several airplanes. The notice should identify each
+airplane by make, model, serial number, and registration number. It should also provide each
+airplane’s scheduled inspection date and location. Because most records reviews will be carried
+out separately from the aircraft inspections, the air carrier should also provide the FAA with the
+location of each airplane’s records that are required to be reviewed, as specified in
+§§ 121.1105(d), 129.105(c), and 135.422(d).
+c. Airplane Inspections.
+(1) For each inspection, the FAA will coordinate with the air carrier as to the scope and
+extent of its planned inspection. To meet the intent of the Act, the FAA will conduct structural
+spot inspections, as specified in FAA Order 8900.1, Flight Standards Information Management
+System. The FAA will select structural inspections, corrosion prevention and control program
+(CPCP) tasks, and/or major repairs/modifications on parts of the airplane for review that will be
+accessible during the heavy maintenance check. The FAA will also sample job task cards to
+ensure their completeness. These cards should indicate the task, method of compliance, and
+required tooling and signoffs. The air carrier should provide the ASI, DAR, or ODA conducting
+the inspection with the supporting documentation for these tasks before the planned inspection.
+The FAA will attempt to avoid disrupting the air carrier’s scheduled operations. However, the
+FAA may require additional access to the airplane based on its records review and findings
+during the airplane inspection.
+(2) For the Administrator to ensure air carriers demonstrate that the maintenance of the
+aircraft’s structure, skin, and other age-sensitive parts and components has been adequate and
+timely enough to ensure the highest degree of safety, the FAA will focus each inspection and
+records review on existing aging airplane requirements. These requirements consist of aging
+airplane structural modifications, corrosion prevention and control programs, supplemental
+structural inspections programs (including airworthiness limitations (AL) inspections), and
+structural repair requirements.
+Par 7 Page 5
+1/15/09 AC 120-84 CHG 1
+(3) During the inspection, the ASI, DAR, or ODA may also observe the accomplishment
+of maintenance tasks to ensure:
+(a) Work instructions provide sufficient detail to accomplish the scope of required
+maintenance tasks,
+(b) Required tooling and materials are available and used, and
+(c) Properly trained and qualified personnel perform the work.
+d. Airplane Records Review.
+(1) The records review usually will be accomplished separately from the airplane
+inspection. The ASI, DAR, or ODA will review/sample the records identified in this section
+using Order 8900.1, Volume 6, Chapter 11, Section 14, Conducting Records Reviews and
+Aircraft Inspections Mandated by the Aging Airplane Rules for Parts 121, 129, and 135, to
+evaluate the air carrier’s records, as applicable.
+(2) As required in §§ 121.1105(d), 129.105(c), and 135.422(d), the air carrier must make
+the following records available to the FAA for the aging airplane records review:
+(a) Total years in service of the airplane;
+(b) Total time in service of the airframe;
+(c) Total flight cycles of the airframe (not required under § 135.422(d));
+(d) Date of the last inspection and records review required by the Aging Airplane
+Safety Rule;
+(e) Current status of life-limited parts of the airframe;
+(f) Time since the last overhaul of all structural components required to be
+overhauled on a specific time basis;
+(g) Current inspection status of the airplane, including the time since the last
+inspection required by the inspection program under which the airplane is maintained;
+(h) Current status of applicable Airworthiness Directives (AD), including the date
+and methods of compliance (and, if the AD involves recurring action, the time and date when
+this action is required);
+(i) A list of major structural alterations; and
+(j) A report of major structural repairs and the current inspection status for those
+repairs.
+(3) The air carrier may provide actual hard copies, electronic versions of the records, or
+summaries of compliance.
+Par 7 Page 6
+1/15/09 AC 120-84 CHG 1
+(4) In addition, the ASI, DAR, or ODA may need to verify current airframe status
+information. Therefore, the air carrier should coordinate with the FAA so that the ASI, DAR, or
+ODA may review the appropriate records, if necessary.
+(5) If the inspection and records review are conducted at separate locations and/or
+different times, the air carrier must make available to the FAA a summary of any additional
+records made at the time of the aircraft inspection, such as ADs accomplished and major repairs
+accomplished. Normally, the records review should be accomplished prior to the aircraft
+inspection.
+e. Aging Airplane Supplemental Inspections. The Aging Airplane Safety Rule prohibits
+certain airplanes from operating unless DT-based inspections and procedures are included in the
+maintenance or inspection program for each airplane in accordance with a specified schedule.
+The rule also requires the operator to assess the adverse effects of any repairs or alterations on
+Fatigue Critical Structure (FCS). Although the Aging Airplane Safety Rule specifies dates by
+which the FAA requires air carriers to develop and incorporate DT-based inspections and
+procedures into their approved maintenance program, the program may not require inspections to
+be completed until a later date. That date depends on the DT assessment of the airplane’s
+structure.
+f. Reporting. Upon completion of the inspection or records review for a specific airframe,
+the ASI, DAR, or ODA who accomplished the inspection or records review will notify the air
+carrier’s PMI of any discrepancies found during the inspection/records review. A report will also
+be submitted to the CMO that includes the airplane’s registration number, total years in service,
+total flight hours, and date of last inspection and records review required by the Aging Airplane
+Safety Rule, as well as a statement that the inspection or review, as applicable, is complete for
+that airplane (see Appendix 1, Sample Reporting Form). The ASI, DAR, or ODA also may give
+the report to the air carrier to forward to its PMI. The PMI then notifies the air carrier using
+email, fax, or another accepted form of notification that the inspection or records review is
+complete. Because the inspection and records review may have been completed on different
+dates, the date the PMI notifies the air carrier that both the inspection and records review are
+complete is the date used to determine the due date of the next required inspection and records
+review.
+8. DESIGNATED AIRWORTHINESS REPRESENTATIVES. As specified in 14 CFR
+part 183, the Administrator may designate individuals to act on behalf of the Administrator to
+conduct functions by FAA personnel. The Aging Airplane Safety Rule revised part 183,
+§ 183.33(a) to expand the authority of DARs by authorizing them to conduct inspections and
+records reviews on behalf of the Administrator. An air carrier may have its aging airplane
+inspections and records reviews performed by a DAR, ODA, or an FAA inspector.
+9. REQUESTS FOR INFORMATION. Requests for information about this AC should be
+directed to the Aircraft Maintenance Division, Commercial Aviation Group (AFS-330), Federal
+Aviation Administration Headquarters, 800 Independence Avenue SW., Washington, DC 20591,
+202-267-1675.
+Par 7 Page 7
+1/15/09 AC 120-84 CHG 1
+10. AC FEEDBACK FORM. For your convenience, the AC Feedback Form is the last page of
+this AC. Note any deficiencies found, clarifications needed, or suggested improvements
+regarding the contents of this AC on the Feedback Form.
+Par 10 Page 8
+10/22/04 AC 120-84
+Appendix 1
+APPENDIX 1. SAMPLE REPORTING FORM
+RESULT OF AGING AIRPLANE SAFETY INSPECTION (IN ACCORDANCE WITH
+14 CFR § 121.1105, 129.105, OR 135.422)
+Page 1
+1/15/09 AC 120-84 CHG 1
+Appendix 2
+APPENDIX 2. RELATED PUBLICATIONS (CURRENT EDITIONS)
+1. FAA Order 8100.8, Designee Management Handbook.
+2. FAA Order 8900.1, Flight Standards Information Management System, Volume 6,
+Chapter 1, Section 14, Conducting Records Reviews and Aircraft Inspections Mandated by the
+Aging Airplane Rules for Parts 121, 129 and 135.
+Page 1
+Advisory Circular Feedback Form
+If you find an error in this AC, have recommendations for improving it, or have suggestions for
+new items/subjects to be added, you may let us know by contacting the Flight Standards
+Directives Management Officer at 9-AWA-AFB-120-Directives@faa.gov.
+Subject: AC 120-84 CHG 1, Aging Aircraft Inspections and Record Reviews
+Date: _____________________
+Please check all appropriate line items:
+An error (procedural or typographical) has been noted in paragraph ____________
+on page _______.
+Recommend paragraph _____________ on page __________ be changed as follows:
+______________________________________________________________________
+______________________________________________________________________
+In a future change to this AC, please cover the following subject:
+(Briefly describe what you want added.)
+______________________________________________________________________
+______________________________________________________________________
+Other comments:
+______________________________________________________________________
+______________________________________________________________________
+I would like to discuss the above. Please contact me.
+Submitted by: Date: ______________________

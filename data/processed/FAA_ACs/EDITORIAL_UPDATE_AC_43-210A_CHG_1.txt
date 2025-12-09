@@ -1,0 +1,1140 @@
+Advisory
+U.S. Department
+of Transportation
+Circular
+Federal Aviation
+Administration
+Subject: Standardized Procedures for Date: 5/31/18 AC No: 43-210A
+Obtaining Approval of Data Used in Initiated by: AFS-300 Change: 1
+the Performance of Major Repairs
+and Major Alterations
+1. PURPOSE OF THIS ADVISORY CIRCULAR (AC). This AC describes a standardized
+procedure for requesting approval of technical data associated with major repairs/major
+alterations. This AC also provides information that can help determine if a proposed
+repair/alteration requires approved data, guidance and standardized procedures for obtaining
+field approval (or approval by other means) of data, and instructions for completing the field
+approval checklist.
+2. PRINCIPAL CHANGES. This change to AC 43-210A adds information on the proper use
+of Designated Engineering Representative (DER)-approved data for major alterations, including
+examples of how to ensure the provided DER-approved data covers the entire alteration.
+PAGE CONTROL CHART
+Remove Pages Dated Insert Pages Dated
+Pages ii and iii 8/17/16 Pages ii and iii 5/31/18
+Pages 1 and 2 8/17/16 Pages 1 and 2 5/31/18
+Page 4 8/17/16 Pages 4 and 5 5/31/18
+Pages 7 thru 10 8/17/16 Pages 8 thru 12 5/31/18
+Page 16 8/17/16 Page 17 5/31/18
+Pages 21 thru 24 8/17/16 Pages 21 thru 24 5/31/18
+Page A-2 8/17/16 Page A-2 5/31/18
+Page B-1 8/17/16 Page B-1 5/31/18
+John S. Duncan
+Executive Director, Flight Standards Service
+8/17/16 AC 43-210A
+Advisory
+U.S. Department
+of Transportation
+Circular
+Federal Aviation
+Administration
+Subject: Standardized Procedures for Date: 8/17/16 AC No: 43-210A
+Obtaining Approval of Data Used in Initiated by: AFS-300 Change:
+the Performance of Major Repairs
+and Major Alterations
+This advisory circular (AC) describes a standardized procedure for requesting approval of
+technical data associated with major repairs/major alterations. This AC also provides information
+that can help determine if a proposed repair/alteration requires approved data, guidance and
+standardized procedures for obtaining field approval (or approval by other means) of data, and
+instructions for completing the field approval checklist. This AC is not mandatory and does not
+constitute a regulation. This AC describes an acceptable means, but not the only means, to obtain
+approved data for a major repair or major alteration. However, if you—whether you are an
+aircraft owner, operator, or Aviation Maintenance Technician (AMT), collectively termed an
+applicant—use the means described in the AC, you must follow it in all important respects.
+5/31/18 AC 43-210A CHG 1
+CONTENTS
+Paragraph Page
+1 Introduction ................................................................................................................................1
+1.1 Purpose of This Advisory Circular (AC) ..........................................................................1
+1.2 Audience ...........................................................................................................................1
+1.3 Where You Can Find This AC ..........................................................................................1
+1.4 What This AC Cancels ......................................................................................................1
+1.5 Regulatory Basis ...............................................................................................................1
+1.6 Repair and Alteration Classification .................................................................................1
+1.7 Responsibility for Obtaining Data ....................................................................................2
+1.8 General Information ..........................................................................................................2
+2 Data ............................................................................................................................................2
+2.1 Definition of Data as it Relates to a Repair or Alteration .................................................2
+2.2 Classification of Technical Data .......................................................................................2
+3 Field Approval Process and Data Approval...............................................................................7
+3.1 General Information ..........................................................................................................7
+3.2 Conduct Research .............................................................................................................7
+3.3 Evaluate the Data ..............................................................................................................9
+3.4 Perform Repair or Alteration ..........................................................................................13
+4 Flight Manual Supplements .....................................................................................................16
+4.1 General Information ........................................................................................................16
+4.2 AFMs ..............................................................................................................................16
+4.3 Manual Supplements .......................................................................................................16
+4.4 Format and Content .........................................................................................................16
+4.5 Supplement Information Approval .................................................................................17
+4.6 ACO Approval Process ...................................................................................................17
+4.7 Additional AFMS Considerations ...................................................................................18
+5 Maintenance Information .........................................................................................................18
+5.1 Purpose of Maintenance Information for a Major Repair or Major Alteration ..............18
+5.2 Benefits of Providing Maintenance Information for a Major Repair or Major
+Alteration ........................................................................................................................19
+ii
+5/31/18 AC 43-210A CHG 1
+5.3 Maintenance Information as Part of the Major Repair or Major Alteration Data
+Package ...........................................................................................................................19
+5.4 Maintenance Information Under the Civil Air Regulations (CAR) ................................19
+5.5 Maintenance Information Development .........................................................................20
+5.6 Maintenance Information Content ..................................................................................20
+6 Administrative Information .....................................................................................................22
+6.1 Acronyms ........................................................................................................................22
+6.2 Related FAA Orders and ACs (current editions) ............................................................23
+6.3 Obtaining Copies of Referenced Documents and This AC ............................................24
+6.4 AC Feedback Form .........................................................................................................24
+Appendix A. Instructions for Completing the Field Approval Checklist .................................. A-1
+Appendix B. Instructions for Completing the Compliance Checklist ........................................B-1
+List of Figures
+Figure 2-1. Possible Resources for Approved Data Relevant to Major Repairs or Major
+Alterations .................................................................................................................. 6
+Figure 3-1. Field Approval Process ............................................................................................ 14
+Figure 3-2. Determination of Major or Minor Alteration or Repair ........................................... 15
+Figure 5-1. Major Repair or Major Alteration Maintenance Information Checklist .................. 21
+Figure A-1. Field Approval Checklist ....................................................................................... A-3
+Figure B-1. Compliance Checklist Format................................................................................ B-1
+iii
+5/31/18 AC 43-210A CHG 1
+1 INTRODUCTION.
+1.1 Purpose of This Advisory Circular (AC). This AC describes a standardized procedure
+for requesting approval of technical data associated with major repairs/major alterations.
+This AC also provides:
+1. Information that can help determine if a proposed repair/alteration requires
+approved data;
+2. Guidance and standardized procedures for obtaining field approval, or
+approval by other means, of data; and
+3. Instructions for completing the field approval checklist (see Appendix A,
+Instructions for Completing the Field Approval Checklist).
+1.2 Audience. This AC applies to applicants who request data approval for a major repair or
+major alteration.
+1.3 Where You Can Find This AC. You can find this AC on the Federal Aviation
+Administration’s (FAA) website at
+http://www.faa.gov/regulations_policies/advisory_circulars.
+1.4 What This AC Cancels. This AC cancels AC 43-210, Standardized Procedures for
+Requesting Field Approval of Data, Major Alterations, and Repairs, dated February 17,
+2004.
+1.5 Regulatory Basis. Title 14 of the Code of Federal Regulations (14 CFR) part 43, § 43.7
+specifies persons authorized to approve an aircraft or aircraft component for return to
+service after maintenance, preventative maintenance, rebuilding, or alteration. For major
+repairs or major alterations the work must be done in accordance with technical data
+approved by the Administrator. The following CFR references require the use of this
+data:
+1. Title 14 CFR part 43, §§ 43.7(d) and 43.17(e)(2);
+2. Title 14 CFR part 65, § 65.95(a)(1);
+3. Title 14 CFR part 121, § 121.379(b);
+4. Title 14 CFR part 135, § 135.437(b); and
+5. Title 14 CFR part 145, § 145.201(c)(2).
+Title 14 CFR part 1, § 1.1 defines major repairs and major alterations. In addition, part 43
+appendix A, paragraph (a) further defines what constitutes a major alteration. In a similar
+manner, part 43 appendix A, paragraph (b) further defines what constitutes a major
+repair. A minor alteration is an alteration that is not major. Likewise, a minor repair is
+one that is not a major repair.
+1.6 Repair and Alteration Classification. Only those persons with § 43.7 authorization may
+approve an aircraft, airframe, engine, propeller, appliance, or component part for return to
+1
+5/31/18 AC 43-210A CHG 1
+service after the performance of a repair or alteration. You must perform major repairs
+and major alterations using technical data approved by the Administrator. You may
+perform minor repairs and alterations using technical data acceptable to the
+Administrator. This AC includes flowcharts (Figures 3-1, Field Approval Process, and
+3-2, Determination of Major or Minor Alteration or Repair) to help classify a
+repair/alteration.
+For assistance, you may use the Major Repair and Alteration Data Approval Job Aid at
+http://fsims.faa.gov/Wdocs/Other/Major_Repair_Alteration_Job-Aid%20R5.pdf. The job
+aid lists types of alterations and how applicants typically classify them.
+1.7 Responsibility for Obtaining Data. It is the responsibility of the person intending on
+performing the major repair/major alteration to obtain, organize, and submit data to the
+approving authority for review and approval.
+1.8 General Information. For the purpose of this AC, the use of the term “aviation safety
+inspector (ASI)” includes Flight Standards Designated Airworthiness Representatives—
+Maintenance (DAR-T) authorized to issue data approvals in support of a major repair or
+alteration when performing work in accordance with FAA Order 8000.95, Designee
+Management Policy. Also, for the purposes of this guidance, Aircraft Flight Manual
+Supplement (AFMS) includes Rotorcraft Flight Manual Supplement (RFMS) and
+Supplemental Aircraft Flight Manual (SAFM).
+2 DATA.
+2.1 Definition of Data as it Relates to a Repair or Alteration. In its broadest sense, data is
+recorded information. Data supporting a repair or alteration consists of drawings and
+specifications, including a list of drawings and specifications, which define configuration
+and design features of a particular article, repair, or alteration. Data may be classified
+relative to its type or its approval status.
+2.2 Classification of Technical Data.
+2.2.1 Types of Data.
+2.2.1.1 Descriptive Data. Descriptive data describes the design of the repair or
+alteration. It should include references to installation methods, materials,
+fabrication processes, dimensions, and tolerances. It may also include
+intended function and how the alteration is appropriate to the aircraft.
+Descriptive data typically includes:
+1. Drawings and specifications;
+Note: We accept sketches, photos, or pictures as descriptive data when
+it is appropriate, such as for certain one-time approvals.
+2
+8/17/16 AC 43-210A
+2. Information on dimensions, materials, and processes;
+3. Airworthiness limitations (AL), if applicable; and
+4. Documents required by the airworthiness requirements such as
+instructions for continued airworthiness (ICA) and airplane or
+Rotorcraft Flight Manuals (RFM).
+2.2.1.2 Substantiating Data. Substantiating data shows that the design complies with
+the applicable regulations and that all appropriate technical considerations
+have been addressed. Examples of substantiating data can be: test results,
+computations, and other information necessary to show that descriptive data
+meets the applicable requirements. Such substantiating data, when approved,
+forms the basis of declaring conformity to the type design or applicable
+airworthiness standards.
+2.2.2 Approval Status.
+2.2.2.1 Approved Data. Approved data is data approved by the FAA. The term
+“approved” is based on § 1.1, which states, “Approved, unless used with
+reference to another person, means approved by the FAA or any person to
+whom the FAA has delegated its authority in the matter concerned, or
+approved under the provisions of a bilateral agreement between the United
+States and a foreign country or jurisdiction.” For the FAA ASI, “approved” or
+“approved by” means the item (e.g., data; methods, techniques, and practices;
+manual contents; tools; materials; equipment) is required to be and has been
+reviewed and formally approved by the FAA (or appropriate Civil Aviation
+Authority (CAA)). Approvals are granted only by letter, by a stamp of
+approval, by the issuance of operations specifications (OpSpecs), or by other
+official means. All data used to substantiate a major repair or major alteration,
+regardless of the source, must be approved before being used.
+2.2.2.2 Acceptable Data.
+2.2.2.2.1 Acceptable data means data acceptable to the FAA. The terms “acceptable to
+the Administrator” and “acceptable to the FAA” appear numerous times in the
+maintenance regulations. They refer to any item addressed in the regulation
+(e.g., data; methods, techniques, and practices; manual contents; tools;
+materials; equipment; etc.) that must meet regulatory standards. If the
+regulation requires only that an item must be “acceptable to,” it does not
+necessarily follow that the FAA requires the item to have specific FAA review
+and acceptance before it may be used. A person making a determination of
+whether an item is “acceptable to” the agency must ensure the item addresses
+specific applicable section(s) of the regulations.
+2.2.2.2.2 Items required by regulation to be “acceptable to” the FAA or to the
+Administrator (unless otherwise required by regulation to be approved) do not
+necessarily require FAA review and acceptance prior to a person using the
+3
+5/31/18 AC 43-210A CHG 1
+item. A person using an item that must be acceptable to the FAA should be
+able to demonstrate that the item meets all applicable regulatory requirements.
+If, however, upon subsequent review of the item, the FAA believes the item is
+not acceptable, the agency has the burden of demonstrating its unacceptability
+in any related enforcement matter. In any event, if an ASI finds an item
+unacceptable to the FAA, the ASI must immediately inform the maintenance
+provider/certificate holder, in writing, of the potential noncompliance and
+request compliance.
+2.2.3 Previously Approved Data. This term refers to data that was approved for a specific
+purpose, such as a Supplemental Type Certificate (STC) or major alteration on an
+aircraft, powerplant, propeller, or appliance. All previously approved data has to be
+applicable to the requested major repair or major alteration. All differences, deviations,
+inclusions, and exclusions between the original use of the data and the current one must
+be considered before the data can be approved for use. Figure 2-1, Possible Resources for
+Approved Data Relevant to Major Repairs or Major Alterations, lists typical sources by
+which you can obtain previously approved data. Not all of this data may be readily
+available. It is the applicant’s responsibility to review all data that is available. You
+should consider the following items when evaluating previously approved data:
+2.2.3.1 Product Certification Basis. If the certification basis applicable to the
+product intended to be altered or repaired is different from the basis the
+previously approved data was developed for, you must make a comparison of
+the two and address the differences in making a determination of applicability
+for use of the previously approved data.
+2.2.3.2 Special Conditions. A special condition is a regulation that applies to a
+particular aircraft design. The FAA issues special conditions when the
+airworthiness regulations for an aircraft, aircraft engine, or propeller design do
+not contain adequate or appropriate safety standards, because of a novel or
+unusual design feature. If special conditions are required to show compliance,
+representative data must be specifically approved for the product or appliance
+intended for alteration or repair. One example where a special condition may
+be needed would be the display of Synthetic Vision System video on a
+head-up display to provide a level of safety equivalent to 14 CFR part 25,
+§ 25.773.
+Note: New and novel processes like Additive Manufacturing
+(AM)/3-D printing used to fabricate replacement parts may require
+much more substantiation than parts produced by traditional methods
+to determine equivalency to the original (design) or properly altered
+condition due to the different material properties, especially for a
+metal AM replacement part when compared to the original
+certification basis.
+4
+5/31/18 AC 43-210A CHG 1
+2.2.3.3 Equivalent Level of Safety (ELOS) Findings. If ELOS are used to show
+compliance, the underlying data must be specifically approved for the specific
+product or appliance intended for alteration.
+2.2.3.4 Exemptions. If data was developed and approved for a product design based
+on an exemption to an airworthiness standard, you must consider the
+exemption impact and any deviation which may have been granted to the
+approved product or appliance. Such exemption or deviation may require
+independent approval by the FAA. An appropriately authorized Designated
+Engineering Representative (DER) or Organization Designation Authorization
+(ODA) may evaluate and recommend approval of an exemption as a part of
+the exemption request package.
+2.2.3.5 Applicability. You must review the data to determine applicability to
+intended use. If any data is not appropriate to the intended repair or alteration,
+it should not be referenced as supporting data.
+5
+8/17/16 AC 43-210A
+Figure 2-1. Possible Resources for Approved Data Relevant to Major Repairs or
+Major Alterations
+Type Certificate Data Sheet (TCDS). Refer to FAA Order 8620.2, Applicability and Enforcement of
+Manufacturer’s Data, for guidance.
+Repair data from AC 43.13-1, Acceptable Methods, Techniques, and Practices—Aircraft Inspection and
+Repair, as approved data for nonpressurized areas of civil aircraft, (list the AC chapter, page, and
+paragraph in block 8 of FAA Form 337, Major Repair & Alteration (Airframe, Powerplant, Propeller, or
+Appliance)), when the applicant has determined that it is:
+• Appropriate to the product that is intended to be repaired;
+• Directly applicable to the repair being made; and
+• Not contrary to the airframe, engine, propeller, or appliance manufacturers’ repair data or
+instructions.
+Alteration data from AC 43.13-2, Acceptable Methods, Techniques, and Practices—Aircraft Alterations,
+as approved data for major alterations for nonpressurized areas of civil aircraft (list the AC chapter, page,
+and paragraph are listed in block 8 of FAA Form 337), when the user has determined that it is:
+• Appropriate to the product intended to be altered;
+• Directly applicable to the alteration being made; and
+• Not contrary to the airframe, engine, propeller, product, or appliance manufacturers’ data.
+Airworthiness Directives (AD).
+Appliance manufacturer’s manuals or instructions, unless specifically not approved by the FAA, may be
+used as approved data for major repairs.
+Data describing an article used in an FAA-approved alteration under a Parts Manufacturer Approval
+(PMA).
+Designated Engineering Representative (DER)-approved data, including repair specifications, within
+limitations on the DER’s authorization.
+Organization Designation Authorization (ODA)-approved data, within limitations in the ODA holder’s
+procedures manual.
+FAA-approved portions of Structural Repair Manuals (SRM).
+FAA-approved Service Bulletins (SB) and Service Letters (SL) or similar documents as documented in
+AC 20-77, Use of Manufacturers’ Maintenance Manuals.
+Foreign bulletins, for use on U.S.-certificated foreign-designed aircraft, when approved by the foreign
+authority within the provisions of a bilateral agreement with the United States or as listed in TCDS notes.
+Original aircraft manufacturer’s service and repair data in accordance with current regulations, for major
+repairs on elements of nonpressurized airplanes, 12,500 pounds or less maximum certificated takeoff
+weight provided the person intending to perform such repair determines that:
+• Data is appropriate and applicable for the specific make, model, and type of product being
+repaired; and
+• The repair does not deviate from the manufacturer’s methods, techniques, and practices.
+United States Department of Commerce, Form ACA-337 dated prior to October 1, 1955, provided the
+data is appropriate, directly applicable, and not contrary to regulatory requirements.
+Supplemental Type Certificate (STC) data may substantiate a major alteration on a different aircraft,
+provided such alteration is applicable to specifically listed make, model, and type appropriate to the
+certification basis and applicable amendments.
+6
+8/17/16 AC 43-210A
+3 FIELD APPROVAL PROCESS AND DATA APPROVAL.
+3.1 General Information. An applicant must use approved technical data to accomplish a
+major alteration or repair on a product and approve the product for return to service. An
+applicant must perform three major steps when performing a major repair or major
+alteration: (1) conduct research, (2) evaluate the data, and (3) perform the repair or
+alteration.
+Note: You should not start work until all data is approved. Inspectors may not be
+able to complete the approval as requested. If an applicant starts work before the
+approval is finalized, that work may not conform to the repair or alteration as
+approved.
+3.2 Conduct Research.
+3.2.1 Plan the Repair or Alteration. You should review the repair or alteration to be performed
+to determine whether certain aspects of the alteration or repair can be accomplished using
+acceptable data and/or whether other aspects of the alteration or repair require approved
+data. You must ensure that the performance of the intended alteration or repair meets the
+applicable airworthiness standards and the product can be restored to its original or
+proper condition and is safe for operation. You must determine the certification basis of
+the product, including all applicable amendments, to ascertain if the alteration or repair
+can be accomplished using the field approval process admissible as a minor change to the
+type design. Or if the intended alteration or repair is significant enough to warrant
+seeking an STC, since a determination of such intended repair or alteration, when
+performed, results in a major change to the type design. Typical data may include
+analysis, drawings, photographs, specifications, or test data as required.
+Note: Some aspects of the intended alteration or repair of a product may be
+performed using the field approval process. Whereas, other aspects may be
+determined significant such that one or more certificated properties of the product
+are exceeded, thus requiring a new certification basis be established.
+3.2.2 Determine the Repair or Alteration Classification. Determine if the repair/alteration is a
+minor change in type design (as defined in 14 CFR part 21, § 21.93) to the product’s type
+design; and if so, is it a major or a minor repair/alteration. To determine if a
+repair/alteration is major or minor, refer to part 43 appendix A. Figure 3-2, Determination
+of Major or Minor Alteration or Repair, is a flowchart of the field approval evaluation
+process based on part 43 appendix A.
+3.2.2.1 Minor Repair or Minor Alteration. If you are properly authorized, you may
+perform a minor repair/alteration using acceptable data, and without approved
+data. You may document the alteration or repair in the product’s logbook per
+§ 43.9 indicating return to service.
+3.2.2.2 Major Repair or Major Alteration. You must perform a major repair or
+major alteration using approved data. If some substantiating data is not
+obtainable or cannot be approved by FAA designees or the ASI, then such
+7
+5/31/18 AC 43-210A CHG 1
+data needs to be developed for those aspects of the major repair or major
+alteration intended to be performed and the request for such data approval be
+elevated to the appropriate Aircraft Certification Office (ACO) for approval.
+Your ASI can assist in such elevation and should assure timely review and
+approval by the ACO. After such data is reviewed and approved by the ACO,
+then the alteration or repair may be accomplished, using such substantiating
+data, as applicable. The field approval process is not available for all major
+repairs/major alterations, and some aircraft are not eligible for field approvals.
+Major repairs and major alterations that have all the necessary DER or
+ODA-approved technical data do not require further approval. See
+paragraphs 3.3.2 and 3.3.3 for more information.
+Note 1: AM-fabricated parts may require a classification of “major,”
+even for Category 3 fabricated parts, either as an alteration or repair
+due to part 1 definition criteria of: “That is not done according to
+accepted practices or cannot be done by elementary operations.” This
+is due to AM not being considered an elementary operation and
+standards for methods, techniques, or practices acceptable to the
+Administrator having not yet been established.
+Note 2: Aircraft operating under part 121 are eligible for field
+approvals under certain circumstances. If you are a part 121 operator,
+check with the ASI before beginning a repair or alteration. Persons
+holding delegation by the Administrator are not authorized to issue
+field approvals for aircraft operated by air carriers certificated under
+part 121.
+3.2.2.3 Major Changes to Type Design. Major alterations that are major changes to
+type design require an STC or an amended type certificate (TC). The field
+approval process is not available in these cases. AC 21-40, Guide for
+Obtaining a Supplemental Type Certificate, details the STC application
+process for a broad audience, while FAA Order 8110.4, Type Certification,
+provides that same detail for ASIs. Personnel may also find useful the Major
+Repair and Alteration Data Approval Job Aid associated with FAA
+Order 8300.16, Major Repair and Alteration Data Approval. This job aid lists
+alterations governed by Order 8300.16 and alterations that should be
+processed as major changes in the approved type design.
+3.2.3 Gather Data. Gather and organize data describing and substantiating the proposed
+repair/alteration. Review paragraph 2 for data types you might use.
+3.2.4 Prepare the Data Package. To organize project data and standardize the field approval
+process, we recommend using a data package. A typical data package might include the
+following items:
+1. Field approval checklist;
+2. Copies of any substantiating data;
+8
+5/31/18 AC 43-210A CHG 1
+3. FAA Form 337, Major Repair or Alteration (Airframe, Powerplant, Propeller,
+or Appliance);
+4. Compliance checklist;
+5. Maintenance information; and
+6. Draft Proposed AFMS or RFMS.
+Note: Review and approval of an AFMS, RFMS, or SAFM is independent of the
+review and acceptance of approved data (or approval of technical data). The
+approval is indicated on the AFMS, RFMS, or SAFM, so you don’t need a
+separate FAA Form 337. See paragraph 4 for further AFMS information.
+3.2.4.1 Complete the Field Approval Checklist (recommended). The checklist and
+instructions in Appendix A can be used to organize data and information
+before requesting a field approval. It is a tool to ensure your submission is
+complete.
+3.2.4.2 Substantiate Applicable Requirements. Indicate the specific applicable
+airworthiness requirements to show compliance, including the amendment
+level of the regulation and other requirements, except that you should not use
+general references, such as “part 25.” As shown in Appendix B, Instructions
+for Completing the Compliance Checklist, you may reference a compliance
+checklist specific to descriptive data instead of listing regulatory requirements.
+3.2.4.3 Complete FAA Form 337. Complete FAA Form 337, except for dates and
+signatures in blocks 6 and 7. You should enter dated signatures after
+completing the repair/alteration and inspecting for conformance. AC 43.9-1,
+Instructions for Completion of FAA Form 337, provides guidance on how to
+complete this form.
+3.3 Evaluate the Data. Review the data to determine (1) if the package is complete and
+inclusive, and (2) if applicable data has been approved. There are several methods to
+obtain all the approved data. We sometimes use the field approval process, with an
+authorized ASI, to approve technical data. Another alternative is approval of all the data
+by a DER or ODA. In some cases, you might need multiple DERs when the
+repair/alteration deals with several disciplines, such as systems and structures.
+3.3.1 The Field Approval Process. Field approvals are a method by which the FAA approves
+technical data for a major repair/major alteration on a single aircraft, and gives
+operational approval by reviewing and approving an AFMS (RFMS or SAFM). A field
+approval may constitute an approval for the alteration or repair, and is a one-time
+approval for the product or appliance to which it applies. The overall process is illustrated
+in Figure 3-1, Field Approval Process, and is explained in paragraphs 3.3.1.1 through
+3.3.1.3 below. Field approvals are a method by which we approve technical data for a
+major repair/major alteration on a single aircraft.
+9
+5/31/18 AC 43-210A CHG 1
+A field approval may require engineering assistance or coordination with an ACO. You
+may use the field approval process to obtain approval of acceptable data in certain cases.
+Note 1: The information and process steps are provided in Figure 3-1 in a
+specific order to show a logical progression through the repair/alteration. We are
+not implying that one step must follow another in the order presented. Several
+actions may take place concurrently or in a different order. The goal is that you
+address all necessary concerns and regulatory considerations when performing a
+major repair/major alteration.
+Note 2: The paragraph numbers next to blocks in the figure correspond to
+associated paragraph numbers in this order, which provide information in more
+detail.
+3.3.1.1 Contact the ASI. Contact a local FAA office and speak with an ASI who has
+field approval authority. Discuss the repair or alteration with the ASI and
+determine if you need to meet to review the request. Be as specific as possible
+about the needs, and especially about the schedule. In some cases you may
+contact DARs delegated with the authority to perform data approvals in
+support of a major repair or alteration.
+3.3.1.2 Provide Data Package to the ASI. Send a complete data package to the ASI.
+Using the checklist in Appendix B is one way to organize data and may help
+prevent omissions.
+3.3.1.3 ASI Review Procedures.
+3.3.1.3.1 When the ASI receives the package, the ASI will review it to determine if the
+field approval request is appropriate.
+1. Confirm that the applicant, in accordance with § 1.1 and part 43
+appendix A, properly determined that the repair or alteration is
+major. Minor alterations/repairs do not require approved data. ASIs
+who deny data approval requests for alterations or repairs that do
+not require approval must explain to the applicant the reason for
+the denial and, if requested, provide a written explanation in letter
+or electronic form.
+2. Once the repair/alteration is confirmed to be a major, the ASI or
+designee must refer to the Major Repair and Alteration Data
+Approval Job Aid in order to confirm that the project is within the
+scope of a field approval. The ASI should examine the data and
+determine if all the data for the project has been approved. If all the
+required data is approved, then a field approval or STC is not
+required.
+3. If all the required technical data is not approved, then additional
+approvals (e.g., DER-approved data) or a field approval are
+necessary. If it is determined that the alteration requires an STC,
+10
+5/31/18 AC 43-210A CHG 1
+inform the applicant to apply for an STC or amended TC (if the
+applicant is the design approval holder (DAH)).
+3.3.1.3.2 After the ASI has reviewed the data package and/or inspected the aircraft, and
+can approve the repair/alteration, the ASI may (1) approve the data package
+only, or (2) approve the repair/alteration on FAA Form 337 by physical
+inspection. The ASI will sign and date block 3 indicating approval. The ASI
+enters one of two statements:
+1. First statement: “The data identified herein complies with the
+applicable airworthiness requirements and is approved for the
+above described aircraft, subject to conformity inspection by a
+person authorized in § 43.7.”
+Note: This statement is entered on block 3 of FAA Form 337 when the
+ASI reviews a data package and completes data approval.
+2. Second statement: “Approval by Physical Inspection,
+Demonstration, Testing, etc. One Aircraft: The repair or alteration
+identified herein complies with the applicable airworthiness
+requirements and is approved for the above described aircraft,
+subject to conformity inspection by a person authorized in § 43.7.”
+Note: This statement is entered on block 3 of FAA Form 337 when the
+ASI makes a physical inspection of the aircraft, or the applicant
+satisfactorily performs a demonstration or other type of test and the
+ASI completes an installation or repair approval.
+3.3.2 DER Data Approval.
+3.3.2.1 A properly authorized DER is a designee of the FAA whom an applicant may
+employ to provide approved technical data to support a major repair/major
+alteration. A DER’s authority is limited to specific functions, and data from
+more than one DER may be necessary. If an applicant has determined that a
+single DER has, or multiple DERs have, provided necessary approved data for
+the repair/alteration before involving the ASI, then no field approval is
+required.
+3.3.2.2 A DER may approve descriptive and/or substantiating data, if specifically
+authorized, to support a major repair or major alteration. However, this
+DER-approved data may not be adequate to cover every aspect of the repair or
+alteration. Repairs or alterations involving flight manual supplements, ALs,
+ground and flight test plans, ground and flight tests, compliance inspections,
+alterations to critical structure or life-limited parts, ICA, special conditions,
+noise findings, and ELOS findings may require data that a DER is not
+normally authorized to approve. If the repair or alteration requires approval of
+data beyond the DER’s authority, then additional approval, such as an FAA
+field approval or managing office approval, is required.
+11
+5/31/18 AC 43-210A CHG 1
+3.3.2.3 In order to help the repair or alteration installer, DERs will provide a
+statement on their approval to indicate whether the data being approved does
+(or does not) constitute all the data necessary to substantiate compliance of the
+repair or alteration with all applicable airworthiness regulations. In order to
+help the installer and Flight Standards District Office (FSDO) involved, the
+DER must add the following note to the “List of Data” block on FAA
+Form 8110-3:
+“This approval is for engineering design data only. It indicates the data listed
+above demonstrates compliance only with the regulations specified by
+paragraph and subparagraph listed below as ‘Applicable Requirements.’
+This form (does/does not) approve all data necessary for the installer to
+reference in the approval for return to service.”
+3.3.2.4 We have referenced DER authorizations and limitations in FAA
+Order 8110.37, Designated Engineering Representative (DER) Handbook.
+This reference includes Repair Specification DER (RS-DER) authorizations
+and limitations, and general guidance on approving data for major
+repairs/major alterations. A list of current DERs and their appointed functions
+and authorizations is available at
+https://www.faa.gov/other_visit/aviation_industry/designees_delegations/desi
+gnee_types/media/DERDirectory.pdf.
+Note: Although DERs are not authorized to approve block 3 of FAA
+Form 337, you may use DER-approved data as a basis for a
+repair/alteration in support of FAA Form 337. However, when you
+have obtained sufficient DER-approved data that addresses
+requirements in parts 21 and 43, the approval process applicable to the
+alteration is complete. The person performing the alteration, not the
+DER, is then responsible for a conformity inspection and for return to
+service approval of the installation.
+3.3.3 ODA Data Approval. You may employ an ODA holder to provide approved technical
+data to support a major repair/major alteration. If the applicant employs a DER or ODA
+to provide approved technical data to support a major repair or major alteration, then the
+applicant is responsible for ensuring that the DER or ODA is authorized to approve such
+technical data, as applicable to the repair or alteration. If the data, as approved, addresses
+the entire repair or alteration, and all of the requirements of parts 21 and 43 are met, there
+is no requirement for any further approval by the ASI. If the repair or alteration data is
+approved solely by the DER, ODA, or DAR, but necessitates maintenance instructions,
+the maintenance instructions should be prepared by the applicant and recorded in block 8
+of FAA Form 337.
+3.3.3.1 TC/STC ODA Holder With Specific Authority. A TC/STC ODA holder
+with specific authority for major repairs/major alterations may approve data
+12
+8/17/16 AC 43-210A
+within its authority and limitations. The data approved by an ODA holder may
+not adequately cover every aspect of the repair/alteration.
+1. If a major repair, alteration, and airworthiness (MRA) ODA holder
+approves all aspects of the major repair/major alteration data, then
+no field approval is necessary.
+2. If an MRA ODA holder (or holders) does not approve all aspects
+of the major repair/major alteration data, then a field approval is
+necessary.
+3.3.3.2 ODA Authorizations and Limitations. For ODA authorizations and
+limitations and general guidance on approving data for major repairs/major
+alterations, refer to FAA Order 8100.15, Organization Designation
+Authorization Procedures. A list of authorized ODA holders is available on
+the FAA Designees and Delegations webpage:
+https://www.faa.gov/other_visit/aviation_industry/designees_delegations/desi
+gnee_types/media/ODADirectory.pdf.
+Note: The person performing the alteration, not the ODA, must
+conform and approve the installation from ODA-approved data. ODA
+data does not constitute a field approval, but is approved data that, like
+other approved data, can be used for major repairs/major alterations
+without further approval if the data addresses the entire
+repair/alteration. In this case, the applicant does not need to request a
+field approval.
+3.4 Perform Repair or Alteration. After the repair or alteration data is approved, an
+applicant can alter or repair the aircraft or one of its components. When the work is
+complete, you should review the requirements of 14 CFR part 91, § 91.407, and
+determine if a flight check is required. Complete FAA Form 337 and follow procedures
+in part 43 appendix B.
+13
+8/17/16 AC 43-210A
+Figure 3-1. Field Approval Process
+14
+8/17/16 AC 43-210A
+Figure 3-2. Determination of Major or Minor Alteration or Repair
+15
+8/17/16 AC 43-210A
+4 FLIGHT MANUAL SUPPLEMENTS.
+4.1 General Information. Alterations that result in a change to limitations, procedures,
+performance, or loading information from a current Aircraft Flight Manual (AFM) or
+placards, require an applicant to develop revised or supplemental information as
+addressed in paragraph 4.3.
+4.2 AFMs. Aircraft operating procedures and performance limitations are typically
+provided as:
+1. AFMs, including either Airplane Flight Manuals or RFMs;
+2. Markings or placards; or
+3. Combinations of the above.
+4.3 Manual Supplements. Supplemental information should be provided by one of the
+following methods:
+1. If the aircraft has an AFM, the supplemental information must appear in an
+AFMS or RFMS.
+2. If the aircraft does not have an AFM, the applicant should create an SAFM so
+necessary information is available to the pilot. An SAFM complements a
+pilot’s operating handbook (POH), which may not have specific FAA
+approval. Procedures for creating and approving an SAFM are the same as
+those for an AFMS.
+3. You may present the supplemental information either as modified, or as
+additional markings and placards in aircraft TC’d before AFMs were required.
+4.3.1 If you substantiate a major alteration based on data from a previous approval, you must
+include a flight manual supplement if the previous approval had one. For the purposes of
+this guidance, AFMSs include RFMSs and SAFMs, as well.
+4.4 Format and Content. The AFMS or placards must contain any new or changed
+limitations, emergency or abnormal operating procedures, normal operating procedures,
+performance, and system operating instructions. The supplement must be consistent with
+the format of the basic AFM and applicable to the specific installation configuration for
+the installed equipment and systems. ASI approvals of AFMSs should not contain
+conditional operation descriptions and need to be explicit for the configuration of the
+targeted aircraft. AC 23-8, Flight Test Guide for Certification of Part 23 Airplanes, and
+AC 25.1581-1, Airplane Flight Manual, provide guidance on what is recommended in an
+AFMS for aircraft.
+4.4.1 The AFMS should include:
+1. The aircraft manufacturer’s name;
+2. Model number;
+16
+5/31/18 AC 43-210A CHG 1
+3. Serial number; and
+4. Registration number.
+4.4.2 You should include the following information, as applicable to the altered conditions:
+1. Abnormal or emergency procedures;
+2. Normal operating procedures;
+3. Aircraft performance;
+4. Aircraft Weight and Balance (W&B); and
+5. Loading information.
+4.4.3 You must install placards in clear view of the pilot and, as applicable, in proximity to
+affected equipment. Refer to 14 CFR part 25, § 25.1541; part 27, § 27.1541; or part 29,
+§ 29.1541.
+4.5 Supplement Information Approval. Responsibility for approval of the supplement
+(including placards) depends on the supplement type.
+1. Alterations that change the operating limits of the aircraft, aircraft engine, or
+propeller would require coordination with an appropriate ACO for approval of
+the supplement or placard that stipulates limitations to the operation of the
+aircraft. See paragraph 4.6 for details.
+2. ASIs with field approval authorization, and (1) authorized specifically by
+Flight Standards policy, or (2) are delegated by an ACO to review and
+approve certain AFMSs.
+3. An authorized DER/ODA can approve an AFMS or placards.
+4.5.1 Repairs or alterations that do not result in a change to limitations, procedures,
+performance, or loading information may not require a supplement, or the supplemental
+information may consist of system operating instructions only.
+4.5.2 An ASI with field approval authorization may review and grant field approval of an
+appropriately affixed placard characterizing operating limitations or information about
+certain equipment and systems. Refer to § 25.1541, § 27.1541, or § 29.1541. For
+examples of such placards—“Not For IFR” or “VFR Only”—refer to the “Kinds of
+Operations” paragraph in § 25.1525, § 27.1525, or § 29.1525.
+4.6 ACO Approval Process.
+1. If an ASI or designee is not authorized to approve the AFMS, the ASI must
+forward the alteration data package, including proposed AFMS, to the ACO.
+2. The ASI may route the AFMS to ACO flight-test personnel for review.
+3. After review and approval of the AFMS/RFMS/SAFM or limitations placard,
+the applicant must record the approval date, document name, and number on
+17
+8/17/16 AC 43-210A
+FAA Form 337, block 8, Description of Work Accomplished. Such entry must
+indicate that the AFMS/RFMS/SAFM is inserted or affixed to the AFM or
+POH.
+4. The ASI will advise you that equipment upgrades, such as changes to the
+operating system software or hardware, may invalidate the existing
+FAA-approved AFMS and trigger a subsequent review and approval of the
+AFMS.
+4.7 Additional AFMS Considerations.
+4.7.1 Operating procedures for a newly-installed appliance or system are frequently provided
+in an AFMS. Alternatively, you may incorporate equipment manufacturer operating
+manuals by reference into the AFMS.
+4.7.2 Manufacturer operating instructions included/referenced in the AFMS for systems or
+equipment, such as those for navigation systems, do not require specific approval; but if
+included in an AFMS, the AFMS itself must be approved.
+4.7.3 If all of the following conditions are met, an AFMS is not required:
+1. Does not restrict, displace, or limit the use of required equipment;
+2. All new limitations can be addressed via placards;
+3. The aircraft performance is not negatively affected;
+4. Does not require a placard per TC or STC;
+5. Visual flight rules (VFR) use only; and
+6. Is nonrequired equipment.
+4.7.4 For equipment limited to VFR, you must install a readable placard, in clear view of the
+pilot, stating that the equipment is only for VFR operations. If the equipment
+automatically displays this message on start-up and the pilot must clear the message, an
+AFMS or RFMS is unnecessary, since the placard or display contains the equipment
+limitation.
+5 MAINTENANCE INFORMATION.
+5.1 Purpose of Maintenance Information for a Major Repair or Major Alteration.
+Maintenance information provides adequate instructions to maintain the repaired or
+altered product in an airworthy condition. For this AC, major repair and major alteration
+maintenance information can include:
+1. Additional maintenance instructions;
+2. Supplemental information for the product’s maintenance manual or Illustrated
+Parts Catalog (IPC);
+3. Supplemental information for the product’s ICAs;
+18
+8/17/16 AC 43-210A
+4. Supplemental information for articles or appliance maintenance manuals or
+IPC; and
+5. Any other information required to maintain the product in an airworthy
+condition.
+5.2 Benefits of Providing Maintenance Information for a Major Repair or Major
+Alteration.
+5.2.1 When the owner/operator references maintenance information in block 8 of FAA
+Form 337, this gives the aircraft owner or operator the following advantages:
+1. One document can reference or contain maintenance information about a
+major repair/major alteration;
+2. The maintenance information becomes a permanent aircraft record as required
+by § 91.417(a)(2)(vi); and
+3. The owner or operator can contact the FAA registry for a replacement FAA
+Form 337 if the maintenance information is lost or destroyed.
+Note: The owner or operator may also forward a previously-completed FAA
+Form 337 and associated maintenance information if the FAA Form 337 is not
+currently in the registry.
+5.2.2 The additional reference to maintenance information as part of a major repair/major
+alteration in the aircraft’s maintenance entry will ensure that maintenance personnel
+appropriately address maintenance of the major repair/major alteration during future
+inspections.
+5.3 Maintenance Information as Part of the Major Repair or Major Alteration Data
+Package. We have determined that a major repair/major alteration data package must
+address how the major repair or major alteration affects continued airworthiness. You
+must develop maintenance information if a major repair/major alteration affects the
+continued airworthiness, or must also state that a major repair or major alteration doesn’t
+affect continued airworthiness. If a major repair or major alteration affects the
+airworthiness limitations section (ALS) of the ICA or a part of the ICA that requires FAA
+approval, such as described in part 26 ICA requirements, you must obtain approval of
+that maintenance information from an ACO/ODA for the major repair/major alteration.
+The maintenance information checklist is a guide for an applicant to develop maintenance
+information using methods, techniques, and practices acceptable to the FAA. See
+Figure 5-1, Major Repair or Major Alteration Maintenance Information Checklist.
+5.4 Maintenance Information Under the Civil Air Regulations (CAR). For field-approved
+major alterations to CAR-certificated aircraft, engines, and propellers, maintenance
+information must meet the requirements of the original certification basis. In cases where
+the major alteration adds new items the CAR requirements didn’t address, the major
+alteration must meet applicable 14 CFR requirements. Figure 5-1 lists acceptable
+19
+8/17/16 AC 43-210A
+guidance for these installations, and also for inspections not covered by the Original
+Equipment Manufacturer’s (OEM) instructions.
+5.5 Maintenance Information Development.
+5.5.1 Major alterations needing maintenance or inspections not covered by OEM’s instructions
+must have maintenance information prepared in accordance with methods, techniques,
+and practices acceptable to the FAA. You should reference maintenance information as
+an attachment on block 8 of FAA Form 337. The entry—required by § 43.9—must refer
+to the maintenance information and be identified by the approval date of the FAA
+Form 337. You must keep the form in the aircraft’s permanent records per
+§ 91.417(a)(2)(vi).
+Maintenance information referenced in block 8 of FAA Form 337 is considered
+acceptable to the FAA and will not be approved unless specifically required by
+regulation, as with changes to the ALS or part 26 requirements. Applicants should use
+Figure 5-1 as a guide to help ensure they meet all applicable requirements.
+Note: Maintenance information is required to be acceptable to the FAA;
+therefore, it should be referenced as a separate document on block 8 of FAA
+Form 337. Block 8 of FAA Form 337 is for data that is approved by the FAA.
+5.5.2 If the repair or alteration data is approved solely by the DER, ODA, or Designated
+Airworthiness Representative (DAR), but necessitates maintenance instructions, the
+maintenance instructions should be prepared by the applicant and referenced in block 8 of
+FAA Form 337.
+5.6 Maintenance Information Content. Maintenance information must include specific
+instructions describing how to maintain affected areas for continued airworthiness. For
+example, maintenance information might include a new requirement for a special
+inspection during 100-hour or annual inspections. Such maintenance information must
+also include installed appliances that may impact maintainability of the product, or
+require periodic maintenance to ensure continued performance. When appropriate,
+maintenance information must also include specific instructions for determining
+excessive wear or deterioration, troubleshooting information, installation and removal
+procedures, and functional checks. You must also include servicing requirements, such
+as recommended fluid change intervals or lubrication schedules. In the instances that a
+repair/alteration must meet part 26 requirements, only the ACO may approve the
+maintenance information developed. The maintenance information must contain:
+1. Inspection tasks and task intervals;
+2. Instructions and procedures in the aircraft maintenance manual to accomplish
+the tasks; and
+3. Precautions, protective procedures, and information in the standard wiring
+practices manual.
+20
+5/31/18 AC 43-210A CHG 1
+Figure 5-1. Major Repair or Major Alteration Maintenance Information Checklist
+A/C Make Model S/N Reg. # N
+Revision: Date: System:
+Item Subject
+1. Introduction: This section briefly describes the aircraft, engine, propeller, or component that has been altered or repaired.
+Include any other information on the content, scope, purpose, arrangement, applicability, definitions, abbreviations,
+precautions, units of measurement, referenced publications, and distribution of the maintenance information, as
+applicable.
+2. Description: Describe the major alteration/repair and its functions, including an explanation of its interface with other
+systems, if any.
+3. Control, operation information or special procedures, if any.
+4. Servicing information, such as types of fluids used, servicing points, and location of access panels, as appropriate.
+5. Maintenance instructions, such as recommended inspection/maintenance periods in which each of the major
+components are inspected, cleaned, lubricated, adjusted, and tested, including applicable wear tolerances and work
+recommended at each scheduled maintenance period. This section can refer to the manufacturer’s instructions for the
+equipment installed where appropriate, such as functional checks, repairs, and inspections. It should also include any
+special notes, cautions, or warnings, as applicable.
+6. Troubleshooting information: Information describing probable malfunctions, how to recognize those malfunctions, and
+remedial actions to be taken.
+7. Removal and replacement information: This section describes the order and method of removing and replacing products,
+parts, and any necessary precautions. This section should also describe or refer to such items as manufacturer’s
+instructions to make required tests, trim checks, alignment, calibrations, center of gravity (CG) changes, lifting or shoring,
+if any.
+8. Diagrams: Access plates and information, if needed, to gain access for inspection.
+9. Special inspection requirements, such as X-ray, ultrasonic testing, or magnetic particle inspection, if required.
+10. Application of protective treatments to the affected area after inspection and/or maintenance, if any.
+11. Data: Relative to structural fasteners such as type, torque, and installation requirements, if any.
+12. List of special tools: Special tools required, if any.
+13. For commuter category aircraft: The following additional information must be furnished, as applicable:
+A. Electrical loads.
+B. Methods of balancing flight controls.
+C. Identification of primary and secondary structures.
+D. Special repair methods applicable to the aircraft.
+14. Recommended overhaul periods must be noted on maintenance information when an overhaul period has been set by
+the manufacturer of a component or equipment. If there is no overhaul period, the maintenance information for item 14
+should state: “No additional overhaul time limitations.”
+15. Airworthiness Limitation Section (ALS): Include any approved ALs identified by the manufacturer or Federal Aviation
+Administration (FAA) Certificate Management ACO (CMACO). Example: An STC incorporated in a larger field-approved
+major alteration may have an AL. The FAA inspector will not establish, alter, or cancel ALs without coordinating with the
+appropriate FAA CMACO. If there are no changes to ALs, maintenance information should state for item 15:
+“No additional ALs” or “Not applicable.”
+16. Maintenance information must be acceptable to the FAA. As such, changes should be documented by submitting the
+revised maintenance information along with the original Form 337 to the Aircraft Registration Branch in Oklahoma City.
+An entry in the aircraft records should indicate the current revision.
+21
+5/31/18 AC 43-210A CHG 1
+6 ADMINISTRATIVE INFORMATION.
+6.1 Acronyms.
+1. 14 CFR Title 14 of the Code of Federal Regulations
+2. A&P Airframe and Powerplant
+3. AC Advisory Circular
+4. ACO Aircraft Certification Office
+5. AD Airworthiness Directive
+6. AEG Aircraft Evaluation Group
+7. AFM Aircraft Flight Manual
+8. AFMS Aircraft Flight Manual Supplement
+9. AL Airworthiness Limitation
+10. ALS Airworthiness Limitation Section
+11. AML Approved Model List
+12. AMT Aviation Maintenance Technician
+13. ASI Aviation Safety Inspector
+14. CAA Civil Aviation Authority
+15. CAR Civil Air Regulations
+16. CFR Code of Federal Regulations
+17. CG Center of Gravity
+18. CMACO Certificate Management Aircraft Certification Office
+19. DAH Design Approval Holder
+20. DAR Designated Airworthiness Representative
+21. DAR-T Designated Airworthiness Representative—Maintenance
+22. DER Designated Engineering Representative
+23. ELOS Equivalent Level of Safety
+24. FSDO Flight Standards District Office
+25. ICA Instructions for Continued Airworthiness
+26. IFR Instrument Flight Rules
+27. MRA Major Repair, Alteration, and Airworthiness (a type of ODA)
+28. ODA Organization Designation Authorization
+29. OEM Original Equipment Manufacturer
+30. OpSpecs Operations Specifications
+22
+5/31/18 AC 43-210A CHG 1
+31. PMA Parts Manufacturer Approval
+32. POH Pilot’s Operating Handbook
+33. RFM Rotorcraft Flight Manual
+34. RFMS Rotorcraft Flight Manual Supplement
+35. RS-DER Repair Specification Designated Engineering Representative
+36. SAFM Supplemental Airplane Flight Manual
+37. SB Service Bulletin
+38. SL Service Letter
+39. SRM Structural Repair Manual
+40. STC Supplemental Type Certificate
+41. TC Type Certificate
+42. TCDS Type Certificate Data Sheet
+43. VFR Visual Flight Rules
+44. W&B Weight and Balance
+6.2 Related FAA Orders and ACs (current editions).
+1. FAA Order 8000.95, Designee Management Policy.
+2. FAA Order 8100.15, Organization Designation Authorization Procedures.
+3. FAA Order 8110.4, Type Certification.
+4. FAA Order 8110.37, Designated Engineering Representative (DER)
+Handbook.
+5. FAA Order 8300.16, Major Repair and Alteration Data Approval.
+6. AC 20-138, Airworthiness Approval of Positioning and Navigation Systems.
+7. AC 20-180, Approved Model List Supplemental Type Certificate
+(AML-STC).
+8. AC 21-40, Guide for Obtaining a Supplemental Type Certificate.
+9. AC 23-8, Flight Test Guide for Certification of Part 23 Airplanes.
+10. AC 25.1581-1, Airplane Flight Manual.
+11. AC 43.9-1, Instructions for Completion of FAA Form 337.
+12. AC 43.13-1, Acceptable Methods, Techniques, and Practices—Aircraft
+Inspection and Repair.
+13. AC 43.13-2, Acceptable Methods, Techniques, and Practices—Aircraft
+Alterations.
+23
+5/31/18 AC 43-210A CHG 1
+6.3 Obtaining Copies of Referenced Documents and This AC.
+6.3.1 A list of all ACs is available at
+http://www.faa.gov/regulations_policies/advisory_circulars/. Applicants can also obtain
+a copy of current CFRs online at http://www.ecfr.gov.
+6.3.2 The Major Repair and Alteration Data Approval Job Aid is available at
+http://fsims.faa.gov/Wdocs/Other/Major_Repair_Alteration_Job-Aid%20R5.pdf.
+6.4 AC Feedback Form. For your convenience, the AC Feedback Form is the last page of
+this AC. Note any deficiencies found, clarifications needed, or suggested improvements
+regarding the contents of this AC on the Feedback Form.
+24
+8/17/16 AC 43-210A
+Appendix A
+APPENDIX A. INSTRUCTIONS FOR COMPLETING THE FIELD APPROVAL
+CHECKLIST
+When requesting a field approval, you may use the fillable checklist found in Figure A-1, Field
+Approval Checklist, to provide the requested data, forms, descriptive items, and other
+information. You can also use an equivalent method for presenting the information and data. The
+following instructions apply to corresponding items 1 through 12 of the Field Approval Checklist
+as illustrated in this appendix.
+Item 1—Aircraft. The Registration Number is the same as shown on AC Form 8050-3,
+Certificate of Aircraft Registration. Only U.S.-registered aircraft are eligible for field approvals.
+Item 2—Applicant. Enter the applicant’s name, address, and telephone number.
+Item 3—Type of Product and Certification Basis. On the upper line, enter a check mark in the
+appropriate box to identify the item being approved. If you check “Other,” enter the product’s
+description in the space provided. On the bottom line, check the box that identifies how your
+aircraft or product was certificated. If you don’t know this information, you can find it on the
+Type Certificate Data Sheet (TCDS) for your aircraft or engine. On the TCDS, look in the
+section titled Certification Basis.
+Item 4—Brief Description of Project. Using the space provided, enter a short summary of the
+proposed repair or alteration, such as “Installing a GPS in the instrument panel above the right
+yoke.” If you need additional space, attach a continuation page and note that on the form in this
+area.
+Item 5—Schedule for Completion of Project. On the first line, enter the date you need the field
+approval. On the second line, enter the date you plan to start the work, and on the last line, enter
+the date you expect to complete the work.
+Item 6—Who Will Perform the Repair or Alteration? On the top line, enter the name of the
+certificated mechanic who will be doing the work. If a repair station is doing the work, leave the
+mechanic’s name blank and enter the name of the repair station. On the second line, enter the
+mechanic’s Airframe and Powerplant (A&P) certificate number, or if a repair station is doing the
+work, their certificate number.
+Also enter a contact name if you are using a repair station. If the ASI doing the approval has a
+question and you are not available, this will make it easier for the ASI to find someone
+knowledgeable about the project. On the third line, give the telephone number of the mechanic or
+the repair station doing the work. On the bottom line, enter the location where the work will be
+done. This location information should be as complete as possible.
+Item 7—Designees (Designated Airworthiness Representatives (DAR) and Designated
+Engineering Representatives (DER)). If you are working with any DERs or DARs for this
+project, include their names and telephone numbers, in case the ASI needs to contact them for
+additional information or clarification. DERs have authorization limitations; if you are working
+with a designee, make sure anticipated work is within the designee’s authorization.
+A-1
+5/31/18 AC 43-210A CHG 1
+Appendix A
+Item 8—Compliance Statement and Compliance Checklist. Before completing the
+repair/alteration to your aircraft, be aware that the aircraft must still meet its certification basis
+after alteration/repair. Include an entry in block 8, to include proof or data, as well as your
+compliance statement, that it still meets its certification basis. The compliance checklist will list
+affected 14 CFR/Civil Air Regulations (CAR) and indicate how the applicant showed
+compliance. The person doing the repair or alteration creates this checklist, and should address
+each section of the regulations applicable to the project. Appendix B, Instructions for
+Completing the Compliance Checklist, has a sample compliance checklist format.
+Item 9—Previous Alterations or Repairs that May be Affected by This Alteration. Review
+the aircraft’s records to determine if there are any modifications, Supplemental Type Certificates
+(STC), alterations, or repairs that could conflict with the proposed repair/alteration. If the prior
+applicant completed an FAA Form 337 for repairs/alterations that might be affected, include it.
+If the prior applicant made a logbook entry concerning the work done, make a copy of that entry
+and include it in your package. Photographs and drawings of previous alterations/repairs that
+might be a factor can also be very helpful.
+Item 10—Maintenance Information. In this attachment, describe how to maintain the
+airworthiness of the altered/repaired part of the aircraft. This might include 100-hour or annual
+inspections. These should be specific instructions, including (1) inspection items, (2) minimum
+or maximum measurements of parts for wear or deterioration, (3) troubleshooting, (4) functional
+checks, (5) installation and removal procedures, and (6) servicing requirements, such as fluid
+change intervals or lubrication schedules. Figure 5-1 provides guidance and a sample checklist
+for creating maintenance information.
+Item 11—Aircraft Flight Manual Supplement (AFMS). If you have an AFMS for your
+alteration, include a copy of it. Guidance for creating an AFMS is available in Advisory Circular
+(AC) 23-8, Flight Test Guide for Certification of Part 23 Airplanes. Appendix 5 of AC 23-8 has
+a sample format that you can use.
+Item 12—Data Attached. If the data you are attaching is included on this list, check the
+appropriate box. If you have data or information not included in this list, check the box labeled
+“Other” and enter in the space provided a short description of what you are including.
+Item 13—For All the Data Submitted. Review all data submitted and determine if the data
+meets the requirements listed. Check the appropriate box after review.
+Item 14—FAA Use Only. Don’t write or mark in this area—it is for FAA use only.
+A-2
+8/17/16 AC 43-210A
+Appendix A
+Figure A-1. Field Approval Checklist
+FIELD APPROVAL CHECKLIST
+Instructions: Print or type all entries. This information should be as complete as possible prior
+to an initial discussion with the FAA.
+1. Aircraft: Make Model
+Registration Number Serial Number
+N
+2. Applicant: Name Address/Telephone Number
+3. Type of Product and Certification Basis:
+☐ Airframe ☐ Engine ☐ Appliance ☐ Other
+For an appliance or “Other” list:
+Manufacturer:
+Part Number:
+Serial Number:
+☐ Part 23 ☐ Part 25 ☐ Part 27 ☐ Part 29 ☐ Part 31 ☐ Part 33
+☐ CAR 3 ☐ CAR 4(a) ☐ CAR 4(b) ☐ CAR 6 ☐ CAR 7 ☐ CAR 8 ☐ CAR 13
+4. Brief Description of Project:
+☐ Repair ☐ Alteration
+5. Schedule for Completion of Project:
+Date when field approval is needed:
+Date when work is to begin:
+Date for ASI visit (projected):
+Projected completion date for project:
+6. Who Will Perform the Repair or Alteration?
+Mechanic’s name: or Repair station:
+Certificate no:
+Contact person at the facility:
+Telephone number:
+Location where alteration/repair will be accomplished:
+A-3
+8/17/16 AC 43-210A
+Appendix A
+FIELD APPROVAL CHECKLIST
+7. Designees (DARs, DERs, or ODAs): ☐ None
+Designated Engineering Representatives (DER), Designated Airworthiness Representatives
+(DAR), or Organization Designation Authorization (ODA):
+Name: Telephone number:
+Name: Telephone number:
+8. Compliance Statement and Compliance Checklist:
+Attach the Compliance Checklist you completed.
+9. Previous Repairs or Alterations Affected by This Alteration: Is this alteration compatible
+with previously installed equipment?
+10. Maintenance Information and/or Instructions for Continued Airworthiness (ICA):
+Maintenance information attached? ☐ Yes ☐ No
+Reference these in block 8 of FAA Form 337.
+11. Aircraft Flight Manual Supplement (AFMS):
+Do you have an AFMS? ☐ Yes ☐ No If yes, attach a copy.
+12. Data Attached:
+☐ Proposed FAA Form 337
+☐ Description of alteration, including drawings, schematics, and diagrams
+☐ Material list
+☐ Processes
+☐ Specifications
+☐ Previous field approvals
+☐ FAA Form(s) 8110-3
+☐ Serviceable tags
+☐ Placards
+☐ Test data and/or flight test data
+☐ Load analysis (electrical and/or structural)
+☐ Other:
+A-4
+8/17/16 AC 43-210A
+Appendix A
+FIELD APPROVAL CHECKLIST
+13. For All the Data Submitted:
+Are all applicable airworthiness requirements addressed? ☐ Yes ☐ No ☐ N/A
+Are all exemptions addressed? ☐ Yes ☐ No ☐ N/A
+Are all special conditions addressed? ☐ Yes ☐ No ☐ N/A
+Are the requirements of Part 26 addressed? ☐ Yes ☐ No ☐ N/A
+Are all applicable airworthiness directives addressed? ☐ Yes ☐ No ☐ N/A
+Are instructions for continued airworthiness addressed? ☐ Yes ☐ No ☐ N/A
+Are the applicable noise requirements addressed? ☐ Yes ☐ No ☐ N/A
+Are the applicable emission requirements addressed? ☐ Yes ☐ No ☐ N/A
+Are all changes to a flight manual addressed? ☐ Yes ☐ No ☐ N/A
+14. FAA Use Only:
+Date:
+Assigned inspector:
+FAA office:
+Is a field approval appropriate? ☐ Yes ☐ No
+If a field approval is not performed, what is the proper method for alteration?
+☐ Record entry ☐ STC ☐ Other:
+Requires ACO concurrence? ☐ Yes ☐ No
+Requires AEG ICA review? ☐ Yes ☐ No
+Additional information required:
+A-5
+5/31/18 AC 43-210A CHG 1
+Appendix B
+APPENDIX B. INSTRUCTIONS FOR COMPLETING THE COMPLIANCE
+CHECKLIST
+The compliance checklist documents applicable regulations and associated compliance with
+those regulations.
+Note: Optionally, you may list applicable regulatory requirements for which you
+still need to present substantiation data.
+Instructions for completing this sample compliance checklist are as follows:
+1. Title 14 of the Code of Federal Regulations (14 CFR) Part/Civil Air Regulations (CAR)
+Paragraph. You may list specific regulations by number, such as 14 CFR part 23, § 23.2525.
+Also include current amendment level.
+2. Subject. You should list the subject or title of applicable 14 CFR part/CAR paragraphs, such
+as storage battery design and installation.
+3. Method of Compliance. The method of compliance may include design drawings (D),
+analyses (A), tests (T), or other methods (O). Some compliance checklists simply list the letter
+corresponding to a method of compliance. Other checklists reference specific data by title or
+number. However you format the method of compliance, you and the ASI should agree on the
+format.
+4. Documentation Reference. List the documentation, such as a test report number, analysis, or
+report number that demonstrated compliance to the subject 14 CFR part or CAR paragraph.
+Figure B-1. Compliance Checklist Format
+14 CFR Part/CAR Method of Documentation
+Subject
+Paragraph Compliance Reference
+B-1
+Advisory Circular Feedback Form
+If you find an error in this AC, have recommendations for improving it, or have suggestions
+for new items/subjects to be added, you may let us know by contacting the Flight Standards
+Directives Management Officer at 9-AWA-AFB-140-Directives@faa.gov.
+Subject: AC 43-210A CHG 1, Standardized Procedures for Obtaining Approval of Data Used
+in the Performance of Major Repairs and Major Alterations
+Date: _____________________
+Please check all appropriate line items:
+An error (procedural or typographical) has been noted in paragraph ____________
+on page _______.
+Recommend paragraph _____________ on page __________ be changed as follows:
+______________________________________________________________________
+______________________________________________________________________
+In a future change to this AC, please cover the following subject:
+(Briefly describe what you want added.)
+______________________________________________________________________
+______________________________________________________________________
+Other comments:
+______________________________________________________________________
+______________________________________________________________________
+I would like to discuss the above. Please contact me.
+Submitted by: Date: ______________________

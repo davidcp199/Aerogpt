@@ -1,0 +1,2128 @@
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Date: 07 Nov 2025
+TYPE-CERTIFICATE
+DATA SHEET
+NO. EASA.A.274
+for
+Ventus a
+Type Certificate Holder
+Schempp-Hirth Flugzeugbau GmbH
+Krebenstraße 25
+73230 Kirchheim/teck
+Germany
+For models: Ventus a
+Ventus a/16.6
+Ventus b
+Ventus b/16.6
+Ventus c
+Ventus-2a
+Ventus-2b
+Ventus-2c
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 1 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Date: 07 Nov 2025
+0.I. Table of Content
+0.I. Table of Content ..................................................................................................................................... 2
+Section A: Ventus a ...................................................................................................................................... 3
+Section B: Ventus a/16.6 .............................................................................................................................. 8
+Section C: Ventus b .................................................................................................................................... 13
+Section D: Ventus b/16.6 ............................................................................................................................ 18
+Section E: Ventus c .................................................................................................................................... 24
+Section F: Ventus-2a .................................................................................................................................. 30
+Section G: Ventus-2b ................................................................................................................................. 35
+Section H: Ventus-2c .................................................................................................................................. 40
+Administrative Section ................................................................................................................................ 46
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 2 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section A: Ventus a Date: 07 Nov 2025
+Section A: Ventus a
+A.I. General
+Allgemeines
+1. a) Type: (Muster) Ventus a
+b) Variant: (Baureihe) Ventus a
+2. Airworthiness Category: Sailplane, LFSM - Utility
+Lufttüchtigkeitskategorie : Segelflugzeug, LFSM - Utility
+3. Manufacturer: SCHEMPP-HIRTH FLUGZEUGBAU GmbH
+Hersteller Krebenstraße 25
+73230 Kirchheim/Teck
+Germany
+4. LBA Type Certification Date 25 November 1980
+Datum der LBA-Musterzulassung
+5. This TCDS replaces LBA TCDS No 349
+Dieses Kennblatt ersetzt das LBA Kennblatt Nr. 349
+A.II. Certification Basis
+Zulassungsbasis
+1. Certification Basis: Defined by LBA Confirmation letter with certification
+Zulassungsbasis: standards, dated 18 April 1980.
+Bestätigungsschreiben mit Zulassungsbedingungen.
+2. Airworthiness Requirements: Airworthiness Requirements for Sailplanes and Powered
+Lufttüchtigkeitsforderungen: Sailplanes (LFSM), Issue October 1975
+Lufttüchtigkeitsforderungen für Segelflugzeuge und
+Motorsegler (LFSM) vom Oktober 1975
+3. Requirements elected to comply: Interpretation for Sailplanes with Wing Flaps, dated
+Gewählte Forderungen: December 2, 1975
+Auslegung für Segelflugzeuge mit Wölbklappen vom 02. Dezember 1975
+Standards for Structural Substantiation of Components for
+Sailplanes build from Glass Fiber Reinforced Plastics, Issue
+of March 1965
+Richtlinien zur Führung des Festigkeitnachweises für Bauteile aus
+glasfaserverstärkten Kunststoffen von Segelflugzeugen, Ausgabe März
+1965
+Preliminary Standards for Structural Substantiation of
+Components for Sailplanes and Powered Sailplanes build
+from Carbon Fiber Reinforced Plastics, Issue of Jan. 1980
+Vorläufige Richtlinien für Führung des Festigkeitnachweises für Bauteile
+aus kohlenstoffaserverstärkten Kunststoffen von Segelflugzeugen und
+Motorseglern, Ausgabe Januar 1980
+Joint Airworthiness Requirements for Sailplanes and
+Powered Sailplanes (JAR-22), Issue June 27, 1989,
+(Change 4 of the English Original Issue), including
+- Amendment 22/90/1 dated February 12, 1991
+(see also section A.V.7)
+Lufttüchtigkeitsforderungen für Segelflugzeuge und Motorsegler (JAR-22),
+Ausgabe 27. Juni 1989, (Change 4 der englischen Originalausgabe) mit
+- Amendment 22/90/1 vom 12. Februar 1991 (siehe A.V.7)
+4. Special Conditions: None
+Sonderforderungen:
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 3 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section A: Ventus a Date: 07 Nov 2025
+5. Exemptions: None
+Ausnahmen:
+6. Equivalent Safety Findings: None
+Nachweise gleichwertiger Sicherheit:
+A.III. Technical Characteristics and Operational Limitations
+Technische Merkmale und Betriebsgrenzen
+1. Type Design Definition: LBA-approved List of Drawings for Sailplane Model “Ventus a”
+Musterdefinition: - issue September1980
+- issue March 1983 including Technical Notes up to No. 349-2 and MB
+349-7
+Aufstellung der Zeichnungen für das Segelflugzeug Ventus a, LBA-anerkannt
+- Stand September 1980,
+- Stand März 1983 bis TM 349-2 und Änderungsblatt Nr. 349-7
+2. Description: Single-seat, mid-wing sailplane, CFRP/GFRP fiber construction, 2-piece
+Beschreibung: wing (or optional winglets – see section A.V.7), wing flaps and trailing
+edge airbrakes as combination of spoilers and flaps. Integral Wing Water
+Tanks. GFRP fuselage, retractable undercarriage with wheel brake, T-
+tail (fixed horiz. stabilizer with elevator, fin and rudder)
+Einsitziger Mitteldecker in CFK/GFK-Bauweise, zweiteiliger Tragflügel (wahlweise
+Winglets, siehe A.V.7), Wölbklappen, Bremsklappen mit den Wölbklappen kombiniert als
+Hinterkantendrehklappen Wasserballasttanks im Tragflügel, GFK-Rumpf mit bremsbarem
+Einziehfahrwerk, T-Leitwerk mit Flosse und Ruder.
+3. Equipment: Min. Equipment:
+Ausrüstung: Mindestausrüstung
+1 Air speed indicator (up to 300 km/h)
+Geschwindigkeitsmesser (bis 300 km/h)
+1 Altimeter
+Höhenmesser
+1 4-Point harness (symmetrical)
+4-teilige Anschnallgurte (symmetrisch)
+1 Parachute or back cushion (thickness compressed ~10cm/4in)
+Fallschirm oder Rückenkissen (zusammengedrückt ca.10 cm dick)
+Additional Equipment refer to Flight and Maintenance Manual
+Zusatzausrüstung siehe Flug- und Wartungshandbuch
+4. Dimensions: Span 15.0 m
+Abmessungen: Spannweite
+Wing area 9.51 m²
+Flügelfläche
+Length 6,35 m
+Länge
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 4 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section A: Ventus a Date: 07 Nov 2025
+5. Launching Hooks: 1) Nose tow hook“E 72”, LBA Datasheet No. 60.230/1
+Schleppkupplungen: Bug-Kupplung “E 72”, Kennblattnummer 60.230/1
+2) Nose tow hook “E 75”, LBA Datasheet No. 60.230/1
+Bug-Kupplung “E 75”, Kennblattnummer 60.230/1
+3) Nose tow hook “E 85”, LBA Datasheet No. 60.230/1
+Bug-Kupplung “E 85”, Kennblattnummer 60.230/1
+4) Safety hook „Europa G 72“, LBA Datasheet No. 60.230/2
+Sicherheitskupplung “Europa G 88“, LBA-Kennblattnummer 60.230/2
+5) Safety hook „Europa G 73“, LBA Datasheet No. 60.230/2
+Sicherheitskupplung “Europa G 88“, LBA-Kennblattnummer 60.230/2
+6) Safety hook „Europa G 88“, LBA Datasheet No. 60.230/2
+Sicherheitskupplung “Europa G 88“, LBA-Kennblattnummer 60.230/2
+7) Special tow hook „S 72“, LBA Datasheet No. 60.230/3
+Sonder-Kupplung “S 72”, Kennblattnummer 60.230/3
+Remark: Tow hook 3 and 6 optional (see A.V.6)
+Bemerkung: Kupplung 3 und 6 wahlweise (siehe A.V.6)
+6. Weak links: Ultimate Strength:
+Sollbruchstellen: Bruchfestigkeit:
+- for winch and aero-tow launching max. 550 daN
+für Winden- und Flugzeugschlepp
+Remarks:
+Bemerkung
+Ultimate Strength: ( see A.V.4a, A.V.4b, A.V.4c)
+Bruchfestigkeit: (siehe A.V.4a, A.V.4b, A.V.4c)
+- for winch and aero-tow launching max. 650 daN
+für Winden- und Flugzeugschlepp
+Ultimate Strength: ( see A.V.4d)
+Bruchfestigkeit: (siehe A.V.4d)
+- for winch and aero-tow launching max. 680 daN
+für Winden- und Flugzeugschlepp
+7. Air Speeds: Manoeuvring Speed VA 200 km/h
+Geschwindigkeiten: Manövergeschwindigkeit
+Never Exceed Speed VNE 250 km/h
+Höchstzulässige Geschwindigkeit
+Maximum permitted speeds
+- with flaps at -1, -2, S (VFE) 250 km/h
+bei Wölbklappenstellung
+- with flaps at +1, +2, 0 (VFE) 160 km/h
+bei Wölbklappenstellung
+- with flaps at L (VFE) 160 km/h
+bei Wölbklappenstellung
+Rough Air Speed VRA 200 km/h
+Höchstzulässige Geschwindigkeit bei starker Turbulenz
+Max. Aerotow Speed VT 180 km/h
+Höchstzulässige Geschwindigkeit bei Flugzeugschlepp
+Max. Winch-launch Speed VW 150 km/h
+Höchstzulässige Geschwindigkeit bei Windenschlepp
+Max. Gear Operating Speed VLO 250 km/h
+Höchstzulässige Geschwindigkeit für das Betätigen des Fahrwerks
+8. Operational Capability Approved for VFR-flying in daytime.
+Betriebsart Cloud flying according to the specifications in the Flight Manual
+Zugelassen für Flüge nach VFR bei Tag.
+Wolkenflug gemäß den Angaben im Flughandbuch
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 5 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section A: Ventus a Date: 07 Nov 2025
+9. Maximum Masses: Max. Mass (15.0 m Wingspan) 430 kg
+Höchstzulässige Massen: Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 220 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (see A.V.4a): 500 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 210 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (see A.V.4b): 500 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 220 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (see A.V.4c): 500 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 241 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (see A.V.4d): 525 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 241 kg
+Höchstzulässige Masse der nichttragenden Teile
+10. Centre of Gravity Range: Datum: Most inner wing leading edge
+Schwerpunktsbereich: Leveling means: Wedge 100 : 3,1 on slope of rear top
+fuselage to be horizontal
+Bezugsebene (BE) : Flügelvorderkante bei Wurzelrippe
+Flugzeuglage : Keil 100 : 3,1 auf Rumpfoberkante hinten horizontal
+Forward Limit: 200 mm aft of datum point
+Vordere Grenze: 200 mm hinter Bezugspunkt
+Rearward Limit: 340 mm aft of datum point
+Hintere Grenze: 340 mm hinter Bezugspunkt
+11. Seating Capacity: 1
+Anzahl der Sitze:
+12. Lifetime limitations: Refer to Maintenance Manual
+Lebensdauerbegrenzte Teile: Siehe Wartungshandbuch
+13. Deflection of control Refer to Maintenance Manual
+surfaces: Siehe Wartungshandbuch
+Ruderausschläge
+A.IV. Operating and Service Instructions
+Betriebs- und Instandhaltungsanweisungen
+1. Flight Manual for the sailplane Ventus a, issued September 1980, LBA approved.
+Flughandbuch für das Segelflugzeug Ventus a, Ausgabe September 1980, LBA-anerkannt
+2. Maintenance Manual for the sailplane Ventus a, issued September 1980
+Wartungshandbuch für das Segelflugzeug Ventus a, Ausgabe September 1980
+3. Repair Manual for the CFRP/GFRP sailplane model Ventus a
+Reparaturanweisung für das CFK/GFK Segelflugzeug Ventus a
+4. Operating Instructions for the Tost release, latest approved version
+Betriebshandbuch für die TOST Schleppkupplung , in der jeweils gültigen Ausgabe
+A.V. Notes
+Bemerkungen
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 6 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section A: Ventus a Date: 07 Nov 2025
+1. Manufacturing is confined to industrial production.
+Herstellung nur im Industriebau zulässig.
+2. All parts exposed to sun radiation – except the areas for markings and registration – must have a
+white colour surface.
+Alle Bauteile, die der Sonneneinstrahlung ausgesetzt sind, müssen, mit Ausnahme des Bereiches für Kennzeichen und
+Farbwarnlackierung, eine weiße Oberfläche haben.
+3. The conversion of the sailplane model Ventus a into Variant Ventus a/16.6 is permissible in
+compliance with the LBA-approved Schempp-Hirth Flugzeugbau GmbH. Technical Note No. 349-6.
+Der Umbau des Segelflugzeugmuster Ventus a in die Baureihe Ventus a/16.6 gemäß den Angaben der Technischen
+Mitteilung Nr. 349-6 der Firma Schempp-Hirth Flugzeugbau GmbH, LBA-anerkannt, ist zulässig.
+4. Increasing the maximum permitted all-up mass and the maximum mass of nonlifting parts is
+permissible pertinent to the LBA-approved Schempp-Hirth Flugzeugbau GmbH Technical Note 349-
+7.
+Die Änderung der höchstzulässigen Masse und der höchstzulässigen Masse der nichttragenden Teile gemäß den Angaben
+der Technischen Mitteilung Nr. 349-7, LBA anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+Concerned Serial-Numbers:
+Betroffene Werk-Nummern:
+A.V.4a) 1 to 93 and 141 without mainspar reinforcement
+A.V.4b) 1 to 93 and 141 with mainspar reinforcement
+A.V.4c) 94 to 140 and from serial number 142 up with special release “S 72“
+A.V.4d) 94 to 140 and from serial number 142 up with tow release mechanism model “G 72”
+94 to 140 and from serial number 142 up with tow release mechanism model “G 73”
+A.V.4a) 1 bis 93 und 141 ohne Holmverstärkung
+A.V.4b) 1 bis 93 und 141 mit Holmverstärkung
+A.V.4c) 94 bis 140 und ab Werk-Nr. 142mit Sonderkupplung “S72“
+A.V.4d) 94 bis 140 und ab Werk-Nr. 142mit Sicherheitskupplung “Europa G 72“
+94 bis 140 und ab Werk-Nr. 142mit Sicherheitskupplung “Europa G 73“
+5. The installation of a TOST nose tow release mechanism model “E 72” or “E 75” or “E 85” is
+permissible according to the LBA-approved Schempp-Hirth Technical Note No. 349-3.
+Der Einbau einer Bugkupplung TOST „E 72“ oder „E 75“ oder „E 85“ gemäß der Technischen Mitteilung Nr. 825-12, LBA-
+anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+6. The installation of a TOST nose tow release mechanism model “E 85” and/or the installation of a
+TOST safety tow release mechanism model “EUROPA G 88” is permissible according to the LBA-
+approved Schempp-Hirth Technical Note No. 349-15.
+Der Einbau einer Bugkupplung TOST „E 85“ bzw. der Sicherheitskupplung „EUROPA G 88“ gemäß der Technischen
+Mitteilung Nr. 349-15, LBA-anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+7. The use of swept-up wing tips (“mini-winglets”) or “Masak”-winglets is permissible according to the
+LBA-approved Schempp-Hirth Technical Note No 349-10.
+Die Verwendung von nach oben gezogenen Randbögen (mini-winglets) bzw. von Masak Winglets gemäß den Angaben der
+Technischen Mitteilung Nr. 349-10, LBA-anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 7 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section B: Ventus a/16.6 Date: 07 Nov 2025
+Section B: Ventus a/16.6
+B.I. General
+Allgemeines
+1. a) Type: (Muster) Ventus a
+b) Variant: (Baureihe) Ventus a/16.6
+2. Airworthiness Category: Sailplane, LFSM - Utility
+Lufttüchtigkeitskategorie : Segelflugzeug, LFSM - Utility
+3. Manufacturer: SCHEMPP-HIRTH FLUGZEUGBAU GmbH
+Hersteller Krebenstraße 25
+73230 Kirchheim/Teck
+Germany
+4. LBA Type Certification Date 07 November 1985
+Datum der LBA-Musterzulassung
+5. This TCDS replaces LBA TCDS No 349
+Dieses Kennblatt ersetzt das LBA Kennblatt Nr. 349
+B.II. Certification Basis
+Zulassungsbasis
+1. Certification Basis: Defined by LBA Confirmation letter with certification
+Zulassungsbasis: standards, dated 09 March 1984.
+Bestätigungsschreiben mit Zulassungsbedingungen.
+2. Airworthiness Requirements: Airworthiness Requirements for Sailplanes and Powered
+Lufttüchtigkeitsforderungen: Sailplanes (LFSM), Issue October 1975
+Lufttüchtigkeitsforderungen für Segelflugzeuge und
+Motorsegler (LFSM) vom Oktober 1975
+3. Requirements elected to comply: Interpretation for Sailplanes with Wing Flaps, dated
+Gewählte Forderungen: December 2, 1975
+Auslegung für Segelflugzeuge mit Wölbklappen vom 02. Dezember 1975
+Preliminary Standards for Structural Substantiation of
+Components for Sailplanes and Powered Sailplanes build
+from Glass Fiber and Carbon Fiber Reinforced Plastics,
+Issue of January 1981
+Vorläufige Richtlinien für Bauteile aus glasfaser- und
+kohlenstoffaserverstärkten Kunststoffen von Segelflugzeugen und
+Motorseglern, Ausgabe Januar 1981
+Joint Airworthiness Requirements for Sailplanes and
+Powered Sailplanes (JAR-22), Issue June 27, 1989,
+(Change 4 of the English Original Issue), including
+- Amendment 22/90/1 dated February 12, 1991
+(see also section B.V.7)
+Lufttüchtigkeitsforderungen für Segelflugzeuge und Motorsegler (JAR-22),
+Ausgabe 27. Juni 1989, (Change 4 der englischen Originalausgabe) mit
+- Amendment 22/90/1 vom 12. Februar 1991 (siehe B.V.7)
+4. Special Conditions: None
+Sonderforderungen:
+5. Exemptions: None
+Ausnahmen:
+6. Equivalent Safety Findings: None
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 8 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section B: Ventus a/16.6 Date: 07 Nov 2025
+Nachweise gleichwertiger Sicherheit:
+B.III. Technical Characteristics and Operational Limitations
+Technische Merkmale und Betriebsgrenzen
+1. Type Design Definition: LBA-approved List of Drawings for Sailplane Model “Ventus a/16.6 -
+Musterdefinition: issue April1983
+Aufstellung der Zeichnungen für das Segelflugzeug Ventus a/16.6, LBA-anerkannt
+- Stand April 1983,
+2. Description: Single-seat, mid-wing sailplane, CFRP/GFRP fiber construction, 2-piece
+Beschreibung: wing with tip extensions (or optional winglets – see section B.V.9), wing
+flaps and trailing edge airbrakes as combination of spoilers and flaps.
+Integral Wing Water Tanks. GFRP fuselage, retractable undercarriage
+with wheel brake, T-tail (fixed horiz. stabilizer with elevator, fin and
+rudder)
+Einsitziger Mitteldecker in CFK/GFK-Bauweise, zweiteiliger Tragflügel mit ansteckbaren
+Flügelenden (wahlweise Winglets, siehe B.V.9), Wölbklappen, Bremsklappen mit den
+Wölbklappen kombiniert als Hinterkantendrehklappen Wasserballasttanks im Tragflügel,
+GFK-Rumpf mit bremsbarem Einziehfahrwerk, T-Leitwerk mit Flosse und Ruder.
+3. Equipment: Min. Equipment:
+Ausrüstung: Mindestausrüstung
+1 Air speed indicator (up to 300 km/h)
+Geschwindigkeitsmesser (bis 300 km/h)
+1 Altimeter
+Höhenmesser
+1 4-Point harness (symmetrical)
+4-teilige Anschnallgurte (symmetrisch)
+1 Parachute or back cushion (thickness compressed ~10cm/4in)
+Fallschirm oder Rückenkissen (zusammengedrückt ca. 10 cm dick).
+Additional Equipment refer to Flight and Maintenance Manual
+Zusatzausrüstung siehe Flug- und Wartungshandbuch
+4. Dimensions: Span 15.0 m and 16,6 m
+Abmessungen: Spannweite
+Wing area 9.51 m² and 9,96 m²
+Flügelfläche
+Length 6,35 m
+Länge
+5. Launching Hooks: 1) Nose tow hook “E 72”, LBA Datasheet No. 60.230/1
+Schleppkupplungen: Bug-Kupplung “E 72”, Kennblattnummer 60.230/1
+2) Nose tow hook “E 75”, LBA Datasheet No. 60.230/1
+Bug-Kupplung “E 75”, Kennblattnummer 60.230/1
+3) Nose tow hook “E 85”, LBA Datasheet No. 60.230/1
+Bug-Kupplung “E 85”, Kennblattnummer 60.230/1
+4) Safety hook „Europa G 72“, LBA Datasheet No. 60.230/2
+Sicherheitskupplung “Europa G 88“, LBA-Kennblattnummer 60.230/2
+5) Safety hook „Europa G 73“, LBA Datasheet No. 60.230/2
+Sicherheitskupplung “Europa G 88“, LBA-Kennblattnummer 60.230/2
+6) Safety hook „Europa G 88“, LBA Datasheet No. 60.230/2
+Sicherheitskupplung “Europa G 88“, LBA-Kennblattnummer 60.230/2
+7) Special Tow Hook „S 72“, LBA Datasheet No. 60.230/3
+Sonder-Kupplung “S 72”, Kennblattnummer 60.230/3
+Remark: Tow hook 1 to 3 optional (see B.V.5)
+Bemerkung: Kupplung 1 bis 3 wahlweise (siehe B.V.5)
+Remark: Tow hook 3 to 6 optional (see B.V.6)
+Bemerkung: Kupplung 3 bis 6 wahlweise (siehe B.V.6)
+Remark: Tow hook 4 to 5 optional (see B.V.4d)
+Bemerkung: Kupplung 4 bis 5 wahlweise (siehe B.V.4d)
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 9 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section B: Ventus a/16.6 Date: 07 Nov 2025
+6. Weak links: Ultimate Strength:
+Sollbruchstellen: Bruchfestigkeit:
+- for winch and aero-tow launching max. 560 daN
+für Winden- und Flugzeugschlepp
+Remarks:
+Bemerkung
+Ultimate Strength: ( see B.V.4a, B.V.4b, B.V.4c)
+Bruchfestigkeit: (siehe B.V.4a, B.V.4b, B.V.4c)
+- for winch and aero-tow launching max. 650 daN
+für Winden- und Flugzeugschlepp
+Ultimate Strength: ( see B.V.4d)
+Bruchfestigkeit: (siehe B.V.4d)
+- for winch and aero-tow launching max. 680 daN
+für Winden- und Flugzeugschlepp
+7. Air Speeds: Manoeuvring Speed VA 190 km/h
+Geschwindigkeiten: Manövergeschwindigkeit
+Never Exceed Speed VNE 250 km/h
+Höchstzulässige Geschwindigkeit
+Maximum permitted speeds
+- with flaps at -1, -2, S (VFE) 250 km/h
+bei Wölbklappenstellung
+- with flaps at +1, +2, 0 (VFE) 160 km/h
+bei Wölbklappenstellung
+- with flaps at L (VFE) 160 km/h
+bei Wölbklappenstellung
+Rough Air Speed VRA 190 km/h
+Höchstzulässige Geschwindigkeit bei starker Turbulenz
+Max. Aerotow Speed VT 180 km/h
+Höchstzulässige Geschwindigkeit bei Flugzeugschlepp
+Max. Winch-launch Speed VW 150 km/h
+Höchstzulässige Geschwindigkeit bei Windenschlepp
+Max. Gear Operating Speed VLO 180 km/h
+Höchstzulässige Geschwindigkeit für das Betätigen des Fahrwerks
+8. Operational Capability Approved for VFR-flying in daytime.
+Cloud flying according to the specifications in the Flight Manual
+Restricted aerobatic manoeuvres according to the specifications in the
+Flight Manual.
+Zugelassen für Flüge nach VFR bei Tag.
+Wolkenflug gemäß den Angaben im Flughandbuch
+einfachen Kunstflug gemäß den Angaben im Flughandbuch
+9. Maximum Masses: Max. Mass (15.0 m Wingspan) 430 kg
+Höchstzulässige Massen: Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 220 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (see B.V.4a): 500 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 210 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (see B.V.4b): 500 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 220 kg
+Höchstzulässige Masse der nichttragenden Teile
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 10 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section B: Ventus a/16.6 Date: 07 Nov 2025
+Max. Mass (see B.V.4c): 500 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 241 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (see B.V.4d): 525 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 241 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (16,6 m Wingspan): 430 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 220 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (16,6 m Wingspan see: 430 kg
+B.V.4c and B.V.4d )
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 241 kg
+Höchstzulässige Masse der nichttragenden Teile
+10. Centre of Gravity Range: Datum: Most inner wing leading edge
+Schwerpunktsbereich: Leveling means: Wedge 100 : 3,1 on slope of rear top
+fuselage to be horizontal
+Bezugsebene (BE) : Flügelvorderkante bei Wurzelrippe
+Flugzeuglage : Keil 100 : 3,1 auf Rumpfoberkante hinten horizontal
+Forward Limit: 200 mm aft of datum point
+Vordere Grenze: 200 mm hinter Bezugspunkt
+Rearward Limit: 340 mm aft of datum point
+Hintere Grenze: 340 mm hinter Bezugspunkt
+11. Seating Capacity: 1
+Anzahl der Sitze:
+12. Lifetime limitations: Refer to Maintenance Manual
+Lebensdauerbegrenzte Teile: Siehe Wartungshandbuch
+13. Deflection of control Refer to Maintenance Manual
+surfaces: Siehe Wartungshandbuch
+Ruderausschläge
+B.IV. Operating and Service Instructions
+Betriebs- und Instandhaltungsanweisungen
+1. Flight Manual for the sailplane Ventus a/16.6, issued February 1984, LBA approved.
+Flughandbuch für das Segelflugzeug Ventus a/16.6, Ausgabe Februar 1984, LBA-anerkannt
+2. Maintenance Manual for the sailplane Ventus a/16.6, issued February 1984
+Wartungshandbuch für das Segelflugzeug Ventus a/16.6, Ausgabe February 1984
+3. Repair Manual for the CFRP/GFRP sailplane model Ventus a/16.6
+Reparaturanweisung für das CFK/GFK Segelflugzeug Ventus a/16.6
+4. Operating Instructions for the Tost release, latest approved version
+Betriebshandbuch für die TOST Schleppkupplung , in der jeweils gültigen Ausgabe
+B.V. Notes
+Bemerkungen
+1. Manufacturing is confined to industrial production.
+Herstellung nur im Industriebau zulässig.
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 11 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section B: Ventus a/16.6 Date: 07 Nov 2025
+2. All parts exposed to sun radiation – except the areas for markings and registration – must have a
+white colour surface.
+Alle Bauteile, die der Sonneneinstrahlung ausgesetzt sind, müssen, mit Ausnahme des Bereiches für Kennzeichen und
+Farbwarnlackierung, eine weiße Oberfläche haben.
+3. The conversion of the Serial-No.: 285, 288 to 290, 292 to 353 into Variant Ventus c according to MB
+349-18 is permissible in compliance with the LBA-approved Schempp-Hirth Flugzeugbau GmbH.
+Technical Note No. 349-11.
+Die Überführung der Werk-Nrn: 285, 288 bis 290, 292 bis 353 in der Ausführung nach Änderungsblatt Nr. 349-18 ist gemäß
+den Angaben der Technischen Mitteilung Nr. 349-11 der Firma Schempp-Hirth Flugzeugbau GmbH, LBA-anerkannt, zulässig.
+4. Increasing the maximum permitted all-up mass (Vents a/16.6 only with 15,0 m) and the maximum
+mass of nonlifting parts (Ventus a/16.6 with 15,0 m and 16,6 m) is permissible pertinent to the LBA-
+approved Schempp-Hirth Flugzeugbau GmbH Technical Note 349-7.
+Die Änderung der höchstzulässigen Masse (beim Ventus a/16.6 nur für 15,0 m) und der höchstzulässigen Masse der
+nichttragenden Teile ( beim Ventus a/16.6 für 15,0 m und 16,6 m) gemäß den Angaben der Technischen Mitteilung Nr. 349-7,
+LBA anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+Concerned Serial-Numbers:
+Betroffene Werk-Nummern:
+B.V.4a) 1 to 93 and 141 without mainspar reinforcement
+B.V.4b) 1 to 93 and 141 with mainspar reinforcement
+B.V.4c) 94 to 140 and from Prod.-No. 142 up with special release “S 72“
+B.V.4d) 94 to 140 and from Prod.-No. 142 up with tow release mechanism model “G 72”
+94 to 140 and from Prod.-No. 142 up with tow release mechanism model “G 73”
+B.V.4a) 1 bis 93 und 141 ohne Holmverstärkung
+B.V.4b) 1 bis 93 und 141 mit Holmverstärkung
+B.V.4c) 94 bis 140 und ab Werk-Nr. 142mit Sonderkupplung “S72“
+B.V.4d) 94 bis 140 und ab Werk-Nr. 142mit Sicherheitskupplung “Europa G 72“
+94 bis 140 und ab Werk-Nr. 142mit Sicherheitskupplung “Europa G 73“
+5. The installation of a TOST nose tow release mechanism model “E 72” or “E 75” or “E 85” is
+permissible according to the LBA-approved Schempp-Hirth Technical Note No. 349-3.
+Der Einbau einer Bugkupplung TOST „E 72“ oder „E 75“ oder „E 85“ gemäß der Technischen Mitteilung Nr. 349-13, LBA-
+anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+6. The installation of a TOST nose tow release mechanism model “E 85” and/or the installation of a
+TOST safety tow release mechanism model “EUROPA G 88” is permissible according to the LBA-
+approved Schempp-Hirth Technical Note No. 349-15.
+Der Einbau einer Bugkupplung TOST „E 85“ bzw. der Sicherheitskupplung „EUROPA G 88“ gemäß der Technischen
+Mitteilung Nr. 349-15, LBA-anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+7. The use of swept-up wing tips (“mini-winglets”) or “Masak”-winglets is permissible according to the
+LBA-approved Schempp-Hirth Technical Note No 349-10.
+Die Verwendung von nach oben gezogenen Randbögen (mini-winglets) bzw. von Masak Winglets gemäß den Angaben der
+Technischen Mitteilung Nr. 349-10, LBA-anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 12 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section C: Ventus b Date: 07 Nov 2025
+Section C: Ventus b
+C.I. General
+Allgemeines
+1. a) Type: (Muster) Ventus a
+b) Variant: (Baureihe) Ventus b
+2. Airworthiness Category: Sailplane, LFSM - Utility
+Lufttüchtigkeitskategorie : Segelflugzeug, LFSM – Utility
+3. Manufacturer: SCHEMPP-HIRTH FLUGZEUGBAU GmbH
+Hersteller Krebenstraße 25
+73230 Kirchheim/Teck
+Germany
+4. LBA Type Certification Date 01 April 1981
+Datum der LBA-Musterzulassung
+5. This TCDS replaces LBA TCDS No 349
+Dieses Kennblatt ersetzt das LBA Kennblatt Nr. 349
+C.II. Certification Basis
+Zulassungsbasis
+1. Certification Basis: Defined by LBA Confirmation letter with certification
+Zulassungsbasis: standards, dated 18 April 1980.
+Bestätigungsschreiben mit Zulassungsbedingungen.
+2. Airworthiness Requirements: Airworthiness Requirements for Sailplanes and Powered
+Lufttüchtigkeitsforderungen: Sailplanes (LFSM), Issue October 1975
+Lufttüchtigkeitsforderungen für Segelflugzeuge und
+Motorsegler (LFSM) vom Oktober 1975
+3. Requirements elected to comply: Interpretation for Sailplanes with Wing Flaps, dated
+Gewählte Forderungen: December 2, 1975
+Auslegung für Segelflugzeuge mit Wölbklappen vom
+02. Dezember 1975
+Preliminary Standards for Structural Substantiation of
+Components for Sailplanes build from Glass Fiber
+Reinforced Plastics, Issue of March 1965
+Vorläufige Richtlinien für Bauteile aus glasfaserverstärkten Kunststoffen
+von Segelflugzeugen, Ausgabe März 1965
+Preliminary Standards for Structural Substantiation of
+Components for Sailplanes and Powered Sailplanes build
+from Carbon Fiber Reinforced Plastics, Issue of January
+1980
+Vorläufige Richtlinien für Bauteile aus kohlenstoffaserverstärkten Kunst-
+stoffen von Segelflugzeugen und Motorseglern, Ausgabe Januar 1980
+Joint Airworthiness Requirements for Sailplanes and
+Powered Sailplanes (JAR-22), Issue June 27, 1989,
+(Change 4 of the English Original Issue), including
+- Amendment 22/90/1 dated February 12, 1991
+(see also section C.V.7)
+Lufttüchtigkeitsforderungen für Segelflugzeuge und Motorsegler (JAR-22),
+Ausgabe 27. Juni 1989, (Change 4 der englischen Originalausgabe) mit
+- Amendment 22/90/1 vom 12. Februar 1991 (siehe C.V.7)
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 13 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section C: Ventus b Date: 07 Nov 2025
+4. Special Conditions: None
+Sonderforderungen:
+5. Exemptions: None
+Ausnahmen:
+6. Equivalent Safety Findings: None
+Nachweise gleichwertiger Sicherheit:
+C.III. Technical Characteristics and Operational Limitations
+Technische Merkmale und Betriebsgrenzen
+1. Type Design Definition: LBA-approved List of Drawings for Sailplane Model “Ventus b”
+Musterdefinition: - issue March 1981
+- issue March 1983 including Technical Notes up to No. 349-3
+Aufstellung der Zeichnungen für das Segelflugzeug Ventus b, LBA-anerkannt
+- Stand März 1981,
+- Stand März 1983 bis TM 349-3
+2. Description: Single-seat, mid-wing sailplane, CFRP/GFRP fiber construction, 2-piece
+Beschreibung: wing (or optional winglets – see section C.V.7), wing flaps and trailing
+edge airbrakes as combination of spoilers and flaps. Integral Wing Water
+Tanks. GFRP fuselage (bigger than Ventus a), retractable undercarriage
+with wheel brake, T-tail (fixed horiz. stabilizer with elevator, fin and
+rudder)
+Einsitziger Mitteldecker in CFK/GFK-Bauweise, zweiteiliger Tragflügel (wahlweise
+Winglets, siehe C.V.7), Wölbklappen, Bremsklappen mit den Wölbklappen kombiniert als
+Hinterkantendrehklappen Wasserballasttanks im Tragflügel, GFK-Rumpf (größer als
+Ventus a) mit bremsbarem Einziehfahrwerk, T-Leitwerk mit Flosse und Ruder.
+3. Equipment: Min. Equipment:
+Ausrüstung: Mindestausrüstung
+1 Air speed indicator (up to 300 km/h)
+Geschwindigkeitsmesser (bis 300 km/h)
+1 Altimeter
+Höhenmesser
+1 4-Point harness (symmetrical)
+4-teilige Anschnallgurte (symmetrisch)
+1 Parachute or back cushion (thickness compressed ~10cm/4in)
+Fallschirm oder Rückenkissen (zusammengedrückt ca. 10 cm dick).
+Additional Equipment refer to Flight and Maintenance Manual
+Zusatzausrüstung siehe Flug- und Wartungshandbuch
+4. Dimensions: Span 15.0 m
+Abmessungen: Spannweite
+Wing area 9.51 m²
+Flügelfläche
+Length 6,58 m
+5. Launching Hooks: 1) Nose tow hook “E 72”, LBA Datasheet No. 60.230/1
+Schleppkupplungen: Bug-Kupplung “E 72”, Kennblattnummer 60.230/1
+2) Nose tow hook “E 75”, LBA Datasheet No. 60.230/1
+Bug-Kupplung “E 75”, Kennblattnummer 60.230/1
+3) Nose tow hook “E 85”, LBA Datasheet No. 60.230/1
+Bug-Kupplung “E 85”, Kennblattnummer 60.230/1
+4) Safety hook „Europa G 72“, LBA Datasheet No. 60.230/2
+Sicherheitskupplung “Europa G 88“, LBA-Kennblattnummer 60.230/2
+5) Safety hook „Europa G 73“, LBA Datasheet No. 60.230/2
+Sicherheitskupplung “Europa G 88“, LBA-Kennblattnummer 60.230/2
+6) Safety hook „Europa G 88“, LBA Datasheet No. 60.230/2
+Sicherheitskupplung “Europa G 88“, LBA-Kennblattnummer 60.230/2
+7) Special Tow Hook „S 72“, LBA Datasheet No. 60.230/3
+Sonder-Kupplung “S 72”, Kennblattnummer 60.230/3
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 14 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section C: Ventus b Date: 07 Nov 2025
+Remark: Tow hook 1 and 2 optional (see C.V.5)
+Bemerkung: Kupplung 1 und 2 wahlweise (siehe C.V.5)
+Remark: Tow hook 3 and 6 optional (see C.V.6)
+Bemerkung: Kupplung 2 und 6 wahlweise (siehe A.V.6)
+Remark: Tow hook 4 and 5 optional (see C.V.4d)
+Bemerkung: Kupplung 4 and 5 wahlweise (siehe C.V.4d)
+6. Weak links: Ultimate Strength:
+Sollbruchstellen: Bruchfestigkeit:
+- for winch and aero-tow launching max. 550 daN
+für Winden- und Flugzeugschlepp
+Remarks:
+Bemerkung
+Ultimate Strength: ( see C.V.4a, C.V.4b, C.V.4c)
+Bruchfestigkeit: (siehe C.V.4a, C.V.4b, C.V.4c)
+- for winch and aero-tow launching max. 650 daN
+für Winden- und Flugzeugschlepp
+Ultimate Strength: ( see C.V.4d)
+Bruchfestigkeit: (siehe C.V.4d)
+- for winch and aero-tow launching max. 680 daN
+für Winden- und Flugzeugschlepp
+7. Air Speeds: Manoeuvring Speed VA 200 km/h
+Geschwindigkeiten: Manövergeschwindigkeit
+Never Exceed Speed VNE 250 km/h
+Höchstzulässige Geschwindigkeit
+Maximum permitted speeds
+- with flaps at -1, -2, S (VFE) 250 km/h
+bei Wölbklappenstellung
+- with flaps at +1, +2, 0 (VFE) 160 km/h
+bei Wölbklappenstellung
+- with flaps at L (VFE) 160 km/h
+bei Wölbklappenstellung
+Rough Air Speed VRA 200 km/h
+Höchstzulässige Geschwindigkeit bei starker Turbulenz
+Max. Aerotow Speed VT 180 km/h
+Höchstzulässige Geschwindigkeit bei Flugzeugschlepp
+Max. Winch-launch Speed VW 150 km/h
+Höchstzulässige Geschwindigkeit bei Windenschlepp
+Max. Gear Operating Speed VLO 250 km/h
+Höchstzulässige Geschwindigkeit für das Betätigen des Fahrwerks
+8. Operational Capability Approved for VFR-flying in daytime.
+Cloud flying according to the specifications in the Flight Manual
+Restricted aerobatic manoeuvres according to the specifications in the
+Flight Manual.
+Zugelassen für Flüge nach VFR bei Tag.
+Wolkenflug gemäß den Angaben im Flughandbuch
+einfachen Kunstflug gemäß den Angaben im Flughandbuch
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 15 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section C: Ventus b Date: 07 Nov 2025
+9. Maximum Masses: Max. Mass (15.0 m Wingspan) 430 kg
+Höchstzulässige Massen: Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 220 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (see C.V.4a): 500 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 210 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (see C.V.4b): 500 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 220 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (see C.V.4c): 500 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 241 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (see C.V.4d): 525 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 241 kg
+Höchstzulässige Masse der nichttragenden Teile
+10. Centre of Gravity Range: Datum: Most inner wing leading edge
+Schwerpunktsbereich: Leveling means: Wedge 100 : 4,4 on slope of rear top fuselage to be
+horizontal
+Bezugsebene (BE) : Flügelvorderkante bei Wurzelrippe
+Flugzeuglage : Keil 100 : 4,4 auf Rumpfoberkante hinten horizontal
+Forward Limit: 200 mm aft of datum point
+Vordere Grenze: 200 mm hinter Bezugspunkt
+Rearward Limit: 340 mm aft of datum point
+Hintere Grenze: 340 mm hinter Bezugspunkt
+11. Seating Capacity: 1
+Anzahl der Sitze:
+12. Lifetime Limitations: Refer to Maintenance Manual
+Lebensdauerbegrenzte Teile: Siehe Wartungshandbuch
+13. Deflection of control Refer to Maintenance Manual
+surfaces: Siehe Wartungshandbuch
+Ruderausschläge
+C.IV. Operating and Service Instructions
+Betriebs- und Instandhaltungsanweisungen
+1. Flight Manual for the sailplane Ventus b, issued January 1981, LBA approved.
+Flughandbuch für das Segelflugzeug Ventus b, Ausgabe Januar 1981, LBA-anerkannt
+2. Maintenance Manual for the sailplane Ventus b, issued January 1981
+Wartungshandbuch für das Segelflugzeug Ventus b, Ausgabe Januar 1981
+3. Repair Manual for the CFRP/GFRP sailplane model Ventus b
+Reparaturanweisung für das CFK/GFK Segelflugzeug Ventus b
+4. Operating Instructions for the Tost release, latest approved version
+Betriebshandbuch für die TOST Schleppkupplung , in der jeweils gültigen Ausgabe
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 16 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section C: Ventus b Date: 07 Nov 2025
+C.V. Notes
+Bemerkungen
+1. Manufacturing is confined to industrial production.
+Herstellung nur im Industriebau zulässig.
+2. All parts exposed to sun radiation – except the areas for markings and registration – must have a
+white colour surface.
+Alle Bauteile, die der Sonneneinstrahlung ausgesetzt sind, müssen, mit Ausnahme des Bereiches für Kennzeichen und
+Farbwarnlackierung, eine weiße Oberfläche haben.
+3. The conversion of the sailplane Ventus b into Variant Ventus b/16.6 is permissible in compliance
+with the LBA-approved Schempp-Hirth Flugzeugbau GmbH. Technical Note No. 349-6. (see also
+Ventus b/16.6, D.V.3)
+Der Umbau des Segelflugzeug Ventus b in die Baureihe Ventus b/16.6 gemäß den Angaben der Technischen Mitteilung Nr.
+349-6 der Firma Schempp-Hirth Flugzeugbau GmbH, LBA-anerkannt, ist zulässig. (siehe auch Ventus b/16.6, D.V.3)
+4. Increasing the maximum permitted all-up mass and the maximum mass of nonlifting parts is
+permissible pertinent to the LBA-approved Schempp-Hirth Flugzeugbau GmbH Technical Note 349-
+7.
+Die Änderung der höchstzulässigen Masse und der höchstzulässigen Masse der nichttragenden Teile gemäß den Angaben
+der Technischen Mitteilung Nr. 349-7, LBA anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+Concerned Serial-Numbers:
+Betroffene Werk-Nummern:
+C.V.4a) 1 to 93 and 141 without mainspar reinforcement
+C.V.4b) 1 to 93 and 141 with mainspar reinforcement
+C.V.4c) 94 to 140 and from serial number 142 up with special release “S 72“
+C.V.4d) 94 to 140 and from serial number 142 up with tow release mechanism model “G 72”
+94 to 140 and from serial number 142 up with tow release mechanism model “G 73”
+C.V.4a) 1 bis 93 und 141 ohne Holmverstärkung
+C.V.4b) 1 bis 93 und 141 mit Holmverstärkung
+C.V.4c) 94 bis 140 und ab Werk-Nr. 142mit Sonderkupplung “S72“
+C.V.4d) 94 bis 140 und ab Werk-Nr. 142mit Sicherheitskupplung “Europa G 72“
+94 bis 140 und ab Werk-Nr. 142mit Sicherheitskupplung “Europa G 73
+5. The installation of a TOST nose tow release mechanism model “E 72” or “E 75” is permissible
+according to the LBA-approved Schempp-Hirth Technical Note No. 349-3.
+Der Einbau einer Bugkupplung TOST „E 72“ oder „E 75“ gemäß der Technischen Mitteilung Nr. 825-12, LBA-anerkannt, der
+Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+6. The installation of a TOST nose tow release mechanism model “E 85” and the installation of a TOST
+safety tow release mechanism model “EUROPA G 88” is permissible according to the LBA-approved
+Schempp-Hirth Technical Note No. 349-15.
+Der Einbau einer Bugkupplung TOST „E 85“ und der Sicherheitskupplung „EUROPA G 88“ gemäß der Technischen
+Mitteilung Nr. 349-15, LBA-anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+7. The use of swept-up wing tips (“mini-winglets”) or “Masak”-winglets is permissible according to the
+LBA-approved Schempp-Hirth Technical Note No 349-10.
+Die Verwendung von nach oben gezogenen Randbögen (mini-winglets) bzw. von Masak Winglets gemäß den Angaben der
+Technischen Mitteilung Nr. 349-10, LBA-anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 17 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section D: Ventus b/16.6 Date: 07 Nov 2025
+Section D: Ventus b/16.6
+D.I. General
+Allgemeines
+1. a) Type: (Muster) Ventus a
+b) Variant: (Baureihe) Ventus b/16.6
+2. Airworthiness Category: Sailplane, LFSM - Utility
+Lufttüchtigkeitskategorie : Segelflugzeug, LFSM - Utility
+3. Manufacturer: SCHEMPP-HIRTH FLUGZEUGBAU GmbH
+Hersteller Krebenstraße 25
+73230 Kirchheim/Teck
+Germany
+4. LBA Type Certification Date 21 June 1983
+Datum der LBA-Musterzulassung
+5. This TCDS replaces LBA TCDS No 349
+Dieses Kennblatt ersetzt das LBA Kennblatt Nr. 349
+D.II. Certification Basis
+Zulassungsbasis
+1. Certification Basis: Defined by LBA Confirmation letter with certification
+Zulassungsbasis: standards, dated 24. February 1982.
+Bestätigungsschreiben mit Zulassungsbedingungen.
+2. Airworthiness Requirements: Airworthiness Requirements for Sailplanes and Powered
+Lufttüchtigkeitsforderungen: Sailplanes (LFSM), Issue October 1975
+Lufttüchtigkeitsforderungen für Segelflugzeuge und
+Motorsegler (LFSM) vom Oktober 1975
+3. Requirements elected to comply: Interpretation for Sailplanes with Wing Flaps, dated
+Gewählte Forderungen: December 2, 1975
+Auslegung für Segelflugzeuge mit Wölbklappen vom
+02. Dezember 1975
+Preliminary Standards for the Stress Analysis of
+Components for Sailplanes and Powered Sailplanes build
+from Glass Fiber and Carbon Fiber Reinforced Plastics,
+Issue of January 1981
+Vorläufige Richtlinien für Bauteile aus glasfaser- und
+kohlenstoffaserverstärkten Kunststoffen von Segelflugzeugen und
+Motorseglern, Ausgabe Januar 1981
+Joint Airworthiness Requirements for Sailplanes and
+Powered Sailplanes (JAR-22), Issue June 27, 1989,
+(Change 4 of the English Original Issue), including
+- Amendment 22/90/1 dated February 12, 1991
+(see section D.V.8)
+Lufttüchtigkeitsforderungen für Segelflugzeuge und Motorsegler (JAR-22),
+Ausgabe 27. Juni 1989, (Change 4 der englischen Originalausgabe) mit
+- Amendment 22/90/1 vom 12. Februar 1991 (siehe D.V.8)
+4. Special Conditions: None
+Sonderforderungen:
+5. Exemptions: None
+Ausnahmen:
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 18 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section D: Ventus b/16.6 Date: 07 Nov 2025
+6. Equivalent Safety Findings: None
+Nachweise gleichwertiger Sicherheit:
+D.III. Technical Characteristics and Operational Limitations
+Technische Merkmale und Betriebsgrenzen
+1. Type Design Definition: LBA-approved List of Drawings for Sailplane Model “Ventus
+Musterdefinition: b/16.6” - issue April1983
+Aufstellung der Zeichnungen für das Segelflugzeug Ventus b/16.6, LBA-anerkannt
+- Stand April 1983,
+2. Description: Single-seat, mid-wing sailplane, CFRP/GFRP fiber construction, 2-
+Beschreibung: piece wing with tip extensions (or optional winglets – see section
+D.V.8), wing flaps and trailing edge airbrakes as combination of
+spoilers and flaps. Integral Wing Water Tanks. GFRP fuselage
+(bigger than Ventus a), retractable undercarriage with wheel
+brake, T-tail (fixed horiz. stabilizer with elevator, fin and rudder)
+Einsitziger Mitteldecker in CFK/GFK-Bauweise, zweiteiliger Tragflügel mit
+ansteckbaren Flügelenden (wahlweise Winglets, siehe D.V.8), Wölbklappen,
+Bremsklappen mit den Wölbklappen kombiniert als Hinterkantendrehklappen
+Wasserballasttanks im Tragflügel, GFK-Rumpf (grösser als beim Ventus a) mit
+bremsbarem Einziehfahrwerk, T-Leitwerk mit Flosse und Ruder.
+3. Equipment: Min. Equipment:
+Ausrüstung: Mindestausrüstung
+1 Air speed indicator (up to 300 km/h)
+Geschwindigkeitsmesser (bis 300 km/h)
+1 Altimeter
+Höhenmesser
+1 4-Point harness (symmetrical)
+4-teilige Anschnallgurte (symmetrisch)
+1 Parachute or back cushion (thickness compressed ~10cm/4in)
+Fallschirm oder Rückenkissen (zusammengedrückt ca. 10 cm dick).
+Additional Equipment refer to Flight and Maintenance Manual
+Zusatzausrüstung siehe Flug- und Wartungshandbuch
+4. Dimensions: Span 15.0 m and 16,6 m
+Abmessungen: Spannweite
+Wing area 9.51 m² and 9,96 m²
+Flügelfläche
+Length 6,58 m
+Länge
+5. Launching Hooks: 1) Nose tow hook “E 72”, LBA Datasheet No. 60.230/1
+Schleppkupplungen: Bug-Kupplung “E 72”, Kennblattnummer 60.230/1
+2) Nose tow hook “E 75”, LBA Datasheet No. 60.230/1
+Bug-Kupplung “E 75”, Kennblattnummer 60.230/1
+3) Nose tow hook “E 85”, LBA Datasheet No. 60.230/1
+Bug-Kupplung “E 85”, Kennblattnummer 60.230/1
+4) Safety hook „Europa G 72“, LBA Datasheet No. 60.230/2
+Sicherheitskupplung “Europa G 88“, LBA-Kennblattnummer 60.230/2
+5) Safety hook „Europa G 73“, LBA Datasheet No. 60.230/2
+Sicherheitskupplung “Europa G 88“, LBA-Kennblattnummer 60.230/2
+6) Safety hook „Europa G 88“, LBA Datasheet No. 60.230/2
+Sicherheitskupplung “Europa G 88“, LBA-Kennblattnummer 60.230/2
+7) Special Tow Hook „S 72“, LBA Datasheet No. 60.230/3
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 19 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section D: Ventus b/16.6 Date: 07 Nov 2025
+Sonder-Kupplung “S 72”, Kennblattnummer 60.230/3
+Remark: Tow hook 1 and 2 optional (see D.V.6)
+Bemerkung: Kupplung 1 und 2 wahlweise (siehe D.V.6)
+Remark: Tow hook 3 and 6 optional (see D.V.7)
+Bemerkung: Kupplung 3 und 6 wahlweise (siehe D.V.7)
+Remark: Tow hook 4 and 5 optional (see D.V.4d)
+Bemerkung: Kupplung 4 und 5 wahlweise (siehe D.V.4d)
+6. Weak links: Ultimate Strength:
+Sollbruchstellen: Bruchfestigkeit:
+- for winch and aero-tow launching max. 560 daN
+für Winden- und Flugzeugschlepp
+Remarks:
+Bemerkung
+Ultimate Strength: ( see D.V.4a, D.V.4b, D.V.4c)
+Bruchfestigkeit: (siehe D.V.4a, D.V.4b, D.V.4c)
+- for winch and aero-tow launching max. 650 daN
+für Winden- und Flugzeugschlepp
+Ultimate Strength: ( see D.V.4d)
+Bruchfestigkeit: (siehe D.V.4d)
+- for winch and aero-tow launching max. 680 daN
+für Winden- und Flugzeugschlepp
+7. Air Speeds: Manoeuvring Speed VA 190 km/h
+Geschwindigkeiten: Manövergeschwindigkeit
+Never Exceed Speed VNE 250 km/h
+Höchstzulässige Geschwindigkeit
+Maximum permitted speeds
+Höchstzulässige Geschwindigkeit
+- with flaps at -1, -2, S VFE 250 km/h
+bei Wölbklappenstellung
+- with flaps at +1, +2, 0 VFE 160 km/h
+bei Wölbklappenstellung
+- with flaps at L VFE 160 km/h
+bei Wölbklappenstellung
+- in rough air VRA 190 km/h
+bei starker Turbulenz
+- in aero-tow VT 180 km/h
+bei Flugzeugschlepp
+- in winch-launch VW 150 km/h
+bei Windenschlepp
+- for gear operating VLO 180 km/h
+für Aus- und Einfahren des Fahrwerks
+8. Operational Capability Approved for VFR-flying in daytime.
+Cloud flying according to the specifications in the Flight Manual
+Restricted aerobatic manoeuvres according to the specifications in
+the Flight Manual.
+Zugelassen für Flüge nach VFR bei Tag.
+Wolkenflug gemäß den Angaben im Flughandbuch
+einfacher Kunstflug gemäß den Angaben im Flughandbuch
+9. Maximum Masses: Max. Mass (15.0 m Wingspan) 430 kg
+Höchstzulässige Massen: Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 220 kg
+Höchstzulässige Masse der nichttragenden Teile
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 20 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section D: Ventus b/16.6 Date: 07 Nov 2025
+Max. Mass (see D.V.4a): 500 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 210 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (see D.V.4b): 500 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 220 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (see D.V.4c): 500 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 241 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (see D.V.4d): 525 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 241 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (16,6 m Wingspan): 430 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 220 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (16,6 m Wingspan see
+D.V.4c and D.V.4d): 430 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 241 kg
+Höchstzulässige Masse der nichttragenden Teile
+10. Centre of Gravity Range: Datum: Most inner wing leading edge
+Schwerpunktsbereich: Leveling means: Wedge 100 : 4,4 on slope of rear top
+fuselage to be horizontal
+Bezugsebene (BE) : Flügelvorderkante bei Wurzelrippe
+Flugzeuglage : Keil 100 : 4,4 auf Rumpfoberkante hinten horizontal
+Forward Limit: 200 mm aft of datum point
+Vordere Grenze: 200 mm hinter Bezugspunkt
+Rearward Limit: 340 mm aft of datum point
+Hintere Grenze: 340 mm hinter Bezugspunkt
+11. Seating Capacity: 1
+Anzahl der Sitze:
+12. Lifetime limitations: Refer to Maintenance Manual
+Lebensdauerbegrenzte Teile: Siehe Wartungshandbuch
+13. Deflection of control surfaces: Refer to Maintenance Manual
+Ruderausschläge Siehe Wartungshandbuch
+D.IV. Operating and Service Instructions
+Betriebs- und Instandhaltungsanweisungen
+1. Flight Manual for the sailplane Ventus b/16.6, issued April 1983, LBA approved.
+Flughandbuch für das Segelflugzeug Ventus b/16.6, Ausgabe April 1983, LBA-anerkannt
+2. Maintenance Manual for the sailplane Ventus b/16.6, issued April 1983
+Wartungshandbuch für das Segelflugzeug Ventus b/16.6, Ausgabe April 1983
+3. Repair Manual for the CFRP/GFRP sailplane model Ventus b/16.6
+Reparaturanweisung für das CFK/GFK Segelflugzeug Ventus b/16.6
+4. Operating Instructions for the Tost release, latest approved version
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 21 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section D: Ventus b/16.6 Date: 07 Nov 2025
+Betriebshandbuch für die TOST Schleppkupplung , in der jeweils gültigen Ausgabe
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 22 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section D: Ventus b/16.6 Date: 07 Nov 2025
+D.V. Notes
+Bemerkungen
+1. Manufacturing is confined to industrial production.
+Herstellung nur im Industriebau zulässig.
+2. All parts exposed to sun radiation – except the areas for markings and registration – must have a
+white colour surface.
+Alle Bauteile, die der Sonneneinstrahlung ausgesetzt sind, müssen, mit Ausnahme des Bereiches für Kennzeichen und
+Farbwarnlackierung, eine weiße Oberfläche haben.
+3. The conversion of the Serial-No.: 285, 288 to 290, 292 to 353 into Variant Ventus c according to MB
+349-18 is permissible in compliance with the LBA-approved Schempp-Hirth Flugzeugbau GmbH.
+Technical Note No. 349-11. (see note to Variant Ventus c, E.V.4)
+Die Überführung der Werk-Nrn: 285, 288 bis 290, 292 bis 353 in der Ausführung nach Änderungsblatt Nr. 349-18 ist gemäß
+den Angaben der Technischen Mitteilung Nr. 349-11 der Firma Schempp-Hirth Flugzeugbau GmbH, LBA-anerkannt, zulässig.
+(siehe auch Bemerkungen zur Baureihe Ventus c , E.V.4)
+4. Increasing the maximum permitted all-up mass (Ventus b/16.6 only with 15,0 m) and the maximum
+mass of nonlifting parts (Ventus b/16.6 with 15,0 m and 16,6 m) is permissible pertinent to the LBA-
+approved Schempp-Hirth Flugzeugbau GmbH Technical Note 349-7.
+Die Änderung der höchstzulässigen Masse (beim Ventus b/16.6 nur für 15,0 m) und der höchstzulässigen Masse der
+nichttragenden Teile ( beim Ventus b/16.6 für 15,0 m und 16,6 m) gemäß den Angaben der Technischen Mitteilung Nr. 349-7,
+LBA anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+Concerned Serial-Numbers:
+Betroffene Werk-Nummern:
+D.V.4a) 1 to 93 and 141 without mainspar reinforcement
+D.V.4b) 1 to 93 and 141 with mainspar reinforcement
+D.V.4c) 94 to 140 and from Prod.-No. 142 up with special release “S 72“
+D.V.4d) 94 to 140 and from Prod.-No. 142 up with tow release mechanism model “G 72”
+94 to 140 and from Prod.-No. 142 up with tow release mechanism model “G 73”
+D.V.4a) 1 bis 93 und 141 ohne Holmverstärkung
+D.V.4b) 1 bis 93 und 141 mit Holmverstärkung
+D.V.4c) 94 bis 140 und ab Werk-Nr. 142mit Sonderkupplung “S72“
+D.V.4d) 94 bis 140 und ab Werk-Nr. 142mit Sicherheitskupplung “Europa G 72“
+94 bis 140 und ab Werk-Nr. 142mit Sicherheitskupplung “Europa G 73“
+5. The use of the fuselage of the powered sailplane Ventus bT is permissible according to the LBA-
+approved Schempp-Hirth Modification bulletin No. 349-13.
+Die Verwendung des Rumpfes des Motorseglers Ventus bT gemäß Änderungsblatt Nr. 349-13, LBA-anerkannt, der Firma
+schempp-Hirth Flugzeugbau GmbH ist zulässig.
+6. The installation of a TOST nose tow release mechanism model “E 72” or “E 75” is permissible
+according to the LBA-approved Schempp-Hirth Technical Note No. 349-3.
+Der Einbau einer Bugkupplung TOST „E 72“ oder „E 75“ gemäß der Technischen Mitteilung Nr. 349-3, LBA-anerkannt, der
+Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+7. The installation of a TOST nose tow release mechanism model “E 85” and/or the installation of a
+TOST safety tow release mechanism model “EUROPA G 88” is permissible according to the LBA-
+approved Schempp-Hirth Technical Note No. 349-15.
+Der Einbau einer Bugkupplung TOST „E 85“ bzw. der Sicherheitskupplung „EUROPA G 88“ gemäß der Technischen
+Mitteilung Nr. 349-15, LBA-anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+8. The use of swept-up wing tips (“mini-winglets”) or “Masak”-winglets is permissible according to the
+LBA-approved Schempp-Hirth Technical Note No 349-10.
+Die Verwendung von nach oben gezogenen Randbögen (mini-winglets) bzw. von Masak Winglets gemäß den Angaben der
+Technischen Mitteilung Nr. 349-10, LBA-anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 23 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section E: Ventus c Date: 07 Nov 2025
+Section E: Ventus c
+E.I. General
+Allgemeines
+1. a) Type: (Muster) Ventus a
+b) Variant: (Baureihe) Ventus c
+2. Airworthiness Category: Sailplane, JAR 22 - Utility
+Lufttüchtigkeitskategorie :
+3. Manufacturer: SCHEMPP-HIRTH FLUGZEUGBAU GmbH
+Hersteller Krebenstraße 25
+73230 Kirchheim/Teck
+Germany
+4. LBA Type Certification Date 30. October 1987
+Datum der LBA-Musterzulassung
+5. This TCDS replaces LBA TCDS No 349
+Dieses Kennblatt ersetzt das LBA Kennblatt Nr. 349
+E.II. Certification Basis
+Zulassungsbasis
+1. Certification Basis: Defined by LBA Confirmation letter with certification
+Zulassungsbasis: standards, dated 22. January 1987
+Bestätigungsschreiben mit Zulassungsbedingungen.
+2. Airworthiness Requirements: Joint Airworthiness Requirements for Sailplanes and
+Lufttüchtigkeitsforderungen: Powered Sailplanes (JAR 22), effective on December 15,
+1982 (Change 3 of the English original version) with
+“Orange Papers”
+a) Amendment 22/84/1 dated 14. December 1984
+b) Amendment 22/85/1 dated 12. December 1985
+c) Amendment 22/86/1 dated 22. October 1986
+without Annex H
+Lufttüchtigkeitsforderungen für Segelflugzeuge und Motorsegler (JAR-22)
+vom 15.12.1982 (Change 4 der englischen Originalversion) mit „Orange
+Papers“
+a) Amendment 22/84/1 dated 14. December 1984
+b) Amendment 22/85/1 dated 12. December 1985
+c) Amendment 22/86/1 dated 22. October 1986 ohne Anhang H
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 24 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section E: Ventus c Date: 07 Nov 2025
+3. Requirements elected to comply: Standards for Structural Substantiation of Sailplane and
+Gewählte Forderungen: Powered Sailplane Components consisting of Glass or
+Carbon Fibre Reinforced Plastics, issued May 1986
+Richtlinien zur Führung des Festigkeitsnachweises
+für Bauteile aus glasfaser- und kohlenstoffaserverstärkten Kunststoffen von
+Segelflugzeugen und Motorseglern, Ausgabe Mai 1986.
+Additional requirements for using a water ballast system in
+the vertical tail. LBA-Letter: I 3 – I 33/85, dated July 3rd,
+1985.
+Zusätzliche Forderungen für den Betrieb einer Wasserballastanlage im
+Seitenleitwerk. LBA-Schreiben I 3 – I 33/85, von 3. Juli 1985
+Joint Airworthiness Requirements for Sailplanes and
+Powered Sailplanes (JAR 22), effective on June 27, 1989
+(Change 4 of the English original version), including
+- Amendment 22/90/1 dated February 12, 1991
+(see section E.V.8)
+Lufttüchtigkeitsforderungen für Segelflugzeuge und Motorsegler (JAR-22)
+vom 27.06.1989 (Change 4 der englischen Originalversion) mit
+Amendment 22/90/1 vom 12. Februar 1991 (siehe E.V.8)
+4. Special Conditions: None
+Sonderforderungen:
+5. Exemptions: None
+Ausnahmen:
+6. Equivalent Safety Findings: None
+Nachweise gleichwertiger Sicherheit:
+E.III. Technical Characteristics and Operational Limitations
+Technische Merkmale und Betriebsgrenzen
+1. Type Design Definition: Drawing list Ventus c with fuselage a
+Musterdefinition: - dated Sept. 1987, LBA-approved
+- dated Nov. 1991 (Rev. 1) including TN 349-10 and MB 349-24
+Zeichnungsliste Ventus c mit Rumpf a
+- Stand Sept. 1987, LBA-anerkannt
+- Stand Nov. 1991 (Rev. 1) (bis TM 349-10 und ÄB 349-24)
+Drawing list Ventus c with fuselage b
+- dated Sept. 1987, LBA-approved
+- dated Nov. 1991 (Rev. 1) including TN 349-14 and MB 349-24
+Zeichnungsliste Ventus c mit Rumpf b
+- Stand Sept. 1987, LBA-anerkannt
+- Stand Nov. 1991 (Rev. 1) (bis TM 349-14 und ÄB 349-24)
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 25 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section E: Ventus c Date: 07 Nov 2025
+2. Description: Single-seat, mid-wing sailplane, CFRP/GFRP/Aramid fiber
+Beschreibung: construction, 2-piece wing with tip extensions (or optional winglets –
+see section E.V.8), wing flaps, double-section Schempp-Hirth type
+airbrakes on upper surface, water tanks in wings (and on request in
+the fin, see E.V.3), retractable undercarriage with wheel brake, T-tail
+(fixed horiz. stabilizer with elevator, fin and rudder)
+Two different fuselage sizes:
+fuselage a is equivalent to Ventus a
+fuselage b is equivalent to Ventus b
+Einsitziger Mitteldecker in CFK/GFK/AFK-Bauweise, zweiteiliger Tragflügel mit
+ansteckbaren Flügelenden (wahlweise Winglets, siehe E.V.8), Wölbklappen,
+doppelstöckigen Schempp-Hirth Bremsklappen auf der Flügeloberseite,
+Wasserballasttanks im Tragflügel (und wahlweise in der Seitenflosse, siehe E.V.3),
+bremsbares Einziehfahrwerk, T-Leitwerk mit Flosse und Ruder,
+Zwei Rumpfgrößen:
+Rumpf a entspricht Ventus a
+Rumpf b entspricht Ventus b
+3. Equipment: Min. Equipment:
+Ausrüstung: Mindestausrüstung
+1 Air speed indicator (up to 300 km/h)
+Geschwindigkeitsmesser (bis 300 km/h)
+1 Altimeter
+Höhenmesser
+1 4-Point harness (symmetrical)
+4-teilige Anschnallgurte (symmetrisch)
+1 Parachute or back cushion (thickness compressed ~10cm/4in)
+Fallschirm oder Rückenkissen (zusammengedrückt ca. 10 cm dick)
+Additional Equipment refer to Flight and Maintenance Manual
+Zusatzausrüstung siehe Flug- und Wartungshandbuch
+4. Dimensions: Span 15,00 m, 16,60 m and 17,60 m
+Abmessungen: Spannweite
+Wing area 9,51 m², 9,96 m² and 10,15 m²
+Flügelfläche
+Length Fuselage a: 6,35 m / Fuselage b: 6,58 m
+Länge
+5. Launching Hooks: 1) Nose tow hook “E 72”, LBA Datasheet No. 60.230/1
+Schleppkupplungen: Bug-Kupplung “E 72”, Kennblattnummer 60.230/1
+2) Nose tow hook “E 75”, LBA Datasheet No. 60.230/1
+Bug-Kupplung “E 75”, Kennblattnummer 60.230/1
+3) Nose tow hook “E 85”, LBA Datasheet No. 60.230/1
+Bug-Kupplung “E 85”, Kennblattnummer 60.230/1
+4) Safety hook „Europa G 72“, LBA Datasheet No. 60.230/2
+Sicherheitskupplung “Europa G 72“, LBA-Kennblattnummer 60.230/2
+5) Safety hook „Europa G 73“, LBA Datasheet No. 60.230/2
+Sicherheitskupplung “Europa G 73“, LBA-Kennblattnummer 60.230/2
+6) Safety hook „Europa G 88“, LBA Datasheet No. 60.230/2
+Sicherheitskupplung “Europa G 88“, LBA-Kennblattnummer 60.230/2
+Remark:
+Tow hook 1, 2 and 5 optional
+Tow hook 3 and 6 see E.V.7
+Bemerkung:
+Schleppkupplung 1, 2 und 5 wahlweise
+Schleppkupplung 3 und 6 siehe E.V.7
+6. Weak links: Ultimate Strength:
+Sollbruchstellen: Bruchfestigkeit:
+- for winch and aero-tow launching max. 680 daN
+für Winden- und Flugzeugschlepp
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 26 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section E: Ventus c Date: 07 Nov 2025
+7. Air Speeds: Manoeuvring Speed VA 180 km/h
+Geschwindigkeiten: Manövergeschwindigkeit
+Never Exceed Speed VNE 270 km/h
+Höchstzulässige Geschwindigkeit
+Maximum permitted speeds
+Höchstzulässige Geschwindigkeit
+- with flaps at -1, -2 VFE 270 km/h
+bei Wölbklappenstellung
+- with flaps at 0, +1, +2 VFE 160 km/h
+bei Wölbklappenstellung
+- with flaps at L VFE 160 km/h
+bei Wölbklappenstellung
+- in rough air VRA 180 km/h
+bei starker Turbulenz
+- in aero-tow VT 180 km/h
+bei Flugzeugschlepp
+- in winch-launch VW 150 km/h
+bei Windenschlepp
+- for gear operating VLO 180 km/h
+für Aus- und Einfahren des Fahrwerks
+8. Operational Capability Approved for VFR-flying in daytime.
+Cloud flying according to the specifications in the Flight Manual
+Restricted aerobatic manoeuvres according to the specifications in the
+Flight Manual.
+Zugelassen für Flüge nach VFR bei Tag.
+Wolkenflug gemäß den Angaben im Flughandbuch
+einfacher Kunstflug gemäß den Angaben im Flughandbuch
+9. Maximum Masses: Max. Mass with 15,0 m span 525 kg
+Höchstzulässige Massen: Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 241 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass with 15,0 m span (see E.V.4): 525 kg
+Höchstzulässige Masse :
+Max. Mass of Non-Lifting Parts 233 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass with 16,6 m and 17,6 m: 500 kg
+Höchstzulässige Masse :
+Max. Mass of Non-Lifting Parts 241 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass with 16,6 m and 17,6 m span (see E.V.4):500 kg
+Höchstzulässige Masse :
+Max. Mass of Non-Lifting Parts 233 kg
+Höchstzulässige Masse der nichttragenden Teile
+10. Centre of Gravity Range: Datum: Most inner wing leading edge
+Schwerpunktsbereich: Leveling means:
+Fuselage a: Wedge 100 : 3.1 horizontal on slope of rear top fuselage
+Fuselage b: Wedge 100 : 4.4 horizontal on slope of rear top fuselage
+Bezugsebene (BE) : Flügelvorderkante bei Wurzelrippe
+Flugzeuglage :
+Rumpf a: Keil 100 : 3,1 auf Rumpfoberkante hinten Horizontal
+Rumpf b: Keil 100 : 4,4 auf Rumpfoberkante hinten Horizontal
+Forward Limit: 200 mm aft of datum point
+Vordere Grenze: 200 mm hinter Bezugspunkt
+Rearward Limit: 325 mm aft of datum point
+Hintere Grenze: 325 mm hinter Bezugspunkt
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 27 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section E: Ventus c Date: 07 Nov 2025
+11. Seating Capacity: 1
+Anzahl der Sitze:
+12. Lifetime limitations: Refer to Maintenance Manual
+Lebensdauerbegrenzte Teile: Siehe Wartungshandbuch
+13. Deflection of control Refer to Maintenance Manual
+surfaces: Siehe Wartungshandbuch
+Ruderausschläge
+E.IV. Operating and Service Instructions
+Betriebs- und Instandhaltungsanweisungen
+1. Flight Manual for the sailplane Ventus c, issued June 1987, LBA approved.
+Flughandbuch für das Segelflugzeug Ventus c, Ausgabe Juni 1987, LBA-anerkannt
+2. Maintenance Manual for the sailplane Ventus c, issued June 1987
+Wartungshandbuch für das Segelflugzeug Ventus cM, Ausgabe Juni 1987
+3. Repair Manual for the CFRP/GFRP -sailplane model Ventus c
+Reparaturanweisung für das GFK-/CFK-Segelflugzeug Ventus c
+4. Operating Instructions for the Tost release, latest approved version
+Betriebshandbuch für die TOST Schleppkupplung , in der jeweils gültigen Ausgabe
+E.V. Notes
+Bemerkungen
+1. Manufacturing is confined to industrial production.
+Herstellung nur im Industriebau zulässig.
+2. All parts exposed to sun radiation – except the areas for markings and registration – must have a
+white colour surface.
+Alle Bauteile, die der Sonneneinstrahlung ausgesetzt sind, müssen, mit Ausnahme des Bereiches für Kennzeichen und
+Farbwarnlackierung, eine weiße Oberfläche haben.
+3. The optional installation of a water ballast system in the vertical tail tank is permissible pertinent to
+the LBA-approved Schempp-Hirth Flugzeugbau GmbH Modification Bulletin 349-19.
+Der wahlweise Einbau eines Wasserballasttanks in die Seitenflosse gemäß den Angaben des Änderungsblattes Nr. 349-19,
+LBA anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+4. Concerned Serial-Numbers: 285, 288 to 290, 292 to 326 ( see E.III.9, masses)
+Betroffene Werknummern: 285, 288 bis 290, 292 bis 326 (siehe E.III.9, Massen)
+5. The optional use of a fuselage in hybrid construction is permissible according to the LBA-approved
+Schempp-Hirth Modification bulletin No. 349-23.
+Die wahlweise Verwendung eines Rumpfes in Hybridbauweise gemäß Änderungsblatt Nr. 349-23, LBA-anerkannt, der Firma
+Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+6. The use of the fuselage of the powered sailplane Ventus cT or Ventus cM is permissible according
+to the LBA-approved Schempp-Hirth Modification bulletin No. 349-13.
+Die Verwendung des Rumpfes des Motorseglers Ventus cT bzw. Ventus cM gemäß Änderungsblatt Nr. 349-13, LBA-
+anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+7. The installation of a TOST nose tow release mechanism model “E 85” and/or the installation of a
+TOST safety tow release mechanism model “EUROPA G 88” is permissible according to the LBA-
+approved Schempp-Hirth Technical Note No. 349-15.
+Der Einbau einer Bugkupplung TOST „E 85“ bzw. der Sicherheitskupplung „EUROPA G 88“ gemäß der Technischen
+Mitteilung Nr. 349-15, LBA-anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+8. The use of swept-up wing Tips („mini-winglets“) or „Masak“-winglets is permissible – for 15 m span –
+according to the LBA-approved Schempp-Hirth Technical Note No. 349-10.
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 28 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section E: Ventus c Date: 07 Nov 2025
+Der Verwendung von nach oben gezogenen Randbögen (mini-winglets) bzw. von Masak Winglets für die Spannweite 15 m
+gemäß den Angaben der Technischen Mitteilung Nr. 349-10, LBA-anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH
+ist zulässig.
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 29 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section F: Ventus-2a Date: 07 Nov 2025
+Section F: Ventus-2a
+F.I. General
+Allgemeines
+1. a) Type: (Muster) Ventus a
+b) Variant: (Baureihe) Ventus-2a
+c) Sales Designation: Ventus-2ax, if F.V.4 / F.V.5
+(Verkaufsbezeichnung)
+2. Airworthiness Category: Sailplane, JAR 22 - Utility
+Lufttüchtigkeitskategorie :
+3. Manufacturer: SCHEMPP-HIRTH FLUGZEUGBAU GmbH
+Hersteller Krebenstraße 25
+73230 Kirchheim/Teck
+Germany
+4. LBA Type Certification Date 26. January 1996
+Datum der LBA-Musterzulassung
+5. This TCDS replaces LBA TCDS No 349
+Dieses Kennblatt ersetzt das LBA Kennblatt Nr. 349
+F.II. Certification Basis
+Zulassungsbasis
+1. Certification Basis: Defined by LBA Confirmation letter with certification
+Zulassungsbasis: standards, dated 01. February 1994.
+Bestätigungsschreiben mit Zulassungsbedingungen.
+2. Airworthiness Requirements: Joint Airworthiness Requirements for Sailplanes and
+Lufttüchtigkeitsforderungen: Powered Sailplanes (JAR 22), effective on June 27, 1989
+(Change 4 of the English original version) and
+- Amendment 22/90/1
+Lufttüchtigkeitsforderungen für Segelflugzeuge und Motorsegler (JAR-22)
+vom 27.06.1989 (Change 4 der englischen Originalversion)
+- Amentment 22/90/1
+3. Requirements elected to comply: Standards for Structural Substantiation of Sailplane and
+Gewählte Forderungen: Powered Sailplane Components consisting of Glass or
+Carbon Fibre Reinforced Plastics, issued July 1991.
+Richtlinien zur Führung des Festigkeitsnachweises
+für Bauteile aus glasfaser- und kohlenstoffaserverstärkten Kunststoffen von
+Segelflugzeugen und Motorseglern, Ausgabe Juli 1991.
+Additional requirements for the installation of a water ballast
+system in the vertical fin (for compensating the nose heavy
+moment of the water ballast in the wing tanks).
+(LBA-Letter: I 4 – I 413/89 dated October 25th, 1989)
+Zusätzliche Forderungen für den Einbau einer Wasserballastanlage im
+Seitenleitwerk zum Ausgleich des kopflastigen Momentes aus dem Flügel-
+Wasserballast. LBA I 4 – I 413/89 vom 25.10.1989.
+Draft NPA 22 D-46 dates April 7, 1994 relating to JAR
+22.785 (e)(f) „Seats and Restraint System“
+Entwurf NPA 22 D-46 von 7. April 1994 zu JAR 22.785 (e)(f) Sitz und
+Gurtrückhaltesysteme
+Draft NPA 22 D-64 dates April 12, 1994 relating to JAR
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 30 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section F: Ventus-2a Date: 07 Nov 2025
+22.788 „Head Rests“
+Entwurf NPA 22 D-64 von 12. April 1994 zu JAR 22.788 Kopfstützen.
+Draft NPA 22 D-64 dates February 5, 1998 relating to JAR
+22.788 „Head Rests“ (see F.V.4)
+Entwurf NPA 22 D-64 von 12. April 1994 zu JAR 22.788 Kopfstützen.(siehe
+F.V.4)
+4. Special Conditions: None
+Sonderforderungen:
+5. Exemptions: None
+Ausnahmen:
+6. Equivalent Safety Findings: 22.207 (c)
+Nachweise gleichwertiger Sicherheit:
+F.III. Technical Characteristics and Operational Limitations
+Technische Merkmale und Betriebsgrenzen
+1. Type Design Definition: LBA-approved List of Drawings for Sailplane Model Ventus 2a
+Musterdefinition: - issue November 1994
+- issue September 2002 Rev. 1, (see F.V.4)
+Aufstellung der Zeichnungen für das Segelflugzeug Ventus 2a, LBA-anerkannt
+- Stand November 1994,
+- Stand September 2002 ( siehe F.V4)
+2. Description: Single-seat, mid-wing sailplane, CFRP/GFRP/AFRP fiber
+Beschreibung: construction, 2-piece wing (with removable winglets), camber
+changing flaps, double-section Schempp-Hirth-type airbrakes on
+upper wing surface, integral water ballast tanks in the wing and in
+the fin (option), retractable undercarriage with wheel brake, fixed
+tailwheel ( option),T-tail with fixed horiz. stabilizer with elevator, fin
+and rudder.
+Difference of Serial-No.:1:
+1. 4-piece wing with outer Wing including winglets
+2. different fabric allocation at wing and fuselage
+Einsitziger Mitteldecker in CFK/GFK/AFK-Bauweise, zweiteiliger Tragflügel (mit
+ansteckbaren Winglets) mit Wölbklappen, doppelstöckige Schempp-Hirth-
+Bremsklappen auf der Flügeloberseite, Wasserballasttanks im Tragflügel der
+Seitenflosse (wahlweise), bremsbares Einziehfahrwerk, festes Spornrad
+(wahlweise), T-Leitwerk mit Flosse und Ruder.
+Abweichung der Werk-Nr.1:
+Vierteiliger Flügel mit Aussenflügeln mit Winglets
+Gewebebelegung bei Flügel und Rumpf
+3. Equipment: Min. Equipment:
+Ausrüstung: Mindestausrüstung
+1 Air speed indicator (up to 300 km/h)
+Geschwindigkeitsmesser (bis 300 km/h)
+1 Altimeter
+Höhenmesser
+1 4-Point harness (symmetrical)
+4-teilige Anschnallgurte (symmetrisch)
+1 Parachute or back cushion (thickness compressed ~10cm/4in)
+Fallschirm oder Rückenkissen (zusammengedrückt ca.10 cm dick)
+Additional Equipment refer to Flight and Maintenance Manual
+Zusatzausrüstung siehe Flug- und Wartungshandbuch
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 31 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section F: Ventus-2a Date: 07 Nov 2025
+4. Dimensions: Span 15,0 m
+Abmessungen: Spannweite
+Wing area 9,67 m²
+Flügelfläche
+Length 6,35 m
+Länge
+Length for F.V.4/F.V.5 6,41 m
+Länge bei F.V.4/F.V.5
+5. Launching Hooks: 1) Nose tow hook “E 85”, LBA Datasheet No. 60.230/1
+Schleppkupplungen: Bug-Kupplung “E 85”, Kennblattnummer 60.230/1
+2) Safety hook „Europa G 88“, LBA Datasheet No. 60.230/2
+Sicherheitskupplung “Europa G 88“, LBA-Kennblattnummer 60.230/2
+Remark:
+Tow hooks 1 and 2 are optional
+Bemerkung:
+Schleppkupplung 1 und 2 wahlweise
+6. Weak links: Ultimate Strength:
+Sollbruchstellen: Bruchfestigkeit:
+- for winch and aero-tow launching max. 680 daN
+für Winden- und Flugzeugschlepp
+7. Air Speeds: Manoeuvring Speed VA 180 km/h
+Geschwindigkeiten: Manövergeschwindigkeit
+Never Exceed Speed VNE 270 km/h
+Höchstzulässige Geschwindigkeit
+Maximum permitted speeds
+Höchstzulässige Geschwindigkeit
+- with flaps at -1, -2, S, S1 VFE 270 km/h
+bei Wölbklappenstellung
+- with flaps at 0, +1, +2, L VFE 160 km/h
+bei Wölbklappenstellung
+- in rough air VRA 180 km/h
+bei starker Turbulenz
+- in aero-tow VT 180 km/h
+bei Flugzeugschlepp
+- in winch-launch VW 150 km/h
+bei Windenschlepp
+- for gear operating VLO 180 km/h
+für Aus- und Einfahren des Fahrwerks
+8. Operational Capability Approved for VFR-flying in daytime.
+Cloud flying according to the specifications in the Flight Manual
+Restricted aerobatic manoeuvres according to the specifications in
+the Flight Manual.
+Zugelassen für Flüge nach VFR bei Tag.
+Wolkenflug gemäß den Angaben im Flughandbuch
+einfacher Kunstflug gemäß den Angaben im Flughandbuch
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 32 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section F: Ventus-2a Date: 07 Nov 2025
+9. Maximum Masses: Max. Mass 525 kg
+Höchstzulässige Massen: Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts
+Höchstzulässige Masse der nichttragenden Teile
+Serial-No.: 1 to 21 230 kg
+Werk-Nr. 1 bis 21
+Up on Serial-No.: 26 235 kg
+Ab Serien-Nr.: 26
+10. Centre of Gravity Range: Datum: Most inner wing leading edge
+Schwerpunktsbereich: Leveling means: Wedge 100 : 3,1 on slope of rear top
+fuselage to be horizontal
+Bezugsebene (BE) : Flügelvorderkante bei Wurzelrippe
+Flugzeuglage : Keil 100 : 3,1 auf Rumpfoberkante hinten horizontal
+Forward Limit: 220 mm aft of datum point
+Vordere Grenze: 220 mm hinter Bezugspunkt
+Rearward Limit: 360 mm aft of datum point
+Hintere Grenze: 360 mm hinter Bezugspunkt
+11. Seating Capacity: 1
+Anzahl der Sitze:
+12. Lifetime limitations: Refer to Maintenance Manual
+Lebensdauerbegrenzte Teile: Siehe Wartungshandbuch
+13. Deflection of control surfaces: Refer to Maintenance Manual
+Ruderausschläge Siehe Wartungshandbuch
+F.IV. Operating and Service Instructions
+Betriebs- und Instandhaltungsanweisungen
+1. Flight Manual for the sailplane Ventus 2a and Ventus 2b, issued August 1995, LBA approved.
+Flughandbuch für das Segelflugzeug Ventus 2a und Ventus 2b, Ausgabe August 1995, LBA-anerkannt
+2. Maintenance Manual for the sailplane Ventus 2a and Ventus 2b, issued August 1995
+Wartungshandbuch für das Segelflugzeug Ventus 2a und Ventus 2b, Ausgabe August 1995
+3. Repair Manual for sailplane model Ventus 2a und Ventus 2b, issue August 1995
+Reparaturanweisung für Ventus 2a und Ventus 2b, Ausgabe August 1995
+4. Operating Instructions for the Tost release, latest approved version
+Betriebshandbuch für die TOST Schleppkupplung , in der jeweils gültigen Ausgabe
+F.V. Notes
+Bemerkungen
+1. Manufacturing is confined to industrial production.
+Herstellung nur im Industriebau zulässig.
+2. All parts exposed to sun radiation – except the areas for markings and registration – must have a
+white colour surface.
+Alle Bauteile, die der Sonneneinstrahlung ausgesetzt sind, müssen, mit Ausnahme des Bereiches für Kennzeichen und
+Farbwarnlackierung, eine weiße Oberfläche haben.
+3. The prototype (Serial-No.1) of Ventus 2a has larger differences in relation to the further serial
+numbers, in particular regarding the fabric allocation of the fuselage, the wing and the main spar.
+The documents for the definition of the differences are indicated in the LBA-approved Schempp-
+Hirth Modification bulletin No. 349-31
+Der Prototyp (Werk-Nr.1) des Ventus 2a weist gegenüber den weiteren Werknummern größere Abweichungen insbesondere
+in Bezug auf die Gewebebelegung des Rumpfes, des Flügels und des Holmstegs auf. Die Unterlagen zur Definition der
+Abweichungen sind in dem (Änderung am Stück) Änderungsblatt Nr. 349-31, LBA-anerkannt, der Firma Schempp-Hirth
+Flugzeugbau GmbH angegeben.
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 33 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section F: Ventus-2a Date: 07 Nov 2025
+4. The use of a new fixed horiz. stabilizer with elevator and fin and rudder as well as Maughmer
+Winglets is permissible in accordance of the LBA approved Schempp-Hirth Modification Bulletin No.
+349-42, starting from serial no. 124
+Die Verwendung eines neuen Höhen- und Seitenleitwerks sowie von Maughmer-Winglets gemäß Angaben des
+Änderungsblattes Nr. 349-42, ab Werk-Nr. 124, LBA anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH, ist zulässig
+5. The use of a new fixed horiz. stabilizer with elevator and fin and rudder as well as Maughmer
+Winglets is permissible for serial no. 2 to120 in accordance of the LBA approved Schempp-Hirth
+Technical Note No. 349-27.
+Die Verwendung eines neuen Höhen- und Seitenleitwerks sowie von Maughmer-Winglets gemäß Angaben der Technischen
+Mitteilung Nr. 349-27, für Werk-Nr. 2 bis 120, LBA-anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH, ist zulässig.
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 34 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section G: Ventus-2b Date: 07 Nov 2025
+Section G: Ventus-2b
+G.I. General
+Allgemeines
+1. a) Type: (Muster) Ventus a
+b) Variant: (Baureihe) Ventus-2b
+c) Sales Designation: Ventus-2bx , S/N 127 and on, see G.V.3
+(Verkaufsbezeichnung)
+2. Airworthiness Category: Sailplane, JAR 22 - Utility
+Lufttüchtigkeitskategorie :
+3. Manufacturer: SCHEMPP-HIRTH FLUGZEUGBAU GmbH
+Hersteller Krebenstraße 25
+73230 Kirchheim/Teck
+Germany
+4. LBA Type Certification Date 26. January 1996
+Datum der LBA-Musterzulassung
+5. This TCDS replaces LBA TCDS No 349
+Dieses Kennblatt ersetzt das LBA Kennblatt Nr. 349
+G.II. Certification Basis
+Zulassungsbasis
+1. Certification Basis: Defined by LBA Confirmation letter with certification
+Zulassungsbasis: standards, dated 1. June 1994
+Bestätigungsschreiben mit Zulassungsbedingungen.
+2. Airworthiness Requirements: Joint Airworthiness Requirements for Sailplanes and
+Lufttüchtigkeitsforderungen: Powered Sailplanes (JAR 22), effective on June 27, 1989
+(Change 4 of the English original version) and
+- Amendment 22/90/1
+Lufttüchtigkeitsforderungen für Segelflugzeuge und Motorsegler (JAR-22)
+vom 27.06.1989 (Change 4 der englischen Originalversion)
+- Amentment 22/90/1
+3. Requirements elected to comply: Standards for Structural Substantiation of Sailplane and
+Gewählte Forderungen: Powered Sailplane Components consisting of Glass or
+Carbon Fibre Reinforced Plastics, issued July 1991.
+Richtlinien zur Führung des Festigkeitsnachweises
+für Bauteile aus glasfaser- und kohlenstoffaserverstärkten Kunststoffen von
+Segelflugzeugen und Motorseglern, Ausgabe Juli 1991.
+Additional requirements for the installation of a water ballast
+system in the vertical fin (for compensating the nose heavy
+moment of the water ballast in the wing tanks).
+(LBA-Letter: I 4 – I 413/89 dated October 25th, 1989)
+Zusätzliche Forderungen für den Einbau einer Wasserballastanlage im
+Seitenleitwerk zum Ausgleich des kopflastigen Momentes aus dem Flügel-
+Wasserballast. LBA– I 4 – I 413/89 vom 25.10.1989.
+Draft NPA 22 D-46 dates April 7, 1994 relating to JAR
+22.785 (e)(f) „Seats and Restraint System“
+Entwurf NPA 22 D-46 von 7. April 1994 zu JAR 22.785 (e)(f) Sitz und
+Gurtrückhaltesysteme
+Additional requirements for Airframe Parachute System
+(GRS)
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 35 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section G: Ventus-2b Date: 07 Nov 2025
+Ergänzungsforderungen für Gesamtrettungs-System GRS
+Draft NPA 22 D-64 dates April 12, 1994 relating to JAR
+22.788 „Head Rests“
+Entwurf NPA 22 D-64 von 12. April 1994 zu JAR 22.788 Kopfstützen.
+Draft NPA 22 D-64 dates February 5, 1998 relating to JAR
+22.788 „Head Rests“ (see G.V.3)
+Entwurf NPA 22 D-64 von 5. Februar 1998 zu JAR 22.788 Kopfstützen.
+(siehe G.V.3)
+4. Special Conditions: None
+Sonderforderungen:
+5. Exemptions: None
+Ausnahmen:
+6. Equivalent Safety Findings: JAR 22.207 -stall warning
+Nachweise gleichwertiger Sicherheit: -Überziehwarnung
+G.III. Technical Characteristics and Operational Limitations
+Technische Merkmale und Betriebsgrenzen
+1. Type Design Definition: LBA-approved List if Drawings for sailplane model Ventus-2b
+Musterdefinition: - dated November 1994, LBA-approved
+- dated June 2002, Rev. 1 (see G.V.3)
+Zeichnungsliste Ventus-2b
+- Stand November 1994, LBA-anerkannt
+- Stand Juni 2002, Rev. 1, (siehe G.V.3)
+2. Description: Single-seat, mid-wing sailplane, CFRP/GFRP/AFRP fiber
+Beschreibung: construction, 2-piece wing (with removable winglets), camber
+changing flaps, double-section Schempp-Hirth-type airbrakes on
+upper wing surface, integral water ballast tanks in the wing and in
+the fin (option), retractable undercarriage with wheel brake, fixed
+tailwheel ( option),T-tail with fixed horiz. stabilizer with elevator, fin,
+and rudder. Option GRS
+Einsitziger Mitteldecker in CFK/GFK/AFK-Bauweise, zweiteiliger Tragflügel (mit
+ansteckbaren Winglets) mit Wölbklappen, doppelstöckige Schempp-Hirth-
+Bremsklappen auf der Flügeloberseite, Wasserballasttanks im Tragflügel der
+Seitenflosse (wahlweise), bremsbares Einziehfahrwerk, festes Spornrad
+(wahlweise), T-Leitwerk mit Flosse und Ruder. GRS wahlweise.
+3. Equipment: Min. Equipment:
+Ausrüstung: Mindestausrüstung
+1 Air speed indicator (up to 300 km/h)
+Geschwindigkeitsmesser (bis 300 km/h)
+1 Altimeter
+Höhenmesser
+1 Outside air temperature indicator with sensor
+(when flying with water ballast)
+Außenthermometer mit Fühler (beim Flug mit Wasserballast)
+1 4-Point harness (symmetrical)
+4-teilige Anschnallgurte (symmetrisch)
+1 Parachute or back cushion (thickness compressed ~10cm/4in)
+…Fallschirm oder Rückenkissen (zusammengedrückt ca.10 cm dick)
+Additional Equipment refer to Flight and Maintenance Manual
+Zusatzausrüstung siehe Flug- und Wartungshandbuch
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 36 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section G: Ventus-2b Date: 07 Nov 2025
+4. Dimensions: Span 15,0 m
+Abmessungen: Spannweite
+Wing area (15 m) 9,67 m²
+Flügelfläche
+Length 6,58 m
+Länge
+Length for G.V.3 6,81 m
+Länge bei G.V.3
+5. Launching Hooks: 1) Safety hook „Europa G 88“, LBA Datasheet No. 60.230/2
+Schleppkupplungen: Sicherheitskupplung “Europa G 88“, LBA-Kennblattnummer 60.230/2
+2) Nose tow hook “E 85”, LBA Datasheet No. 60.230/1
+Bug-Kupplung “E 85”, Kennblattnummer 60.230/1
+Remark:
+Tow hook 1 and 2 optional
+Bemerkung:
+Schleppkupplung 1 und 2 wahlweise
+6. Weak links: Ultimate Strength:
+Sollbruchstellen: Bruchfestigkeit:
+- for winch and aero-tow launching max. 680 daN
+für Winden- und Flugzeugschlepp
+7. Air Speeds: Manoeuvring Speed VA 180 km/h
+Geschwindigkeiten: Manövergeschwindigkeit
+Never Exceed Speed VNE 270 km/h
+Höchstzulässige Geschwindigkeit
+Maximum permitted speeds
+Höchstzulässige Geschwindigkeit
+- with flaps at S, S1, -1, -2 VFE 270 km/h
+bei Wölbklappenstellung
+- with flaps at 0, +1, +2, L VFE 160 km/h
+bei Wölbklappenstellung
+- in rough air VRA 180 km/h
+bei starker Turbulenz
+- in aero-tow VT 180 km/h
+bei Flugzeugschlepp
+- in winch-launch VW 150 km/h
+bei Windenschlepp
+- for gear operating VLO 180 km/h
+für Aus- und Einfahren des Fahrwerks
+8. Operational Capability Approved for VFR-flying in daytime.
+Cloud flying according to the specifications in the Flight Manual
+Restricted aerobatic manoeuvres according to the specifications in
+the Flight Manual.
+Zugelassen für Flüge nach VFR bei Tag.
+Wolkenflug gemäß den Angaben im Flughandbuch
+einfacher Kunstflug gemäß den Angaben im Flughandbuch
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 37 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section G: Ventus-2b Date: 07 Nov 2025
+9. Maximum Masses: Max. Mass of Non-Lifting Parts
+Höchstzulässige Massen: Höchstzulässige Masse der nichttragenden Teile
+Serial-No. 3 to 19 230 kg
+Werk-Nr. 3 bis 19
+Serial-No.22 and up 235 kg
+ab Werk-Nr. 22
+Serial-No. 163 and up (see G.V.5) 280 kg
+Ab Werk-Nr. 163 (siehe G.V.5)
+With GRS (see G.V.4/G.V.6) 280 kg
+Mit GRS (siehe G.V.4/G.V.6)
+10. Centre of Gravity Range: Datum: Most inner wing leading edge
+Schwerpunktsbereich: Leveling means: Wedge 100 : 4.4 on slope of rear top
+fuselage to be horizontal
+Bezugsebene (BE) : Flügelvorderkante bei Wurzelrippe
+Flugzeuglage : Keil 100 : 4.4 auf Rumpfoberkante hinten
+Horizontal
+Forward Limit: 220 mm aft of datum point
+Vordere Grenze: 220 mm hinter Bezugspunkt
+Rearward Limit: 360 mm aft of datum point
+Hintere Grenze: 360 mm hinter Bezugspunkt
+11. Seating Capacity: 1
+Anzahl der Sitze:
+12. Lifetime limitations: Refer to Maintenance Manual
+Lebensdauerbegrenzte Teile: Siehe Wartungshandbuch
+13. Deflection of control surfaces: Refer to Maintenance Manual
+Ruderausschläge Siehe Wartungshandbuch
+G.IV. Operating and Service Instructions
+Betriebs- und Instandhaltungsanweisungen
+1. Flight Manual for the sailplane Ventus 2a and Ventus 2b, issued August 1995, LBA approved.
+Flughandbuch für das Segelflugzeug Ventus 2a und Ventus 2b, Ausgabe August 1995, LBA-anerkannt
+2. Maintenance Manual for the sailplane Ventus 2a and Ventus 2b, issued August 1995
+Wartungshandbuch für das Segelflugzeug Ventus 2a und Ventus 2b, Ausgabe August 1995
+3. Repair Manual for sailplane model Ventus 2a und Ventus 2b, issue August 1995
+Reparaturanweisung für Ventus 2a und Ventus 2b, Ausgabe August 1995
+4. Operating Instructions for the Tost release, latest approved version
+Betriebshandbuch für die TOST Schleppkupplung , in der jeweils gültigen Ausgabe
+G.V. Notes
+Bemerkungen
+1. Manufacturing is confined to industrial production.
+Herstellung nur im Industriebau zulässig.
+2. All parts exposed to sun radiation – except the areas for markings and registration – must have a
+white colour surface.
+Alle Bauteile, die der Sonneneinstrahlung ausgesetzt sind, müssen, mit Ausnahme des Bereiches für Kennzeichen und
+Farbwarnlackierung, eine weiße Oberfläche haben.
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 38 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section G: Ventus-2b Date: 07 Nov 2025
+3. The use of a new horizontal and vertical tailplane, a modified fuselage as well as Maughmer
+Winglets is permissible for serial-No. 127 and up according to the LBA-approved Schempp-Hirth
+Modification Bulletin No. 349-42.
+Die Verwendung eines neuen Höhen- und Setenleitwerkes, eines geänderten Rumpfes sowie Maughmer Winglets gemäß
+den Angaben des Änderungsblattes Nr. 349-42, der Firma Schempp-Hirth Flugzeugbau GmbH, EASA-anerkannt, ist ab
+Werknummer 127 zulässig.
+4. The preparation for the installation of a total rescue system and the increase of the maximum mass
+of the non-lifting parts is permissible according to the LBA-approved Schempp-Hirth Modification
+Bulletin No. 349-43.
+Die Vorbereitung zum einbau eines Gesamtrettungssystems und die Erhöhung der höchstzulässigen Masse der
+nichttragenden Teile gemäß den Angaben des Änderungsblattes Nr. 349-43, LBA-anerkannt, der Firma Schempp-Hirth
+Flugzeugbau GmbH, ist zulässig
+5. The increase of the maximum mass of the non-lifting parts is permissible for Serial-No. 163 and up,
+according to the LBA-approved Schempp-Hirth Modification Bulletin No. 349-47.
+Die Erhöhung der höchstzulässigen Masse der nichttragenden Teile ab Werk-Nr. 163 gemäß den Angaben des
+Änderungsblattes Nr. 349-47, LBA-anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH, ist zulässig
+6. Installation of GRS is permissible according MB 349-48
+Einbau Gesamtrettungs-System gemaess den Angaben des Aenderungsblattes Nr. 349-48 ist zulaessig.
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 39 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section H: Ventus-2c Date: 07 Nov 2025
+Section H: Ventus-2c
+H.I. General
+Allgemeines
+1. a) Type: (Muster) Ventus a
+b) Variant: (Baureihe) Ventus-2c
+c) Sales Designation: Ventus-2cx S/N 82 and on, see H.V.6
+(Verkaufsbezeichnung)
+2. Airworthiness Category: Sailplane, JAR 22 - Utility
+Lufttüchtigkeitskategorie :
+3. Manufacturer: SCHEMPP-HIRTH FLUGZEUGBAU GmbH
+Hersteller Krebenstraße 25
+73230 Kirchheim/Teck
+Germany
+4. LBA Type Certification Date 26 September 1996
+Datum der LBA-Musterzulassung
+5. This TCDS replaces LBA TCDS No 349
+Dieses Kennblatt ersetzt das LBA Kennblatt Nr. 349
+H.II. Certification Basis
+Zulassungsbasis
+1. Certification Basis: Defined by LBA Confirmation letter with certification
+Zulassungsbasis: standards, dated February 01,1994
+Bestätigungsschreiben mit Zulassungsbedingungen.
+2. Airworthiness Requirements: Joint Airworthiness Requirements for Sailplanes and
+Lufttüchtigkeitsforderungen: Powered Sailplanes (JAR 22), effective on June 27, 1989
+(Change 4 of the English original version) with
+-Amendment 22/90/1
+Lufttüchtigkeitsforderungen für Segelflugzeuge und Motorsegler (JAR-22)
+vom 27.06.1989 (Change 4 der englischen Originalversion) mit
+-Amendment 22/90/1
+3. Requirements elected to comply: Standards for Structural Substantiation of Sailplane and
+Gewählte Forderungen: Powered Sailplane Components consisting of Glass or
+Carbon Fibre Reinforced Plastics, issued July 1991.
+Richtlinien zur Führung des Festigkeitsnachweises
+für Bauteile aus glasfaser- und kohlenstoffaserverstärkten Kunststoffen von
+Segelflugzeugen und Motorseglern, Ausgabe Juli 1991.
+Additional requirements for the installation of a water ballast
+system in the vertical fin (for compensating the nose heavy
+moment of the water ballast in the wing tanks).
+(LBA-Letter: I 4 – I 413/89 dated October 25th, 1989)
+Zusätzliche Forderungen für den Einbau einer Wasserballastanlage im
+Seitenleitwerk zum Ausgleich des kopflastigen Momentes aus dem Flügel-
+Wasserballast. LBA- I 4 – I 413/89 vom 25.10.1989.
+Draft NPA 22 D-46 dates April 7, 1994 relating to JAR
+22.785 (e)(f) „Seats and Restraint System“
+Entwurf NPA 22 D-46 von 7. April 1994 zu JAR 22.785 (e)(f) Sitz und
+Gurtrückhaltesysteme
+Draft NPA 22 D-64 dates April 12, 1994 relating to JAR
+22.788 „Head Rests“
+Entwurf NPA 22 D-64 von 12. April 1994 zu JAR 22.788 Kopfstützen.
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 40 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section H: Ventus-2c Date: 07 Nov 2025
+4. Special Conditions: None
+Sonderforderungen:
+5. Exemptions: None
+Ausnahmen:
+6. Equivalent Safety Findings: JAR 22.207 (c) -stall warning
+Nachweise gleichwertiger Sicherheit: -Überziehwarnung
+H.III. Technical Characteristics and Operational Limitations
+Technische Merkmale und Betriebsgrenzen
+1. Type Design Definition: LBA-approved List of Drawings for Sailplane Model “Ventus-2c”
+Musterdefinition: - issue November 1995
+- issue May 2003 (Revision 1) see H.V.6
+- issue February 2009 (Revision 2) see H.V.8
+Aufstellung der Zeichnungen für das Segelflugzeug Ventus-2c, LBA-anerkannt
+- Stand November 1995,
+- Stand Mai 2003 (Revision 1) siehe H.V.6
+- Stand Februar 2009 (Revision 2) siehe H.V.8
+2. Description: Single-seat mid-wing sailplane, CFRP/GFRP/AFRP-construction, 4-
+Beschreibung: piece 18 m wing with camber-changing flaps, outer wing panels for 18
+m wing span (with winglets, see H.V.9) and for 15m wing span (option)
+with winglets, double-panel Schempp-Hirth type airbrakes on upper
+wing surface, water ballast tank in inboard wing panels and (on
+request) in fin, (water ballast tank in 18m outboard wing panels, see
+H.V.9). Retractable main wheel (with brake), tail skid or (optional) fixed
+tail wheel. T-tail with fixed horizontal stabilizer with elevator, fin and
+rudder.
+Einsitziger Mitteldecker in CFK/GFK/AFK-Bauweise, vierteiliger Tragflügel mit
+Wölbklappen, Aussenflügel für 18 m Spannweite (mit Winglets siehe H.V.9) und bei 15
+m Spannweite (Option), mit Winglets, doppelstöckigen Schempp-Hirth-Bremsklappen
+auf der Flügeloberseite des Innenflügels, Wasserballasttanks im Innenflügel und in der
+Seitenflosse (Option), (Wasserballsttanks im Aussenflügel für 18 m siehe H.V.9),
+bremsbares Einziehfahrwerk, festes Spornrad (Option) oder Sporn, T-Leitwerk mit
+Flosse und Ruder.
+3. Equipment: Min. Equipment:
+Ausrüstung: Mindestausrüstung
+1 Air speed indicator (up to 300 km/h)
+Geschwindigkeitsmesser (bis 300 km/h)
+1 Altimeter
+Höhenmesser
+1 Outside air temperature indicator with sensor
+(when flying with water ballast)
+Außenthermometer mit Fühler (beim Flug mit Wasserballast)
+1 4-Point harness (symmetrical)
+4-teilige Anschnallgurte (symmetrisch)
+1 Parachute or back cushion (thickness compressed ~10cm/4in)
+…Fallschirm oder Rückenkissen (zusammengedrückt ca.10 cm dick)
+Additional Equipment refer to Flight and Maintenance Manual
+Zusatzausrüstung siehe Flug- und Wartungshandbuch
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 41 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section H: Ventus-2c Date: 07 Nov 2025
+4. Dimensions: Span 15,0 m or 18,00 m
+Abmessungen: Spannweite
+Wing area 9.67 m² or 11.04 m²
+Flügelfläche
+Length 6.81 m
+Länge
+Length (see H.V.8) 6.63 m
+Länge
+5. Launching Hooks: 1) Safety hook „Europa G 88“, LBA Datasheet No. 60.230/2
+Schleppkupplungen: Sicherheitskupplung “Europa G 88“, LBA-Kennblattnummer 60.230/2
+2) Nose tow hook “E 85”, LBA Datasheet No. 60.230/1
+Bug-Kupplung “E 85”, Kennblattnummer 60.230/1
+Remark:
+Tow hook 1 and 2 optional
+Bemerkung:
+Schleppkupplung 1 und 2 wahlweise
+6. Weak links: Ultimate Strength:
+Sollbruchstellen: Bruchfestigkeit:
+- for winch and aero-tow launching max. 680 daN
+für Winden- und Flugzeugschlepp
+see H.V.6 / siehe H.V.6:
+- for winch and aero-tow launching max. 735 daN
+für Winden- und Flugzeugschlepp
+7. Air Speeds: Manoeuvring Speed VA 180 km/h
+Geschwindigkeiten: Manövergeschwindigkeit
+Never Exceed Speed VNE 270 km/h
+Höchstzulässige Geschwindigkeit
+Maximum permitted speeds
+Höchstzulässige Geschwindigkeit
+- with flaps at S, S1, -1, -2 VFE 270 km/h
+bei Wölbklappenstellung
+- with flaps at 0, +1, +2, L VFE 160 km/h
+bei Wölbklappenstellung
+- in rough air VRA 180 km/h
+bei starker Turbulenz
+- in aero-tow VT 180 km/h
+bei Flugzeugschlepp
+- in winch-launch VW 150 km/h
+bei Windenschlepp
+- for gear operating VLO 180 km/h
+für Aus- und Einfahren des Fahrwerks
+Note: see H.V.6:
+Manoeuvring Speed VA 200 km/h
+Manövergeschwindigkeit
+Never Exceed Speed VNE 285 km/h
+Höchstzulässige Geschwindigkeit
+Maximum permitted speeds
+- with flaps at S, S1, -1, -2 VFE 285 km/h
+bei Wölbklappenstellung
+- with flaps at 0, +1, +2, L VNE 200 km/h
+bei Wölbklappenstellung
+Rough Air Speed VRA 200 km/h
+Höchstzulässige Geschwindigkeit bei starker Turbulenz
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 42 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section H: Ventus-2c Date: 07 Nov 2025
+8. Operational Capability Approved for VFR-flying in daytime.
+Cloud flying according to the specifications in the Flight Manual
+Restricted aerobatic manoeuvres according to the specifications in the
+Flight Manual.
+Zugelassen für Flüge nach VFR bei Tag.
+Wolkenflug gemäß den Angaben im Flughandbuch
+einfacher Kunstflug gemäß den Angaben im Flughandbuch
+9. Maximum Masses: Max. Mass (Wing span 15 m) 525 kg
+Höchstzulässige Massen: Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 250 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (Wing span 15 m (see H.V.6)): 525 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 280 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (Wing span 18 m): 500 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 250 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (Wing span 18 m (see H.V.4)): 525 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 250 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (Wing span 18 m (see H.V.6)): 565 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 280 kg
+Höchstzulässige Masse der nichttragenden Teile
+Max. Mass (Wing span 18 m (see H.V.7)): 600 kg
+Höchstzulässige Masse
+Max. Mass of Non-Lifting Parts 280 kg
+Höchstzulässige Masse der nichttragenden Teile
+10. Centre of Gravity Range: Datum: Most inner wing leading edge
+Schwerpunktsbereich: Leveling means:
+Fuselage :Wedge 100 : 4.4 horizontal on slope of rear top fuselage
+Fuselage (see H.V.8):
+Wedge 100 : 3.0 horizontal on slope of rear top fuselage
+Bezugsebene (BE) : Flügelvorderkante bei Wurzelrippe
+Flugzeuglage :
+Rumpf : Keil 100 : 4,4 auf Rumpfoberkante hinten Horizontal
+Rumpf (siehe H.V.8): Keil 100 : 3,0 auf Rumpfoberkante hinten Horizontal
+Forward Limit: 250 mm aft of datum point
+Vordere Grenze: 250 mm hinter Bezugspunkt
+(see H.V.6 and 8/siehe H.V.6 and 8)
+Forward Limit: 260 mm aft of datum point
+Vordere Grenze: 260 mm hinter Bezugspunkt
+Rearward Limit: 380 mm aft of datum point
+Hintere Grenze: 380 mm hinter Bezugspunkt
+11. Seating Capacity: 1
+Anzahl der Sitze:
+12. Lifetime limitations: Refer to Maintenance Manual
+Lebensdauerbegrenzte Teile: Siehe Wartungshandbuch
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 43 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Section H: Ventus-2c Date: 07 Nov 2025
+13. Deflection of control Refer to Maintenance Manual
+surfaces: Siehe Wartungshandbuch
+Ruderausschläge
+H.IV. Operating and Service Instructions
+Betriebs- und Instandhaltungsanweisungen
+1. Flight Manual for the sailplane Ventus-2c, issued November 1995, LBA approved.
+Flughandbuch für das Segelflugzeug Ventus-2c, Ausgabe November 1995, LBA-anerkannt
+2. Flight Manual for the sailplane Ventus-2c, issued November 2003, LBA approved (see H.V.6).
+Flughandbuch für das Segelflugzeug Ventus-2c, Ausgabe November 2003, LBA-anerkannt (siehe H.V.6)
+3. Maintenance Manual for the sailplane Ventus-2c, issued June 1996
+Wartungshandbuch für das Segelflugzeug Ventus-2c, Ausgabe Juni 1996
+4. Maintenance Manual for the sailplane Ventus-2c, issued November 2003,
+LBA approved (see H.V.6).
+Wartungshandbuch für das Segelflugzeug Ventus-2c, Ausgabe November 2003, LBA-anerkannt (siehe H.V.6)
+5. Repair Manual for “Ventus-2c” issued June 1996
+Reparaturanweisung für „Ventus-2c“, Ausgabe Juni 1996
+6. Repair Manual for “Ventus-2c”, issued November 2003, (see H.V.6).
+Reparaturanweisung für „Ventus-2c“, Ausgabe November 2003, (siehe H.V.6)
+7. Operating Instructions for the Tost release, latest approved version
+Betriebshandbuch für die TOST Schleppkupplung , in der jeweils gültigen Ausgabe
+H.V. Notes
+Bemerkungen
+1. Manufacturing is confined to industrial production.
+Herstellung nur im Industriebau zulässig.
+2. All parts exposed to sun radiation – except the areas for markings and registration – must have a
+white colour surface.
+Alle Bauteile, die der Sonneneinstrahlung ausgesetzt sind, müssen, mit Ausnahme des Bereiches für Kennzeichen und
+Farbwarnlackierung, eine weiße Oberfläche haben.
+3. Revised pages of the flight manual, revision 1, issued February 1996, are to be used for S/N 1
+through 7 persuant to the LBA-approved Schempp-Hirth Modification Bulletin No. 349-28.
+Gemäß den Angaben des Änderungsblattes Nr. 349-28, LBA-anerkannt, der Firma Schempp-Hirth Flugzeugbau
+GmbH sind für die Werknummern 1 bis 7 die Flughandbuchseiten, Revision 1, Ausgabe Februar 1996 zu verwenden.
+4. The increase of the maximum permitted all-up mass for S/N 8 and up is permissible according to the
+LBA-approved Schempp-Hirth Technical Note No. 349-21.
+Die Änderung der höchstzulässigen Masse bei 18 m Spannweite gemäß den Angaben der Technischen Mitteilung Nr. 349-21,
+LBA-anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH ist ab Werk-Nummer 8 zulässig.
+5. The use of the fuselage of the powered sailplane Ventus 2cM is permissible according to the LBA-
+approved Schempp-Hirth Modification bulletin No. 349-32.
+Die Verwendung des Rumpfes des Motorseglers Ventus 2cM bzw. Ventus cM gemäß Änderungsblatt Nr. 349-32, LBA-
+anerkannt, der Firma Schempp-Hirth Flugzeugbau GmbH ist zulässig.
+6. Employing a new horizontal tailplane and the use of modified 18 m outboard wing panels, the
+increase of the maximum permitted all-up mass and the mass of the non-load carrying parts for S/N
+82 and up is permissible according to the LBA-approved Schempp-Hirth Modification Bulletin No.
+349-46.
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 44 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Administrative Section Date: 07 Nov 2025
+Die Verwendung eines neuen Höhenleitwerkes sowie die Änderung der 18 m Außenflügel, der höchstzulässigen Masse und
+der höchstzulässigen Masse der nichttragenden Teile gemäß den Angaben des Änderungsblattes Nr. 349-46, der Firma
+Schempp-Hirth Flugzeugbau GmbH, EASA-anerkannt, ab Werknummer 82 ist zulässig.
+7. The increase of the maximum permitted all-up mass for 18 m wing span for S/N 82 and up is
+permissible according to the EASA-approved Schempp-Hirth Technical Note No. 349-32.
+Die Änderung der höchstzulässigen Masse mit 18 m Spannweite gemäß den Angaben der Technischen Mitteilung Nr. 349-
+32, der Firma Schempp-Hirth Flugzeugbau GmbH, EASA-anerkannt, ab Werknummer 82 ist zulässig.
+8. The optional use of a smaller fuselage for S/N 107 and on, when in compliance with MB 349-46
+together with TN 349-32, is permissible according to the EASA-approved Schempp-Hirth
+Modification Bulletin No. 349-53.
+Die Verwendung eines kleineren Rumpfes, aufgrund des Änderungsblattes 349-53 der Firma Schempp-Hirth Flugzeugbau
+GmbH , EASA anerkannt, ist ab Werk-Nr. 107 in Verbindung mit Änderungsblatt Nr. 349-46 und der Technischen Mitteilung
+349-32 zulässig.
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 45 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union
+TCDS No.: EASA.A.274 Ventus a
+Issue: 04 Administrative Section Date: 07 Nov 2025
+Administrative Section
+I. Acronyms
+N/A
+II. Type Certificate Holder Record
+Schempp-Hirth Flugzeugbau GmbH
+Krebenstraße 25
+73230 Kirchheim/Teck
+Germany
+III. Change Record
+Issue Date Changes TC
+01 27 Januar 2011 Transfer from LBA TCDS No 349 to the EASA Type Design 27 January 2011
+Increase of MTOW for Ventus 2c
+Use of a smaller fuselage for Ventus 2c
+02 19 April 2011 Correction of errors
+03 04 July 2023 Correction of erros in Sections F, G, and H
+04 07 Nov 2025 Correction, Section F.I - Variant designation, Section E.III.9 - MTOM of
+serials listed in E.V.4
+TE.CERT.00135-003 © European Union Aviation Safety Agency, 2025. All rights reserved. ISO9001 Certified. Page 46 of 46
+Proprietary document. Copies are not controlled. Confirm revision status through the EASA-Internet/Intranet.
+An agency of the European Union

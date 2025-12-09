@@ -1,0 +1,420 @@
+Advisory
+U.S. Department
+of Transportation Circular
+Federal Aviation
+Administration
+Subject: Airworthiness Approval for Aircraft Date: 10/1/16 AC No: 20-182A
+Weather Radar Systems Initiated By: AIR–130
+1 WHAT IS THE PURPOSE OF THIS ADVISORY CIRCULAR (AC)?
+1.1 This advisory circular (AC) provides guidance for the initial and follow-on airworthiness
+approval of aircraft weather radar systems meeting the latest revision of the Technical
+Standard Order (TSO)-C63, Airborne Weather Radar Equipment. This AC covers
+aircraft radar systems with weather detection and ground mapping, forward-looking
+windshear detection, forward looking turbulence detection, and atmospheric threat
+awareness capability. The guidance is applicable to Title 14 of the Code of Federal
+Regulations, parts 23, 25, 27, and 29 aircraft. For forward-looking windshear and/or
+turbulence detection capability, the guidance in this AC applies to parts 25 and 23 fixed-
+wing airplane installations.
+1.2 This AC is not mandatory and does not constitute a regulation. This AC describes an
+acceptable means, but not the only means, of accomplishing airworthiness approval for
+the installation of airborne weather radar equipment. However, if you use the means
+described in the AC, you must follow it in all important respects. Appendix A provides
+additional guidance on the forward-looking windshear system annunciation, alert, and
+display icons. A list of related documents can be found in Appendix B of this AC.
+1.3 This AC provides guidance intended for new approvals. This AC is not intended to
+modify, change, or cancel existing equipment design or airworthiness approvals.
+Equipment with existing approvals can continue to be installed within the provisions of
+its original design and airworthiness certification.
+2 WHO DOES THIS AC AFFECT?
+This AC is for applicants seeking airworthiness approval of aircraft weather radar
+systems. The airworthiness approval can be approved under a type certificate (TC),
+supplemental type certificate (STC), amended type certificate (ATC), or amended
+supplemental type certificate (ASTC).
+10/1/16 AC 20-182A
+3 DOES THIS AC CANCEL ANY PRIOR AC?
+This AC cancels AC 20-182, dated June 17, 2014.
+4 BACKGROUND.
+4.1 Airborne Doppler Weather Radar Systems with Forward-Looking Windshear
+Detection.
+The forward-looking windshear detection function is incorporated into TSO-C63e.
+This AC incorporates and clarifies appropriate airworthiness guidance and eliminates
+errata from System Level Requirements (SLR) 10.2 “Airborne Short and Long Range
+Windshear Predictive Systems (Forward-Looking Windshear Systems) Interim
+Certification Requirements, Revision 10.2.” SLR 10.2 is no longer applicable for
+systems that comply with TSO-C63e or later.
+4.2 Airborne Doppler Weather Radar Systems with Forward-Looking Turbulence
+Detection.
+Prior to February 2012, the FAA used design standards developed by the Airborne
+Turbulence Detection Systems (ATDS) Working Group and airworthiness requirements
+documented in issue papers to certify forward looking turbulence detection radars. The
+FAA published TSO-C63d in February 2012, incorporating the ATDS Working Group
+design requirements. With the release of TSO-C63e, the turbulence detection function
+continues to be included in the TSO. This AC incorporates the remaining airworthiness
+guidance from issue papers into formally published FAA guidance.
+5 GENERAL.
+5.1 The display of weather radar alerts, graphical depictions of weather or other hazards, and
+the expected pilot response to information provided by a weather radar system (e.g.,
+display format, colors, labels, data formats, and interaction with other display parameters)
+should be clear and unambiguous.
+5.2 In general, the progression from green to amber/yellow to red represents an increasing
+degree of threat, potential hazard, or need of flight crew awareness or response. You
+should ensure the use of color for display of weather radar system information follows
+the guidance in the latest revisions of the following ACs for parts 23, 25, 27, and 29
+aircraft:
+5.2.1 AC 25-11, Electronic Flight Displays, Appendix G Weather Displays.
+5.2.2 AC 25.1302-1, Installed Systems and Equipment for Use by the Flight Crew.
+5.2.3 AC 25.1322-1, Flight Crew Alerting.
+5.2.4 AC 23.1311-1, Installation of Electronic Display in Part 23 Airplanes.
+2
+10/1/16 AC 20-182A
+5.2.5 AC 27-1, Certification of Normal Category Rotorcraft.
+5.2.6 AC 29-2, Certification of Transport Category Rotorcraft.
+5.3 The weather radar system may interface with other systems (e.g., ground proximity
+warning system, and traffic alert and collision avoidance system).
+5.4 You must ensure the weather radar system does not adversely affect the functioning of,
+and is not adversely affected by, other aircraft systems.
+5.5 You should ensure all the aircraft alerts are prioritized. If alerts can be issued
+simultaneously or issued by separate systems, then you ensure the alerts do not interfere
+with one another and both are understandable. TSO-C151c, Terrain Awareness and
+Warning System, Appendix 1, Table 4-2 provides an acceptable example of alert
+prioritization. For part 25 aircraft, AC 25.1322-1, section 8.b provides additional
+information regarding prioritization of multiple aural alerts.
+5.6 You should document any areas where radar emissions could be harmful to people or
+wildlife. The following three standards provide acceptable guidelines for safe radar
+operation and determining minimum safe distances:
+5.6.1 AC 20-68B, Recommended Radiation Safety Precautions for Ground Operation of
+Airborne Weather Radar.
+5.6.2 IEEE standard C95.1, IEEE Standard for Safety Levels with Respect to Human Exposure
+to Radio Frequency Electromagnetic Fields, 3 kHz to 300 GHz.
+5.6.3 Federal Communications Commission Office of Engineering & Technology (OET)
+Bulletin 65, Evaluating Compliance with FCC Guidelines for Human Exposure to
+Radiofrequency Electromagnetic Fields.
+5.7 If the radar system includes downlink capability, follow the radar manufacturer’s
+recommended procedures to ensure the system is capable of transmitting the radar data as
+specified by the manufacturer.
+6 FORWARD-LOOKING WINDSHEAR DETECTION.
+6.1 Forward-Looking Windshear Activation.
+6.1.1 To allow timely takeoff abort due to windshear condition, you should ensure the forward-
+looking windshear function is capable of manual activation prior to the start of the takeoff
+roll.
+6.1.2 You should ensure the forward-looking windshear function automatically activates for
+takeoff so that timely takeoff warnings are provided.
+3
+10/1/16 AC 20-182A
+6.1.3 When the forward-looking windshear function is enabled, you should ensure the system
+will automatically activate without flight crew intervention during descent to approach at
+an altitude sufficient to allow visual and aural alerts as specified in paragraph 6.2.2 of
+this AC.
+6.1.4 The forward-looking windshear detection system may be reset to the appropriate mode
+(landing or takeoff) in the event of a go-around or touch and go.
+6.1.5 Some system configurations utilize the transponder mode to automatically activate the
+radar to enable forward-looking windshear alerts during takeoff, even if the flight crew
+has not manually activated the radar. This configuration was established at a time when
+the transponder was not turned on until an aircraft taxied onto the runway before takeoff
+and was turned off when the aircraft left the runway after landing. However, with the
+advent of Airport Surface Detection Equipment-Model X (ASDE-X) radars and
+Automatic Dependent Surveillance-Broadcast (ADS-B), flight crews now routinely keep
+the transponder “on” while taxiing. This could create a hazard for ground crews handling
+the aircraft, as aircraft marshals and tug operators often operate in extremely close
+proximity to the nose radome. A hazard assessment should be done for the automatic
+activation feature of the forward-looking windshear function taking this type of operation
+or any automatic ground activation feature of the windshear function into account.
+6.2 Forward-Looking Windshear Alert Requirements.
+6.2.1 You must ensure the alerts and annunciations follow flight deck alerting philosophy for
+aircraft and adhere to both the regulation and the guidance in the latest revision of the
+following ACs for parts 23 and 25 aircraft:
+6.2.1.1 14 CFR § 25.1322, Flight Crew Alerting.
+6.2.1.2 AC 25.1322-1, Flight Crew Alerting.
+6.2.1.3 AC 23.1311-1, Installation of Electronic Display in Part 23 Airplanes.
+6.2.2 You must ensure the integrated system is capable of making all forward-looking
+windshear Advisory, Caution, and Warning annunciations and alerts described in Table 1
+of Appendix A.
+6.2.3 You must ensure the visual textual warning alerts are annunciated when any of the
+following conditions exist:
+6.2.3.1 The aural alert is being annunciated;
+6.2.3.2 The threat exceeds the alert threshold; or
+6.2.3.3 The threat exists within the area defined by the latest revision of the
+TSO-C63.
+4
+10/1/16 AC 20-182A
+6.2.4 You should ensure the annunciation of the failure of the windshear detection capability is
+readily visible to the flight crews from their normal seated position on the flight deck.
+6.3 Forward-Looking Windshear Alert Inhibit.
+6.3.1 During takeoff, the system should inhibit all new aural and visual alerts at a specified
+aircraft speed prior to rotation and re-enable the alerting capability after liftoff. You
+should set the takeoff alert settings per installation manual instructions and ensure the
+inhibits coincide with aircraft type specific takeoff alert inhibit criteria.
+6.3.2 During final approach, you should ensure all new system aural and visual caution and
+warning alerts are inhibited from 50 feet above ground level (AGL) until touchdown.
+6.3.3 You should ensure all new aural and visual warning and caution alerts are inhibited above
+1200 feet AGL.
+6.4 Forward-Looking Windshear Alert Prioritization.
+6.4.1 You should follow the guidance of paragraph 5.5 in this AC on aircraft alert
+prioritization.
+6.4.2 If you install a forward-looking windshear system on an aircraft that also has a reactive
+windshear system, you should ensure the reactive windshear system’s caution alert is
+disabled. It is acceptable to issue reactive windshear caution alerts if the forward-looking
+windshear system is inoperative.
+Note: The reactive windshear system warning alert should remain enabled.
+6.5 Display Requirements.
+6.5.1 It is permissible to display the windshear icon at any altitude at which the system is
+armed in the windshear mode.
+6.5.2 The windshear icon consists of alternating red and black bars. The bars should be
+oriented such that they are circular arcs centered on the apex. The color red is
+appropriate in order to provide visual discrimination from the underlying yellow weather
+display. Figure 1 in Appendix A depicts several forward-looking windshear icon
+examples.
+6.5.3 You should ensure the depth of each bar makes the windshear icon conspicuous from
+other displayed information.
+6.5.4 If the range selected by the flight crew for the display is greater than 5 nautical miles
+(nm), and this range selection does not allow the flight crew to differentiate the
+windshear symbology from other displayed information, then you should ensure
+amber/yellow radial lines extend from the icon to the upper edge of the display to help
+differentiate the windshear symbology. To accommodate icons (or groups of icons) with
+wide azimuth extent, it is permissible to limit the width between the radial lines. As such,
+5
+10/1/16 AC 20-182A
+the radial lines may extend along azimuth lines that are inside the left and right radial
+boundaries of the icon(s).
+6.5.5 If other windshear symbology is used, then you should demonstrate that this symbology
+provides a clear and substantial benefit to the flight crew.
+6.5.6 When a windshear threat is detected, the corresponding display may be automatically
+presented or selected by flight crew action. If only manual selection is provided, then
+you should ensure the flight crew workload necessary for manual presentation of the
+windshear display is minimized and does not take more than one action by the flight crew
+when the flight deck is configured using normal operating procedures.
+7 FORWARD-LOOKING TURBULENCE DETECTION.
+7.1 Paragraph 2.2.4.1 of RTCA/DO-220A, Minimum Operational Performance Standards for
+Airborne Weather Radar, defines three aircraft classes. The aircraft classes are solely
+differentiated by wing loading. You should ensure the radar is appropriate for the wing
+loading of the aircraft.
+7.2 Some applicants may wish to provide detection and display of multiple levels of
+turbulence. You should ensure the displays of those levels are sufficiently distinct from
+each other.
+8 ATMOSPHERIC THREAT AWARENESS FUNCTIONS.
+8.1 You should ensure the symbology or other display indications used to depict the potential
+threat is understandable and not misleading, distracting, or confusing.
+8.2 You should ensure the atmospheric threat awareness feature’s symbology and display
+indications do not adversely impact the ability to view, read, and interpret the weather,
+ground mapping, turbulence, and/or forward-looking windshear display. Automatic
+decluttering, such as during specific phases of flight or during certain alerts, may be
+appropriate.
+8.3 If an atmospheric threat awareness function could lead to an alert, then you should ensure
+any alerts and annunciations follow the flight deck alerting philosophy for the aircraft and
+adhere to the guidance in the latest revision of the following ACs for parts 23, 25, 27, and
+29 aircraft:
+8.3.1 AC 25.1322-1, Flight Crew Alerting.
+8.3.2 AC 23.1311-1, Installation of Electronic Display in Part 23 Airplanes.
+6
+10/1/16 AC 20-182A
+9 TEST AND EVALUATION.
+This section provides guidance for testing radar systems on aircraft. Follow the guidance
+in section 9.1 for weather and ground mapping radar. Follow the guidance in section 9.2
+if your radar system includes a forward-looking windshear detection function. Follow
+the guidance in section 9.3 if your radar system includes turbulence detection or
+atmospheric threat awareness functions. Testing of all radar systems should ensure:
+ The radar antenna and radome combination function correctly;
+ The radar display and alert prioritization functions correctly and the alerts, alert
+inhibits, annunciations, and controls function correctly;
+ The fault detection functionality works properly;
+ The human factors interface is acceptable;
+ The radar does not adversely interfere with other systems; and
+ Other systems do not adversely interfere with the radar.
+9.1 Weather Radar.
+Accomplish flight test of the weather and ground mapping pulsed radar functions in
+accordance with the latest revision of the following ACs for parts 23, 25, 27, and 29
+aircraft:
+9.1.1 AC 23-8, Flight Test Guide for Certification of Part 23 Airplanes, Chapter 5, paragraph
+1.b (10).
+9.1.2 AC 25-7, Flight Test Guide for Certification of Transport Category Airplanes, Chapter 6,
+section 1, paragraph 170.c(8).
+9.1.3 AC 27-1, Change 3, Certification of Normal Category Rotorcraft Chapter 3, AC 27 MG
+1, paragraph b (10).
+9.1.4 AC 29-2, Change 3, Certification of Transport Category Rotorcraft Chapter 3, AC 29
+MG 1, paragraph b (10).
+9.2 Forward-Looking Windshear Detection.
+Follow the TSO instructions to verify performance of the forward-looking windshear
+function. Installation testing of the forward-looking windshear function often relies on
+general weather radar functional testing as described in paragraphs 9.1.1 and 9.1.2 of this
+AC and integration testing versus dedicated forward-looking windshear flight testing.
+9.2.1 Penetration Flight Evaluation.
+Penetration flights will typically be accomplished by the radar manufacturer as part of the
+TSO authorization. If penetration data and analysis are available and you determine they
+are applicable, then you do not need to conduct penetration flight tests. Previously
+7
+10/1/16 AC 20-182A
+approved test data generated during the TSO authorization or previous certification effort
+is acceptable. If forward-looking windshear capability was not previously demonstrated,
+then verify the detection capability of the forward-looking windshear system by flying in
+areas of convective activity that can be verified by in-situ measurements, appropriate
+ground-based radar systems, or the equivalent.
+Note: Flying in or near storm cells can be extremely hazardous. Flight crews should
+exercise good judgment for safe flight based on knowledge of their own abilities and of
+the capability of the aircraft when considering approaching or penetrating any storm cell
+or turbulent area.
+9.2.2 Clutter Suppression Flight Test.
+Evaluate the system’s ability to reject spurious conditions (e.g., clutter suppression,
+bi/multi-static signal interference, range ambiguous returns, and radome effects). The
+flight tests may be conducted under visual meteorological conditions. Conduct this
+evaluation at one or more airports with the following characteristics:
+9.2.2.1 Expressways and high-volume surface streets within approximately 1 nm
+of the runway.
+9.2.2.2 Nearby taxiing aircraft.
+9.2.2.3 Concentrated urban clutter. The clutter should occupy a minimum area of
+approximately 1 nm surrounding the airport.
+9.3 Turbulence Detection or Atmospheric Threat Awareness.
+Follow the TSO installation instructions to verify performance of turbulence detection or
+atmospheric threat awareness functions. Atmospheric threat awareness functions could
+include, but are not limited to, hail and lightning indication. Installation testing of these
+functions often relies on general weather radar functional testing as described in
+paragraphs 9.1.1 and 9.1.2 of this AC and integration testing versus dedicated flight
+testing. You should attempt to evaluate the performance of these functions against
+operationally significant weather when weather is reasonably available and you can do
+so without placing the aircraft in the hazardous weather. This performance evaluation
+should ensure the depiction of turbulence or weather hazard is consistent with actual
+weather phenomenon. Data from the radar manufacturer may be used to supplement or
+replace additional flight testing if the data is determined to be applicable.
+10 AIRCRAFT FLIGHT MANUAL/SUPPLEMENT (AFM/S).
+Follow AC 23-8, Chapter 6, Section 3 for small airplane flight manual/supplement.
+Follow AC 25.1581-1, Airplane Flight Manual, for transport category airplane flight
+manual/supplement. Follow AC 27-1 and 29-2 as appropriate for rotorcraft flight
+manual/supplement. You should incorporate the following radar specific information in
+the AFM/S:
+8
+10/1/16 AC 20-182A
+10.1 Describe the weather and ground mapping, windshear, turbulence detection, and/or
+atmospheric threat awareness capabilities of the system.
+10.2 Provide limitations that are necessary for the safe operation of the weather radar system.
+10.3 Describe the appropriate actions and recovery procedures for annunciations and alerts.
+10.4 Describe the conditions necessary for automatic activation of the system, if applicable.
+10.5 Describe when alerts are provided and when they are inhibited.
+10.6 Outline hazard areas associated with radar operation on the ground.
+10.7 Provide normal and abnormal operating procedures.
+11 INSTRUCTIONS FOR CONTINUED AIRWORTHINESS (ICA).
+11.1 You should incorporate the following information into the ICA:
+11.1.1 Maintenance instructions for the radar system and radome.
+11.1.2 Description of the interface between the radar and the aircraft.
+11.1.3 Calibration instructions to maintain the radome and antenna performance to a level equal
+to or better than that demonstrated for the basic system certification.
+11.1.4 Inspection intervals for the radar system and radome.
+11.1.5 Hazard areas associated with radar operation.
+11.2 High performance radar radomes are precisely constructed. Small changes in their
+physical characteristics can adversely affect radar system performance. All repairs to
+radomes, no matter how minor, should return the radome to the minimum performances
+required for aircraft weather radar system operation. If you are repairing or replacing the
+radome in conjunction with radar installation, refer to the latest revision of AC 43-14,
+Maintenance of Weather Radar Radomes, and RTCA/DO-213A, Minimum Operational
+Performance Standards for Nose-Mounted Radomes, for additional information.
+9
+10/1/16 AC 20-182A
+If you have any suggestions for improvements or changes, you may use the template provided at
+the end of this AC.
+Richard E. Jennings
+Acting Manager, Design, Manufacturing, &
+Airworthiness Division
+Aircraft Certification Service
+10
+10/1/16 AC 20-182A
+Appendix A
+Appendix A. Forward-Looking Windshear System Annunciation, Alert, and Display
+Table 1. Forward-Looking Windshear System Annunciation, Alert, and Display
+Alert Level Advisory Caution Warning
+Visual None Amber/Yellow Visual Textual Red Visual Textual
+Textual Annunciation (or lamp): Annunciation (or lamp):
+Alert
+“Windshear” or “Windshear “Windshear” or “Windshear
+Ahead” or “W/S Ahead” Ahead” or “W/S Ahead”
+Aural Alert None Distinctive Aural Alert: Voice Alert:
+Chime or message; not Takeoff:
+containing the word
+“Windshear Ahead, Windshear
+windshear. Example:
+Ahead”
+Tone “Whoop”
+Approach or Go-around:
+or “Monitor Radar Display”
+“Go Around, Windshear Ahead”
+Icon Icon symbology as Icon symbology as defined in Icon symbology as defined in
+defined in Section 6.5. Section 6.5. Section 6.5.
+Note 1: The forward-looking windshear icon is provided as a weather hazard
+position indication and not an alert. Its color is not in conflict with the
+latest revision of AC 25.1322-1, Section 11, or AC 25-11.
+Note 2: The forward-looking windshear caution alert may progress to a time-
+critical windshear warning alert depending on the location of the
+windshear hazard.
+A-1
+10/1/16 AC 20-182A
+Appendix A
+Figure 1. Forward-Looking Windshear System Icon Examples
+1. 2.
+3. 4.
+5. 6.
+Note: These images are provided only as examples of possible icon implementations.
+Other implementations may be used. Refer to the manufacturer installation and
+operations manual for icon implementation.
+A-2
+10/1/16 AC 20-182A
+Appendix A
+Figure 2. Examples of Windshear Icon Radial Lines
+A-3
+10/1/16 AC 20-182A
+Appendix B
+Appendix B. Related Documents
+Note 1: The ACs and TSOs referenced in this document refer to the current
+revisions.
+Note 2: The industry documents referenced in this AC refer to current
+revisions and amendments or regulatory authority-accepted revisions
+and amendments.
+B.1 FAA DOCUMENTS.
+B.1.1 AC 20-68, Recommended Radiation Safety Precautions For Ground Operation of
+Airborne Weather Radar.
+B.1.2 AC 23-8, Flight Test Guide for Certification of Part 23 Airplanes.
+B.1.3 AC 23.1311-1, Installation of Electronic Display in Part 23 Airplanes.
+B.1.4 AC 25-7, Flight Test Guide for Certification of Transport Category Airplanes.
+B.1.5 AC 25-11, Electronic Flight Displays.
+B.1.6 AC 25.1302-1, Installed Systems and Equipment for Use by the Flight Crew.
+B.1.7 AC 25.1322-1, Flight Crew Alerting.
+B.1.8 AC 25.1581-1, Airplane Flight Manual.
+B.1.9 AC 27-1, Certification of Normal Category Rotorcraft.
+B.1.10 AC 29-2, Certification of Transport Category Rotorcraft.
+B.1.11 AC 43-14, Maintenance of Weather Radar Radomes.
+B.1.12 TSO-C63, Airborne Weather Radar Equipment.
+B.1.13 TSO-C151, Terrain Awareness and Warning System.
+B.2 RTCA, INC. DOCUMENTS (RTCA DO).
+B.2.1 RTCA/DO-220A, Minimum Operational Performance Standards (MOPS) for Airborne
+Weather Radar.
+B.2.2 RTCA/DO-213A, Minimum Operational Performance Standards (MOPS) for Nose-
+Mounted Radomes.
+B-1
+10/1/16 AC 20-182A
+Appendix A
+B.3 HOW TO GET RELATED DOCUMENTS.
+B.3.1 Order copies of 14 CFR parts from the Superintendent of Documents, Government
+Printing Office (GPO), P.O. Box 979050, St. Louis, MO 63197. For general
+information, call (202) 512-1800 or fax (202) 512-2250. You can also get copies at
+http:www.gpoaccess.gov/cfr.
+B.3.2 You can get copies of ACs and TSOs at
+http://www.faa.gov/regulations_policies/advisory_circulars or www.airweb.faa.gov/rgl.
+B.3.3 Order copies of RTCA documents from RTCA Inc., 1150 18th St. NW, Suite 910,
+Washington, D.C. 20036. For general information, call (202) 833-9339 or fax (202)
+833-9434. You can also order copies at http:/www.rtca.org.
+B-2
+Appendix C. Advisory Circular Feedback Information
+If you find an error in this AC, have recommendations for improving it, or have suggestions for
+new items/subjects to be added, you may let us know by (1) complete the form online at
+https://ksn2.faa.gov/avs/dfs/Pages/Home.aspx or (2) emailing this form to 9-AWA-AVS-AIR-
+DMO@faa.gov
+Subject: AC 20-182A Date: [Click here to enter text]
+Please check all appropriate line items:
+☐ An error (procedural or typographical) has been noted in paragraph [Click here to enter
+text] on page [Click here to enter text].
+☐ Recommend paragraph [Click here to enter text] on page [Click here to enter text] be
+changed as follows:
+[Click here to enter text]
+☐ In a future change to this AC, please cover the following subject:
+(Briefly describe what you want added.)
+[Click here to enter text]
+☐ Other comments:
+[Click here to enter text]
+☐ I would like to discuss the below. Please contact me.
+Submitted by: Date:

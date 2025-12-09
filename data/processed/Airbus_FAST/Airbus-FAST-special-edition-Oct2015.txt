@@ -1,0 +1,1648 @@
+Airbus technical magazine
+October 2015
+Special edition
+FA S T
+Flight Airworthiness Support Technology
+Keeping
+the A330
+Incremental
+ahead of
+Development the game
+EDITORIAL by Eric ZANIN
+Head of the A330 Family programme
+Dear Airbus friends,
+Some may be surprised by Airbus saying the A330 is “The right aircraft, right now!”.
+How can an aircraft first operated over 20 years ago still be the right aircraft, right
+now? Those of you who have ordered and reordered the aircraft know the answer.
+The answer lies in Incremental Development; the art of staying ahead of the game
+by continuous step-by-step improvement and innovation.
+As you will discover in this special edition A340, A380 and from innovations to make the interior even more
+of FAST dedicated to A330 Incremental designed on the new A350 XWB comfortable, eye-catching as well
+Development, today’s A330 aircraft is and A320neo (new engine option). as more efficient. The A330neo cabin
+not yesterday’s A330. Today’s A330 As technology improves, so does will have the same look and feel as
+aircraft serves every business model. the A330 Family. that of the A350.
+It is flying worldwide from the biggest
+Since the A330’s service entry Airbus A leader by design
+megacities to the smallest dream
+has committed to continuously
+islands; it is operated on 30 minute short A330 enhancement is not about
+improving the programme by spending
+routes up to 15 hour long haul flights ‘keeping up with others’, the A330 has
+approximately 150 million Euros each
+and can be configured for 200 to 440 often been the first in bringing on stream
+year on incremental improvements and
+seats while maintaining Airbus’ high level improvements for its customers and we
+innovations in systems, technology and
+standard of comfort. What’s more is that will continue this in the future.
+on the cabin. The result is that the A330
+the A330 passenger aircraft is part of a
+Family is recognised for its Operational Based on our analysis of the future
+bigger family developed over the years
+Reliability of over 99.4%, and the trends of world air travel and listening
+comprising a freighter, a corporate jet
+Maximum Take-Off Weight (MTOW) has to our customers’ expectations, we work
+and a military combined tanker/transport.
+now been certified and delivered at 242 on different cross-programme improve-
+The combination of low operating costs tonnes with Specific Fuel Consumption ment projects. Under the leadership of Publisher: Bruno PIQUET
+with high efficiency, flexibility and (SFC) improvements. Didier EVRARD (Head of Airbus Program- Editor in Chief: Lucas BLUMENFELD
+passenger experience is what makes the mes) these include lead-time and
+The next step: neo A330 Communication
+A330 popular with its ever increasing inventory reduction, as well as quality
+Coordinator: Valérie VARLET
+base of more than 100 customers, The next change for the A330 Family can improvement from our suppliers, plants
+operating over 1,200 A330 aircraft. hardly be termed ‘incremental’ - it is and Final Assembly Line. All of which to Design: Pont Bleu
+more of a giant leap! We are now ensure that we continue to produce the Printer: Amadio
+Incremental development brings the
+preparing the transition to A330neo. best product for our operators.
+latest technology on-board to maintain
+There is a lot of work to do but it is Authorisation for reprinting FAST magazine
+the A330s offer of the best services to
+already going well and the team, led by articles should be requested from the editor
+passengers and versatility to operators.
+Odile JUBECOURT, is currently on track Tel: +33 (0)5 61 93 43 88
+Incrementally developing with all the milestones and preliminary Fax: +33 (0)5 61 93 47 73
+design reviews. They are doing a great e-mail: fast.magazine@airbus.com
+In this special FAST edition, you will
+job, focusing on the key areas for the
+discover that the A330 programme is a FAST magazine is available on internet
+new engine option - propulsion systems,
+technological pioneer that also benefits www.airbus.com/support/publications
+the pylon and wing reinforcement.
+from proven successes on our other and on tablets
+We are also taking this opportunity
+established Airbus families: A320 Family,
+to introduce some cabin innovations,
+ISSN 1293-5476
+iOS (iPad) & Android
+Download the iOS (iPad) Where you see these icons, videos or slide shows
+Android & Windows apps are available on the app versions of FAST magazine.
+tnempoleveD
+latnemercnI
+033A
+-
+TSAF
+30
+“Incremental development
+The future of A330 keeps the A330 ahead
+The confidence that you, our customers,
+have demonstrated in the A330, ensures
+of the game”.
+the success of both the 242t aircraft and
+A330neo. This reinforces our ambition to
+keep the A330 Family flying for many
+years to come. I know that by continuing
+to listen to our customer’s feedback on
+how to improve and enhance the A330
+and thanks to the dedication of our
+programme’s teams, the A330 will
+maintain its leadership.
+In this special edition of FAST, dedicated
+to the major Incremental Developments
+of the A330 Family you will discover how
+the A330 is more than ever ‘The right
+aircraft, right now’.
+Publisher: Bruno PIQUET A330 Family overview 04
+Editor in Chief: Lucas BLUMENFELD
+A330 Communication Incremental Development (ID)
+Coordinator: Valérie VARLET
+- Aircraft design 06
+Design: Pont Bleu
+Printer: Amadio - Systems 10
+Authorisation for reprinting FAST magazine - Cabin 18
+articles should be requested from the editor
+Tel: +33 (0)5 61 93 43 88 - Freighter 26
+Fax: +33 (0)5 61 93 47 73
+e-mail: fast.magazine@airbus.com - Maintenance 32
+FAST magazine is available on internet
+- Upgrades & retrofits 36
+www.airbus.com/support/publications
+and on tablets
+FAST from the past 38
+ISSN 1293-5476
+© AIRBUS 2015
+All rights reserved. Proprietary document
+By taking delivery of this Magazine (hereafter ‘Magazine’), you accept on behalf of your company to comply with the following. No other property rights are granted by the delivery of this Magazine than the
+right to read it, for the sole purpose of information. This Magazine, its content, illustrations and photos shall not be modified nor reproduced without prior written consent of Airbus. This Magazine and the
+materials it contains shall not, in whole or in part, be sold, rented, or licensed to any third party subject to payment or not. This Magazine may contain market-sensitive or other information that is correct
+at the time of going to press. This information involves a number of factors which could change over time, affecting the true public representation. Airbus assumes no obligation to update any information
+contained in this document or with respect to the information described herein. The statements made herein do not constitute an offer or form part of any contract. They are based on Airbus information
+and are expressed in good faith but no warranty or representation is given as to their accuracy. When additional information is required, Airbus can be contacted to provide further details. Airbus shall
+assume no liability for any damage in connection with the use of this Magazine and the materials it contains, even if Airbus has been advised of the likelihood of such damages. This licence is governed
+by French law and exclusive jurisdiction is given to the courts and tribunals of Toulouse (France) without prejudice to the right of Airbus to bring proceedings for infringement of copyright or any other
+intellectual property right in any other court of competent jurisdiction. Airbus, its logo, A300, A310, A318, A319, A320, A321, A330, A340, A350, A380 and A400M are registered trademarks.
+Photo copyright Airbus. Photo credits: Airbus Photographic Library, Airbus Flight Test Photo Lab, Master Films, EXM company, Philippe Masclet, Hervé Gousse, Cassian Koshorst, Frédéric Lancelot
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+40
+A 3 3 0
+Family
+overview
+The A330 Family - a tailored
+solution for every market
+today and for the future
+As the 242 tonne weight variant enters into
+service with Delta Air Lines (May 2015) and
+the design freeze of the neo version (end of REGIONAL
+2015), FAST magazine takes a look at the
+A330 Family’s evolution over time.
+More than 20 years after its entry into service
+in 1994, the A330 Family continues to attract
+both new sales (the top 10 customers have
+ordered the A330 on average 8 times) and
+new operators.
+Since the first certification of the A330-300,
+at the end of 1993, Airbus committed the
+programme to continuous improvement.
+The company spends approximately
+150 million Euros each year on enhance-
+ments and incremental improvements in
+systems, technology and cabin.
+Multi Role Tanker Transport
+111 tonnes of fuel/45 tonnes of payload
+A330-300 A330-300 A330-200 A330-200 A330 A330
+212 tonne 230 tonne Enhanced 233 tonne 238 tonne MRTT 242 tonne
+Entry Into Service Entry Into Service
+1998 2003 2010 2012 2016 2017
+1994 1999 2004 2011 2015
+A330-200 A330 A330-300
+A330-300 A330-300 230 tonne Freighter Regional A330neo
+Entry Into Service Enhanced 233 tonne Entry Into Service 235 tonne Entry Into Service (new engine option)
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+50
+A330 Family overview
+Every 20 seconds, an A330 aircraft
+takes-off or lands somewhere
+Versatile and popular
+Serving all mission types in the world.
+With an established dispatch reliability record of
+Cost efficient
+High revenue generating aircraft over 99% it’s almost certain to be right on time,
+helping more than 100 operators worldwide serve
+Reliability over 300 airports with new levels of efficiency and
+99.4% Operational Reliability profitability. From its entry into service, the A330
+has been continuously improved with the latest
+Modern aircraft with state-of-the-art technology technology structure modifications and cabin
+Enhancing operational capability improvements, that makes its performance and
+economics exceptionally competitive and in many
+Comfortable passenger experience cases unbeatable.
+18 inch economy class comfort as standard
+The aircraft is serving everybody, everywhere
+Airbus commonality from the biggest megacities to the smallest dream
+Integrated family of aircraft islands, from 30 minutes up to 15 hour flights
+and from 200 up to 440 seats.
+Max
+Take-Off
+Weight
+242 tonnes
+242 tonnes
+199 tonnes
+233 tonnes
+242 tonnes
+242 tonnes
+As a ground-breaker, Airbus designed the first: The A330 is:
+• Twin-aisle twin-engine aircraft • The first wide-body qualified for Required Navigation
+• Widebody certificated for operation by two pilots Performance (RNP) - authorisation required in MarchM 2a0x09
+Typical Max Wing Overall Overall
+Range Take-Off
+• Aircraft to incorporate winsde-sahtienagr detectiosne aantdin rgeaction • The firs s t p a a ir n craft certif l i e e n d g E t T h OPS (Ext h e e n i d g e h d t -range Weight
+• Twin-engined aircraft regularly operated on extended routes Twin-engine Operational Performance Standards) beyond
+3 A330 Regional 400 440 2,700 180 minutes (up to 240 min in October 2009) 199 t
+• Aircraft with composite primary structure
+1 • AA3ir3cr0a-ft2 w0i0th fly-through com2p4u7ter control 406 7,250 • The fir1s9t 7a’i1rc0r”aft in the1 9w1o’r6ld” to fly wit5h8 b’2ro”adband W 2 i 4 -F 2 i t
+60.30 m 58.37 m 17.73 m
+internet and mobile phone services from 2nd quarter 2010
+2 Al A l t 3 h 3 e 0 se - 3 d 0 e 0 velopments hav 2 e 7 b 7 een adopted 4 4 b 0 y the A330. 6,350 197’10” 208’12” 56’4” 242 t
+60.30 m 63.70 m 17.18 m
+197’10” 191’6” 58’2”
+4 A330-200F - 70 tonnes 4,000 60.30 m 58.37 m 17.73 m 233 t
+A330-300 A330-300 A330-200 5 A330A-830300-200 257 A330 406 7,500 209A’132”30 191’6” 58’2” 242 t
+64.00 m 58.37 m 17.73 m
+212 tonne 230 tonne Enhanced 233 tonne 238 tonne MRTT 242 tonne
+Entry Into Service 6 A330-900 287 Entry Into S4e4rv0ice 6,550 6 2 4 0 . 9 0 ’ 0 1 2 m ” 6 2 3 0 . 8 7 ’ 0 1 2 m ” 17 5 . 6 1 ’ 8 4 ” m 242 t
+1998 2003 2010 2012 2016 2017
+1994 1999 2004 2011 2015
+A330-200 A330 A330-300
+A330-300 A330-300 230 tonne Freighter Regional A330neo
+Entry Into Service Enhanced 233 tonne Entry Into Service 235 tonne Entry Into Service (new engine option)
+ID
+A330 Family
+Incremental
+Development
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+60
+In this special edition of FAST magazine we’ll be highlighting the step changes that have
+allowed the A330 to lead the field in widebody aircraft for over 20 years. Airbus’ continuous
+innovation has touched upon every aspect of operating an aircraft from the overall aircraft
+design, right through to reduced maintenance and upgrade compatibility.
+The A330 operational characteristics have been improved continuously, maturing
+this aircraft to operate efficiently on all kinds of routes from short to long haul, from
+30 minutes up to 15 hour flights, whilst improving the flexibility and the versatility.
+This has been made possible by the regular introduction of airframe modifications,
+technological fertilization from other Airbus products developments, as well as the
+use of more recent methods and tools.
+Improving flexibility through payload/range variants
+The payload and range capability improvement is primarily achieved through design
+weights variants:
+• Maximum Take-Off Weight (MTOW) increase - more range at a given
+payload / more payload at a given range
+• MTOW reduction - optimisation for high traffic regional routes
+• Maximum Zero Fuel Weight (MZFW) increase - more maximum payload
+• Maximum Lift Weight (MLW) - comes along with MZFW increase
+Article by
+Vincent LEBAS
+A330/A340/A330neo
+Chief Engineering
+Overall Aircraft Design
+AIRBUS
+50
+Vincent.Lebas@airbus.com
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+500 1,500
+Range (nm)
+)sennot(
+daolyaP
+ID Aircraft design
+for
+Payload range evolution Aircraft MTOW Pax Max pax range
+A330-300 217t 4760 nm
+A330-300 230t 5510 nm
+A330-300 242t 6320 nm
+2,500 3,500 4,500 5,500 6,500 7,000 8,500 9,500 10,000
+Incremental Development for aircraft design
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+70
+A330-300 development
+Big steps for Maximum Take-Off Weight increase or airframe optimisation
+245
+240
+235
+230
+225
+220
+215
+210
+1990 1995 2000 2005 2010 2015 2020
+Year
+This has been made possible by demonstrating increased structural capability, in
+several steps:
+• “Small steps” using the demonstrated margins from the airframe structural
+capability, resulting from re-analysis of the existing structural design with new
+methods & tools. Such developments only require minor – hence retrofittable -
+structural modifications.
+• “Big steps” introducing a larger extent of structural modifications – hence
+non-retrofittable – thus allowing a large increase of design weights or fatigue
+characteristics improvement (A330 “enhanced”).
+)sennot(
+thgieW
+ffO-ekaT
+mumixaM
+Growth Enhanced 242 tonne
+variant
+EIS
+Improving
+payload/range
+Incremental Development for aircraft design
+Postmod shape Premod shape
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+80
+Improving flexibility
+Take-off performance
+The engine thrust has been increased in conjunction to the MTOW increase, ranging from
+64,000 lbs up to 72,000 lbs take-off thrust, thus preserving the airfield capability of the A330.
+When maximized performance is not required, the engine thrust can be optimized on a case
+by case basis (for engine life and cost saving) to the airfield conditions and Take-Off Weight
+of the day by use of “Derate thrust” (up to 25 % thrust reduction) or “Flex thrust”
+(up to 40 % thrust reduction).
+The A330 offers flexible design Weight Variants (WV) by using:
+• Multiple Weight Variants: “switch” (on a seasonal basis) from,
+for example, a “low WV” to a “high WV” on the same aircraft
+A330 Family
+• Dynamic payload: fully optimized payload/range capability by trading
+Take-Off Weight vs Zero Fuel Weight (on a flight-by-flight basis) incremental
+developments
+Improving airframe efficiency
+improving
+The airframe efficiency improvements introduced on A330 are:
+• Modifications for fatigue life improvement: flexibility and
+- adapted to the longer range capability (i.e. less Flight Cycles and more Flight Hours)
+- adapted to the shorter range capability (i.e. more Flight Cycles and less Flight Hours) efficiency
+• Structural optimization for weight savings (contributing to better performance),
+by introduction of new materials (e.g. new aluminium alloys, composite material)
+or design re-optimization with new methods & tools
+Aerodynamic efficiency
+The A330 wing is achieving an excellent aerodynamic standard, thanks to
+its high Aspect Ratio wing and advanced transonic profiles. The developments
+of Computational Fluid Dynamics have however allowed evidencing opportunities
+for local design “tweaks” reducing cruise drag by 1%:
+• Re-optimized slat1 profile
+• Shortened flap track fairings
+Shortened flap track fairings
+and slat 1 re-profiling led to:
+• 1% drag saving
+• Local changes only
+• Wing box shape kept unchanged
+Future improvements
+Beyond current definition, new features will be developed to further improve
+the performance such as weight reduction solutions or introduction of new
+aerodynamic technologies (riblets and hybrid laminar flow).
+Incremental Development for aircraft design
+CONCLUSION
+Benefiting from continual innovation, the A330 is an efficient
+aircraft widely recognised by the market.
+The flexibility of their operational characteristics allows A330
+aircraft to be operated by every business model and in every
+sector, from 30 minutes up to a 15 hour flight.
+More than 20 years after its first operational flight in 1994,
+the A330 has evolved in such a way that it remains
+‘The right aircraft, right now’.
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+90
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+01
+ID Systems
+for
+Over its 20 years of existence, one of the leading fields in which
+the A330 Family has been incrementally developed, both in rhythm
+and scope, is systems.
+During the first ten years of A330 operations, evolution in systems was mainly aimed
+at improving reliability, saving weight and consequently fuel, or allowing functional
+growth capabilities at architecture level.
+It was in 1998 at the time of A330-200/300 “high growth weight” 230t certification
+that the first significant step was performed. A centre wing fuel tank was added to the
+A330-200 definition, increasing range capability, and both A330-200 and A330-300
+were the first Airbus aircraft to be fitted with new navigation technologies as Multi-
+Mode Receiver (MMR), Flight Management FMS2, replacing former equivalent
+systems, and new FANS A (Future Air Navigation System) solution, supported by
+SATCOM communications, to improve oceanic and long range operations.
+Article by (left to right)
+Bruno LEY
+Head of Multi-Programme Projects
+Systems Engineering
+AIRBUS
+Bruno.Ley@airbus.com
+Bruno IZAC
+A330/A340 Chief Engineering
+Head of Systems
+AIRBUS
+Bruno.Izac@airbus.com
+Five years later in 2003, capitalizing on A340-500/600 technologies on-going
+development, a second significant step was achieved with the entry into service of
+the “enhanced” A330-200/300 bringing changes that improved reliability and reduced
+maintenance costs. Major upgrades were implemented, such as the introduction of
+LCD (Liquid Crystal Display) screens in the cockpit (replacing EIS1 Cathode Ray Tube
+displays), ISIS (Integrated Standby Instrument Systems) replacing a set of electro-
+mechanical standby instruments, a Fly-By-Wire rudder, as well as a new on-board
+maintenance data system.
+During the last ten subsequent years, the A330 Family programme has continuously
+and increasingly invested in development, improving A330 systems definition, enabling
+the design office to certify complex and operations-oriented functions.
+Using the latest certified techniques, the design office has delivered safety
+enhancements, fuel and cost savings, reliability improvements, or new capabilities
+to improve aircraft and cockpit operations and/or passengers’ travel experience.
+Incremental Development for systems
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+11
+On-board Airport Navigation System Continuous Descent Approach (CDA)
+(OANS) Associated with enhanced Conventional Airbus descent procedure
+Electronic Instruments System EIS2 (LCD is designed to perform a major part of
+displays with video capability, production deceleration during level-off segments.
+standard since 2013), track-ball device The vertical profile of descent and
+and Flight Control Unit (FCU) upgrade, approach complies with altitude
+the system shows the aircraft’s position constraints as defined in the navigation
+on an airport map, to improve situational database or manually entered by the
+Major A330 awareness, ease navigation around flight crew (from ATC clearance).
+complex airfields or in low visibility Continuous Descent Approach (CDA)
+developments conditions. It similarly helps prevent aims at removing level segment and
+dangerous errors in surface navigation uses idle thrust as much as possible,
+on navigation such as runway incursion or take-off from providing flight crew with energy
+a taxiway or from the wrong runway. management indications by defining
+flaps/slats configurations.
+and flight
+It is supported by the Flight Manage-
+Required Navigation Performance ment System - FMS Release 2 - from
+management
+Authorisation Required (RNP-AR**) Honeywell to be available early 2016.
+The A330 was the first widebody aircraft
+systems
+to be RNP-AR approved. This system
+allows access to airports in mountainous Runway Overrun Protection System
+areas with more flexible approaches and (ROPS*) is an Airbus-developed
+departures, thus enabling time and fuel response to the growing occurrence of
+Airborne Traffic Situational
+savings. RNP-AR is certified with 2 levels runway overrun incidents, which remain
+Awareness (ATSAW), took advantage
+of RNP-AR operations: 0.3 nm (certified the main cause of aircraft accidents.
+of Automatic Dependent Surveil lance-
+in 2010) and 0.1 nm in approach ROPS provides significant safety
+Broadcast (ADS-B) by displaying aircraft
+(certified in 2014). enhancement allowing the reduction
+information. It enhances the flight crew’s
+of insurance fees. (See FAST#55)
+knowledge of their surrounding air traffic
+situation, contributing to fuel savings by
+GBAS Landing System (GLS)
+identifying the opportunity to climb and
+provides a state-of-the-art approach Soft go-around function aims at
+optimizing the flight level. In approach
+method for landing. It is based on providing an easy way for the flight crew
+ATSAW increases runway throughput by
+differential corrections of GPS positions to achieve appropriate thrust for
+improving identification and information
+which are provided by a GBAS (Ground go-around in all cases, avoiding strong
+of target aircraft and decreasing pilot
+Based Augmentation System) station acceleration while ensuring a climb rate
+workload. ATSAW was certified in 2011.
+located at the airport. This function is in of approximately 2000 ft/min, vertical
+line with the ILS system and is fully stability and pitch. It will be available for
+integrated into the cockpit. GLS CAT 1 GE/PW engines by the end of 2016.
+Traffic Collision Avoidance System
+autoland was certified in 2014, with
+Resolution Advisory (TCAS RA)
+growth capability allowing evolution
+Prevention (TCAP**) aims to reduce
+towards CAT II/III autoland. It is an Weather radar
+the number of TCAS RA occurring during
+advantage at airports by significantly Improved definition of weather radar
+level-off manoeuvres in reduced
+reducing the effects of ILS signal reflection offers from both suppliers (Honeywell
+separation airspaces. It reduces
+and providing flexibility for approach and Rockwell Collins) will be available by
+undesired RA by 95% and all RA by 50%
+design. the end of 2015. These state-of-the-art
+and improves passenger comfort, with no
+technologies which include detection
+fuel penalty for normal operation.
+techniques, digital signal processing
+FMS Landing System (FLS) is currently and weather data memory, improve
+a function provided by FMS Thales Release crew awareness by improving weather
+Autopilot/Flight Director Traffic
+1A. FLS allows flying a Non-Precision threat assessment such as hail and
+Collision Avoidance System (AP/FD
+Approach (NPA) along a “virtual” beam lightning analysis and turbulence
+TCAS*) mode is an Airbus solution which
+computed by the Flight Management detection.
+combines the autopilot (automatic mode)
+System (FMS) with similar display,
+/flight director (manual mode) and the
+guidance & alerts as those for precision
+TCAS to provide vertical speed guidance
+approach operations (Instrument Landing * AP/FD TCAS, TCAP and ROPS
+based on a TCAS target and an optimum
+System - ILS). FLS does not rely on ground will be available early 2016
+avoidance manoeuvre in case of
+assets and provides significant benefits in
+conflicting air traffic (TCAS RA). It avoids ** RNP-AR FAA certification
+reducing pilot training time and costs. FLS
+or reduces pilot overreaction, enhances is expected in 2015.
+that will be directly compatible with the
+safety and increases passenger comfort
+Final APP mode and supporting RNP-AR
+during manoeuvres. It also allows easier
+procedures will be available on Honeywell
+training and a more intuitive flying
+FMS in 2016 and on Thales FMS in 2018.
+technique.
+tnempoleveD
+latnemercnI
+033A
+-
+TSAF
+21
+Incremental Development for systems
+Operational improvement
+ETOPS 240 (Extended-range Twin-engine Operational
+Performance Standards)
+ETOPS provides key operational improvement. In 2009 EASA approved A330
+aircraft for ETOPS “beyond 180 minutes”, allowing diversion distance up to a
+maximum of 1,700 nm, i.e. the equivalent to an ETOPS diversion time slightly
+higher than 240 minutes.
+On some “golden routes”, this can mean reduced distances of up to 500 nm,
+which is the equivalent of 1 hour of flight, or 10 percent of fuel.
+ETOPS 240 certification by the FAA is expected by the end of 2015.
+Cabin oxygen system
+An Extended Duration Chemical Oxygen System (EDCOS) (generators/containers) will
+be introduced, providing significant weight saving and easing maintenance. It will enable
+our customers to change from the current gaseous oxygen system installation and will
+bring significant benefits to airlines requiring passenger oxygen supply up to approxi-
+mately 60 minutes. Once this system has been qualified for the A330, it will also be
+adopted by other Airbus programmes.
+Even in this field, the A330 is still “setting the standard” for other aircraft.
+Incremental Development for systems
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+31
+Communication systems
+Swift Broad Band (SBB) SATCOM Derived from “Swift 64” (64kbps) SATCOM solutions
+and driven by cabin application needs, such as live internet, mobile phone use and email.
+Swift Broad Band SATCOM solutions by both Honeywell and Rockwell Collins were certified
+between 2009 and 2011 providing 2 channels at 432 kbps. They can both be operated with
+former SATCOM antenna or with the more recently certified antenna (July 2010) which is 25 kg
+lighter, easy to retrofit, and delivers fuel savings of approximately 100 kg for a typical A330 mission.
+IRIDIUM cockpit SATCOM solution, certified in 2014, offers a low cost solution to equip in-service
+aircraft that are not yet SATCOM equipped, or to replace in-production current SBB (Swift Broadband)
+SATCOM that will become over-sized for cockpit operation when a powerful cabin SATCOM
+(Kx band) is selected. This solution provides worldwide coverage, and is easy to retrofit.
+Capability of the Electronic Flight Bag (EFB) connection will be certified by the end of 2015.
+SATCOM voice for ATC communication (certified in 2011), offers increased reliability
+and better quality of voice communication. It also allows deletion of one High Frequency (HF)
+system. It does not need any hardware or software upgrade, but requires local ATC approval
+for long range communication.
+A330neo The A330neo has been designed to be fitted with all the above solutions, either as a
+basic configuration or as options depending on programme policy. It will also benefit
+systems from an electro-pneumatic bleed system, which has been the state-of-the-art for new
+programmes since the A340-500/600.
+... and beyond
+Beyond the A330neo, the A330 programme is still investing and preparations are
+being made in order to cope with up-coming regulations and/or new Air Traffic
+Management rules, such as:
+• An upgrade Multi-Mode Receiver (MMR) development was launched mid-2015, as
+an Airbus cross fleet activity. It will provide architecture compliant with US ADS-B
+GLOSSARY Out mandate by 2018/2019, with growth capacity to evolve to SBAS Landing
+System (SLS) approach capability and multi GPS constellations management
+ADS-B Out Automatic Dependent Surveillance
+by 2020/2025.
+- Broadcast Out
+• Development of FANS A+C ATSU was launched in April 2015, to prepare for
+ATSU- Air Traffic Service Unit
+European ATM airspace (SESAR) operations requirements in 2018 (see FAST#53).
+ATM - Air Traffic Management
+In the long term, as with other Airbus aircraft, new avionics and cockpit developments
+FANS A+C - Future Air Navigation System A+C
+are being considered. These will consist of a new systems architecture associated
+SBAS - Satellite Based Augmentation System with the integration of equipment resulting in less weight and cost while offering
+SESAR - Single European Sky ATM Research new functions.
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+41
+Incremental Development for systems
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+51
+Incremental Development for systems
+FlySmart with Airbus
+The ultimate goal for Airbus’ Electronic Flight Bag (EFB) called “FlySmart with Airbus”
+is to improve airline operational performance by bringing information to the cockpit
+and tremendously reducing the use of paper documentation. It also provides
+integrated solutions for efficiently managing that information in-flight and on-ground.
+FlySmart with Airbus was started in 2007 with the implementation of an “aircraft
+attached“ EFB (Class 3), with integrated cockpit displays proposed in a front mounted
+or side mounted configuration, and usable in all flight phase conditions.
+For operators preferring portable and connected EFB (Class 2), Airbus will soon
+propose new options based upon Wi-Fi in the cockpit to connect the pilot’s own
+electronic devices (laptop or tablets) to the aircraft.
+By the end of 2015 a Single Docking Station (SDS) solution, embedding a laptop
+as a Wi-Fi access point will be made available.
+The second half of 2016 will bring the EFB Interface Communication Unit (EICU).
+Like the SDS, the EICU will provide avionics data to EFB, but it will also provide
+in-flight and on-ground communication capabilities through Aircraft Communications
+Addressing and Reporting System (ACARS) and Internet Protocol (IP). Both SDS
+and EICU solutions are the bridge between avionics and pilot electronic devices
+and are common with Airbus’ A320 Family offer.
+Head-Up Display
+Head-Up Display (HUD) has been available on Airbus aircraft since 2006 (see
+FAST#46). This visual guidance system has been shown to significantly increase
+pilots’ situational awareness, facilitates Instrument Meteorological Conditions
+(IMC)/ Visual Meteorological Conditions (VMC) transition, enhances stability of
+manual approaches and allows minima reductions during take-off and landing.
+The HUD shows trajectory related symbols superimposed on a transparent screen
+in the pilot’s forward-field view. Service experience confirms that the HUD
+provides a very good means to stabilize the aircraft during the approach phase.
+The fully digital processing of the HUD system and the dual installation in the
+cockpit is compatible with future technologies: Enhanced Vision System (EVS)
+and a Synthetic Vision System (SVS).
+Dual HUD function already available on the A320 Family, A350 and A380 was
+launched for the A330 in 2013. The long range HUD standard will be based on
+the latest certified single-aisle standard and proposes the latest functionalities
+to keep the highest symbology and operations’ commonality throughout Airbus’
+fleet. Certification is expected beginning of 2018 (see FAST#56).
+Incremental Development for systems
+Systems hardware
+When developing a function, its retrofit capability is a key driver of the design, and generally* these lead to favoured software
+solutions or simple Line Replaceable Unit (LRU) upgrades. For most functions, once they are certified, the necessary systems
+provisions become basic in production, and activation of the function is performed by pin-programming, pending RFC/RMO
+selection.
+One key enabler of autopilot/FMS based functions is the last hardware of Flight Management Guidance and Envelope Computer
+(FMGEC), known as “GENEPI” hardware. It is capable of supporting the two last FMS standards and elaborate auto-pilot based
+functions:
+FMS Release 1A Standards FMS Release 2 Standards Auto-pilot based functions such as
+This FMS standard contributes to several This FMS standard is the current long AP/FD TCAS, ROPS, Soft go-around,
+new functions, such as RNP-AR, FLS, term solution from Honeywell and Thales TCAP, FLS, GLS, HUD.
+GLS, fuel alerts for extended ETOPS, for A320/A330, that supports a world-
+and Take-off Data Securing function. wide Navigation Database, and a new
+It supports an increased Navigation FM card set with improved throughput
+Database, and high speed A615A performances. The Honeywell card set is
+*A notable exception to this was EIS1 CRT
+software loading. basic if selected (since mid-2014).
+displays. Their limited growth capabilities
+Honeywell FMS will be available first prevented upgrade to the targeted function
+(early 2016) supporting CDA function, and enhanced EIS2 LED displays were the
+right candidates for replacement.
+then Thales FMS expected in 2018,
+which will support the i4D function.
+GLOSSARY Airbus Upgrade Services has developed with Thales and Honeywell an attractive
+retrofit offer to evolve former FMGEC hardware to the GENEPI configuration, allowing
+AP/FD TCAS Auto-Pilot/Flight-Director Traffic
+the implementation of the above functions within the A330 fleet by OBRM (FGE) or
+alert and Collision Avoidance System
+software loading (FMS) upgrade.
+CDA - Continuous Descent Approach
+Less visible than the above mentioned solutions, A330 programme investment also
+CRT- Cathode Ray Tube
+takes the opportunity to improve hardware MTBF during redesign or by certifying a
+EIS - Electronic Instrument System more recent solution from another programme, increasing reliability and commonality.
+ETOPS - Extended-range Twin-engine These incremental developments plus regular monitoring of fleet status, has meant
+Operation Performance Standards that A330 dispatch reliability is steady at around 99.2 % for the whole A330 enhanced
+fleet and around 99.4% (rolling) for the last sixty delivered aircraft.
+FGE - Flight Guidance and Envelope
+FLS - FMS Landing System Cockpit evolutions depicted above are compatible with all A330 enhanced Weight
+Variant, A330-200F (Freighter) and the MRTT (with potential adaptation).
+FMGEC - Flight Management Guidance
+Envelope Computer Most of the new cockpit functions and hardware mentioned above are retrofitable
+FMS - Flight Management System across the A330 fleet.
+GBAS - Ground Based Augmentation System
+GLS - GBAS Landing System
+i4D - initial 4-Dimensions
+LED - Light Emitting Diodes
+MRTT - Multi Role Tanker Transport
+MTBF - Mean Time Between Failure
+OBRM - On-Board Replaceable Module
+RFC/RMO - Request for Change/Retrofit
+Modification Offer
+RNP-AR - Required Navigation Performance
+- Authorisation Required
+ROPS - Runway Overrun Prevention System
+TCAP - TCAS Alert Prevention
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+61
+Incremental Development for systems
+Flight Operations Commonality (FOC)
+Cost-saving and better training
+With the A330, Airbus’ concept of a true aircraft family
+with a high level of commonality, comes into its own. 7 days
+Airbus operators may take advantage of shortened pilot
+training between Airbus aircraft types.
+3 days 15 days
+A pilot trained on one Airbus aircraft can control the
+flight path and handle the systems of any other aircraft
+with reduced training addressing differences called
+Cross Crew Qualification (CCQ). 8 days
+A330 is at the heart
+Furthermore, Mixed Fleet Flying (MFF) allows an airline
+of Airbus aircraft
+to operate multiple aircraft types requiring different
+licence endorsement by one pool of pilots. A330 Flight crew training
+commonality with the A320
+A330 and A350 will benefit from Common Type Rating Family, A340, A350 and A380
+(CTR): A330 pilots can qualify on the A350 XWB
+Full Type Rating: 24 days
+in eight working days without full flight simulator Common
+Type Rating
+time and then be able to fly both aircraft under A330 Common Type Rating
+will allow pilots transition from A330
+a single license endorsement: Single Fleet Flying (SFF).
+to A350 in only 8 days without full
+flight simulator sessions.
+Training savings and productivity will be maximized
+with the possibility to practice A330/A350 and A340 A330 Cross Crew Qualification (CCQ)
+which includes simulator sessions, is available for A320 Family,
+(or A320 or A380) MFF, as MFF limits a pilot to
+A340 and A380 pilots with durations of 7, 3 and 15 working days
+two types of aircraft. respectively instead of 24 days.
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+71
+CONCLUSION
+A330 systems definition remains flexible in order to
+incorporate valuable adaptations for our customers.
+Operation safety enhancements are implemented
+across programme fleets when they are proven mature
+and add value to the aircraft and cockpit operations.
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+81
+ID for Cabin
+the
+The A330 cabin – a business card for airlines and for Airbus
+Since the A330 entered into service, air traffic has more than doubled.
+It has become a standard means of transportation and competition
+between operators grows while the number of alliances increases.
+The cabin has become a business card for airlines, a major differentiator
+that influences the choice of passengers. This is why Airbus continuously
+invests to improve its cabins; retrofitting latest innovations as often as
+possible on all aircraft to ensure optimum passenger experience, while
+ensuring a smooth operation for the crew and reducing operating costs.
+When an aircraft is developed for a life cycle of more than 30 years,
+the cabin life cycle significantly evolves. Around the year 2000 the cabin
+interior was to be renewed every 10 years, today outdated equipment
+Article by is replaced every 5 years. This is a tendency that will continue.
+Lars LEHMANN
+Head of Integrated Cabin & Cargo
+Chief Engineering A330/A340
+AIRBUS
+Lars.Lehmann@airbus.com
+Incremental Development for the cabin
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+91
+The A330 cabin evolves to
+Development cycles of the cabin and its systems
+follow trends in term of design,
+Verification but moreover to benefit from
+and Validation state-of-the-art technologies
+effort
+that ensure passenger comfort
+and well-being while providing
+crew with a modern and efficient
+working environment. Airbus’
+cabin design office also delivers
+safety enhancements, reliability
+0 5 10 15 20 Years
+improvements and new design
+Aircraft dev. cycle Seats dev. cycle Connectivity dev. cycle standards that contribute to
+Cabin dev. cycle In-Flight Entertainment dev. cycle Monuments dev. cycle airline cost saving.
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+02
+Incremental Development for the cabin
+High comfort Business Cabin seat rails
+4-abreast
+The A330 seat rails have been adapted to allow maximum
+flexibility for operators to meet changing market trends. They
+allow a wide variety of seating configurations from high comfort
+4-abreast premium class to the most efficient higher-density
+9-abreast configuration. Additional seat rails also allow nine
+abreast seating aft of door 3.
+Wide seats
+With a 222-inch width the A330 offers at least the standard
+18-inch wide seat in economy class, now common to all Airbus
+Regional Business/Premium Business aircraft, providing extra room compared to the previous 17-inch
+7-abreast industry norm.
+A modern, spacious and comfortable cabin
+When boarding the latest A330 generation you discover a
+modern, spacious and comfortable cabin. This perception is given
+by the latest generation of sidewall panels. Brighter and lighter
+than the previous generation, they have also been improved to
+ease installation and reduce maintenance costs. They also
+optimize space and thermal comfort for outboard passengers.
+High comfort Economy
+Cabin mood lighting
+8-abreast - Standard 18 inch wide seat
+Space and comfort perception is also reinforced by lighting.
+In the frame of the A330 enhanced cabin, airlines can choose
+from a variety of new mood light options. As LED lighting
+technology evolved, in place of the single colour fluorescence
+tubes, hybrid units carrying white fluorescence tubes were
+combined with coloured LEDs.
+With the latest A330 242 tonne variant, a new full LED mood
+lighting inherited from the A350 XWB allows unlimited custom-
+ization of colour and intensity.
+Modernity in the details
+High efficiency Economy
+9-abreast To ease and simplify cabin operations the Passenger Supply Unit
+(PSU) underwent several redesigns with modern looking signage,
+LED reading lights, and pictograms were introduced wherever
+feasible.
+The cabin is a fantastic vector of the airline brand image; this is
+why Airbus propose customizable window bezels and Gobo
+projections. A “Gobo” is a template in front of a lighting source,
+which controls the shape of the emitted light. It can be used to
+display special lighting effects such as airline logos or any other
+image and patterns on almost every surface in the cabin.
+Incremental Development for the cabin
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+12
+Spaceflex Cabin air systems
+Derived from A340-500/600, an improved air management function has been certified
+and Smart-Lav
+on A330 242 tonne variant, ensuring an automatic adaptation of the Environmental
+Control System (ECS) pack flow depending on actual passenger numbers, while
+The A330neo will adopt and adapt a
+maintaining a constant ventilation rate and comfort in the cabin.
+rear lavatory and galley concept
+designed for the A320 Family. Called To increase passenger comfort and the airline’s flexibility, new air condition tempera-
+Space-Flex, this new system replaces ture zones have also been introduced in the A330 enhanced cabin and were further
+full-width rear galleys with a smaller improved with the 242 tonne variant. The cabin is divided into six individually controlled
+unit – along with two lavatories that zones and air distribution is equal along the cabin.
+were previously located left and right of
+the central aisle – making more efficient
+use of the aircraft’s rear volume. This Overhead stowage
+allows operators to install up to three
+The overhead stowage compartment (OHSC) has been enhanced with a new contour
+additional revenue-generating seats or
+providing an increased OHSC volume to respond to latest carry-on luggage definitions.
+increase the area between seating
+A330 cabins offer a choice of spacious fixed and articulated overhead bins designed
+rows for even higher levels of passen-
+to match the most popular “roller bag” sizes. Installation of stowage is adapted to
+ger comfort. Another concept adopted
+airline needs and their resultant aircraft configuration.
+from A320 is Smart-Lav an optimized
+lavatory that offers more usable cabin
+length for A330 Family aircraft. The
+benefits of installing Smart-Lav depend
+on the operator and their chosen cabin
+configuration, but they can include
+improved seat pitch, more recline
+space for passengers, additional
+stowage capacity and in certain cases
+an operator can gain up to three to six
+seats, within the existing exit limitation.
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+22
+Incremental Development for the cabin
+Passenger experience
+With the increase of non-stop long-haul flight capabilities of the A330, airlines are looking for higher
+passenger comfort in all classes and for sophisticated passenger infotainment (information,
+communication, audio & video entertainment) systems:
+• In recent years First Class (F/C) seats have often been replaced by very complex mini-suites
+• Business Class (B/C) seats are now very similar to former F/C seats
+• In all classes the complexity of seat design has drastically increased with the integration of highly
+sophisticated infotainment systems
+In-Flight Entertainment
+To answer the demand for more individual In-Flight Entertainment (IFE) in all classes of the A330,
+Airbus introduced the 3rd generation IFE in 2007. Key features of which were:
+• Full Digital Audio and Video on Demand (AVoD)
+• Interface for personal electronic devices (power, audio/video re-direction to IFE,
+content download from IFE, etc.)
+With the A330 242 tonne variant Airbus introduced the 4th generation IFE experience, originally
+developed for the A350 XWB.
+Innovations in this latest generation include larger screens with full-HD capability, high bandwidth fibre
+optics, simplified installation, as well as weight and space saving. This last item means increased
+legroom, thanks to the reduced size and number of Seat Electronic Boxes (SEB).
+A light IFE integration option is available for airlines adopting slim seats in their economy-class cabins.
+Providing the same features (individual AVoD, games, moving map) it is built on a seat centric
+technology where “Media Players” or “Tablet PCs” host and process content and applications locally.
+This can result in a weight reduction of over 300 kg. IFE maintenance costs are also reduced.
+This new, lighter and simpler IFE platform was an enabler for an all-class Audio and Video on Demand.
+Airbus design drivers were performance, weight saving, and the family concept as well as downward
+compatibility for fleet wide retrofit.
+Full connectivity
+The A330 now offers full connectivity in line-fit. A330 operators are able to offer worldwide broadband connec-
+tivity services via internet and mobile telephony by using satellite communication. The Airbus platform, called
+Airline Network Architecture (ALNA) which was pioneered by the A330, is the first connectivity solution
+available as line fit on Airbus aircraft and can be retrofitted to all aircraft.
+The scope of connectivity applications enables airlines to reach passengers personally in flight and to generate
+ancillary revenues. Thanks to its unique communication management, it also serves airline administrative
+and operational communications, as illustrated by crew mail, digital cabin logbook, documentation viewer,
+telemedicine, credit card authentication, on-board rescheduling of traveller flight connections, with more
+applications to be accessible wirelessly from cabin crew devices in the near future.
+Of course the latest A330 cabin upgrade will also be prepared to accommodate the latest developments
+of connectivity system. The connectivity platform will be ready to support wireless content streaming to
+passenger owned devices and future broadband satellite communication technologies (e.g. KA-band).
+Furthermore the platform shall be open for 3rd party use (e.g. Panasonic) and ease installations and
+interfaces (e.g. new ARINC standards).
+Incremental Development for the cabin
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+32
+Step-by-step
+the A330 Family
+stays at the forefront
+of technological
+advancement,
+shaping the future
+of wide-body
+aviation
+Incremental Development for the cabin
+Crew efficiency and well-being at work
+Easy handling galleys New galley inserts
+Continuous extension of flight duration has resulted in the need The Electrical Galley Inserts named Multi Functional Unit
+for more catering capacity, with more efficient cooling systems (MFU) that have been developed for the A350 have been
+and a variety of electrical appliances (several types of oven, water certified for use on A330. A330 Family operators can now
+boilers, coffee makers, waste disposal system, etc.). benefit from galley commonality with their A350s or simply
+profit from weight and energy saving improvements.
+Wet and dry galleys are located to provide optimum space for
+passengers and maximum space for cabin staff. They can be The MFU provides flexible, improved meal preparation
+installed within the flexibility zones. service, especially for the increasing expectations of
+Business and First Class passengers without impact
+Airlines choose the equipment to be integrated into the galley
+on space or weight compared to traditional catering
+frame according to their needs. The development of easy
+equipment.
+handling galleys, has allowed the A330 to continue to offer a
+“cabin crew friendly environment”.
+Galley Waste Disposal Unit
+To ease cabin crew operation and improve galley maintenance,
+Airbus introduced the Galley Waste Disposal Unit (GWDU).
+Previously food waste such as noodles, rice, coffee grounds and
+filters in the galley working area had to be disposed of in the toilet
+units. Cabin crew also often misused the normal galley sink
+which led to clogging of drain lines and ‘black-brown’ coloured
+marks on the aircraft fuselage aft of the drain mast.
+These recurring and costly problems have been eliminated by
+using the GWDU which uses the existing vacuum system to
+safely dispose of soft galley food and liquid waste into existing
+waste tanks.
+An improved galley floor attachment now protects seat tracks in
+the “wet areas” and this has played a major role in extending the
+A330’s maintenance intervals.
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+42
+Galley Waste Disposal Unit
+photo courtesy of Zodiac
+Incremental Development for the cabin
+CONCLUSION
+The cabin and the cabin crew facilities are areas which have an immediate impact and are easily
+appreciable by customers. As such they are under constant review, have frequent development cycles,
+and quickly adopt proven solutions from other programmes.
+With the latest A330 242 tonne variant having just been delivered to its first customers, the next A330
+upgrade is under development - the A330neo.
+For this new, highly efficient aircraft, the cabin will hugely contribute to reducing airlines’ Direct Operating
+Cost (DOC) while providing up to 10 more seats with the same level of comfort.
+Airbus is investing to ensure that the A330neo cabin has the flexibility to incorporate state-of-the-art
+technologies. With the passenger at heart and the airline in mind, we continuously develop the A330 cabin
+to be modern, proven and comfortable while offering the highest possible cost-efficiency.
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+52
+Cabin Intercommunication Crew rest areas
+Data System (CIDS)
+Safe and comfortable travel is only possible if the crew is
+The Cabin Intercommunication Data System (CIDS) well rested and focused. For this purpose, Airbus offers
+operates, controls and monitors the main cabin systems two kinds of crew rest compartment aboard the A330:
+and can perform system and unit tests. • The Flight Crew Rest Compartment (FCRC) located
+The CIDS is designed to interface between cabin crew, between the cabin and the flight deck for easy and quick
+cockpit crew and passengers. It also manages mainte- access.
+nance related functions such as central cab maintenance • The Lower Deck Mobile Crew Rest (LDMCR) compart-
+service, system programming features, configuration ment located on the lower deck, in the aft cargo
+data loading and the service inter phone. compartment. The spacious A330 lower deck mobile
+In 2000, for the A330 enhanced cabin, the software was cabin crew rest offers up to eight comfortable bunks,
+entirely updated and the hardware was changed to separated from the main deck. It is mounted on a 96
+include new touch screen technologies for the Flight inch pallet on the lower deck, accessible from the cabin
+Attendant Panel (FAP). New functionalities derived from by stairs, and can be removed in 50 minutes.
+the A340-600 were introduced, in the spirit of the Airbus
+aircraft family approach.
+A new CIDS, inspired by that of the A350 XWB with a
+new Human-Machine-Interface (HMI) that includes
+enhanced functionalities such as LED light control and
+individual lavatory music, will be proposed.
+Freighter
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+62
+ID for
+the
+The A330-200F: a versatile, reliable and profitable freighter
+for every market
+Derived from the A330 passenger aircraft, the A330-200F is a new-generation
+freighter designed to meet operators’ needs in the mid-size, long-haul segment.
+As a highly versatile aircraft the A330-200F is capable of serving the freight lift needs
+of diverse markets: it accommodates all industry-standard unit load devices, but also
+has the optimal design for carrying a large variety of special cargo, including live
+animals, flowers and perishables, as well as outsize goods. The operational reliability
+of the aircraft reaches 99.4%.
+The A330-200F is capable of carrying 65 to 70 tonnes of payload, with a range that
+stretches from 3,200 nm up to 4,000 nm. At 70 tonnes, the A330-200F provides up
+to 35% lower operating costs per tonne compared to larger freighters.
+Launched in January 2007 and certified in April 2010, the A330-200F freighter
+definition was based on a sound market survey and strong cooperation with customer
+focus groups. Since its launch the A330-200F has benefited from the continuous
+improvements brought to the A330 programme.
+Article by (left to right)
+Matthias IEROVANTE
+Head of Freighter and P2F Projects
+A330/A340 Programme Directorate
+AIRBUS
+Matthias.ierovante@airbus.com
+Eerika SOMERSALO
+Product Marketing Analyst - Freighters
+AIRBUS
+Eerika.Somersalo@airbus.com
+Andreas BARTH
+Head of Freighter & Cargo Definition
+AIRBUS
+Andreas.Barth@airbus.com
+Incremental Development for the freighter
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+72
+Added value through the Dynamic Mode
+The freighter was developed from the A330-200 passenger variant and benefits from
+A330-300 higher design weights. The Maximum Zero Fuel Weight (MZFW) was
+improved for higher payload capability. Through these specific design weights the
+A330-200F can carry up to 70 tonnes of payload over 3,200 nm which is in line with
+general cargo market requirements.
+The A330-200F was originally launched in two weight variants: Range Mode with 65t
+max structural payload and Payload Mode with 70t of max structural payload. These
+were later complemented by the Dynamic Mode based on a linear trade-off between a
+variable MZFW of 173-178t and the Maximum Take-Off Weight (MTOW). The Dynamic
+Mode translates into a variable structural payload of 65-70t, hence providing operators
+with improved flexibility in payload optimization. It also increases the payload capability
+of the aircraft by up to 2.5t on routes between 3,200 and 4,000 nm.
+A330-200F A330-200F A330-200F
+Range Mode Payload Mode Dynamic Mode
+MTOW 233 tonnes 227 tonnes 233 tonnes
+MLW 182 tonnes 187 tonnes 187 tonnes
+MZFW 173 tonnes 178 tonnes 173 to 178 tonnes
+MTOW = Maximum Take-Off Weight MLW = Maximum Landing Weight MZFW = Maximum Zero Fuel Weight
+On-ground slope and cargo loading
+A particular challenge to overcome was how to cope with the passenger aircraft’s
+natural slope of 1.5° nose down and its unfavourable impact on manual cargo loading.
+Easy manual loading was a crucial design criterion as the aircraft was intended to
+carry heavier cargo than previous Airbus freighters.
+Tests confirmed that pushing heavy cargo units on such a slope requires significantly
+more effort and loading staff compared to an aircraft with a level floor.
+The nose landing gear was lowered by 370 mm,
+reducing the on-ground slope close to 0° A solution would have been to equip the freighter with a powered main deck cargo
+loading system, but the resulting added weight (around 650 kg), the increased
+maintenance costs and the additional fuel burn were not acceptable by the majority
+of operators.
+The development team reviewed 13 technical solutions to bring the aircraft’s
+on-ground slope close to zero degrees including lengthened nose gear, shortened
+main landing gear and external lifting devices.
+The solution that was finally selected was to keep the same nose landing gear
+and lower it by 370 mm. The specific design of the lowered landing gear bay
+and nose fairing gave the freighter a unique touch and had a negligible impact
+on drag and fuel burn.
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+82
+Incremental Development for the freighter
+Loadability
+and loading flexibility
+65°
+Transforming a passenger aircraft into a
+freighter lowers its empty weight (due to
+the removal of the cabin and cabin
+96”
+systems) but also moves the Centre of
+Door
+Gravity (CG) further forward as the 96” closed
+courier area, barrier wall and cargo door
+are installed in the forward section,
+whereas heavy items like pax waste
+tanks and galleys are removed at the 64”
+back end of the aircraft. This moves the 125”
+resulting freighter aircraft’s CG closer
+to its forward certified limits.
+To provide appropriate loading flexibility
+the forward CG limits were extended
+and the fuel vector was changed. Main deck cargo configurations
+In addition shear and bending limits
+Side by side 96” Side by side 88” Side row 96”
+were improved through structural
+Up to 22 positions Up to 23 positions Up to 16 positions
+reinforcements to cope with freighter
+specific loading and mass distribution.
+The aircraft loadability verification 96” 96” 96”
+and optimisation was done through
+a loadability study simulating up to
+96” 125” 88” 125” 125”
+96”
+100,000 random loading cases in
+different loading configurations and AMA containers AMV containers
+Up to 9 positions Up to 18 positions
+with different weight distributions
+and cargo densities.
+The loadability study confirmed an 96” 96”
+excellent success rate in the various
+loading configurations, easing operators’
+load planning and providing maximal 125” 96” 96” 125”
+operational flexibility.
+Lower deck cargo configurations
+96” lower deck pallet 96” lower winged pallet LD-3
+Cargo loading Up to 8 positions Up to 8 positions Up to 26 positions
+configurations
+The main deck cargo loading configura- 64” 64” 64”
+tions, cargo loading system and floor
+structure design was based on the 125” 96” 125” 96” 61.5” 60.4”
+proven principle of the in-service
+A300-600F. However with its longer
+fuselage the A330-200F can provide
+several more pallet positions.
+Versatility and loading flexibility are
+achieved through a multiple choice
+all-in-one cargo loading system.
+The robust floor and system concept
+allows the operator to mix pallets or
+container configurations using side-by-
+side, single row lengthwise or crosswise
+latching positions.
+Incremental Development for the freighter
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+92
+Main deck cargo door
+simplified for general
+freighter operations
+Based on the A300-600F design Internal
+and operators’ feedback experience, control zone Forward 1 Forward 2 Aft 1 Aft 2
+the A330-200F main deck door was
+simplified to a single stage 65° Temperature
+operation. The new simplified selection zone Main deck forward cargo Main deck aft cargo
+actuation system reduces the cargo
+Temperature Sensor
+door weight.
+Also the latching and locking systems A330-200 Freighter stays cool…
+have been optimized for better perfor-
+mance in cold weather conditions. With the development of the A330-200F, Airbus, for the first time, offered
+a baseline two-zone main deck cargo compartment Environmental Control
+System (ECS) that allows selecting temperatures from 5 to 25°C for each zone
+independently.
+Temperatures on the lower end of this range are required for the transportation
+of perishable goods such as cut flowers, fruit and vegetables, whereas a lot of
+live animals travel best at temperatures around 20°C.
+Combined with the lower deck forward cargo hold ventilation and temperature
+control system, the main deck cargo ECS provides the operator with full flexibility
+to control transport conditions to the optimum.
+Besides the aspect of providing adequate temperatures as required for special
+cargo transportation, it is also important to assure sufficient ventilation to control
+the level of humidity in the cargo holds and to evacuate gaseous substances
+i.e. carbon-dioxide that develops from sublimation in case of dry ice carriage
+for cooling purpose.
+On A330-200F with NORM flow selected, the empty main deck cargo hold’s
+466 m3 of air will be exchanged every four minutes, while minimizing the risk
+of drafts through an optimized piccolo duct air-distribution system.
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+03
+Incremental Development for the freighter
+Maximising container volume: AMV container
+Incrementally
+In order to exploit the benefits of the wide cross section of the main deck cargo hold,
+increasing
+Airbus looked for a container solution that can be offered to operators who would like
+to combine maximum available volume with the loading comfort of a container.
+the freighter’s
+Nordisk Aviation Products developed in partnership with Airbus a container (IATA 3
+digit code AMV) that features a contour adapted to the cross section of A330-200F
+unmatched
+main deck. Volume-wise, the side-by-side loaded AMV is the optimum fit for the main
+deck cargo hold of A330-200F as well as A300/A310 freighters.
+flexibility
+“Moving the big stuff”: 16/20 ft pallet loading capability
+Thanks to the wide cross section and large cargo door of the A330-200F, optional
+provisions can be installed on the main deck that accept heavy duty 16 and 20 ft
+pallets, to carry cargo such as vehicles, aircraft engines, machinery parts, etc.
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+13
+Incremental Development for the freighter
+Freighter courier area
+The objective of a freighter aircraft is to carry a maximum of cargo but
+operators often also need to transport additional persons such as off-duty
+flight crews, cargo loading personnel and animal attendants to provide
+in-flight care (e.g. for horses). This is why Airbus proposed a customizable
+courier area concept. Located between the cockpit and the main deck
+cargo compartment, the courier area can be configured for business seat
+comfort or economy seating in high density layouts for up to 12 occupants.
+Airbus also developed a specific rigid barrier wall that also separates
+and protects cockpit and courier area from load impacts, noise
+and cold temperatures.
+CONCLUSION
+The development of the A330-200F represents a significant step in building the A330 Family.
+Based on the proven A330 passenger platform, the A330-200F has an optimized design to match the needs
+of cargo operations.
+As a highly versatile freighter the A330-200F can carry a wide variety of different types of cargo.
+In-line with Airbus’ policy of commonality the A330-200F has and will be incrementally developed to accept
+proven technologies from other Airbus programmes, to remain the world’s cutting-edge cargo aircraft.
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+23
+ID Maintenance
+for
+The original A330 was designed to minimize maintenance costs, for example:
+• Centralized Maintenance System (CMS) for efficient trouble-shooting and real time
+monitoring allows continuous fault monitoring and automatic fault reporting.
+It also facilitates identification of failed components and minimizes unjustified
+removals. The CMS includes the printable Post Flight Report (PFR) which aids
+efficient and simple troubleshooting.
+• Modern technology is implemented wherever possible in order to reliably reduce
+scheduled tasks, man-hours and complexity. A typical example is the Fly-by-Wire
+which is simpler and lighter than a conventional control system with approximately
+50% less maintenance required.
+• Multi-function Line Replaceable Units (LRU) associated to high component reliability
+also contribute to minimizing maintenance costs.
+• Advanced materials (new alloys and composites) and production techniques
+improve resistance to fatigue.
+The A330 benefits from continuous improvements that bring the latest technology
+aboard, making it a highly attractive aircraft for airlines and their passengers.
+A major example was the ‘enhanced’ aircraft in 2004, which benefited from technolo gy
+developed for the A340-500 & 600 aircraft, in addition to systems and upgrades
+reflecting the latest technology.
+Thanks to its robustness and its proven reliability, maintenance programme intervals
+have been continuously lengthened based on experience since the A330’s service
+entry, bringing significant mainte nance cost reductions.
+Article by (left to right)
+A330 Airframe Direct Maintenance Cost reduction
+Sabine S. KLAUKE
+Head of A330/A340 Programme since entry into service
+Customer Services
+AIRBUS 1994 2002-2004 2006-2009 2011-2014
+Sabine.Klauke@airbus.com
+Entry Enhanced package Systems upgrades Systems upgrades
+Into - - -
+Ken LAURENT Service Maintenance Landing gear overhaul Maintenance
+Aircraft Operations Marketing programme interval improvement programme
+upgrade - upgrade
+AIRBUS Maintenance
+Ken.Laurent@airbus.com programme
+upgrade
+Alain LEOMANT
+A330/A340 Technical Management -20%
+and Fleet Support
+AIRBUS
+Alain.Leomant@airbus.com
+Incremental Development for maintenance
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+33
+Enhanced packages Systems upgrades
+The first enhanced A330s were delivered in 2004, with an Systems upgrades have been incrementally introduced
+upgraded flight deck, fly-by-wire rudder, new cabin design in the A330 fleet when newer technologies demonstrate
+and a variety of structural and system improvements. an economic benefit. In particular, more integrated avionics
+The main goals were to: components have led to higher reliability and reduction
+in spares inventory.
+• Benefit from new technology
+As an example the so-called T3CAS (Traffic Collision
+• Increase system reliability
+Avoidance System), integrates three systems, TCAS,
+• Improve component integration to reduce spares inventory ATC2 (Air Traffic Control Mode S) transponder and TAWS
+(Terrain Awareness and Warning System) in a single box,
+• Significantly reduce the maintenance costs
+thus reducing weight, spares count and maintenance costs.
+The enhanced modifications also benefited the maintenance
+programme leading to a reduction in complexity and in the
+number of tasks compared to previous versions. Another example of a systems upgrade is the Enhanced
+Electronic Instrument System (EEIS):
+• New LCD module with LED backlighting
+Enhanced design
+• New electronic board with higher reliability
+for low maintenance costs
+• One Part Number (P/N) instead of two
+• Fly-by-wire rudder • Current and enhanced display units are interchangeable
+and mixable
+- Replaces the former mechanical back-up
+- Reduced complexity, lower maintenance cost • Common to A320 and A330/A340
+• LED Lights
+Number of Number of
+- LED technology lights replace bulb lights fatigue inspections fatigue inspections
+- Increased reliability with threshold
+<17,000 Flight Cycles
+• Component integration
+- Integrated standby system
+- Electrical power control unit, etc.
+-68% -75%
+• Smoke detection
+- Second generation optical smoke detectors 260 52
+- Lower repair costs, cheaper, more reliable
+82 13
+• LCD displays
+- High reliability A330-200 A330-200 A330-200 A330-200
+Non-enhanced Enhanced Non-enhanced Enhanced
+- Less unscheduled maintenance
+• Enhanced Cabin Intercommunication
+Data System (CIDSN)u mber of Number of
+fatigue inspections fatigue inspections
+- New touch screen LCD Flight Attendant Panel
+with threshold
+- Easy troubleshooting of cabin related systems <17,000 Flight Cycles
+• Cargo panels
+- More than 100% resistance improvement
+- Less unscheduled maintenance (manhours)
+-68% -75%
+and lower material costs
+260 52
+• Redesign structural areas
+- Improve fatigue resistance and damage tolerance
+82 13
+- Reinforced fuselage sections and frames
+A330-200 A330-200 A330-200 A330-200
+Non-enhanced Enhanced Non-enhanced Enhanced
+Maintenance
+A330 A330 intervals A330 A330
+Review Board
+Entry Into Service (2008 -2009) Current intervals Report Future intervals
+800 Flight Hours***
+A-check 400 Flight Hours 600 Flight Hours 800 Flight Hours 2000 Flight Hours**
+/ 6 months**
+C-check 15 months 18 months 24 months 24 months
+2C-check 30 months 36 months 42 months Future 48 months*
+Intermediate
+5 years 6 years 6 years 6 years
+check
+Structures
+10 years 10 years 12 years 12 years
+check
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+43
+Incremental Development for maintenance
+Engine CF6-80E1 PW4000
+Tech CF6 Advantage 70
+improvement
+• EIS: Q1 2008 • EIS: Q2 2009
+package • High Pressure Turbine upgrades with mature • Hardware changes to enhance performance
+technology to improve fuel burn retention and durability
+The manufacturers of all three jet and durability
+• No modifications to nacelle, pylon and wing
+engines offered on the A330 have
+• No modifications to nacelle, pylon and wing
+introduced enhancements that lower • Interchangeable with non-Advantage 70 engines
+the amount of fuel burned and reduce • Interchangeable with non-Tech CF6 engines • Maintenance cost improvement: ≈ 5%
+maintenance costs. • Maintenance cost improvement: ≈ 5%
+Maintenance checks
+A330 Maintenance Planning Document (MPD) check interval evolution
+* Objective: one year before the first A330neo reaches its first 2C-check
+** Applicable to A330neo redesign parts
+*** Room for escalation
+Maintenance programme upgrades
+Airbus has regularly used A330 fleet experience (more than 1,200 aircraft
+in service) to optimize the A330 maintenance programme, leading to:
+• Increased check intervals
+• Reduced maintenance costs
+• Higher aircraft availability
+Incremental Development for maintenance
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+53
+Trent 700
+Enhancement Package (EP)
+• EIS: Q1 2009
+• Hardware changes to enhance performance
+• No modifications to nacelle, pylon and wing
+• Interchangeable with non-EP engines
+CONCLUSION
+The A330 is a mature and proven aircraft that has benefited from incremental development for over 20 years.
+From a maintenance perspective it benefits from an immense pool of data that has allowed Airbus to refine the
+aircraft for specific use (domestic to long-haul) and tailor the required maintenance accordingly.
+Airbus is committed to continuously improve the A330 Family which benefits from the latest proven technology
+and has great potential for further developments.
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+63
+Upgrades
+ID
+for
+& retrofits
+As we have shown throughout this special edition of FAST magazine, new
+developments for the A330 have been incrementally included as standard
+over the last 20 years. Upgrades & retrofits are by definition the incremental
+development of aircraft already delivered.
+Airbus Upgrade Services offer solutions aligned with new aircraft configurations which
+means that the customer is assured of a solution which meets their immediate need,
+but also best prepares them for any future growth potential. The vast majority of
+innovations driven by the A330 programme are suitable for retrofit across all or
+sometimes a portion of the In Service Fleet thus enabling harmonisation and the
+Article by spreading of benefits. The drivers for retrofit are varied. The needs for avionics
+John GRANT upgrade on older aircraft are often associated with the need to achieve new functions
+Marketing Manager Upgrades capability. Once embodied, the new standards are often more able to support other
+AIRBUS functions which can aid in justifying the investment. The need to ensure efficient
+John.Grant@airbus.com operations in a changing Air Traffic Management environment means that some ATM
+related upgrades are mandatory by retrofit, dependent on the region of operation,
+e.g. ADS-B Out is already mandated in some regional airspace and will be mandated
+in Europe and the US in 2020 for retrofit.
+The business case for retrofit is an important driver, particularly where operational
+performance, costs reduction and revenue generation are affected. Examples are
+MTOW, RNP-AR, ETOPS and even cabin reconfigurations.
+In summary, wherever possible new developments are designed with retrofit ease
+in mind ensuring competitiveness of our aircraft in a changing and increasingly
+challenging environment.
+Incremental Development for upgrades & retrofits
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+73
+Airbus Upgrade Services
+Retrofit-ability is always an important consideration during the design of new solutions.
+This policy is very important and it means that aircraft can remain competitive for life,
+not just at aircraft delivery. The competitive aspect is important as the aviation world
+is truly dynamic. An investment in the aircraft may also be justified by operational
+optimisation, increase in the potential for revenue generation and enhancement
+of aircraft marketability and value.
+To achieve a certain aircraft capability, some pre-requisites may be required for areas
+such as avionics or perhaps structural or electrical provisions. The level to which an
+aircraft is affected will depend on the configuration and often the age of the aircraft.
+For this reason a specific check is performed on each MSN as part of our response
+to an upgrade request. Once the retrofit proposal is accepted, the core activity of
+GLOSSARY
+upgrades is delivery of the associated Service Bulletins and kits.
+ADS-B Out - Automatic Dependent
+Since the entry into service of the A330, air traffic demands have changed dramatically,
+Surveillance-Broadcast Out
+but so has the technology available and the commercial environment for the airline.
+ATM - Air Traffic Management
+Some aircraft capabilities or functions which may enhance “Communication, Navigation
+or Surveillance” may be retrofitted to meet the ATM related mandates imposed by local DMC - Direct Maintenance Cost
+or regional authorities. Often the mandates are deemed necessary to ensure that all
+ETOPS - Extended-range Twin-engine
+aircraft in the airspace are capable of operating to the required standard for the benefit Operation Performance Standards
+of the overall aviation community. Examples may include the current drive for efficient
+IFE - In Flight Entertainment
+communications as noted for ADS-B out and FANS.
+FANS - Future Air Navigation System
+MSN - Manufacturer Serial Number
+MTOW - Maximum Take-Off Weight
+RNP-AR - Required Navigation Performance
+- Authorisation Required
+Performance related upgrades:
+• Payload and range - Take-Off Weight variants refined according to the operating scenario
+• ETOPS - new efficiency on specific routes saving time and fuel
+• RNP-AR - can enable efficient landing and take-off and ensure access at airports in challenging terrain
+• Data Link and SATCOM upgrades – Efficient communications
+• Reduced DMCs through use of new technology and increased reliability
+• Fuel savings using light modern material and technology with the benefit of reduced emissions
+Cabin and cargo - the revenue generators
+In pure commercial terms it is primarily the cabin or cargo which provides the
+opportunity to generate revenues from the aircraft. The choice of cabin configuration
+chosen for entry into service on a new aircraft is normally judged to be the best at the
+time of delivery. However, it is unlikely to be the best cabin forever. The market will
+change and technology makes new cabin concepts available in terms of comfort,
+In-Flight Entertainment (IFE), seat design and space optimisation.
+As well as the need for general cabin refurbishment every five to seven years,
+technology advances offer opportunities to modernise important aspects of the cabin
+which affect ambiance and passenger appeal. Examples include mood lighting
+(see page 20), larger overhead stowage bins, modern connectivity and IFE which To find out more about the
+is increasingly an expectation. multitude of performance
+and revenue generating
+The business model of specific airlines means that brand differentiation is important.
+upgrades or retrofits that
+Cabin ambiance and configuration affects the revenue generated. Adjustments
+the A330 can benefit from
+are required to ensure the best potential for revenues in a specific market.
+please contact:
+Through upgrades First Class, Business Class, Premium Economy or Economy upgrade.services@airbus.com
+can be refined to match the evolving demand. for more information.
+FAST
+from the PAST
+There wouldn’t be any future without the experience of the past.
+A long-haul career for an A330 pioneer
+After 40 years at Airbus, Gerard ZUBER retired in September 2015; we reflect on his last
+25 years presiding over the A330/340 Family.
+As a qualified engineer starting at the Nantes facility (France), he gained manufacturing
+engineering and planning experience working at almost every French Airbus facility. In
+1990, the long-range programme was starting up which brought Gerard to Toulouse,
+where he later became head of industrial activities overseeing the first A340 delivered to
+Lufthansa in January 1993 and the first A330 to Air Inter in December 1993.
+In 2000 he became long-range programme manager for France, and took responsibility
+for Europe in 2005. This position put Gerard in charge of 150 people working in planning,
+configuration management, supply and industrial performance management activities.
+His team’s international and multifunctional operational scope was central to supporting
+rate increases on the programme. Gerard’s vision and ability to anticipate the market
+also played an important role in guiding the A330 Family’s diversification strategy, which
+has seen the launch of the A330 freighter and MRTT, as well as the 242-tonne and
+regional versions over the last five years.
+During his time as A330 Family programme manager, Gerard worked closely with Patrick
+PIEDRAFITA, now head of the A350 XWB programme. Speaking at Gerard’s leaving do,
+Patrick congratulated him for pioneering the introduction of programme management at
+Airbus, as well as managing a production ramp-up to ten A330 Family aircraft a month.
+“As an architect of the programme function you worked on making Airbus more integrat-
+ed, with the unanimous support of everyone in the company, something that is a rare
+achievement,” he said. “You have always taken the time to share your values, passion
+and knowledge with both the A330 Family team and with Airbus as a whole, and many of
+us have benefited from this.”
+Gerard describes himself as ‘the memory of the long-range’. “I have seen the A330
+developed and 1,700 A330s and A340s including freighters and MRTTs delivered,” he
+says. And while he will not be there for the first A330neo delivery, he will be there for its
+first flight.
+Gerard credits his time on the A330 Family as having allowed him to translate his passion
+for aircraft into concrete achievements as well as being a personal satisfaction. “After 25
+years the story is not finished,” he adds. “to be successful, you must continually prepare
+for the future.”
+The future of A330
+“The success and the appeal of the A330 have always been its ability to adapt to different
+markets. This flexibility has largely been due to embracing Incremental Development.
+Step-by-step continuous improvement that will soon see the introduction over the next
+15 years of developments such as a new cockpit design, hybrid laminar flow, riblets, as
+well as the huge potential for weight saving and efficiency that new structure technologies
+are making possible.”
+Due to its performance and positioning in terms of range and capacity, further Incremental
+Development is being planned through the Product Evolution Plan on A330neo, the
+A330 Family is here to stay for many years as a leader in its market”.
+Enjoy your retirement Gerard, the A330’s future is assured!
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+83
+We’ve got it covered
+Around the clock, around the world,
+Airbus has more than 240 field representatives
+based in over 110 cities
+WORLDWIDE TECHNICAL, MATERIAL & LOGISTICS TRAINING CENTRES
+Tel: +33 (0)5 6719 1980 Airbus Technical AOG Centre (AIRTAC) Airbus Training Centre
+Fax: +33 (0)5 6193 1818 Tel: +33 (0)5 6193 3400 Toulouse, France
+Fax:+33 (0)5 6193 3500 Tel: +33 (0)5 6193 3333
+USA/CANADA
+airtac@airbus.com Fax: +33 (0)5 6193 2094
+Tel: +1 703 834 3484
+Spares AOG/Work Stoppage Airbus Maintenance
+Fax: +1 703 834 3464
+• Outside the Americas: Training Centre
+CHINA Tel: +49 (0)40 5076 4001 Hamburg, Germany
+Fax: +49 (0)40 5076 4011 Tel: +49 (0)40 7438 8288
+Tel: +86 10 8048 6161 Ext. 5020
+aog.spares@airbus.com Fax: +49 (0)40 7438 8588
+Fax: +86 10 8048 6162
+• In the Americas:
+Airbus Training Centre Americas
+FIELD SERVICE SUPPORT Tel: +1 70 3729 9000
+Miami, Florida - U.S.A.
+ADMINISTRATION Fax: +1 70 3729 4373
+Tel: +1 305 871 3656
+aog.na@airbus.com
+Tel: +33 (0)5 6719 0413
+Fax: +1 305 871 4649
+Fax: +33 (0)5 6193 4964
+Spares In-Flight orders outside the Americas:
+Tel: +49 (0)40 5076 4002
+Fax: +49 (0)40 5076 4012
+ifd.spares@airbus.com
+Spares related HMV issues outside the Americas:
+Tel: +49 (0)40 5076 4003
+Fax: +49 (0)40 5076 4013
+hmv.spares@airbus.com
+Spares RTN/USR orders in the Americas:
+Please contact your dedicated customer spares
+account representative csr.na@airbus.com
+tnempoleveD
+latnemercnI
+033A
+-TSAF
+93
+12206_AIR_QA_A330Tail_Fast_Magazine_297x210_1.0.indd 1 24/07/2015 14:17

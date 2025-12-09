@@ -1,0 +1,2472 @@
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+6
+4
+T
+S
+A
+F
+FAST46_COUVval_v7.qxp:couv FAST 46 22/07/10 10:23 Page 2
+FAST
+46
+A U G U S T 2 0 1 0
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+Customer Services
+events
+Just happened Coming soon
+5thTechnical Data symposium Material, Logistics, Suppliers
+The fifth Technical Data symposium took place and Warranty symposium
+with the participation of more than 150 atten - This symposium will be held in Paris, France
+dees, including 60 different airlines from all from 25thto 27thOctober, 2010.
+around the world. Airbus will present the latest developments and
+In line with the theme of the symposium, initiatives in the material, logistics, suppliers
+‘Delivering Innovative Solutions’, more than and warranty domains, that have been deve-
+30 different presentations, demos and work - loped based on the close and productive rela-
+shops, covering solutions for every single key tion ship with our customers and suppliers. The
+area of technical data, were shown. Airbus new suite of Flight Hour Services solu tions
+customers fully validated Airbus vision for will also be presented. These services have
+Technical Data and highlighted the exceptional been developed to help airlines increase their
+networking opportunity that an event like this aircraft availability and reliability, whilst de -
+represents with strong encouragements to keep creasing maintenance risks and investment.
+up the good work in the future. The airline and MRO markets are constantly
+evolving and thus require innovative and
+9thA330/A340 Family symposium
+flexible solutions. Innovation is a key driver for
+This event, recently held in Berlin, Germany,
+Airbus, not only when building aircraft, but
+gathered 177 persons representing airlines, lea -
+also when supporting its customers’ opera tions.
+sing organisations, MRO (Maintenance Repair
+Airbus will continue to drive the deploy ment of
+and Overhaul) organisations and suppliers.
+new supply and logistics services to gether with
+Airbus customers acknow ledged the good pro -
+the customer and supplier com munity, shaping
+gress made by Airbus on some major topics
+the future together and delivering world-class
+since the previous symposium, held in Dubai.
+support to its airline operators. The invitations
+Airbus presented six ‘Awards for Operational
+have been sent out.
+Excellence’ to: Korean Air, Asiana Airlines,
+Swiss, China Airlines, Etihad Airways and A380 symposium
+Qatar Airways. This second A380 symposium will be held in
+Many technical and non-technical subjects Singapore from 15th to 19th November 2010. It
+were raised during the airline caucus. Airbus will review in-service experience and progress
+set its priorities for the coming months. since the first symposium, focusing on major
+open issues, associated support plans and
+Upgrade Services’ team was at the Aircraft
+implications for future operators.
+Interiors Expo, Hamburg, Germany
+The formal invitation letters, as well as the
+Airbus Upgrade Services introduced an ‘Expo
+preliminary agenda, have been sent out.
+premiere’ this year, the ‘Product Information
+Symposiums are held for each Airbus program me
+Session’. This session gathers a series of pre-
+every two years and target airline engine ering
+sentations on innovative new products such as
+and maintenance managers. The prime function
+the enhanced cabin for the A320 Family, mood
+of these meetings are to enable
+lighting, the new trend for premium economy
+two-way communication regarding actual
+and the flexible cabin concept.
+in-servi ce issues, as well as topics of more
+Please contact Airbus Customer Services for
+general interest.
+details on new innovations and products sui -
+table for retrofit to your fleet.
+64
+TSAF
+FAST46_COUVval_v7.qxp:couv FAST 46 22/07/10 10:23 Page 3
+JA UU LG YU S 2T 0 02 70 1 0
+4406
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+Customer Services
+Events
+Alternative fuels
+A flight path towards sustainable aviation
+Paul NASH
+Ross WALKER
+Nicolas MOUNEY
+Publisher: Bruno PIQUET
+Editor: Lucas BLUMENFELD Jet fuel contamination with FAME
+Page layout: Quat’coul (Fatty Acid Methyl Ester)
+World jet fuel supply
+Cover:
+Greener. Cleaner. Quieter. Smarter. Marie FROMENT
+Authorization for reprint of FAST Magazine articles should be requested
+from the editor at the FAST Magazine e-mail address given below
+Repair Design Approval
+Customer Services Communications
+Tel: +33 (0)5 61 93 43 88 Structure damage assessment
+Fax: +33 (0)5 61 93 47 73
+using Repair Manager
+e-mail: fast.magazine@airbus.com
+Printer: Amadio Alain BALEIX
+Colin SMART
+FAST Magazine may be read on Internet
+http://www.airbus.com/en/services/publications/
+under ‘Quick references’ Head-Up Display system
+ISSN 1293-5476
+Enhanced operations’ situational awareness
+© AIRBUS S.A.S. 2010. AN EADS COMPANY Eric ALBERT
+All rights reserved. Proprietary document
+By taking delivery of this Magazine (hereafter “Magazine”), you accept on behalf of SPICE
+your company to comply with the following. No other property rights are granted by the
+delivery of this Magazine than the right to read it, for the sole purpose of information. The future galleys
+This Magazine, its content, illustrations and photos shall not be modified nor
+Daniel PERCY
+reproduced without prior written consent of Airbus S.A.S. This Magazine and the
+materials it contains shall not, in whole or in part, be sold, rented, or licensed to any
+third party subject to payment or not. This Magazine may contain market-sensitive or
+other information that is correct at the time of going to press. This information involves Galleys
+a number of factors which could change over time, affecting the true public
+Improving over 40 years’ old galley design
+representation. Airbus assumes no obligation to update any information contained in
+this document or with respect to the information described herein. The statements
+made herein do not constitute an offer or form part of any contract. They are based on
+Airbus information and are expressed in good faith but no warranty or representation Customer Services Worldwide
+is given as to their accuracy. When additional information is required, Airbus S.A.S can Around the clock... Around the world
+be contacted to provide further details. Airbus S.A.S shall assume no liability for any
+damage in connection with the use of this Magazine and the materials it contains, even
+if Airbus S.A.S has been advised of the likelihood of such damages. This licence is
+governed by French law and exclusive jurisdiction is given to the courts and tribunals of
+Toulouse (France) without prejudice to the right of Airbus to bring proceedings for
+infringement of copyright or any other intellectual property right in any other court of
+competent jurisdiction.
+Airbus, its logo, A300, A310, A318, A319, A320, A321, A330,
+A340, A350, A380 and A400M are registered trademarks.
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:03 Page 1
+2
+8
+14
+24
+31
+36
+37
+This issue of FAST Magazine has been printed
+on paper produced without using chlorine, to reduce
+Photo copyright Airbus
+Photo credits: waste and help conserve natural resources.
+Airbus Photographic Library, exm company, Airbus France Every little helps!
+1
+ALTERNATIVE FUELS - A FLIGHT PATH TOWARDS SUSTAINABLE AVIATION
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:03 Page 2
+Alternative fuels
+A flight path
+towards sustainable aviation
+Global economics’ development is dependent whole, has voluntarily committed to tough targets
+upon efficient and worldwide transportation including ‘Carbon Neutral Growth’ by 2020 and a
+means, to enable the distribution of goods, ser- reduction of CO emissions by 50% in 2050,
+2
+vices and business interaction through people. compared to 2005.
+Aviation is the optimized solution for worldwide To improve its environmental footprint, Airbus is
+cooperation. working innovatively in key areas such as product
+Airbus is an eco-efficient organisation and wishes technology improvements, Air Traffic Manage -
+aviation to flourish whilst reducing its impact on ment (ATM) and developing solutions for low car-
+the environment. Today, aviation is recognized as bon lifecycle energy sources through alternative
+a key industry for global economic development fuels for aviation.
+and currently contributes to 8% of the global To achieve this, Airbus is actively investigating
+Gross Domestic Product (GDP). Conversely, avi- alternative energy sources for aviation and launched
+ation only contributes to 2% of man-made CO its ‘Alternative Fuels Roadmap’ early 2008, propos-
+2
+emissions. Over the past 40 years, the industry ing Research and Technology (R&T) activities,
+has improved its fuel efficiency and reduced its flight demonstrations , alternative fuels’ approvals
+related CO emissions by 70%. The industry, as a and targets for bio-fuel commercialisation.
+2
+Paul NASH Ross WALKER Nicolas MOUNEY
+Head of New Energies Engineering Programme Alternative Fuels and
+Airbus Environmental Affairs Manager Alternative Fuels Acoustics Senior Engineer
+Airbus Engineering CoC Power Plant
+Airbus Engineering
+2
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:03 Page 3
+ALTERNATIVE FUELS - A FLIGHT PATH TOWARDS SUSTAINABLE AVIATION
+What are THE ‘WHY’
+alternative fuels?
+Considering the likely depletion
+of petroleum fossil fuels, along
+THE ALTERNATIVE FUEL SOURCES with the believed impact of CO
+2
+on the climate, Airbus is com -
+There are at least three types of mitted to improving its fuel burn /
+‘drop-in’ alternative fuels that meet CO emissions’ perfor mance.
+2
+the performance of non-renewable Aviation currently repre sents ap -
+(fossil) jet fuels - giving a slightly proximately 12% of the world
+higher energy content (reducing transport fuel consumption (or 7 to
+fuel burn), flash point (temperature 8% of the global petroleum
+at which fuel vapours will ignite - consumption). In addition to this,
+critical for safety during ground jet fuel price volatility remains a
+handling/refuelling) and a lower major cause of concern for the
+freezing point (potentially increa - airlines, as fuel typically accounts
+sing the effective operational enve - for approximately 40% of their
+lope of the aircraft). Bio-fuels are a operating costs (in 2008).
+range of fuels which are derived
+from renewable biomass. The term THE ‘NEED’
+covers solid bio mass, liquid fuels and
+bio-gases. The bio-fuels and some Technically, conventional jet fuel
+fossil fuels make synthetic fuels: or kerosene (also known as JET
+• The Fischer-Tropsch (FT) A1), has specific characteristics
+i n f o r m a t i o n
+process gives a synthetic fuel, that are necessary and remarkably
+made from natural gas (Gas To suitable for flight conditions. It has ‘Drop-in’ fuels
+Liquid - GTL), coal (Coal To a good energy content, a low free -
+Fuels that can be mixed with
+Liquid - CTL) and biomass zing point (below minus 40°C) and
+existing jet fuels without requiring
+(Biomass To Liquid - BTL) such it is stable and reliable. Alternative
+any change to the supply
+as farm waste or woodchip/ fuels for aviation must meet these
+infrastructure, airframe or engines
+forestry waste. (GTL, CTL and characteristics. There fore, Airbus
+and provide the same or better
+BTL are collectively known as in the short-to-medium term, is
+performance.
+XTL). This process was concentrating its efforts on those
+developed in the 1920s. alternative fuels which are termed
+It is a set of chemical reactions ‘drop-in’. These types of fuels will
+that convert a mixture of carbon enable the existing fleets to benefit
+monoxide and hydrogen into by reducing their CO emissions,
+2
+liquid hydrocarbons. as well as eliminating the environ -
+• Hydrogenated Biomass Oils mental impacts that would be
+(HBO) fuels are made using the incurred by changes to the supply
+animal fats, oils from plants like and airport infrastructures.
+4 key strategic approaches
+camelina, jatropha and salicornia,
+to reduce CO2emissions
+or oils from algae.This process
+de-oxygenatesthe biomass oils
+or fats to produce paraffins
+which can then be reformed CO2
+if nothing
+by a hydro-treatment to make CO2 1
+2
+.
+.
+T
+a
+e
+n
+c
+d
+h
+3
+n
+.
+o
+A
+lo
+d
+g
+d
+ie
+it
+s
+io
+,
+n
+o
+a
+p
+l
+e
+t
+r
+e
+a
+c
+t
+h
+io
+n
+n
+o
+s
+lo
+,
+g
+A
+y
+T M
+and bio-fuels is done
+aviation kerosene. 4. Economic measures
+• Hydrotreated Cellulosic Fibre
+(HCF) fuels are made using
+cellulosic biomass such as Carbon
+neutral
+forestry and farm waste or growth
+2020
+switch grass, to name a few. 100
+This process converts the
+cellulosic material into a Minus
+solution which is then fermented 50% CO2
+by 2050
+into alcohols and then reformed
+by a hydro-treatment to make
+2005 2010 2020 2030 2040 2050
+aviation kerosene.
+3
+ALTERNATIVE FUELS - A FLIGHT PATH TOWARDS SUSTAINABLE AVIATION
+64
+TSAF
+POTENTIAL SUSTAINABLE
+FEEDSTOCKS
+Cellulosic fibres
+such as
+forestry waste,
+wheat stubble
+or switch
+grass.
+Oil from jatropha seeds
+is used to make
+bio-fuels in tropical
+regions such as South
+America, where it grows
+naturally Because salicornia can be grown using
+and in plantations. saltwater, it can be cultivated
+Jatropha is currently on coastal lands unsuitable
+being promoted for conventional crops. Its seeds
+for bio-fuels across contain high levels of unsaturated oil,
+developing countries. making it ideal for bio-fuel.
+4
+-
+MPPBA
+fo ysetruoC
+arielisarB
+oãçaicossA
+serotudorP
+od
+osnaM
+oãhniP
+ed
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:03 Page 4
+PROCESS FOR TRANSFORMATION
+Process
+for transformation
+Other alternative fuel possibilities
+have been analysed but are cur -
+rently not seen to be a solution for
+XTLs: Coal, HCFs: the aviation, including alcohols
+natural gas, Natural
+which contain 35% lower energy
+any biomass cellulosic
+(CTL, GTL, BTL) fibres content and Fatty Acid Methyl
+Esters (FAME) with 10% lower
+HBOs:
+Crude petroleum Syn-gas (CO/H2) Natural - oils, Liquified to energy content and a freezing point
+production fats, greases sugars at -5°C (see following article on
+‘FAME’). Airbus has extensively
+Crude Fischer-tropsch De-oxygenation Fermentation
+vacuum column synthesis studied the use of hydrogen and
+does not see this as a solution
+Vacuumgas oil Paraffins Alcohols
+Selective Selective Selective Selective in the short-to-medium term,
+Hydro-treatment Hydro-treatment Hydro-treatment Hydro-treatment without major changes in the
+processes processes processes processes
+aircraft design, the support of
+infrastructures and tech niques to
+industrialize its production.
+Light fuels
+Straight run
+Kerosene/Jet A1, Synthetic Paraffinic
+Product separation
+diesel, naphtha, Kerosene (SPK) /Jet A1
+vacuum bottoms
+Diesel
+Alternative fuels options
+for commercial aviation
+Algae are simple
+water-based
+organisms. Algae
+capture carbon dioxide and use
+sunlight to convert
+it into oxygen and Camelina is a flowering plant
+biomass which can native from Northern Europe
+then be converted and Central Asia, traditionally
+into oil for use grown for vegetable oil. It
+in bio-fuels. needs little water or fertilizers,
+so it can be grown on
+marginal agricultural lands
+without competing with food
+crops. It is also used as a
+rotation crop for wheat to
+increase the health of the soil.
+64
+TSAF
+ALTERNATIVE FUELS - A FLIGHT PATH TOWARDS SUSTAINABLE AVIATION
+5
+)GATA(
+puorG
+noitcA
+tropsnarT
+riA
+:ecruoS
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:03 Page 5
+Benefits
+Feedstock growth
+Plant matter absorbs CO 2 as it C02
+grows. When it is converted into
+fuel and burnt, CO is released.
+2
+The net result is that the CO
+2
+Flight
+absorbed and released can partially
+cancel each-other out, to achieve
+C02
+near-neutral emissions.
+Transport
+Challenges
+C02 C02
+Processing Distribution
+SUSTAINABILITY at airports
+C02
+The biggest challenge is producing Refining
+sustainable feedstock in sufficient
+quantity, in order to provide the
+large quantities of fuel required.
+Airbus believes that solutions for including the most interested
+Lifecycle emissions
+the alternative fuel production - the airlines).This is to say that
+from bio-fuels
+must reflect the local flora and a cross industry approach is
+habitat, ensuring that the local essential. All these parties have to
+solutions reflect each region’s work hand in hand to reach this
+natural resources and provide local common goal.
+employment.
+PRICE
+Airbus is focusing its research
+from sustainable plants or biomass Last but not least, price plays a
+feedstocks that do not compete pivotal role for the alternative fuels’
+with land, food, nor water re- commercial success. Alternative
+sources. To ensure this, Airbus is fuels must be commercially viable
+working with the Roundtable on and affordable, not only during the
+Sustainable Bio-fuels (RSB) to production phase but also for the
+ensure it proposes sustainable end user. For example, in 2008,
+solutions. approximately 40% of the airline
+RSB website: costs were linked to fuel purchases.
+http://cgse.epfl.ch/page65660.html Alternative fuels must therefore be
+competitive with fossil based fuels.
+RESEARCH AND TECHNOLOGY (R&T)
+Airbus
+The development of bio-fuels
+achievements
+requires an analysis and imple -
+mentation that will depend on the
+governments' support through On February 1st, 2008, Airbus com -
+policy (prioritisation of energy pleted the world’s first ever flight
+types) and incentives. Airbus is by a commercial jet (A380) using
+working with cross industry groups synthetic liquid jet-fuel made from
+to speed-up the commercialisation natural gas (GTL), similar to con -
+of the bio-fuel production, based ventional jet fuel in terms of CO
+2
+on R&T. emissions but has virtually no
+sulphur and is better for local air
+INVESTMENT quality. Thanks to these and later
+tests, 50% blends of GTL and BTL
+Investors finance the commer cia - were officially authorized for pas -
+lisation of bio-fuels across the va - senger flights. Qatar Airways flew
+lue chain (farmers, refiners, airports, the world’s first commercial ser -
+transportation and distribu tion, vice with GTL in October 2009 on
+an A340-600.
+ALTERNATIVE FUELS - A FLIGHT PATH TOWARDS SUSTAINABLE AVIATION
+Qatar Airways Chief Executive The role of Airbus
+Officer, Akbar AL BAKER, who
+was on-board the flight, said: Airbus is playing a catalyst role in
+“Qatar Airways is proud to be as - the alternative fuels’ development
+sociated with this consortium and by continuously working with in -
+to become the world’s first airline dustrial partners to fully explore
+to use this new fuel techno logy on the potential value to supply the
+a commercial passenger flight.” aviation industry.
+The second commercial flight Airbus is:
+using GTL fuel was performed in • Working with airlines to
+April 2010 by United Airlines on implement projects and convince
+an A319. them of the benefits of such a
+GTL fuels are a good step towards development,
+bio-fuels and these demonstrations • Providing decision-makers with
+triggered lots of interest from relevant bio-fuel data,
+airlines for bio-fuel use in the near • Developing research
+future. Airbus focuses on its imple - programmes (for example algae,
+mentation. bacteria, etc.) in collaboration
+To carry out engineering, eco - with universities,
+nomic analysis and to move into • Participating in sustainability
+the development of sustainable pilot phases and analysis
+bio-fuels, Qatar Airways, in colla - (involvement in the Roundtable
+boration with Airbus, launched in Sustainability on Bio-fuels),
+January 2010 the bio-fuel value • Supporting the approval process
+chain to commercialize bio-fuels. for new bio-fuels within the fuel
+A detailed implemen tation plan for specification approval bodies
+the bio-fuel production, an invest - ASTM / DEF-STAN (ASTM
+ment strategy plan and market International Worldwide
+analysis are being deve loped in this Standards Organisation/UK
+project. Defense Standards body).
+In the view of the continuous col -
+laboration with airlines, Airbus and Today, Airbus is supporting many
+the Brazilian airline ‘TAM’ an - national, European and interna tio -
+nounced in April 2010, a bio-fuel nal R&T initiatives including (but
+flight with an A320 with CFMI not limited to):
+engines, using 50% blend of • CALIN - Research work which
+Brazilian jatropha. A letter of in tent aims to identify and evaluate a
+was also signed to set up the bio- number of alternatives to
+fuel value chain in Brazil to com - kerosene for the short, medium,
+mercialise the bio-fuel produc tion. and long term.
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:03 Page 6
+Qatar Airways first flight
+with GTL / Pre-flight London
+Gatwick reception
+From left to right:
+-Gary WOODWARD,
+Shell General Manager Operations
+Technical & Supply Aviation
+-Dr. Eulian ROBERTS,
+Qatar Science & Technology Park
+Managing Director
+-Akbar AL BAKER,
+Qatar Airways Chief Executive
+Officer
+-Rainer OHLER,
+Airbus Head of Public Affairs
+and Communications
+-Phil HARRIS,
+Rolls Royce Civil Aerospace Senior
+Vice President Customer Business
+-Ali AL SHARSHANI,
+Shell Associate Researcher.
+United Airlines first flight
+with GTL on an A319
+Joe BURNS,
+United Airlines Flight Captain
+and Mark BOURDEAU,
+United Airlines Fuel Technical
+Services.
+6
+7
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:03 Page 7
+ALTERNATIVE FUELS - A FLIGHT PATH TOWARDS SUSTAINABLE AVIATION
+• ALFA-BIRD - Overview of
+w e b s i t e
+potential alternative fuels,
+assessment for suitability for
+“Find out more about Aeronautics Research in Europe
+aircraft, technical analysis and
+environment http://www.acare4europe.org
+future alternative fuel strategies.
+and alternative fuels”
+• CAER (in preparation) - Clean Sky, a ‘Joint Technology Initiative’
+Establish a French aeronautic Airbus and eco-efficiency http://www.cleansky.eu
+alternative fuel programme. http://www.airbus.com/en/corporate/ International Civil Aviation Organisation
+• SWAFEA - Forum for the ethics/environment http://www.icao.int/env
+community (industry, policy,
+Air Transport Action Group IPCC Report on Aviation and the
+science and research) to meet
+http://www.atag.org Global Atmosphere
+and discuss state-of-the-art in
+Publication http://www.ipcc.ch
+alternative fuels and energy for
+‘Beginners guide to aviation to bio-fuels’
+aviation. Sustainable Aviation Fuel User Group
+http://www.enviro.aero
+http://www.safug.org/
+(ATAG sponsored website)
+Optimum land for growing
+sustainable aviation bio-fuels
+Circles indicate potential
+locations for bio-fuel
+feedstock growth
+(indicative estimate)
+CONTACT DETAILS
+Tel: +33 (0)5 61 93 29 31
+Algae
+Paul NASH Fax: +33 (0)5 61 93 41 25
+Jatropha Head of New Energies ross.walker@airbus.com
+Airbus Environmental Affairs
+Camelina Nicolas MOUNEY
+Tel: +33 (0)5 62 11 80 26
+Alternative Fuels and
+Source: Air Transport Action Group Fax: +33 (0)5 61 93 13 09
+Acoustics Senior Engineer
+paul.nash@airbus.com
+CoC Power Plant
+Ross WALKER Airbus Engineering
+Engineering Programme Tel: +33 (0)5 61 93 48 37
+Manager Alternative Fuels Fax: +33 (0)5 61 93 49 08
+Conclusion Airbus Engineering nicolas.mouney@airbus.com
+Aviation has a limited spectrum flights will be powered by sustainable
+of solutions compared to the other bio-fuels by 2030. The Airbus roadmap
+transport industries. Research and test has set out a number of steps towards
+flights have shown that synthetic bio-fuels achieving this goal, and already
+can replace fossil fuels on today’s aircraft, succeeded in demonstrating that use of
+without any modification. The biggest Biomass To Liquid (BTL) is viable, subject
+challenge is producing sustainable to available and sustainable feedstocks.
+feedstock in sufficient quantity and at a Airbus is acting as a catalyst to bring
+commercially viable cost, in order to together the value chain and to attempt
+provide a feasible fuel for aviation. to speed-up the commercialisation and
+Even though the industry has come a long visibility of aviation bio-fuels, as a solution
+way in understanding alternative fuels, towards “Greener, Cleaner, Quieter and
+there is some way to go before these Smarter” skies.
+different fuels become viable and widely Cross industry collaboration, sustainability
+available. Airbus foresees that 30% of all and price are key!
+7
+JET FUEL CONTAMINATION WITH FAME - WORLD JET FUEL SUPPLY
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:03 Page 8
+Jet fuel contamination
+with FAME
+(Fatty Acid Methyl Ester)
+World jet fuel supply
+This article explains the impact of FAME pointed at is the use of fossil fuel-based energy
+contamination in jet fuel, the on-going studies for sources. This, added to the global increase of fuel
+aircraft clearance with higher levels of FAME prices and the threat of oil depletion has led a drive
+concentration and the operational recommen - to develop and use alternate fuels in the transport
+dations. FAME fuels are manufactured from bio - industry. Worldwide, governments are regulating
+mass and have properties that are similar to the introduction of bio-fuel compo nents in ground
+petroleum diesel. This fuel makes a good fuel for transportation fuels. For example, Europe has
+road transportation means but is not appropriate mandated that automotive diesel must include a
+for air transport, due to lower energy content and 5% bio-fuel component (Directive 2003/30/EC).
+higher freezing point. Similarly, in the U.S.A., bio-diesel use has been
+For a few years, the awareness of the human increasing (following Energy Policy Act of 2005).
+impact on climate change and ways to reduce it, The bio-fuel component usually added to diesel
+have been identified. One of the key areas being fuels are Fatty Acid Methyl Esters (FAME).
+Marie FROMENT
+Fuel Systems Engineer
+Airbus Customer Services Engineering
+8
+JET FUEL CONTAMINATION WITH FAME - WORLD JET FUEL SUPPLY
+64
+TSAF
+n o t e s
+In organic chemistry,
+transesterificationis the process
+of exchanging the organic group
+R" of an ester with the organic
+group R' of an alcohol.
+These reactions are often
+catalysed by the addition
+of an acid or base catalyst.
+O R
+H C—O O H C—O—H O—CH 2 + 2 + 3
+HC—O R 3 HO—CH HC—O—H 3 R
+3
+H C—O H C—O—H O
+2 2
+R
+O
+Rapeseed Sunflower
+9
+—
+—
+—
+—
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:03 Page 9
+What are This reaction for bio-diesel com -
+ponent production is shown in
+the bio-fuel
+figure 1. In this reaction, one mo -
+components? lecule of oil or fat reacts with three
+molecules of a low carbon number
+alcohol in the presence of a base
+The term ‘bio-fuel’ (read also the catalyst. Three molecules of fatty
+previous FAST article - ‘Alter na - acid esters and one molecule of
+tive fuels’) is used for any fuel glyce rine are produced. The low
+derived from a biomass source carbon number alcohol is usually
+through a conversion process methanol, but can also be ethanol
+which can be biological, thermal, or higher alcohols. The ‘R’ repre -
+chemical, or a combination of sents the fatty acid carbon chains
+these, to form one or more pro - associated with the natural oil or
+ducts. The most common bio-fuel fat.
+components currently avai lable in
+the transport industry are: Bio- Manufacturers have the methanol
+ethanol, bio-diesel from tran- react with an oil (triglyceride) such
+sesterification of vegetable oils and as vegetable oil (typically derived
+fats, and bio-gas from ana erobic from sunflower or rapeseed oil),
+digestion. animal fat or used cooking oil to
+produce FAME and glycerol. The
+The bio-fuel component, Fatty final properties are similar to
+Acid Methyl Ester (FAME), is petroleum diesel, which makes
+ma nufactured using a chemical them good alternate fuels for road
+pro cess called transesterification. transport.
+Example of the FAME manufacturing
+process by transesterification
+Figure 1
+H=Hydrogen
+Catalyse O=Oxygen
+HO-CH=Methanol
+3
+C=Carbon chains
+R=Fatty Acid Carbon chains
+JET FUEL CONTAMINATION WITH FAME - WORLD JET FUEL SUPPLY
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:03 Page 10
+FAME Jet fuel
+Only
+Only FAME jet fuel
+Potential FAME
+and jet fuel mixed up
+The blends (mixture) are com- and the possibility of airport sup -
+Multi-product transportation
+monly referred to as ‘Bx’ where ‘x’ plies becoming contaminated,
+Figure 2 designates the volume percen tage both, EASA (SIB N°2009-1) and
+of FAME. As an example, B5 FAA (SAIB NE-09-25) have
+contains 5% FAME and B10 issued information bulletins on
+contains 10% FAME. this issue. Operators have been
+informed about the potential issue
+Worldwide, multi-product supply of jet aviation fuel being conta -
+systems such as pipelines, trucks, minated by FAME and that limited
+trains and ships often transport FAME contamination of airport
+different grades of fuels and fluids, fuel supplies has occurred.
+using protective measures that are
+designed to minimize cross-conta - FAME (from bio-blended-diesels)
+mination. However, as FAME has in jet fuel can have the following
+the property to ‘stick’ to surfaces, issues which are of concern for
+small traces of FAME can be aircraft operations:
+found in jet fuel; this conta- • Corrosion - formic and acetic
+mination having been picked up by acids, glycerine, water and
+the jet fuel when following a batch methanol can be present,
+of fuel containing FAME in the • Cracking or softening of
+same transport system. There is Elastomer seals,
+also the possibility of carry-over • Presence of alkaline earth metals
+of bio-blended-diesel (containing with an effect on engine
+FAME) at the product interfaces, components,
+which occur in multi-product • High freezing point
+pipelines (refer to figure 2) which (freezing at -5C),
+can then lead to jet fuel (JET A1) • Thermal stability -
+contaminated with FAME. polymerisation can occur,
+leading to a filter blockage.
+The most common bio-fuel types,
+currently in use in road transport, are To minimize the potential impact
+not suitable for use as aviation fuels of FAME contamination on jet
+because they do not meet jet fuel fuel supply, the global jet fuel
+specification requirements (e.g. speci fication Defstan 91-91 was
+freezing point, thermal sta bi lity, etc.) amen ded to permit up to 5mg/kg
+(5ppm - parts per million) of
+The current FAME con tent, being the lowest
+detection limit of current mea-
+situation
+surement me thods (refer to the
+for air transport ‘FAME current existing measu -
+rement methods’ paragraph). For
+example, one litre of B5 in 10,000
+In response to concerns about litres of jet fuel renders the jet fuel
+FAME contamination of jet fuel ‘unfit for use’.
+10
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:03 Page 11
+JET FUEL CONTAMINATION WITH FAME - WORLD JET FUEL SUPPLY
+As the use of bio-fuel components the automatic methods. Similar
+increases, the current level of results have been noted regarding
+5ppm will be difficult to manage. the effect on the water solubility
+Consequently, if contaminated fuel properties. n o t e s
+(above 5ppm) is detected on an air -
+craft, then at the present time The testing showed no incom- Due to effects on exposure
+operators have to defuel, then re - patibility problems between FAME of the engines and APUs to high
+fuel the aircraft, to ensure no and approved biocides or additives FAME concentration, further
+FAME contamination of aircraft (such as anti-icing). recommendations, as provided
+systems. As a result of this risk, The influence of FAME on micro - by the appropriate engine and APU
+engine, APU (Auxiliary Power biological contamination develop - manufacturer, will also need
+Unit) and aircraft manufacturers, ment (refer to FAST 38 ) has also to be applied to allow the aircraft
+have agreed that up to 30ppm, been studied. The impact linked to operation.
+FAME conta mination may be per - concentration (increased up to
+mitted, subject to stringent limi - 400ppm) have been tested and
+tations. There is a limitation al - preliminary conclusions show it
+lowing two subsequent fuel uplifts does not have a significant impact
+reaching up to 30ppm (operation to any additional micro biological
+with two refuels allowed at development.
+airframe level). After these two The programme includes the
+fuel uplifts, then the fuel on-board FAME material compatibility with
+will have to be below 5ppm of an exhaustive list of materials. The
+FAME. results of this testing will deter -
+mine the clearance of 100ppm due
+Current testing to the impact of FAME on aircraft
+systems. If any results are not
+with FAME in
+suitable, maintenance plans would
+aviation jet fuels need to be introduced, or other
+contingency measures taken, on a
+material by material basis.
+A specific programme has been Testing results should be available
+put in place in order to provide by the end of 2010.
+emergency clearance of 100ppm
+contamination of FAME in jet fuel.
+This programme is led by the
+Energy Institute and is sponsored
+n o t e s
+by airframe, engine manufacturers,
+oil companies, pipeline companies,
+ASTM International is the industry
+government ministries, bio-fuel
+organisation that defines the
+producers and military agencies.
+consensus on fuels. ASTM
+The aim is to perform and analyze
+standards are the minimum
+all the testing requirements in or -
+accepted values for properties
+der to confirm the compatibility in
+of the fuel.
+terms of the specification of jet
+fuel with FAME contamination up
+to 100ppm.
+For example, an engine endurance
+test has started at the beginning of
+September 2009 and has com ple -
+ted several hundred cycles. It is ex-
+pec ted that the testing will be
+analysed by the middle of 2010.
+No significant differences at 100
+and 400ppm levels have been no -
+ticed in the fuel freezing point with
+either the manual freezing point
+method (ASTM D2386) or any of
+11
+JET FUEL CONTAMINATION WITH FAME - WORLD JET FUEL SUPPLY
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:03 Page 12
+AIRBUS RECOMMENDATIONS • Samples of fuel to be taken in
+IN CASE OF JET FUEL the aircraft tanks (sample
+CONTAMINATION WHEN FAME volume in the order of 5 litres),
+IS DETECTED • Confirmation of gauging system
+operation (due to potential
+In the event of a fuel uplift of jet deposits on the probes)
+fuel, where FAME contamination by veri fying the max wet
+with a concentration higher than capacitance values (confirmation
+5ppm is detected (refer to of correct gauging),
+paragraph ‘Current testing with • Lack of external fuel leaks.
+FAME in aviation jet fuels’), then After the two refuels, if the aircraft
+it is advi sed that Airbus be fuel is contaminated with FAME
+contacted for further dispatch. above 5ppm, the aircraft would
+then have to be defueled down to
+The dispatch limitations detailed ‘unpumpable’ before refuelling.
+below and the test requirements are
+still being refined and reviewed as If uplifted fuel still contains more
+further data becomes available than 30ppm FAME, then no dis -
+from industry testing. patch will be accepted and the
+tanks must be flushed by defuel/
+Operation with aircraft fuel conta - refuel operations. This may involve
+mination levels up to 30ppm is al - more than one defuel/refuel cycle,
+lowed at airframe level for up to before the dispatch will be allowed
+two refuels but would require: (refer to figure 3).
+Figure 3
+Test of aircraft fuel due to suspected contamination with FAME:
+- A fuel sample
+- Test method (Shell Research Ltd.)
+START
+2 dimensional gas chromatography methods: RTS report GS.06.50289 or the BP GC-MS method
+Between Above
+No further 0 and 5 ppm Level of FAME 30 ppm No dispatch allowed:
+action contamination 1) Follow propulsion systems, APU manufacturers
+of aircraft fuel recommendations and contact them for further advice
+2) Follow below recommendations and contact Airbus
+Between for further advice.
+5 and 30 ppm - Defuel to unpumpable all tanks
+- Refuel with clean fuel to maximum capacity (3)
+- Defuel (3)
+- Refuel with clean fuel (3)
+- Check gauging system operation (1)
+For first refuel after notification (or aircraft already refueled) For third refuel: - Take fuel sample from near engine inlet
+the aircraft can be dispatched if the following actions No dispatch (engine fuel filter) (2)
+are completed: allowed
+- Record FAME level in aircraft technical log
+- Take samples from the tank drains as per AMM - 5 litres minimum (2)
+- Record FAME contaminated fuel quantity uplifted
+- Check gauging system operation (1)
+Report to Airbus
+(1) Check on probes’ capacitance reading - check if any probes are
+exceeding the maximum wet capacitance values as per Airbus documentation.
+For second refuel the aircraft can be dispatched if: (2) Sample size may also be driven by engine requirements. Samples need
+- Confirm aircraft fuel with FAME concentration less than 30 ppm
+to be taken from both sides of the aircraft. Samples are to be taken in a new
+- Record FAME level in aircraft tech log
+- Take sample from tank drains - 5 litres minimum (2) clear storage jar. Sample equipment should be thoroughly cleaned before
+- Record FAME contaminated fuel quantity uplifted samples are taken from any tank to avoid cross contamination. If a sample
+- Perform external check for leakage from drain masts and structure contains evidence of tank coatings, contact Airbus since tank access
+- Check gauging system operation (1)
+may be required at some point to check if damage has occurred
+Report to Airbus to coatings (Ref AMM 12-32-28).
+(3) Will ensure most of tank surface is washed with clean fuel.
+12
+13
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:04 Page 13
+JET FUEL CONTAMINATION WITH FAME - WORLD JET FUEL SUPPLY
+FAME current Energy Institute, however, it is a
+difficult and expensive process and
+existing
+there are only a few laboratories in
+measurement the world which are able to run this i n f o r m a t i o n
+analysis.
+methods
+Laboratories carrying
+One part of the programme, being out the GC-MS method
+led by the Energy Institute, is to (IP PM-DY/09 test)
+One of the current difficulties en -
+develop a rapid detection method for FAME down to
+countered, linked to the 5ppm
+that can be used in the field. One 5ppm level
+limitation, is the ability to test for
+method, under study, is based upon • Intertek - Sunbury (UK)
+the presence of FAME at this level.
+the Fourier Transform Infra-Red • Intertek - Thurrock (UK)
+Since 5ppm is barely detectable,
+(FTIR) technology and might be - • Intertek - Antwerp (Belgium)
+only very sophisticated laboratory
+come an adapted method which • Intertek - Le Havre (France)
+instruments are able to detect such
+could be adopted if a higher FAME • Intertek - Sydney (Australia)
+levels.
+limit is introduced. • Intertek - Singapore (Singapore)
+A specially configured gas chro - • SGS - Rotterdam (Netherlands)
+matograph (GC-MS method) is Globally, there are four means of • SGS - Le Havre (France)
+currently used as one of the indus - testing under development (GC- • SGS - Lavera (France)
+try accepted methods for detection. MS, SPE-FTIR, SPE-NMR and • Petrolab - Speyer (Germany)
+The development of this test HPLC) to meet the objective to have
+method was coordinated by the rapid and portable means of testing.
+i n f o r m a t i o n
+Test methods under spectroscopy method - precision
+development down to 20 mg/kg (20ppm)
+• GC-MS method IP PM-DY/09: • HPLC-ELSD method IP PM-DV/09:
+selective ion monitoring/scan HPLC Evaporative light scattering
+detection method - precision at detector method
+5 mg/kg (5ppm) • SPE-GC method IP PM-EC/09:
+• Flow analysis-FTIR rapid screening Solid phase extraction and gas
+method IP PM-DT/09: Flow analysis chromatography method CONTACT DETAILS
+by Fourier Transform Infra-Red
+Marie FROMENT
+Fuel Systems Engineer
+Airbus Customer Services
+Engineering
+Tel: +33 (0)5 61 93 61 98
+Fax: +33 (0)5 61 93 36 14
+marie.froment@airbus.com
+Conclusion
+Due to the increase in the potential testing to determine the levels of FAME
+of FAME contamination occurring in jet contamination and operational
+fuel, above the currently allowable limit recommendations in the event of uplift
+of 5ppm, Airbus is actively supporting of jet fuel contaminated with FAME.
+the industry work on several aspects Updates and findings of the research
+to minimize the potential impact of higher are documented (Airbus SIL 28-091)
+levels of FAME contamination. and it is expected that additional
+Areas of research include the increase recommendations will be available
+of the clearance levels up to 100ppm, by the beginning of 2011.
+the development of a quick means of field
+13
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:04 Page 14
+REPAIR DESIGN APPROVAL -STRUCTURE DAMAGE ASSESSMENT USING REPAIR MANAGER
+Repair Design
+Approval
+Structure damage assessment
+using Repair Manager
+Damage to aircraft structure causes severe Airbus, Repair Manager (Part 2). This software
+operational interruptions and the restoration to an provides airlines a simple and efficient method to
+airworthy condition needs to be shown before the view, locate concessions and in-service damage
+next flight. It can also be difficult to assess dama - and repairs, on a 3D (three-dimensional) sim pli -
+ge, find and collect relevant information from a fied model of the aircraft, enabling them to record
+wide variety of data sources, while complying and safely store the details. Repair Mana ger
+with the regulatory record keeping requirements. allows the operator to build a comprehensive
+This article will explain the regulatory re- database of all of the structural damages on an
+quirements to report such damages (Part 1) and aircraft and maintain it together with the as -
+will guide you through an overview of a damage sociated approval documentation.
+case using the new on-line service developed by
+Alain BALEIX Colin SMART
+Head of Repair Approval Structure Engineer /
+Airbus Customer Services SRM development
+Airbus Customer Services
+14
+64
+TSAF
+REPAIR DESIGN APPROVAL -STRUCTURE DAMAGE ASSESSMENT USING REPAIR MANAGER
+Part 1: The first responsible of the
+air worthiness of an aircraft is its
+Repair Design
+ow ner. Airbus is involved as being
+Approval the designer and manufacturer in
+this chain of responsibility.
+Airbus is a Type Certificate (TC)
+BACKGROUND
+holder to design large transport
+air craft and relative activities with
+Since the early 1990s, Airbus
+a Design Organisation Approval
+sup ports the approval of repairs’
+(DOA).Airbus aircraft are certi fied
+ac tions or damage allowance with
+in compliance to the certi fication
+a ‘Repair design Approval Sheet’
+basis issued from the air worthiness
+(RAS) form (See Structure Repair
+codes for large aircraft (JAR 25 /
+Manual chapter 51-11-14).
+FAR 25).
+From 1996, Airbus has been
+granted by the French DGAC
+(Direction Générale de l’Aviation
+Civile) with the privilege to ap prove
+minor repair designs within its
+Design Organisation Approval
+(DOA). This privilege was ex tended
+to the major repair design in 2003.
+In 2004, the DOA was transferred
+from the DGAC to the EASA
+(European Aviation Safety
+Agency), so the approvals are now
+issued under an EASA DOA. This
+article will only describe the Repair
+Design Appro val process within the
+EASA regulatory fra mework.
+The equivalence of the regulatory
+frame can be found in each country
+having signed the Convention on
+International Civil Aviation (also
+known as the Chicago Convention).
+THE AIRWORTHINESS
+OF AN AIRCRAFT
+The airworthiness aims to obtain
+an acceptable level of safety for ci -
+vil flights. An airworthy aircraft is:
+• Designed and built according to
+applicable requirements,
+• Operated within its intended
+environment and within its
+quantified and declared
+limitations,
+• Maintained in accordance with
+procedures acceptable to the
+responsible authority.
+15
+M 541 66 741
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:04 Page 15
+Design and production Maintenance
+25
+21
+Aircraft manufacturer Aircraft operator
+CS 25: Technical requirements for aircraft design
+Part 21: Designing and producing aircraft
+Part M: Managing the continuing airworthiness of aircraft
+Part 145: Maintaining aircraft
+Part 66: Licensing maintenance personnel certifying staff
+Part 147: Training maintenance personnel OPS
+JAR FCL: Licensing flight crews
+EV OPS: Operating aircraft
+FCL
+Licensing and operations
+REPAIR DESIGN APPROVAL -STRUCTURE DAMAGE ASSESSMENT USING REPAIR MANAGER
+64
+TSAF
+INSTRUCTIONS FOR CONTINUED
+AIRWORTHINESS (ICA)
+ICA result from the certification
+exercise, issued and linked to the
+Type Certificate (TC) and its
+mo difications.All are compulsory
+ac cording to the airworthiness
+codes; ones largely depend on the
+aircraft usage and may be
+customized when the Airworth -
+iness Limitation Section (ALS)
+has to be strictly observed.
+The structural issue illustrates the
+process (see figure 1).
+THE CONTINUED AIRWORTHINESS
+Ages of service may reveal
+un expected defects not contem -
+plated at the issuance of the TC,
+either by the airworthiness code or
+the desi gner. The regula tion
+prevents the decrease of the level
+of safety by ruling reports of
+unsafe condi tions:
+• The operator of the aircraft
+according to EU-OPS 1.420,
+• The responsible of the
+maintenance according to Part
+M.A.202,
+• The maintenance station
+according to Part 145.A.60,
+• The design or production
+organisation according to Part
+21A.3.
+Additional duties of Airbus, as a
+TC holder, are:
+• To investigate and to analyze
+failures, malfunctions and
+defects linked to its products.
+• When an Airworthiness
+Directive (AD) is issued against
+the unsafe condition:
+Airworthiness Directive - To propose the appropriate
+corrective action,
+- To make them available to all
+known operators’
+accomplishment instructions.
+ICA and ADs contribute to main tain
+a high level of safety as per fi gure 2.
+Age of the aircraft
+16
+ytefas
+fo
+leveL
+Initial
+release
+Maintenance
+52SC
+rep
+sa
+level
+ytefaS
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:04 Page 16
+Structural issue
+Figure 1
+With an optimized design of light structure,
+modern aircraft are susceptible
+to fatigue damage. Their structural strength
+is slowly entailed by potential cracks
+under cyclic loadings of the aircraft.
+It shall be maintained at an acceptable level
+through a monitoring.
+Regulations take into account this phenomena
+and rule it through CS25 and Part 21
+Compliance to CS25.571 by test and analysis
+determines these areas and their damage
+tolerance capability. The resulting monitoring
+is published as a maintenance task
+in accordance to CS25.1529 and CS25 appendix H,
+so in the Airworthiness Limitation Section (ALS)
+for the more critical areas
+Instructions for Continued Airworthiness (ICA)
+(Part 21.A61 or Part 21.A107 including ALS,
+attached to type design Part 21.A31)
+The maintenance programme is established
+and approved according to Part M.A.302, including ICA.
+The maintenance programme
+is performed to comply
+with Part M.A.201 a) 4).
+Safety level
+Figure 2
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:04 Page 17
+REPAIR DESIGN APPROVAL -STRUCTURE DAMAGE ASSESSMENT USING REPAIR MANAGER
+RESTORING THE CONTINUED Some repair data do not need this
+n o t e s
+AIRWORTHINESS WITH THE REPAIR specific approval such as:
+DESIGN • A replacement without a design
+activity, The operator needs to meet the
+A damaged aircraft shall be asses sed • Explicitly approved data, such as airworthiness requirements for
+also from an airworth iness the Structure Repair Manual ageing aircraft (FAA Part 26):
+standpoint before the return to (SRM), Service Bulletins or •To demonstrate damage
+service and to show evidence of an Production Concessions as part tolerance of repairs to Fatigue
+acceptable level of safety. of the Aircraft Individual Critical Structure (FCS),
+Certificate (AIC). •To include inspections
+This assessment requires the associated with these repairs
+or ganisations to inspect the A Repair design Approval Sheet in the Maintenance Programme,
+damaged aircraft, design and (RAS) is dedicated to structural
+approve the repair, embody the da mage, mainly ATA structure These requirements are being
+repair and ins pect the repair chap ters (52 to 57) and interface implemented by EASA through the
+according to the re pair approval. with systems like flight controls Part M (see Acceptable Means of
+of ATA 27. The Airbus process Compliance AMC20-20).
+Basically, the tasks of an organi sation for system damages is called a
+designing a repair are simu lar to a Technical Adaptation (TA).
+modification to a TC, such as to
+draw/design the repair, show A RAS cannot be used for a
+compliance to the require ments mo dification to TC. Airbus does
+and obtain, or to approve, the not update its documentation
+re pair design. (Illustrated Part Catalog - IPC,
+Air craft Maintenance Manual -
+SOME HIGHLIGHTS ON THE PART 21 AMM, Structure Repair Manual -
+SRM, etc.) for a repair.
+The scope of the Part 21 subpart M
+(21A.431) is the approval of the The classification of the repair
+repair. This means the elimination de sign (Part 21A.435) into minor
+of damage and/or restoration to an or major follow the same criteria
+airworthy condition of in-service than for a modification to TC (Part
+aircraft. In Airbus DOA, a RAS is 21A.91), having the same means
+the issuance of the Repair Design which are to report (see figure 3)
+Approval as per Part 21A.437, its the relevant information to the
+design certificate. au thorities.
+Questions for reporting
+Figure 3
+Does the repair design permanently affect:
+• The maintenance programme to ensure
+the continued airworthiness of the aircraft?
+• The airworthiness approved limitations in the
+Aircraft Flight Manual (AFM), Master Minimum
+Equipment List (MMEL), Weight & Balance Manual
+(WBM)?
+IF YES: MAJOR IF NO: MINOR
+Does the repair design:
+• Need extensive justification, testing or development
+of new methods, techniques or practices?
+• Require a re-evaluation of the original certification
+substantiation data?
+• Affect functions where the failure effect
+is classified catastrophic?
+17
+REPAIR DESIGN APPROVAL -STRUCTURE DAMAGE ASSESSMENT USING REPAIR MANAGER
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:04 Page 18
+LIMITATIONS AND INSTRUCTIONS LIMITATIONS
+FOR CONTINUED AIRWORTHINESS
+FROM REPAIRS’ DESIGN When the limitations affect a life
+limited part, the RAS indicates the
+As for a Type Certificate (TC), life of the damaged area and not
+structural repairs on light optimi - the life of the entire part, itself
+zed structures (a fortiori allowable being dictated by the Airworthiness
+damages) are susceptible to fatigue Limitation Section (ALS) Part 1:
+and as for the TC, they require • When the RAS limit is lower
+inspection leading to ICA and than the ALS limit, the new part
+limitations. life is that of the RAS.
+• When the RAS limit is higher
+The Airbus Repair design Approval than the ALS limit, this is still
+Sheet (RAS) form supports com - applicable and the Continuing
+pliance in areas dedicated to Airworthiness Maintenance
+maintenance requirements to Parts: Organisation (CAMO) needs to
+• 21A.449 (unrepaired damage), observe the ALS limitation.
+• 21A.443 (limitations), • TheALS limitation can vary
+• 21A.449 (ICA). through time and the CAMO is
+required to update the life
+Areas dedicated to repair
+limited parts’ maintenance
+maintenance requirements
+accordingly, including the
+repaired ones.
+REPAIR CATEGORY: SPECIFIC MAINTENANCE REQUIREMENTS: Some limitations can result when
+the structural (damage or its repair)
+Threshold*: affects the performances of the
+No additional requirements
+A
+to zonal inspection programme air craft, like the aerodynamics.
+Interval:
+They may decrease the maximum
+B Inspection required Method of inspection: weight of the aircraft, the One
+If temporary, Engine Inoperative (OEI) ceiling
+repair life limitation*:
+C Temporary repair or other performance penalties.
+Repair Structural
+Modification Point (SMP)*: These limi ta tions have to be
+recorded and communicated to the
+* If not otherwise specified; Threshold, repair life limitation or SMP are from time of embodiment
+flight opera tions of the company.
+All these limitations comply with
+ALI (Airworthiness Limitation Item) limitations to apply (life limited parts only)
+the applicable requirements.
+AOC - Operator EU-OPS 1
+EU - OPS 1
+Ensure reporting
+Cockpit
+Part M.A.302: Records Reports
+(Tech Log)
+• Instructions from competent
+authority, Part M (CAMO)
+• ICA issued by TC holders
+Ensure continuous
+or any other relevant approval, airworthiness of aircraft
+• ICA issued by major repair Engineering
+approval holder. Records Orders
+Part 145 (AMO)
+Release to service
+maintenance work
+Hangar and shops
+18
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:04 Page 19
+REPAIR DESIGN APPROVAL -STRUCTURE DAMAGE ASSESSMENT USING REPAIR MANAGER
+INSTRUCTIONS FOR CONTINUED KEY FUNCTIONS
+AIRWORTHINESS
+Repair Manager mainly serves the
+The compliance to CS25.571 for following areas of activity within
+the repair results in an ICA like an airline:
+for TC. Then, the task is compared • Line and heavy maintenance for
+with the actual maintenance damage reporting, assessment
+pro gramme of the aircraft, as and follow up,
+esta blished by Airbus. • Engineering services for
+• When a ‘zonal’ task is adequate, assessment and data analysis,
+no inspection is indicated in the • Ease aircraft dispatch by direct
+RAS, access and compilation of the
+• When another maintenance task aircraft status reports (also
+is adequate, it is repeated as a known as a Dent and Buckle
+‘method’ in the RAS without Chart).
+threshold and interval, At any time, a user can directly
+• When a maintenance task is to access to:
+be adapted locally for the repair • The structural status of the entire
+inspection, the maintenance task fleet or a specific MSN
+and its adaptation are indicated (Manufacturer Serial Number),
+in the RAS, • The structural damage and repair
+• When there is no maintenance history of any MSN by accessing
+task, the RAS supports all all its repair files including
+details for the inspection and it approval documentation,
+is classified as major. • The aircraft status report of each
+MSN.
+All the ICA for major repairs shall
+be incorporated by the CAMO into When damage is found, a user is
+the maintenance programme of the able to report it through a series of
+aircraft, according to the Part M process based steps to compile a full
+302 requirement. and comprehensive damage re port,
+with just a laptop connected to
+Part 2: AirbusWorld, the Airbus custo mer
+portal.
+Repair Manager
+This guidance provides the requi -
+red information for the damage
+OBJECTIVE AND OPERATIONAL evaluation and reporting back
+BENEFITS the necessary data to the airline
+Main tenance Control Centre
+Repair Manager on-line software (MCC), Airbus, or a non-Airbus
+provides airlines with a simple OEM (Original Equipment
+method to view and locate non- Manufactu rer). Repair Manager
+conformities and in-service dama ge also allows the operator to delegate
+and repairs on a 3D simplified access to the tool for third party
+model of the aircraft, to record and maintenance organisations, so they
+safely store the details. Its objective can use the tool for the operator’s
+is to ease line main tenance’s fleet during maintenance checks.
+structural damage re porting, to
+reduce elap sed time to assess STRUCTURAL DAMAGE REPORT
+damage and authorize the aircraft’s CREATION
+ering return to service. In addition, the
+tool allows the operator to build a This guides the user through the
+com pre hensive database of all the different steps of the compilation
+struc tural damages on an aircraft of a report: Location, description
+and maintain it together with the and assessment. It also helps the
+as socia ted approval documenta tion. user to fill in repair and approval
+data in the relevant tab of the
+Structure Damage Report (SDR).
+19
+REPAIR DESIGN APPROVAL -STRUCTURE DAMAGE ASSESSMENT USING REPAIR MANAGER
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:04 Page 20
+SPECIFIC TOOL FOR ACCURATE 3D simplified models together with
+DAMAGE LOCATION - 3D SIMPLIFIED a list of all the recorded damage
+MODELS classified by ATA chapter and
+re pair category (Category A for ‘no
+The 3D simplified models are used additional maintenance’, B for
+to locate the damage/repair on a ‘specific maintenance require ment’
+3D digital mock-up of the aircraft and C for ‘temporary repair’).
+structure. Using the 3D models, a
+user can directly locate a structural LINK TO AIRBUS TECHNICAL
+damage on the aircraft. The 3D DOCUMENTATION
+simplified models use a defined
+set of damage shapes and colours The part damage and location
+de pending on the damage status de tail pages give direct access to
+(draft, opened, closed, deferred and AirN@v/Repair, AirN@v/Mainte -
+obsolete). A summary of the dama ge nance and engi nee ring dra wings,
+details, (including the damage type, through AirbusWorld. These
+approval documents, inspec tion provi de direct access to the
+information, etc.) are display ed on approved documentation data for
+screen when the mouse is moved structural maintenance, such as
+over the damage point. the Structure Repair Manual (SRM),
+Non-des tructive Testing Manual
+Damage on fuselage skin
+SEARCH FUNCTION (NTM), Aircraft Maintenance
+Manual (AMM), Illustrated Parts
+Two types of search functions are Catalog (IPC) and the mechanical
+available: drawings for convenient and
+• A 3D search allowing the user to practical gui dance.
+display all of the damages and
+repairs on a particular WORKFLOW STEPS
+Manufacturer Serial Number
+(MSN) that meet the criteria The workflow, when damage is dis -
+entered in the search fields, covered, is as follows (the Repair
+• A tabular search allowing the Manager home page gives direct
+user to list all the damages and access to the functions avai lable):
+repairs for MSNs that meet the • Report:For creating and
+criteria entered in the search continuing damage reports,
+fields. This feature also provides • Find, access, consult, get
+a work list of items awaiting reports:For accessing the
+validation by the engineering or search functions and to export
+maintenance control departments. the results, for users with an
+‘administrator’ profile, it also
+Using search criteria, users can get allows the export of selected
+quick access to all the information Structure Damage Reports (SDR).
+stored for a given, or multiple • Get an aircraft status report:
+MSNs (open and deferred actions, For providing access view and
+additional maintenance require- creating an aircraft status report
+ments, etc.), or damage (status, di - using the 3D models and the
+mensions, allowable damage, re - tabular listings.
+pair and approval documents, etc.) • Advanced functions:Allowing
+and can then launch the relevant the mass import of data.
+actions, if required.
+The import and export functions
+AIRCRAFT STATUS REPORT allow the users to re-assign SDRs
+(DENT AND BUCKLE CHART) for removable parts from one MSN
+to another, in a semi-automated
+An Aircraft Status Report (ASR) process.
+can be generated automatically
+showing the location of all of the
+damages and repairs loaded on the
+20
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:04 Page 21
+REPAIR DESIGN APPROVAL -STRUCTURE DAMAGE ASSESSMENT USING REPAIR MANAGER
+Repair Manager
+overview of the
+process for a repair
+requiring a Repair
+Design Approval
+1
+Step 1- Aircraft
+The user selects the aircraft type and selects the relevant
+aircraft from the list. The list contains all the aircraft of this type
+operated by the airline. MROs will see the aircraft list for the
+airline when access delegation has been given by the operator.
+The user checks if the aircraft Weight Variant (WV) information
+is up to date and updates the flight cycles and flight hours’
+information.
+The system will automatically list all the damage reports
+created within the last 15 days to reduce the possibility of the
+user entering a duplicate damage report. The location and
+details of these reports can be accessed directly from the list.
+2
+Step 2- SDR Identification
+A damage report title is entered to easily identify the damage
+report in the future, (the only mandatory field on this page). The
+operator has the ability to enter their own damage report
+reference in addition to the unique damage report reference
+created by the system. The damage event fields are used to link
+several damage reports together following a major event and
+make them easier to find.
+Step 3- Part identification
+The user sees the whole aircraft 3D model on screen and then
+selects the aircraft section that has been damaged.
+3
+21
+REPAIR DESIGN APPROVAL -STRUCTURE DAMAGE ASSESSMENT USING REPAIR MANAGER
+4
+Step 4- Damage description
+The next step is to locate the position of the damage on the 3D
+model and to identify the damage type and main details. The
+surrounding structure is easily identified by clicking on the
+items on the 3D simplified model. The general location of the
+damage is entered relative to the surrounding structure
+selected. A direct access is then available to AirN@v/Repair,
+AirN@v/Maintenance and Engineering drawings (AirbusWorld
+services), to perform the detailed assessment of the damage.
+A detailed damage report or Pre-Defined Reporting Sheet (PDRS)
+is then attached describing the details of the damage and the
+assessment performed.
+Photographs of the damage including dimensions can also be loaded.
+5
+Step 5- Assessment
+The assessment is performed according to the instructions
+provided in the aircraft manuals, SRM, AMM, CMM, etc. If the
+damage is within the limits of the approved documentation or
+the repair solution is covered by the SRM, then the line
+mechanics can validate the damage description and finalize the
+approved process. If the damage is outside the approved
+document limits, then the next steps need to be performed by
+the engineering or maintenance control departments. They can
+then decide whether a damage report needs to be sent to Airbus
+and/or the Original Equipment Manufacturer (OEM) for approval,
+or whether they can approve the damage or repair themselves.
+SRM: Structure Repair Manual
+AMM: Aircraft Maintenance Manual
+CMM: Component Maintenance Manual
+6
+Step 6- Requirements
+If the damage is outside the SRM limits, the user then fills out
+the details of their request for assistance, describing the current
+status of the aircraft and the date the answer is required.
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:04 Page 22
+22
+Step 7 - Repair
+Once the technical statement is available (from Airbus, non-
+Airbus OEM or from the SRM), the user completes the repair
+page to record/load the repair proposal into the tool, the date
+that the repair has been performed may also be completed,
+if different from the date the damage was discovered. More than
+one repair can be added so that the repair history is retained
+(temporary repair followed by a permanent repair).
+Step 8- Approval
+Once the technical statement is available (from Airbus, non-
+Airbus OEM or from the SRM), the user (the same or a different
+one with the necessary rights) fills the approval page. The
+approval page includes all the required information depending
+on the damage category. It also allows specifying the type of
+repair (Temporary or Permanent) and the existence of additional
+maintenance requirements and inspections.
+In this section, you can attach the Repair design Approval Sheet
+(RAS) or other approval documents associated with the repair.
+These can also include documents such as a ‘Permit to Fly’,
+‘Alternative Means Of Compliance’ (AMOC), etc., as described in
+the Repair Design Approval (Part 1). Any approval documents
+can be attached to a damage report whether they are internal to
+the operator or from a non-Airbus OEM.
+As with the repairs page, multiple approvals can be attached on
+separate tabs keeping the history of the repair approvals
+available.
+23
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:04 Page 23
+REPAIR DESIGN APPROVAL -STRUCTURE DAMAGE ASSESSMENT USING REPAIR MANAGER
+7
+8
+CONTACT DETAILS
+Alain BALEIX Colin SMART
+Head of Repair Approval Structure Engineer /
+Airbus Customer Services SRM development
+Tel: +33 (0)5 62 11 04 15 Airbus Customer Services
+Fax: +33 (0)5 61 93 28 73 Tel: +33 (0)5 62 11 09 41
+alain.baleix@airbus.com Fax: +33 (0)5 61 93 21 81
+colin.smart@airbus.com
+Conclusion
+An accurate damage assessment In that context, Repair Manager is a
+and its relevant reporting are fundamental decision tool for speeding up and easing
+for expediting the repair design. structural damage report compilations
+A complete and precise report is the first during the assessment phase. Its
+requirement for an efficient repair design. easy-to-use interface with simplified 3D
+The observance of the Instructions for models will guide you, step by step,
+Continued Airworthiness (ICA) is key for towards a more accurate and effective
+safety. This encompasses the ICA issued, reporting and to be in compliance with
+not only by an Airworthiness Directive, airworthiness authorities’ regulations
+a Type Certificate or a modification, but for damage record keeping.
+also from a Repair design Approval Sheet Repair Manager is available for all the
+which you may find in AirbusWorld. Airbus aircraft families from mid July 2010.
+23
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:04 Page 24
+HEAD-UP DISPLAY SYSTEM - ENHANCED OPERATIONS’ SITUATIONAL AWARENESS
+Head-Up
+Display system
+Enhanced operations’ situational
+awareness
+Innovation is at the heart of activities and Airbus (Multi-Programme Project) HUD, has been
+ensures that its aircraft benefit from the most developed and proposed on the A320, A330/
+ad vanced technology available. A340 aircraft families, as well as on the A380.
+During the end of 2002, Airbus decided to provide This MPP HUD, based on proven technologies
+the HUD (Head-Up Display) as an option on its already available on all aircraft within the Airbus
+commercial aircraft (and as the basic instrument Fly-By-Wire family, is being further optimized
+to operate the Airbus A400M military transport for the A350 XWB and will be proposed as an
+aircraft). A new generation HUD, called MPP option at its Entry-Into-Service.
+Eric ALBERT
+HUD Project Leader
+Airbus Cockpit Engineering
+24
+scinoivA
+selahT
+fo
+ysetruoC
+The Head-Up
+Display (HUD)
+system
+The fundamental element of the
+HUD system is a conformal head-
+up display that presents essential
+flight information and guidance to
+the pilot in his forward field of
+view for all flight phases.
+The HUD is a see-through device
+which helps the pilots to fly more
+accurately, displaying collimated
+flying symbols overlaying the real
+outside world view.
+The new generation HUD systems
+are from a single source SFE
+(Supplier Furnishing Equipment).
+The HUDC receives data from the
+System overview aircraft’s sensors and generates the
+display symbology. The HPU
+includes a LCD (Liquid Crystal
+COCKPIT INTEGRATION Display) imager that projects the
+image onto the HCU. The HCU is
+The HUD System is fully inte grated an optical element (a glass plate),
+into the existing cockpits. Either mounted between the pilot’s head
+single or dual installation confi- and the windshield which reflects
+gurations for the MPP HUD (on the projected image towards the
+A320, A330/A340 aircraft families pilot. Whilst the superimposed
+and the A380) are available as a image (to infinity) provides flight
+forward fit. Only the dual information to the pilot, he can
+installation configuration is cur - continue to see external scenes in a
+rent ly proposed for the A350XWB. completely normal way (through
+The HUD system com prises a: the HCU’s glass plate). The PMM
+• Head-Up Display Computer allows the memorization of the
+(HUDC): For data collection, electronic bore-sighting para meters.
+display management, graphics This electronic process consists in
+generation and BITE (Built-In aligning the optical references of
+Test Equipment) management on the HUD cockpit equipment with
+A320, A330/A340 aircraft families those of the aircraft.
+and A380 , or a Display Unit
+(DU) on A350XWB (basically
+installed),
+• Head-up Projection Unit (HPU):
+Display device, drive electronics
+and projection optics,
+• Head-up Combiner Unit (HCU):
+Optical element (glass plate),
+mounted behind the windshield
+which reflects the projected
+image towards the pilot,
+• Personalization Memory Module
+(PMM): For memorization of the
+electronic bore-sighting
+parameters.
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:04 Page 25
+HEAD-UP DISPLAY SYSTEM - ENHANCED OPERATIONS’ SITUATIONAL AWARENESS
+i n f o r m a t i o n
+The certificationsof the new
+MPP HUD system were achieved
+on the following dates:
+• A318 (PW): 23rdNov 2007,
+• A320 & A318 (CFM):
+17thDec 2007,
+• A319 (CFM): 18thMarch 2008,
+• A380 dual HUD (EA): 31stJuly 2009.
+The certifications on A319
+and A320 aircraft with IAE engines
+are forecasted by the end of 2010.
+The certification on other aircraft
+models (e.g. A330/A340 Family
+and A321) will depend on the
+customers’ requests.
+HPU
+PMM
+HCU
+HUDC
+MPP HUD components in the cockpit (A320, A330/A340 aircraft families
+and A380)
+25
+HEAD-UP DISPLAY SYSTEM - ENHANCED OPERATIONS’ SITUATIONAL AWARENESS
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:04 Page 26
+MPP HUD (MULTI-PROGRAMME The HUD part numbers for the
+PROJECT HEAD-UP DISPLAY) A350XWB are specific to this
+aircraft because the HUDC is no
+The single installation con figu - longer needed, as the software is
+ration is composed of one HUD set hosted in the Head Down Display
+(HUDC+HPU+HCU+PMM) as part of the Display Global Work
+installed on the Captain’s side. For Package (see A350XWB HUD
+the dual installation, one HUD set overall system architecture), there -
+installed on the First Officer’s side fore saving space and weight.
+n o t e s
+completes the single installation.
+In accordance with the MPP HUD The MPP HUD system was the
+The Display Global Work Package
+development policy, one of the first fully digital HUD certified on
+is a system platform integrating
+most ambitious challenges was that a civil aircraft. Indeed, it is the first
+and regrouping the functions of
+one same HUD be installed in the HUD based on the LCD (Liquid
+the Cockpit Display System (CDS),
+A320, A330/A340 aircraft families Crystal Display) technology and
+the Head-Up Display and the
+and A380 aircraft cockpits, despite not on the commonly used CRT
+Airport Navigation.
+their different architectures. This (Cathode Ray Tube) technology.
+target has been achieved since the For the HUD, the LCD technology
+HUD part numbers remain the provides an increased reliability
+same, whatever the Airbus aircraft. and a great image luminosity. It
+This offers the benefit of having also provides advantages in volu -
+the Airbus cockpit commonality me, weight and consumption sa -
+and brings cost savings to the vings that greatly reduces the ope -
+operators in terms of maintenance rational costs when the aircraft is
+and spares. equipped with such a system. The
+LCD technology offers additional
+A350XWB HUD graphic capabilities without time
+disruptions (reverse video, haloing
+The dual installation configuration effect, priorities, line thickness,
+(upon the A350XWB basic con fi - grey level, etc.) and a good quality
+gura tion) is composed of two HUD and legibility of the symbols.
+cockpit equipment sets (HPU,
+HCU and PMM).
+New A350 XWB HUD components
+integrated in the cockpit
+HUD Projection and HUD Computer in the avionics bay
+Combiner Units in the cockpit
+26
+HEAD-UP DISPLAY SYSTEM - ENHANCED OPERATIONS’ SITUATIONAL AWARENESS
+MPP HUD - Overall system
+architecture
+PMM-CAPT PMM-F/O
+115V 115V
+HPU-CAPT HCU-CAPT HCU-F/O HPU-F/O
+aircraft aircraft
+CAPT-HUD F/O-HUD
+controle (411VU) controle (412VU)
+HUDC-1 HUDC-2
+AFDX AFDX
+Single
+Aircraft avionics systems Dual Aircraft avionics systems
+installation
+installation
+The main benefits introduced by The following items are unique to
+the new A350 HUD compared to HUD symbology:
+the MPP product are: • Conformal display elements:
+• Weight savings and volume Some HUD symbols are
+linked to the integrated designed to overlay the real
+architecture as part of the world as seen by the pilot
+Display Global Work Package through the HUD Combiner,
+(no additional HUDC), • Viewing position:
+• More integrated solutions in the The HUD is designed
+cockpit layout (linings, etc.), to be viewed from the cockpit
+• Better reliability based on LED Eye Reference Point and a head
+backlighting (instead of lamps) movement area around that
+for the LCD display, point, called the “Eye Motion
+• Better head clearance, Box”,
+• Better optical performances (e.g. • Viewing into the sun:
+with regards to the eyes’ motion The HUD is designed to be able
+box defining the three to project symbology that can be
+dimensional area in space in seen against a very bright
+which the centre of the HUD background (34000 Cd/m2).
+virtual display can be viewed The pilots can use the dedicated
+with at least one eye). sun-visor to reduce the intensity
+of the sun and can set the
+HUD core function brightness of the symbology
+so that it can be seen (or use
+(symbology)
+an automatic brightness feature).
+The primary aim of the HUD sym -
+bology is to provide essential flight
+data and information needed for
+the safe and effective control of the
+aircraft. It is necessary for the
+symbology to accurately represent
+the outside (conformal) view,
+while not obstructing this outside
+view.
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:04 Page 27
+n o t e s
+The HUD is not a substitute but an
+additional instrument to the
+existing avionics and needs to be
+integrated.
+The HUD integration in the cockpit
+is one of the key factors to
+achieve the operational objectives
+with a high consistency and
+efficient use.
+HUD in-flight symbology The FPV (Flight Path Vector)
+27
+HEAD-UP DISPLAY SYSTEM - ENHANCED OPERATIONS’ SITUATIONAL AWARENESS
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:04 Page 28
+The core symbols of the HUD is
+HUD core symbols: Piloting
+the attitude/energy box, mainly
+with the FPV and Total FPA
+composed of the:
+• Aircraft attitude (pitch, roll,
+side-slip and heading),
+To level off,
+• The FPV (Flight Path Vector)
+forward stick input
+also commonly named ‘bird’,
+• The Total FPA (Flight Path
+Acceleration Acceleration Angle), FPV
+Total FPA Total FPA
+• The speed delta (on the left side
+FPA
+Runw
+of the FPV).
+aimi
+poin
+The Flight Path Vector (FPV)
+indicates the actual aircraft’s tra -
+jectory through the aircraft Flight
+Aircraft is climbing Aircraft is at flying level
+’chevrons’ above FPV, but still accelerating Path Angle (FPA) as the longi -
+aircraft accelerates To stop tudinal component and the aircraft
+accelerating, drift angle as the lateral compo -
+reduce thrust
+nent.
+The Total FPA (or total energy
+‘chevrons’) indicates the actual
+total energy of the aircraft (poten -
+tial and kinetic). On top, it provi -
+Aircraft is at flying level and at constant speed
+des the acceleration/decelera tion
+status of the aircraft.
+The velocity vector FPV asso -
+ciated to the total energy (Total
+Aircraft is right of track Aircraft is on of track Aircraft is left of track
+FPA) assist the pilot to control the
+speed and path stability during the
+approach.
+One of the other fundamental
+elements of the HUD is the confor -
+mal approach symbology which
+allows enhancement of the pilots’
+situa tional awareness, by showing
+conformal trajectory related sym bols
+The pilot flies the FPV The pilot flies the FPV to The pilot flies the FPV
+to the left to correct the runway centerline track to the right to correct superimposed to the external
+scene.
+The angle between the LOC
+(Localizer) axis and the horizon
+indicates the lateral deviation of
+the aircraft’s position with the
+runway centre line.
+The position of the Approach
+Figure A Figure B Figure C
+Reference Flight Path symbol
+Aircraft is below Aircraft is on Aircraft is above versus the touchdown point, indi-
+approach path approach path approach path cates the aircraft’s vertical position
+versus its ideal approach path.
+The symbo logy set described on
+the left, including the Primary
+Flight Display-like symbology (al -
+titude, speed scale, Flight Mode
+Annunciator, etc.) is the primary
+The pilot flies the FPV The pilot flies the FPV The pilot flies the FPV
+display mode of the HUD.
+beyond the touchdown to the touchdown before the touchdown
+point to correct point point to correct
+For all these figures, natural perspective rules apply.
+28
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:04 Page 29
+HEAD-UP DISPLAY SYSTEM - ENHANCED OPERATIONS’ SITUATIONAL AWARENESS
+Horizon line
+Pitch
+Published
+Aircraft approach
+current descent
+FPA path angle
+FPV
+Runway
+aiming
+point
+Approach reference flight path symbols LOC axis
+Some special symbology sets have (Precision Approach Path
+been developed and are optimized Indicator), enabling the pilot Interpretation of the Approach Reference Flight
+Path symbols (corresponding to the figure A
+so as the HUD adapts itself to the to precisely calibrate and follow
+opposite page)
+current flight phase and provides a desired approach path without
+the associated display modes: external aids.
+• Taxi (ground speed, acceleration • Enhanced stability of manually
+cue, etc.), flown approaches (instrument
+• Take-Off (lateral raw data and and visual approaches) and the
+guidance, tail strike limit for accuracy of the landing
+A380, etc.), touchdown, by providing the
+• Climb, cruise, descent for velocity vector associated to the
+mainly weather avoidance total energy in the HUD; this
+‘windshear warning, TCAS RA facilitates the pilots’ control of
+(Traffic Alert and Collision speed and path stability during
+Avoidance System Resolution the approach.
+Advisory) warning, etc., • An enhancement in flying
+• Approach (mainly composed of seamlessly Instrument
+the here-above described Meteorological Condition (IMC)
+symbology), to Visual Meteorological
+• Roll-Out (ground deceleration Condition (VMC), flying
+scale, etc.). head-up.
+• Enhanced pilot situational
+Each display mode has various ‘de- awareness when close to the
+cluttered’ level functions of the ground by showing conformal
+flight phases, in order to favour trajectory related symbols
+see-through capability of the HUD. superimposed to the external
+scene (aircraft trajectory in poor
+Operational visibility as seen on the previous
+HUDs),
+benefits
+• Situational information for the
+monitoring of automatic
+approaches with Autoland
+The HUD system improves the
+(CAT II & CAT III approaches
+crews’ situational awareness (the -
+with ‘Autoland’ and roll-out).
+re fore contributing to safety) in
+• Reversionary means for roll-out
+providing:
+in the event of an untimely
+• Situational information for the
+‘Autopilot’ disconnection
+manual visual approaches and
+or a failure of a system affecting
+landings. With the display of the
+automatic roll-out, following an
+approach reference path marks, the
+automatic approach and landing,
+HUD can replace airport aids such
+• A wider field of view
+as the VASIS (VisualApproach
+(35° x 26°) in high crosswind
+Slope Indicator System) or PAPI
+conditions.
+29
+HEAD-UP DISPLAY SYSTEM - ENHANCED OPERATIONS’ SITUATIONAL AWARENESS
+CONTACT DETAILS
+Eric ALBERT
+HUD Project Leader
+Airbus Cockpit Engineering
+Tel: +33 (0)5 61 18 16 01
+Fax: +33 (0)5 61 93 63 82
+eric.albert@airbus.com
+Conclusion
+The Head-Up Display (HUD) contributes display the video image as well as the
+significantly to increasing the pilot symbols without any constraints
+situational awareness, particularly during (particularly on graphic capability and
+the approach and landing phases by flexibility which are not time constraining).
+showing trajectory related symbols The HUD is designed to support future
+superimposed on the pilot’s actual technologies such as the EVS (Enhanced
+external view. The experience in service Video System), SVS (Synthetic Vision
+confirmed that the HUD is a very good System) or SGS (Surface Guidance
+means to stabilize the aircraft during the System) that will enhance surface
+approach phase, assuming that the flight operations and obstacle awareness.
+crews follow a dedicated HUD training. Thanks to HUD capabilities, these future
+The HUD system also offers enhancement growing evolutions will reinforce the
+with a video image support. Indeed, the enhancement of flight safety on all Airbus
+fully digital processing allows the HUD to aircraft models.
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:04 Page 30
+In addition to these improvements, In regards to the operational
+the HUD system also brings some feedback (Entry-Into-Service in
+operational credits, such as: 2009), the customers with aircraft
+• The lateral guidance information equipped with HUD highlighted
+for take-off roll, in low visibility the following:
+(certified on the A320 Family, • Final approach trajectory
+on-going development for the (through the control system with
+A380). As with the Para-Visual the HUD approach symbols)
+Indicator (PVI), the lower take- very clear and appreciated (exact
+off minima can be reduced from flight path of the aircraft),
+a 125m Runway Visual Range • Reference mark of the runway
+(RVR) for EASA (500ft. for slope (conformal approach
+FAA) to a 75 meters RVR for symbols) very helpful,
+EASA (300ft. for FAA), thanks • Ground deceleration scale to
+to this lateral guidance monitor ‘Autobrake’ action or
+information. control manual braking during
+• The HUD is eligible in roll-out done with ease,
+approach, for reduction of CAT • During taxi, the indication of the
+1 Approach minima, down to ground speed and the energy
+Retrofit installation on an A340-600 CAT II Approach minima ‘chevrons’ (Total FPA), highly
+flight test aircraft
+(conducted with Auto-Pilot appreciated.
+engaged) on Type 1 airport
+installations as per FAA Order The HUD installation is retro fitab le.
+8400.13B or EASA NPA OPS- The retrofit conditions have to be
+41. This operational benefit defined and agreed by the invol ved
+requires an operational aircraft programme.
+approval from the operator’s
+airworthiness authority.
+Pitch/roll adjustment tool
+for HUD installation
+30
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:05 Page 31
+SPICE - THE FUTURE GALLEYS
+SPICE
+The future galleys
+Ever since the first generation of large passenger To study this question, Airbus spent nine intensive
+aircraft were introduced in the late 1960s, galley months on-site, with three leading airlines. This
+architectures have been constructed around the work generated a large body of knowledge con-
+omnipresent trolley. It is hard to imagine the air - cerning the issues experienced with today’s
+line world today without these trolleys, but an galleys, as well as the types of solutions that are
+increasing number of Airbus customers have been required. To make use of the knowledge, Airbus
+voicing the question of whether the time has initiated a project called SPICE (SPace Innovative
+come, after 40 years, for the air transport industry Catering Equipment) which promises to make
+to look into new architectures for galleys. significant progress in improving galley designs.
+Daniel PERCY
+Airbus Marketing Manager
+Aircraft Interiors Marketing
+31
+SPICE - THE FUTURE GALLEYS
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:05 Page 32
+Modernising galley With SPICE, these requirements
+are satisfied by the doors on the
+architecture
+galley itself.
+without disturbing
+The third architectural change is to
+today’s processes
+create a system of modular sizes
+between the different elements
+The SPICE project found that the which go into the galley. The boxes
+main hurdle to achieving true in - used in SPICE galleys come in
+novation in galley architecture and three sizes which relate to each
+therefore, to bringing signi ficant other in the same way, as paper
+benefits, was the trolley itself. sizes such as A4-A3-A2, each
+Thinking out of the box, or out of being twice the size of the previous
+the trolley in this case, revealed one. In addition, the Galley Inserts
+that the true building blocks of (GAIN) such as ovens and beve -
+airline catering are the trays or rage makers, also use the same
+1 Chilled upper drawers which are put into the modular sizes.
+compartments trolleys.
+Architectural
+SPICE galleys are therefore based
+2 Transfer around the dimensions of the trays efficiency
+table
+used in today’s most popular galley
+standard, ATLAS. However, SPICE These architectural changes make
+3 Storage makes three key changes to the it possible to bring about signi fi -
+galley storage architecture. cant efficiency improve ments.
+The first architectural change is to Using boxes and FSCs, stored
+4 Flexible
+store trays and drawers in light - behind ‘9g’ doors on the galley,
+stowage
+weight boxes, instead of trolleys. helps to reduce weight from the
+The boxes are then moved around aircraft catering equipment. The
+5 Service the cabin by Folding Service Carts boxes themselves no longer need
+box (FSC), which stay on-board the wheels or brakes and the lack of
+aircraft and remain in a suitable ‘9g’ structure means that any
+condition for presen tation to custo - material can be used in the box
+6 Half-size
+mers. A typical widebody aircraft construction. Boxes made of metal,
+meal box
+will need 8 to 10 FSCs. plastic and even cardboard, have
+been designed for use with the
+7 Meal The second architectural change SPICE galley. A typical SPICE
+box is to satisfy airworthiness require - Meal Box can weigh as little as 6kg
+ments using the galley instead when made from plastic. This,
+of the trolley. Today, trolleys are compared to today’s trolleys which
+certificated to have traditionally weighed any -
+1
+withstand ‘9g’ thing in the range from 21 to 30kg,
+loads and to be leads to significant fuel savings.
+flameproof.
+4
+2
+8
+6 7
+5
+3
+32
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:05 Page 33
+SPICE - THE FUTURE GALLEYS
+SPICE saves space as well as New galley
+weight. When thinking about one
+features
+of today’s galleys, it is evident that
+above the trolleys there is a lack of
+geometrical optimisation caused The architectural changes which
+by the various different shapes of bring efficiency improvements also
+equipment. In contrast, the modu - allow to create a galley system
+la rity of the boxes and equipment which has a range of new features
+which go into the SPICE galley not available on today’s galleys.
+design ensures that no space is Full Plug & Play exchangeability
+wasted. of equipment is facilitated by the
+modularity of GAINs and boxes.
+Additionally, space is won in The galley and GAIN arran -
+SPICE galleys through making gements will be pre-certified, al -
+ergonomic improvements. With lowing significant flexibility in
+today’s galleys, cabin crew have to configuring and reconfiguring the
+perform all lifting and carrying galley arrangement, with an equip - 8 Folding Service Cart
+tasks manually. Therefore, in order ment swap taking only five mi - (FSC)
+to control the ergonomic impact on nutes.
+the cabin crew, limitations are
+required on the number and weight Chilled upper compartments are 9 Meal
+service
+of the boxes which can be stored in possible due to the ‘9g’ galley
+the galley. SPICE introduces a doors being installed at both levels.
+device called a Transfer Table, This gives much more flexibility in 10 Drinks
+which saves the need for cabin galley packing, allowing the meal service
+crew to lift or carry and therefore and drink items to be placed in the
+allows more boxes to be stored in upper part of the galley without
+11 Waste
+the galley since they can be stacked the need for dedicated 3-mode-
+collection
+higher up. chillers, as used today.
+To quantify these efficiency gains, Customisable service items can be 12 Plug & Play
+Airbus has completed numerous as- created to be used directly in the equipment
+sessments of SPICE galleys versus service. Because SPICE boxes
+delivered airline galley con figura - don’t need to be certified and that
+13 Preparation
+tions, using airline galley loading the SPICE Service Box (similar to
+galley
+plans for routes which have the today’s Standard Unit) is tall
+highest catering content loaded on- enough to stand bottles upright,
+board. These assessments show that boxes can be designed ergono - 14 Sliding
+the typical weight savings on an mically optimised for in-flight doors
+A330/A340 Family aircraft is in the service which can even be pre-
+range of 600kg. For aircraft as big prepared by the caterer. This
+as the A380, these weight savings ensures that prepa -
+can reach more than one ton. The ration times are
+space savings usually allow to have reduced, allowing
+one less galley monument, creating the passengers to
+enough space to win two or benefit from a
+three economy seats. quicker service.
+12
+9
+10
+13
+11
+14
+33
+SPICE - THE FUTURE GALLEYS
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:05 Page 34
+Testing the The challenge
+concept with of changing galley
+airlines and standards
+caterers
+Changing a system which has been
+in place for over 40 years naturally
+Clearly, making all these changes
+introduces, not only major bene -
+to galleys creates a need to learn
+fits, but also a major challenge due
+how to use the new features, design
+to the impact of dispatch ope rations.
+ways to use the galley efficiently
+Ultimately, it is a question of
+and to validate the processes on
+whether the benefits outweigh the
+ground and in the cabin. For this
+temporary additional cost, created
+purpose, Airbus has built prototype
+by operating dual standards over
+SPICE equipment and has been
+the changeover period.
+working together with industry
+partners.
+The main changeover cost is caused
+when an aircraft with one galley
+In cooperation with airline cabin
+type is swapped for an aircraft with
+crew, who spent over one month in
+another galley type, after the cate -
+planning and executing cabin
+ring has already been prepared.
+trials, the usability of the new
+This causes a dispatch delay as the
+galley features, such as the Fold-
+new aircraft is re-catered.
+able Service Cart (FSC) and the
+Transfer Table have been succes -
+The other significant cost for
+sfully tested and SPICE service
+airlines may be slightly higher
+routines developed.
+prices from the caterers, since they
+will need to purchase the SPICE
+These tests revealed a fast learning
+ground equipment. Additionally,
+curve for cabin crew in adapting
+the caterer will need to store
+from today’s world to SPICE. The
+equipment for both today’s galleys
+crew confirmed that SPICE’s design
+and for SPICE galleys which in -
+improved ergonomics, and that the
+creases the amount of floor space
+use of pre-prepared service items
+rented.
+enables to reduce service times.
+Fortunately, these extra costs are
+Airbus has also been working with
+more than offset by the benefits of
+the top airline caterers to ensure
+SPICE. Even in a conservative as -
+that SPICE can be integrated into
+sessment of a mixed fleet scena rio,
+their existing facilities and pro-
+where SPICE equipped aircraft are
+cesses. The first step has been to
+operating alongside non-SPICE
+design the ground equipment the
+equipped aircraft, it can be shown
+caterer will use to transport SPICE
+that on average each SPICE large
+Meal Boxes . Testing of this device
+passenger aircraft generates an ad -
+has shown that SPICE Meal Boxes
+ditional US $1.5 million NPV (Net
+can be transported in the same way
+Present Value) over its life.
+as trolleys.
+This significant finding means that
+Tests in the caterers’ facilities
+the transition to SPICE does not
+identified that it was fully possible
+require retrofits. However, if the
+to integrate SPICE with minimal or
+airline wished to retrofit existing
+no adaptation, to existing equip -
+fleets with SPICE, a business case
+ment such as trolley conveyor
+analysis has shown a payback pe -
+systems, and washing streets.
+riod as low as three years. This is a
+Finally, testing of the galley loa -
+significant improvement on busi -
+ding with the caterers revealed that
+ness cases for retrofitting today’s
+SPICE galleys can be expected to
+galleys.
+be loaded in equivalent times to
+today’s galleys.
+34
+35
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:05 Page 35
+SPICE - THE FUTURE GALLEYS
+The vision feedback on what is required to
+move forward. As a result of this
+for SPICE and
+dialogue, Airbus will complete a
+the programme number of additio nal trials and
+development activi ties.
+in 2010
+To allow airlines to validate weight
+Airbus’ vision for SPICE is that it and space savings and prove their
+should become a new industry individual business cases, a full
+standard, open to all, for use on air - A330 economy cabin demonstrator
+craft produced by all the air fra - is currently under construction.
+mers.
+This facility will also be used to
+To this end, Airbus is working with complete trials, benchmarked
+industry organisations to ensure against today’s operation, for the
+that the standard for SPICE equip- aircraft turn-around-time and for
+ment and its interfaces is set at the in-flight service.
+start.
+In conjunction with known galley
+Industrially speaking, the goal is to and equipment suppliers, the deve -
+be able to deliver the first passen - lopment activity will continue.
+ger aircraft with SPICE galleys This work will focus on maturity
+installed in the second half of and reliability, and on es ta blishing
+2013. However, this is contingent detailed technical per formance of
+CONTACT DETAILS
+upon the readiness of the market. the galley system.
+Under consultation, participating Also, an A320 Family version of Daniel PERCY
+airlines have provided extensive the SPICE concept will be created. Marketing Manager
+Aircraft Interiors Marketing
+AIRBUS Central Entity
+Tel: +33 (0)5 62 11 76 33
+Fax: +33 (0)5 61 93 32 73
+daniel.percy@airbus.com
+Conclusion
+The architecture of galleys has not ‘Plug & Play’ modularity of galley inserts,
+changed in over 40 years, since the chilled upper compartments and reduced
+introduction of the first large passenger service times are additional interesting
+aircraft. Several airlines which recognized features.
+this asked Airbus to take the lead in
+introducing innovation in this area. After Airbus has already completed testing of
+considerable research, Airbus conceived SPICE prototype equipment. This includes
+a new type of galley system, called SPICE testing of cabin service, where actual
+(SPace Innovative Catering Equipment). airline cabin crew served seated
+SPICE makes a number of architectural passengers. It has also been tested with
+changes compared to today’s galleys, caterers, making sure they can cope with
+including introducing a system of modular SPICE in their facilities and during aircraft
+boxes which are moved by Folding loading. All tests have shown positive and
+Service Carts. encouraging results. Following
+consultation with the airlines about the
+Key benefits of SPICE for airlines include conditions for launching SPICE and the
+weight savings of 600kg and space final validation testing is underway.
+savings, enabling 2 or 3 extra economy
+seats to be installed. Several ergonomic The vision for SPICE is that it will become
+advantages for cabin crew are also a new global galley standard, available for
+introduced, including lifting assistance the whole industry.
+using a device called a Transfer Table.
+35
+64
+TSAF
+FAST46_v7.qxp:FAST MASTER LAYOUT 21/07/10 18:05 Page 36
+GALLEYS - IMPROVING OVER 40 YEARS’ OLD GALLEY DESIGN
+Improving
+over 40 years’
+old galley
+design
+Photo
+Lab
+Courtesy
+of
+Airbus
+Flight
+Test
+Flight attendant
+in the galley
+S.E.2010 Armagnac
+Galleys on commercial Over the current Here, the flight
+airlines typically 40 years of old attendant is
+include facilities to trolley technology, meticulously
+serve and store food there are two main preparing the meals
+and beverages. sizes of trolley in for the passengers
+Aircraft in operation use with the airlines (maybe with a touch
+today mainly use the around the world, of spice) on a
+familiar trolley called the ‘ATLAS’ S.E.2010 Armagnac, an
+system. This system (most common)and ‘KSSU’ aircraft of the late
+was introduced in the sizes. Airbus has 1940s. The Armagnac
+late 1960s at the developed a new was a cantilever mid-
+same time the new galley concept called wing monoplane
+generation of large ‘SPICE’ (SPace designed for a
+aircraft were Innovative Catering transatlantic
+entering into service Equipment) - read service with a
+with the airlines. article in this FAST retractable tricycle
+The significantly magazine edition, landing gear.
+larger number of which is a potential A number of versions
+passengers on these new worldwide of this long range
+aircraft meant that standard with aircraft were
+meals could no longer significant advantages planned, from a
+be efficiently for the cabin crew, 60 passenger ‘sleeping
+delivered by hand, as the operators compartment’ version
+they had been up and the caterers. to 84, 108 and 160
+until that point. passengers.
+36
+64
+TSAF
+FAST46_COUVval_v7.qxp:couv FAST 46 22/07/10 10:23 Page 4
+CUSTOMER SERVICES WORLDWIDE AROUND THE CLOCK... AROUND THE WORLD
+WORLDWIDE
+Bruce JONES
+Senior Vice President
+Services & Customer Support
+Customer Services Bangalore
+Tel:+33 (0)5 67 19 19 80
+Fax:+33 (0)5 61 93 18 18
+USA/CANADA
+Tom ANDERSON
+Senior Vice President
+Customer Services
+Tel: +1 (703) 834 3484
+Fax:+1 (703) 834 3464
+CHINA
+Pierre STEFFEN
+Services and Customer Support centres
+Senior Vice President
+Training centres
+Customer Services & Internal Operations Material Logistics centres / Regional warehouses
+Tel:+86 10 8048 6161 Ext 5020 Resident Customer Support Managers (RCSM)
+Fax:+86 10 8048 6162 RCSM location Country RCSM location Country
+RESIDENT CUSTOMER SUPPORT ADMINISTRATION Abu Dhabi United Arab Emirates Lisbon Portugal
+Alexandria Egypt London United Kingdom
+Jean-Bernard GALY
+Algiers Algeria Los Angeles United States of America
+Head of Field Service Al-Manamah Bahrain Louisville United States of America
+Tel:+33 (0)5 67 19 04 13 Almaty Kazakhstan Luton United Kingdom
+Fax:+33 (0)5 61 93 49 64 Amman Jordan Luxembourg Luxembourg
+Amsterdam Netherlands Madrid Spain
+TECHNICAL, MATERIAL LOGISTICS Astana Kazakhstan Manchester United Kingdom
+& TRAINING SUPPORT Athens Greece Manilla Philippines
+Airbus has its main Material Logistics centre in Atlanta United States of America Marrakech Morocco
+Hamburg, and regional warehouses in Frankfurt, Auckland New Zealand Mauritius Mauritius
+Washington D.C., Dubai, Beijing, Shanghai and Bangkok Thailand Melbourne Australia
+Singapore. Barcelona Spain Memphis United States of America
+Beijing China Mexico City Mexico
+Airbus operates around the world, Beirut Lebanon Miami United States of America
+24 hours a day, every day. Berlin Germany Milan Italy
+Bogota Colombia Minneapolis United States of America
+Airbus Technical AOG Centre (AIRTAC) Bucharest Romania Montreal Canada
+Tel:+33 (0)5 61 93 34 00 Budapest Hungary Moscow Russia
+Fax:+33 (0)5 61 93 35 00 Buenos Aires Argentina Mumbai India
+airtac@airbus.com Cairo Egypt Muscat Oman
+Calcutta India Nanchang P.R. China
+Spares AOGs in North America should be Casablanca Morocco Nanjing China
+addressed to: Charlotte United States of America Newcastle Australia
+Tel:+1 (703) 729 9000 Chengdu China New York United States of America
+Fax:+1 (703) 729 4373 Chicago United States of America Ningbo P.R. China
+Cologne Germany Palma de Mallorca Spain
+Spares AOGs outside North America Colombo Sri Lanka Paris France
+should be addressed to: Damascus Syria Philadelphia United States of America
+Tel:+49 (40) 50 76 4001 Delhi India Phoenix United States of America
+Fax:+49 (40) 50 76 4011 Denver United States of America Prague Czech Republic
+Dhaka Bangladesh Qingdao P.R. China
+aog.spares@airbus.com
+Doha Qatar Riyadh Saudi Arabia
+Spares related HMV issues outside Dubai United Arab Emirates Roma Italy
+North America should be addressed to: Dublin Ireland San Francisco United States of America
+Tel:+49 (40) 50 76 4003 Dusseldorf Germany San Salvador El Salvador
+Fort Lauderdale United States of America Santiago Chile
+Fax:+49 (40) 50 76 4013
+Frankfurt Germany Sao Paulo Brazil
+hmv.spares@airbus.com Guangzhou China Seoul South Korea
+Airbus Training Centre Toulouse, France Haikou China Shanghai China
+Tel:+33 (0)5 61 93 33 33 Hamburg Germany Sharjah United Arab Emirates
+Fax:+33 (0)5 61 93 20 94 Hangzhou China Shenyang China
+Hanoi Vietnam Shenzhen China
+Airbus Maintenance Training Centre Hefei P.R. China Singapore Singapore
+Hamburg, Germany Helsinki Finland Sofia Bulgaria
+Tel: +49 (40) 74 38 8288 Hong Kong S.A.R. China Sydney Australia
+Fax:+49 (40) 74 38 8588 Honolulu United States of America Taipei Taiwan
+Indianapolis United States of America Tashkent Uzbekistan
+Airbus Training subsidiaries Istanbul Turkey Tehran Iran
+Miami, Florida - U.S.A. Jakarta Indonesia Tel Aviv Israel
+Tel:+1 (305) 871 36 55 Jeddah Saudi Arabia Tokyo Japan
+Fax:+1 (305) 871 46 49 Jinan P.R. China Toluca Mexico
+Johannesburg South Africa Tripoli Libya
+Beijing, China Karachi Pakistan Tunis Tunisia
+Tel:+86 10 80 48 63 40 Kita-Kyushu Japan Vienna Austria
+Fax:+86 10 80 48 65 76 Kuala Lumpur Malaysia Washington United States of America
+Kuwait City Kuwait Wuhan China
+Bangalore, India (Maintenance training) Lagos Nigeria Xi'an China
+Tel: +33 (0)5 61 93 33 33 Lanzhou China Zurich Switzerland
+Fax:+33 (0)5 61 93 20 94 Lima Peru 37
+FAST46_COUVval_v7.qxp:couv FAST 46 22/07/10 10:22 Page 1
