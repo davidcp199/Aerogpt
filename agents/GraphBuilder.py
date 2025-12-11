@@ -7,6 +7,7 @@ from agents.CriticidadAgent import criticidad_action
 from agents.ReparacionAgent import reparacion_action
 from agents.RegulacionAgent import regulation_action
 from agents.GeneralAgent import general_action
+from agents.TechnicalAgent import technical_action
 from agents.PreRulAgent import pre_rul_action
 
 class GraphBuilder:
@@ -17,7 +18,7 @@ class GraphBuilder:
         """Decide el siguiente agente basado en la decisión interna"""
         print(f">>> Decision interna del nodo: {state.decision}")
         print(f">>> Siguiente nodo: {state.next_agent or 'END'}")
-        if state.decision in ["PreRUL", "RUL", "Criticidad", "Reparacion", "Regulacion", "General"]:
+        if state.decision in ["PreRUL", "RUL", "Criticidad", "Reparacion", "Regulacion", "Tecnico", "General"]:
             return state.decision
         return END
 
@@ -40,6 +41,7 @@ class GraphBuilder:
         graph.add_node("Criticidad", criticidad_action)
         graph.add_node("Reparacion", reparacion_action)
         graph.add_node("Regulacion", regulation_action)
+        graph.add_node("Tecnico", technical_action)
         graph.add_node("General", general_action)
 
         # --- edges ---
@@ -50,6 +52,7 @@ class GraphBuilder:
         graph.add_edge("Criticidad", END)
         graph.add_edge("Reparacion", END)
         graph.add_edge("Regulacion", END)
+        graph.add_edge("Tecnico", END)
         graph.add_edge("General", END)
 
         return graph.compile()

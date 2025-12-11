@@ -46,3 +46,4 @@ paths:
   embeddings_dir: "embeddings"
   vector_store_dir: "data/vectorstores"
   regulatory_vector_store: "data/vectorstores/regulatory_store"
+  technical_vector_store: "data/vectorstores/technical_store"
