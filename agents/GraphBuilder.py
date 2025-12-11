@@ -5,7 +5,7 @@ from agents.SupervisorAgent import supervisor_action
 from agents.RulAgent import rul_action
 from agents.CriticidadAgent import criticidad_action
 from agents.ReparacionAgent import reparacion_action
-from agents.RegulacionAgent import regulacion_action
+from agents.RegulacionAgent import regulation_action
 from agents.GeneralAgent import general_action
 from agents.PreRulAgent import pre_rul_action
 
@@ -39,7 +39,7 @@ class GraphBuilder:
         graph.add_node("RUL", rul_action)
         graph.add_node("Criticidad", criticidad_action)
         graph.add_node("Reparacion", reparacion_action)
-        graph.add_node("Regulacion", regulacion_action)
+        graph.add_node("Regulacion", regulation_action)
         graph.add_node("General", general_action)
 
         # --- edges ---

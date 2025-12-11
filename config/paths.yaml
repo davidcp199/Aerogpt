@@ -1,7 +1,48 @@
 paths:
-  base: "."
+  # --- Base del proyecto ---
+  base: "."                     # C:\Users\David\Documents\AeroGPT
+
+  # --- Directorios generales ---
   data_directory: "data"
-  cmapss_data: "data/CMAPSS"
-  model_dir: "models/cmapss"
+  raw_data: "data/raw"
+  processed_data: "data/processed"
+  metadata: "data/metadata"
+  vectorstores: "data/vectorStores"
+
+  # --- Subconjuntos RAW ---
+  raw_airbus_fast: "data/raw/Airbus_FAST"
+  raw_asrs: "data/raw/ASRS"
+  raw_cmapss: "data/raw/CMAPSS"
+  raw_easa: "data/raw/EASA"
+  raw_faa: "data/raw/FAA_ACs"
+  raw_sdr: "data/raw/SDR"
+
+  # --- Subconjuntos PROCESSED ---
+  proc_airbus_fast: "data/processed/Airbus_FAST"
+  proc_easa: "data/processed/EASA"
+  proc_faa: "data/processed/FAA_ACs"
+
+  # --- CMAPSS (para modelos RUL) ---
+  cmapss_data: "data/raw/CMAPSS"
+  cmapss_models: "models/cmapss"
+
+  # --- Modelos generales ---
+  model_dir: "models"
+  agents_dir: "agents"
+
+  # --- Logs / resultados / figuras ---
   logs_dir: "logs"
+  results_dir: "results"
   figures_dir: "figures"
+
+  # --- Código y configuración ---
+  config_dir: "config"
+  pipelines_dir: "pipelines"
+  utils_dir: "utils"
+  retrievers_dir: "retrievers"
+  rag_dir: "rag"
+
+  # --- RAG ---
+  embeddings_dir: "embeddings"
+  vector_store_dir: "data/vectorstores"
+  regulatory_vector_store: "data/vectorstores/regulatory_store"

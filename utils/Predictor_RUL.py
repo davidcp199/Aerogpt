@@ -8,7 +8,7 @@ from utils.config_loader import load_all_configs
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 _, paths_cfg, _ = load_all_configs(ROOT)
-MODEL_DIR = paths_cfg["paths"]["model_dir"]
+MODEL_DIR = paths_cfg["paths"]["cmapss_models"]
 
 
 # 1. Modelo. GRU igual a entrenamiento
