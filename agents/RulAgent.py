@@ -46,7 +46,7 @@ def rul_action(state):
     try:
         # 1. Comprobar que hay datos acumulados
         if state.pre_rul_data is None or len(state.pre_rul_data) == 0:
-            state.messages.append(AIMessage(content="No hay datos para calcular el RUL. Primero use 'Update'."))
+            state.messages.append(AIMessage(content="No hay datos para calcular el RUL. Añada datos de configuracion y sensores del motor primero."))
             state.needs_followup = True
             state.next_agent = "PreRUL"
             return state

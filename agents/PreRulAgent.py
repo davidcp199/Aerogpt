@@ -15,8 +15,9 @@ PROMPT_PRE_RUL = ChatPromptTemplate.from_template(
 Eres un asistente experto en motores aeronáuticos y en CMAPSS.
 Analiza el último mensaje del usuario y decide la acción correcta.
 
-- "Update" → si el usuario menciona nuevos valores de sensores, configuraciones, unidad, ciclos, o motor (FD).
-- "Calculate" → solo si el usuario quiere calcular el RUL explícitamente y **no hay nuevos valores a registrar**.
+- "Update" → si el usuario menciona nuevos valores de sensores, configuraciones, unidad, ciclos, o motor (FD), aunque diga calcular, si menciona datos de este tipo devolver este valor.
+- "Calculate" → solo si el usuario quiere calcular el RUL explícitamente y **no hay nuevos valores a registrar, no menciona nuevos sensores ni configuraciones**.
+    Si de entrada tenemos Nueva medición registrada. (X filas acumuladas). ¿Quiere Calcular RUL ahora? y se responde de manera afirmativa, tambien es correcto devolver "Calculate".
 - "Status" → si quiere ver el historial de mediciones acumuladas, si quiere que le enseñe los datos del motor hasta ahora.
 - "Reset" → si quiere reiniciar los datos o indicar un nuevo motor.
 - "Exit" → si el usuario quiere finalizar la sesión.
