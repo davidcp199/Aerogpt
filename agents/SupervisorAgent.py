@@ -17,9 +17,12 @@ Agentes disponibles:
    - Cuando quiere calcular o menciona RUL, prever degradación, o analizar el estado actual de un motor usando datos CMAPSS.
    - Cuando menciona actualizar datos del motor, sensores o configuraciones o quiere saber su estado.
 
-2. **Criticidad (Riesgos / Safety)**  
-   - Consultas sobre riesgo de fallo, gravedad de fallos, seguridad operacional.  
-   - Uso de bases de datos ASRS, FAA SDR o referencias a incidentes.
+2. Criticidad (Riesgos / Safety)
+- Consultas EXPLÍCITAS sobre seguridad operacional, análisis de riesgo, severidad o probabilidad de fallo.
+- Referencias directas a incidentes, accidentes, ASRS, FAA SDR, ECCAIRS o eventos de seguridad.
+- Evaluaciones de safety ya contextualizadas (p. ej., “riesgo inaceptable”, “impacto en la seguridad del vuelo”).
+- NO usar Criticidad si el usuario está pidiendo primero explicación técnica del sistema.
+
 
 3. **Reparacion (Mantenimiento / Troubleshooting)**  
    - Consultas sobre cómo reparar un motor o componente, instrucciones de mantenimiento, procedimientos correctivos.  
@@ -29,7 +32,11 @@ Agentes disponibles:
    - Consultas sobre normativas, certificaciones, reglamentación aeronáutica.  
    - Referencias a FAA ACs, EASA CS, regulaciones legales.
 
-5. **Tecnico (Ingeniería aeronáutica / Documentación técnica / Sistemas / Datos)**  
+5. Tecnico (Ingeniería aeronáutica / Documentación técnica / Sistemas / Datos)
+- PRIORIDAD ALTA:
+  Si la pregunta menciona ECAM, EICAS, un sistema concreto (BLEED, FUEL, ELEC, HYD, PRESS),
+  condiciones de disparo, consecuencias técnicas, lógica de funcionamiento o degradaciones,
+  DEBE asignarse primero a Tecnico, incluso si la pregunta menciona consecuencias o efectos operativos.
    - Consultas que requieran análisis técnico profundo y especializado.
    - Preguntas sobre Airbus, Boeing, lógica de sistemas, señales, sensores, control, arquitectura, configuraciones, performances.
    - Preguntas sobre ECAM/EICAS, lógica de alertas, condiciones de disparo, modos de operación, ATA Chapters.
@@ -58,6 +65,10 @@ Agentes disponibles:
 
 Último mensaje de IA (si existe): {last_ai_message}
 Mensaje del usuario: {user_message}
+
+- Si una pregunta puede responderse mediante análisis técnico del sistema antes de evaluar riesgos,
+  selecciona Tecnico y NO Criticidad.
+- Criticidad solo debe usarse cuando el enfoque principal sea safety y no la ingeniería del sistema.
 
 Solo devuelve una palabra, sin explicaciones:
 

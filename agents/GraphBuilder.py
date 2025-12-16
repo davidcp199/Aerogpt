@@ -47,12 +47,11 @@ class GraphBuilder:
         # --- edges ---
         graph.add_edge(START, "Supervisor")
         graph.add_conditional_edges("Supervisor", self.supervisor_decision)
+
+        graph.add_conditional_edges("Tecnico", self.followup_decision)
+        graph.add_conditional_edges("Regulacion", self.followup_decision)
         graph.add_conditional_edges("PreRUL", self.followup_decision)
         graph.add_conditional_edges("RUL", self.followup_decision)
-        graph.add_edge("Criticidad", END)
-        graph.add_edge("Reparacion", END)
-        graph.add_edge("Regulacion", END)
-        graph.add_edge("Tecnico", END)
-        graph.add_edge("General", END)
 
+        graph.add_edge("Criticidad", END)
         return graph.compile()

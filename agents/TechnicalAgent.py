@@ -3,7 +3,7 @@ import logging
 from langchain_core.messages import AIMessage
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_community.vectorstores import FAISS
-from utils.llm_provider import llm_creative, paths_config
+from utils.llm_provider import llm_creative, llm_deterministic,  paths_config
 from langchain_openai import OpenAIEmbeddings
 
 logger = logging.getLogger(__name__)
@@ -32,6 +32,20 @@ RESPUESTA:
 """
 )
 
+DECIDE_CRITICALITY = ChatPromptTemplate.from_template(
+"""
+Clasifica el siguiente análisis técnico como:
+- CRITICO → si implica riesgo de seguridad o impacto operacional significativo
+- NO_CRITICO → si es solo informativo o técnico
+
+Análisis:
+{analysis}
+
+Responde SOLO con: CRITICO o NO_CRITICO
+"""
+)
+
+
 # ============================================================
 #                     ACCIÓN DEL AGENTE
 # ============================================================
@@ -45,6 +59,8 @@ def technical_action(state):
     """
 
     print(">>>TECNICO")
+    logger.info(">>> TECNICO")
+
 
     try:
         question = state.messages[-1].content
@@ -111,14 +127,18 @@ def technical_action(state):
         # 5) Lógica de encaminamiento
         # ----------------------------------------------------
         # Ejemplo: si detecta un posible impacto en seguridad → derivar a Criticidad
-        if "fallo crítico" in response_text.lower() or "impacto en la seguridad" in response_text.lower():
+        decision = (DECIDE_CRITICALITY | llm_deterministic).invoke(
+            {"analysis": response_text}
+        ).content.strip()
+        if decision == "CRITICO":
+            print(">>> Derivando a CRITICIDAD desde TÉCNICO")
             state.needs_followup = True
             state.next_agent = "Criticidad"
         else:
             state.needs_followup = False
             state.next_agent = None
-
         return state
+
 
     except Exception as e:
         logger.exception("Error interno en technical_action: %s", e)

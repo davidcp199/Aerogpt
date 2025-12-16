@@ -32,6 +32,21 @@ RESPUESTA:
 """
 )
 
+DECIDE_COMPLIANCE_IMPACT = ChatPromptTemplate.from_template(
+"""
+Clasifica el siguiente análisis normativo:
+
+- CRITICO → si existe incumplimiento normativo con impacto potencial en seguridad operacional
+- NO_CRITICO → si es solo informativo o interpretativo
+
+Análisis:
+{analysis}
+
+Responde SOLO con: CRITICO o NO_CRITICO
+"""
+)
+
+
 # ============================================================
 #                     ACCIÓN DEL AGENTE
 # ============================================================
@@ -45,6 +60,8 @@ def regulation_action(state):
     """
 
     print(">>>REGULACION")
+    logger.info(">>> REGULACION")
+
 
     try:
         question = state.messages[-1].content
@@ -59,7 +76,6 @@ def regulation_action(state):
         # ----------------------------------------------------
         # 1) Cargar vectorstore regulatorio
         # ----------------------------------------------------
-        # 1) Cargar vectorstore regulatorio
         try:
             vec_path = paths_config["paths"]["regulatory_vector_store"]
             embeddings = OpenAIEmbeddings()
@@ -111,14 +127,18 @@ def regulation_action(state):
         # 5) Lógica de encaminamiento
         # ----------------------------------------------------
         # Si menciona incumplimiento → enviar a Criticidad
-        if "no conforme" in response_text.lower() or "incumplimiento" in response_text.lower():
+        decision = (DECIDE_COMPLIANCE_IMPACT | llm_creative).invoke(
+            {"analysis": response_text}
+        ).content.strip()
+
+        if decision == "CRITICO":
             state.needs_followup = True
             state.next_agent = "Criticidad"
         else:
             state.needs_followup = False
             state.next_agent = None
-
         return state
+
 
     except Exception as e:
         logger.exception("Error interno en regulation_action: %s", e)
