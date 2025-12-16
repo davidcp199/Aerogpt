@@ -134,6 +134,7 @@ def technical_action(state):
             print(">>> Derivando a CRITICIDAD desde TÉCNICO")
             state.needs_followup = True
             state.next_agent = "Criticidad"
+            state.source = "Tecnico"
         else:
             state.needs_followup = False
             state.next_agent = None

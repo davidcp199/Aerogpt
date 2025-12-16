@@ -1,6 +1,6 @@
 from pydantic import BaseModel, field_validator
 import pandas as pd
-from typing import Optional, List
+from typing import Optional, List, Dict
 from langchain_core.messages import BaseMessage
 
 class AgentState(BaseModel):
@@ -14,6 +14,9 @@ class AgentState(BaseModel):
     decision: Optional[str] = None
     next_agent: Optional[str] = None
     needs_followup: bool = False
+    source: Optional[str] = None
+    conversation_summary: str = ""
+    last_agent_output: Dict[str, str] = {}
 
     @field_validator("pre_rul_data", mode="before")
     def convert_to_df(cls, v):

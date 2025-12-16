@@ -134,6 +134,7 @@ def regulation_action(state):
         if decision == "CRITICO":
             state.needs_followup = True
             state.next_agent = "Criticidad"
+            state.source = "Regulacion"
         else:
             state.needs_followup = False
             state.next_agent = None

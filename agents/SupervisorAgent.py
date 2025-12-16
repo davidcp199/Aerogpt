@@ -93,11 +93,10 @@ def supervisor_action(state):
     """
     # Si ya hay un agente definido por el flujo anterior, lo usamos
     if hasattr(state, "next_agent") and state.next_agent:
-        agent = state.next_agent
-        # Reset para que no vuelva a entrar en bucle
-        state.next_agent = None
-        return state
-        #return {"decision": agent, "state": state}
+      agent = state.next_agent
+      state.next_agent = None
+      return state
+
 
     # Si no hay next_agent, consultar LLM para decidir
     user_msg = state.messages[-1].content
@@ -117,11 +116,17 @@ def supervisor_action(state):
         agent = response.content.strip()
 
         # Validar que sea uno de los agentes conocidos
-        if agent not in ["PreRUL", "RUL", "Criticidad", "Reparacion", "Regulacion", "Tecnico", "General"]:
-            agent = "none"
+        VALID_AGENTS = ["PreRUL", "Criticidad", "Reparacion", "Regulacion", "Tecnico", "General"]
+
+        if agent not in VALID_AGENTS:
+         logger.warning("Agente inválido devuelto por supervisor: %s", agent)
+         agent = "General"
+         state.source = "supervisor"
+
 
         # Guardar el agente elegido en el state para que GraphBuilder lo use
         state.next_agent = agent
+        state.source = "supervisor"
 
     except Exception as e:
         logger.exception("Error en supervisor LLM: %s", e)
