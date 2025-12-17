@@ -19,6 +19,7 @@ class GraphBuilder:
         print(f">>> Decision interna del nodo: {state.decision}")
         print(f">>> Siguiente nodo: {state.next_agent or 'END'}")
         if state.decision in ["PreRUL", "RUL", "Criticidad", "Reparacion", "Regulacion", "Tecnico", "General"]:
+            state.next_agent = None
             return state.decision
         return END
 
@@ -28,7 +29,9 @@ class GraphBuilder:
         No sobrescribe el state.
         """
         if state.needs_followup and state.next_agent:
-            return state.next_agent
+            next_node = state.next_agent
+            state.next_agent = None
+            return next_node
         return END
 
     def build(self):

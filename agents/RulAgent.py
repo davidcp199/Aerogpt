@@ -42,6 +42,7 @@ def rul_action(state):
     - Genera explicaciones
     """
     print(">>>RUL")
+    state.source = "RUL"
 
     try:
         # 1. Comprobar que hay datos acumulados
@@ -86,6 +87,7 @@ def rul_action(state):
         }).content.strip()
 
         state.messages.append(AIMessage(content=text))
+        state.update_memory("RUL", text)
 
         # 7. Si el motor está crítico, ir al agente Criticidad
         if isinstance(predicted_RUL, (int, float)) and predicted_RUL < 20:

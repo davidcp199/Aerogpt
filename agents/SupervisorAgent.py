@@ -97,7 +97,7 @@ def supervisor_action(state):
       state.next_agent = None
       return state
 
-
+    state.source = "supervisor"
     # Si no hay next_agent, consultar LLM para decidir
     user_msg = state.messages[-1].content
     last_ai_msg = None
@@ -121,12 +121,10 @@ def supervisor_action(state):
         if agent not in VALID_AGENTS:
          logger.warning("Agente inválido devuelto por supervisor: %s", agent)
          agent = "General"
-         state.source = "supervisor"
 
 
         # Guardar el agente elegido en el state para que GraphBuilder lo use
         state.next_agent = agent
-        state.source = "supervisor"
 
     except Exception as e:
         logger.exception("Error en supervisor LLM: %s", e)

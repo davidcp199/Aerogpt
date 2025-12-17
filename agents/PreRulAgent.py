@@ -59,6 +59,7 @@ def pre_rul_action(state):
     - Calculate: va al cálculo de RUL si hay datos
     """
     print("<<<PRERUL")
+    state.source = "PreRUL"
     try:
         last_user_msg = state.messages[-1].content if state.messages else ""
 
@@ -80,7 +81,6 @@ def pre_rul_action(state):
          "last_ai_message": last_ai_msg or ""
         })
         action = response.content.strip()
-        state.messages.append(AIMessage(content=action))
 
         action_lower = action.lower()
         print("--------")
@@ -116,6 +116,7 @@ def pre_rul_action(state):
             state.modelo_seleccionado = parsed.get("modelo_seleccionado", state.modelo_seleccionado)
 
             state.messages.append(AIMessage(content=f"Nueva medición registrada. ({len(state.pre_rul_data)} filas acumuladas). ¿Quiere Calcular RUL ahora?"))
+            state.update_memory("PreRUL", f"Nueva medición registrada ({len(state.pre_rul_data)} filas)")
             state.needs_followup = False
             state.next_agent = "PreRUL"
             return state
@@ -165,6 +166,7 @@ def pre_rul_action(state):
                 state.pre_rul_data = pd.DataFrame()
                 state.modelo_seleccionado = "FD001"
                 state.messages.append(AIMessage(content="Datos reseteados a cero."))
+                state.update_memory("PreRUL", "Datos reseteados a cero")
             state.needs_followup = False
             state.next_agent = "PreRUL"
             return state
@@ -174,12 +176,14 @@ def pre_rul_action(state):
             chat_chain = PROMPT_CHAT | llm_deterministic
             chat_response = chat_chain.invoke({"user_message": last_user_msg})
             state.messages.append(AIMessage(content=chat_response.content))
+            state.update_memory("PreRUL", chat_response.content)
             state.needs_followup = False
             state.next_agent = "PreRUL"
             return state
 
         elif "exit" in action_lower:
             state.messages.append(AIMessage(content="Cerrando sesión."))
+            state.update_memory("PreRUL", "Cerrando sesión")
             state.needs_followup = False
             state.next_agent = None
             return state

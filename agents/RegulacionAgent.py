@@ -28,6 +28,9 @@ CONTEXTO NORMATIVO:
 PREGUNTA DEL USUARIO:
 {question}
 
+Contexto adicional de conversación:
+{conversation_summary}
+
 RESPUESTA:
 """
 )
@@ -61,6 +64,7 @@ def regulation_action(state):
 
     print(">>>REGULACION")
     logger.info(">>> REGULACION")
+    state.source = "Regulacion"
 
 
     try:
@@ -109,7 +113,8 @@ def regulation_action(state):
         try:
             response_text = chain.invoke({
                 "context": context,
-                "question": question
+                "question": question,
+                "conversation_summary": state.conversation_summary
             }).content.strip()
         except Exception as e:
             logger.exception("Error generando respuesta normativa: %s", e)
@@ -122,6 +127,7 @@ def regulation_action(state):
         # 4) Añadir respuesta al estado
         # ----------------------------------------------------
         state.messages.append(AIMessage(content=response_text))
+        state.update_memory("Regulacion", response_text)
 
         # ----------------------------------------------------
         # 5) Lógica de encaminamiento
@@ -131,10 +137,11 @@ def regulation_action(state):
             {"analysis": response_text}
         ).content.strip()
 
-        if decision == "CRITICO":
+        decision = decision.strip().upper()
+
+        if "CRITICO" in decision:
             state.needs_followup = True
             state.next_agent = "Criticidad"
-            state.source = "Regulacion"
         else:
             state.needs_followup = False
             state.next_agent = None

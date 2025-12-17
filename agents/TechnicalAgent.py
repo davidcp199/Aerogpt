@@ -28,6 +28,9 @@ CONTEXTO TÉCNICO:
 PREGUNTA DEL USUARIO:
 {question}
 
+Contexto adicional de conversación:
+{conversation_summary}
+
 RESPUESTA:
 """
 )
@@ -60,6 +63,7 @@ def technical_action(state):
 
     print(">>>TECNICO")
     logger.info(">>> TECNICO")
+    state.source = "Tecnico"
 
 
     try:
@@ -108,7 +112,8 @@ def technical_action(state):
         try:
             response_text = chain.invoke({
                 "context": context,
-                "question": question
+                "question": question,
+                "conversation_summary": state.conversation_summary
             }).content.strip()
 
         except Exception as e:
@@ -122,6 +127,7 @@ def technical_action(state):
         # 4) Añadir respuesta al estado
         # ----------------------------------------------------
         state.messages.append(AIMessage(content=response_text))
+        state.update_memory("Tecnico", response_text)
 
         # ----------------------------------------------------
         # 5) Lógica de encaminamiento
@@ -130,11 +136,12 @@ def technical_action(state):
         decision = (DECIDE_CRITICALITY | llm_deterministic).invoke(
             {"analysis": response_text}
         ).content.strip()
-        if decision == "CRITICO":
+        decision = decision.strip().upper()
+
+        if "CRITICO" in decision:
             print(">>> Derivando a CRITICIDAD desde TÉCNICO")
             state.needs_followup = True
             state.next_agent = "Criticidad"
-            state.source = "Tecnico"
         else:
             state.needs_followup = False
             state.next_agent = None

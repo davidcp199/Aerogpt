@@ -1,7 +1,8 @@
-from pydantic import BaseModel, field_validator
+from pydantic import BaseModel, field_validator, Field
 import pandas as pd
 from typing import Optional, List, Dict
 from langchain_core.messages import BaseMessage
+
 
 class AgentState(BaseModel):
     model_config = {
@@ -16,10 +17,26 @@ class AgentState(BaseModel):
     needs_followup: bool = False
     source: Optional[str] = None
     conversation_summary: str = ""
-    last_agent_output: Dict[str, str] = {}
+    last_agent_output: Dict[str, str] = Field(default_factory=dict)
 
     @field_validator("pre_rul_data", mode="before")
     def convert_to_df(cls, v):
         if isinstance(v, dict):
             return pd.DataFrame([v])  # lo convierte automáticamente
         return v
+    
+    def update_memory(self, agent_name: str, output: str):
+        """
+        Actualiza la memoria del estado después de que un agente responde.
+        """
+        # Guardar salida del agente
+        self.last_agent_output[agent_name] = output
+
+        # Actualizar resumen de conversación (acumulativo)
+        self.conversation_summary += f"\n{agent_name}: {output}"
+
+        # Limitar tamaño de resumen si es muy largo
+        max_len = 3000  # caracteres, ajustable
+        if len(self.conversation_summary) > max_len:
+            self.conversation_summary = self.conversation_summary[-max_len:]
+
