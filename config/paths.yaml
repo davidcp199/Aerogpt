@@ -1,6 +1,6 @@
 paths:
   # --- Base del proyecto ---
-  base: "."                     # C:\Users\David\Documents\AeroGPT
+  base: "."
 
   # --- Directorios generales ---
   data_directory: "data"

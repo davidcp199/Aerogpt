@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import os
 import joblib
 import glob
@@ -16,7 +15,7 @@ def nasa_score(y_true, y_pred):
     return np.sum(score)
 
 def calibrate_from_csvs(model_dir=CSV_DIR):
-    # Buscar CSVs *_predictions.csv en model_dir
+    # Buscar CSVs *_predictions.csv
     pattern = os.path.join(model_dir, "*_predictions.csv")
     files = glob.glob(pattern)
     if not files:

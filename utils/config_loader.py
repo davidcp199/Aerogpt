@@ -33,7 +33,6 @@ def load_all_configs(repo_root: str = None):
     paths_cfg = load_yaml(config_dir / "paths.yaml")
     settings_cfg = load_yaml(config_dir / "settings.yaml")
 
-    # Rutas absolutas
     base_path = (repo_root / paths_cfg["paths"].get("base", ".")).resolve()
     paths_cfg["paths"]["base"] = base_path
 

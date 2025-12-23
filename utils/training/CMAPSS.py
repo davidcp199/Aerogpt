@@ -11,10 +11,7 @@ import torch
 from torch import nn
 from torch.autograd import Variable
 
-# ---------------------------
-# 0. Configuración de rutas
-# ---------------------------
-#BASE_PATH = "/content/drive/MyDrive/CMAPSS_GRU/"
+
 BASE_PATH = r"C:\Users\David\Documents\Master-Big-Data-Data-Sciencee-e-Inteligencia-Artificial\TFM\AeroGPT\data\CMAPSS"
 RAW_PATH = os.path.join(BASE_PATH, "raw_5")
 MODEL_PATH = os.path.join(BASE_PATH, "models_5")
@@ -26,9 +23,7 @@ os.makedirs(FIG_PATH, exist_ok=True)
 FD_LIST = ["FD001", "FD002", "FD003", "FD004"]
 WINDOW_SIZE = 30
 
-# ---------------------------
 # 1. Funciones
-# ---------------------------
 def load_fd_dataset(fd):
     col_names = ['unit_nr','time_cycles','setting_1','setting_2','setting_3'] + [f's_{i}' for i in range(1,22)]
     train_file = os.path.join(RAW_PATH, f"train_{fd}.txt")
@@ -87,9 +82,7 @@ def create_last_window_test(test_df, rul_df, feature_cols, window_size=30):
         y_test.append(rul_df.iloc[i,0])
     return np.array(X_test), np.array(y_test)
 
-# ---------------------------
-# 2. Modelo GRU Mejorado
-# ---------------------------
+# 2. Modelo GRU
 class GRUModel(nn.Module):
     def __init__(self, input_dim, hidden_dim1=256, hidden_dim2=128, dropout=0.3):
         super(GRUModel, self).__init__()
@@ -105,9 +98,7 @@ class GRUModel(nn.Module):
         out = self.linear(out)
         return out
 
-# ---------------------------
 # 3. Entrenamiento
-# ---------------------------
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 FEATURE_COLS = ['setting_1','setting_2','setting_3'] + [f's_{i}' for i in range(1,22)]
 
@@ -150,7 +141,6 @@ for fd in FD_LIST:
     train_losses, val_losses = [], []
 
     for epoch in range(n_epochs):
-        # Training
         model.train()
         perm = torch.randperm(X_train_tensor.size(0))
         epoch_loss = 0
@@ -178,10 +168,8 @@ for fd in FD_LIST:
             val_mae = mean_absolute_error(y_val_tensor.cpu(), val_pred.cpu())
             val_rmse = np.sqrt(val_loss)
 
-        # Scheduler
         scheduler.step(val_loss)
 
-        # Print cada 10 epochs
         if (epoch+1) % 10 == 0 or epoch == 0:
             print(f"Epoch {epoch+1}/{n_epochs} -> Train Loss: {epoch_loss:.4f}, Val Loss: {val_loss:.4f}, MAE: {val_mae:.4f}, RMSE: {val_rmse:.4f}")
 
@@ -199,9 +187,7 @@ for fd in FD_LIST:
     # Guardar scaler
     joblib.dump(scaler, os.path.join(MODEL_PATH, f'scaler_{fd}.pkl'))
 
-    # ---------------------------
-    # 4. Test: última ventana
-    # ---------------------------
+    # 4. Test
     X_test, y_test = create_last_window_test(test_df, rul_df, FEATURE_COLS, WINDOW_SIZE)
     X_test_tensor = torch.tensor(X_test, dtype=torch.float32).to(device)
     y_test_tensor = torch.tensor(y_test, dtype=torch.float32).view(-1,1).to(device)
@@ -216,9 +202,7 @@ for fd in FD_LIST:
     rmse = np.sqrt(mse)
     print(f"{fd} -> Test MSE={mse:.2f}, MAE={mae:.2f}, RMSE={rmse:.2f}")
 
-    # ---------------------------
     # 5. Gráficas
-    # ---------------------------
     # Train/Val loss
     plt.figure(figsize=(10,5))
     plt.plot(train_losses, label='Train Loss')

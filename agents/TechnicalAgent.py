@@ -1,4 +1,3 @@
-# agents/technical_agent.py
 import logging
 from langchain_core.messages import AIMessage
 from langchain_core.prompts import ChatPromptTemplate
@@ -8,9 +7,7 @@ from langchain_openai import OpenAIEmbeddings
 
 logger = logging.getLogger(__name__)
 
-# ============================================================
-#                     PROMPT DEL AGENTE
-# ============================================================
+
 PROMPT_TECNICO = ChatPromptTemplate.from_template(
     """
 Eres un asistente experto en ingeniería y mantenimiento aeronáutico.
@@ -49,9 +46,6 @@ Responde SOLO con: CRITICO o NO_CRITICO
 )
 
 
-# ============================================================
-#                     ACCIÓN DEL AGENTE
-# ============================================================
 def technical_action(state):
     """
     Agente técnico aeronáutico:
@@ -76,9 +70,7 @@ def technical_action(state):
             state.next_agent = None
             return state
 
-        # ----------------------------------------------------
-        # 1) Cargar vectorstore técnico
-        # ----------------------------------------------------
+        # Cargar vectorstore técnico
         try:
             vec_path = paths_config["paths"]["technical_vector_store"]
             embeddings = OpenAIEmbeddings()
@@ -91,9 +83,7 @@ def technical_action(state):
             state.next_agent = None
             return state
 
-        # ----------------------------------------------------
-        # 2) Recuperar contexto (chunks)
-        # ----------------------------------------------------
+        # Chunks
         try:
             retrieved_docs = store.similarity_search(question, k=5)
             context = "\n\n---\n\n".join([d.page_content for d in retrieved_docs])
@@ -104,9 +94,7 @@ def technical_action(state):
             state.next_agent = None
             return state
 
-        # ----------------------------------------------------
-        # 3) Ejecutar LLM con el prompt técnico
-        # ----------------------------------------------------
+
         chain = PROMPT_TECNICO | llm_creative
 
         try:
@@ -123,16 +111,10 @@ def technical_action(state):
             state.next_agent = None
             return state
 
-        # ----------------------------------------------------
-        # 4) Añadir respuesta al estado
-        # ----------------------------------------------------
         state.messages.append(AIMessage(content=response_text))
         state.update_memory("Tecnico", response_text)
 
-        # ----------------------------------------------------
-        # 5) Lógica de encaminamiento
-        # ----------------------------------------------------
-        # Ejemplo: si detecta un posible impacto en seguridad → derivar a Criticidad
+        # Decide si se envia a agente Criticidad
         decision = (DECIDE_CRITICALITY | llm_deterministic).invoke(
             {"analysis": response_text}
         ).content.strip()

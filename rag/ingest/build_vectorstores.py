@@ -1,7 +1,4 @@
-# build_vectorstores.py
-# =========================
 # Crea vectorstore FAISS para RAG a partir de chunks
-# =========================
 
 import pickle
 import os
@@ -24,7 +21,6 @@ def create_vectorstore(*pickle_files, vectorstore_path):
     print(f"[OK] Vectorstore creado en {vectorstore_path}, documentos: {len(all_docs)}")
 
 if __name__ == "__main__":
-    # Ejemplo de uso (modificar rutas según tus ficheros)
     create_vectorstore(
         "C:/Users/David/Documents/AeroGPT/data/metadata/faa_ac_chunks.pkl",
         "C:/Users/David/Documents/AeroGPT/data/metadata/easa_cs_chunks.pkl",

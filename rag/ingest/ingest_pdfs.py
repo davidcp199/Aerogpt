@@ -1,7 +1,4 @@
-# ingest_pdfs.py
-# =========================
 # Funciones para procesar PDFs y guardarlos como .txt
-# =========================
 
 import os
 from extract_text import extract_text_from_pdf

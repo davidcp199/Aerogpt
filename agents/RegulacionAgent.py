@@ -1,4 +1,3 @@
-# agents/regulation_agent.py
 import logging
 from langchain_core.messages import AIMessage
 from langchain_core.prompts import ChatPromptTemplate
@@ -8,9 +7,6 @@ from langchain_openai import OpenAIEmbeddings
 
 logger = logging.getLogger(__name__)
 
-# ============================================================
-#                     PROMPT DEL AGENTE
-# ============================================================
 PROMPT_REGULACION = ChatPromptTemplate.from_template(
     """
 Eres un asistente experto en regulación aeronáutica (FAA & EASA).
@@ -49,10 +45,6 @@ Responde SOLO con: CRITICO o NO_CRITICO
 """
 )
 
-
-# ============================================================
-#                     ACCIÓN DEL AGENTE
-# ============================================================
 def regulation_action(state):
     """
     Agente de regulación FAA/EASA:
@@ -77,9 +69,7 @@ def regulation_action(state):
             state.next_agent = None
             return state
 
-        # ----------------------------------------------------
-        # 1) Cargar vectorstore regulatorio
-        # ----------------------------------------------------
+        # Cargar vectorstore regulatorio
         try:
             vec_path = paths_config["paths"]["regulatory_vector_store"]
             embeddings = OpenAIEmbeddings()
@@ -92,9 +82,7 @@ def regulation_action(state):
             state.next_agent = None
             return state
 
-        # ----------------------------------------------------
-        # 2) Recuperar contexto (chunks)
-        # ----------------------------------------------------
+        # Chunks
         try:
             retrieved_docs = store.similarity_search(question, k=5)
             context = "\n\n---\n\n".join([d.page_content for d in retrieved_docs])
@@ -105,9 +93,6 @@ def regulation_action(state):
             state.next_agent = None
             return state
 
-        # ----------------------------------------------------
-        # 3) Ejecutar LLM con el prompt oficial
-        # ----------------------------------------------------
         chain = PROMPT_REGULACION | llm_creative
 
         try:
@@ -123,16 +108,12 @@ def regulation_action(state):
             state.next_agent = None
             return state
 
-        # ----------------------------------------------------
-        # 4) Añadir respuesta al estado
-        # ----------------------------------------------------
+
         state.messages.append(AIMessage(content=response_text))
         state.update_memory("Regulacion", response_text)
 
-        # ----------------------------------------------------
-        # 5) Lógica de encaminamiento
-        # ----------------------------------------------------
-        # Si menciona incumplimiento → enviar a Criticidad
+
+        # Decidir si es crítico o no
         decision = (DECIDE_COMPLIANCE_IMPACT | llm_creative).invoke(
             {"analysis": response_text}
         ).content.strip()

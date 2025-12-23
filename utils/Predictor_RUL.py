@@ -71,7 +71,7 @@ def load_calibrator(fd_code="FD001"):
         return None, None
 
 
-# 4. SI EL USUARIO SOLO DA 1 CICLO SE GENERAR HISTORIA SINTÉTICA
+# 4. EXPANSIÓN DE HISTORIAL HASTA 30 FILAS
 
 def generate_synthetic_history(row, length=30):
     """
@@ -84,7 +84,7 @@ def generate_synthetic_history(row, length=30):
         noise = np.random.normal(0, 0.015, size=len(base))
 
         # Suavizado progresivo
-        factor = 1 - (i / (length * 50))  # degradación muy ligera
+        factor = 1 - (i / (length * 50))
         synthetic = base * factor + noise
 
         seq.append(synthetic)
@@ -101,19 +101,19 @@ def expand_history_to_30(df):
     """
     n = len(df)
 
-    # Caso 1: solo 1 fila → generar 30 sintéticas basadas en ella
+    # Caso 1: solo 1 fila
     if n == 1:
         return generate_synthetic_history(df.iloc[0], length=WINDOW_SIZE)
 
-    # Caso 2: entre 2 y 29 → completar con sintéticas
+    # Caso 2: entre 2 y 29
     if n < WINDOW_SIZE:
         needed = WINDOW_SIZE - n
         last_row = df.iloc[-1]
         synthetic = generate_synthetic_history(last_row, length=needed)
         return pd.concat([df, synthetic], ignore_index=True)
 
-    # Caso 3: 30 o más → tomar las últimas 30
-    return df.tail(WINDOW_SIZE).reset_index(drop=True)
+    # Caso 3: 30 o más devolver todas las filas
+    return df
 
 
 # 5. PREPROCESAMIENTO DEL INPUT

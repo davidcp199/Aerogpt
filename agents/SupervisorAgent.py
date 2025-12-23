@@ -91,14 +91,14 @@ def supervisor_action(state):
     Decide qué agente ejecutar según el mensaje del usuario.
     Devuelve siempre un dict con 'messages' y 'state'.
     """
-    # Si ya hay un agente definido por el flujo anterior, lo usamos
+    # Si ya hay un agente definido por el flujo anterior
     if hasattr(state, "next_agent") and state.next_agent:
       agent = state.next_agent
       state.next_agent = None
       return state
 
     state.source = "supervisor"
-    # Si no hay next_agent, consultar LLM para decidir
+    # Si no hay next_agent
     user_msg = state.messages[-1].content
     last_ai_msg = None
     for m in reversed(state.messages):
@@ -115,15 +115,12 @@ def supervisor_action(state):
 
         agent = response.content.strip()
 
-        # Validar que sea uno de los agentes conocidos
         VALID_AGENTS = ["PreRUL", "Criticidad", "Reparacion", "Regulacion", "Tecnico", "General"]
 
         if agent not in VALID_AGENTS:
          logger.warning("Agente inválido devuelto por supervisor: %s", agent)
          agent = "General"
 
-
-        # Guardar el agente elegido en el state para que GraphBuilder lo use
         state.next_agent = agent
 
     except Exception as e:
@@ -131,5 +128,5 @@ def supervisor_action(state):
         state.next_agent = "none"
         agent = "none"
    
-    state.decision = agent  # guarda la decisión interna
+    state.decision = agent
     return state

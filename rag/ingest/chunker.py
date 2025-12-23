@@ -1,7 +1,4 @@
-# chunker.py
-# =========================
 # Divide texto en chunks y los guarda en pickle
-# =========================
 
 import os
 import pickle

@@ -1,4 +1,3 @@
-# tools/tool_output_to_df.py
 import json
 import logging
 import pandas as pd
@@ -12,12 +11,12 @@ def tool_output_to_df(tool_output):
     Devuelve un pd.DataFrame con una sola fila.
     Lanza excepciones en caso de formato inválido.
     """
-    # Aceptamos dict o string JSON
+    # dict o string JSON
     if isinstance(tool_output, str):
         try:
             parsed = json.loads(tool_output)
         except Exception as e:
-            # Intentar limpiar triples backticks
+            # Intentar limpiar triples `
             s = tool_output.replace("```json", "").replace("```", "").strip()
             parsed = json.loads(s)
 
@@ -41,19 +40,17 @@ def tool_output_to_df(tool_output):
     settings = settings[:3]
 
     sensors = parsed.get("mediciones_sensores", {}) or {}
-    # Normalizar sensores 1..21
+    # Normalizar sensores
     sensor_dict = {}
     for i in range(1, 22):
         key = f"s_{i}"
         val = sensors.get(key, 0)
         # Intentar convertir a float/int
         try:
-            # podría venir "12" o 12.0
             if val is None or val == "":
                 numeric = 0
             else:
                 numeric = float(val)
-                # si es entero en origen, mantener int no es necesario pero convertimos a float para estabilidad
         except Exception:
             logger.debug("No numeric sensor value for %s: %r, defaulting to 0", key, val)
             numeric = 0.0
@@ -64,7 +61,6 @@ def tool_output_to_df(tool_output):
         "setting_2": [float(settings[1])],
         "setting_3": [float(settings[2])],
     }
-    # Añadir sensores
     for k, v in sensor_dict.items():
         flat[k] = [v]
 

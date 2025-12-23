@@ -1,7 +1,4 @@
-# extract_text.py
-# =========================
-# Extrae texto de PDFs usando pdfplumber
-# =========================
+# Extrae texto de PDFs
 
 import pdfplumber
 

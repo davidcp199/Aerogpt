@@ -1,4 +1,3 @@
-# agents/rul_agent.py
 import json
 import logging
 from langchain_core.messages import AIMessage
@@ -45,21 +44,18 @@ def rul_action(state):
     state.source = "RUL"
 
     try:
-        # 1. Comprobar que hay datos acumulados
+        # Comprobar que hay datos acumulados
         if state.pre_rul_data is None or len(state.pre_rul_data) == 0:
             state.messages.append(AIMessage(content="No hay datos para calcular el RUL. Añada datos de configuracion y sensores del motor primero."))
             state.needs_followup = True
             state.next_agent = "PreRUL"
             return state
 
-        # 2. El dataframe ya está preparado por PreRUL
         df_user = state.pre_rul_data
 
-        # 3. Obtener ruta y FD actual
         base_path = paths_config["paths"]["data_directory"]
         fd = state.modelo_seleccionado or "FD001"
 
-        # 4. Ejecutar predictor
         try:
             pred = predict_RUL(df_user, base_path, fd=fd)
         except Exception as e:
@@ -76,10 +72,7 @@ def rul_action(state):
             state.next_agent = "PreRUL"
             return state
 
-        # 5. Tomar LA ÚLTIMA FILA (ciclo más reciente)
         sensor_values = df_user.iloc[-1].to_dict()
-
-        # 6. Generar explicación final
         chain = PROMPT_RUL_RESPONSE | llm_creative
         text = chain.invoke({
             "predicted_RUL": predicted_RUL,
@@ -89,7 +82,7 @@ def rul_action(state):
         state.messages.append(AIMessage(content=text))
         state.update_memory("RUL", text)
 
-        # 7. Si el motor está crítico, ir al agente Criticidad
+        # Si el motor está crítico, ir a agente Criticidad
         if isinstance(predicted_RUL, (int, float)) and predicted_RUL < 20:
             state.needs_followup = True
             state.next_agent = "Criticidad"

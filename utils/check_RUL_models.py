@@ -1,4 +1,3 @@
-# diagnose_recalibrate_lines.py
 import os
 import warnings
 import numpy as np
@@ -9,9 +8,6 @@ from sklearn.metrics import mean_absolute_error
 import torch
 import torch.nn as nn
 
-# ---------------------------
-# RUTAS
-# ---------------------------
 BASE_PATH = r"C:\Users\U68976\Documents\Mis documentos\GYM\TFM\AAA"
 RAW_PATH = r"C:\Users\David\Documents\AeroGPT\data\raw\CMAPSS"
 MODEL_PATH = r"C:\Users\David\Documents\AeroGPT\models\cmapss"
@@ -23,9 +19,7 @@ FD_LIST = ["FD001","FD002","FD003","FD004"]
 FEATURE_COLS = ['setting_1','setting_2','setting_3'] + [f's_{i}' for i in range(1,22)]
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-# ---------------------------
 # CARGAR MODELOS Y CONFS
-# ---------------------------
 def load_fd_dataset(fd):
     col_names = ['unit_nr','time_cycles','setting_1','setting_2','setting_3'] + [f's_{i}' for i in range(1,22)]
     train_file = os.path.join(RAW_PATH, f"train_{fd}.txt")
@@ -89,9 +83,7 @@ def nasa_score(y_true, y_pred):
     score = np.where(e < 0, np.exp(-e/13.0)-1.0, np.exp(e/10.0)-1.0)
     return np.sum(score)
 
-# ---------------------------
 # PLOT RUL
-# ---------------------------
 def plot_rul_lines(fd, y_true, y_pred, figpath, suffix=""):
     os.makedirs(figpath, exist_ok=True)
     idx = np.arange(len(y_true))
@@ -107,9 +99,7 @@ def plot_rul_lines(fd, y_true, y_pred, figpath, suffix=""):
     plt.savefig(os.path.join(figpath, f'{fd}_rul_lines{suffix}.png'), bbox_inches='tight')
     plt.close()
 
-# ---------------------------
 # MAIN LOOP: generar diagnósticos
-# ---------------------------
 results = []
 all_true = []
 all_pred = []
@@ -167,7 +157,7 @@ for fd in FD_LIST:
     # gráficas antes de calibrar
     plot_rul_lines(fd, y_true, y_pred, FIG_PATH, suffix="_before")
 
-    # recalibración lineal simple
+    # calibrador
     from sklearn.linear_model import LinearRegression
     lr = LinearRegression()
     lr.fit(y_pred.reshape(-1,1), y_true)

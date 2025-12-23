@@ -1,4 +1,3 @@
-# agents/pre_rul.py
 import json
 import logging
 import pandas as pd
@@ -9,7 +8,7 @@ from utils.tool_registry import ToolRegistry
 
 logger = logging.getLogger(__name__)
 
-# --- Prompt principal para decidir acción ---
+# --- Prompt para decidir acción ---
 PROMPT_PRE_RUL = ChatPromptTemplate.from_template(
     """
 Eres un asistente experto en motores aeronáuticos y en CMAPSS.
@@ -33,7 +32,7 @@ Responde SOLO con una de las siguientes palabras EXACTAS (sin explicaciones ni t
 """
 )
 
-# --- Prompt para chat experto ---
+# --- Prompt para chat ---
 PROMPT_CHAT = ChatPromptTemplate.from_template(
     """
 Eres un asistente experto en motores aeronáuticos y en el dataset CMAPSS para predicción de RUL.
@@ -48,8 +47,6 @@ Mensaje del usuario:
 {user_message}
 """
 )
-
-# --- Función principal ---
 
 def pre_rul_action(state):
     """
@@ -74,7 +71,7 @@ def pre_rul_action(state):
                 last_ai_msg = m.content
                 break
 
-        # Preguntar al LLM qué acción tomar
+        # LLM Accion
         chain = PROMPT_PRE_RUL | llm_deterministic
         response = chain.invoke({
          "user_message": last_user_msg,
@@ -87,7 +84,6 @@ def pre_rul_action(state):
         print(action_lower)
 
         if "update" in action_lower:
-            # Llamar a la tool solo con el mensaje del usuario
             tool_response = ToolRegistry.invoke("extract_cmapss", message=last_user_msg)
             parsed = json.loads(tool_response)
 
@@ -96,7 +92,7 @@ def pre_rul_action(state):
                 state.needs_followup = False
                 return state
 
-            # Crear fila con valores extraídos
+            # Crear fila con valores
             fila = {
                 "unidad": parsed.get("unidad", 0),
                 "tiempo_ciclos": parsed.get("tiempo_ciclos", 0),
@@ -105,7 +101,6 @@ def pre_rul_action(state):
                 "setting_3": parsed.get("configuraciones_operativas", [0,0,0])[2],
             }
 
-            # Sensores
             for i in range(1, 22):
                 fila[f"s_{i}"] = parsed.get("mediciones_sensores", {}).get(f"s_{i}", 0)
 
@@ -135,7 +130,6 @@ def pre_rul_action(state):
             if state.pre_rul_data is None or state.pre_rul_data.empty:
                 state.messages.append(AIMessage(content="No hay datos registrados todavía."))
             else:
-                # Convertir a string con encabezado completo
                 df_str = state.pre_rul_data.to_string(index=False)
                 state.messages.append(AIMessage(content=f"Estado actual de mediciones:\n{df_str}"))
             state.needs_followup = False
@@ -145,7 +139,6 @@ def pre_rul_action(state):
         elif "reset" in action_lower:
             # Extraer info nueva si hay
             if "nuevo motor" in last_user_msg.lower() or "nuevo" in last_user_msg.lower() or "update" in last_user_msg.lower():
-                # Si hay datos nuevos, crear solo la nueva fila
                 tool_response = ToolRegistry.invoke("extract_cmapss", message=last_user_msg)
                 parsed = json.loads(tool_response)
                 fila = {
@@ -162,7 +155,7 @@ def pre_rul_action(state):
                 state.modelo_seleccionado = parsed.get("modelo_seleccionado", "FD001")
                 state.messages.append(AIMessage(content="Datos reseteados y nueva medición registrada."))
             else:
-                # Solo reset explícito: DataFrame vacío
+                # solo reset
                 state.pre_rul_data = pd.DataFrame()
                 state.modelo_seleccionado = "FD001"
                 state.messages.append(AIMessage(content="Datos reseteados a cero."))
@@ -172,7 +165,6 @@ def pre_rul_action(state):
             return state
 
         elif "chat" in action_lower:
-            # Usar PROMPT_CHAT
             chat_chain = PROMPT_CHAT | llm_deterministic
             chat_response = chat_chain.invoke({"user_message": last_user_msg})
             state.messages.append(AIMessage(content=chat_response.content))

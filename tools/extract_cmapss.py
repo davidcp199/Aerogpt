@@ -1,4 +1,3 @@
-# tools/extract_cmapss.py
 import json
 import logging
 from langchain_core.prompts import ChatPromptTemplate
@@ -9,7 +8,6 @@ from utils.tool_registry import ToolRegistry
 
 logger = logging.getLogger(__name__)
 
-# Prompt simplificado: solo extraer lo que dice el usuario
 PROMPT_EXTRACT_CMAPSS = ChatPromptTemplate.from_template(
     """
 Eres un asistente especializado en extraer datos estructurados para alimentar un modelo de predicción RUL basado en CMAPSS.
@@ -50,7 +48,6 @@ def extract_cmapss_tool(message: str) -> str:
     Tool pura: recibe solo el mensaje del usuario y devuelve JSON string con los valores mencionados.
     """
     try:
-        # Ejecutar LLM
         chain = PROMPT_EXTRACT_CMAPSS | llm_deterministic
         response = chain.invoke({"message": message})
 
@@ -58,7 +55,7 @@ def extract_cmapss_tool(message: str) -> str:
         # Limpiar posibles ```json
         cleaned = raw.replace("```json", "").replace("```", "").strip()
 
-        # Intentar parsear JSON
+        # Parsear JSON
         try:
             parsed = json.loads(cleaned)
         except Exception:

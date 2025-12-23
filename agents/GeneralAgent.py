@@ -32,7 +32,6 @@ def general_action(state):
     Retorna dict con 'messages' y 'state'.
     """
     try:
-        # Construir historial completo
         conversation_history = "\n".join([
             f"Humano: {m.content}" if isinstance(m, HumanMessage) else f"IA: {m.content}"
             for m in state.messages
@@ -40,7 +39,6 @@ def general_action(state):
 
         user_msg = state.messages[-1].content
 
-        # Llamada al LLM
         chain = PROMPT_GENERAL | llm_creative
         response = chain.invoke({
             "conversation_history": conversation_history,
@@ -48,11 +46,7 @@ def general_action(state):
         })
 
         content = response.content.strip()
-
-        # Añadir la respuesta al historial
         state.messages.append(AIMessage(content=content))
-
-        # Solo devuelve el historial actualizado
         return state
 
     except Exception as e:

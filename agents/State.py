@@ -32,11 +32,11 @@ class AgentState(BaseModel):
         # Guardar salida del agente
         self.last_agent_output[agent_name] = output
 
-        # Actualizar resumen de conversación (acumulativo)
+        # Actualizar resumen de conversación
         self.conversation_summary += f"\n{agent_name}: {output}"
 
-        # Limitar tamaño de resumen si es muy largo
-        max_len = 3000  # caracteres, ajustable
+        # Limitar tamaño
+        max_len = 3000
         if len(self.conversation_summary) > max_len:
             self.conversation_summary = self.conversation_summary[-max_len:]
 
