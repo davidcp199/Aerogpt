@@ -31,7 +31,7 @@ FEATURE_COLS = ['setting_1','setting_2','setting_3'] + [f's_{i}' for i in range(
 WINDOW_SIZE = 30
 
 
-# 3. CARGA DE MODELO y SCALER
+# 3. CARGA DE MODELO, SCALER y CALIBRACIÓN
 
 def load_model(base_path, fd_code="FD001"):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -53,6 +53,22 @@ def load_model(base_path, fd_code="FD001"):
     scaler = joblib.load(scaler_path)
 
     return model, scaler, device
+
+def load_calibrator(fd_code="FD001"):
+    """
+    Carga calibrador específico por FD si existe.
+    Si no, intenta cargar calibrador global.
+    Si no hay ninguno, devuelve None.
+    """
+    calib_fd_path = os.path.join(MODEL_DIR, f"calib_{fd_code}.pkl")
+    calib_global_path = os.path.join(MODEL_DIR, "calib_global.pkl")
+
+    if os.path.exists(calib_fd_path):
+        return joblib.load(calib_fd_path), "fd"
+    elif os.path.exists(calib_global_path):
+        return joblib.load(calib_global_path), "global"
+    else:
+        return None, None
 
 
 # 4. SI EL USUARIO SOLO DA 1 CICLO SE GENERAR HISTORIA SINTÉTICA
@@ -132,12 +148,12 @@ def make_window(df, window_size=30):
 
 
 
-# 7. PREDICCIÓN FINAL DE RUL
+# 7. PREDICCIÓN FINAL DE RUL 
 
 def predict_RUL(user_df, base_path, fd="FD001"):
     model, scaler, device = load_model(base_path, fd)
 
-    # Expandir la historia (nuevo comportamiento)
+    # Expandir la historia
     user_df = expand_history_to_30(user_df)
 
     df_clean = preprocess_user_data(user_df, scaler)
@@ -145,11 +161,28 @@ def predict_RUL(user_df, base_path, fd="FD001"):
     X = make_window(df_clean, WINDOW_SIZE)
     X_tensor = torch.tensor(X, dtype=torch.float32).to(device)
 
+    # Predicción base
     with torch.no_grad():
-        y_pred = model(X_tensor).cpu().numpy().flatten()[0]
+        y_pred_raw = model(X_tensor).cpu().numpy().flatten()[0]
 
-    y_pred = max(0, float(y_pred))
+    y_pred_raw = float(y_pred_raw)
+
+    # --- CALIBRACIÓN ---
+    calibrator, calib_type = load_calibrator(fd)
+
+    if calibrator is not None:
+        y_pred_cal = calibrator.predict(
+            np.array([[y_pred_raw]])
+        )[0]
+    else:
+        y_pred_cal = y_pred_raw
+
+    # Seguridad: RUL no negativo
+    y_pred_cal = max(0.0, float(y_pred_cal))
 
     return {
-        "predicted_RUL": y_pred
+        "predicted_RUL": y_pred_cal,
+        "predicted_RUL_raw": y_pred_raw,
+        "calibration": calib_type
     }
+
