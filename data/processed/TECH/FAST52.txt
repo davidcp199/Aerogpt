@@ -1,0 +1,1239 @@
+Airbus technical magazine
+August 2013
+#52
+FAST
+Flight Airworthiness Support Technology
+25#TSAF
+20
+25#TSAF
+30
+Airbus technical magazine
+Your Airbus technical magazine is now on tablet*
+#52
+FAST
+Flight Airworthiness Support Technology
+Publisher: Bruno PIQUET A clean APU
+Editor: Lucas BLUMENFELD means clean cabin air 04
+Design: Daren BIRCHALL
+Electrical hoist kit
+Cover: Electrical hoist kit
+Photo by: Hervé GOUSSÉ to ease engine mounting 10
+Printer: Amadio
+Authorisation for reprinting FAST magazine
+articles should be requested from the editor Fleet performance
+Tel: +33 (0)5 61 93 43 88 online toolbox 16
+Fax: +33 (0)5 61 93 47 73
+e-mail: fast.magazine@airbus.com
+Retrofit solutions
+FAST magazine is available on internet
+for AP/FD TCAS 20
+www.airbus.com/support/publications
+and on tablets
+Repairing wing fuel tank
+ISSN 1293-5476
+access panel leakage 26
+© AIRBUS S.A.S. 2013. AN EADS COMPANY
+All rights reserved. Proprietary document
+By taking delivery of this Magazine (hereafter ‘Magazine’), you accept on behalf Sub-freezing
+of your company to comply with the following. No other property rights are granted
+by the delivery of this Magazine than the right to read it, for the sole purpose of
+Pre-Conditioned Air 32
+information. This Magazine, its content, illustrations and photos shall not be modified
+nor reproduced without prior written consent of Airbus S.A.S. This Magazine and the
+materials it contains shall not, in whole or in part, be sold, rented, or licensed to any
+third party subject to payment or not. This Magazine may contain market-sensitive
+or other information that is correct at the time of going to press. This information FAST
+involves a number of factors which could change over time, affecting the true public
+representation. Airbus assumes no obligation to update any information contained in from the past 38
+this document or with respect to the information described herein. The statements
+made herein do not constitute an offer or form part of any contract. They are based on
+Airbus information and are expressed in good faith but no warranty or representation
+is given as to their accuracy. When additional information is required, Airbus S.A.S
+can be contacted to provide further details. Airbus S.A.S shall assume no liability for We’ve got it
+any damage in connection with the use of this Magazine and the materials it contains,
+even if Airbus S.A.S has been advised of the likelihood of such damages. This licence covered 39
+is governed by French law and exclusive jurisdiction is given to the courts and tribunals
+of Toulouse (France) without prejudice to the right of Airbus to bring proceedings for
+infringement of copyright or any other intellectual property right in any other court of
+competent jurisdiction. Airbus, its logo, A300, A310, A318, A319, A320, A321, A330,
+A340, A350 XWB, A380 and A400M are registered trademarks.
+Photo copyright Airbus
+Photo credits: Airbus Photographic Library, Airbus Flight
+*iOS (iPad) and Android Test Photo Lab, EADS Corporate Heritage, ExM Company
+25#TSAF
+40
+25#TSAF
+50
+A clean APU means clean cabin air
+A clean APU
+Finding the cause
+The first step must be to identify the source of contamination and the path
+it has followed to reach the aircraft ECS, then to eliminate it.
+means
+Once the source has been established and rectified, the task of decontamination
+should be performed. Failure to eliminate the source of the contamination
+will lead to repeated occurrences of reporting odour in the cabin, repeated
+clean application of the decontamination procedure and a significant duplication
+of efforts.
+Oil smell in the cabin can occur at almost any time as a result of a contaminated ECS.
+It should be noted that oil smell in the cabin resulting from a contaminated ECS
+on ground may occur while the APU is not running and can subsequently generate
+cabin
+odours in flight.
+The most common reports are those of stale odours or oil smells and occasionally
+visible smoke, or activation of the smoke detection system in conjunction with a
+‘bleed pack’ overheating. From this information alone though, it is not possible to
+air determine whether the APU or the engines contaminated the ECS.
+From experience, odours associated with slight APU oil leakage are more often
+reported shortly after take-off, disappearing in cruise and reoccurring late in the
+descent. Odours may also be noticeable at the APU start for a few seconds, but
+quickly disappear.
+The freshness of the air supplied During the operation of the APU with only a slight leakage, odours may not be
+detectable. However, the oil will be gradually deposited within the ECS (the packs)
+by the cabin’s Environmental Conditioning System
+in areas of cooler temperatures. Following the engine start-up and transition to
+depends greatly on the quality of air it intakes. engine bleed air, the odours may once again be noticeable due to the higher asso-
+ciated airflow rates and temperatures through the packs.
+Step-by-step we outline the common sources of pollutants
+The odours can disappear after a short time due to changes in the pack configuration
+and the maintenance procedures to eliminate them.
+(from cooling to heating mode), reoccurring again late during the descent due to
+the packs returning to the cooling mode.
+Operational experience has also shown that intermittent odour reports, as
+described, can occur after the source of leakage had been identified and rectified.
+APU maintenance guidelines
+This is due to the residual system contamination and emphasizes the importance
+of a thorough ECS decontamination.
+to avoid smell in cabins
+The APU compartment in the aircraft’s tail cone
+Air supplied by the Environmental Conditioning System (ECS) can be Photo courtesy of Pratt & Whitney Aeropower
+contaminated by the unavoidable ingestion of environmental pollutants
+such as industrial pollution as well as engine exhaust pollution from
+the many vehicles and aircraft operating in the airport environment.
+Since the ECS is supplied with air from the Auxiliary Power Unit (APU),
+engine bleed system or Ground Power Units (GPU), there is also a possibility
+of contamination from these.
+One source of in-service contamination events reported on the A320 Family
+fleet is the APU. This results from either internal leakage or re-ingestion of oil
+following external leakage. It is worth noting that a noticeable cabin odour
+Article by
+can be generated from ingesting only a very small amount of oil.
+Laura VERA-BARCELO
+Head of APU System This article provides operators with inspection and maintenance
+Engineering Support recommendations to be followed in case odours of hydraulic and de-icing
+AIRBUS fluids fuel or oil are experienced in the cabin and the APU is suspected as
+laura.vera-barcelo@airbus.com being the contamination source.
+25#TSAF
+60
+25#TSAF
+70
+A clean APU means clean cabin air A clean APU means clean cabin air
+APU External fumes ingested by the APU APU external fuel or oil leakages ingested by the APU
+contamination
+External fumes present in the vicinity of the APU intake (i.e. exhaust gas fumes External oil or fuel leakage from the APU may be re-ingested if the APU inlet seal
+from main engines of any aircraft nearby, or ground power units (used during or APU doors’ seal is degraded, or the air intake diffuser is misaligned.
+source
+ground operation, etc.) may be ingested, leading to smell in cabin. Additionally, misalignment of APU drain mast and bellows’ seals fitted on the
+The smell will stop when the fumes are no longer ingested. right-hand APU compartment door may not allow fluids to be properly drained
+identification
+outside the APU compartment.
+Under these circumstances, no further inspections will be required on the APU.
+and However, we recommend performing cabin ventilation to eliminate any residual If an APU external fluid leakage re-ingestion by the APU is suspected, inspect the
+APU oil cooler outlet duct
+smell before the next revenue flight. APU compartment and the APU external surfaces to identify the source of the
+leakage by using ultra-violet/black light.
+restoration
+While inspecting the APU external surfaces, we advise to check fuel and oil tubes
+and fittings, inspect around the APU oil pump, oil cooler, fuel pump and actuators
+driven by the fuel as the Inlet Guide Vane Actuator (IGVA), Starter Control Valve
+(SCV) and Bleed Valve (BV).
+Aircraft external fluid leakages ingested by the APU
+Inspect around the oil temperature, oil level and oil chip detectors, and the
+pressure sensors.
+It may happen that hydraulic leaks from the main landing gear bay are directed
+Inspect around the circumference of the APU generator to the gearbox mount,
+along outside the aircraft fuselage, up to the APU air intake. Hydraulic fluid can
+around the APU starter motor flange, and around the load compressor housing
+then be ingested while the APU is running, causing an ECS contamination and
+to the gearbox split-line.
+associated smell in the cabin. Under these circumstances, a visual inspection
+should be carried out on the aircraft fuselage from the nose landing gear up to Check the alignment of the drain tube bellows on the door with the drain tubes
+the APU inlet, and from the vertical stabilizer up to the APU inlet for presence of on the bottom of the APU by closing the right-hand APU door and checking from the
+hydraulic fluid. Also, check for the presence of hydraulic fluid on the APU inlet duct open left door. If they are not aligned, adjust the spring adapter assembly on the door.
+to confirm ingestion by using ultra-violet/black light. Any hydraulic leak identified
+If evidence of contaminants is found, identify the contaminants’ path which led to
+must be fixed.
+the APU pneumatic system. Inspect the APU intake duct, APU intake plenum and
+There have also been reports of odour in the cabin following an aircraft de-icing bleed duct inner walls for the presence of contaminants.
+process. Following this operation, inspect the external surfaces of APU doors for
+Eliminate the source of contaminants as per Aircraft Maintenance Manual (AMM)
+presence of de-icing fluid and then check if there is any on the APU inlet duct.
+instructions and if ingestion is confirmed, inspect the condition of the APU doors’
+Note that when using de-icing fluid on aircraft, the APU bleed system should be sealing, intake duct sealing, alignment between the APU intake duct and APU inlet
+selected ‘off’. Additionally, we recommend waiting three to four minutes after an plenum, oil cooler discharge duct and restore them if required.
+aircraft de-icing is completed before selecting the APU bleed ‘on’ again.
+Failure to do so will lead to repeated occurrences of reporting odour in the cabin,
+Then clean the contaminated surfaces (APU doors, intake duct air flow path, etc.). whenever an APU external fluid leakage occurs.
+De-icing De-icing fluid residue APU intake box APU intake system
+25#TSAF
+80
+25#TSAF
+90
+A clean APU means clean cabin air A clean APU means clean cabin air
+APU internal oil leakages
+If oil ingestion is suspected and no external leak is evident, inspect the bleed duct
+Intake box
+downstream of the APU bleed valve with ultra violet/ black light for oil contamination.
+If there is evidence of oil, there is the possibility of an internal APU oil leakage or
+ingested oil.
+Check the APU load compressor witness drain for the presence of oil. The load
+compressor sealing system breaking down would result in oil being present at the
+seal cavity witness drain.
+Inspect the inside of the cooling fan ducts for evidence of oil. If oil is present and
+the inside of the plenum is clean, further inspection of the oil cooler and cooling
+fan is required as there might be a cooling fan/oil cooler internal oil leak. APU photo courtesy of Honeywell
+Check the APU oil level for presence of over-servicing. Note that prior to inspecting
+the oil level, it should be confirmed that a complete de-oiling during normal APU
+shutdown has been performed. This can be done by checking that the APU air
+intake flap is fully closed. If the shutdown circumstances are unknown, operate
+the APU at ‘no-load’ for five minutes, followed by a normal shut down.
+For a complete APU de-oil, wait at least 15 minutes after the last APU shutdown
+Bleed duct prior to checking and eventually completing the oil level.
+Eliminate the source of contaminants as per AMM instructions.
+Note that it may require an APU removal depending on the source identified.
+APU compartment, APU intake system
+and ECS cleaning
+Drain system
+Once the inspections have been carried out, the contaminant source has been
+eliminated and the APU compartment/duct sealing condition has been restored,
+the next step will be to clean the contaminated APU compartment, APU intake
+system, APU inlet plenum and APU Load Compressor as per AMM instructions.
+Afterwards, decontaminate the aircraft pneumatic system as per AMM 21-00-00
+Bleed control valve and SIL 21-029. Failure to do so will lead to ineffective or only partial decontami-
+nation and therefore, the risk of future reports of odours in the cabin.
+Intake plenum
+Oil cooler discharge duct
+CONCLUSION
+Correct maintenance of the Auxiliary Power Unit (APU) helps avoid odour in the cabin. The AMM (Aircraft Maintenance Manual)
+and TSM (Trouble-Shooting Manual) details the actions which should be performed to identify, fix and clean any fluid leakage
+around the APU. Failure to resolve the cause could lead to future reports of odour in cabin.
+Aircraft Maintenance Manual Trouble-Shooting Manual
+(AMM) task references (TSM) task references
+• AMM 49-00-00-790-001-A Check • TSM 49-00-00-810-846-A
+APU compartment and air intake duct Fumes in the cabin (GTCP36-300)
+for oil contamination (GTCP36-300)
+• TSM 49-00-00-810-921-A
+• AMM 49-00-00-790-007-A Check Fumes in the cabin (APS3200)
+APU compartment and air intake duct
+for oil contamination (APS3200) • TSM 49-00-81-810-874-A
+Fumes in the cabin (131-9A)
+• AMM 49-00-00-790-008-A Check
+APU compartment and air intake duct
+for oil contamination (131-9A)
+APU photo courtesy of Pratt & Whitney AeroPower
+Electrical hoist kit
+The choices for lifting engines
+If maintenance tasks require the removal of an engine,
+there are currently three types of equipment available,
+each with their advantages and disadvantages:
+Bootstrap system
+Traditionally a system of four manual hoists that lift the engine
+(or its cradle) off a trolley.
+Advantages:
+• Accurate and quick engine positioning
+• Appropriate to line maintenance
+• Inexpensive
+Disadvantages:
+• Longer installation
+• Risk of injury due to a hard physical work
+• Slower task for heavy engines (due to manual hoists)
+With their tons of costly
+Mobile overhead crane
+and sophisticated technology,
+Lifting the engine and its cradle.
+engines need to be moved
+with the utmost care. Advantages:
+• Quick task
+Airbus has tailor-made
+• Good load control
+an electrical hoist kit • Man-hour savings compared to bootstrap
+to precisely control load
+Disadvantages:
+and ease positioning, • Engine cowls, fan and thrust reverser must be removed
+• Heavy maintenance means (10 tonnes minimum capacity)
+while improving safety
+• Not appropriate for line maintenance
+for maintenance staff
+and the aircraft. Hydraulic or pneumatic engine positioner
+Hydraulic or pneumatic lift system on a trolley.
+Advantages:
+• Good load control
+• Man-hour savings compared to bootstrap
+• Quick task
+Disadvantages:
+• Complicated to use by mechanics
+• Longer engine alignment
+• Not appropriate for line maintenance
+• Very expensive (almost no realistic return on investment)
+25#TSAF
+01
+25#TSAF
+11
+Electrical hoist kit
+to ease engine mounting
+Article by
+Mathieu NOEL
+GSE & Tool Design Engineer, AIRBUS
+mathieu.noel@airbus.com
+Eric RIVIERE
+GSE Designer, AIRBUS
+eric.e.riviere@airbus.com
+The electrical hoist kit
+comprises:
+• Ground power supply
+• Central control unit
+• Two rear electrical hoists
+• Two front electric hoists
+• Two remote control devices
+Three operators are required;
+one at the central control unit
+and two positioned laterally
+with remote control devices
+25#TSAF
+21
+25#TSAF
+31
+Electrical hoist kit Electrical hoist kit
+The structure from which
+the electrical hoists are Airbus’ electrical hoist kit
+suspended, is positioned
+on top of the pylon.
+for a faster and safer
+engine change
+Of the three systems currently used to position engines, the most versatile system
+for line-maintenance is the bootstrap. The electrical hoist kit replaces the manual
+hoists used on the bootstrap, adding significant advantages including speed,
+better load control and man-hour savings.
+The system is just as flexible as traditional manual bootstraps, with the electrical
+hoists cabled to a mobile power unit located in the control box.
+One of the clear advantages is that rather than using up to eight engineers, safe
+engine manoeuvring may be performed by only three; one on the control box at the
+front of the engine, and one to each side.
+The electrical hoists are based on the same principles as the manual ones, so the
+new kit does not require any additional specific training.
+The main operator uses a touch screen to enter the type of aircraft and engine to
+be installed. The control box is already pre-programmed with precise loads and
+characteristics for the entire Airbus fleet.
+With the hoists securely attached to the engine hooks, the wireless electrical hoists
+takes up the slack and lift the load of the engine.
+The electrical hoists have integrated dynamometers to ensure a correct load
+distribution. Should overload or imbalance of the engine occur during the lifting
+phase, an automated audible warning signal is triggered.
+The warning signal also stops the lifting or lowering manoeuvre of the engine (the
+green button turns red) allowing the operator to verify the loads and then to slowly
+compensate.
+This automated supervision keeps the engine’s centre of gravity steady, preventing
+the engine from tipping over.
+When balanced again the manoeuvre can resume, either at high or low speed
+depending on the engine’s distance from the pylon (i.e.: the closer the engine is to
+the pylon, the slower the operation needs to be).
+The hoists can be controlled either from the central control box or from either side
+via the hand-held remote control devices of the two other mechanics.
+The hand-held devices are particularly useful for the final approaching phase,
+incrementally easing the engine into position.
+25#TSAF
+41
+25#TSAF
+51
+Electrical hoist kit Electrical hoist kit
+Airbus’ electrical hoist kit
+added benefits
+Health and safety
+• Less physical exertion for the mechanics
+• Perfect load control
+• A warning system informs the operator when the load limit
+has been reached
+• Supervision system prevents any risk of overloading
+• Less noise generation (day/night operation)
+• Easier engine installation thanks to homogeneous lifting
+and compact system
+Time
+• Around 30% less time needed for the removal or installation
+of outboard engines
+• Less man-hours
+Use
+• Lower maintenance costs
+• Optimize aircraft availability
+• Easier handling - touch screen display and wireless remote control
+• Easier storage
+• Wireless remote control devices
+• Mixed fleet usage
+• Electrical hoist kit adapted to all bootstrap systems
+A mechanic is at each side
+of the engine with a wireless
+control device, perfectly positioned Positioning in two phases CONCLUSION
+for the final approach phase
+The engine installation procedure with the bootstrap system can be split Airbus’ new electrical hoist kit allows bootstrap system operators
+into two main actions: the lifting phase and the approaching phase. to manoeuvre engines in a safe and more efficient manner.
+The lifting phase is the operation of lifting the engine from the ground to the pylon. Engine characteristics for all of Airbus’ aircraft are pre-programmed,
+This phase stops when the pylon shear pins start to enter the engine mounts. and can be easily selected on the central control unit’s touch screen.
+The engines are lifted in perfect balance to the pylon, then two operators
+The approaching phase engages the pylon shear pins in the engine mounts positioned laterally with hand-held devices smoothly position
+guiding the engine mount into contact with the pylon. This final stage is the engine in the final approach to the pylon.
+particularly delicate with mechanics closely monitoring loads on each hoist
+to ensure the bootstrap is not overloaded. Maintenance costs are greatly reduced as not only does it require three
+operators instead of eight, but the time needed to remove or install
+Torquing correctly an engine is also reduced by 30%.
+To ensure a proper engine torque phase and apply a safe torque value in the
+engine bolts, the operator has to ensure a perfect fit between the engine mounts For further information please contact Maint.gsetools@airbus.com
+and the pylon bolts (with no gap).
+For doing this, when the final approach phase is completed, the operators apply a
+preload on each mount of approximately 400kgs. Then the operators are sure to
+torque the mounts at the proper value, and not share the torque value between the
+bolts and the mounts.
+25#TSAF
+61
+25#TSAF
+71
+Fleet performance online toolbox
+Fleet performance
+In-service Data On-Line Services
+(IDOLS)
+online toolbox
+Confidentiality and data sharing
+In order to ensure data privacy, a unique system of three confidentiality circles
+are available, providing access to different levels of information:
+• Blue circle (sharing of basic information to all users)
+• Silver circle (sharing of detailed information in a restricted circle)
+• Gold circle (sharing of detailed information between all gold members)
+IDOLS for Reliability
+This tool enables its users to quickly identify reliability issues and creates
+a clear status of your fleet performance versus the global Airbus fleet.
+Using the ATA drill-down feature, you are able to quickly identify your priorities
+in fleet reliability. Directly from the reports, you can display the event causes
+(maintenance, flight operation, spares, etc.), the maintenance action codes
+and the details of each event.
+IDOLS for Maintenance Costs
+The benchmarks in IDOLS for Maintenance Costs are based on an annual data
+collection of maintenance costs. This tool allows the airlines to consolidate their
+maintenance cost data in order to make meaningful comparisons with other Airbus
+operators, and to identify trends and opportunities for improvement within the
+operational and economic performance of their fleet.
+IDOLS for Maintenance Costs also includes useful features such as fleet ageing
+and utilization adjustment, viewed in clear graphic diagrams.
+The top priorities for any airline are to keep its aircraft
+flying safely, ensuring that they are well maintained while
+optimizing operational costs.
+IDOLS for Components
+These daily challenges mean that there may not always
+This third IDOLS module shows you much more by focusing on the specific
+be enough time to step back and consider change:
+reliability of component performance and uses component removal data
+- How are we doing compared to others? provided by Airbus’ operators. With this tool, it is possible to:
+• Monitor component Mean Time Between Unscheduled Removals (MTBUR)
+- What opportunities for improvement do we have?
+• Compare an operators fleet against Airbus’ benchmarks
+- What would give us the best return on any investment? • Identify priority components for improvement
+From the technical performance perspective,
+Article by
+Olaf SCHOLZ Airbus provides* free-of-charge, an online virtual box
+Head of Fleet Performance
+of tools to help airlines find solutions to their fleet
+AIRBUS
+olaf.scholz@airbus.com performance questions.
+* Via secured access on www.airbusworld.com
+25#TSAF
+81
+25#TSAF
+91
+Fleet performance online toolbox Fleet performance online toolbox
+Once you have entered and compared your data with Airbus’ benchmarks, The IDOLS benchmarking tools The rich IDOLS environment allows airlines to measure its aircraft performance
+and areas for improvement have been identified, your next step in the fleet can identify how the airline at every level; from the whole aircraft and its systems, right down to components.
+performance management process is to analyse the issue and find its solu- is performing compared with Having identified areas for potential improvement, the airline can check the ever
+tion. In addition to our IDOLS suite, we offer additional tools which focus on the rest of Airbus’ fleet, growing WISE-MAST database for initiatives that may deliver cost effective
+identifying the most practical solution. and even with specific performance improvements. These initiatives can then be assessed
+operators. for suitability in the airline’s context using the MOD Assessment Tool.
+Together, these free-of-charge tools represent a valuable resource for airlines
+World In-Service Experience WISE wishing to optimize the technical performance of their fleet with minimum
+investment.
+The WISE online tool helps you analyse the specifics of issues impacting your fleet
+and identify existing solutions.
+WISE is a family of services which bring together pieces of knowledge capitalized
+and analysed by Airbus from in-service events, operators and suppliers’ experience.
+The two axis which form the WISE family are:
+• WISE Knowledge base
+providing information for frequently asked technical questions.
+• WISE Main Adopted Solutions and Tips (MAST)
+promoting effective and viable modifications and maintenance advice
+based on in-service experience.
+With WISE, it is possible to access:
+- Up-to-date technical information
+- Highlights on best practices and efficient recommendations
+- Means to improve aircraft reliability while reducing operational
+and maintenance costs Airbus online tools
+are complemented by
+FAIR forums and The FAIR forums, In-Service Problems (ISP), Ops (Operations) and e-Solutions
+MOD Assessment tool
+allow airlines to raise specific issues, share their experiences and identify
+working groups existing solutions while contributing to the issue prioritisation process.
+By using your provided data, the MOD Assessment tool is able to generate business
+FAIR working groups allow more generic issues to be assessed and addressed
+cases reports for the implementation of the appropriate maintenance action or
+in a pragmatic way through the creation of networks of specialists from airlines
+modification. The MOD Assessment tool helps operators evaluate and compare
+The FAIR process allows and associated suppliers.
+the cost of ownership of a given in-service issue and the cost impact of the
+modification, acting as a bridge between the technical aspect of an aircraft Airbus to identify the most
+In order to better understand these tools and optimise your tool utilisation, we offer
+modification and the finances.
+significant in-service issues WebEx sessions as well as the opportunity to attend a Fleet Performance users
+club each year. The focus of this event is for you to understand how to get the
+Using daily business figures (number of delays, cancellations, number of removals,
+and address them efficiently. most from the different Fleet Performance tools, to exchange best practices.
+spare parts’ prices, etc.), the operator is able to quantify the economic impact of
+a given modification (payback period, net present value, etc.), accompanied by a
+visual view of the results.
+Fully customisable, this tool will provide you results tailored to your airline and will
+help you identify whether the modification will generate value for you, or not. CONCLUSION
+In a few minutes, engineers can calculate the return on investment of a given aircraft
+modification, improving the decision making process by adding an economic
+Airbus’ fleet performance online tools help the airlines optimize
+rational.
+their fleet reliability, maintenance and operational costs.
+These free-of-charge tools are accessible via AirbusWorld and airlines
+can compare their performance with Airbus’ entire fleet, or even with
+a specific airline, providing that they have signed the confidentiality
+and data sharing agreement.
+Retrofit
+solutions
+for
+AP/FD
+TCAS
+25#TSAF
+02
+25#TSAF
+12
+TrRafefitcro Cfito lsliosliuotnio Anvso fiodra AncPe/F SDy sTtCeAmS
+Flying the TCAS trajectory
+with AP (Auto-Pilot) or FD (Flight Director)
+Currently, when TCAS considers that an aircraft is in a position of potential threat
+of collision, it emits two types of advisories:
+• The Traffic Advisory (TA) is the first level of alert, giving information
+via an aural message, but no action is expected from the pilots.
+• The Resolution Advisory (RA) is the secondary alert level, demanding
+an action from the pilots. An aural message indicates the procedure for
+a vertical avoidance manoeuvre to the pilot (climb, descend, maintain, adjust,
+monitor, etc.).
+An in-depth analysis of the needs expressed by pilots has shown that this unusual
+One of the most significant
+situation can increase the level of stress for the flight crew, and can occasionally
+advances in terms of flight lead to the pilot’s over reaction, leading to undue aircraft deviation.
+safety in the 1990s came
+AP/FD TCAS may be considered as an additional feature of the existing TCAS
+with the Traffic alert which provides an enhancement of the current system by assisting the pilot to
+fly the TCAS trajectory more consistently, either with or without Auto-Pilot thus
+& Collision Avoidance
+optimizing the avoidance trajectory (read FAST 45, page 10).
+System (TCAS).
+When the Auto-Pilot is “on”, the manoeuvre is performed automatically.
+As a further enhancement, When the Auto-Pilot is “off”, the avoidance manoeuvre to perform is provided
+to the pilot through the usual Flight Director (FD) pitch bar guidance.
+Airbus now proposes a new
+function associated with the
+TCAS which allows the pilot AP/FD TCAS benefits
+to fly the collision avoidance
+trajectories, either in an The AP/FD function is now proposed as an option on the A320 Family
+and the A330/A340 Family.
+Auto-Pilot (AP) or Flight
+• Operational benefits
+Director (FD) mode.
+- Immediate and accurate response to TCAS alerts
+Already standard on newly - Moderate load factor during the avoidance manoeuver
+- TCAS RA manoeuvres easily flown using standard AP/FD flight techniques
+delivered A380s and basic
+- Reduced pilot workload and stress due to TCAS alert
+on the A350 XWB, Airbus
+Christine VIGIER Yves MARTIN
+- Consistent with Airbus cockpit philosophy
+Surveillance Design Manager Navigation Design Manager
+has been working with its
+Upgrade Services Upgrade Services - Simple procedure
+AIRBUS AIRBUS suppliers to encourage
+- Simple training
+christine.vigier@airbus.com yves.y.martin@airbus.com
+operators to upgrade their
+existing fleets of all ages • Significant safety benefits
+with packaged solutions. - Risk of collision divided by two for fitted aircraft
+Certification
+AP/FD TCAS
+Aircraft generation
+Function
+activation
+1a 1b 1c 1d 2
+1Q13 to 4Q14 FMGC FMS 1 FMS 2 FMS 2 R1A
+Certified FCU Pre EMM EMM EMM Std 4
+Certified EIS EIS 1 EIS 2 EIS 2 Std S9
+EIS 1 V70
+Software upgrade Hardware modification required
+Certification
+Aircraft generation
+Certification
+Aircraft generation AP/FD TCAS AP/FD TCAS
+1a 1b 1c 2 3
+Function Function
+activation activation
+1a 1b 1c 1d 2 Hardware pre-Genepi Genepi
+4Q12 to 2Q14 FMGEC
+FMS 2 R1A
+1Q13 to 4Q14 FMGC FMS 1 FMS 2 FMS 2 R1A FMS 1 FMS 2
+P4/T4/T5
+Certified FCU Pre EMM EMM EMM Std 4 Certified FCU Pre EMM EMM EMM Std 3
+EIS 2 : Certified
+Certified EIS EIS 1 EIS 2 EIS 2 Std S9 EIS EIS 1 EIS 2 EIS 2 Std L7
+EIS 1 : 4Q13
+EIS 1
+EIS 1 V70
+V113/V514
+Software upgrade Hardware modification required Software upgrade Hardware modification required
+Certification
+Aircraft generation
+AP/FD TCAS
+1a 1b 1c 2 3
+Function
+activation
+Hardware pre-Genepi Genepi
+4Q12 to 2Q14 FMGEC
+FMS 2 R1A
+FMS 1 FMS 2
+P4/T4/T5
+Certified FCU Pre EMM EMM EMM Std 3
+EIS 2 : Certified
+EIS EIS 1 EIS 2 EIS 2 Std L7
+EIS 1 : 4Q13
+EIS 1
+V113/V514
+Software upgrade Hardware modification required
+25#TSAF
+22
+25#TSAF
+32
+Retrofit solutions for AP/FD TCAS Retrofit solutions for AP/FD TCAS
+Upgrading to AP/FD TCAS
+AP/FD - Auto-Pilot/Flight Director
+EIS - Electronic Information System
+EMM - Enhanced Maintainability and Manufacturing
+In order to activate AP/FD TCAS, some pre-requisites have to be installed, particularly for three avionics systems: FCU - Flight Control Unit
+Flight Management Guidance Computer (FMGC), Flight Control Unit (FCU) and Electronic Instrument System (EIS). FMGEC - Flight Management Guidance
+A specific commercial package is proposed for each aircraft generation – 1a being the oldest and 3 the youngest. flight Envelope Computer
+FMGC - Flight Management Guidance Computer
+FMS - Flight Management System
+The charts underneath help determine which retrofit corresponds with a given generation of aircraft.
+Genepi - new hardware generation for flight guidance
+Std - Standard
+A320 Family: A330/A340 Family:
+For AP/FD TCAS activation, the requirements are: FMS2 R1A for FMGC and EMM at standard 4 for FCU. For AP/FD TCAS activation, the requirements are: FMS2 R1A for FMGEC and EMM at standard 3 for FCU.
+There are two solutions for EIS: EIS1 V70 (with Cathode Ray Tube technology) or EIS 2 standard S9 There are two solutions for EIS: EIS 1 V113/V514 (with Cathode Ray Tube technology) or EIS 2
+(with Liquid Crystal Display technology) – benefits being higher for the second solution. standard L7 (with Liquid Crystal Display technology) – benefits being higher for the second solution.
+1a 1b 1c 1d 2 1a 1b 1c 2 3
+,
+From FMS 1 std B398, From FMS 1 std B546, A software upgrade A software upgrade A software upgrade Two hardware/software A hardware/software A hardware/software A hardware/software A software upgrade
+a hardware/software a hardware/software is performed to go to is performed to go to is performed to go to modifications are modification is modification is modification is is performed to
+modification is required modification is required FMS 2 R1A. FMS 2 R1A. FMS 2 R1A. performed to install Ge- performed to install performed to install performed to install install FMS 2 R1A.
+to install FMS 2 R1A. to install FMS 2 R1A. nepi and FMS 2 R1A. Genep. Genepi. Genepi.
+A hardware/software A hardware/software A hardware/software A software upgrade A software upgrade A hardware/software A hardware/software A software upgrade A software upgrade A software upgrade
+modification is required modification is required modification is required is performed to go to is performed to go to modification is required modification is required is performed to go is performed to go is performed to go
+to go to EMM Std 4. to go to EMM Std 4. to go to EMM Std 4. Standard 4. Standard 4. to go to EMM Std 3. to go to EMM Std 3. to Standard 3. to Standard 3. to Standard 3.
+A software upgrade A software upgrade A software upgrade A software upgrade A software upgrade A software upgrade A software upgrade A software upgrade A software upgrade A software upgrade
+is performed to go is performed to go is performed to go is performed to go is performed to go to is performed to go is performed to go is performed to go is performed to go is performed to go to
+from EIS 1 from EIS 1 from EIS 1 from EIS 1 the Standard S9. from EIS 1 from EIS 1 from EIS 1 to Standard L7. Standard L7.
+to EIS 1 V70 to EIS 1 V70 to EIS 1 V70 to EIS 1 V70 to EIS 1 V113/V514 to EIS 1 V113/V514 to EIS 1 V113/V514
+Note : for some software modifications a shop visit may be necessary
+dependent on the existing standard.
+YRASSOLG
+For FMGC For FMGEC
+For FCU For FCU
+For EIS For EIS
+25#TSAF
+42
+25#TSAF
+52
+Retrofit solutions for AP/FD TCAS Retrofit solutions for AP/FD TCAS
+Pre-requisites for retrofit AP/FD TCAS retrofit solution
+There are a number of pre-requisites required before the activation of AP/FD TCAS. To ease the retrofit solution on older aircraft, the AP/FD TCAS upgrade is
+Recognising the importance of fleet harmonisation, Airbus has worked with its suppliers to offer an attractive packaged offered as a package, including the pre-requisite avionics’ equipment to allow
+solution with the objective of enhancing the standards of the entire Airbus fleet, no matter in which aircraft configuration. a full fleet harmonization.
+The harmonization will be from FMGC/FMGEC (Flight Management and Guidance
+Avionics systems A320 Family A330 / A340 Family Computer/Flight Management Guidance and Envelope Computer) and FCU (Flight
+Control Unit) levels, to the latest certified standards.
+EIS Primary Flight Display EIS 1 V514 (A330) The packaged AP/FD TCAS installation provides:
+EIS 1 V70 or
+• The foundation for upcoming regulatory requirements and functions
+Electronic or EIS 1 V113 (A340)
+Instrument associated with air traffic management’s evolutions, as developed
+EIS 2 S9 (minimum) or
+System
+in programmes such as SESAR (Single European Sky Air Traffic Management
+EIS 2 L7
+Research) and NEXTGEN (Next Generation Air Transportation System),
+or through other initiatives around the world.
+FMGC / FMGEC T4HJ1 or P4HJ1 (A330 - PW/RR)
+• Deployment of upcoming operational enhancements such as ROPS
+Flight Flight S6C13 or S6I12 T5GIA or P4GIA (A330 - GE)
+Management Management (Runway Overrun Prevention System) and TCAP (TCAS Alert Prevention)
+aAndvionicsG suidyasnctee ms A320 Family A330 / A340 Family
+Guidance and Envelope H2C13 or H2I12 T5F1 or P4F1 (A340 - CFM) reducing level-off RA occurrences.
+Computer Computer
+T5K2 or P4K2 (A340/500-600 - RR)
+EIS Primary Flight Display EIS 1 V514 (A330) Practical impacts of TCAS retrofits
+EIS 1 V70 or
+FEleCctrUonic or EIS 1 V113 (A340)
+Instrument ESItSan 2d Sa9rd ( m4 inimum) S or tandard 3
+FSlyigshtet mControl Unit Provided that the pre-requisites are already embodied, the modification consists of:
+EIS 2 L7
+• Wiring provisions’ installation
+FFWMGCC / FMGEC T4HJ1 or P4HJ1 (A330 - PW/RR) • Activation by pin programming
+H2F5 (minimum) L12 or 13
+FFlliigghhtt Warning CoFmligphutter S6C13 or S6I12 T5GIA or P4GIA (A330 - GE)
+Management Management The average time for the installation of this retrofit is approximately one day
+and Guidance
+TGuCidaAnceS and Envelope H2C13 or H2I12 T5F1 or P4F1 (A340 - CFM) (two shifts).
+Computer Computer TCAS 7.0 (minimum) TCAS 7.0 (minimum)
+Traffic alert & Collision Avoidance System T5K2 or P4K2 (A340/500-600 - RR)
+FCU
+Additional benefits associated with thSet apnrdea-rdr e4q uisites Standard 3
+Flight Control Unit
+Installing AP/FD TCAS will provide the pre-requisites to install state-of-the-art
+funcFtioWnsC in your in-service aircraft, such AasD: S B H2F5 (minimum) L12 or 13
+Avionics system ROPS RNP AR BUSS
+• AFDliSgh-tB W oaurnti nRgA CDo m(Apuutteormatic Dependeontu Stu RrveAilDlance - Broadcast out Radar) for non-radar and radar airspace
+CONCLUSION
+which will be mandated in Europe and North America by 2017
+• RTOFPCMS A(SRSu2n wRay1 OAverrun Prevention System) The AP/FD TCAS solution has already proven its efficiency on Airbus’
+TCAS 7.0 (minimum) TCAS 7.0 (minimum)
+latest aircraft and it will be offered as standard on the A350 XWB.
+• RTNraPff-icA Rale (rRt &e qCuoilrliesido nN Aavvoiigdaatnicoen S Pyestrefomrmance - Authorisation Required)
+Currently, more than 95% of A380s in service are equipped with this
+• BUSS (Back Up Speed Scale)
+EIS upgrade system.
+The pre-requisites for AP/FD TCAS are also pre-requisites for additional functions such as the examples below:
+Recognising the need for fleet harmonisation and the broad appeal of
+FWC the AP/FD TCAS solution, Airbus has designed an attractive commercial
+package solution which can encompass the full in-service Airbus fleet.
+ADS B The package includes pre-requisite upgrades of avionics’ equipment
+Avionics system ROPS RNP AR BUSS
+out RAD and provides the foundation for other upcoming operational enhance-
+ments.
+FMS2 R1A
+Airbus aims to support each airline on a customised basis and will
+pro-actively approach customers to discuss this innovative new offering.
+EIS upgrade
+The retrofit package is available as of now for most configurations
+and will be customized for your specific fleet.
+FWC
+Light Leakage Heavy Leakage Continuous Leakage
+0 - 100 mm 100 - 180 mm More than 180 mm
+(0.0 - 4.0 in) (4.0 - 7.0 in) (7.0 in)
+25#TSAF
+62
+25#TSAF
+72
+Repairing wing fuel tank access panels
+Any fuel leakage from the under wing access panels
+requires immediate attention.
+(AMM 28-11-00-280-803 paragraph 3B)
+The tell-tale streaks of leakage
+around fuel tank access panels
+Example of seal fatigue
+Stopping
+Repairing Most of the time
+wing leakage around
+fuel fuel tank access
+drops
+the tank panels is due to
+access a damaged seal.
+panels
+Seal replacement requires
+on A330/A340 emptying the fuel tank
+and completely removing
+the panel as described
+in AMM 57-27-11.
+Fuel leakage of any kind is not an issue to be taken lightly.
+Several documents, TFUs
+It is one of the systematic checks performed during the
+(Technical Follow-Up) and
+walk-around inspection before every flight. a WISE (World In-Service
+Experience) solution
+The most frequent area that fuel leaks occur is from the
+have been published
+fuel tank access panels situated under the wing, and to provide maintenance
+rules to be applied.
+experience has shown that with the A330/A340, leakage
+will be from the panels between rib 1 and 27.
+Nicolas RIBIERE Claude HEMADOU If a slight leak is left unchecked it will, eventually, become
+Pylon/Wing Pylon/Wing
+running leakage, grounding the aircraft until the problem
+Structure engineer Structure engineer
+AIRBUS AIRBUS has been resolved.
+nicolas.ribiere claude.hemadou
+@airbus.com @airbus.com
+Airbus has made comprehensive improvements to these
+panels, their seals and the way they are installed.
+Pre-mod Post-mod
+titanium SPF panels aluminium machined panels
+Aluminium
+1 5
+machined
+access panels
+are now fitted
+as standard
+7 7
+on all
+A330/A340
+aircraft
+2
+6
+1. SPF hollow door
+2. Clamp ring
+3. Fasteners 5
+8 8
+Fuel 4. Wing skin Fuel
+tank 5. Aluminium inner door tank
+6. Aluminium outer door
+1 4 7. Knitted gasket 4
+8. Sealing ring
+Outside Outside
+7 3 2 6 7 3 6
+25#TSAF
+82
+25#TSAF
+92
+Repairing wing fuel tank access panels Repairing wing fuel tank access panels
+The difference between
+Under wing tank access panels on A330/A340 aircraft loaded and non-loaded
+(skeleton view from top) access panels
+The A330/A340 Family aircraft wing is divided in two fuel tanks areas On the inner wing (between rib 1
+which are equipped with different types of panels: and 27) where the wing skin is thicker,
+• The inner wing tank (from rib 1 to 27) is equipped with non-loaded access panels, the access panels do not need to con-
+• The outer wing tank (from rib 27 to 39) is equipped with loaded access panels. tribute to the stiffness of the structure.
+Panels are in two parts that clamp
+around the wing skin and are referred
+to as non-loaded.
+Stringer 15 Upper Stringer 16 Upper
+Stringer 14 Upper Stringer 17 Upper
+Rib 1
+WING SKIN
+MH1/Type 26R
+Improved access panel design Access panel components
+WING SKIN
+MH2, 3/Type 28R On the outer wing (between rib 27 Before the modification 47583 (prior to MSN 370), the fuel tank accesses from rib 1 As with the pre-mod version the
+Note: and 39) where the wing skin is thinner to 27 were fitted as standard with Super Plastic Forming (SPF) panels made in post-mod panel has 20 fasteners.
+Panels are reinforced the ac cess panels need to contribute a light titanium structure filled with foam, and held in place by a clamp ring. A knitted gasket made of metallic mesh
+in areas where a burst tyre
+could eventually puncture them. Rib 8 to the structure’s stiffness. A drawback to this design is that fuel sometimes entered the hollow structure. wrapped with rubber is necessary
+Type numbers with an “R” These one-part panels are fastened The modification 47583 introduced a new machined aluminium panel composed to ensure the electrical conductivity
+stand for reinforced.
+directly into the wing skin and are of an inner and outer door that clamp together against the wing skin, sealing between the outer door and the wing,
+MH4, 5/Type 27R referred to as loaded panels. the hole. These are now installed as standard on A330/A340 assembly lines. in case of a lightning strike or the
+discharge of static electricity.
+As SPF panels are no longer manufactured, a leaking SPF panel needs to be There is also a sealing ring fixed in
+MH6, 7, 8/Type 27
+completely replaced by the new machined aluminium version, composed of inner a groove in the inner door for fuel
+WING SKIN
+and outer door, and corresponding knitted gasket. tightness/waterproofing.
+WING SKIN
+MH9, 10, 11, 12/Type 26
+Inner Tank
+MH13, 14, 15, 16, 17, 18, 19, 20, 21/Type 25
+Non-loaded
+access panels
+Almost all reported
+between ribs 1 to 27
+wing fuel leakage
+Rib 27
+concerns the access
+panels from rib 1 to 27 Outer Tank
+Loaded
+access panels
+MH22, 23/Type 2
+between ribs
+MH24/Type 3
+27 to 39
+MH25, 26,27/Type 4
+MH28, 29, 30/Type 5
+MH31/NACA duct
+Rib 39 MH32/Type 6/Over pressure protector
+MH33/Type 7
+25#TSAF
+03
+25#TSAF
+13
+Repairing wing fuel tank access panels Repairing wing fuel tank access panels
+The final fix – Mod 57909 The access panel installation procedure
+(January 2009)
+New sealing ring material as provided in TFU 57-27-11-002, TFU 57-27-11-003 and WISE solution (engsup-13461)
+New CML
+In the AMM references
+Despite the AMM and TFU recommendations, fuel leakage was still observed, 1) Bond the sealing ring to the inner Bonding agents:
+including on recently delivered aircraft. door of the access panel:
+Pre-mod 57909 (black seals) CML 09-007 CML 06HAA1
+Airbus’ Design Office launched an investigation campaign on an A330, removing
+• Ensure that the sealing ring groove
+all the under wing fuel tank access panels for a complete analysis.
+in the access panel is carefully cleaned.
+Results revealed that the rubber seals on many non-loaded access panels were
+• Ensure that the sealing ring is bonded Post-mod 57909 (light blue or grey seals) CML 08-018 CML 05JBC9
+damaged and some of them even broken, leading to immediate fuel leakage.
+correctly (tack free) on the access panel.
+It was then demonstrated that the rubber, even if in line with Airbus’ specifications
+was susceptible to brittle fracture at low temperature.
+2) Lubricate the sealing ring Lubricants:
+The material for the non-loaded access panel sealing rings was modified CML 04-012 (mineral oil based grease,
+Panels inboard of rib 27 (in contact with fuel) CML 05-004 CML 14CCB6
+(Mod. 57909) in January 2009. Vaseline or Petrolatum) shouldn’t be used
+The previous acrylonitine butadiene rubber was replaced by a newly developed on seals inboard of rib 27 as they swell
+polychloroprene rubber which performs better at low temperature and resists the rubbers (risk of leakage) and are not
+Panels from rib 27 to 39 CML 04-012 CML 03FAB1
+known contaminants. fuel soluble (potential fuel contaminant).
+Airbus advises using CML 05-004.
+It is possible to identify the difference between the pre-mod and post-mod 57909
+sealing rings by their different colours: the black seal is the older standard, the new 3) Lubricate the knitted gasket Lubricants:
+seal is either light blue or grey. In order to improve the lifetime P/N A573-50076-200-00
+New seal for titanium of the knitted gaskets from 2 to 5 years, SPF P/N A573-50118-200-00 CML 04-013 CML 03FDG1
+The new material can be installed on both SPF and machined aluminium non-load- SPF panel: a new rubber has been used to wrap panels
+New rubber gaskets
+ed access panels as a retrofit, covering all A330/A340 Family aircraft. P/N F572-500 91-200-00 the metallic mesh. This new rubber These two different
+P/N A573-50076-202-00
+The new seals are used as standard in production and are available as spares. is soaked in lithium grease and needs lubricants must not
+(see TFU 57-27-11-003 and WISE solution). New seal for aluminium to be lubricated with the dedicated be mixed
+P/N A572-54039-004-00 (SIL 12-008)
+machined panel grease: Aeroshell 33 - CML 04-037. Machined
+No aircraft that have been fitted with the new light blue or grey sealing rings P/N F572-50090-200-00 Whereas the old rubber was soaked panels New rubber gaskets
+CML 04-037 CML 03GBC1
+have shown signs of fuel leakage. in a clay base and required grease P/N A572-54089-002-00
+referenced CML 04-013.
+4) Lubricate the fasteners Lubricant:
+CML 05-002 CML 06LCG9
+To prevent corrosion, fasteners’
+material has been changed from steel
+to CRES (Corrosion REsistant Steel) Important: Only lubricate the underside
+as mentioned in the Service Information of the chamfered edge of the fastener head
+Letter (SIL 57-113). Grease CA1000 (refer to SRM 51-76-12).
+without chromates is requested since
+the AMM revision April 2012, 3
+19 17
+to prevent fasteners from seizing 7 9
+during removal. 11 5
+15 13
+5) Observe the cross diagonal torquing
+sequence as illustrated in the
+AMM 57-27-11. 1 2
+Torque the bolts in three increments from
+hand tightening up to the final torque value,
+using the diagonal torquing sequence. 14 16
+Note: Never over-torque the fasteners 6 8
+to attempt to stop fuel leakage. 10 12
+18 4 20
+CONCLUSION
+Most reported wing fuel leakages come from access panels on the inner tank section under the wing.
+If leakage is noticed during the walk-around inspection of the aircraft, Airbus recommends that the access
+panel be immediately replaced, with its associated knitted gasket and sealing ring. The installation process,
+including lubrication and the torque sequence are clearly detailed for resolving this issue.
+25#TSAF
+23
+25#TSAF
+33
+Sub-freezing PCA
+cool
+Keeping
+Ways to regulate APU restrictions
+and fuel savings
+on the ground
+the cabin air temperature
+Today 140 airports restrict the use of
+the APU, mainly to reduce noise and
+At the gate, the cabin must be kept to an acceptable temperature for the emissions.
+passengers’ and maintenance personnel’s comfort. The Aeronautical Information
+To ensure this, there are three possible ways. Publication (AIP) mentions that
+‘the use of the fixed energy system
+1. The ‘bleed air’ from the aircraft powered by the APU compressor (high pressure), has saved 12,170 tonnes (t) of fuel,
+provides a high cooling capability. The bleed air is cooled by the air conditioning 38,500t of carbon dioxide (CO2)
+packs, mixed to the cabin air thanks to recirculation fans, and then supplied to the and 75t of nitrogen oxides (NOx)’.
+Sub-freezing
+various compartments. This air is then mostly discharged overboard through the Extract from Unique (Flughafen Zürich
+outflow valves, or recirculated through the mixer unit. This is today’s most common AG), Zurich, 2004.
+Pre-Conditioned Air
+way of cooling down aircraft.
+the APU alternative Another study was made by a
+2. Another way to get cool air is via a high pressure ground cart supply. ground cart manufacturer in 2005
+at the gate This is usually only used to start the engines and is not economical. demonstrating the benefits of current
+Nevertheless, the air conditioning packs are active and the environmental air conditioning ground cart units.
+temperature control of the cabin air is available in the two modes (1 & 2).
+It concluded that airlines could
+3. The last way is by providing low pressure Pre-Conditioning Air (PCA) from a save 15M USD per year and an
+ground (or underground) based unit to the mixer unit, through a low pressure airport could obtain a net revenue
+ground connection. The temperature control system cannot be regulated with this of 2.5M USD with a return on
+unit (+2° from cart outlet) and the packs are not active. The number of connectors investment in three years, just by
+depends on the size of the aircraft. If the recirculation fans are running, the air from using the PCA.
+the cabin and PCA unit are mixed and supplied to the various cabin zones, cockpit
+and avionics’ compartments. Once again, with no temperature control. This shows that in terms of economy,
+it is preferable to use a ground-based
+PCA instead of the APU.
+As pressure increases on airports to reduce noise pollution,
+However, for performance reasons
+Airbus is coordinating efforts to use sub-freezing air from and passenger comfort in hot regions,
+Engine
+the APU still has to be operated during
+ground units instead of the APU to cool cabin air. (not used at gate)
+boarding or disembarking with current
+PCA systems.
+As well as supplying quieter air, this low pressure
+Air at min.
+Temperature
+pre-conditioned air also saves airlines money -25°C sensor Note: The ‘pack off’ operation
+flow regulated increases the maintenance time
+while creating revenue for airports.
+1 between cleaning the pack heat
+Air into
+cabin exchangers and can contribute to
+Mixer unit
+Airbus is working with ground unit suppliers, airports and airlines to put in place an Pack
+reducing the occurrence of bleed leak
+Joël AUDOUARD-MONTEILS efficient Pre-Conditioned Air (PCA) system able to maintain the cabin temperature Auxillary Air overheat events in hot regions.
+Manager Electro-mechanical Systems, AIRBUS below +27°C during Turn Around Time (TAT) - even in extremely hot weather. Power Unit at
+joel.audouard-monteils@airbus.com (APU) +2°C
+This new sub-freezing Pre-Conditioned Air (PCA) unit significantly improves the current
+Dariusz KRAKOWSKI
+PCA’s performance by providing air conditioning from -25°C to 70°C, measured directly 2
+Air Systems Functional Architect, AIRBUS at the aircraft’s interface, representing a valuable alternative for the use of the APU
+dariusz.krakowski@airbus.com while the aircraft is at the gate. Air start Recirculated
+cabin air
+unit 3 3
+Didier GENDRE
+As a consequence, the maintenance costs of the APU are directly reduced and the
+Ground Operations Engineer, AIRBUS
+aircraft dispatch is not affected in case of APU unavailability. In addition, as the air
+didier.gendre@airbus.com
+conditioning packs are not running, maintenance costs for the cleaning of the heat Ground (or underground) low pressure
+exchangers are also diminished. pre-conditioned Air Unit
+25#TSAF
+43
+25#TSAF
+53
+Sub-freezing PCA Sub-freezing PCA
+Shortfall in performance PCA control differences
+of existing PCAs
+Current PCA Sub-freezing PCA
+The performance of the ground based air conditioner units is limited. This is
+CONTROL & MONITORING
+especially noticeable at airports in extremely hot and humid regions such as the
+Middle East and Asia. Following the IATA (International Air Transport Association) • On/Off switch • On/Off switch
+Aircraft Handling Manual (AHM), the air temperature at the aircraft interface is at • Cooling (+2°) • Variable temperature control (-25° to +70°)
+the recommended minimum temperature of +2°C. Due to the heat loss in the • Flow and temerature
+• The pressure is monitored and controlled
+distribution hoses running from the PCA unit to the aircraft connector, are manually
+• The humidity is monitored (dry air)
+temperature at the aircraft’s interface is higher than expected. In comparison, controlled
+• Defrost cycle
+when operating the APU or engines, the aircraft air conditioning packs can supply
+air at very low temperatures to the mixer unit (around -25°C for an A380). PERFORMANCE
+One level of performance: Three levels of performance:
+• Cooling power ‘On’ • Pull down phase
+Improving the current system
+(cooling the cabin down, aircraft empty)
+• Maintaining temperature
+with ‘sub-freezing’ PCA (before boarding, aircraft empty)
+• Maintaining temperature during boarding
+Airbus is coordinating and supporting environmentally-friendly PCA unit suppliers
+which are introducing units able to generate an airflow at a very low temperature REVISIONS
+(down to -25°C), measured at the aircraft’s interface. AMM Aircraft Current PCA operation Sub-freezing PCA operation
+Referred to as a ‘sub-freezing’ PCA, it supplies a very low temperature to the
+AMM task AMM task
+aircraft’s mixer unit allowing, optimizing the cooling performance. references
+The objective is to maintain the cabin temperature under +27°C during the TAT and Temperature sensors
+A380 21-00-00-618-801-A 21-00-00-618-805-A
+to significantly reduce the cooling down time, even in extreme weather conditions,
+May 1, 2013
+to reach a performance comparable with the aircraft’s air conditioning packs
+powered by the APU.
+A330/A340-200,300 12-33-21-618-801-A 12-33-21-618-801-A03
+April 1, 2013
+However, to prevent ice build-up in the mixer unit that eventually will damage
+the aircraft, the mixer unit should be kept at a positive temperature.
+Static pressure ports A318/A319/A320/A321 12-33-21-618-001-A 12-33-21-618-002-A
+This constraint has led Airbus to issue a list of design requirements for the PCA
+May 1, 2013
+suppliers and specific recommendations.
+These requirements, provided in the document ‘Sub-freezing PCA carts: compliance
+document for suppliers’ (ref: X21RP1146224) come in addition to the functional
+specifications included in the IATA AHM 997 (Aircraft Handling Manual).
+Sub-freezing PCA units must include a regular defrost cycle during the cooling Airlines must only use PCA units
+phase, generating warm air to melt ice in the duct. that are compliant with Airbus’
+Another additional precaution is to control and monitor the humidity, pressure requirements and strictly apply the
+and temperature of the air delivered to the aircraft. procedures available in the Aircraft
+Maintenance Manual (AMM)
+that correspond with the Airbus
+aircraft type.
+These procedures are valid for all
+cabin layouts and they have been
+validated by test and/or simulation.
+The sub-freezing PCA can be used
+on all Airbus in-service aircraft
+without adaptation.
+Photos courtesy of Cavotec
+25#TSAF
+63
+25#TSAF
+73
+Sub-freezing PCA
+Benefits for both airlines and airports The players
+Airbus 1 4
+The benefits of this new level of cooling Air conditioning during Turn Around Time
+GHM
+Ground airport AMM Airport/
+performance go beyond saving fuel by at airports with APU restrictions
+reducing the use of the APU; they also unit operations Airlines Service
+reduce cabin cooling time, speeding up suppliers provider
+Compliance
+2
+the dispatch of the aircraft, even if the Disembarking Embarking documents
+AHM
+APU is unavailable.
+3
+IATA IGOM
+The diagrams to the right illustrate the
+possible additional fuel savings between
+APU Using air at +2°C APU
+an airport with APU restrictions, and an
+1. AMM 2. AHM 3. IGOM 4. GHM
+airport equipped with a sub-freezing PCA
+unit considering hot weather conditions 10 min 40 min max Airbus is the owner of the Aircraft The Airport Handling The IATA Ground Operations The airline is responsible for
+(OAT> 20°C). In practice, the use of the Maintenance Manual (AMM); manual (AHM) is a Manual (IGOM) defines the operation, establishes
+APU could be limited to only 10 minutes. the sub-freezing PCA procedure ‘what to do’ set of ‘how to do’ ground handling its Ground Handling Manual
+is a new AMM task. The AMM requirements for standards for airlines and service (GHM) based on the AMM
+Disembarking Embarking
+This duration corresponds to the limits the usage to only ground ground unit suppliers. providers, ensuring that ground and IGOM, and makes it
+connection/disconnection time of the based units compliant with the operations’ activities are safely available to the service
+sub-freezing PCA unit to the aircraft. Airbus document X21RP1146224 and consistently accomplished. provider.
+The sub-freezing PCA unit is able to sub-freezing PCA carts: The procedures reflect the
+supply air in all weather conditions Compliance document for supplier. minimum standards as identified
+APU Using air at -25°C APU
+to maintain the passengers’ comfort. by the aviation industry.
+5 min 5 min
+The time to bring the cabin temperature Pull down performance
+CONCLUSION
+down to 27°C for an empty aircraft
+to cool cabin from 38°C to 27°C on ground
+in hot sunny weather conditions
+Replacing the need for APU use
+(called the ‘pull down’ phase) is also
+at the gate, ground units may
+significantly improved.
+38°C now provide -25°C Pre-Condi-
+tioned Air (PCA) directly to the
+The diagram to the right compares the
+aircraft’s interface, without any
+pull down performance of a classic PCA
+aircraft modification.
+operation and a sub-freezing PCA
+operation. 30 This new sub-freezing PCA
+considerably reduces the
+For an A330, with a sub-freezing PCA 27°C ‘pull-down’ phase, even in
+unit delivering 1.9kg/s at -10°C at the extremely hot and humid
+Air at -10°C Air at +2°C
+connection of the aircraft, only 30 conditions, and allows airlines
+minutes are necessary to achieve +27°C to keep the aircraft cool more
+in the cabin, in a +38°C Outside Air 20 efficiently during Turn Around
+Temperature (OAT) condition. A current Time (TAT).
+PCA unit delivering the 1.9kg/s at +2°C 0 30 60 90 120
+needs 90 minutes. The reduced use of the Auxiliary
+Time (minutes)
+Power Unit leads to economy
+The pull down phase performance of a of fuel and reduction of direct
+sub-freezing PCA unit is similar to an maintenance costs.
+aircraft air conditioning pack operation Furthermore the ‘pack off’
+(for the A320 Family, A330/A340 Family operation increases the time
+and the A380). between cleaning the pack heat
+exchangers and contributes
+to reducing bleed leak overheat
+occurrences in hot regions.
+A resulting advantage is the
+decrease of noise pollution and
+emissions at the gate.
+FAST
+from the PAST
+There wouldn’t be any future
+without the experience of the past.
+25#TSAF
+83
+egatireh
+etaroproc
+SDAE
+fo
+ysetruoc
+otohP
+25#TSAF
+93
+We’ve got it covered
+Around the clock, around the world,
+Airbus has more than 240 field representatives
+‘Up a bit - down a bit - reverse-up now.’
+based in over 110 cities
+‘Perhaps we need heavier men on the front of the truck to stop it toppling over.’
+‘Watch out! - the wind’s getting up.’
+Positioning an engine is still a tricky business, but now so much easier and safer
+thanks to the new electrical hoist kit for bootstrap systems (see page 10).
+WORLDWIDE TECHNICAL, MATERIAL & LOGISTICS TRAINING CENTRES
+Tel: +33 (0)5 6719 1980 Airbus Technical AOG Centre (AIRTAC) Airbus Training Centre
+Fax: +33 (0)5 6193 1818 Tel: +33 (0)5 6193 3400 Toulouse, France
+Fax:+33 (0)5 6193 3500 Tel: +33 (0)5 6193 3333
+USA/CANADA
+airtac@airbus.com Fax: +33 (0)5 6193 2094
+Tel: +1 703 834 3484
+Spares AOG/Work Stoppage Airbus Maintenance
+Fax: +1 703 834 3464
+• Outside the Americas: Training Centre
+CHINA Tel: +49 (0)40 5076 4001 Hamburg, Germany
+Fax: +49 (0)40 5076 4011 Tel: +49 (0)40 7438 8288
+Tel: +86 10 8048 6161 Ext. 5020
+aog.spares@airbus.com Fax: +49 (0)40 7438 8588
+Fax: +86 10 8048 6162
+• In the Americas:
+Airbus Training Centre Americas
+FIELD SERVICE SUPPORT Tel: +1 70 3729 9000
+Miami, Florida - U.S.A.
+ADMINISTRATION Fax: +1 70 3729 4373
+Tel: +1 305 871 3655
+aog.na@airbus.com
+Tel: +33 (0)5 6719 0413
+Fax: +1 305 871 4649
+Fax: +33 (0)5 6193 4964
+Spares In-Flight orders outside the Americas:
+Tel: +49 (0)40 5076 4002
+Fax: +49 (0)40 5076 4012
+ifd.spares@airbus.com
+Spares related HMV issues outside the Americas:
+Tel: +49 (0)40 5076 4003
+Fax: +49 (0)40 5076 4013
+hmv.spares@airbus.com
+Spares RTN/USR orders in the Americas:
+Junkers Ju 90 Please contact your dedicated customer spares
+account representative csr.na@airbus.com
+Own the sky
+.skramedart
+deretsiger
+era
+seman
+tcudorp
+eht
+dna
+ogol
+sti
+,subriA
+With the A380, the sky is yours. Designed for airline
+growth, it carries 30% more passengers to boost
+direct and connecting traffi c into your network.
+So you can capture more business, open new
+routes and increase profi table connecting traffi c.
+That means higher market share, higher load
+factors and higher revenues.
+11217_AIR_OwnTheSky_Fluffy 297x210_1.0.indd 1 26/06/2013 14:56

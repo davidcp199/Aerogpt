@@ -1,0 +1,2753 @@
+Airbus technical magazine
+November 2016
+A380 Special edition
+FA S T
+Flight Airworthiness Support Technology
+Alain FLOURENS
+Head of the A380
+Programme
+Dear Airbus friends,
+With the 200th A380 delivery coming up this year,
+we wanted to give you an update on this unique
+aircraft and its evolution, in a special edition of FAST.
+A380 operations are certainly extending. Since January
+this year, we have seen 15 new routes, 8 new
+destinations and the world’s longest-ever direct flight
+between Dubai and Auckland.
+We at Airbus firmly believe the A380 is a cost-effective
+and versatile solution for customers and for increasingly
+congested hubs, such as Heathrow and Hong Kong.
+We have therefore been continuously working
+to improve operations, facilitate maintenance
+and increase profitability of the aircraft, in
+particular with an optimised cabin space.
+We are now offering improved cabin layouts that
+allow for the best class segmentation so airlines
+can optimise revenues. This increased cabin
+flexibility also meets market needs, in line with
+new travelling trends and the growing traffic
+in regions such as Asia and the Middle East.
+With its still unbeaten comfort features of
+quietness, smoothness of flight and seat width,
+the A380 remains a unique experience
+and a firm favourite for air travel, with 60%
+of A380 passengers actually ready to make
+an extra effort to fly the aircraft again.
+You can read more in the article on page 28.
+To encourage even more passengers to enjoy
+the experience, Airbus has created an A380
+website, iflyA380.com, that gives information
+about A380 destinations, flights, airline
+operators and passenger feedback.
+iflyA380.com also incorporates a tool to facilitate
+A380 bookings with airlines. This is only a first step
+and we have other ideas to promote the A380 directly
+to passengers.
+And looking ahead, for those customers interested in the
+second-hand market, we are ready with support including
+cabin reconfiguration, training and operations.
+The A380 Special edition gives you a 360° view of our
+iconic aircraft’s evolution and our efforts to make it even
+more profitable and attractive.
+Enjoy the tour and discover - or re-discover - the A380!
+noitide
+laicepS
+083A
+-TSAF
+20
+04
+10
+Pilots at the controls of the A380 22
+Passenger experience 28
+Ensuring the best A380 cabins 34
+Innovative systems
+42
+and aircraft design
+Capability and profitability
+50
+enhancements
+Service packages
+60
+to optimise operations
+Field representatives 63
+© AIRBUS 2016
+All rights reserved. Proprietary document
+By taking delivery of this Magazine (hereafter ‘Magazine’), you accept on behalf of your company to comply with the following. No other property rights are granted by the delivery of this Magazine than the right
+to read it, for the sole purpose of information. This Magazine, its content, illustrations and photos shall not be modified nor reproduced without prior written consent of Airbus. This Magazine and the materials it
+contains shall not, in whole or in part, be sold, rented, or licensed to any third party subject to payment or not. This Magazine may contain market-sensitive or other information that is correct at the time of going
+to press. This information involves a number of factors which could change over time, affecting the true public representation. Airbus assumes no obligation to update any information contained in this document
+or with respect to the information described herein. The statements made herein do not constitute an offer or form part of any contract. They are based on Airbus information and are expressed in good faith
+but no warranty or representation is given as to their accuracy. When additional information is required, Airbus can be contacted to provide further details. Airbus shall assume no liability for any damage in con-
+nection with the use of this Magazine and the materials it contains, even if Airbus has been advised of the likelihood of such damages. This licence is governed by French law and exclusive jurisdiction is given
+to the courts and tribunals of Toulouse (France) without prejudice to the right of Airbus to bring proceedings for infringement of copyright or any other intellectual property right in any other court of competent
+jurisdiction. Airbus, its logo, A300, A310, A318, A319, A320, A321, A330, A340, A350, A380 and A400M are registered trademarks.
+Photo copyright Airbus. Photo credits: Master Films: Hervé Goussé, A.Doumenjou, P.Pigeyre / Shutterstock: Mislik, mary416, Jorg Hackemann, Sorbis, superjoseph, Philip Lange, Josef
+Hanus, EQRoy / Engine Alliance
+noitide
+laicepS
+083A
+-TSAF
+30
+Airbus technical magazine
+A380 Special edition
+FA S T
+Flight Airworthiness Support Technology
+Operational versatility of the A380
+The solution for airlines
+and airports
+Publisher: Bruno PIQUET
+Chief Editor: Deborah BUCKLER
+Editor: Emma MUNDAY ALVARADO
+Design: PONT BLEU
+Cover image: A. Doumenjou
+Printer: Amadio
+Authorisation for reprinting
+FAST magazine articles
+should be requested by email:
+fast.magazine@airbus.com
+FAST magazine is available on internet
+www.airbus.com/support/publications
+on tablets and smartphones
+ISSN 1293-5476
+Where you see this icon, a video is available
+on the FAST magazine app (Apple & Android).
+noitide
+laicepS
+083A
+-TSAF
+40
+Operational versatility
+of the
+The A380 has made a significant impact on the long-haul
+market since its entry-into-service in October 2007.
+Article by (left to right) For many airlines, it has taken on the flagship role,
+Frank VERMEIRE introducing new levels of passenger comfort and
+Head of A380 Marketing
+amenities, resulting in widespread passenger praise.
+AIRBUS
+frank.vermeire@airbus.com
+The variety of operations from short to ultra long-haul
+Kenneth BRIGHT markets, and from 4-class to 2-class, demonstrates
+Head of Fleet & Network Profitability
+the A380’s flexibility, and that it brings solutions
+AIRBUS
+ken.bright@airbus.com to increasing passenger traffic.
+noitide
+laicepS
+083A
+-TSAF
+50
+Operational versatility of the A380
+Optimised flights
+Today, A380 operations span the globe with over 110 routes to 55 destinations.
+The three major airline alliances are represented. The A380 has a significant presence
+at the world’s biggest hubs such as Dubai, Los Angeles and Hong Kong. It has been
+a key enabler for slot-constrained airports to maintain their growth.
+At London Heathrow, one of the most congested airports in the world, there are now
+56 daily A380 flights representing 8% of the airport’s passenger traffic.
+Seoul Hong
+Vancouver
+Kong Kuala
+Washington Lumpur
+x1 Bangkok
+San Francisco x1 x1
+x1 x2
+x1
+x1
+x1 Singapore
+London
+Los Angeles
+x2 x3
+x2
+x1
+x6 Dubai
+Miami x1
+x2
+x2
+Abu Dhabi
+Johannesburg
+Doha
+British Airways (BA), London’s home carrier, has used the A380 to consolidate
+frequencies and release valuable slots for new destinations. Up until the summer of
+2013, BA operated 3 daily B747 flights on the London to Los Angeles route. This was
+replaced with a twice-daily A380 service which offered the same seat capacity, but
+lowered the daily trip operating cost by nearly 20%. This consolidation offers more
+capacity at the peak time when passengers want to travel. In addition, BA A380s are
+configured to accommodate 5% more premium passengers, leading to higher overall
+revenue than on its B747s. Beyond the improvement in efficiency, freeing up a
+valuable slot for new route development was a key benefit for an airline operating
+at such a constrained airport.
+BA is not alone in using the A380 to consolidate capacity. Thai Airways replaced a
+10x weekly B777-300ER service with a daily A380 on the Bangkok to Paris CDG
+route. There are numerous other cases of operators consolidating a mix of daily and
+twice-daily services into a daily A380 to optimise the network and focus on peak
+travel times. Other operators have used the A380 to boost their growth to particular
+destinations which are either highly constrained, or demonstrate a strong time-of-day
+preference. In 2008, Singapore Airlines, the first to operate the A380, switched all of
+its 3 daily B747 frequencies to A380s on the London to Singapore route to capture
+the high levels of demand.
+The A380 has also brought solutions to market seasonality, a phenomenon seen in
+many markets. Lufthansa deploys the A380 on routes which see high peak season
+demand such as Frankfurt to San Francisco. By deploying the A380 during the 6 to
+8-month summer period, it receives a significant boost in revenue thanks to the 60%
+capacity increase. Beyond the increase in capacity on the route it flies, the A380 also
+has a dramatic effect on connecting traffic. Traffic figures show the introduction of the
+A380 on SFO-FRA increased connecting traffic volume via Frankfurt by nearly 80%.
+The additional passenger volume and revenue on regional and domestic feeder flights
+give operators the opportunity to benefit from more competitive unit costs due to the
+A380’s greater economies of scale.
+Birmingham
+Manchester Copenhagen
+Moscow
+Amsterdam Prague
+Vancouver Dusseldorf
+London
+Frankfurt
+Toronto Paris Munich
+Vienna
+Boston Zurich Seoul
+Milan
+San Francisco New York Madrid
+Dallas Rome Beijing
+Washington Barcelona
+Tokyo
+Kuwait Chengdu
+Los Angeles Atlanta Dubai New Delhi Osaka
+Shanghai
+Houston Doha Hong Kong
+Miami Taipei
+Mumbai
+Jeddah Guangzhou
+Abu Dhabi
+Mexico
+Bangkok
+Kuala Lumpur
+Abidjan Singapore
+A380 hubs
+Future A380 routes
+Brisbane
+Mauritius
+Current A380 routes
+Johannesburg Sydney
+Perth Auckland
+OAG data at September 2016 Melbourne
+noitide
+laicepS
+083A
+-TSAF
+60
+Operational versatility of the A380
+An outstanding payload range performance gives the A380 The 8,600 nautical mile trip (elapsed travel time of 17 hours, 15
+the ability to fly some of the longest routes in the world. minutes) will be one of the longest scheduled flights in the world.
+On the Dallas to Sydney route, Qantas previously operated The convenience of a non-stop flight is particularly sought after
+B747-400ERs, which had to make a technical refuelling stop by premium passengers, giving A380 operators the added
+in Brisbane. When Qantas started flying the A380, it was able advantage of attracting higher yields. In addition, the exceptional
+to fly the route non-stop to Sydney. Similarly, Emirates operates space and comfort of the A380 is greatly appreciated by
+several ultra long-haul routes from Dubai, passengers who travel on ultra long-haul flights.
+including Los Angeles and Dallas. Emirates has recently
+announced the latest addition to its ultra long-haul network,
+a non-stop A380 flight from Dubai to Auckland.
+Operational versatility of the A380
+The A380 offers its operators the space to innovate with new passenger amenities
+such as bars, showers and duty-free shops. Etihad introduced ‘The Residence’ a
+class beyond first. With a separate bedroom and seating area, it provides a flying
+experience close to that offered on a corporate jet. All these amenities serve to
+increase the level of service beyond the seat and allow A380 operators to further
+differentiate themselves from the competition. As illustrated by the famous ‘flying
+A380 bar’, operators are successfully marketing these amenities to the public.
+The resulting product awareness influences passengers to seek out A380 flights.
+Over the past nine years of A380 operations, passenger feedback regarding the
+unprecedented space and comfort offered by the A380 has been overwhelmingly
+positive. Surveys have shown that, given a choice, passengers clearly prefer travelling
+on the A380 compared to other competing aircraft types – and that many passengers
+say they are willing to pay a premium to travel on the A380. (Read more in Passenger
+Experience on page 28.)
+These positive survey results and strong anecdotal support for the A380 ran counter
+to the conventional wisdom of some who assumed that the A380’s larger size would
+require operators to discount fares in order to fill the additional seats.
+Birmingham
+Manchester Copenhagen
+Moscow
+Amsterdam Prague
+Vancouver Dusseldorf
+London
+Frankfurt
+Toronto Paris Munich
+Vienna
+Boston Zurich Seoul
+Milan
+San Francisco New York Madrid
+Dallas Rome Beijing
+Washington Barcelona
+Tokyo
+Kuwait Chengdu
+Los Angeles Atlanta Dubai New Delhi Osaka
+Shanghai
+Houston Doha Hong Kong
+Miami Taipei
+Mumbai
+Jeddah Guangzhou
+Abu Dhabi
+Mexico
+Bangkok
+Kuala Lumpur
+Abidjan Singapore
+A380 hubs
+Future A380 routes
+Brisbane
+Mauritius
+Current A380 routes
+Johannesburg Sydney
+Perth Auckland
+OAG data at September 2016 Melbourne
+noitide
+laicepS
+083A
+-TSAF
+70
+Greater
+passenger
+appeal,
+greater
+demand
+Operational versatility of the A380
+noitide
+laicepS
+083A
+-TSAF
+80
+The Wingtip Study
+Airbus designed a scientific ‘apples-to-apples’ real-world comparison, known as the
+Wingtip Study, to test whether passengers are truly willing to pay more to enjoy the
+extra space and comfort of the A380. The study took its name directly from airline
+scheduling terminology; ‘wingtip departures’ occur when an airline schedules two of
+its aircraft to fly from the same origin to the same destination, departing within a very
+short time of each other – almost as if the two aircraft are flying wingtip-to-wingtip
+in formation towards their shared destination.
+The Wingtip Study looked for real-world examples of airlines operating both the B777
+and the A380 in tandem as wingtip departures. By using this type of head-to-head
+comparison, all of the variables that might otherwise distort a comparison between
+aircraft types were eliminated.
+Airbus identified two examples of A380s and B777s being operated together to
+create wingtip departures. In the first case, Air France operated daily B777 and A380
+departures from New York to Paris with only 45 minutes between the two flights.
+In the second example, British Airways scheduled daily A380 and B777 departures
+from Hong Kong to London with only 15 minutes between the two flights.
+Because the wingtip departures were operated by a single airline at nearly the same
+time, it was possible to determine if a customer preferred a specific aircraft type.
+Any distorting criteria that might have existed due to the time of departure, choice
+of airline, on-board product, or potential connections at the hub, were completely
+eliminated because both flights were nearly identical in all of the above respects.
+The only real difference between the two wingtip flights was the type of aircraft used
+to operate them – so any passenger preference for one aircraft over the other would
+be easily identified.
+Following five months of detailed analysis, the study’s findings clearly supported what
+passengers had been saying all along: that they prefer to travel on the A380, and they
+are willing to pay a premium to do so. Far from A380 operators having to discount
+their fares, the above Wingtip Study examples showed that an A380 fare premium
+already exists in all classes.
+In the case of Air France’s JFK-CDG wingtip departures, average business class fares
+on the A380 were $74 higher than those on the corresponding B777 flight, while
+average A380 economy class tickets cost $25 more than those on the similarly-timed
+B777 flight.
+Business class fare comparison A380 vs B777
+JFK to CDG
+$9 000
+$8 000
+$7 000
+$6 000
+$5 000 B777
+A380
+$4 000
+$3 000
+$2 000
+$1 000
+$0
+0 10 20 30 40 50 60 70 80 90
+Days prior to departure
+)$SU(
+eraf
+ssalc
+ssenisub
+pirt-dnuor
+egarevA
+The study demonstrates
+that A380 passengers
+have been choosing
+aircraft type ahead of
+cost, and are already
+willing to pay a premium
+to travel aboard the A380.
+Average fares within 14 days prior to departure:
+A380 fares are 1 .5% higher(~$116 )
+Average fares within 80 days prior to departure:
+A380 fares are 1.2% higher(~$74)
+Operational versatility of the A380
+CONCLUSION
+How the A380 market will develop in the future can be seen by looking at long-term worldwide traffic
+forecasts which show a doubling of passenger traffic every 15 years. Furthermore, the proportion of global
+traffic which will pass through megacities (cities with over 10,000 daily long-haul passengers) will increase
+from 90% today to 93% by 2024. As a result, the pressure on big hub airports, many of which are
+congested today, will only increase. Airport upgrades needed to absorb traffic growth, can take many years
+and may meet objections from local communities. Large aircraft such as the A380 offer an immediate
+solution to airlines, airports and travellers alike.
+noitide
+laicepS
+083A
+-TSAF
+90
+Future opportunities for the A380
+So what is the next step in the way operators fly the A380? The A380 is nearing its
+first decade of service and, as with all other aircraft programmes, some of the first
+A380s will move into the second-hand market. Exploring the A380’s second-hand
+market potential reveals new opportunities such as the Hajj/Umrah pilgrimages.
+An airline’s challenge during the Hajj pilgrimage is to transport the largest possible
+number of pilgrims over the shortest period of time. They must also minimize the
+number of days (or weeks) pilgrims must wait in the country before and after the event
+until they can secure space to return home. No aircraft makes more economic sense
+than the largest one, the A380. However, how can an airline optimise use of the
+aircraft during the rest of the year?
+The development of Umrah, a pilgrimage made outside of the Hajj period, could be
+the answer. Umrah traffic is already 4 times the size of Hajj overall. Today, this market
+is predominantly served by ageing B747s which must be replaced over the next few
+years. Not only does the A380 offer the right capacity, but it also has a 20-30%
+reduction in cost per seat vs the B747.
+The solution for airlines
+and airports
+The A380’s unique high capacity can bring value not only
+to airlines, but also to airports by helping to solve airport
+congestion.
+Most megacity airports are congested, with slots being
+a nearly priceless resource. Limited slots mean airlines
+are unable to accommodate passenger demand at peak
+Article by (left to right)
+times. The A380 is ideally suited to high-volume trunk
+Willy-Pierre DUPONT
+routes between expanding megacities. Senior Expert Airport Operations
+AIRBUS
+willy-pierre.dupont@airbus.com
+New definitions for wake vortex separations enable
+Céline BOYON
+the A380 to easily integrate traffic whilst offering
+A380 Marketing Manager
+greater capacity. AIRBUS
+celine.boyon@airbus.com
+The A380 has proven that it can be integrated into airport Laurent BOISSON
+Airports & Product Competitiveness
+operations, show ing strong advantages against other very
+AIRBUS
+large aircraft. Today, 230 airports can welcome the A380, laurent.boisson@airbus.com
+and this trend is increasing.
+noitide
+laicepS
+083A
+-TSAF
+01
+The solution for airlines and airports
+Airport congestion
+More demand, more traffic
+Passenger air traffic has doubled every 15 years since the early 1980’s. Although
+the world endured various crises, with difficult periods for the air transport industry,
+the long-term growth trend was quickly re-established. Today, solid growth drivers
+for the industry are in place with, at the forefront, the economic dynamism of
+emerging countries. Demand is set to continue and is even expected to double
+again in the next 15 years. The Airbus 20-year forecast shows an expected average
+annual growth rate of 4.5%.
+World annual traffic (trillion RPK)
+ICAO total traffic Airbus GMF 2016: 4.5% growth p.a.
+18
+16
+14
+12
+10
+8
+x2 x2
+6
+4 x2
+2
+0
+1975 1980 1985 1990 1995 2000 2005 2010 2015 2020 2025 2030 2035
+RPK Revenue Passenger-Kilometre
+GMF Global Market Forecast More traffic, bigger megacities
+In 2014, another five urban centres became aviation megacities, meaning hubs with
+more than 10,000 daily long-haul passengers. The largest is currently London, with
+120,000 – the only city today handling more than 100,000 daily long-haul passengers.
+In 2014, there were on average 10,000 landings per month per runway at London
+Heathrow. Dubai, the main hub of the Middle East, is second largest with 98,000
+passengers. However, 20 years from now, all of the 10 largest aviation megacities will
+have daily traffic of over 100,000 daily long-haul passengers. Together, these 10 cities
+will transport 1.5 million long-haul passengers each day.
+Bigger megacities, bigger aircraft
+To support the increase in demand, airlines around the world have responded by
+developing their networks. Service has been extended to new airport pairs, and more
+airlines have started flying on existing routes. In parallel to the development of air
+services, airlines are increasingly using larger aircraft. Over the past ten years, the
+number of seats per flight has grown by 20% the highest ten-year increase since the
+1970’s. The trend towards larger aircraft is a result of airline efforts to become more
+productive through the transportation of passengers at a lower cost per seat, but also
+a result of airport congestion. Increasingly, airports reach their limits in terms of slot
+capacity, consequently affecting air traffic management. At these airports, an increase
+in traffic is only possible by using larger aircraft in the short to medium term.
+noitide
+laicepS
+083A
+-TSAF
+11
+Hub-and-spoke* concerned by congestion
+With the deregulation of the air transport sector, carriers have become free to make *Hub-and-spoke: Aircraft deployment method
+strategic choices on fares and network structures, which has led to a concentration in which a carrier designates one or more
+strategically located cities as hubs to which
+of traffic on the spoke routes. The success of hub-and-spoke structures in the years
+its larger aircraft bring most of its passengers
+following the deregulation is explained partly by the savings from operating fewer
+and cargo through many scheduled
+routes and partly by the economies of scale from using larger aircraft to absorb traffic flights. The passengers and cargo are then
+density. However, this concentration of traffic from hub-and-spoke networks has con- taken to their respective destinations by
+tributed to greater airport congestion. In congested hubs, a high proportion of flights smaller aircraft belonging to the same carrier
+or smaller (commuter or feeder) airlines
+are affected by delays, cancellations and missed connections that end up affecting
+under a code-sharing arrangement.
+both air travellers and airlines. Congestion is therefore a major concern and a relevant
+policy issue.
+80% of megacities are congested
+Congestion occurs when airports cannot fully cope with demand. IATA (International
+Air Transport Association) has been at the forefront of ensuring a fair, neutral and
+transparent allocation of airport slots at the world’s most congested airports through
+2024 aviation megacities
+the application of the Worldwide Slot Guidelines (WSG). Over 170 airports are formally
+designated as Level 3 (most congested, requiring slots), and this number is expected
+Capacity control is already in place
+to grow significantly due to a lack of investment in airport infrastructure to cope with
+increasing demand.
+IATA level 3
+mandatory slot control
+IATA level 2
+Level 3: capacity is constrained due to
+lack of sufficient infrastructure.
+Level 2: potential for congestion during
+some periods of the day, week, or
+season which can be resolved by
+voluntary cooperation between airlines.
+Level 1: capacity of the airport
+infrastructure is generally adequate to meet
+the demands of airport users at all times.
+New airport infrastructures
+not the fastest and easiest solution
+Airport infrastructure projects are not easy to implement. They take time, involve
+many stakeholders and are frequently delayed. Sometimes, even if infrastructure
+projects are achieved, they are not always the solution. If there is congestion on
+the ground, the same applies to the sky. Additional runways do not always solve
+the airspace congestion, as shown in Guangzhou, China, where despite a new
+third runway, slots remain limited due to airspace congestion.
+In these types of cases, solving congestion becomes much more complex for
+the airports and airlines.
+noitide
+laicepS
+083A
+-
+TSAF
+21
+The solution for airlines and airports
+The solution for airlines and airports
+Secondary airports not covering overflow
+When an airport is constrained, nearby airports do not always capture the entire
+passenger overflow. Airlines can lose revenue by putting seat capacity at lowest yield
+at secondary airports, and miss network and hub efficiency. The number of passen-
+gers travelling through London Heathrow has grown at less than 1% on average per
+year since 2000; during this same period, London’s other airports have grown at
+nearly twice that rate. However GDP* indicates that Heathrow should have handled
+nearly 15 million more passengers than it did in 2013. It would be logical to assume
+those passengers, squeezed out of Heathrow, would have simply turned to nearby
+airports. But London’s other airports captured only about half of this overflow.
+*GDP Gross Domestic Product (strongly correlated to air traffic growth)
+A380: capacity to cope with airport congestion
+Due to its size and capacity, the A380 is the most efficient way to capture traffic at
+the most concentrated places and times, maximising revenue for airlines by seizing the
+strong passenger flow at the highest yield times. The A380 increases capacity on trunk
+routes, boosts connecting traffic and strengthens hub position. By consolidating routes
+with the A380, airlines increase seat capacity while creating economies of scale, as
+well as freeing up airport slots, or using current slots and adding more passengers.
+The A380’s high capacity
+plays a key role
+in solving airport congestion
+noitide
+laicepS
+083A
+-TSAF
+31
+noitide
+laicepS
+083A
+-TSAF
+41
+The solution for airlines and airports
+Relieving congestion and freeing up slots by airport chief executives
+Hong Kong International Airport is Asia’s busiest.
+A plane lands or takes off every minute; but the
+airport is built on re-claimed land so expanding
+isn’t simple.
+The way forward for the local authorities
+is persuading airlines to bring more passengers
+in and out on bigger aircraft like the A380.
+Eight airlines already fly A380s into Hong Kong;
+and last year a milestone was reached there with
+the 5000th flight. The airport had nearly 70 million
+passengers in 2015 and is keen for that to rise.
+Fred LAM says many passengers, especially the
+Chinese, choose this airport because of the A380
+option. So he has a winning argument to entice
+airlines to switch increasingly to bigger aircraft - it
+will help them save money.
+Our two runway situation at the moment can accommodate about 1100 aircraft
+movements per day. We are almost reaching that size capacity, so we are in the
+process of building a new runway. But a third runway will not be available for at least
+another 8 years, so in the meantime we are doing what we can to encourage airlines
+to switch to bigger aircraft, which will hopefully bring us more passengers
+to the airport.
+Fred LAM
+Chief Executive, Hong Kong International Airport
+These quotes are extracts from video interviews with airport
+chief executives, available on the app version of FAST magazine
+noitide
+laicepS
+083A
+-TSAF
+51
+The solution for airlines and airports
+Relieving congestion and freeing up slots by airport chief executives
+London Heathrow Airport is also the biggest
+on its continent with 75 million passengers and a
+take-off or landing every 45 seconds, also on just
+two runways. Again the solution is bigger planes.
+Heathrow is one of the great airports of the world and we are also full. When you are
+at capacity you need to have the largest airplanes operating from your airport to be
+able to serve more passengers and that is what the A380 does. It’s the largest plane
+in the world, it helps us serve more passengers on very busy routes out of Heathrow
+and it also frees up slots to serve new routes in North America, South America and
+Asia that we wouldn’t otherwise be able to serve.
+...
+Over the last 30 years the number of people impacted by aircraft noise at Heathrow
+has pretty much halved. That’s because of new technology such as the A380 and
+it means we can expand Heathrow and still have fewer people impacted by aircraft
+noise because of aircraft like the A380. That is why we incite airlines to bring their
+quietest and cleanest airplanes like the A380 here to Heathrow.
+...
+We have re-built Heathrow in the last ten years. We have invested £11 billion to create
+this world class airport but of course we have to be able to pay for that and the more
+passengers we have coming through, the more affordable we can make it. There is a
+virtuous circle there - we are actually reducing our landing fees because we are get-
+ting more passengers coming through and the A380 has been key to that in helping
+us to have more passengers for every landing and take-off that we have.
+John HOLLAND-KAYE
+Chief Executive, Heathrow Airport
+Both Heathrow and Hong Kong point out that with
+extra passenger numbers, their retail and restaurant
+outlets emerge winners too. So keen are the two
+airports to have A380 traffic, that they have re-
+duced landing fees for those planes.
+These quotes are extracts from video interviews with airport
+chief executives, available on the app version of FAST magazine
+Compatible destinations today
+Compatible alternates today
+Potential compatible alternates
+noitide
+laicepS
+083A
+-TSAF
+61
+The solution for airlines and airports
+Airport compatibility
+The A380 is a very special aircraft, with true benefits for airports and airlines alike.
+Since the early days of A380 development, Airbus has been working closely
+with airports to expand the network of compatible airports.
+A growing network of A380-compatible airports
+230 compatible airports today (destinations + alternates)
+400 potential compatible airports
+The solution for airlines and airports
+Working together
+The ‘working together’ concept is a collaborative approach generally applied to the
+concept phase of a new aircraft whereby airlines are invited to get involved all along
+the key milestones of the development programme.
+Airbus applied a similar concept with the airports for the A380. Airports took part in
+the design by providing their specific requirements, which enabled them to anticipate
+future adaptations. Regulators were included in the early stages, as local rule-making
+drives airport modifications.
+In parallel, the International Industry Working Group (IIWG), a specific group first
+created for the Entry-Into-Service (EIS) of the B747 in 1970, unites key industry
+stakeholders including airlines, airports, regulators, manufacturers and service
+providers. This group enables free flow of information between members, as well as
+a close relationship between aviation bodies such as the International Coordinating
+Council of Aerospace Industries Associations (ICCAIA), the International Air Transport
+Association (IATA) and the Airports Council International (ACI).
+noitide
+laicepS
+083A
+-TSAF
+71
+In the first half of 2016, the A380 Latest approved airports
+was approved for commercial
+operations at: Another crucial criterion for airport compatibility is timeframe. Compatibility mitigation
+can solve any issues that may appear in only a few months through operational
+MEX (Mexico)
+measures, short term investments, etc. For longer-term planned operations or
+significant traffic increase forecast, early dialogue with airports is the most efficient
+GIG (Rio de Janeiro)
+way to prepare the compatibility through master planning. Organisations (ACI, IATA,
+GRU (Sao Paulo) IIWG…) allow a sound and mutually beneficial dialogue with world airports.
+It is important to identify the airport’s type of operation, as the requirements will be
+BHX (Birmingham)
+different if the airport is the destination, the primary alternate, the diversion, the
+en-route or the emergency airport.
+TPE (Taipei)
+VIE (Vienna) Preparing an airport for the A380 can be quite simple, with a short lead time.
+BHX (Birmingham) built an operational plan approved by the CAA UK, identified an
+ORD (Chicago) A380 gate and upgraded it with a third Passenger Boarding Bridge (PBB) in less than
+a year. It also bought already-used equipment from LHR (London Heathrow), which
+BOS (Boston) was key in reducing the lead time.
+GLOSSARY
+ACI: Airports Council International
+CAA: Civil Aviation Authority
+IATA: International Air Transport Association
+ICAO: International Civil Aviation Organization
+IIWG: International Industry Working Group
+The solution for airlines and airports
+Smooth integration into airport operations
+For an airport to become A380 compatible, a number of regulations must be taken
+into account. The International Civil Aviation Organization (ICAO) is the global aviation
+rule-maker.
+When studying an airport’s compatibility, these main areas are covered: airside,
+pavement, Turnaround Time (TAT) and Ground Support Equipment (GSE).
+Airside
+The airside refers to the area of the airport where the aircraft is in movement.
+Different points are checked:
+• Runway and taxiway compatibility is interfacing with the aircraft which includes
+performance on a given runway length
+• Main landing gear width vs runway or taxiway widths
+• Engine position vs runway or taxiway shoulder widths
+• Wing span vs runway or taxiway separations
+• Landing gear span and base vs runway turn pads and taxiway turns
+Pavement (weight & landing gear)
+The airport pavement loading characterisation is driven by the well-established ICAO
+ACN/PCN* method, which will be updated by 2020. The new method will be based
+on the Cumulative Damage Factor concept and Equivalent Single Wheel Loading,
+supported with significant testing achieved in the USA (National Airport Pavement Test
+Programme) and in France (A380 Pavement Experimental Programme), since the 1990’s.
+Due to its main landing gear layout, the A380 is unique in terms of cumulative pave-
+ment loading. Body gear stresses are cumulated with single-aisle aircraft main gear
+tracks and wing gear stresses are further outboard of widebody main gear tracks.
+A380 ACN values on flexible and rigid pavements are comparable to those of smaller
+widebodies despite the A380’s higher Maximum Take Off Weight. They are also below
+ACN values of the B777-300ER, which is the pavement sizing aircraft.
+*ACN Aircraft Classification Number
+PCN Pavement Classification Number
+Turnaround Time & Ground Support Equipment
+(Aircraft cabin & door distribution)
+The aircraft performance on ground (time and costs) is dependent on the aircraft’s
+size, door and service panel distribution, cabin layout, GSE availability and local
+specifics. The A380 is capable of a Turnaround Time of less than 90 minutes, as the
+cabin configuration and GSE staging and sequencing (catering vehicles and passenger
+boarding bridges in particular) allows for optimum ground handling and servicing.
+It is the only aircraft where the two cabin levels can be treated separately.
+noitide
+laicepS
+083A
+-TSAF
+81
+ROPS BTV
+Runway Overrun Prevention System (ROPS) is a safety feature Brake to Vacate (BTV) has been designed to optimise braking
+which alerts the pilots to the risk of runway overrun, and if efficiency and runway turn-around time, thereby improving traffic
+necessary, provides active protection. ROPS, an innovation flow and congestion. BTV technology allows pilots to select the
+introduced with the A380, continuously monitors an aircraft’s appropriate runway exit during the approach to landing.
+position and calculates the distance needed to safely stop on It also regulates the aircraft’s deceleration after touchdown,
+the runway in dry and wet conditions. If the determined enabling it to reach any chosen exit at the correct speed under
+stopping distance is longer than the available runway length, the optimum conditions, regardless of the weather and visibility.
+ROPS triggers visual and oral alerts.
+The solution for airlines and airports
+noitide
+laicepS
+083A
+-TSAF
+91
+Aircraft parameters to consider
+for airport compatibility:
+• Aircraft span vs runway and taxiway separations
+• Aircraft length vs runway turn pads and taxiway turns and stand lengths
+• Tail height vs hangars and Obstacle Limitation Surfaces (OLS)
+• Aircraft Classification Number (ACN) vs Pavement Classification Number (PCN)
+• Available Ground Support Equipment vs aircraft servicing requirements
+(electricity, air, water fuel, passenger and cargo handling, towing…)
+• Rescue and Fire Fighting (RFF) capability
+• Shortage of contact stands vs remote stands
+• Local environmental pressure vs aircraft noise and emission performance
+Excellent noise performance
+Noise performance is an important factor for airports which need to take into consider-
+ation local populations. Airports and their neighbours have welcomed the outstanding
+low noise performance of the A380.
+The high-lift system, helped by very large wingspan and state-of-the-art engines,
+allows the A380 to quickly gain altitude thereby reducing perceived noise at ground
+level. The A380 was the first aircraft to be certified at a Maximum Take-Off Weight
+(MTOW) of more than 400 tonnes with a cumulative noise level of 27 EPNdB* below
+ICAO Chapter 3.
+The Noise Abatement Departure Procedure (NADP) enables the reduction of flyover
+noise over sensitive areas. The diagram below illustrates the noise footprint of the
+A380-800 as recorded by local noise abatement associations during the first A380
+demo flight, compared to the B747-400.
+*EPNdB: Effective Perceived Noise level in decibels
+A380: half the noise with 60% more passengers
+A380: half the noise...
+B747-400 A380-800 Runway
+85dB(A)
+...with 60% more passengers
+noise contour
+B747-400
+85dB(A)
+noise contour
+A380-800
+Runway
+Optimising wake vortex separations at airports
+ICAO separations
+The A380 stands in its own category in ICAO recommendations for wake vortex The four ICAO categories
+separations. It is important for airports to be aware that, despite the A380’s size, and the wake vortex separations
+the wake vortex separation is no more than 1NM additional separation distance
+compared to other widebodies. Often the perception is that the A380 is adding Follower A380
+Heavy Medium Light
+2 NM of separation distance compared to other widebodies. -800
+Leader
+However, this is only looking at the separation to a follower of the A380; in actual
+fact there is a positive effect of the A380 on separations to aircraft flying in front of it. A380-800 6 NM 7 NM 8 NM
+In the ICAO separations standard set in 2008, the A380 is put in a new ‘Super
+Heavy’ category which imposes an extra 2 NM separation to any follower compared Heavy
+to if the A380 had remained in the ‘Heavy’ category (B767, B777-300ER or B747-8). MTOM 4 NM 5 NM 6 NM
+≥ 136 tonnes
+As the A380’s traffic share increases, some airports feel that their capacity (in terms Medium
+of passengers and/or aircraft movements) is penalised. However, this perception MTOM 5 NM
+<136 tonnes
+can be counterbalanced by two facts as illustrated below: ≥ 7 tonnes
+Light
+• The A380 can fly +1 NM closer to any ‘Heavy’ MTOM
+category aircraft flying ahead. < 7 tonnes
+This means that the overall string length of 2 ‘Heavy’ aircraft with an A380
+in the middle is only +1 NM longer than a string of three ‘Heavy’ aircraft.
+This is illustrated in the ICAO table to the right.
+• The A380 has a higher capacity than other aircraft.
+It offers over 70% more seats than a B777-300ER. In a sequence of three
+B777-300ERs, for example, the middle one could be replaced by an A380.
+While the overall string separation distance would only increase by 1 NM,
+the overall capacity of the string would increase by 26%.
+ICAO 6 NM 3 NM 1154 seats (+26%)
++1 NM
+Base: 3 consecutive
+B777-300 flights
+RECAT-EU 4 NM 3 NM 1154 seats (+26%)
+-1 NM
+ICAO 4 NM 4 NM 915 seats
+RECAT-EU allows A380 insertion with shorter
+ICAO 6 NM 3 NM 1154 seats (+26%) separation by 1 NM while bringing 26% more seats
++1 NM
+B777-300: 305 seats in 3-class configuration
+A380: 544 seats in 4-class configuration
+London Heathrow Airport, while following the ICAO separation rules, declared to
+Bloomberg on 13 January 2014 that, ‘the airport added 2.4 million passengers in 2013
+as airlines eked out seats by operating bigger planes including the Airbus A380’.
+noitide
+laicepS
+083A
+-TSAF
+02
+The solution for airlines and airports
+An empty cell means ‘Minimum Radar Separation’
+which can be as little as 3 NM.
+MTOM: Maximum Take-Off Mass
+NM: Nautical Miles
+The solution for airlines and airports
+RECAT-EU* separations *RECAT-EU: re-categorisation by Eurocontrol
+of ICAO wake turbulence longitudinal separation
+While most airports follow ICAO recommendations published in 2008, other separation minima on approach and departure
+standards have since been approved by regional airworthiness authorities which offer
+reduced separations. In 2014, EASA certified the RECAT-EU standard which is more
+advantageous for the A380 as well as other aircraft types. Airlines are encouraged to The future
+promote this concept to airports and to their national authorities. The EASA-approved
+Eurocontrol safety case can be used to approve RECAT-EU locally in any country. at ICAO level
+Eurocontrol obtained RECAT-EU certification after additional wake vortex in-flight
+measurements helped demonstrate that the A380 could reduce its wake vortex ICAO recommendations are
+separations. With its 6 aircraft categories, RECAT-EU offers a more optimum set of expected to be revised, taking
+separation rules compared to the 4 ICAO categories. For example, an aircraft in the into account any reduced
+RECAT-EU ‘Upper Heavy’ category such as the B777-300ER or B747-8 will be able separations which have been
+to get as much as 2NM closer to the A380 compared to the ICAO rules. When an certified since 2008 such as
+A380 is put in between two B777-300ERs, the overall string length is actually 1NM RECAT-EU and RECAT-US which
+shorter than three B777-300ERs behind one another in the ICAO rules, while still both offer reduced separations.
+offering 26% more seats. This is illustrated below. Common values need to be
+identified, in particular for the A380.
+Another illustration of a RECAT-EU benefit is the A380’s seamless integration into
+It is in the interest of all stakeholders,
+A320/B737 traffic which offers 38% more capacity to the overall string of aircraft.
+airlines, airports and civil aviation
+Many airports are converting or are considering converting to the RECAT-EU separation
+authorities that ICAO recommenda-
+standards. Paris Charles De Gaulle implemented RECAT-EU at the end of 2015.
+tions allow for more capacity
+London Heathrow has started working on implementing RECAT-EU separation rules
+at airports in the future.
+for the A380 in its ‘Time Based Separation’. Other airports interested in evaluating
+RECAT-EU implementation include Dubai, Frankfurt, Sydney and Singapore.
+ICAO 6 NM 3 NM 1154 seats (+26%)
++1 NM
+Base: 3 consecutive
+B777-300 flights
+RECAT-EU 4 NM 3 NM 1154 seats (+26%)
+-1 NM
+ICAO 4 NM 4 NM 915 seats
+RECAT-EU allows A380 insertion with shorter
+ICAO 6 NM 3 NM 1154 seats (+26%) separation by 1 NM while bringing 26% more seats
++1 NM
+B777-300: 305 seats in 3-class configuration CONCLUSION
+A380: 544 seats in 4-class configuration
+Air traffic is growing every year and becoming more and more concentrated at megacities, 80% of which
+are already congested today. Airport congestion and slot limitations are a global constraint recognised
+by all in the industry, and with its bigger capacity, the A380 is clearly part of the solution.
+With over 300 flights per day and 3 million passengers per month, the A380 has become a fixture at airports
+around the world. Specially designed to capture the growing passenger market and to be easily integrated in
+the airport operation process, the A380 is continuously opening new airport doors, and expanding its network.
+More than 110 routes are operating everyday with the A380, with a regular network expansion all year long.
+This is the result of the ‘working together’ concept with airports and taking into account regulations and aircraft
+parameters. Adopting reduced separation standards such as RECAT-EU is key in further improving A380
+capacity benefits to airports in the future.
+Today an A380 takes off or lands every 3 minutes, helping with airport capacity limitation, supporting airlines
+to maximize their hub efficiency and revenue, and offering passengers the best comfort in the sky.
+noitide
+laicepS
+083A
+-TSAF
+12
+Pilots at the controls
+Article by
+of the
+Jean-Michel ROY
+Test Pilot
+AIRBUS
+The A380 is seen by pilots around the globe as the airliner,
+creating envy anytime they see one taxiing ahead.
+FAST magazine opens the A380’s cockpit door to find out what
+the pilots actually think of this aircraft.
+A chance to discover how innovation and commonality with the
+existing Airbus fly-by-wire family are the pillars of its design.
+Fly (F)
+F1: The side sticks deliver the pilot commands to F4: The Primary Flight Display (PFD) monitors
+the Flight Control Computers, part of the Fly-By- the aircraft’s attitude (pitch and roll) as well as
+Wire (FBW) architecture, in manual flight. In line air data (altitude and airspeed) and flight mode
+with flight control laws, surfaces respond to the annunciator (displays automation mode informa-
+pilots’ commands. tion). On the A380’s screens, which are larger
+compared to older aircraft, the aircraft configura-
+F2: The flap lever controls the aircraft configura-
+tion indicator (slats/flaps/landing gear) is also
+tion for take-off and landing.
+displayed.
+F3: The pitch trim control switch. The A380, like
+F5: The engine thrust levers control thrust on
+all other FBW aircraft, is a stable platform. In
+all four engines. As on all FBW aircraft, they are
+normal law, an automatic trim function reduces
+normally set in a notch defining the maximum
+pilot workload during speed and configuration
+thrust available and the autothrust will regulate
+changes. On the A380, pitch trim is fully electrical
+according to the flight phase (climb thrust in
+including back-up (no more mechanical trim
+climb, speed control in cruise, idle in descent).
+wheels). At engine start, the trim is automatically
+If the pilot wishes, they can take the levers out of
+set according to where the aircraft’s centre of
+the notch and fly the thrust manually. On landing,
+gravity is located.
+two reversers are available on the inner engines.
+F6: The Auto Flight System control panel allows
+the crew to provide short-term commands to
+the Auto Flight System (Flight Director, Autopilot,
+Autothrust) like heading change, altitude change
+or speed change.
+Navigate (N)
+N1: The Navigation Display (ND) is the extra large screen that not only displays the aircraft’s position
+on a map, but also displays its altitude, improving pilots’ situational awareness relative to terrain
+and weather. On the ground, it is possible to display aircraft position on the airport map, increasing
+pilot situational awareness at big airports especially in poor weather conditions.
+N2: The Flight Management System (FMS) used for overall flight strategy is now controlled on
+a large screen, identical to the PFD and ND, allowing increased readability as well as improved
+reconfiguration capability. Pilots may interact with the FMS (along with the ND and mailbox) via a
+keyboard and track ball.
+N3: Brake to Vacate (BTV) is a new auto-brake function allowing runway occupancy time to be
+optimised while reducing brake wear and improving passenger comfort. This function is associated
+with runway overrun protections, offering enhanced safety and efficiency for landing (see ROPS
+article FAST #55).
+noitide
+laicepS
+083A
+-TSAF
+22
+Pilots at the controls of the A380
+S1
+F6
+F4 N1
+N3
+S2
+M1
+S3
+N2
+C2
+F1
+F5
+C1
+F2
+F3
+Communicate (C) Manage systems (S) Manage mission (M)
+C1: The integrated radio S1: The overhead panel brings together the aircraft system M1: The Onboard Information
+management panel allows control panels for air conditioning, electrical, fuel and hydraulic System (OIS) eases access
+easier management of voice systems, for example. The dark cockpit environment allows to operational information,
+communications. easy checking that the aircraft is ready to fly (no white lights). reducing pilot workload and
+the quantity of paper in the
+C2: The mailbox allows S2: The warning display shows the different checklists, both cockpit. It replaces paper
+interactive management in normal operation and in abnormal or emergency situations.
+documents with electronic
+of the datalink between
+ones, quickening information
+S3: The system display offers schematic views of systems the aircraft and the ground
+searches and updates to the
+relevant to the current flight phase. For example, in normal
+Air Traffic Control.
+operations manuals, navi-
+operation, it displays the door page at the gate, the engine
+gation charts, performance
+page during engine start and the wheel page during taxiing.
+computations for take-off,
+In the event of a system failure, it presents the relevant page.
+en route and landing, etc.
+Cameras relay real-time video of parts of the aircraft
+(e.g. cockpit door).
+noitide
+laicepS
+083A
+-TSAF
+32
+A380 versatility
+by Abbas SHABAN
+Captain with Emirates
+The A380 is a versatile aircraft which provides Emirates with an opportunity to
+deliver a unique customer experience. The aircraft’s real estate allows us to offer
+features such as our onboard spa and lounge which tend to be very well received by
+our customers and are also key revenue drivers.
+The Emirates A380s provide a strong revenue potential on trunk routes with strong
+demand for premium classes and the large economy cabin in the aircraft helps lower
+commercial risk by covering operational and fixed costs.
+One of the other important factors about the A380 that improves the overall
+customer experience is the reduced noise levels inside the cabin when compared to
+other widebody aircraft.
+Despite being a large aircraft, the A380 has outstanding performance capabilities
+requiring a shorter runway length for take-off and landing compared to other widebody
+aircraft. It can take off with an overall weight of 575,000 kg and at temperatures
+up to 45°C. This gives us the flexibility to schedule A380 departures at any
+time of the day including baking afternoon missions in peak summer! The A380 is
+also very importantly one of the most environmentally-friendly aircraft with excellent
+noise and emission characteristics.
+Accomplishing business targets
+In terms of customer engagement the A380 helps Emirates offer a superior product
+that works like a crowd-puller.
+Operationally, the large widebody capacity offered by the A380 is a critical part of
+Emirates’ strategy to optimise operations to congested airports. The A380’s payload
+range means that it is capable of the longest hauls on the Emirates network.
+For example, Emirates will soon be operating non-stop flights from Dubai to Auckland
+- a flight time of almost 18 hours!
+Adaptability to different route types
+The versatility of the A380 allows Emirates to operate different combinations of
+payload and range to meet the diverse route requirements on the Emirates network.
+For example, Emirates uses the A380 on short flights from Dubai to Jeddah, Kuwait,
+on medium-range flights to various destinations in Europe and on ultra long range
+flights to destinations in the USA, Australasia and so on. Emirates’ strategy primarily
+revolves around using the A380 for trunk demand on mature routes which could be
+short, medium or long-haul and it works best in our network when trunk routes feed
+other trunk routes.
+However, there are certain factors especially related to airport infrastructure that
+make the deployment of the A380 on certain routes fairly difficult. These include the
+limited number of new airports that are compatible to operating an A380 and the
+challenges around development of airport compatibility for secondary airports.
+noitide
+laicepS
+083A
+-TSAF
+42
+Pilots at the controls of the A380
+A380 technologies
+by Jacques VERRIERE
+Captain with Air France
+Air France’s pilots were already familiar with technologies such as Flight Management
+System (FMS) and fly-by-wire, but in the A380 cockpit, we found improved human-
+machine interfaces (FMS is one example) as well as several new technologies.
+The most visible feature in our cockpits is the dual Head-Up Display (HUD) installation.
+Some other technologies are less visible but still important for safety. For the first time,
+we flew an aircraft equipped with Brake To Vacate (BTV) and Runway Overrun Prevention
+System (ROPS), as well as auto TCAS (Traffic Collision Avoidance System).
+The A380 entry-into-service was also an opportunity to switch from paper manuals
+to electronic FCOM (Flight Crew Operating Manual), MEL (Minimum Equipment List),
+and to get rid of some older technologies such as ADF (Automatic Direction Finder)
+despite some regulatory hurdles that we had to overcome. As pilots, we consider
+the A380 is the first aircraft of the 21st century.
+HUD rationale
+Since the 1970’s, HUD installation on civil aircraft had been the subject of heated
+debate among airline pilots: some considered HUD as the ultimate tool, others
+considered it as useless. When Airbus offered single or dual HUD as an option on
+A380s, we took this opportunity to assess its advantages. For an aircraft such as
+the A380, as well as all other Airbus aircraft, HUD does not improve the operational
+capabilities in terms of minima, so the only factor to consider was safety.
+We examined the causes of a string of several approach and landing incidents and
+accidents and found that a large percentage were caused by destabilization in short
+final (wind shears, wind shifts in direction) sometimes associated with poor visibility.
+We considered that one of the advantages of HUD is the enhanced detections of
+such destabilizing factors and its installation would improve safety.
+Two-HUD advantage
+Air Alaska introduced HUDs on its B727 fleet after a season marked by many
+flight cancellations at its Seattle base due to foggy weather. At this time, it was the
+only practical way to improve minima on aircraft using older technology.
+Several earlier generation civil aircraft, as well as some business and regional jets,
+are equipped with HUDs to allow CAT3B operations with autoflight systems that
+are not certified as fail operative. In CAT3 operations, with specific task-sharing
+(captain flying head-up and first officer monitoring head-down), a single HUD
+in captain position, is a logical choice. Our goal was to use HUD for enhanced
+situation awareness in order to improve safety mainly in approach and landing.
+We now know that this task-sharing known as Pilot Monitoring (formerly Pilot Not
+Flying) is safest when both pilots have access to the same information via dual HUDs.
+Our position seemed to be quite isolated a decade ago (FEDEX was also a noticeable
+exception), but now we feel comforted by the fact that both main airplane manu -
+facturers offer dual HUDs as the only option (or as basic configuration) on their
+newer aircraft.
+noitide
+laicepS
+083A
+-TSAF
+52
+Pilots at the controls of the A380
+Moving to an A380
+by Alan CHAN
+Divisional Vice President Training Singapore Airlines
+noitide
+laicepS
+083A
+-TSAF
+62
+Pilots at the controls of the A380
+Prior to the Entry-Into-Service (EIS) of the A380, SIA detached two senior instructor
+pilots for two years with Airbus to help define some of the human-machine interface
+and technical aspects of the flight deck. We gained much in the area of technical
+co-operation with the Airbus project team, which assisted us tremendously in our EIS.
+Transitioning pilots to the A380
+One of our considerations was whether there was a need for the initial pilots on the
+A380 to have Airbus fly-by-wire experience, as we had a mix from the B747-400, B777
+and A340-500, with the majority from the B747-400. We concluded that there was no
+necessity.
+Our B747-400 pilots had coped well with the technical complexity of the A380 flight
+deck, albeit with a little help in the way of technical briefings along the way. There were
+some issues initially with regard to negative operational transfers from the B747-400:
+undesired outcomes resulting from uncalled for fuel-balancing, misunderstanding of
+the lower severity level of hydraulic system failures compared to the B747-400, and
+lack of appreciation of the effects of normal and flare law during landing phase.
+These were quickly overcome with technical briefings conducted early into our EIS.
+Pilots from the A340-500 had their fair share of issues, albeit different from those
+encountered by the B747-400 pilots.
+Operating the A380
+A process to dispatch the aircraft with less redundancy than that approved by the
+MMEL was set up. It was not easy initially since it involved regulatory approvals,
+but close cooperation between SIA and Airbus in working with our local authorities
+ensured that we were able to minimise instances of AOG. There were other technical
+issues that necessitated long-term rectifications, some of which are still on-going.
+One of the more challenging aspects of the A380 is the availability of alternates that
+will permit an A380 to land and be dispatched, both en-route and destination alternates.
+Various restrictions in the airport manoeuvring area add to the complexity for pilots.
+noitide
+laicepS
+083A
+-TSAF
+72
+Pilots at the controls of the A380
+CONCLUSION
+For example, in an airport in China, the only available runway for low
+visibility operations is not approved for A380 operations, and this
+Versatility, innovation and commonality
+results in delays and dispatch difficulties.
+are key features that pilots appreciate
+One of the beauties of the performance capability of the A380 is its
+about the A380.
+ability to cruise at a higher initial altitude than the B747-400, even at
+maximum take-off weight. This has given us a tremendous advantage Indeed, the A380 adapts to different
+in securing an appropriate initial altitude on our long-haul flights from route requirements in terms of payload
+Singapore to Europe. The A380 also has the advantage of not being and range, offers new or improved
+limited by routes over high terrain when compared to a twin. technologies which facilitate flying and
+contribute to safety and integrates the
+existing Airbus fly-by-wire family.
+Feeling the difference
+Transition to the A380 from other Airbus families was relatively easy
+and seamless. It is certainly not difficult, nor can one say that it is easy
+to fly an A380. The A380 feels very much like the other fly-by-wire
+aircraft in the Airbus families, yet it is also quite different. It appears
+to be slower than the A330, but faster than the A340-500.
+Nevertheless, the A380 is a beauty to fly. I love its handling quality.
+It is gracious in flight and rides well in turbulent conditions.
+For all its size and slowness, it flies well and is a joy to manoeuvre.
+One is amazed at the approach speed, wondering if it is at all a big jet.
+I had flown the A330 and A340-500. To me, the A330 is very
+responsive and sporty with a unique landing profile.
+The A340-500 is slower and not quite as sporty as its smaller
+sibling. My colleagues tell me the A350 handles well.
+The A380 is like none of the above. It is the only one
+of its kind and now rules the skies.
+MMEL: Master Minimum Equipment List
+AOG: Aircraft On Ground
+noitide
+laicepS
+083A
+-TSAF
+82
+Passenger experience
+Passengers love the A380. Over 120 million passengers have already
+enjoyed the unique experience of flying aboard this aircraft.
+What is new today is that passenger experience is becoming a
+criterion for choice. Passengers are increasingly informed about
+the details of their upcoming flight via the websites where they book.
+People are becoming more aware that passenger experience
+and comfort might differ from one aircraft type to another.
+What was initially a simple characteristic of the A380 is turning into
+a major and distinct advantage over the competition.
+Article by
+Gabriel HANOT
+Airline Marketing Manager
+AIRBUS
+gabriel.hanot@airbus.com
+Passenger experience
+noitide
+laicepS
+083A
+-TSAF
+92
+A unique flight
+The A380 has become part of world aviation history. Passengers recognise the
+A380 with its unique shape and size. And they also recognise it when they fly it.
+According to a recent survey by the independent agency Epinion, almost twice as
+many passengers (66%) recognise the aircraft type when they fly on an A380,
+compared to passengers flying on another aircraft.
+Passengers recognising the aircraft type after the flight
+0P%asseng1e0%rs recog20n%ising th30e% aircraf4t0 %type aft5e0%r the flig60h%t 70%
+0% 10% 20% 30% 40% 50% 60% 70%
+A380 66%
+A380 66%
+B777 35%
+B777 35%
+B787 35%
+B787 35%
+The A380’s differentiation is a real competitive advantage for an airline compared
+to other aircraft, as an enjoyable flight will not only be attributed to the A380 but also
+to the airline itself.
+The A380 is highly popular among the general public. This is most visible on the
+web and social media where the A380 is the most mentioned aircraft. Being popular
+on the web is a key advantage for the A380 and its operators, given that 85% of
+passengers today book their flights online (source: Epinion).
+High passenger satisfaction
+Flying aboard the A380 is not only different, but is also very satisfying.
+In the Epinion survey, passengers rated their experience on a scale from 1 to 10.
+The result is quite clear: the A380 is rated better than any other aircraft type,
+in all classes, including economy. Results are similar even when comparing aircraft
+Average passenger recommendation, from 1 to 10
+within the same airline or aircraft on the same routes.
+6A.0verage pa6.s5senger re7c.0ommenda7t.i5on, from 18 .t0o 10 8.5 9.0
+First class 6.0 6.5 7.0 7.5 8.0 8.5 A39.800
+B777
+A380
+First class
+B777
+Business class
+Business class
+Premium economy class
+Premium economy class
+Economy class
+Economy class
+This high satisfaction rate can be explained by the high-end experience offered by
+the A380, being more spacious, more comfortable and quieter than other aircraft;
+but also by the airlines’ on-board offer. Airlines have understood this marketing
+potential and use the A380’s image to market their own brand.
+Passenger experience
+noitide
+laicepS
+083A
+-TSAF
+03
+Advertising stimulates demand and there is a huge demand from passengers to fly
+on the A380. The Epinion survey identified that 60% of passengers who have
+already experienced the A380 are ready to make an extra effort to fly on an A380
+for their next long-haul flight. 60%
+What does making an effort mean?
+• 20% of the passengers said they are ready to pay a bit more – 100 USD
+on average - for a return trip on the A380
+• The remaining 40% of passengers would take a less convenient flight: of passengers are ready
+additional connection, less convenient time of the day, longer connecting time,
+or even an airline they don’t know – only to make sure they fly on an A380 to make an extra effort
+Overall, this extra effort means more revenue for the A380 operators. to fly the A380
+Passenger experience
+noitide
+laicepS
+083A
+-TSAF
+13
+Increasing customer awareness
+According to the Epinion survey, 24% of A380 passengers specifically selected this
+aircraft type when they were looking for their flight tickets.
+As travellers become more aware of aircraft type, the number of ‘A380-friendly’
+passengers is growing and is stimulating demand for A380 flights.
+Airbus has introduced the first ever A380-specific booking assistant, so passengers
+can easily find A380 flights (see overleaf).
+Customer awareness has been growing in all industries, as more and more
+information on the product is now available to the consumer. People are looking
+increasingly at product characteristics and satisfaction, and not just at the price.
+The trend towards more consumer awareness, that started in the hotel and
+restaurant industries with websites such as booking.com or tripadvisor, is now
+happening in the world of flight retailers.
+Some websites are pioneering this area such as Routehappy. A flight ticket is no
+longer displayed as a simple combination of fare and schedule, but as a whole
+product with characteristics, pictures and even videos.
+With this new way of distributing flights, air transport is no longer just a simple
+commodity, and this can actually turn into an opportunity for airlines.
+60% Websites are giving more and more details about flights, such as seat comfort,
+air quality, connectivity and entertainment systems. More awareness on these topics
+means more opportunities for airlines to value the passenger experience they offer.
+Consumers are now able to look at the level of the passenger experience when they
+choose a flight. This new environment will stimulate more and more the demand for
+A380 flights that offer unrivalled passenger experience.
+CONCLUSION
+Independent surveys show that the A380 is the passengers’ preferred aircraft.
+Passengers now have the choice to fly on an A380 or on another aircraft type thanks to websites
+such as iflyA380.com. The A380’s key assets, its differentiation and its unrivalled positive customer
+feedback, are giving the A380 operators a clear advantage over the competition.
+noitide
+laicepS
+083A
+-TSAF
+23
+Promoting and booking via
+iflyA380.com
+To respond to increasing demand from consumers
+to fly the A380 and to spread even more awareness about this unique
+aircraft, Airbus has developed the first ever A380 booking assistant,
+iflyA380.com. In this website, travellers can discover all A380
+destinations, all A380 airline offers, read feedback posted by A380
+passengers and find and book A380 flights.
+The aim of iflyA380.com is to help A380 passengers find their next A380 flight.
+It also aims to create more awareness amongst a wider audience, to help
+consumers learn about the aircraft type and its associated benefits.
+These potential passengers go through phases of inspiration and research
+before they book. Given that 70% of them do not actually know where they
+want to go when first looking for a trip, (*Google/Ipsos MediaCT), iflyA380.com
+aims at inspiring them.
+Passenger experience
+noitide
+laicepS
+083A
+TSAF
+33
+The website includes details about the A380, about the airlines
+operating it and the destinations.
+The A380 becomes an integral part of the journey, offering a unique
+travelling experience, unbeatable levels of comfort and distinctive
+on-board services and all before travellers even reach their destination.
+In addition to displaying A380 characteristics and destinations, the
+website enables each airline to showcase its cabin and on-board
+services. A380 passenger comments from social media provide
+convincing feedback to encourage travellers to try the experience
+for themselves.
+iflyA380.com is a real means to attract travellers. The website not only
+highlights how the A380 contributes to the passengers’ flight
+experience, it can also influence booking decisions by triggering positive
+emotions and it has already started to prove efficient with some first
+bookings that have come directly through iflyA380.com.
+Ensuring the best
+cabins
+noitide
+laicepS
+083A
+-TSAF
+43
+The cabin experience has increasingly become a major Article by (left to right)
+differentiator for travellers. The A380 cabin frequently
+Ralph GERSTNER
+leaves a favourable impression on those who have Head of A380 Cabin Customisation
+AIRBUS
+flown in it. This positive level of passenger satisfaction
+ralph.gerstner@airbus.com
+has been achieved by working hand-in-hand with airlines
+Alain DE BOECK
+to create the most comfortable travel experience, that
+A380 Cabin Customisation Manager
+satisfies their expectations and at the same time respects AIRBUS
+alain.de-boeck@airbus.com
+airworthiness regulations as well as operational, technical
+and industrial constraints.
+noitide
+laicepS
+083A
+-TSAF
+53
+Ensuring the best A380 cabins
+Tailoring the A380 cabin
+to customer needs
+Airbus explains the A380 baseline offer and reviews it with the customer.
+Proven, in-service solutions may be integrated, which comply with the required
+lead time. To facilitate the complex task, Airbus supports the customer definition
+team in a close and robust partnership providing knowledge and skills built up on
+customisation experience.
+The optimum cabin arrangement is very specific to an airline and usually the result
+of several iterations. The type of classes (first - business - premium economy -
+economy) with the required number of seats per class and spacing between seats
+are an essential input as a first step. Secondly, the airline defines cabin service needs
+such as galley space, the number of lavatories and required space for stowage.
+The current trend is for operators to place the first, business and premium economy
+classes on the upper deck, while configuring the main deck for an all-economy layout
+in a 10-abreast (3-4-3) or 11-abreast (3-5-3) seating configuration, thereby keeping
+Airbus’ standard 18-inch width between armrests. However, to maximise versatility,
+the main deck’s seating in constant cross-section can be configured in a 4, 6, 7, 8,
+10 and 11-abreast (9 also possible by adding a seat rail) and the upper deck’s seating
+in a 4, 6, 7 and 8-abreast.
+Standard A380 cabin Based on the above, the cabin takes into account technical feasible solutions, lead
+time for development of specific arrangements and airworthiness regulations. The
+• 544 passengers
+remaining fine-tuning is about balancing those key factors while meeting cost and
+• 4 classes weight targets.
+• Front and rear staircase
+Following the cabin arrangement, cabin systems are determined such as integrated
+• 1 trolley lift
+In-Flight Entertainment (IFE) and/or connectivity to access internet, live TV and phone
+• 18 lavatories services. Customers can customise lighting by choosing from a variety of colour and
+• 20 galleys intensity options provided by Cabin LED Units (CLEDU), and can decide on visual
+• 19 cabin attendant seats projections such as logos and patterns.
+3D designs
+and virtual reality
+New technologies, implemented by
+Airbus throughout the cabin definition
+process, facilitate the customer’s
+decisions and speed up the process.
+As customers can visualise their cabin
+and requested customisations via
+3D designs, the level of feasibility
+and accuracy of the customised
+cabin is greatly increased.
+Virtual cabin reviews mean that
+customers can start planning
+on-board and cabin crew activities.
+Thanks to these technologies,
+Airbus can take earlier corrective
+actions to help reduce costs
+and lead time.
+noitide
+laicepS
+083A
+-TSAF
+63
+Ensuring the best A380 cabins
+Meeting regulatory, operational
+and comfort requirements
+Airbus carries out investigations, based on requirements, so that the
+cabin is compliant with airworthiness and operational regulations.
+These investigations cover a wide variety of subjects.
+Evacuation
+The A380’s flexibility means that many cabin configurations can be installed,
+although they must all strictly respect airworthiness authorities’ requirements
+and safety measures. Airbus ensures that the customised cabin complies with
+these criteria.
+Passengers must be uniformly distributed in each zone so as to comply with the
+evacuation plan. Currently the maximum number of passengers in an A380 is
+853 as agreed with the airworthiness authorities. To comply with the emergency
+evacuation requirements, all passengers and crew must be able to leave the
+aircraft cabin within 90 seconds.
+Oxygen masks
+All cabin occupants must be able to see and reach their oxygen mask in case
+of emergency depressurisation of the cabin. In this investigation, Airbus must
+demonstrate that all occupants can reach an oxygen mask when seated in any
+position, with the seat belt fastened or not.
+The quantity of masks must exceed the maximum allowable occupants in the
+dedicated area by at least 10%. Mask drop lengths and reachability are studied
+by using anthropometrical human models and 3D geometry in compliance with
+airworthiness authorities’ rules.
+Ensuring the best A380 cabins
+noitide
+laicepS
+083A
+-TSAF
+73
+noitide
+laicepS
+083A
+-TSAF
+83
+Ensuring the best A380 cabins
+Quieter cabins
+The A380 is renowned for its quiet cabin. However, Airbus offers support to customers
+who wish to further reduce the noise levels in specific areas.
+In complex cases, Airbus offers a cabin mock-up acoustic lab to simulate cabin noise
+scenarios so that customers can perceive the impact of certain modifi cations and
+decide if it is worth the investment in the cabin change.
+One example of how Airbus and an airline worked together on an acoustic investigation
+was the project to install a quiet passenger bedroom in the front of the upper deck.
+The chosen location was particularly challenging as the head wall of the bedroom was
+planned to be against the avionic system compartment and close to the main front
+staircase. In a standard cabin configuration, this space is usually occupied by a
+lavatory, which requires much less noise reduction.
+noitide
+laicepS
+083A
+-TSAF
+93
+Ensuring the best A380 cabins
+The Airbus design office and the supplier worked in close cooperation to provide
+a design to the Airbus interior noise department for analysis. Different insulation
+scenarios were tested via the lab, the final recommendation being to implement
+an optimised balance of secondary insulation and wall-panel performance.
+After more studies to prevent noise leakage through the doors, as well as service and
+rapid decompression flaps, Airbus validated the final design in flight test. The objective
+of having a reduced background noise level between the first class and the bedroom
+was achieved with a noticeable decrease of the sound pressure level.
+Ensuring the best A380 cabins
+noitide
+laicepS
+083A
+-TSAF
+04
+Cabin ventilation
+Optimal cabin ventilation must be ensured for passenger comfort, In addition to the ventilation system and representing the
+but also to ensure that the cabin complies with regulations. The biggest effort in the ventilation customisation process is the
+thermal condition within an aircraft cabin is affected by external cabin air extraction system (CAX), which extracts heat and
+factors such as the outside temperature and solar radiation, and odours from galley and lavatory areas. Another key element
+by internal factors such as passenger density, heat emission from is the passenger individual air distribution system with
+in-flight entertainment, lights or galley equipment. Regulations also adjustable air nozzles above the passenger’s head to regulate
+impact thermal condition as they require a certain amount of fresh individual air supply.
+outside air to ensure adequate oxygen levels.
+In complex cabin configurations, further studies may also be
+To reach this goal in view of varying aircraft configurations, many needed. In these cases, CFD (Computational Fluid Dynamics)
+particular adaptations are implemented into a new cabin design, calculations are performed to analyse the behaviour of the air
+taking the original cabin layout from the customer as definition flow and the ventilation performance. The main advantage of
+basis. The A380 passenger cabin is divided into 15 temperature CFD simulation is that design changes can be implemented
+zones, 8 for the main deck and 7 for the upper deck. Every new much faster into a virtual model than in a mock-up. Each area
+seat class arrangement within these zones is analysed to can be analysed in detail by cutting the model in different
+determine whether modifications are required to obtain optimal planes and directions.
+thermal comfort for passengers. Further determining factors, for
+In some cases though, a combination of CFD analysis and
+example the overhead stowage concept and monument
+mock-ups can be used to confirm results. To study cabin
+installations, have an impact on the type of air outlets chosen for
+airflow velocity, helium bubbles are injected into the air supply
+every position within the cabin. For an A380 cabin, up to 270 air
+that can be visualised using specific filming techniques.
+outlets are installed, for which the airflow is regulated by up to 425
+restrictors that are installed inside the air supply ducting and need
+to be calculated for each customised cabin.
+Volumetric flow=15 litres/second Volumetric flow=20 litres/second
+Helium bubble test showing direction and velocity of airstream in the cabin
+CONCLUSION
+Interpreting the customer’s vision requires close collaboration between the customer, Airbus and equipment
+suppliers. Key steps include optimising the design and ensuring compliance with certification requirements,
+while respecting cost and lead time targets.
+The whole process is supported by 3D design, virtual reality and full-scale mock-ups to achieve
+one of the quietest and most spacious cabins in civil aviation.
+noitide
+laicepS
+083A
+-TSAF
+14
+Ensuring the best A380 cabins
+Maintainability of equipment
+Airbus applies a basic rule of 15 minutes maximum to replace
+a Line Replaceable Unit (LRU). Specific investigations are launched
+when a cabin element physically covers an LRU.
+An example of this is the cabin air recirculation filters, located in
+the aircraft sidewall on the upper deck. For maintenance purposes,
+these units must have sufficient replacement accessibility.
+However, commodities such as personal storage areas in first or
+business class seats may be placed partially or totally in front of such
+units. When access to units is not feasible via the commodities, specific
+split air filters may be recommended during customer guidance phase.
+Investigations can either take place via virtual reality or by creating
+a mock-up, for more complicated setups.
+Volumetric flow=25 litres/second
+Innovative systems
+and aircraft design
+Designed to ensure the highest technical and commercial
+performances, the A380 entered into service with the
+most efficient technologies of the moment. In many
+cases, Airbus developed new technology, proving the
+A380 as an innovation driver that cleared systems for
+aircraft such as the A350 XWB.
+Article by
+A programme plane however, always remains in evolution
+Marc GUINOT
+and innovations continue to be implemented long after
+Former A380 Chief Engineer
+AIRBUS its entry-into-service, strengthening its position as the
+world’s largest and most technologically advanced
+Contact for additional information
+passenger aircraft.
+Joachim COLBERG
+A380 Engineering
+AIRBUS This continuous improvement cycle is not about to stop.
+joachim.colberg@airbus.com
+noitide
+laicepS
+083A
+-TSAF
+24
+noitide
+laicepS
+083A
+-TSAF
+34
+Innovative systems and aircraft design
+Setting the highest safety standards
+Innovation evolutions Future innovations
+Monitoring of vertical load factor TCAS (Traffic Collision Avoidance Manual protections for autopilot
+and Angle of Attack (AoA) System) operation
+In order to improve AoA monitoring in Autopilot/Flight Director TCAS (AP/FD Current flight control practice is to
+case of multiple icing, a specific function TCAS) mode combines the Autopilot disconnect autopilot when entering
+makes a correlation between load factor (automatic mode), Flight Director too deep into flight control protection
+increase and AoA increase. Load factor (manual mode) and the TCAS to pro- domain. To improve safety and help
+is representative of the aircraft’s dynamic vide a vertical speed guidance based pilots during severe events, autopilot
+behaviour and should be coherent with on optimum avoidance manoeuvre will be kept engaged and continue
+AoA evolution. If AoA behaviour is not in in case of conflicting air traffic (TCAS working, taking into account the same
+line with the load factor, it is disregarded, Resolution Advisory (RA)). protections as manual flight.
+as icing is suspected. It avoids or reduces pilot overreaction,
+enhances safety and increases pilot New Air and Inertia Automatic Data
+comfort. Switching (NAIADS)
+Runway Overrun Protection System
+The aim of the TCAS Alert Prevention This solution automatically displays
+(ROPS) and Brake to Vacate (BTV)
+(TCAP) is to reduce the number of best air and inertial data. It also provides
+Available since 2009 for both dry and undesired TCAS RA occurring during backup airspeed and altitude from
+wet runway states, ROPS is an Airbus level off manoeuvre, by adapting the independent engine probes.
+developed response to the growing altitude capture law. It improves These improvements will be available
+occurrence of runway overrun incidents, passenger comfort, without fuel by end of 2018.
+which remain the main cause of aircraft penalty for a normal operation.
+accidents. Associated to it, BTV assists These systems are basic for new Flight data recovery improvements
+pilots in easing airport congestion and aircraft and can be retrofitted for
+To anticipate future regulation evolutions,
+improves runway turnaround time. the others.
+some solutions are currently proposed
+Improvement is ongoing to take into
+or will be proposed by end of 2019 on
+account contaminated runway states.
+top of the existing recorders.
+Both systems are optional and can be
+retrofitted. • Aircraft tracking relying on the periodic
+transmission of key parameters
+through ACARS network, by using
+Aircraft Operational Communication
+(AOC).
+• The ‘deployable recorder’ will combine
+recorders that can float on water and
+Emergency Locator Transmitters (ELT)
+to improve flight data recovery for
+investigations.
+Availability is expected for end of 2019.
+Designing and evolving for high performance
+Structure
+Innovation at EIS Future innovations
+The A380 already integrated new One of the most promising technologies Another design-to-cost application
+technology at EIS. Its structure for increased durability is the application concerns Additive Layer Manufacturing
+was based on R&T innovative of Laser Shock Peening. Laser peening (ALM), or 3D printing.
+designs and benefitted from new induces exceptionally deep residual
+materials such as Carbon Fibre compressive stresses to enhance the A first example of this technology used
+Reinforced Polymer (CFRP) fatigue strength of critical metallic on the A380 is the mounting device for
+with Intermediate Modulus fibres components. This treatment, applied iPads for the captain and first officer.
+(Centre wing box and Section 19, locally, limits fatigue and crack growth. This retrofittable option will be imple-
+UD beams), fuselage shells in Glare, Another technology under development mented in 2017 on the A380.
+6xxx Alloys in conjunction with laser is the application of cold working in
+beam welding. hybrid joints (Aluminium-Titanium, The application of riblets, a new gener-
+Aluminium-CFRP). ation of coating, enables a reduction in
+fuel consumption. The riblet profile
+New R&T
+Other developments are being studied can be engraved in the external coat.
+developments via the “design-to-cost” technique. This technology applied on the upper
+One innovative technology is related to skin of the wing as well as on the upper
+are continuously
+the application of Isogrid structures. and lower horizontal tail plane skin would
+The hexagonal topology is especially enable 0.3 % Block Fuel saving.
+being investigated
+good for structures that are dominantly
+for performance loaded by shear forces, e.g. the pylon.
+Although implemented for the A350 XWB
+enhancement.
+on the wing rib 1, the application
+foreseen for the A380 would be for
+the pylon lateral panel. This technology
+enables weight reduction as well as
+reduced recurring costs by using thinner
+raw material plates compared to
+conventional stiffened structures.
+noitide
+laicepS
+083A
+-TSAF
+44
+Innovative systems and aircraft design
+Systems
+Innovation at EIS Innovation evolutions
+Electrical system Y* lateral law Aluminium wiring
+– Variable frequency
+Expanding “control per objective” Targeting weight savings, the A380 was
+To simplify the electrical equipment, the philosophy to yaw axis, pedals now the first programme to introduce alumini-
+heavy IDGs (Integrated Drive Genera- control sideslip instead of directly con- um wiring for approximatively 60% of the
+tors), which provided fixed frequency trolling the rudder deflection. Specific total wiring length of the aircraft (close to
+power to the electrical network, were sideslip probes have also been added. 500 kilometres) instead of the conven-
+removed and replaced by Variable More accurate sideslip control reduc- tional copper as current conductor.
+Frequency Generators (VFGs). These es lateral loads and therefore aircraft Knowing that aluminium weighs one
+new generators are lighter and have weight. third of the weight of copper, 40 percent
+been proven more reliable. of the conventional wiring weight has
+been saved.
+Load alleviation functions
+The aluminium wiring technology was
+Hydraulic generation at 5000 PSI
+On top of the classical Manoeuver Load already used for thick cables (cross-
+(Pounds per Square Inch)
+Alleviation function, short period wing section of 5mm² or more). However,
+Increased pressure from 3000 to 5000 structural modes are controlled or the A380 was the first aircraft to use the
+PSI has enabled smaller pipes, manifolds damped by control law specific functions technology for thinner cables, under
+and reservoir while still providing the using dedicated accelerometers. These 5mm², and for the connections. The new
+same mechanical power. This modifi- functions act in case of turbulence wire’s conductors are made of nickel-
+cation has also enabled the downsizing (Active/Passive Turbulence Alleviation) or plated, copper-clad aluminium strands
+of all actuators (flight controls, high lift, in case of manoeuver (Ailerons/Rudder and a special protection has been
+landing gear, doors, etc.). In addition, Waltzes). It provides passenger comfort developed for contact design to provide
+the downsized hydraulic distribution as well as a significant weight reduction. a specific sealing barrier to prevent from
+creates a significant weight benefit. any corrosion risks.
+The outer insulation is made of improved
+2H2E architecture polytetrafluoroethylene (PTFE) tape.
+Fuel transfer load alleviation A new specification was also worked out
+Four totally segregated power sources
+for the aluminium connectors.
+Wing bending load management is a key are used: two hydraulic circuits and two
+driver of aircraft weight reduction. But electrical circuits. It allows dissimilarity in
+the optimum is unfortunately opposite technologies, increases redundancy and
+Introduction of GLA (Gust Load
+between ground and flight. To take therefore safety. Furthermore, it also
+Alleviation)
+benefit from both, fuel transfers are eases installation to avoid engine burst
+automatically managed just after liftoff consequences as electric cables can be In case of gust, the Angle of Attack (AoA)
+to create more inboard fuel loading on installed on the fuselage ceiling, whereas probes can measure the flow change at
+ground and more outboard fuel loading hydraulic pipes need to run below lowest the nose of the aircraft 200 ms before it
+in flight. floor. reaches the wing. Ailerons are quickly
+deflected upwards and wing bending
+loads are decreased when the gust
+Relaxed stability EHA/EBHA finally hits the wing. This allows a weight
+reduction of the wing
+Specific longitudinal control laws have Together with 2H2E architecture, flight
+been developed to allow flying with a control actuators include electrical
+more aft center of gravity and therefore actuators (EHA) and electro-hydraulic Future innovations
+reduce Horizontal Tail Plane size. actuators (EBHA).
+Automatic Take-Off Compensation
+Redundancies have been added in These electrical actuators are a backup
+(ATOC)
+particular by having a longitudinal gyro- for the hydraulic actuators in case of
+meter in the Backup Control Module. failure or MEL (Minimum Equipment List) In potential future developments, a
+Even further relaxed stability is being dispatch. reduction of fin size is being considered,
+considered for the future. introducing an ATOC function which
+will reduce opposite engine thrust during
+the take-off run if an outer engine failure
+occurs. This allows recovering similar
+take-off performance with a smaller fin
+by reducing the yaw effect of the engine
+failure.
+noitide
+laicepS
+083A
+-TSAF
+54
+Innovative systems and aircraft design
+Optimising maintenance to improve availability
+noitide
+laicepS
+083A
+-TSAF
+64
+Innovative systems and aircraft design
+Maintenance To improve A380 OA and maintenance The extension is possible thanks to:
+costs, Airbus launched a project to
+programme
+optimise scheduled maintenance • Identification of some margins, to be
+programme intervals, with the following vali dated by tests or in-service monitoring
+targets:
+An aircraft on ground for • An extension of A-check intervals from • A detailed assessment of in-service feed-
+planned and unplanned 750FH (Flight Hours) to 1000FH back (finding/nil-finding, but also some
+maintenance is not available • An increase of C-check intervals from specific requests to capture in-service
+for operation and thereby is 2 to 3 years, to avoid one aircraft experience on filter clogging, drain bottle
+not generating revenue. grounding over a 6-year period liquid levels, etc.)
+Airbus worked with several The A-check optimisation results are ex- • A correlation of Full-Scale Fatigue Test
+airlines, defining the Oper- pected to be approved by the authorities findings versus aircraft configuration
+ational Availability (OA) of by the end of 2016 through the Mainte- and actual loads
+an aircraft as the number of nance Review Board Report (MRBR) Re-
+days per year the aircraft is vision 8, whereas the C-check optimisa- • The use of NDT (Non Destructive
+not available for operation tion results will be included in the MRBR Techn iques) instead of visual inspection,
+due to technical reasons. Revision 9 foreseen for March 2018. in some areas limited in size to increase
+Airbus is also contributing inspection intervals
+to an IATA working group This maintenance programme optimi-
+to publish the definition sation covers systems, powerplant and • The introduction of some structural
+of the OA. zonal inspection tasks as per the Main- modifications to improve design and
+tenance Review Board (MRB) process, remove the ALI (Airworthiness Limitation
+including some Certification Maintenance Item) or escalation TH/II (Threshold Interval
+Requirements (CMR) tasks. It also tar- Inspection). Not all the modifications will be
+gets structure inspection task alleviation retrofittable, but as an example, section
+(Airworthiness Limitation Item). 19 will be free of inspection in forward fit.
+The active contribution of operators to the
+scheduled maintenance optimisation process
+by providing actual data is a key element for
+the success of the project.
+Unavailability breakdown OA results: Unavailability per year - 1st cycle
+1 2 3 4 5 6 7 8 9 10 11 12
+Year
+Unplanned technical grounding
+ytilibaliavanu
+fo
+syad
+fo
+.bN
+Unplanned
+technical grounding
+Checks
+overrun
+Unplanned
+Light
+Heavy
+Checks
+Planned Base Checks overrun
+Average unavailability per year over the period
+noitide
+laicepS
+083A
+-TSAF
+74
+Innovative systems and aircraft design
+Systems
+Innovation at EIS Innovation evolutions
+Easing and improving maintenance was
+F/CTL – SLATS (FLAPS) WING TIP MMEL optimisation
+a driver and a requirement during the
+BRAKE TEST REQUIRED
+design phase of the A380. On previous Providing the right tool and means to line
+Previously, a test was required in the
+Airbus aircraft, maintenance functions maintenance is key; however it is essen-
+case of failures of wing tip brakes (system
+were undertaken by independe nt tial to be able to dispatch out of the main
+preventing a runaway of slats/flaps in
+applications in various Line-Replace- base an aircraft which has only minor
+case of dissymmetry/disconnection of
+able Units (LRUs), such as the Central issues (‘go’ or ‘go if’ faults). Since
+slats/flaps shaft).
+Maintenance Computer or the Aircraft EIS, many studies have been launched
+Condition Monitoring System. For the No dispatch was allowed if the test was to optimise and simplify MMEL proce-
+A380, the focus was on integration. not passed. Since April 2014, dispatch dures (Master Minimum Equipment List).
+for 3 flights is possible without perform-
+ing the test, enabling airlines to fix the
+Onboard Maintenance
+failure at main base. FUEL – L(R) OUTR TK PMP FAULT
+System (OMS)
+At EIS, failure of one of the outer pumps
+This is designed as a fully integrated COND - SECONDARY CABIN FANS
+required checking that the emergency
+component: FAULT
+transfer was operative: this check means
+• Access to Aircraft Full DupleX internet At EIS, depending on number of Low partially defuelling the aircraft to provide
+network via a secured gateway Pressure (LP) fans failed, dispatch could some volume in feed tanks 1 and 4 to
+be forbidden. Since July 2015, up to the be able to receive fuel from outer tanks
+• Multiple interface access points
+total number of LP fans (9) can be during the check.
+through Portable Multi-Access
+inoperative without preventing the Since January 2014, dispatch without
+Terminal (PMAT) and a dedicated
+dispatch, as long as aft cabin air this check is authorised, preventing
+Onboard Maintenance Terminal (OMT)
+extraction is operating (galleys, delays in case of pump failures.
+• Other supporting functions such as lavatories and aft avionic bay).
+data loading and aircraft monitoring
+hosted by the same hardware Trimmable Horizontal Stabiliser
+F/CTL - SLAT SYST 1 (CTL) FAULT (THS) Tail cone – LP5 fan
+• Data transmission capability enhanced
+for both in-flight and on-ground phases At EIS, failure of slat channel 1 (electrical In order to prevent fire, section 19 has
+through High Frequency, Very High one) prevented any dispatch. Thanks to been fitted with a fan for better ventilation
+Frequency and SATCOM (Satellite a modification of Flight Control computer on ground. At EIS, dispatch with this
+Communication) but also gatelink PRIM and Fault Warning system together fan inoperative was possible providing
+with an amendment of Go-Around an inspection for leaks was performed
+operational procedure, dispatch with slat before the flight, which is time-consum-
+channel 1 inoperative is accepted for ing, at least for the access. Since July
+3 flights since June 2015, allowing the 2016, the need for inspection of section
+airline to fix the failure at main base. 19 is conditioned by a combination of
+Turnaround Time (TAT) with Outside Air
+Temperature (OAT), avoiding delays
+when right conditions of TAT and OAT
+are met.
+Future innovations
+High Slip Induction Motor (HSIM)
+fuel pumps (FS)
+Pump reliability and maintenance costs improved by switching
+to A350-like technology of HSIM having almost no electronic
+parts. A beneficial side effect is a reduction of pump fairing size
+and therefore fuel consumption.
+EIS: Entry Into Service
+Updating cockpit and communication systems
+Since entry-into-service, A380 aircraft In terms of connectivity, IP SATCOM
+have been fitted with the most advanced (Swift BroadBand - SBB) was proposed
+integrated cockpit with 8 identical large from entry-into-service to manage both
+displays (6” x 8”), proposing the current flight operations applications and
+A320 and A330 Family formats (Primary passenger applications.
+Flight Display, Navigation Display, Engine
+New IP SATCOM (such as Ka Band
+Warning Display, Secure Digital) and
+SATCOM) are now proposed as well
+additional formats such as Vertical
+to answer a very demanding high band-
+Displays (VD) and Multi-Functional
+width market.
+Displays (MFD).
+New functions have been implemented
+to the existing ones on Airbus families, FlySmart with Airbus
+via a new avionic network using Avionics
+The target of the Airbus Electronic Flight
+Full-Duplex Switched Ethernet (AFDX).
+Bag (EFB), called FlySmart with Airbus,
+These include:
+is to improve operational performance
+• FLS (Flight Management System by providing information in the cockpit
+based Landing System) function: and to reduce the use of paper
+an Instrument Landing System (ILS) documentation.
+look-alike way of flying a non-precision
+FlySmart with Airbus started as an
+approach computed by the FMS
+aircraft-installed EFB (class 3) with
+• GLS (GPS Landing System) CAT I integrated cockpit displays (Onboard
+approach Information Terminal - OIT) on each
+side of the captain and first officer.
+• NADP (Noise Abatement Departure
+Procedure) for a better noise abate- For operators preferring portable and
+ment during departure phase installed EFB (class 2), Airbus will soon
+propose new options based on WiFi links
+• FANS (Future Air Navigation System)
+in the cockpit which enable pilots’
+A+B function, allowing datalink
+electronic devices (tablets) to connect
+communication for oceanic area and
+to the aircraft.
+remote areas through ACARS (FANS
+A) and for continental areas through
+ATN (Aeronautical Telecommunication
+Network - FANS B)
+To control these new functions, interac-
+tivity through two Keyboard and Cursor
+Control Units (KCCU) is proposed.
+noitide
+laicepS
+083A
+-TSAF
+84
+Innovative systems and aircraft design
+noitide
+laicepS
+083A
+-TSAF
+94
+Innovative systems and aircraft design
+Reducing impact on the environment
+The European REACH regulation (Registration, Evaluation, Authorisation and Restriction of CHemicals)
+came into force on 1 June 2007, with a gradual introduction of the obligations.
+Its purpose is to control and progressively eliminate the most hazardous chemicals from the market.
+It impacts all companies in the European Union, and therefore Airbus.
+Protection of health, safety and the environment is a global priority for Airbus.
+Management of hazardous Removal of chromates Halon replacement
+substances
+At entry-into-service, the A380 was a The second main challenge in the frame
+REACH is generating unprecedented forerunner in the application of more of REACH is halon replacement.
+changes in the way information on environmentally-friendly substances.
+Halogenated hydrocarbons, also known
+substances is exchanged and For its painting system, external
+as halons, primarily halon 1301 (CBrF3),
+responsibilities are distributed along chromate free primer and low volatile
+halon 1211 (CBrClF2) and halon 2402
+the supply chain. Airbus and its compound paint were introduced.
+(CBrF2CBrF2), have proved to be very
+supply chain have to identify, control Since then, a tremendous effort has
+effective gaseous fire extinguishers and
+and eliminate the various possible been concentrated in the eradication of
+explosion suppressants, but with very
+hazardous substances used in the compounds containing chromium VI.
+high ozone layer depleting potential.
+company, in design and throughout
+This has been one of the biggest chal-
+the lifecycle of Airbus products. At entry-into-service of the A380, this
+lenges for over a decade. The complexity
+agent was used in four different applications:
+Airbus has to anticipate the evolution is mainly due to the fact that chromium
+Auxiliary Power Unit (APU) / engine, cargo
+of environmental regulations to avoid VI is found in numerous applications.
+zone, lavatory waste bin and portable
+material obsolescence. On the A380, No single alternative exists as chromates
+extinguisher. In order to comply with ICAO
+a lifecycle assessment is systemat- are widely applied for corrosion prevention
+Standard 6 production cut-off dates,
+ically performed before the launch (anodising process, primer and chemical
+Airbus identified new agents, validated their
+of any modification in order to better conversion coatings).
+performance and introduced them on the
+evaluate the environmental footprint.
+A non-negligible task is the replacement production line.
+of the hard chrome used on parts such
+This is the case for lavatory waste bin
+as bearings, bushes, axles, etc.
+application where agent FE26 (an
+Although hard chrome on its own is not
+organofluoride gas) is used on every
+prohibited, its deposition process that
+single aircraft produced since 2011.
+heavily uses chromates is.
+For portable extinguishers, the agent 2BTP
+Many areas still exist where alternative
+has been selected as the most efficient
+coating is being researched. The main
+substitute for halon. Starting January 2017,
+research focuses on the replacement
+depending on local authorities’ directives,
+of chromated basic primer. In the
+operators can request the halon-free fire
+coming years, REACH will evolve with
+extinguisher (called HAFFEX) to be installed
+the replacement of cadmium plating and
+in the cabin.
+borate compounds. Although no official
+date has yet been announced, Airbus On APU/engine and cargo, important
+has started research in these fields. R&T efforts are made to identify the best
+chemical agent for the new type certificate.
+Up to now, no production cut-off date has
+been defined by the International Civil
+Aviation Organization (ICAO) and European
+Commission.
+CONCLUSION
+The A380 programme will continue to scan innovations on the market and will integrate them in future
+evolutions, taking into consideration quickly evolving techniques as well as the needs of increasingly
+demanding airlines and passengers.
+Capability and profitability
+enhancements
+Ensuring that an aircraft is capable of satisfying the diverse Article by
+requirements of customers is essential to the success of Geraldine BUSSON
+A380 Cabin & Cargo Manager
+the whole programme. Each airline has its own strategy,
+AIRBUS
+targeting a particular market segment and operating a geraldine.busson@airbus.com
+particular network. These factors determine the airline’s
+Jonathan PREIST
+choice of aircraft and how it operates them. A380 Overall Aircraft Design Manager
+AIRBUS
+jonathan.preist@airbus.com
+The A380 was designed with flexibility in mind to ensure
+that it can respond to the needs of a wide customer base.
+This flexibility has been enhanced through a number of
+changes since its entry-into-service and will continue to
+be enhanced by other modifications in the next few years,
+bringing value to customers.
+noitide
+laicepS
+083A
+-TSAF
+05
+A customer seeks best operational value by maximising revenue and
+minimising costs on its aircraft. This value can be affected by many factors.
+Fuel cost
+On long range aircraft, fuel accounts for about half of total operating costs and is
+an important cost reduction lever for airlines. The A380 entered into service with
+unbeatable fuel per passenger per kilometre and its fuel burn performance has since
+been improved by working on a number of complementary axes.
+Cabin revenue
+The A380 offers unprecedented options to provide exceptional levels of comfort
+across all classes, enabling operators to adapt the cabin layout to suit their objectives.
+A number of enhancements are in development to improve the revenue potential while
+ensuring that the A380 retains its level of comfort and unique passenger experience.
+Range capability
+With its 8200 nautical miles (NM) typical maximum passenger range capability, the
+A380 has already demonstrated its capability to economically operate even longer
+routes such as Dallas-Sydney and Dubai-Auckland. Increases in range capability can
+be used to increase payload during the most demanding months of the year when
+the payload may be limited by take-off weight or to enable even longer routes to be
+envisaged.
+Payload capability
+Some airlines choose not to operate the A380 at its maximum range capability.
+However, payload capability may be important to ensure economic operations with
+the selected cabin layout. For example, the passenger payload of high density one-
+class layout needs to be accommodated by the aircraft structure.
+Airport constraints
+Airlines often operate under numerous airport constraints depending on their
+network. The frequency of operations may be limited by external noise quotas,
+aircraft separation distances or runway occupancy time, among others.
+(Read more in A380 - The solution for airlines and airports on page 10).
+These factors affecting the operational value of airlines can be addressed
+by different levers.
+noitide
+laicepS
+083A
+-TSAF
+15
+Capability and profitability enhancements
+Reducing aircraft drag
+Drag reductions lead to cost savings thanks to
+reduced fuel consumption and can also lead
+to significant revenue increases. Greater revenue
+can come from increased payload on demanding
+routes, or from new routes that require increased
+range capability.
+A better understanding of the physical phenomena
+or modelling tool capabilities enables improvements
+to aircraft designs. An example of this on the A380
+was the modification of the wing pressure
+distribution in 2013. This was achieved by adapting
+the spanwise wing twist distribution, resulting in
+significant drag reduction. This modification was
+obtained by adjusting the manufacturing jigs within
+the limits of their initial capabilities.
+Improving engine fuel burn
+Engine fuel burn improvements can bring cost
+savings and revenue increases. The fuel burn of
+the A380 (equipped with Rolls-Royce Trent 900
+and Engine Alliance GP7200 engines) has been
+improved since its entry-into-service thanks to a
+combination of production tolerance control and
+packages of engine modifications.
+An example of this is the Trent 900 Enhanced
+Performance package suite developed
+by Rolls-Royce. This package notably features
+improved compressor blade aerodynamics
+(elliptical leading edges), which reduce the
+flow separation behind the leading edge thus
+improving turbomachinery efficiency.
+Another example from Engine Alliance (a Joint
+Venture of General Electric and Pratt & Whitney)
+is the enhanced engine control software that
+modifies the turbine case cooling to optimise
+turbine blade tip clearance through the different
+phases of the mission delivering an improved
+mission fuel burn.
+noitide
+laicepS
+083A
+-TSAF
+25
+Capability and profitability enhancements
+A380 wing jig
+Engine Alliance GP7200 engine
+Min noise
+3500
+-5.5 dB
+3450
+Flight data collection
+Flight data collection 3400
+Aircraft performance
+Airline reference
+monitoring analytics
+3350 procedure Aircraft performance
+(standard NADP) monitoring analytics
+-2.5 dB
+Performance Performance
+3300 Min noise -40 kg database adjustments
+Performance Performance
+at ISO-fuel -100 kg adjustments database
+3250 Min fuel
+at ISO-noise
+Aircraft
+3200 Updated
+Min fuel Performance adjustments Updated performance
+adjustments
+3150
+70 72 74 FMS
+Noise (dB) Performance FMS
+database performance
+database
+Updated Flight
+flight plan planner Flight Updated flight plan
+computations planner computations
+)gk(
+leuF
+76 78 80
+Min noise
+3500
+-5.5 dB
+3450
+Flight data collection Flight data collection
+3400
+Aircraft performance Aircraft performance
+Airline reference
+monitoring analytics monitoring analytics
+3350 procedure
+(standard NADP)
+-2.5 dB
+Performance Performance Performance
+3300 Min noise -40 Kg database adjustments adjustments
+at ISO-fuel -100 Kg
+3250 Min fuel Aircraft
+at ISO-noise
+3200 Updated Updated
+Min fuel Performance Performance
+adjustments adjustments
+3150
+70 72 74 FMS
+Noise (dB) Performance
+database
+Updated Flight Flight Updated
+flight plan planner planner flight plan
+computations computations
+)gK(
+leuF
+Optimising aircraft operations
+Aircraft operations can be made more efficient either by flying the aircraft differently to
+optimise its trajectory, or by a reduction of the fuel reserves enabled by a better under-
+standing of the actual aircraft performance.
+Min noise
+3500
+-5.5 dB
+3450
+Flight data collection
+Flight data collection
+3400
+Aircraft performance
+Airline reference
+monitoring analytics
+3350 procedure Aircraft performance
+(standard NADP) monitoring analytics
+-2.5 dB
+Performance Performance
+3300 Min noise -40 kg database adjustments
+Performance Performance
+at ISO-fuel -100 kg adjustments database
+3250 Min fuel
+at ISO-noise
+Aircraft
+3200 Updated
+Min fuel Performance
+adjustments Updated performance
+adjustments
+3150
+70 72 74 FMS
+Noise (dB) Performance FMS
+database performance
+database
+The Multi-Criteria Departure Procedure (MCDP) optimisation capability offers flexibility
+enabling airline flight operations to define their own strategy for optimising external
+Updated Flight
+noise and fuel burn. It also offers a unique possibility to target specific areas in the
+flight plan planner Flight Updated flight plan vicinity of the airport where noise exposure on the ground is to be minimised.
+computations planner computations
+The dedicated A380 Flight Management System (FMS) functionality enables the
+aircraft to take full advantage of the MCDP concept without increasing pilot workload
+during the departure phase, compared to the NADP (Noise Abatement Departure
+Procedure) Standard Operating Procedures that are in common usage. This capability
+enables variations up to -200kg of fuel and -10dB external noise to be achieved on
+the A380 depending on the airline operational reference.
+Performance modelling improvements
+The FMS contributes to operational efficiency by providing flight plan
+predictions and optimised speeds for trajectories. The accuracy of
+the predictions and precision of the identified optimum is dependent
+on the representativeness of the aircraft physics embedded within the
+models and of the forecasted atmospheric conditions.
+New generation aircraft performance monitoring analytics developed
+by Airbus will enable the performance model to closely follow the age-
+ing of the aircraft across the various flight phases in service for flight
+planning purposes.
+The associated gain in computational rates of these analytics will also
+enable real-time trajectory re-optimisation, taking into account
+evolutions in the forecasted weather during the flight.
+An FMS upgrade containing these functions is currently being studied.
+Performance
+database
+76 78 80 FMS
+Performance
+database
+)gk(
+leuF
+76 78 80
+Min noise
+3500
+-5.5 dB
+3450
+Flight data collection Flight data collection
+3400
+Aircraft performance Aircraft performance
+Airline reference
+monitoring analytics monitoring analytics
+3350 procedure
+(standard NADP) -2.5 dB
+Performance Performance Performance
+3300 Min noise -40 Kg database adjustments adjustments
+at ISO-fuel -100 Kg
+3250 Min fuel Aircraft
+at ISO-noise
+3200 Updated Updated
+Min fuel Performance Performance
+adjustments adjustments
+3150
+70 72 74 FMS
+Noise (dB) Performance
+database
+Updated Flight Flight Updated
+flight plan planner planner flight plan
+computations computations
+)gK(
+leuF
+Fuel and external noise benefits from departure optimisation
+Performance
+database
+76 78 80 FMS
+Performance
+database
+noitide
+laicepS
+083A
+-TSAF
+35
+Capability and profitability enhancements
+noitide
+laicepS
+083A
+-TSAF
+45
+Capability and profitability enhancements
+Reducing aircraft weight
+Weight reductions are an important part of aircraft improvement because every kilo
+of weight saved equates to a kilo of additional payload capability. For this reason, the
+A380 underwent an extensive weight-saving programme that reduced aircraft weight
+by 1.8 tonnes after the introduction of more composites and light-weight metal alloys,
+structural optimisation and system simplification.
+An example of this was the replacement of 2026/2027 Aluminium by third generation
+Al-Li (Aluminium-Lithium) on the lower wing skin. A total weight-saving of 740 kg was
+achieved thanks to the reduced density and improved material properties of Al-Li that
+allowed the detailed design of the wing covers (re-pocketing, thickness, grow-out radii)
+to be re-optimised.
+Structural optimisation included
+improvements to stringer grow out
+radii, pocketing and thickness tailoring
+of wing covers enabled by the change
+of material.
+Increasing design weights capability
+Increasing design weights delivers improved capabilities. Increasing Maximum
+Take-Off Weight (MTOW) improves the range capability or allows payload to be
+increased on the most demanding routes. Increasing Maximum Zero Fuel Weight
+(MZFW) enables more payload to be carried on shorter routes. Increasing Maximum
+Landing Weight (MLW) is necessary to maintain fuel reserves at landing when MZFW
+is increased or to allow fuel reserves to be increased to enable operations to airports
+with distant alternate airports.
+In 2013, the design weights were increased at the same time as the modification The increased rapidity of the sensors
+to the twist of the wing (+6 tonnes of MTOW and +3 tonnes of MZFW & MLW). in the Multi-Function Probe enabled
+This was achieved with limited structural reinforcement thanks to the development the Load Alleviation Function to be
+of a more effective Load Alleviation Function that was enabled by the implementation enhanced to facilitate increased
+of more rapid gust sensors in the multi-function probe and by the identification of design weights.
+optimum design weight increases taking into account existing structural margins.
+480
+)sennot(
+thgieW
+leuF-oreZ
+mumixaM
+Payload-range capability enhanced in 2013
+by introduction of increased design weights
+374
+Enhanced design weights envelope
+372
+on all deliveries since 2013:
+MTOW capability
+370 (575.369)
+increased by 6 tonnes;
+368 MZFW increased by 3 tonnes
+(572.367)
+366
+(569.366) Design weights envelope
+364 for EIS design
+362
+Retrofittable design weights
+360 increase for EIS design from 2017
+500 520 540 560 580 (MTOW capability increased by 3 tonnes;
+Minimum Take-Off Weight (tonnes) MZFW increased by 1 tonne)
+To enhance the payload-range capability of the entry-into-service standard of aircraft
+(aircraft delivered prior to the 2013 design weights increase), existing structural
+margins have been used to enable the MTOW & MZFW of the range mode weight
+variant to be increased by 3 tonnes and 1 tonne respectively, with no modifications
+to the aircraft structure. This improves the maximum range capability of the aircraft by
+90 NM and improves payload capability by 1.8 tonnes on critical routes.
+Cabin efficiency and revenue potential
+Airbus and airlines are always seeking to maximise cabin efficiency and consequently
+the revenue potential of the aircraft. To support this, new cabin features can be
+implemented, depending on cabin design.
+New cabin improvement package
+The cabin package has been launched to deliver short-term improvements.
+It consists of several cabin modifications, in a continued effort to optimise the
+cabin and make it more efficient, with the same high level of comfort.
+The sidewall panel position has been modified to deliver increased cabin width for
+the main deck 11-abreast economy class seating configuration. This configuration
+already enables 20 to 30 economy class seats to be added to the cabin compared
+to the 10-abreast configuration.
+This 11-abreast configuration is already proposed with the same level of comfort
+as for the 10-abreast thanks to its 18” seat width. The sidewall rotation
+modification will provide 0.83 additional inches (21mm) on each side of the cabin,
+by a modification of the lower sidewall attachment to make it more vertical thereby
+giving more lateral legroom to the passenger.
+A 9-abreast premium economy class seating configuration is now proposed for
+the main deck. In order to have the most efficient cabin layout, the current trend
+is to introduce a 4-class layout with a premium economy class. The best location
+for the 9-abreast premium economy class is forward of main deck door 2.
+This 3-3-3 seating arrangement requires the installation of an additional seat rail
+and is offered in linefit and retrofit.
+The upper deck cabin width has been increased enabling extra seats or comfort
+level to be improved in the business class zone. This modification consists of
+removing the current sidewall stowage and of introducing a new air recirculation
+system enabling new lower sidewall dado panels to be installed, adding up to
+21cm to cabin width.
+The modification is a major contributor to space gain in the upper deck.
+As an example, when combined with a herringbone business class configuration,
+up to 10 additional seats can be added. This cabin improvement will become
+the new A380 standard from 2017.
+21mm
+211
+mm
+Pre-mod.
+Pre-mod.
+107
+Post-mod. Post- Pre-
+mm
+mod. mod.
+Sidewall panels New dado panels
+- increased cabin - up to 21cm
+width on main deck extra cabin width
+on upper deck 97
+mm
+noitide
+laicepS
+083A
+-TSAF
+55
+Capability and profitability enhancements
+Aft Galley Stair Module
+In addition to cabin efficiency improvements, Airbus has studied the constraints
+related to monuments. As little use is made of the aft stairs by passengers, a new stair
+concept for crew was developed.
+As a result, a fully-integrated Aft Galley Stair Module (AGSM) containing a U-shape
+stair and integrated galleys can be installed in the rear of the cabin, allowing the
+galleys located around the main deck door 4 to be removed or significantly reduced.
+The galley customisation will still allow the airlines to configure their on-board service
+according to their own requirements and the AGSM will add up to 14 seats compared
+to designs with the current aft stair.
+This new module is planned to be introduced in the A380 cabin early in 2019
+(also available in retrofit).
+Airbus is currently studying further cabin development in the forward section to offer
+even more space without compromising comfort.
+Upper deck
+Main deck
+noitide
+laicepS
+083A
+-TSAF
+65
+Capability and profitability enhancements
+Capability and profitability enhancements
+Optimised crew rest areas
+As part of the space optimisation strategy, Airbus is now introducing a combined flight
+and cabin crew rest area in the catalogue of options for 2017. This new area includes
+two additional bunks for the flight crew, installed in the lower deck cabin crew rest
+area, bringing the total number of bunks to 14. The flight crew rest area may be sepa-
+rated from the cabin crew rest area by an optional partition.
+This combined crew rest area frees up space at the current flight crew rest area just
+behind the cockpit, which will be used to relocate three lavatories. This in turn enables
+additional seats to be installed in the main deck cabin.
+The lower deck crew rest area can also be relocated in the forward cargo area with an
+entrance door next to the forward trolley lift. This new location gives additional flexibility
+in the design of the seating zone between main deck door 2 and 3 thanks to the
+removal of the fixed point related to the aft crew rest access. The forward lower deck
+crew rest location also enables one more pallet to be installed in the hold.
+Flexible cabin changes
+Airlines can now adapt their cabin configuration to seasonal constraints by changing
+the class split within the cabin. They can define alternative cabin layouts within two
+zones: main deck between door 1 and 2 and upper deck aft of door 1.
+The structure, cabin equipment and systems are adapted to enable these layouts to
+be installed by the airline in under 4 days, depending on the magnitude of the changes.
+noitide
+laicepS
+083A
+-TSAF
+75
+Combined flight and cabin crew rest area, including two additional bunks, installed in the lower deck
+Economic gains from A380 enhancements
+Upper deck sidewall
+More cabin revenue
+New rear stairs stowage removal
+This cabin revenue enhancement can *14 Economy class *6 Business class
+be illustrated using a 4-class cabin
+configuration. This configuration shows
+how the airlines can benefit from several
+cabin efficiency developments including
+1.5 M$ 2.6 M$
+the main deck 11-abreast economy Combined
+class seating, the 9-abreast premium crew rest
+economy class seating, the upper deck *3 Premium 0.6 M$ Total
+new dado panel for business class economy 9.6 M$
+optimisation and the new aft galley stair
+class
+module. The combination of these new
+developments could bring an annual 2.4 M$ 2.5 M$
+airline revenue increase of up to
+$9 million per aircraft, while maintaining
+the exceptional levels of A380 comfort. 11-abreast Eco class
+The relative contributions of the different
+9-abreast Premium eco class *23 Economy class
+developments to this revenue enhance-
+*11 Premium economy class
+ment are shown in the chart to the right. Assumptions used for value
+Mission: 4000 NM
+Flights per year: 584
+Load factor for additional seats: 50% in all classes
+*Estimated additional seats Yields: same yields
+noitide
+laicepS
+083A
+-TSAF
+85
+Capability and profitability enhancements
+A380 operational capability and economics have been significantly enhanced since
+entry-into-service (EIS) in 2007.
+Lower fuel consumption
+Fuel consumption savings from airframe drag reductions, engine efficiency improve-
+ments and weight savings described previously have led to a reduction of the block
+fuel consumed for a 4000 NM mission of 2.3% relative to the EIS standard of the
+aircraft. Further operational fuel consumption improvements can be achieved thanks
+to Multi-Criteria Departure Procedure optimisation capability.
+Increased range and payload Payload range capability
+This efficiency improvement, combined with 90
+the increased Maximum Take-Off Weight 80
+introduced in 2013, leads to an increase
+70
+in range capability of 375 NM compared
+60
+to the EIS standard of the aircraft. Increasing
+the range capability has been key in enabling 50
+new routes such as Dubai–Auckland and in
+40
+developing revenue capability on demanding
+30
+routes thanks to the additional 7.8 tonne
+payload offered at iso-range. 20
+This additional payload capability facilitates 10
+the implementation of cabin improvements
+0
+for increased revenue. 500
+)sennot(
+daolyaP
+1,500 2,500 3,500 4,500 5,500 6,500 7,500 8,500 9,500 10,500
+Distance (NM) 2013 enhancements
+EIS standard
+Max. pax payload
+Capability and profitability enhancements
+Some airlines seek to maximise cabin revenue with high density layout such as the example given below.
+This layout with 855 passengers shows how the A380 cabin can be adapted for large numbers, while
+maintaining the A380 economy class comfort standard including 18-inch seat width.
+The combination of the above features of the A380 cabin design can also be adapted to maximise
+revenue for airlines focusing on ultra long range operations, over 15-16 hours of flight.
+CONCLUSION
+To respond to customer expectations, fuel burn performance, mission capability and revenue
+potential of the A380 have been improved since entry-into-service in 2007 by the implementation
+of cost-effective modifications. New cabin enhancements, available between 2017 and 2019,
+will further improve the revenue potential of the A380 cabin.
+noitide
+laicepS
+083A
+-TSAF
+95
+This standard layout of 544 seats that includes the above enhancements, except for the Aft Galley
+Stair Module (AGSM), can deliver a significant overall benefit without having to introduce a stretched
+fuselage version. If the AGSM is installed, it can enable an additional 14 seats.
+Example of a contractual and industrial set-up between FHS-TSP stakeholders
+Customer
+Airline Furnished Airline Local
+Equipment Authority
+(CFE)
+Maintenance Control Centre
+Maintenance Operations Centre
+Airbus FHS
+on-site team Airbus FHS pool Fleet technical management Operations
+and logistics Engineering and Planning
+Airbus approved
+MRO provider
+repair stations Airbus aircraft MRO/OEMs manufacturer
+Repair Design office
+OEMs Airbus Line Base
+shops
+Components maintenance Engineering Aircraft maintenance
+noitide
+laicepS
+083A
+-TSAF
+06
+Service packages
+to optimise operations
+Current and future A380 customers are increasingly
+focused on securing operational performance excellence
+at a competitive cost. Airlines can choose a customised
+turnkey service package from Airbus. It provides an
+efficient solution for airline operations by maximising
+on-time fleet dispatch, minimising upfront investment
+and securing maintenance and entry-into-service costs.
+Services for operators introducing second-hand A380s
+into their fleets, include pilot and maintenance training,
+and upgrades such as cabin reconfiguration.
+Tailored Support Package
+Article by (left to right)
+Airbus offers a suite of services, packaged and customised to meet customer needs.
+Alexa FIGGESS
+The cornerstone of every offer is the Flight Hour Services - Tailored Support Package
+Customer Services,
+(FHS-TSP).
+A380 Market Development Platform
+The core module systematically included in the service is FHS-Components which AIRBUS
+guarantees spare parts availability from an inventory pool, as well as an exclusive alexa.figgess@airbus.com
+on-site stock at the customer’s main base, and component repair by-the-hour.
+Juan RAMON-BOSQUE
+Airlines may then add the following optional modules:
+Marketing Manager Services Solutions
+• Engineering services, providing Airbus expertise for advanced fleet technical AIRBUS
+management (maintenance programme and planning, reliability programme, juan.ramon-bosque@airbus.com
+engineering support, airworthiness review, etc.)
+Claude GENTILS
+• Airframe maintenance, dealing with the execution of scheduled maintenance
+Head of Aircraft Sales Support
+(line, base and heavy maintenance)
+AIRBUS
+A full TSP solution can provide a guarantee of aircraft availability On-Time claude.gentils@airbus.com
+Performance (OTP) covering technical, logistics and maintenance delays.
+With this modular service,
+airlines select what best suits
+their maintenance strategy, ranging
+from Airbus assistance up to full
+outsourcing of engineering
+activities.
+For airframe maintenance
+(line, base, heavy check) with
+Airbus FHS-TSP, airlines can
+integrate their affiliated
+Maintenance, Repair and Overhaul
+(MRO) centre when they have
+developed their own capabilities,
+or use a ‘best in class’ MRO
+provider as per the Airbus standard.
+CONCLUSION
+The Airbus turnkey service package offers modular solutions to airlines to help them
+reach high performance levels, adapted to their individual needs. This enables operators
+to achieve a smooth entry-into-service and cost-effective operations when adding new
+or second-hand A380s to their fleet.
+noitide
+laicepS
+083A
+-TSAF
+16
+Service packages to optimise operations
+Airbus FHS now covers over 313 aircraft of all Airbus types,
+and is currently supporting five A380 operators.
+Singapore Airlines (SIA) has recently opted to extend its existing A380 FHS-
+Components support agreement to a full ‘Flight Hour Services - Tailored Support
+Package’ (FHS-TSP) contract to integrate and provide full component support,
+line and base airframe maintenance, as well as fleet technical management services
+for its A380 fleet.
+Under this 10-year agreement, Singapore Airlines will benefit from Airbus experience
+and expertise in maintenance, engineering, reliability and supply chain management,
+partnering together with its affiliated MRO SIA Engineering Company (SIAEC).
+Support for second-hand A380s
+For operators acquiring second-hand A380s, Airbus is proposing a package of services
+in addition to FHS-TSP, to support the Entry-Into-Service (EIS) and daily operations.
+The package includes specific A380 training for flight and cabin crews, mechanics
+and performance engineers, as well as technical data and software required to
+maintain and operate A380 aircraft. An Airbus Field Service Representative is available
+at the airline main base to ensure smooth EIS. The A380 Health Monitoring service
+(AiRTHM) is also available to improve dispatch and operations. The scope and
+duration of this package is fully customised to complement the FHS-TSP offer
+and to match the airline’s operations.
+Aircraft lessors and potential customers can also benefit from Airbus services to
+support aircraft transition, with a particular focus on cabin reconfiguration.
+The choice of cabin layout options for reconfiguration of A380 aircraft has been carefully
+studied to fit market needs, and is based on modularity and ease of reconfiguration.
+As a result, transition costs are reduced to the minimum while leaving much autonomy
+to lessors and operators to choose a cabin that fits their operations, all this with the
+unmatched seating capacity and comfort of the award-winning A380 cabin.
+Upgrade engineering is performed by highly skilled Airbus teams that use design
+methods, tools and specifications equivalent to production quality standards, including
+the management of the aircraft configuration and aircraft document update.
+The resulting Service Bulletin (SB), allows the airline-selected MRO teams to perform
+and certify the modifications on the aircraft, thanks also to the pre-consolidated
+and certified upgrade kits.
+For the upgrade embodiment phase, Airbus can offer a complete solution or support
+the customer’s MRO with services such as tool leasing, shipment consolidation
+and follow-up, job card preparation, needed to ensure a successful start to an A380’s
+second life.
+The choice is yours
+FAST magazine is also a media-enriched app,
+now available on tablet and smartphone (Android, iOS and Windows)
+noitide
+laicepS
+083A
+-TSAF
+26
+noitide
+laicepS
+083A
+-TSAF
+36
+Around the clock, around the world
+Airbus has more than 300 field representatives, based in over 130 cities
+Technical, Material & Logistics
+USA/CANADA Airbus Technical AOG Centre (AIRTAC) Spares In-Flight orders outside the Americas:
+Tel: +1 703 834 3484 Tel: +33 (0)5 6193 3400 Tel: +49 (0)40 5076 4002
+Fax: +1 703 834 3464 Fax:+33 (0)5 6193 3500 Fax: +49 (0)40 5076 4012
+airtac@airbus.com ifd.spares@airbus.com
+CHINA
+Tel: +86 10 8048 6161 Ext. 5020 Spares AOG/Work Stoppage Spares related HMV issues outside the Americas:
+Fax: +86 10 8048 6162 • Outside the Americas: Tel: +49 (0)40 5076 4003
+Tel: +49 (0)40 5076 4001 Fax: +49 (0)40 5076 4013
+FIELD SERVICE SUPPORT Fax: +49 (0)40 5076 4011 hmv.spares@airbus.com
+ADMINISTRATION aog.spares@airbus.com
+Tel: +33 (0)5 6193 3936 Spares RTN/USR orders in the Americas:
+• In the Americas:
+Fax: +33 (0)5 6193 4964 Please contact your dedicated customer spares
+Tel: +1 70 3729 9000
+account representative
+Fax: +1 70 3729 4373
+csr.na@airbus.com
+aog.na@airbus.com
+Training centres
+Airbus Training Centre Airbus Training Centre Americas Training by Airbus Jakarta
+Toulouse, France Miami, Florida - U.S.A. antoine.renaud@airbus.com
+Tel: +33 (0)5 62 11 82 24 Tel: +1 (305) 871-3655 (switchboard)
+or +33 (0)5 61 93 39 75 Fax: +1 305 871 4649 Airbus Asia Training Centre Singapore
+Fax: +33 (0)5 6193 2094 miamicustomertrainingsales@airbus.com contact.info.aatc@airbus.com
+training.commercial@airbus.com Tel: +65 6877 4300 (reception)
+customercare.atc-europe@airbus.com Airbus Training Centre Beijing
+Tel: +86 10 80 48 63 40 - 3017/3016 Airbus Mexico Training Centre
+Airbus Maintenance + 86 10 80 48 65 training.commercial@airbus.com
+Training Centre Tel: +52 55 57 86 80 50
+Hamburg, Germany Airbus Training Centre Bangalore (communication and marketing)
+Tel: +49 (0)40 7438 8288 Tel: 91-080-6638230 (reception)
+Fax: +49 (0)40 7438 8598 Training by Airbus Korea,
+training.commercial@airbus.com Airbus Training Centre Delhi Seoul, South Korea
+atc.hamburg@airbus.com Tel: +91 9880065511 Tel: +82 (0)32 882 5425
+andrew.rapson@airbuskorea.com
+Training by Airbus Dubai,
+UAE - Airbus Middle East FZE Dubai
+Tel: +971 4 602 78 62
+mary-knoll.garcia@airbus.com
+How can I fly more
+passengers to the
+most popular airports
+at peak times?
+Fly the A380. The world’s most
+spacious commercial aircraft.
+Capture more high-yield traffic
+on the busiest routes and offer
+the highest passenger appeal
+with 18+ inch seats in economy.
+Airbus is the answer.
+airbus.com
+© AIRBUS, 2016. All rights reserved. Airbus, its logo and the product names are registered trademarks.
+STUDIO:PUblIcIS lOnDOn:2016:AIrbUS – b1362-001013-00:12186_AIr_QA_MASTer_2016:12186_AIr_QA_HOngKOng_MASTer_297x210_1.0
+12 OcTOber 2016 2:53 PM | SIZE: 297X210MM | BLEED: 3MM | PUBLICATION: HONG KONG MASTER | CODE: X
+CUTTER LASER PMS APPROVAL
+12186_AIR_QA_HongKong_Master_297x210_1.0

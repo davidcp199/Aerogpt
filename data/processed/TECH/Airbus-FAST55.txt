@@ -1,0 +1,1771 @@
+Airbus technical magazine
+January 2015
+#55
+FA S T
+Flight Airworthiness Support Technology
+242555###TTTSSSAAAFFF
+222000
+Your Airbus technical magazine is now on tablet
+The articles in this magazine appear in 2014 QTR-4 and 2015 QTR-1
+iOS (iPad) & Android
+55#TSAF
+30
+Airbus technical magazine
+#55
+FA S T
+Flight Airworthiness Support Technology
+Publisher: Bruno PIQUET
+Editor: Lucas BLUMENFELD
+Additive Layer Manufacturing 04
+Design: Daren BIRCHALL
+Cover: 3D-printing
+Photo by: Hervé GOUSSE
+Printer: Amadio Runway Overrun
+12
+Authorisation for reprinting FAST magazine Prevention System
+articles should be requested from the editor
+Tel: +33 (0)5 61 93 43 88
+Fax: +33 (0)5 61 93 47 73
+e-mail: fast.magazine@airbus.com
+Airbus GSE & tools 18
+FAST magazine is available on internet
+www.airbus.com/support/publications
+and on tablets
+Inflatable tents
+ISSN 1293-5476 24
+for engine maintenance
+© AIRBUS 2015 Maintenance programming
+All rights reserved. Proprietary document
+28
+and planning
+By taking delivery of this Magazine (hereafter ‘Magazine’), you accept on behalf
+of your company to comply with the following. No other property rights are granted
+by the delivery of this Magazine than the right to read it, for the sole purpose of
+information. This Magazine, its content, illustrations and photos shall not be modified
+nor reproduced without prior written consent of Airbus. This Magazine and the
+materials it contains shall not, in whole or in part, be sold, rented, or licensed to any
+third party subject to payment or not. This Magazine may contain market-sensitive FAST from the past 38
+or other information that is correct at the time of going to press. This information
+involves a number of factors which could change over time, affecting the true public
+representation. Airbus assumes no obligation to update any information contained in
+this document or with respect to the information described herein. The statements
+made herein do not constitute an offer or form part of any contract. They are based on
+Airbus information and are expressed in good faith but no warranty or representation
+is given as to their accuracy. When additional information is required, Airbus can be
+We’ve got it covered 39
+contacted to provide further details. Airbus shall assume no liability for
+any damage in connection with the use of this Magazine and the materials it contains,
+even if Airbus has been advised of the likelihood of such damages. This licence
+is governed by French law and exclusive jurisdiction is given to the courts and tribunals
+of Toulouse (France) without prejudice to the right of Airbus to bring proceedings for
+infringement of copyright or any other intellectual property right in any other court of
+competent jurisdiction. Airbus, its logo, A300, A310, A318, A319, A320, A321, A330,
+A340, A350, A380 and A400M are registered trademarks.
+Where you see these icons,
+Photo copyright Airbus videos or slide shows are available
+Photo credits: Airbus Photographic Library, Airbus Flight on the iPad & Android app versions
+Test Photo Lab, Airbus Group Corporate Heritage, Master Films, EXM company, Philippe of FAST magazine.
+Masclet, Hervé Gousse, Axel Dreyer, Frédéric Lancelot, Shutterstock, Getty Images
+25#TSAF
+20
+Your Airbus technical magazine is now on tablet
+iOS (iPad) & Android
+55#TSAF
+40
+Printing the future with revolutionary
+Additive Layer
+Manufacturing
+An innovative technology shaping the future of aviation
+Across the Airbus Group, numerous projects are speeding-up the development
+of Additive Layer Manufacturing (ALM), also known as 3D-printing, to produce
+prototypes and components, potentially delivering more cost-effective and lighter
+aircraft parts. 3D-printing technology can also improve production efficiency while
+avoiding shortages of components on assembly lines.
+The first metal parts produced with this method (figures 1 & 2) are beginning to appear
+on a range of Airbus aircraft - from the latest A350 to the A300/A310 Family aircraft.
+Article by
+Peter SANDER
+A quick overview about the 3D-printing technique indicates:
+Emerging Technologies & Concepts
+AIRBUS • Lighter parts due to structural, biomimetic redesign
+Peter.Sander@airbus.com and the choice of materials used
+• Shorter lead times – as production moulds and tooling are no longer needed
+due to the part’s regeneration in a virtual 3D environment
+• Less material used due to an additive production process (rather than subtractive)
+• A significant reduction in the manufacturing process’ environmental footprint
+55#TSAF
+50
+Additive Layer Manufacturing
+The technology process
+Instead of producing a part by milling a solid block of material, Additive Layer
+Manufacturing (ALM) “grows” parts and products using base materials such as
+aluminium, titanium, stainless steel and plastics.
+Adding thin layers of material in incremental stages, generates parts, enabling
+complex components to be produced directly from Computer-Aided Design (CAD)
+information sent to the 3D-printer.
+At the same time as the material layers are built-up, so is a layer of supporting
+material for the following layers (see building principles overleaf).
+“This game-changing
+technology
+decreases the total
+energy used in
+production by up
+to 90 percent
+compared with
+Figure 1:
+Belt panel on an A310
+cabin crew seat
+traditional methods”.
+Materials of interest
+The range of materials used encompasses high performance plastics such as
+Polyetherimide (PEI), PEAK/PEK (polymer), FullCure (acrylic-based photopolymer),
+Polyamide, Accura and Greystone, to high performance metallic alloys including
+Titanium (Ti), Aluminium (Al), Maraging steel as well as graded materials.
+In industries outside aviation, materials used to make free-form shapes can include
+concrete and glass, and even edible ingredients such as chocolate.
+For the A350 aircraft, Airbus has produced and incorporated a variety of 3D-printed
+plastic and metal brackets, whose material and structural properties have been tested
+and duly certified.
+Figure 2:
+The flight crew rest compartment bracket installed on A350
+EXTRUSION HEAD
+Support material filament
+Build material filament
+Drive wheels
+Liquifiers
+Extrusion nozzles
+Extrusion head
+Spool
+Spool feed
+feed
+Built part
+Part supports
+Support material spool
+Build platform
+Build platform
+Build material spool
+lowers incrementally
+Deflecting
+Beam supply
+mirror
+Melted layers
+of powder
+form the part
+Build chamber
+Powder
+distributor Levelled powder
+fills the build
+chamber
+Levelling
+layer by layer
+instrument
+Build platform
+Build platform
+lowers incrementally
+55#TSAF
+60
+Additive Layer Manufacturing
+Building principles of 3D-printing
+The 3D-printing currently being used and developed by Airbus
+uses variations of two different building principles:
+Fused Deposition Modelling and Laser Beam Melting*
+Fused Deposition
+Modelling (FDM)
+FDM is used to generate plastic parts.
+3D objects are built by printing fine
+layers of liquefied building material
+filament onto a building platform that
+fuse with the layer beneath.
+At the same time a support material is
+printed in order to allow printing of the
+building material further up the object
+of features that hang from the main
+structure.
+The build platform moves down
+incrementally to print the following layer.
+Once finished the printed support parts
+are removed.
+Laser Beam (Powder Bed)
+Melting
+Airbus uses variations of powder bed
+melting for metallic materials such as
+titanium alloys.
+3D objects are built by having a fine layer
+of powdered building material levelled
+over the building platform, which is then
+exposed to a (laser or electron) beam
+which welds part of the powder, melting
+and joining it to the preceding layer to
+become the final ‘printed’ 3D part.
+The powder that is not melted remains in
+place to become a support for features
+further up the object that hang from the
+main structure.
+The build platform moves down
+incrementally to ‘print’ the following layer.
+Once finished the remaining unmelted
+powder is removed and recycled.
+*Laser Beam Melting
+Laser Beam Melting (LBM) is an additive manufacturing process that uses 3D CAD data as a digital information
+source and energy in the form of a high powered laser beam (usually an ytterbium fiber laser) to create three-
+dimensional metal parts by fusing fine metallic powders together. The industry standard term, chosen by the ASTM
+F42 standards committee, is laser sintering, although this is acknowledged as a misnomer because the process
+fully melts the metal into a solid homogeneous mass. The process is also sometimes referred to by the trade names
+DMLS or LaserCusing. A similar process is Electron Beam Melting (EBM), which as the name suggests, uses an
+electron beam as the energy source.
+55#TSAF
+70
+Additive Layer Manufacturing
+New opportunities for optimisation driven design
+The flexibility of 3D-printing widens the potential of what can be formed, building parts in
+exactly the right shape and proportion to take stress only where it is needed.
+EXAMPLE
+Cantilever
+fitting Gear beam Swing link
+Optimisation of a swing link
+Step 1 - Analyse the baseline design
+to evaluate exactly what functions the part has to
+perform such as volume needed, stiffness constraints.
+Step 2 - Design space allocation Spoiler Flap
+The lugs are considered as optimally designed
+for their function and as such are not an important
+part of the re-design.
+Step 3 - Topology optimisation
+Slim supporting ribs at lug A1
+Revealing the load paths and formulate
+with central cut-out between
+structural principles.
+Slim supporting ribs at lug B2
+with central cut-out between
+and small corner webs
+Tapered stiffening rib in centre
+section with small corner webs
+Triangular cut-out in centre section
+Step 4 - Rapid concept design
+Interpretation following the topological
+load paths then validation of the tension
+carried for each interpretation.
+or
+Step 5 - Detailed sizing
+Optimisation of the new design proposal,
+structurally perfecting each form.
+Result:
+The final swing link design carried out
+by the Airbus Optimisation Centre
+weighs less to fulfil exactly the same task.
+55#TSAF
+80
+Additive Layer Manufacturing
+Biomimetic structure design, “We are at the point
+or... what nature teaches us of a step-change
+(see biomimicry article in FAST 49) in weight reduction
+Biomimicry is the imitation of models, systems, and elements of and efficiency
+nature for the purpose of solving complex human problems.
+Additive Layer Manufacturing represents a paradigm shift in structure - producing aircraft
+design because it allows the reproduction of complex forms that
+nature has taken millions of years to evolve to the optimal structure parts which weigh
+for a particular task.
+30 to 55 percent less,
+The lightness that biomimicry permits - for at least equal structural
+stiffness - will directly result in less fuel burn, and as a consequence while reducing raw
+reduce airlines’ operational costs and environmental footprint.
+material used by
+90 percent is the next
+industrial revolution”.
+Advantages of a biomimetic
+design and ALM production
+of a bracket:
+• Weight reduced by 45%
+• Structural stiffness increased
+by 30%
+• 95% of the initial raw material used
+in the finished part
+(compared to 5% for traditional
+milling processes)
+55#TSAF
+90
+Additive Layer Manufacturing
+Advantages of a biomimetic
+design and ALM production
+of a bracket:
+Future by Airbus
+• Weight reduced by 45% cabin concept design
+• Structural stiffness increased
+The future of biomimetic structure design
+by 30%
+• 95% of the initial raw material used As illustrated by the biomimetic bracket, this new approach could be
+in the finished part very useful in the design of customized parts in all areas of the cabin.
+(compared to 5% for traditional
+milling processes) In time, complete airframes such as those imagined in the Future by
+Airbus’ concept design, could be built mimicking the bone structure
+of birds which is both light and strong, carrying tension only where
+necessary.
+By using biomimetic structures,
+the fuselage will have the strength
+it needs, where it needs it,
+making it possible to add features
+like oversized doors for easier
+boarding and panoramic windows.
+55#TSAF
+01
+Additive Layer Manufacturing
+Benefits of 3D-printing ALM in the assembly line: print and go
+3D-printing makes it simpler to produce very complex shapes, Beyond its use to build parts that are already flying, Airbus Group
+therefore, parts designed for and manufactured by ALM can is looking into using ALM technology to avoid shortages during
+have a natural and topologically optimised shape, which would the manufacturing process.
+be impossible if producing them from a solid block of material.
+Such parts are significantly lighter, faster to produce and
+ultimately much less expensive than conventional ones.
+Conventional machining
+compared with the ALM speedline
+• Weight reduction - up to 50%
+• Non-recurring cost saving (no tooling) - up to 90% %
+100
+• Green technology (less energy) - up to 90%
+90
+• Improved lead time delivery - up to 75% 80
+70
+• Functional integration (e.g. of cooling channels)
+60
+• Simplifying assemblies due to part reduction 50
+40
+• Shortened R&D time (one-shot testing)
+30
+• Lightweight design through biomimetic structures
+20
+• Customized products 10
+• Highly complex geometries (e.g. hydraulic manifolds)
+reaction time lead time cost weight
+• Tool, jig and ground support equipment manufacture
+Convetional machining ALM speedline
+• Ensure production for spare part shortages
+• Replicate parts that are out of production
+• Enabler for next generation airframe design
+CONCLUSION
+Additive Layer Manufacturing (ALM), also called 3D-printing, is an innovative technology shaping the future of aircraft
+component manufacturing. Harnessing CAD software, ALM is being used to construct 3D objects by melting and
+building up a solid product layer by layer.
+Components produced provide significant advantages in terms of reduced weight and production lead time compared to
+traditional manufacturing methods, while reducing waste and, as a consequence, the environmental impact.
+3D-printed airworthiness certified parts are already appearing on Airbus aircraft, and the list of parts proposed as
+candidates for 3D-printing is constantly growing.
+This new manufacturing method is not only being considered for aircraft parts but also for the production of jigs, tools,
+Ground Support Equipment as well as spare parts.
+As technology develops we may one day see the first entire aircraft built using ALM.
+55#TSAF
+11
+Additive Layer Manufacturing
+3D-printing spares
+Airbus is actively working towards using 3D printing technology as a spare parts solution due to the ease and cost effectiveness
+of producing out-of-production spare parts on-demand. This year, the first “printed” component – a small plastic crew seat panel
+– flew on an A310 operated by Canada’s Air Transat. The lead time for such a part can be as little as one day, if the component
+is based on an existing design, while redesigned parts can be produced in less than two weeks.
+Eco-efficient manufacturing - minimising the environmental footprint
+ALM represents a new alternative to production processes such as milling, melting, casting and precision forging, producing only
+5% waste material instead of up to 95% from current machining. The high flexibility in part design, production and testing offers
+considerable benefits to the customer in terms of cost and time.
+The ramp-up phase
+3D-printing is being progressively integrated into new design and manufacturing in the supply chain, starting small but steadfast
+in the fields of prototyping, tooling and on-demand production. Airbus has teamed up with major 3D-printing stakeholders to
+cover the process end-to-end, ensuring the production of certifiable structural components based on consistent tested material
+properties and meeting the requirements of a rigorous certification process.
+Future candidates for 3D-printing
+Airbus is looking at the entire aircraft: cabin,
+system and structural components, as well as
+manufacturing and tooling. It will also play a major
+role in the production of spare parts.
+In the coming years 3D-printing could potentially
+account for thousands of aircraft and ground
+support equipment components.
+Each day we are stepping closer to the “Future
+by Airbus”.
+Airbus Concept Plane
+55#TSAF
+21
+An innovative Airbus
+risk management service
+Runway
+Overrun
+Prevention
+System
+(ROPS)
+Article by (left to right)
+Fabrice VILLAUME
+ROPS - BTV co-inventor Airbus’ Runway Overrun Prevention System (ROPS) is risk
+Head of LUCEM programme
+management technology that mitigates the n°1 source of
+AIRBUS
+Fabrice.Villaume@airbus.com accidents: runway excursions.
+Thomas LAGAILLARDE Runway excursions at landing are the most common aviation accidents and a
+Head of ROPS Programme significant economic issue for the air transportation industry worldwide, costing
+AIRBUS US$ 300 million per year (about 33% of all aviation segments’ insurance claims).
+Thomas.T.Lagaillarde@airbus.com Studies demonstrate that the vast majority of these events could be avoided
+by providing flight crews with relevant information to make the right decision
+in a timely manner.
+55#TSAF
+31
+Runway Overrun Prevention System
+Fig 1: 2008 - 2012 aircraft accidents
+10.5%
+Loss of control in-flight
+7%
+Controlled flight into terrain
+24%
+1%
+Runway excursion
+Other
+2% 9.5%
+Off-airport landing/ditching In-flight damage
+5% 13%
+Tail strike Ground damage
+14.5%
+Gear-up landing/gear collapse
+9.5%
+Hard landing
+4%
+Undershoot
+Reducing runway excursions is a n°1 priority
+Initially developed between 2006 and 2009 as a smart automatic braking system
+named Brake-To-Vacate (BTV) for the A380 (read FAST magazine #44), it soon
+became apparent that elements of this system could be used to warn and protect
+against runway overrun risks, whatever the level of automation used for the braking
+system (pedal braking, classical Auto-Brake or BTV). This important safety system,
+named ROPS, has been in operation on A380 since October 2009 (nearly all opera-
+tors) and on the A320 Family since November 2013. For A330 and A350 aircraft,
+ROPS approvals are expected over the next two years depending on engine types.
+Realizing the global impact that ROPS-like technologies would have if applied on a
+worldwide scale, several safety bodies have already moved forward:
+• In March 2011, the United States’ NTSB recommended to the FAA to “actively
+pursue with aircraft and avionics’ manufacturers the development of technologies
+to reduce or prevent runway excursions and, once it becomes available, require that
+the technology be installed (A-11-28).”
+• The European Action Plan for the Prevention of Runway Excursions released
+recommendations to aircraft manufacturers and operators in January 2013 to
+respectively develop and install “onboard real-time performance monitoring and
+alerting systems that will assist the flight crew with landing/go-around decisions
+and warn when more deceleration force is needed”.
+• In mid-2013, EASA released a Notice Proposal of Amendment (NPA) regarding
+a possible mandatory installation of a “ROPS-like” system, generically called
+Runway Overrun Awareness Avoidance System (ROAAS) by 2017 for any new
+Type Certificate (TC) request, and by 2020 on any new delivered aircraft.
+In a unique initiative to globally reduce runway excursions, Airbus announced at
+the May 2011 ICAO Global Runway Safety symposium, its decision to offer ROPS
+technology to all aircraft and integrated avionics equipment manufacturers.
+55#TSAF
+41
+Runway Overrun Prevention System
+Airbus ROPS technology
+From the aircraft approach up to the aircraft stop, ROPS is a turnkey technology
+designed to continuously monitor total energy and the aircraft’s landing performance
+compared to the runway end. Its safety benefits have been demonstrated with reviews
+and replays of actual runway overruns, and about five years of in-service experience
+with overrun situations already avoided.
+Real-time assessment, in-flight and on-ground
+Touchdown
+Runway Overrun Warning Runway Overrun Protection
+Under 500 feet, ROW performs
+a real-time in-flight landing
+distance assessment with respect
+to detected landing distance
+available for dry and wet
+conditions.
+If the available runway is shorter
+than the calculated wet landing distance
+then pilots receive the message:
+IF WET RWY TOO SHORT
+visual message
+If the available runway is shorter After the touch down,
+than the calculated dry landing ROP performs a real-time
+distance then pilots receive on-ground stopping distance
+the message: assessment with respect to
+detected landing distance available.
+RWY TOO SHORT
+If the available runway is shorter
+visual/aural message than the calculated landing distance
+then pilots receive the message:
+MAX BRAKING
+MAX REVERSE
+visual / aural message
+0 m 500 m 1000 m 1500 m 2000 m 2500 m 3000m
+Runway threshold Touchdown Runway end
+ROPS - the inaugural Airbus BizLab project
+ROPS was the first idea to be taken on board at Airbus’ BizLab.
+Airbus’ BizLab is an aerospace accelerator where start-ups and Airbus
+innovators can unleash their potential to accelerate the transformation of
+innovative ideas into valuable businesses within a collaborative environment.
+This initiative from Airbus Corporate Innovation actively seeks opportunities
+to stimulate and develop ideas that can be of benefit to the aviation industry.
+BizLab takes a hybrid approach that mixes internal and external participants
+to foster an innovative culture and promote an entrepreneurial mindset
+throughout Airbus.
+55#TSAF
+51
+Runway Overrun Prevention System
+Touchdown
+Runway Overrun Warning Runway Overrun Protection
+Under 500 feet, ROW performs
+a real-time in-flight landing
+distance assessment with respect
+to detected landing distance
+available for dry and wet
+The A350 is fitted as standard with ROPS
+conditions. To effectively guide and assist the crew in the go-around
+If the available runway is shorter
+decision-making process and the timely application of
+than the calculated wet landing distance
+then pilots receive the message: on-ground slowing down (reversers and braking), ROPS:
+IF WET RWY TOO SHORT • Automatically detects the upcoming landing runway using highly accurate runway
+visual message information included in the terrain database (on A320 Family, A330 and A350)
+or the airport mapping database (A350 and A380).
+If the available runway is shorter After the touch down,
+than the calculated dry landing ROP performs a real-time • Performs a real-time in-flight landing distance assessment during the short final
+distance then pilots receive on-ground stopping distance (last section of approach) taking into consideration the detected landing distance
+the message: assessment with respect to available. If the detected landing distance available is assessed too short, it triggers
+detected landing distance available.
+RWY TOO SHORT an alert to encourage the crew to go-around.
+If the available runway is shorter
+visual/aural message than the calculated landing distance • Performs a real-time on-ground stopping distance assessment regarding the
+then pilots receive the message: detected landing distance available. If the detected landing distance available is
+assessed too short, it triggers an alert to encourage the crew to apply and keep
+MAX BRAKING
+all available means of slowing-down.
+MAX REVERSE
+visual / aural message
+Real-time computation of realistic landing
+distance and remaining braking distance
+0 m 500 m 1000 m 1500 m 2000 m 2500 m 3000m
+In the air, the strength of ROPS is its ability to continuously monitor the aircraft’s
+Runway threshold Touchdown Runway end
+position and energy with regards to the remaining runway length. Consequently,
+any changes during the approach are immediately captured and the resulting distance
+required to stop is updated (e.g. changing winds affect the ground speed and thus
+the predicted touchdown speed, or flying above the normal glide-slope may affect
+the predicted threshold crossing point, or long flares which affect the predicted
+touchdown point).
+The review of past incidents and accidents shows that seconds count (small delays
+have a large impact on the stopping distance), crews can be saturated with informa-
+tion and misjudgement concerning the amount of runway remaining is frequent.
+Moreover, acknowledging that ROPS cannot predict the future intention of the pilot,
+the system must protect against a pilot who is unknowingly approaching the runway
+end too fast while communicating that the current deceleration is not sufficient to stop
+the aircraft before the runway end. In addition, the system needs to protect against
+some unexpected degradation of aircraft braking performance (e.g. downward
+sloping runway end or runway end contamination by rubber).
+Runway Overrun Prevention System
+Creating a positive business case
+for operators with the ROPS
+risk management service
+The wide adoption of safety-related technologies happens when a significant proportion
+of aircraft are equipped, which then creates a momentum within the industry. In the
+cases of the Terrain Awareness and Warning System (TAWS) and the Traffic Collision
+Avoidance System (TCAS) - two of the most important safety technological steps in
+aviation over the past 20 years (see FAST 45 and 52) - the installation took several
+years and was initially highly subsidized by governmental agencies.
+In the case of ROPS, Airbus has looked for an innovative way to incentivize operators
+to adopt ROPS without relying on state subsidies but leveraging the value created by
+ROPS for the operators: less risk of runway excursions.
+The ROPS Risk Management Service
+When one knows that runway excursions are the number one risk in terms of cost for
+insurances, it then becomes obvious that the reduction of this risk should translate
+into an insurance cost reduction for the operators installing ROPS on their aircraft.
+Airbus has consequently entered into an innovative partnership with Willis Aerospace
+(insurance broker) and Allied World (insurance company) to develop the ROPS Risk
+Management Service which comprises:
+• The installation kit for ROPS including all required software and operational
+documentation to activate and operate ROPS function,
+• The supply of ROPS specific high quality and verified runway database updates,
+• The supply and the management by Willis Aerospace of a dedicated Hull,
+primary and A rated insurance policy which would indemnify the operator against
+hull loss directly resulting from a runway overrun at landing for amounts up
+to US$ 15,000,000 for a single-aisle aircraft or up to US$ 25,000,000
+for a long-range aircraft.
+With the ROPS Risk Management Service, operators can negotiate on a case-by-
+case basis with their lead insurer or broker, a reduction of the insurance premium
+they pay as they are already insured against the risk of runway excursion and get
+a protection against the potential revision of their premium in case of overrun.
+This can create a positive business case for the installation of ROPS or at least
+alleviate significantly the cost of installation.
+An A320 ROPS architecture
+Terrain Awareness
+Display 20 20
+& Warning System
+Management
+TAWS
+Flight Computer RR1WW0YY TTOOOO SSHHOO1RR0TT
+Management (DMC)
+Guidance
+Primary Flight Display
+Computer
+(PFD)
+(FMGC)
+Flight
+Flight Warning
+Augmentation Computer
+Computer (FWC)
+(FAC)
+55#TSAF
+61
+Runway Overrun Prevention System
+ROPS – Available for all Airbus families
+A320 Family and A330 Family status
+• Implementation throught software change mainly
+(retrofit can be done overnight)
+• Certified for A320 Family by EASA and FAA in 2013
+• Certification for A330/A340 Family expected in 2015
+A380
+• Certified by EASA on October 15th 2009
+• Selected on 77% of ordered/in-service A380s
+• Implementation through software change only
+• Coupled with Brake-To-Vacate (BTV)
+• Proven: no runway overruns in seven years of operations
+A350
+• Included in the basic entry-into-service configuration
+CONCLUSION
+ROPS (Runway Overrun Prevention System) is an Airbus technological invention able
+to mitigate the n°1 source of accidents and insurance claims. This system is able to
+continuously monitor the aircraft’s position and energy with regards to the remaining
+runway length and runway conditions, to effectively guide and assist the crew in the
+go-around decision-making process and the timely application of on-ground
+slowing down.
+ROPS is available for linefit or retrofit on all Airbus aircraft and is being developed
+for non-Airbus aircraft.
+55#TSAF
+71
+55#TSAF
+81
+Airbus
+GSE
+& tools
+Article by (left to right) New services to ease aircraft maintenance
+Guillermo BATICON-RAMOS
+Head of GSE & Tools Design Engineering Over recent years Airbus’ Ground Support Equipment and Tools team has worked
+AIRBUS closely with airlines, transforming its “one-size-fits-all approach” into offering turnkey
+Guillermo.Baticon-Ramos@airbus.com solutions, tailored to customers’ specific requirements, and complete with customised
+technical data documentation.
+Nicholas FENDALL
+In addition, Airbus GSE has worked with manufactures to test and approve alternative
+GSE & Tools Support & Services Engineer
+equipment, enabling new tools and equipment to be used for maintenance and repair
+AIRBUS
+with an approved procedure.
+Nick.Fendall@airbus.com
+Now Airbus is bringing new materials and technologies to the tooling world to further
+improve aircraft maintenance.
+55#TSAF
+91
+Airbus GSE & tools
+The GSE portfolio
+Ground Support Equipment (GSE), as its name states, is the support equipment found
+at an airport or maintenance facility for servicing aircraft during turn-around or for
+maintenance and repair purposes, supporting the aircraft operations whilst on ground.
+The functions generally involve aircraft maintenance and repair, ground power
+operations, aircraft mobility and loading operations (for both cargo and passengers).
+The GSE services offered by Airbus GSE and Tools Engineering are the following:
+• Tailored tool service – the design, test, publication in Airbus technical documentation
+and supply of customised tools and equipment
+• Alternative and standard tool validation service – the test, approval and publication
+in Airbus technical documentation of tools
+• Tool recommendations – a recommendation list of required tooling based on the
+operator’s needs
+Tailored tool designs
+Manufacturing heavy parts in carbon fibre
+Traditionally, GSE and tools were made of heavy-duty materials as the main design
+criteria were cost of manufacturing and robustness. Nowadays, Airbus’ customers are
+requesting cost effective tools, considering not only manufacturing costs, but the
+costs of using the tool during aircraft maintenance. Criteria such as cost efficiency,
+robustness with ergonomics, keeping safety in mind, are paramount. For example, the
+A380 body landing gear door safety collar has been manufactured for the first time in
+Carbon Fibre Reinforced Polymer (CFRP) reducing the tool weight from 25kg to 9,4kg.
+The proposed tool is now easier to use and reduces the number of mechanics needed
+to install it from five to one. In addition, with its much lighter weight, the potential for
+accidental damage to the aircraft is significantly reduced.
+The new lighter A380 body landing gear door
+safety collar in CFRP
+55#TSAF
+02
+Airbus GSE & tools
+The “vortex killer”
+GSE tools developed Vortex killer for engine run-up
+by Airbus include:
+Following engine maintenance or during troubleshooting, it can be necessary
+• Electrical hoist kit for changing
+to perform an engine run-up test on ground but, due to the close proximity of
+engines
+the ground to the engine, running an engine at high power can sometimes be
+• The Line Tool, a patented tool a challenging task.
+for Non-Destructive Testing (NDT)
+At high engine run-up speed, a ground vortex is formed leading into the engine
+of composite materials
+air intake that can disturb the engine and cause it to stall. In addition, cross-
+for non-NDT specialists
+winds can cause the ground vortex to fluctuate imposing wind speed and
+• A380 Fuselage & Wing Protection direction limitations when an aircraft is tested outside.
+Cover for use during slide/raft
+To solve this issue, Airbus has developed and patented a “vortex killer”.
+deployment test
+It is commonly used in Airbus’ Hamburg engine test facility for all A320 Family
+(MPD task 256200-00005).
+and A380 tests.
+• Fire Extinguisher System (FES) This “vortex killer” inhibits the negative effects from the ground vortex and
+test box for A380 operational enables a smoother engine run-up with less vibration. In addition, by using this
+check of the firing circuit (AMM GSE tool, the engine run-up tests can be performed in crosswind speeds up to
+task 26-28-00-710-802A) 200% higher in comparison to normal testing.
+• Passenger door adjustment tool At present, the “vortex killers” used in Airbus are sized specifically for each
+set for A380. aircraft type meaning the A320 equipment can only be used on an A320.
+However, following a customer request, Airbus’ GSE & Tools team started
+investigating the possibility of equipment suitable for several aircraft types,
+ranging from single-aisle to wide-body aircraft, in one single unit. By offering
+a single “vortex killer” customised to the operator’s fleet, significant benefits
+with less equipment and investment can be envisaged.
+55#TSAF
+12
+Airbus GSE & tools
+Alternative and standard tool validation Some examples of other
+alternative tool validations
+During the initial aircraft development, Airbus provides tool solutions for maintenance • J. B. Roche (Manufacturing) Ltd:
+tasks. It may be equipment from a supplier that is approved and included in the inflatable maintenance shelter for
+technical data. Sometimes years later, an alternative solution can become available on engines on large aircraft (see
+the market or different solutions might exist locally to customers which are not following article in this FAST
+included in the manuals, and not having an approved maintenance procedure can be magazine)
+a barrier to this new equipment being used.
+• Langa and Dédienne Aérospace:
+Consequently, Airbus now offers a service to approve alternative tooling for which the maintenance jacks
+tool and procedure are analysed, including completion of a test on aircraft. If successful,
+• Air New Zealand:
+the tool is approved and the procedure is published with an update in the technical
+A320 retraction actuator
+data. The benefits to tool suppliers are that the equipment can be sold with an
+re-boring tool
+approved procedure, such as in a format of an AMM (Aircraft Maintenance Manual)
+• Teledyne and TechSAT:
+or SRM (Structure Repair Manual) task. This also benefits airlines by introducing new
+Portable Data Loaders (PDL)
+methods that can be faster or more efficient, while providing a greater choice of
+equipment. By updating the procedure in the technical data, it reduces the burden on • Cee-Bee, Celeste and Test-Fuchs:
+airlines to internally approve and then prove to airworthiness authorities that the tool is vacuum waste line system cleaning
+technically equivalent, reducing cost and time when introducing alternative equipment. equipment
+For example, Airbus has recently worked with a supplier to approve new environmentally- • AeroControlex:
+friendly vacuum waste line cleaning equipment that uses biodegradable citric acid. potable water system, disinfection
+with ozone
+Torque multiplier tool
+55#TSAF
+22
+Airbus GSE & tools
+Tool recommendations
+Aircraft Maintenance Tool
+Through the tool recommendations, Airbus advises what equipment is
+Maintenance Planning & Equipment
+required based on a particular airline’s fleet and/or specific needs. Manual Document Manual
+(AMM) (MPD) (TEM)
+The recommendation is a list of required tooling complying with Airbus’
+technical documentation, linking information together from the Aircraft
+Maintenance Manual (AMM), Maintenance Planning Document (MPD) and
+Tool & Equipment Manual (TEM) to identify all the tooling. From this list,
+Airbus can then filter, based on the airline’s fleet, the aircraft utilisation, the
+airline’s maintenance concept and purchase or lease policy, to advise
+what tooling is needed and when they will require it.
+This has the benefit of ensuring that customers have the right tool at the
+right time, and to help customers prepare for specific maintenance events Fleet
+or the entry-into-service of new aircraft. This also has the added advantage Flight
+of helping airlines to optimise their tool investment planning by purchasing Hours/year
+the GSE at the right time, throughout the aircraft’s life-cycle. MSN
+New technology - augmented reality
+Tool recommendations
+Airbus has developed an augmented reality technology demonstrator
+for tablets that integrates high quality 3D data of the aircraft and tooling,
+3D animations, the aircraft maintenance instructions and GSE guides.
+The application is able to recognise the real working environment,
+without markers, and overlay an animation of the tooling installation to
+enable the maintenance teams to see where they are in the procedure,
+and verify the equipment is installed appropriately.
+This will have the benefit of significantly reducing the time for interpreting
+and understanding the maintenance tasks. The augmented reality
+technology demonstrator is currently in its final development stage
+and the intention is to make this available, together with a cockpit
+dedicated to GSE, on the AirbusWorld portal in the near future.
+Augmented reality demonstrator
+55#TSAF
+32
+Airbus GSE & tools
+The electrical hoist kit was developed by Airbus to ease engine changing.
+The kit allows engines to be positioned with extreme precision and needs
+only three engineers as opposed to eight needed for traditional bootstrap
+systems (see article in FAST #52).
+CONCLUSION
+Airbus GSE and Tools services have proven to help airlines optimise
+their maintenance and reduce direct maintenance costs.
+By offering tailored tool services, Airbus can offer a complete tooling
+solution, tested on aircraft and provided with approved technical
+documentation for its use on aircraft.
+With the services now offered to GSE manufactures, new equipment
+can be introduced and sold as validated on Airbus aircraft with an
+approved procedure in the Airbus technical documentation.
+For general information please contact maint.gsetools@airbus.com
+For further information on GSE & tools shown in this article:
+• A380 body landing gear door safety collar,
+torque multiplier tool and electrical hoist kit
+Eric RIVIERE - Eric.E.Riviere@airbus.com
+• Vortex killer
+Daniel GYLLHEM - Daniel.Gyllhem@airbus.com
+• Augmented reality
+José-Miguel VIZARRO-TORIBIO - Jose.Vizarro_Toribio@airbus.com
+• Tool recommendations
+Jean-Marc HERAL - Jean-Marc.Heral@airbus.com
+55#TSAF
+42
+Article title
+Example of Airbus Inflatable tents
+Ground Support
+Equipment (GSE)
+for engine
+maintenance
+Bringing apron maintenance indoors
+Airbus Customer Services has recently noticed an increase in delays concerning
+unscheduled engine maintenance due to the lack of availability of hangar space.
+Ideally engine maintenance tasks need to be performed in dry, temperate, comfortable
+conditions, and while they can sometimes be performed outside on the apron,
+customers that are located in regions with extreme weather often have to wait until
+hangar space is available.
+Article by Airbus GSE and Tools department was asked to find a quick, effective and low cost
+Eric RIVIERE solution to perform fleet maintenance tasks when a hangar is not available and/or
+GSE Designer the aircraft is blocked outside.
+AIRBUS
+Following an intense three months of collaborative work, Airbus has used its aircraft
+Eric.E.Riviere@airbus.com
+and tool manufacturer know-how to validate and offer a “ready-made” solution
+for their customers.
+55#TSAF
+52
+Inflatable tents for engine maintenance
+The solution
+The solution consists of an inflatable tent enabling “indoor” engine maintenance with
+optimal environmental conditions anywhere in the world.
+The kit comprises an inflatable dome tent and an HVAC (heating, ventilating, and air
+conditioning) system that can be used on all Airbus aircraft engines. The tent is kept in
+place by placing ballast, such as water containers or sandbags, on the skirts provided
+for that purpose.
+The system effectively allows maintenance teams to work anywhere, bringing the
+hangar to the aircraft, rather than the aircraft to the hangar.
+The added value for the customer is that not only do they no longer have to wait for
+available hangar space - reducing Aircraft On Ground time - but can also avoid costly
+hangar fees.
+Features
+“A comfortable
+Inflatable tents allow customers or Airbus work parties, to performing heavy maintenance
+and safe working
+activities whatever the environmental conditions reducing cost and saving time.
+The main features are:
+environment,
+• Lightweight and manoeuvrable (it could even be stowed on the aircraft)
+even in regions
+• Weatherproof
+with extreme • Quick assembly, installation and removal
+• Provision for anchorage, either mechanically or using ballast
+weather
+• Oil, acid and hydraulic fluid resistant material
+conditions”.
+• A safe and comfortable working environment
+The tents, which were initially validated for wide-body aircraft, are now available for all
+long-range Airbus aircraft (A330, A340, A350 and A380).
+Airbus GSE & Tools department is investigating other sheltering systems that can be
+installed around landing gear, main fuselage and doors to offer a similar level of
+comfort for their maintenance.
+55#TSAF
+62
+Inflatable tents for engine maintenance
+Electrical hoist kit
+compatible
+The opening end doors of the
+inflatable engine maintenance tent
+not only allow it to be pulled around
+the engine and above the pylon,
+but also allow the possibility of using
+the electrical hoist kit (see FAST 52)
+developed by Airbus to remove
+and install an entire engine.
+55#TSAF
+72
+Inflatable tents for engine maintenance
+Inflatable tents for engine maintenance
+Main characteristics
+• Operating temperature: -40°C to +60°C
+• Installation time: 5 minutes (4 crew)
+• Removal and stowing time: 10 minutes (4 crew)
+• Shelter weight: 140 kg
+• Blower weight: 22 kg
+• Shelter dimensions (packed): 150 x 100 x 100 cm
+• Blower dimensions: 50 x 40 x 60 cm
+• Maximum wind speed: 30 knots (ballasted)
+CONCLUSION
+To provide a quick, low cost solution to lack of hangar space for unscheduled engine maintenance, Airbus GSE & Tools
+department has developed, in collaboration with J.B.Roche (Manufacturing) Ltd, an inflatable maintenance tent.
+This quick-to-install shelter is especially appreciated in regions of severe weather conditions where it provides a safe and
+comfortable working environment. Its ease and availablity allow aircraft to not be grounded any longer than necessary.
+For more information contact the Airbus GSE & Tools front desk: maint.gsetools@airbus.com
+55#TSAF
+82
+Scheduled
+maintenance
+requirements
+Maintenance programmes and planning
+Maintenance programmes and planning activities aim
+at ensuring continued airworthiness while all the time
+maximising fleet availability and optimizing airlines’
+maintenance resources.
+ALS
+The purpose of this article is to clarify what maintenance
+Airworthiness programmes and planning are, who is responsible for
+Limitation
+settiMnPgD them and byO wMhPich factors they are influenced.
+Section
+Article by
+Maintenance Operator
+Christian DELMAS
+MRBR Planning Maintenance
+Head of Maintenance Programmes Engineering
+Document Program Maintenance
+AIRBUS
+Planning
+Christian.Delmas@airbus.cMomaintenance
+Review Board
+Report
+MANUFACTURER OPERATOR
+ALS
+Airworthiness
+Limitation
+MPD OMP
+Section
+Maintenance
+MRBR Planning
+Document Maintenance
+Operator
+Planning
+Maintenance Maintenance
+Review Board Programme
+Report
+GLOSSARY The definitions shown here use abbreviations and accronyms for smoother reading,
+and familiarity with basic maintenance terms is expected.
+A glossary of accronyms and terms can be found on page 37 to refresh your memory.
+ALS
+MPD OMP
+MRBR
+ALS
+MPD OMP
+MRBR
+ALS
+MPD OMP
+MRBR
+ALS
+MPD OMP
+MRBR
+ALS
+MPD OMP
+MRBR
+55#TSAF
+92
+ALS
+Airworthiness
+Limitation MPD OMP
+Section
+Maintenance Operator
+MRBR Planning Maintenance
+Document Program Maintenance
+Planning
+Maintenance
+Review Board
+Report
+MANUFACTURER OPERATOR
+Scheduled maintenance requirements
+ALS
+First things first, let’s start by reviewing what is developed
+Airworthiness
+Limitation MPD and provideOdM Pby the MANUFACTURER.
+Section
+Maintenance
+MRBR Planning
+ManDuocfuamcetnut rer maintenance reMqaiuntierneanmceents
+Operator
+Planning
+Maintenance Maintenance
+Review Board
+Scheduled maintenancPer orgerqamumireements are developed by aircraft manufacturers to demonstrate
+Report
+compliance with regulatory requirements associated with “Instructions for Continued Airworthiness”.
+In practice, for a given aircraft programme (e.g. A300/A310 Family, A320 Family, A330, A340,
+A350 and A380) several documents are developed, the primary ones being the Airworthiness
+Limitation Section (ALS) and the Maintenance Review Board Report (MRBR).
+Airworthiness Limitation Section
+ALS
+The Airworthiness Limitation Section comprises standalone documents such as:
+MPD OMP
+MRBR ALS Part 1 Safe life Airworthiness Limitation Items
+(commonly referred to as Life Limited Parts (LLP))
+ALS Part 2 Fatigue & damage tolerant Airworthiness Limitation Items
+(commonly referred to as ALI)
+ALS ALS Part 3 Certification Maintenance Requirements
+(commonly referred to as CMR)
+MPD OMP
+MRBR ALS Part 4 System Equipment Maintenance Requirements (SEMR)
+ALS Part 5 Fuel Airworthiness Limitations (FAL)
+STRUCTURE SYSTEMS FUEL
+ALS
+EASA/FAR regulations 25-571 EASA/FAR regulations 25-1309 EASA/FAR
+F M a P ti D gue an OM a P lysis regulations 981
+MRBR
+System safety
+component
+System
+evaluation
+Fail safe - damage safety assessment + Fuel tank
+tolerance analysis + MSG*-3 analysis safety analysis
+ALS MSG*-3 analysis +
+Safe life System life limits
+AirworthinMePsDs OMP
+Limitation
+MRBR
+Items Certifcation System Fuel
+Damage tolerant
+Maintenance Equipment Airworthiness
+Airwortiness
+Requirements Maintenance Limitations
+Limitation Items
+(CMR) Requirements (FAL)
+(ALI)
+(SEMR)
+ALS
+MPD OMP
+ALS Part 1 ALS Part 2 ALS Part 3 ALS Part 4 ALS Part 5
+MRBR
+*Maintenance Steering Group
+The documents list, per ATA chapter, maintenance tasks and associated threshold
+and/or intervals expressed in the relevant usage parameter (Flight Hours (FH), Flight
+Cycles (FC) or calendar times (days, months or years)). The tasks and intervals come
+from quantitative analyses (e.g. fatigue and damage tolerance analysis, system safety
+assessment, etc.) developed in the frame of Type Certification (TC) activities.
+These documents are not customized to a given fleet but provide envelope requirements
+for the worldwide fleet for a given aircraft programme. Quoted thresholds and intervals
+are not to be exceeded, unless otherwise specified. These documents are referenced
+in the Type Certificate Data Sheet and subsequent revisions are usually mandated by
+Airworthiness Directives.
+55#TSAF
+03
+ALS
+Airworthiness
+Limitation MPD OMP
+Section
+Maintenance Operator
+MRBR Planning Maintenance
+Document Program Maintenance
+Planning
+Maintenance
+Review Board
+Report
+MANUFACTURER OPERATOR
+ALS
+Airworthiness
+Limitation MPD OMP
+Section
+Maintenance
+MRBR Planning
+Document Maintenance
+Operator
+Planning
+Maintenance Maintenance
+Review Board Programme
+Report
+ALS
+MPD OMP
+MRBR
+Scheduled maintenance requirements
+ALS
+MPD OMP
+MRBR
+Maintenance Review Board Report
+ALS
+MPD OMP
+Unlike the ALS, the MRBR is developed according to a process which involves
+ownMeRrBsR/operators, airworthiness authorities, the aircraft manufacturer and major
+suppliers or vendors; referred to as the MRB process.
+The MRBR is complementary to the ALS because, unlike the ALS, it follows a
+qualitative assessment focusing not only on aircraft safety but also on aircraft
+availAaLbSility and maintenance costs.
+The MRB proceMsPsD is recoOgMniPzed and supported by the major airworthiness authorities.
+ThisM RpBroRcess relies on a method developed and maintained by the industry: MSG-3.
+Aircraft manufacturers, airworthiness authorities and operators meet on a regular
+basis to adapt the process and the method to an evolving context: new regulations,
+new technologies, lessons learnt from implementation, in-service experience feed-
+backA,L Setc.
+For a given projeMcPtD (e.g. AO3M5P0), the Industry Steering Committee (ISC), chaired by an
+operator representative, develops and keeps the MRBR up-to-date. Representatives
+MRBR
+of the aircraft manufacturer (known as the Type Certificate Holder or MRB applicant),
+owners/operators, authorities and major vendors form the ISC.
+The ISC’s objective is to develop and maintain an efficient MRBR and get it approved
+by the authorities.
+The MRBR is a list of maintenance requirements (tasks)
+with associated intervals.
+In the past, a selection of maintenance programme intervals was highly influenced
+by planning considerations (and not only technical ones). Operators typically used
+block maintenance concepts which explains the reason why some intervals were
+harmonized in “letter intervals” such as checks A, C, etc.
+For several years now, intervals have been developed according to an engineering
+assessment and are expressed with the most appropriate usage parameter (calendar
+time, Flight Hours (FH) or Flight Cycles (FC)) thus allowing greater flexibility in their
+planning. The usage parameter depends on the degradation mode of the analysed
+system/structure.
+55#TSAF
+13
+ALS
+Airworthiness
+Limitation MPD OMP
+Section
+Maintenance Operator
+MRBR Planning Maintenance
+Document Program Maintenance
+Planning
+Maintenance
+Review Board
+Report
+MANUFACTURER OPERATOR
+ALS
+Airworthiness
+Limitation MPD OMP
+Section
+Maintenance
+MRBR Planning
+Document Maintenance
+Operator
+Planning
+Maintenance Maintenance
+Review Board Programme
+Report
+ALS
+MPD OMP
+MRBR
+ALS
+MPD OMP
+MRBR
+Scheduled maintenance requirements
+ALS
+MPD OMP
+MRBR
+Maintenance Planning Document
+ALS
+MPD OMP
+Unlike the ALS or the MRBR, the MPD is not imposed by regulations. The MPD is a non-approved document and a repository/
+conMsRoBlRidation of maintenance requirements coming from other documents (so called “sources”) such as the ALS or the MRBR.
+The MPD, which is part of the manufacturer’s technical documentation, aims at helping operators in the preparation of their
+maintenance programme and planning. It establishes the link between the requirements and the maintenance procedures listed in
+the Aircraft Maintenance Manual (AMM).
+ALS
+The MPD also contains additional information to help operators in the organization of maintenance (e.g. access information,
+man-hours, elapMsPeDd time,O MrePquired skills, etc.).
+As MthReBR content of the MPD is not defined by an industry standard, there are different MPD concepts depending on the aircraft
+manufacturers. In the current Airbus MPD, all repetitive scheduled maintenance requirements are consolidated with the source
+documentation whereas other aircraft manufacturers may consider the MRBR only, or the MRBR and the ALS.
+Special attention should thus be paid when comparing MPDs between aircraft from different manufacturers.
+Manufacturer maintenance requirements Manufacturer maintenance requirement
+for revision/evolution summary
+ALS and MRBR are developed in the frame of the initial Type The manufacturer maintenance requirements are published
+Certification (TC). ALS and MRBR have to be kept up-to- in multiple documents (e.g. ALS parts, MRBR, etc.) and
+date all along the programme life. There are actually three developed according to quantitative and qualitative analyses.
+major triggers for a maintenance programme revision: The documents:
+• Regulation changes • Are developed to demonstrate compliance with
+instructions for continued airworthiness regulations
+• Configuration changes (aircraft modifications)
+and according to industry standards (e.g. MSG-3)
+• In-service experience feedback
+• Are approved by the certification authorities
+Regarding the MRBR, initial intervals are often quite
+• Envelope the entire fleet for a given programme
+conservative. Consequently, from analysing in-service
+and cover all possible configurations. They are not
+feedback, there is good potential to optimize intervals
+customized to a given Manufacturer Serial Number (MSN)
+in a way that is beneficial to the operator. Most
+or operator’s fleet
+manufacturers have managed to optimize task intervals
+at several opportunities, rendering operator maintenance • Provide a list of maintenance requirements sorted
+programmes more efficient. by ATA chapter
+Optimization of maintenance programme intervals essentially
+relies on scheduled and unscheduled data collected by the
+manufacturer from different operator environments, aircraft
+utilisation, aircraft configuration, aircraft age, etc.
+Since 2007, authorities have imposed on manufacturers a
+rule for maintenance task optimization, which mainly relies
+on the volume and quality of collected data. The rule is
+known in the industry as IP44.
+Without operators’ data, manufacturers do not have the
+means to optimize maintenance tasks.
+55#TSAF
+23
+ALS
+Airworthiness
+Limitation MPD OMP
+Section
+Maintenance Operator
+MRBR Planning Maintenance
+Document Program Maintenance
+Planning
+Maintenance
+Review Board
+Report
+MANUFACTURER OPERATOR
+ALS
+Airworthiness
+Limitation MPD OMP
+Section
+Maintenance
+MRBR Planning
+Document Maintenance
+Operator
+Planning
+Maintenance Maintenance
+Review Board Programme
+Report
+ALS
+MPD OMP
+MRBR
+ALS
+MPD OMP
+MRBR
+Scheduled maintenance requirements
+ALS
+MPD OMP
+Now, let’s see what happens on the side of the OPERATOR
+MRBR
+ALS
+MPD OMP
+MRBR
+Operator Maintenance
+Programme
+ALS
+MPD OMP
+MRBR
+OMP may also be referred to as Aircraft Maintenance Programme (AMP) or Continuous
+Airworthiness Maintenance Programme (CAMP). Within this document, the term
+“maintenance programme” may also be understood as “maintenance schedule”.
+OMP development is under the responsibility of the operator and is developed
+according to National Airworthiness Authorities (NAA) continuing airworthiness
+requirements. OMP is a prerequisite for an operator to obtain an Air Operator
+Certificate (AOC) from its NAA.
+The OMP shall list all requirements:
+• Coming from the manufacturer’s regulation compliance documentation
+(e.g. MRBR, ALS or specific procedures applicable to the operator’s fleet).
+• Coming from the manufacturer’s recommendations (e.g. SB, SIL and OIT)
+provided the operator’s engineering office considers them to be effective
+in the local operational environment.
+• Coming from Airworthiness Directives (AD)
+The MPD can be used as a source for all three groups but it must be ensured that
+requirements issued since its publication are not overlooked. It is essential to ensure
+that operators implement a thorough aircraft configuration management to only select
+tasks applicable to their fleet and, more importantly, not to miss any requirements
+that apply.
+The OMP generally contains far fewer tasks than the MPD. For example, the A320
+Family MPD lists about 3,000 maintenance requirements for all A318/A319/A320/
+A321 models, versions, configurations. Customized at aircraft level in an operator’s
+maintenance programme, this number is reduced to approximately 1,000 tasks:
+• Imposed by the operator’s NAA and national laws
+• Coming from the operator’s in-service experience
+• Coming from any aircraft Supplemental Type Certificate (STC)
+Unless otherwise specified, operators cannot deviate from the ALS and AD
+requirements applicable to their fleet. However, regarding the MRBR, operators
+have the possibility to deviate from the published requirements according
+to procedures agreed with their NAA.
+The Operator Maintenance Programme is approved by the operator’s NAA.
+It is ‘the’ reference for the maintenance of the aircraft.
+55#TSAF
+33
+ALS
+Airworthiness
+Limitation MPD OMP
+Section
+Maintenance Operator
+MRBR Planning Maintenance
+Document Program Maintenance
+Planning
+Maintenance
+Review Board
+Report
+MANUFACTURER OPERATOR
+ALS
+Airworthiness
+Limitation MPD OMP
+Section
+Maintenance
+MRBR Planning
+Document Maintenance
+Operator
+Planning
+Maintenance Maintenance
+Review Board Programme
+Report
+ALS
+MPD OMP
+MRBR
+ALS
+MPD OMP
+MRBR
+ALS
+MPD OMP
+MRBR
+ALS
+MPD OMP
+MRBR
+Scheduled maintenance requirements
+ALS
+MPD OMP
+MRBR
+Planning the accomplishment of tasks
+Considering that an aircraft generates value while flying and costs while on the ground, it is essential to ensure a maximum aircraft
+availability for operations. In addition, operators also have to ensure optimized utilization of available resources, whether internal or
+sub-contracted.
+This is the reason why it is not relevant This is also the reason why operators have to organize/schedule their aircraft/fleet
+for an operator to perform each mainte- maintenance. To do so, they have to package the accomplishment of maintenance
+nance programme task (from the OMP) tasks into maintenance events, also referred to as maintenance checks.
+exactly at its quoted interval.
+Task packaging is a typical planning exercise which takes many different parameters into
+This would: consideration:
+• Generate too many operational • Aircraft utilization such as FH and FC per year
+interruptions
+• Aircraft operational availability - some operators operate their aircraft in a similar way
+• Require a surplus of means/resources throughout the year during which very limited opportunity for maintenance exists.
+for each task accomplishment Conversely, others experience peak and low seasons. During the low seasons, aircraft
+utilization is reduced thus offering more opportunities for maintenance
+• Require availability of means/resources
+at different locations (main base and • Manpower and hangar availability - some tasks can be performed “on the line”
+remote stations) whereas some others (e.g. due to the need for ground support equipment - see article
+page 22 -, access, task duration, etc.) have to be performed in a hangar
+• Means associated to the maintenance task accomplishment - some tasks (mainly
+structure inspections) may require heavy access
+• Aircraft age - the more the aircraft ages the more tasks there are, associated with
+potential fatigue or corrosion degradation requiring heavier access
+• Airline policy in terms of cabin refurbishing (which generates aircraft ground time during
+which maintenance tasks can be performed)
+• Airline policy in terms of system or structure modifications (SB embodiment which may
+also impose aircraft ground time opportunities for maintenance)
+Consequently from the same maintenance programme, several maintenance planning
+options may exist. This also means it is not relevant to talk about maintenance check
+intervals at maintenance programme level: maintenance check is a pure planning
+exercise performed at operator level. It is even less relevant to talk about maintenance
+check intervals at manufacturer maintenance requirements level.
+55#TSAF
+43
+Scheduled maintenance requirements
+From the same maintenance programme, different operators
+may develop different maintenance planning scenarios:
+Typical block check concept
+Tasks are distributed in so called line checks, base checks
+(typically C check), intermediate checks (typically 6-year
+checks) and heavy maintenance checks (typically 12-year
+checks). Checks are distributed with the same interval but the
+content of each event may vary significantly, thus generating
+different workload or aircraft ground time (typically A1, A2, A3,
+1617181920212223242526272829303132
+etc., checks are different, as well as C1, C2, etc. checks). EVENTS
+Typical semi-equalized check concept
+In order to better manage manpower and aircraft
+availability, some operators have managed to balance EVENTS
+manpower needs and aircraft ground time between
+repetitive A checks or repetitive C checks.
+EVENTS
+Typical fully equalized check concept
+Extending the concept of the semi-equalized concept
+and looking for maximum aircraft availability and
+utilization of resources, some operators have also
+organized their maintenance in such a way that the
+tasks are performed during “light” events (that can be
+performed overnight) in between intermediate mainte-
+nance checks (typically checks with a six year interval).
+EVENTS
+Such a concept certainly generates a more intense maintenance planning exercise, may
+generate additional maintenance costs (same access opened more often), more logistics
+(spare parts and means available at line stations) but also generates more aircraft
+availability and subsequently potential revenues: aircraft can be operated on a daily basis
+without interruption in between six year interval checks. Maintenance checks are
+performed overnight when aircraft is available.
+A stable fleet configuration, a thorough management of Minimum Equipment List (MEL)
+deferred items, a young fleet or intensive/regular aircraft operation throughout the year,
+are examples of conditions to be fulfilled to implement and get maximum benefit from
+such a maintenance planning concept.
+DAOLKROW
+DAOLKROW
+DAOLKROW
+DAOLKROW
+A1 A2 A3 C1 C2 6-year check
+Block
+1 2 3 4 5 6 7 8 9 101112131415 1617181920212223242526272829303132
+EVENTS
+A check equalized
+1 2 3 4 5 6 7 8 9 1011121314151617181920212223242526272829303132
+EVENTS
+A check equalized + C check equalized
+1 2 3 4 5 6 7 8 9 1011121314151617181920212223242526272829303132
+EVENTS
+A and C check fully equalized
+1 2 3 4 5 6 7 8 9 1011121314151617181920212223242526272829303132
+EVENTS
+DAOLKROW
+DAOLKROW
+DAOLKROW
+DAOLKROW
+A1 A2 A3 C1 C2 6-year check
+Block
+1 2 3 4 5 6 7 8 9 101112131415
+A check equalized
+1 2 3 4 5 6 7 8 9 1011121314151617181920212223242526272829303132
+16171819202122232425262728A29 c30h31e3c2 k equalized + C check equalized
+EVENTS
+1 2 3 4 5 6 7 8 9 1011121314151617181920212223242526272829303132
+A and C check fully equalized
+EVENTS
+1 2 3 4 5 6 7 8 9 1011121314151617181920212223242526272829303132
+EVENTS
+EVENTS
+DAOLKROW
+DAOLKROW
+DAOLKROW
+DAOLKROW
+A1 A2 A3 C1 C2 6-year check
+Block
+1 2 3 4 5 6 7 8 9 101112131415
+A check equalized
+1 2 3 4 5 6 7 8 9 1011121314151617181920212223242526272829303132
+A check equalized + C check equalized
+1 2 3 4 5 6 7 8 9 1011121314151617181920212223242526272829303132
+A and C check fully equalized
+1 2 3 4 5 6 7 8 9 1011121314151617181920212223242526272829303132
+0
+0 2,000 4,000
+Flight Hours interval
+sksat
+fo
+rebmuN
+120
+100
+80
+60
+40
+20
+6,000 8,000 10,000
+6,000 Flight Hours
+compared to
+maintenance check
+120
+100
+80
+60
+22%
+40 drop outs
+20
+0 0
+0 2,000 4,000 6,000 8,000 10,000 0 2,000 4,000
+Flight Hours interval Flight Hours interval
+compared to
+sksat
+fo
+rebmuN
+7,500 Flight Hours
+maintenance check
+120
+100
+80
+45%
+60 drop outs
+40
+20
+6,000 8,000 10,000
+0
+0 5
+Calendar interval - months
+sksat
+fo
+rebmuN
+120
+100
+80
+60
+40
+20
+10 15 20 25 30 35 40
+0
+0 5 10 15 20 25 30 35 40
+Calendar interval - months
+sksat
+fo
+rebmuN
+24 months 30 months
+maintenance check maintenance check
+120 120 54% drop outs
+100 100
+80 80
+60 60
+40 40
+2% drop outs
+20 20
+0
+0 5 10 15 20 25 30 35 40
+Calendar interval - months
+55#TSAF
+53
+Scheduled maintenance requirements
+Some A320 Family operators have implemented such maintenance planning concepts, as the A320
+maintenance programme has demonstrated a high level of flexibility to adapt to any maintenance
+planning concept. In particular, for a fleet of young aircraft, with in-between six year checks there
+are no single tasks that impose aircraft ground time longer than an overnight stop.
+It is certain that if any single maintenance programme task imposes significant aircraft ground time
+or requires high manpower/important means (typically a structure inspection with heavy access),
+such a concept is not achievable.
+From this experience, it could correctly be said that there is no “C” check on the A320!
+This would however apply only to those operators that have gone to a fully equalized concept.
+The fact that such a concept is achievable is due to the flexibility of the maintenance programme.
+This implies that any other semi equalized or block check solution is also achievable if this is desired
+by the operator.
+Out of phase tasks
+When developing the maintenance plan from the maintenance programme, operators are exposed to maintenance tasks whose
+intervals do not fit with the maintenance checks. They are referred to as “out of phase” or “drop-out” tasks and can be performed
+either in an earlier check package or managed individually as long as access, required means, etc., allow it.
+As such, when comparing maintenance check intervals it is also important to understand the ratio of associated out of phase tasks.
+Examples of out of phase tasks
+Reference programme
+As an example, the chart to the right represents the
+number of maintenance programme tasks (typical C
+check candidates) as a function of the associated FH
+interval (fictitious programme).
+Packaging of FH tasks
+From the same programme, different operators can package FH tasks differently:
+This demonstrates that from the same maintenance programme, the definition of the maintenance check
+interval can be communicated as “6,000 FH C check” or “7,500 FH C check”.
+0
+0 2,000 4,000
+Flight Hours interval
+sksat
+fo
+rebmuN
+120
+100
+80
+60
+40
+20
+6,000 8,000 10,000
+6,000 Flight Hours
+compared to
+maintenance check
+120
+100
+80
+60
+22%
+40 drop outs
+20
+0 0
+0 2,000 4,000 6,000 8,000 10,000 0 2,000 4,000
+Flight Hours interval Flight Hours interval
+compared to
+sksat
+fo
+rebmuN
+7,500 Flight Hours
+maintenance check
+120
+100
+80
+45%
+60 drop outs
+40
+20
+6,000 8,000 10,000
+0
+0 5
+Calendar interval - months
+sksat
+fo
+rebmuN
+120
+100
+80
+60
+40
+20
+10 15 20 25 30 35 40
+0
+0 5 10 15 20 25 30 35 40
+Calendar interval - months
+sksat
+fo
+rebmuN
+24 months 30 months
+maintenance check maintenance check
+120 120 54% drop outs
+100 100
+80 80
+60 60
+40 40
+2% drop outs
+20 20
+0
+0 5 10 15 20 25 30 35 40
+Calendar interval - months
+55#TSAF
+63
+Scheduled maintenance requirements
+Packaging of calendar tasks
+Similarly, from the same initial maintenance
+programme, we can identify tasks whose
+interval is calendar:
+From the same maintenance programme, different operators can package calendar tasks differently:
+This also demonstrates that from the same maintenance programme, the definition of the maintenance
+check interval can be communicated as: 24 months C check or 30 months C check.
+In his example, it is obvious to say that a 24-month C check is a more pragmatic proposition.
+The same principle applies to the FC tasks.
+Global packaging
+Additionally, in terms of planning it is essential to consider FH, FC Special attention should be paid when comparing
+and calendar related maintenance programme tasks. From the aircraft scheduled maintenance information
+same programme (as per the two examples mentioned above) (task intervals, maintenance checks, etc.).
+the planning exercise has to conciliate the FH, FC and calendar The flexibility offered by the manufacturer
+intervals. This means that for task packaging, the annual aircraft maintenance requirements is a more appropriate
+utilisation is a key parameter: a 6,000 FH task will be packaged comparison as it indicates which kind of planning
+with a 24 months task if the aircraft operates 3,000 FH/year. solutions an operator could select to better adapt
+Higher aircraft utilisation will make that the 6,000 FH tasks to their operations.
+become due before 24 months.
+For example, the A320 Family maintenance
+Consequently, from the above mentioned example, a “30 months requirements have demonstrated a high level
+C check” is only achievable if the aircraft flies no more than 3,000 of flexibility, allowing operators to develop
+FH/year (to permit packaging of the 7,500 FH tasks at 30 months) a maintenance planning that best fits their
+and information regarding the accomplishment requirements of the operations.
+out of phase tasks (drop out) is understood, and also if there are
+no tasks at 6,000 FH or 24 months that impose a significant
+aircraft ground time.
+55#TSAF
+73
+Scheduled maintenance requirements
+Glossary of maintenance vocabulary abbreviations
+AD Airworthiness Directive ISC Industry Steering Committee
+ALI Airworthiness Limitation Items LLP Life Limited Parts - safe life ALI
+ALS Airworthiness Limitation Section MPD Maintenance Planning Document
+AMP Aircraft Maintenance Programme MRBR Maintenance Review Board Report
+AOC Air Operator Certificate MSG Maintenance Steering Group
+CAMP Continuous Airworthiness Maintenance Programme NAA National Airworthiness Authority
+CMP Configuration Maintenance Procedures OIT Operator Information Transmission
+CMR Certification Maintenance Requirements OMP Operator Maintenance Programme
+DSG Design Service Goal SB Service Bulletin
+ETOPS Extended-range Twin-engine Operation Performance SEMR System Equipment Maintenance Requirements
+Standards - now referred to as Extended Time
+SIL Service Information Letter
+Diversion Operation (ETDO)
+STC Supplemental Type Certificate
+FAL Fuel Airworthiness Limitations
+TC Type Certification
+FC Flight Cycle
+TCDS Type Certification Data Sheet
+FH Flight Hour
+Previous FAST articles on maintenance programmes
+www.airbus.com/support/publications/
+FAST 10 (July 1990) Maintenance programme development
+FAST 31 (December 2002): Less maintenance, less cost
+FAST 38 (July 2006): The A380 maintenance programme is born
+Airbus support & assistance
+For further information about Airbus scheduled maintenance contact sched.maint@airbus.com
+Airbus also proposes Scheduled Maintenance Programme (SMP) seminars
+(refer to Airbus Customer Services’ e-Catalogue). For further information contact sched-maint.seminar@airbus.com
+Airbus also offers the following scheduled maintenance services as part of its Airpl@n suite
+(refer to Airbus Customer Services’ e-Catalogue):
+• Development, amendment and optimization of customized maintenance programme
+• Initialization and optimization of corresponding maintenance planning
+• Maintenance packages preparation through provision of task and job cards
+• Provisioning list of material resources for the maintenance programme
+• Assessment to bridge the aircraft maintenance programme and planning
+• Clock resetting service maintenance programme customization, maintenance programme
+and optimization planning
+For further information on AirPl@n services contact airplan@airbus.com
+FAST
+from the PAST
+There wouldn’t be any future without the experience of the past.
+egatireH
+etaroproC
+SDAE
+fo
+ysetruoc
+sotohP
+“Now let’s see... this part goes here... it is assembled with that one, which is then attached to that one which
+goes underneath the upper part…”. These engineers assembling the U 12 Flamingo in Augsburg (Germany) 1928,
+would never in their wildest assembly line dreams, imagine that in less than a century, 3D-printing (see FAST
+article page 4) would allow complex components to be built in one single part.
+55#TSAF
+83
+We’ve got it covered
+Around the clock, around the world,
+Airbus has more than 240 field representatives
+based in over 110 cities
+WORLDWIDE TECHNICAL, MATERIAL & LOGISTICS TRAINING CENTRES
+Tel: +33 (0)5 6719 1980 Airbus Technical AOG Centre (AIRTAC) Airbus Training Centre
+Fax: +33 (0)5 6193 1818 Tel: +33 (0)5 6193 3400 Toulouse, France
+Fax:+33 (0)5 6193 3500 Tel: +33 (0)5 6193 3333
+USA/CANADA
+airtac@airbus.com Fax: +33 (0)5 6193 2094
+Tel: +1 703 834 3484
+Spares AOG/Work Stoppage Airbus Maintenance
+Fax: +1 703 834 3464
+• Outside the Americas: Training Centre
+CHINA Tel: +49 (0)40 5076 4001 Hamburg, Germany
+Fax: +49 (0)40 5076 4011 Tel: +49 (0)40 7438 8288
+Tel: +86 10 8048 6161 Ext. 5020
+aog.spares@airbus.com Fax: +49 (0)40 7438 8588
+Fax: +86 10 8048 6162
+• In the Americas:
+Airbus Training Centre Americas
+FIELD SERVICE SUPPORT Tel: +1 70 3729 9000
+Miami, Florida - U.S.A.
+ADMINISTRATION Fax: +1 70 3729 4373
+Tel: +1 305 871 3655
+aog.na@airbus.com
+Tel: +33 (0)5 6719 0413
+Fax: +1 305 871 4649
+Fax: +33 (0)5 6193 4964
+Spares In-Flight orders outside the Americas:
+Tel: +49 (0)40 5076 4002
+Fax: +49 (0)40 5076 4012
+ifd.spares@airbus.com
+Spares related HMV issues outside the Americas:
+Tel: +49 (0)40 5076 4003
+Fax: +49 (0)40 5076 4013
+hmv.spares@airbus.com
+Spares RTN/USR orders in the Americas:
+Please contact your dedicated customer spares
+account representative csr.na@airbus.com
+55#TSAF
+93
+Article title
+Your
+profitability
+up 50%
+With the A380, the sky is yours. Designed for 21st century
+growth, it offers 40% more capacity and the lowest seat
+mile costs in its class. The A380 cabin is the quietest and
+most spacious in the sky and with up to 19-inch wide seats in
+economy, it is no wonder passengers opt for the comfort
+of the A380 when given the choice. That means higher
+market share, higher load factors and higher revenues.
+All this allows airlines to increase their contribution to
+profi t by up to 50% per fl ight. Own the sky with the A380.
+Airbus Widebody Family, our numbers will convince you.
+.skramedart
+deretsiger
+era
+seman
+tcudorp
+eht
+dna
+ogol
+sti
+,subriA
+.devreser
+sthgir
+llA
+.4102
+,SUBRIA
+©
+Airbus Widebody Family
+airbus.com
+11841_AIR_WdBdyFmly_50Percent_FastMag_297x210_1.0.indd 1 11/12/2014 10:48

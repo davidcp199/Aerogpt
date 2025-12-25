@@ -1,0 +1,1135 @@
+Airbus technical magazine
+April 2017
+#59
+FA S T
+Flight Airworthiness Support Technology
+Already have the FAST app?
+Now keep in touch with Newsfeed by Airbus
+bringing the latest news for customers
+FAST
+byAirbus byAirbus
+FAST and Newsfeed by Airbus apps
+are downloadable to your preferred device*
+*excluding Blackberry®
+95#TSAF
+30
+Airbus technical magazine
+#59
+FA S T
+Flight Airworthiness Support Technology
+Publisher: Bruno PIQUET
+Chief Editor: Deborah BUCKLER
+The ground handling
+Design: PONT BLEU
+challenge 04
+Cover image: Philippe MASCLET Saving time and money
+Printer: Amadio
+Authorisation for reprinting N-Tracking for flights 10
+FAST magazine articles
+Smarter tracking for decision-making
+should be requested by email:
+fast.magazine@airbus.com and analysis
+FAST magazine is available on internet
+www.airbus.com/support/publications Transferring aircraft
+also on tablets and smartphones between operators 16
+ISSN 1293-5476 Key factors for successful handovers
+Staying on line 24
+© AIRBUS 2017 All rights reserved. Proprietary document Eliminating unwanted offset
+from the steering system
+By taking delivery of this Magazine (hereafter ‘Magazine’), you accept on behalf
+of your company to comply with the following. No other property rights are granted
+by the delivery of this Magazine than the right to read it, for the sole purpose of
+information. This Magazine, its content, illustrations and photos shall not be modified FAST from the past 30
+nor reproduced without prior written consent of Airbus. This Magazine and the
+materials it contains shall not, in whole or in part, be sold, rented, or licensed to any
+third party subject to payment or not. This Magazine may contain market-sensitive
+or other information that is correct at the time of going to press. This information
+involves a number of factors which could change over time, affecting the true public
+representation. Airbus assumes no obligation to update any information contained in Around the clock,
+mad t e h i h s e d r o e c in u m do e n n t o t o r c o w n i s th ti t r u e t s e p a e n c t o t f o fe t r h o e r i n fo fo rm rm p a a ti r o t n o f d e a s n c y r c ib o e n d t r h a e c r t. e i T n h . e T y h a e r s e t a b t a e s m ed e n o t n s around the world 31
+Airbus information and are expressed in good faith but no warranty or representation
+is given as to their accuracy. When additional information is required, Airbus can be Field representatives
+contacted to provide further details. Airbus shall assume no liability for
+any damage in connection with the use of this Magazine and the materials it contains,
+even if Airbus has been advised of the likelihood of such damages. This licence
+is governed by French law and exclusive jurisdiction is given to the courts and tribunals
+of Toulouse (France) without prejudice to the right of Airbus to bring proceedings for
+infringement of copyright or any other intellectual property right in any other court of
+competent jurisdiction. Airbus, its logo, A300, A310, A318, A319, A320, A321, A330,
+A340, A350, A380 and A400M are registered trademarks.
+Photo copyright Airbus
+Photo credits: Airbus Photographic Library, Airbus Corporate Heritage,
+Master Films, Hervé Gousset, Philippe Masclet, Jean-Baptiste Accariez, Cassian Koshorst,
+Sorbis/Shutterstock, Artzenter/Shutterstock, Markus Schmal/Shutterstock,
+95#TSAF
+40
+The ground handling
+challenge
+Article by
+Serge KIYMAZ
+Structure Engineer
+AIRBUS
+serge.kiymaz@airbus.com
+Saving time and money
+Over the last 20 years, turnaround time has become a strategic challenge
+in operations due to increasing competition between airlines and due to
+airport congestion; less time on the ground means more time generating
+income, and subsequently greater profitability of the airlines.
+Ensuring training and best practices of ground handling staff can help
+eliminate many issues, in particular those relating to service and cargo
+doors, thus avoiding unnecessary time and costs of aircraft on the ground.
+95#TSAF
+50
+The ground handling challenge
+The risk in the race to reduce turnaround time is that corners may be cut, correct
+procedures not respected, and consequences may actually be time-consuming
+and expensive to fix.
+The most spectacular examples are collisions with Ground Support Equipment (GSE)
+such as stairs, catering trucks and cargo loaders.
+Damage caused by collision with Ground Support Equipment
+However, thanks to new generation GSE and ground personnel training, these major
+occurrences are decreasing. Despite this, statistics show that an increasing number
+of less obvious incidents concerning the access/service doors and cargo doors are
+starting to emerge, with incorrect ground handling practices being the cause.
+Isolated minor mishandling procedures do not appear particularly serious, and yet
+when repeated cycle after cycle, they create fatigue and eventually damage the aircraft.
+A better knowledge of the precise areas most commonly damaged by non-respected
+ground handling procedures will help to alleviate these costly repairs.
+Damage to a fuel panel following incomplete latch engagement
+95#TSAF
+60
+The ground handling challenge
+Access/service doors
+Access/service doors are used for various purposes such as refuelling, hydraulic fluid
+servicing, potable water/toilet/waste servicing and cabin air conditioning. They are
+mainly located under the belly of the aircraft and therefore highly exposed to ground
+personnel, carts and GSE traffic.
+Without being specific to any type of aircraft family, there are 2 main types of damage:
+• Damage to latches due to the use of sharp tools.
+Using sharp tools such as screwdrivers to open latches is a commonly ‘accepted’
+practice for ground handling personnel. However, this practice gradually damages the
+latch which, if it eventually breaks, renders the door inoperative and often leads to
+delays until it can be replaced.
+• Incomplete closure of access/service doors.
+Incomplete latch engagement due to dirt accumulation/latch damage/human error
+may lead to the door opening in flight and potential damage/loss of the door.
+95#TSAF
+70
+The ground handling challenge
+Airbus maintenance data shows that each aircraft family has specific areas that suffer
+from irregular ground handling practices:
+A320 Family
+• Waste service panel 172AL is experiencing latch corrosion and failure.
+This is caused by improper cleaning after servicing. The corrosive deposits/spillage left
+during waste servicing slowly attack the latch/hinge material and potentially lead to
+their failure.
+Airbus recommends rinsing the whole waste servicing area with water to remove all
+contamination.
+A330/A340 Family
+• Avionics door flap is found deformed,
+which may disenable the locking
+system; in turn, this may trigger an
+ECAM* open flap warning which could
+potentially lead to an in-flight turn back.
+Airbus recommends operating the handle as shown in the Aircraft Maintenance
+Manual (AMM) to avoid damage.
+*ECAM - Electronic centralised aircraft monitor
+A350
+• Belly fairing access panels with a ‘hold open’ device are being damaged on the
+internal hold open bracket. Investigations have shown that the locking pin is not
+removed prior to door closure and that the bracket’s lugs are sheared off.
+Airbus recommends removing the locking pin before door closure,
+as shown in the AMM.
+95#TSAF
+80
+The ground handling challenge
+Cargo doors
+Cargo doors (including the bulk cargo door) and their surroundings
+are recognised as frequently damaged areas by cargo loader collisions
+during turnaround time.
+In some cases, however, mishandling by ground personnel can damage
+specific areas on the following aircraft:
+A320 Family
+• The bulk cargo door handle housing sustains chaffing damage when the
+handle is rotated and stowed at the same time. This mishandling could
+be caused by the access platform being too small.
+If this action is repeated and not repaired, then the door skin may be
+damaged and the handle housing could puncture, leading to cabin
+pressure leaks.
+• Cargo door proximity sensor is displaced.
+During loading the cargo loader bumper may touch the proximity sensor
+and its bracket, bending it slightly and/or unseating the wiring connector
+from the sensor.
+This may generate ‘cargo door open’ warnings during taxi/climb and
+subsequent delays/in flight turnback.
+A330/A340 Family
+• The bulk cargo door ‘hold open’ mechanism is damaged due to
+mishandling. When opening and stowing the bulk cargo door, the
+handle is not positioned back to the LOCKED position and is thrown
+open with excessive force, striking the ‘hold open’ mechanism.
+Once the damage has been initiated, it will worsen at each opening. If the
+damage is left unrepaired and is repeated, the ‘hold open’ mechanism
+could be completely destroyed and the bulk cargo door primary structure
+will be affected, potentially leading to costly repairs or its replacement.
+• The bulk cargo door balance mechanism springs are found entangled
+and consequently inoperative.
+This happens when cargo hold area divider nets are not used, allowing
+cargo items to fall on the balance mechanism and/or when the bulk cargo
+door is opened too fast without care.
+A380 and A350
+• The bulk cargo door experiences a hinge arm disconnection.
+This happens during the door closing sequence.
+This type of event may happen if the ‘hold open’ mechanism is locked
+and the bulk cargo door is forced down for closure.
+Good ground handling practices are essential to ensure smooth aircraft operations without
+interruption and without incurring additional operating costs.
+Attention needs to be focused on the fact that ‘bad habits create big burdens’. Actions such as
+opening a latch using a screwdriver, or skipping waste service panel cleaning to save time may be
+regarded as ‘acceptable and common’ practices, but they often result in a grounded aircraft
+because of the damage they cause. Inappropriate handling and/or lack of training can lead to
+extremely costly issues; a wrongly handled A330/A340 bulk cargo door may lead to its replacement
+(up to 280,000 USD). Regular deterioration to latches leads to replacement and may eventually result
+in an access/service door detachment in flight.
+In addition to the recommendations listed above, the Airbus Training Centre provides
+a ground handling course to help airlines and ground service providers improve the quality
+of ground handling.
+For further information on ground handling training,
+contact Airbus Training at commercial.training@airbus.com
+95#TSAF
+90
+The ground handling challenge
+CONCLUSION
+95#TSAF
+01
+N-Tracking
+for flights
+Smarter tracking for decision-making and analysis
+N-Tracking is a flight tracking application, developed
+by NAVBLUE, in response to new requirements from the
+International Civil Aviation Organisation (ICAO) which
+will be applicable in November 2018. This tracking tool
+detects and shares information about abnormal aircraft
+behaviour, enabling decision-making to help alleviate
+Article by issues and to contribute to safety.
+Thomas STANISLAWIAK
+Head of Portfolio Development
+& Innovation
+NAVBLUE, Toulouse
+thomas.stanislawiak@airbus.com
+95#TSAF
+11
+N-Tracking for flights
+Why track a flight?
+The push to track commercial flights grew after the loss of the Air France Rio-Paris
+flight in 2009, but gained unprecedented momentum after the disappearance of the
+Malaysia Airlines flight MH370 in 2014. Two months after the incident, the international
+civil aviation community, led by International Civil Aviation Organization (ICAO),
+established the Global Aeronautical Distress and Safety System (GADSS) and
+recommended establishing standards.
+The standards require every airline to record the location of all flights every 15 minutes
+during normal operations, as of November 2018. Airlines are left to decide individually
+how to meet this requirement. In the longer term, ICAO is looking to also develop
+requirements for abnormal and distress tracking. This will require more development
+time, due to the complexity and potential reliance of these standards on new technologies.
+The NAVBLUE N-Tracking solution
+Background
+Participating in the ICAO Working Groups tasked with defining standards for abnormal
+situations, NAVBLUE developed this flight tracking solution enabling airlines to comply
+with the expanded ICAO requirements that come into effect in November 2018.
+Aircraft information via N-Tracking
+NAVBLUE collaborated with dispatchers and maintenance engineers in various airline
+Operation Control Centres (OCC) to learn how they track fleets and communicate
+with aircraft and to incorporate their needs.
+N-Tracking is a web-based application that is compatible with most common web
+browsers facilitating communication between commercial, operational and maintenance
+staff. As all parties work from shared, identical information, collaborative decisions
+are easier to make.
+95#TSAF
+21
+N-Tracking for flights
+The most accurate and cost-effective solution
+In order to track fleets, some airlines prefer to use solely In the N-Tracking user interface, all aircraft are displayed on a
+ACARS* reports, which can be costly as each message has a map in one of three intuitive colour codes: yellow for own fleet,
+fee associated with it. As oceanic or remote regions do not blue for other aircraft moving to/from an airport of reference,
+have ADS-B* receivers, N-Tracking obtains the position of the red/amber alerting to own aircraft’s deviation from its expected
+aircraft by merging ADS-B data from Flightradar24* with location. Deviations could include events such as loss of
+ACARS data. Technology specialists at NAVBLUE believe that position, significant altitude change or excessive vertical speed.
+taking advantage of ADS-B data, which covers the majority of By clicking on symbols representing their aircraft, dispatchers
+the flight area, and utilising solely ACARS data for oceanic and can obtain other data elements such as ETA*, altitude, vertical
+remote areas, provides the most accurate and cost-effective speed, ground speed and flown distance to help manage their
+flight tracking solution. For ADS-B data, NAVBLUE has fleets more proactively.
+partnered with Flightradar24, a Swedish company with by far
+the widest coverage in the market.
+Tracking flights with N-Tracking
+N-Tracking for flights
+95#TSAF
+31
+NAVBLUE
+N-Tracking also provides multiple overlays of NAVBLUE is a wholly-owned subsidiary of Airbus and a key unit of
+weather information such as FIR*, tropical cyclone, Services by Airbus*, providing a new generation of digital, user-friendly
+wind pressure data, METARS*, Satellite, Radar, flight operations and air traffic management solutions.
+SIGMETS*, AIRMET* and PIREPs* to provide a
+NAVBLUE’s portfolio integrates the existing product offer of Navtech*,
+holistic visual of the aircraft’s actual flying
+supported by Airbus ProSky’s air traffic management solutions, as well
+conditions for situational awareness.
+as Airbus’ flight operations innovations such as ROPS* and FlySmart*.
+For weather information, NAVBLUE has partnered
+with Schneider Electric, an industry leader in The NAVBLUE solutions and services are not just limited to Airbus
+weather forecasting. aircraft, but are also for mixed fleets and are built on the knowledge
+and expertise of Navtech.
+The products support both civil and military environments, on the
+ground or on board any aircraft. Following the same product philosophy,
+N-Tracking has been developed to track any aircraft, regardless
+of the manufacturer.
+* See glossary
+95#TSAF
+41
+N-Tracking for flights
+Tracking and recording for flight analysis
+N-Tracking displays the flight plan and tracks the aircraft’s position against it. It is highly
+compatible with N-Flight Planning from NAVBLUE’s N-Software services family.
+N-Tracking is capable of reading flight plans in XML format (standard ARINC633).
+A key feature of this application is that it records and plays back an aircraft’s actual
+flight path taken against its planned path, thus helping airlines to capture valuable fleet
+performance information for later reporting and analysis (either in CSV or TXT format).
+A historical display of the aircraft’s previous positions can also be viewed with the click
+of a button. N-Tracking’s Collaborative
+Decision Making (CDM) module
+Real-time updates and decision-making module
+N-Tracking automatically downloads NOTAM*, TAF* and METAR information. Landed flights
+It checks NOTAMs in real-time and whenever a current flight is affected by a NOTAM Inbound flights not landed
+update, a notification will be displayed to indicate that the flight watcher or dispatcher yet – landing demand below
+airport capacity
+should check and possibly take actions regarding this NOTAM (for example, ILS*
+unserviceable, or runway closed). Inbound flights scheduled
+– landing demand below
+NAVBLUE incorporated a Collaborative Decision Making (CDM) module. The CDM is a airport capacity
+true decision support platform that provides web-based access to operational data to Inbound flights scheduled
+improve operational efficiency. It does this by providing a configurable look ahead at – landing demand exceeding
+airport capacity: holding and
+the airlines’ flight operations for a particular airline hub. It enables an airline to estimate
+flight delay expected
+the expected holding time per hour (average, maximum and total), based on the
+Inbound flights not landed yet
+current capacity at the airport. A simple action that can be taken by the flight opera-
+– landing demand exceeding
+tions team is to instruct the pilot (via the chat function) to reduce the aircraft’s cruising airport capacity: holding and
+speed in response to airport congestion. Additionally, if identified far enough in advance, flight delay expected
+the aircraft’s fuel can be adjusted accordingly to account for specific holding durations.
+Recording and replaying a flight with N-Tracking
+* See glossary
+95#TSAF
+51
+N-Tracking for flights
+Features: Flight attributes: CDM (Airport related information):
+• Aircraft position display (Map) • Aircraft identification • NOTAM
+• Flight list • Aircraft type • Weather information (TAF/METAR)
+• User alerts • Departure airport • Runway information
+• Aircraft chat • Arrival airport • Average taxi time
+• Weather information • Estimated time of arrival • Capacity information for the
+airline selected airport(s)
+• Airport information • Position report information
+(latitude, longitude, altitude)
+• Recording and replay capability
+• Time of last position report
+• Flight plan information merge
+CONCLUSION
+N-Tracking, with its utilisation of both ADS-B and ACARS data, offers a simple,
+cost-effective flight tracking application that enables airlines to comply with future ICAO requirements.
+On top of this, it also offers powerful airport capacity intelligence via the CDM Module.
+*GLOSSARY
+ACARS - Aircraft Communications Addressing and Reporting System
+ADS-B - Automatic Dependent Surveillance–Broadcast
+AIRMET - Airmen’s Meteorological Information
+ETA - Estimated Time of Arrival
+FIR - Flight Information Region
+FlightRadar24 - Live flight tracker that shows air traffic in real time
+FlySmart - A set of hardware and software that optimises operations through flight operations,
+maintenance, ground and cabin solutions used onboard aircraft.
+ILS - Instrument Landing System
+METAR - Meteorological Terminal Aviation Routine Weather Report
+Navtech
+A leading global provider of flight operations solutions, acquired by Airbus in December 2015
+and now integrated in NAVBLUE.
+NOTAM - Notice to Airmen
+PIREPs - Pilot Reports
+ROPS - Runway Overrun Prevention System
+Services by Airbus
+A business unit within Airbus’ Customer Services operation, bringing a more integrated
+approach for worldwide operators and reinforcing the company’s service offering.
+Areas of focus include flight hour packages; material services; flight operations; training;
+upgrades for cabin, airframe and systems; digitalisation.
+SIGMET - Significant Meteorological Information
+TAF - Terminal Aerodrome Forecast
+95#TSAF
+61
+Transferring aircraft
+between operators
+Key factors for successful handovers
+Transferring an aircraft to a new operator requires numerous steps with the
+involvement of several stakeholders. Detailed preparation and coordination are key
+factors to ensure a successful handover in a timely and cost efficient manner.
+Although the industrial setup can be prepared in advance, it requires the utmost
+attention at all stages, as each and every aircraft transfer has its own specificities
+and/or difficulties.
+With its sound industrial setup and procedures for aircraft transfers, Airbus can
+ease the process by offering tailored solutions adapted to its different customers.
+Article by (left to right)
+Erick CIRILLO
+Director, Embodiment Operations
+AIRBUS
+Emmanuel RAHM
+Fleet Manager Embodiment Operations
+AIRBUS
+Aurélien PERSON
+Fleet Manager Embodiment Operations
+AIRBUS
+turnkey.services@airbus.com
+Transferring aircraft between operators
+95#TSAF
+71
+Contributing stakeholders
+Different stakeholders who may be involved in a transfer include the aircraft owner,
+the previous operator, a maintenance organisation, paint shops for livery change,
+Continuing Airworthiness Management Organisations (CAMOs), the service bulletin
+provider, the next operator’s planning and engineering department, and the
+relevant airworthiness authorities. Ideally, these stakeholders need to work on the
+aircraft transfer in a very limited time frame, the common goal being to get the
+aircraft back into operational service, with its new operator, as soon as possible.
+(read more about CAMOs and MROs on page 19).
+Operator Operator
+A B
+Aircraft
+transfer
+Aircraft Implementation
+Delivery of
+technical of technical
+the aircraft
+assessment requirements
+Aircraft
+Maintenance due
+records Airworthiness
+as per contract requirements
+review review
+- and - Configuration
+New livery
+changes
+Aircraft Export
+Certificate
+physical
+Aircraft of
+inspection Check flight* Ground check Airworthiness
+Continuing Airworthiness Management Organisation (CAMO)
+Aircraft storage before delivery
+The procedure timeline *Check flight
+The aircraft transfer procedure starts with a physical inspection of the Often an airworthiness authority will
+aircraft and of its records supplied by operator A. The aim is to ensure require that the next operator carries
+that the aircraft meets contractual conditions and airworthiness out a Check flight prior to the aircraft
+requirements. being registered in the importing
+country. This check is also part of most
+During the next phase, the aircraft may undergo configuration changes
+contractual re-delivery conditions to the
+relating, for example, to livery, cabin or systems upgrades. At the same
+next operator.
+time, maintenance checks are carried out, in line with delivery contractual
+requirements. The CAMO manages the airworthiness of the aircraft and The purpose of a Check flight is to test
+issues the work orders to the MRO, updating the aircraft records the aircraft’s systems, cabin, and
+accordingly. In-Flight Entertainment in real
+conditions, observing their behaviour
+Upon the MRO release of this work package, the aircraft is tested on
+and recording parameters.
+ground and in flight. The airworthiness review is conducted to obtain
+the Export Certificate of Airworthiness. If these parameters are in their nominal
+range, the aircraft is technically
+During the delivery process to operator B, the aircraft and its records
+acceptable.
+are inspected again, to ensure that they match re-delivery conditions.
+Transferring aircraft between operators
+Assessing the aircraft’s technical status
+Implementing technical requirements
+Due maintenance
+The aircraft must be prepared to meet the contractual return/delivery conditions.
+This may include completing scheduled maintenance tasks, airworthiness
+directives, service bulletins, and defect rectifications.
+Configuration changes and new livery
+In preparation for the aircraft transition for the next operator, cabin changes may
+be needed. These may go from simple carpet and seat cover replacement to a full
+reconfiguration including seats, galley changes, seating capacity certification,
+and even IFE replacement.
+The minimum configuration change for the next operator is a new external livery
+and systems upgrades to meet regional regulations, but very often this also includes
+cabin upgrades in order to rebrand the cabin interior.
+To comply with airworthiness regulations, these configuration modifications need
+to be developed by a DOA Part 21 J organisation able to produce service bulletins,
+along with a DOA Part 21 G organisation that is able to manufacture the kits and
+parts needed for the modifications. Last-minute changes being quite common, The Design Organisation
+it is advisable to have a flexible set of solutions prepared.
+It is in charge of the engineering and
+The pre-requisite for developing these modifications is a good knowledge of certification of the aircraft modifications,
+the aircraft configuration and control of the pre-modification aircraft status. including cabin, systems and avionics. Airbus
+This encompasses both the configuration when the aircraft left the production line, holds a Design Organisation Approval (DOA)
+as well as the list of modifications embodied by the previous operator(s) since the and is recognised as complying with the
+aircraft was manufactured. Configuration changes are reported to Airbus by requirements of Part 21 Subpart J.
+operators and MROs throughout the aircraft’s life.
+Check flight and Ground check
+When the next customer is identified, contractual requirements generally demand
+that the aircraft be inspected and tested, both on the ground and in flight. This is
+to ensure that the aircraft complies with the delivery conditions of the next customer
+and the aircraft systems and engines are performing as expected.
+95#TSAF
+81
+Aircraft physical inspection Review of aircraft records
+The aircraft physical inspection takes place during the Aircraft records must be checked against airworthiness and contractual
+re-delivery check and at operator A’s location and ensures requirements.
+that the aircraft meets its contractual requirements.
+For an aircraft which has accumulated many years of operation, the
+Among others, this visual inspection checks:
+volume of records in paper format can be as much as 15m3, weighing
+• Items beyond normal wear and tear in the cabin, several tons. As each operator has its own way of working, the records
+any fuel or hydraulic leaks can come in different languages, forms and means. In addition, the way
+the records are sorted differs widely from one operator to another.
+• That brakes and tyres are not worn beyond contractual
+The task of checking records usually takes place at the previous operator’s
+provisions
+premises, or at the MRO location. In both cases, it often involves travel
+• That structural repairs are reported in the aircraft records and several weeks at the on-site location. For operators not equipped with
+dedicated teams for aircraft returns, this can represent a significant
+• That part numbers and serial numbers are identical
+workload which comes in addition to the day-to-day activity of a
+to those listed in the aircraft records (by sampling)
+maintenance control centre and planning and engineering department.
+The physical inspection protocols highlight equipment to
+Despite the constraints involved, this paperwork is of paramount
+be visually checked in every aircraft area, thus avoiding the
+importance as it provides evidence of all maintenance interventions on
+possibility of overlooking or duplicating an inspection item.
+a given aircraft since its initial delivery from the Final Assembly Line.
+All discrepancies are added to a Defect Item List that is
+These records are then used as the basis for the physical inspection
+delivered to the operator for rectification by the MRO.
+to check if the aircraft corresponds. They also form part of the supporting
+documents required when applying for a Certificate of Airworthiness
+and must be complete and accurate, as any shortfall may delay the
+issuance of the certificate for the next operator.
+95#TSAF
+91
+Transferring aircraft between operators
+Delivering the aircraft
+During the implementation of the technical requirements and the configuration updating,
+all stakeholders are under pressure to get the aircraft into operational service with its new
+operator as soon as possible. Interruptions in these steps may delay the aircraft delivery
+planning and have a significant financial impact on one or more of the stakeholders.
+The delivery phase of the aircraft to operator B encompasses activities including aircraft
+inspection by operator B and its airworthiness authorities, Check flight, airworthiness
+review and final touch-ups as required.
+Very often, the pressure on the project team reaches a peak at the delivery phase.
+This is when the real benefit of anticipating and coordinating is most keenly felt.
+Continuing Airworthiness Management Organisation Maintenance, Repair and Overhaul organisation
+CAMO
+The role of the The role of the MRO
+during aircraft transfer during aircraft transfer
+The continuing airworthiness activities for an aircraft in Maintenance organisations are key players in aircraft
+transition are different from those required for an aircraft transfers. It is these organisations that physically prepare
+in operation. The responsibility for managing the airworthi- the aircraft for its next operational life. The maintenance
+ness of the aircraft is taken from the previous operator organisation can be either the operator’s MRO or any
+and the CAMO must be able to quickly identify all contracted MRO with the appropriate rating. In both
+maintenance actions necessary to maintain and control cases, a close relationship and monitoring of progress
+the airworthiness of the aircraft, until its re-delivery. against the aircraft transfer planning is essential.
+Changes to this planning could have repercussions on
+the operating start date of the next operator.
+CAMO Part M Subpart G & I regulation
+For an aircraft in operation, maintenance checks are
+Since September 2008, all air transport aircraft registered under a scheduled some time in advance, and unscheduled
+European Aviation Safety Agency (EASA) member state have to be maintenance or additional tasks are anticipated in the
+managed by a CAMO*. This includes commercial as well as schedule to minimise turnaround time.
+non-commercial aircraft (parked, stored or corporate jets).
+Unlike scheduled maintenance inputs while the aircraft
+The Continuing Airworthiness Management Organisation (CAMO) is in operation, the work package for an aircraft to be
+must demonstrate to the authority (EASA or their National Aviation transferred is the basic work package, plus a variable
+Authorities (NAA)) that they are continuously compliant with all amount of additional work that may be required during
+relevant rules for the concerned scope, and then the authority may the transfer phase. This additional work is driven by the
+grant and maintain an approval to the organisation. next operator’s requirements or findings during the
+acceptance checks, the requirements of the airworthi-
+Part M Subpart G - CAMO
+ness authorities, or the configuration change.
+The Part M Subpart G defines all activities to be undertaken
+In some cases, the aircraft’s operational availability is
+by a CAMO organisation,
+disrupted for several weeks by maintenance and
+• Definition of pre-flight inspections conversion. However, in the case of a leased aircraft
+• Rectification of defect and damage (MEL, CDL) there may be an additional delay if the lessor does not
+• Compliance with an approved maintenance programme yet have a new lessee. In this event, the aircraft is stored
+• Analysis of maintenance programme effectiveness at an MRO, or any suitable location where an MRO has
+• Embodiment of airworthiness directives and Service Bulletins access to it.
+• Approval of repairs
+The management of work performed by the MRO during
+• Definition of a modification policy
+the transfer phase is key to keeping the planning under
+• Check flight procedures
+control. This involves resource allocation and work
+package preparation, but also implementing ways of
+Part M Subpart I - Airworthiness Review Certificates (ARC)
+working with all the stakeholders present on the MRO
+The Part M Subpart I defines the requirement for an approved premises at the same time.
+organisation to issue Airworthiness Review Certificates, and the
+issuance of Certificates of Airworthiness (CofA) and Export CofA.
+*Airbus is a certified CAMO since 16/04/2009
+Transferring aircraft between operators
+Airbus aircraft transfer solutions
+With its robust industrial setup and efficient procedures, Airbus can facilitate
+the transfer for customers by being their single point of contact.
+The Airbus transfer service coordinates stakeholders and manages part or all
+of the process, including planning & resource management and technical & Airbus has been a certified
+airworthiness activities. This customizable service agreement offers end-to- CAMO since 2009
+end accountability for the transfer until final aircraft delivery.
+Aircraft records Configuration changes
+and physical inspection Configuration changes to an aircraft are reported to Airbus throughout
+its life. This data is key in determining modifications and drawings required
+To ease the burden of collating aircraft records, Airbus can set
+to go from a pre-modification to a post-modification aircraft. This aircraft
+up an IT system with the previous operator, which is usually
+configuration database helps reduce engineering studies and avoid
+web-based, for remote access to the records. The system
+last-minute adjustments or corrections, although it is still necessary
+requires the scanning of all paper records, with Optical
+to check the accuracy of the data reported.
+Character Recognition capability enabling searches by
+keywords wherever possible. This feature helps retrieve In addition, pre-modification studies may come from several aircraft at the
+evidence of accomplished tasks such as airworthiness same time, to create a single post-modification configuration. This can be
+directives, service bulletins and repairs. helpful when, for example, several aircraft come from different operators
+and regulatory environments, but will eventually be operated by a single
+The previous operator’s planning & engineering department
+operator after the transfers.
+then receives the list of deviations from contractual and/or
+airworthiness requirements which must be answered and/or Airbus is able to propose, for each aircraft, a tailored package of modifica-
+rectified in almost real time. This way of working with a tions to arrive at the definition requested by the next operator/customer.
+web-based, remote-access IT system, especially on a difficult
+transfer, offers a win-win situation for all teams. Livery change
+The physical inspection protocols are customized taking into Airbus helps reduce livery change/painting time, thus aircraft downtime,
+account the aircraft age, environment, and operating conditions. with the development of graphic tools (see FAST #56 August 2015 edition).
+The list of discrepancies raised by the physical inspection are Airbus livery solutions reduce aircraft grounding time by about 20%
+compiled in a electronic file, with a picture, location of the defect compared to traditional methods, with Mylar™ decals and adhesive
+& technical proposition for its resolution by the MRO. The file is stencils to save time at the plotting-out stage.
+shared on a collaborative platform, and the evolution of snag
+The result is that any paint shop can attain Airbus’ final assembly line
+rectification can be monitored by the project stakeholders,
+quality, and the livery toolkit delivered allows a repeatable process
+whether they are in situ or not.
+and results.
+The Airbus CAMO can adapt its activity specifically for aircraft transitions.
+The Airbus CAMO has The Subpart I privilege During the transfer To save approbation time, The Airbus CAMO
+been granted Part M allows Airbus to perform phase, the Airbus the Airbus CAMO has been can arrange for the
+Subpart G & I airworthiness reviews, CAMO provides a authorised, as Original issuance of a permit
+privileges on the entire renew Airworthiness temporary registra- Equipment Manufacturer, by to fly, with Airbus
+range of Airbus civil Review Certificates or tion mark for each the airworthiness authority to DOA Part 21
+models. apply for Certificates of aircraft under its issue and approve the mainte- privilege.
+Airworthiness for Export. jurisdiction. nance programme under its
+own approval process.
+Check flight Delivery
+The aircraft is tested on ground and in flight in accordance with the In Service Aircraft In accordance with the service agreement,
+Test Flight Manual (ISATFM) protocol and flight profile. These flights are carried out by Airbus can remain accountable and the
+Airbus flight test pilots. The Flight Test Completion Certificate is issued once the ground single point of contact until final delivery
+and flight tests have been passed. of the aircraft to operator B.
+95#TSAF
+02
+95#TSAF
+12
+Transferring aircraft between operators
+Lessors article by
+Airbus aircraft transfer solutions
+Alberto ORTEGA DIAZ
+- upgrades for lessors Upgrades Sales Director
+AIRBUS
+alberto.ortega@airbus.com
+The challenges of aircraft transfer are keenly felt by lessors, even more so
+with the increasing number of leased aircraft and operator transitions. Marc
+TEMBLEQUE-VILALTA
+Simple, flexible and efficient transitions are major considerations in the lessor
+Upgrades Sales Director
+business model. A key player is the Design Organisation which engineers and
+AIRBUS
+certifies the aircraft modifications required to transfer the aircraft.
+Leasing institutions have now been part of the commercial aviation landscape for
+many years. The aircraft transition is the most critical part of the aircraft life from a
+lessor perspective, so it is important that the right services are available to support the
+process. The main criteria are remarketing visibility early in the process, flexibility and
+short lead-times during the transfer preparation phase, and reliable deliveries during
+the working party operation. Simple, quick, predictable aircraft transfers are para-
+mount to the success of any aircraft type.
+The lessor needs to consider the customization options for aircraft transfer at the end
+of a lease term and may carefully study the financial implications of the available
+options before the end-of-lease date for every possible remarketing scenario. Prior to
+any aircraft remarketing activity, a thorough understanding of this financial impact is
+required.
+Except for lease-return maintenance checks, which will happen regardless of who the
+next lessee is, most of these expenses are linked to aircraft modifications, which can
+originate from regional regulations or from specific operational and functional require-
+ments of the next lessee.
+Remarketing support services
+To assist in understanding the financial implications of transition options, Airbus can
+provide a Remarketing Study that lists the mandatory modifications required should
+the aircraft be registered under an authority that follows EASA or FAA rules, as well as
+Russia or China. The list includes an assessment of the current aircraft configuration
+and is available to provide price and lead-time figures for A320 and A330/A340 fleets.
+To ensure a successful transition the Lessor takes into account the operational needs
+of potential lessees. An important aspect is the ability to match the payload/range
+characteristics of aircraft and routes. This may mean that an adjustment in the aircraft
+maximum operating weights is required which also can incur a financial impact. Clear
+visibility of the past and current configuration is key to predict the price of any aircraft
+weight modification.
+It is therefore crucial for lessors to have a clear visibility of their fleet’s current and
+historic maximum operating weights as this impacts the actual payload/range capabili-
+ties and the aircraft asset value. Having this visibility also helps predict the transition
+costs well in advance, in case a change in the weight becomes a requirement by the
+next lessee. Airbus can deliver an Aircraft Operating Weight Report (AOWR) for the
+lessors’ fleet, as part of the transition support services portfolio. The remarketing
+report and the AOWR, together with transfer packages, can be used to analyse the
+viability of current or future transactions.
+95#TSAF
+22
+Transferring aircraft between operators
+Upgrades for lessors
+Engineering Materials Transition Logistics
+support services
+• FAST TRACK • Modification kits • Consolidated
+Systems SB • Remarketing studies Service
+• Supplier Furnished
+Logistics (CSL)
+• Airframe SB Equipment (SFE) • Aircraft Operating
+material Weight Reports • Material
+• Cabin SB
+consolidation
+• Airbus SFE seats • Transfer services
+• Certification and storage
+• Second-hand parts • ACM+: extended service
+• Livery service
+Aircraft Configuration
+Matrix
+More agility and flexibility for systems and airframe upgrades
+Changes in the country of aircraft registration or the current airworthiness landscape Flexible Fleet SBs - Up to 50% lower
+can also trigger the requirement for configuration changes in the aircraft avionics and lead-time by ordering engineering
+systems, for example water conduction freezing protection for Russian operations in advance
+or Fuel Tank Inerting System (FTIS) for aircraft registered in the United States.
+Under the Flexible Fleet SBs process, lessors
+The pressure on lessors to quickly adapt the aircraft to these requirements is clear
+can purchase an upfront engineering study for
+and therefore the rapid availability of Service Bulletins (SB) and kits is crucial.
+an upgrade on a particular fleet. Airbus uses
+A FAST TRACK SB service is available to cut the SB lead-times for selected products this study to work on a modification before
+which are typical requirements in the frame of lease transitions. These include regional releasing the SB or the kit. This approach
+mandates that are sometimes in the critical path for aircraft transition: from changing enables Airbus to deliver a short and
+cockpit units from imperial to metric, to installing a dual ice detector or an ozone guaranteed lead-time for SB issuance and kit
+converter, the lead-time of the overall upgrade development becomes shorter which delivery once the concrete list of MSNs is
+results in enabling short-term aircraft remarketing opportunities. Upgrade parts in the confirmed. It can also lead to economies of
+frame of the FAST TRACK service are now available in stock for certain products so scale when compared to single recurrent
+that shipment lead-time for parts is even shorter. orders.
+As with all Upgrade Services, this offer
+includes the Airbus standard documentation
+Solutions for more cabin efficiency
+package and update of the Airbus
+During the period of a long term lease contract, new market trends and technology configuration database.
+can create new needs; this is especially true for the aircraft cabin. The transition
+Flexible Fleet SBs offer more flexibility,
+may offer an opportunity to transform the aircraft into a more re-marketable product.
+more visibility over costs, and shorter lead
+As an example, an increase in the maximum certified seating capacity on the
+times for the lease transition, all with
+A320 Family has become a selectable option in the last few years.
+minimum upfront costs.
+Seats are also usually in the critical path for cabin reconfiguration. In order to ensure
+lead times, Airbus has entered into an agreement with a seat supplier to guarantee
+quick delivery of specific seats for the A320 family. These elements are designed to
+simplify and speed up the transition process with shorter delivery lead-times and
+increased flexibility. Additionally, nose-to-tail turnkey packaged solutions covering
+different aircraft transition programmes are available.
+Packaging not only concerns the actual aircraft modification SB or parts, but also
+everything around it. Airbus can provide consolidated material shipping services, and
+also design customized shipping solutions for lessors. Responsibility over logistics can
+be transferred to Airbus with a daily link highlighting shipping status and information for
+all ordered material. During the working party intervention, several shipments of parts
+may arrive at the MRO location from different places, at different times, making it
+difficult to ensure installation on time. For this reason, the kit consolidation service
+presents a significant advantage by ensuring that parts arrive in a single shipment
+at the MRO, thus simplifying tracking of the material.
+CONCLUSION
+Aircraft transfer from one operator to another can be a long and complex operation involving
+technical, contractual, economic and regulatory constraints. To ensure a time-efficient and
+cost-effective transfer, the stakeholders such as the CAMO, the Part 145 and the service
+bulletin providers need to work on the same agenda. The thorough coordination of these
+stakeholders, as well as of the previous and next operators, the aircraft owner and the
+airworthiness authorities, is key.
+To support these transfers, Airbus Embodiment Operations offers end-to-end turnkey
+solutions which can be tailored to each aircraft, covering all or part of the transition process,
+from initial assessment to delivery.
+For the specific needs of lessors, Airbus Upgrade Services facilitates decision-making
+regarding configurations and financial costs, and provides solutions to simplify and
+accelerate transfers.
+Contact turnkey.services@airbus.com for further information about Airbus’ aircraft transfer solutions.
+95#TSAF
+32
+Transferring aircraft between operators
+Livery change
+Airbus has created dedicated livery
+design and masking systems that
+reduce aircraft downtime
+(see FAST #56 August 2015 edition).
+9955##TTSSAAFF
+4432
+Staying on line
+Eliminating unwanted offset
+from the steering system
+Aircraft veering phenomenon
+is described as the aircraft’s
+deviation during taxi operations.
+To correct these deviations,
+Airbus has over the years
+implemented solutions for
+each of the three main causes
+of abnormal veering:
+• Steering demand offset
+• Servo valve offset
+Article by • Rotary Variable Differential
+Transducer (RVDT) offset
+Laurent COUTURET
+Braking and Steering System Senior Engineer
+Product Leader A380 & A300/A310
+AIRBUS
+laurent.couturet@airbus.com
+Offset Offset
+Steering-By-Wire
+The use of ‘Steering-By-Wire’, compared to the former hydro-mechanical
+architecture using mechanical cables and pulleys, has made it possible to
+reduce aircraft weight whilst ensuring a better integration of the steering system
+with other aircraft systems such as Auto-Pilot for Auto Land and improving
+maintenance through the on-board Central Maintenance System.
+‘Steering-By-Wire’ was first introduced on A320 aircraft and has evolved over
+the past decades for continuous reliability and operation enhancement.
+95#TSAF
+52
+Staying on line
+What is veering?
+Steering handwheel (tiller)
+Veering is a progressive tendency of the aircraft to steer to the right or left of the
+taxiway (or runway) centreline, without steering inputs from flight crew (i.e. steering
+handwheels, rudder pedals and rudder trim all at neutral position). It is most
+noticeable during taxiing at low speeds.
+Note: Veering is not a sudden swerve movement of nose wheels.
+Instances of aircraft veering have been reported, requiring sometimes extensive
+trouble shooting actions to fix the issue. Flight crew may need to correct using the
+steering handwheel or rudder trim to taxi the aircraft in a straight line.
+When the correction exceeds the threshold, a maintenance action is required to find
+the cause of this veering tendency.
+Finding the cause
+Abnormal veering can be due to either internal or external factors. This article will focus
+on the internal factors in relation to the steering system.
+The Nose Wheel Steering (NWS) system architecture is based on a computer acquiring
+cockpit inputs to calculate the steering order. This order is compared to the actual
+position of the nose wheels (nose wheels’ angle measured by the Rotary Variable
+Differential Transducer (RVDT)) to calculate and generate a current to the servo valve.
+NWS system principle:
+- For the A320 Family and A330 Family, the computer is the Braking and Steering
+Control Unit (BSCU)
+- For the A350 XWB, the computers are the Core Processing Input Output Module
+(CPIOM) and Common Remote Data Concentrator (CDRC)
+- For the A380, the computer is the Core Processing Input Output Module (CPIOM)
+Rudder pedals
+Correction thresholds
+Nose wheel angle offset within tolerance if ≤ 0.5°
+A320 A330 A340 A340 A350 A380
+RT 200/300 500/600 RT ≤ 2.9° RT ≤ 2.5°
+≤ 3.0° RT ≤ (*) RT ≤ 2.5°
+Max. Max. Max. Max. Max.
+allowed allowed allowed allowed allowed
+RT RT RT RT RT
+≤ 8.8° ≤ (**) ≤ 10° ≤ 11.6° ≤ 10°
+Rudder Trim (RT) correction greater than above values triggers maintenance action
+Rudder Trim (RT) correction greater than above values = NO DISPATCH
+* = 3.0° with electrical rudder control ** = 10.4° with electrical rudder control
+RT - Rudder Trim
+= 3.5° with mechanical rudder control = 12° with mechanical rudder control
+95#TSAF
+62
+Staying on line
+The solutions implemented to correct veering
+From the above architecture it can be determined that three
+typical offsets can lead to abnormal aircraft veering tendency:
+1 Steering demand offset generating unwanted steering order
+while in neutral position
+2 Servo valve offset generating hydraulic flow and steering
+the nose wheels away from neutral position
+3 RVDT* offset shifting the electrical zero position vs. zero
+mechanical position of nose wheels
+Steering demand
+offset correction
+In order to account for small undesirable cockpit inputs possibly
+leading to unwanted steering order, a dead band (or flat zone)
+has been introduced in the control loop.
+The principle is to move from the green curve (linear law starting
+from 0 degrees to output a steering order) to the blue curve
+zeroing small inputs prior to generating a steering order.
+This new control law is implemented in the avionics part of the
+steering system for the A320 Family, A330 Family, A350 XWB
+and A380.
+0
+Steering order
+tupni
+tipkcoC
+AP
+Pilot and First Officer Pilot and First Officer Autopilot
+rudder pedals handwheels
+*RVDT - Rotary Variable Differential Transducer
+STEERING SOFTWARE
+1 Steering
+1 2 3 demand
+offset
+correction
+3
+Summation HCF
+Heading Control
+Function
+Integrator
+2
+RVDT
+Rotary Variable
+Differential
+Transducer
+95#TSAF
+72
+Staying on line
+Servo valve offset correction
+The steering servo valve provides hydraulic flow as a function of current. This means
+that the current is based on the difference between the steering commanded order
+and the actual position of nose wheels. When the position of the nose wheels is equal
+to the steering commanded order the current sent to the servo valve is null. With a null
+current there is no hydraulic flow and the nose wheels hold the requested position.
+An offset (or drift) of the servo valve may cause hydraulic flow leading to nose wheels
+steering movement with a neutral commanded order. The steering movement of the
+nose wheels is fed back to the avionics (angle measured by RVDT), which sends
+a current to the servo valve in the opposite direction of the nose wheels movement.
+When the current sent to the servo valve corresponds to a hydraulic balanced
+position with no flow, the nose wheels hold the new position but are not aligned
+with the steering order, hence aircraft veering tendency.
+Depending on the servo valve drift, a permanent offset will take place.
+This offset may require flight crew correction to re-centre the nose wheels.
+In order to enhance the Nose Wheel Steering system operation, the steering control
+loop was modified to compensate for small servo valve offset. To this end, an extra
+current called integrator is sent to the servo valve allowing the nose wheels to
+progressively recover the steering commanded order.
+The new control loop with the integrator is implemented in the avionics part
+of the steering system of the A330 Family, A350 XWB and A380.
+This solution can also be implemented on the A320 Family after activation
+of a dedicated pin-programming.
+RVDT offset correction
+The RVDT provides an electrical signal as a function of the nose wheel angle position.
+An offset between the mechanical position of nose wheels and the electrical signal
+sent by the RVDT may cause abnormal veering tendency with the NWS system
+seeking the electrical zero position of the RVDT.
+In order to account for small RVDT offset, the steering control loop has been modified
+to monitor the aircraft heading and maintain a target heading.
+This function, called Heading Control Function (HCF), is implemented in the avionics
+part of the steering system of the A350 XWB and A380.
+Note: The HCF also contributes to reducing flight crew workload during taxi
+operations by compensating deviation possibly resulting from external factors such
+as crosswind or taxiway/runway slope.
+tesffo
+SWN
+Integrator action
++0,6°
++0,4°
++0,2°
+0°
+-0,2°
++0 +0.5 +1 +1.5 +2 +2.5 +3 +3.5 +4
+Time (s)
+Offset BEFORE Offset AFTER
+integrator action integrator action
+tesffo
+SWN
++0,6°
++0,4°
++0,2° Permanent NWS offset
+0°
+-0,2°
++0 +0.5 +1 +1.5 +2 +2.5 +3 +3.5 +4
+Time (s)
+tesffo
+SWN
+Integrator action
++0,6°
++0,4°
++0,2°
+0°
+-0,2°
++0 +0.5 +1 +1.5 +2 +2.5 +3 +3.5 +4
+Time (s)
+Offset BEFORE Offset AFTER
+integrator action integrator action
+tesffo
+SWN
+1 2 3
+AP
+Pilot and First Officer Pilot and First Officer Autopilot
+rudder pedals handwheels
++0,6°
++0,4°
+STEERING SOFTWARE
++0,2° Permanent NWS offset
+0°
+-0,2°
++0 +0.5 +1 +1.5 +2 +2.5 +3 +3.5 +4
+1 Steering
+Time (s)
+demand
+offset
+correction
+3
+Summation HCF
+Heading Control
+Function
+Integrator
+2
+RVDT
+Rotary Variable
+Differential
+Transducer
+1 2 3
+95#TSAF
+82
+Staying on line
+In the event of aircraft veering tendency exceeding the
+tolerance, and irrespective of aircraft configuration, the
+troubleshooting manual provides instructions to isolate the
+cause of the deviation (internal or external factor). To this end,
+it may be necessary to verify if the adjustment of the RVDT is
+aligned with the aircraft centreline.
+Correct and accurate mechanical adjustment of the RVDT is a
+key factor to prevent abnormal veering tendency due to large
+offset between the actual position of the nose wheels and the
+feedback sent by the RVDT.
+Basically, the adjustment of the RVDT is to be carried out
+when the nose wheels are aligned with aircraft centreline.
+Several procedures can be used to align the nose wheels prior
+to adjusting the RVDT. Operators can adapt their maintenance
+depending on the aircraft programme, tool and time available
+to do the RVDT adjustment.
+Summary
+Depending on the aircraft programme and avionics architecture,
+the NWS system was modified to accommodate the new
+functions.
+Forward fit Retrofit
+Aircraft
+New control law Integrator Heading control function New control law Integrator Heading control function
+A318 Yes No No N/A On request* No
+A319 Yes No No N/A On request* No
+A320 Yes No No N/A On request* No
+A321 Yes No No N/A On request* No
+A330 Yes Yes No N/A N/A No
+A340 Yes Yes No N/A N/A No
+A350 Yes Yes Yes N/A N/A No
+A380 Yes Yes Yes N/A N/A No
+(*) Upon request Airbus Upgrade Services will review the aircraft configuration
+Maintenance and operational procedures have been adapted and propose a Service Bulletin to activate the integrator.
+to account for small and acceptable offset whilst providing
+clear instructions for maximum allowable limits and trouble-
+shooting activities.
+Note: In-Service Information (ISI) ref. 32.51.00004 and
+32.51.00005 (A320 Family and A330 Family respectively) was
+issued to provide guidance during troubleshooting actions.
+CONCLUSION
+The NWS system has evolved over the years to limit the occurrence of abnormal aircraft veering.
+The solutions implemented also improve ground control and reduce flight crew workload.
+Operational and maintenance guidelines are available for operators in the event of aircraft veering
+tendency to better understand the source of the problem and apply the best solution.
+For more significant veering phenomena, other tools and troubleshooting actions are at the disposal
+of the operators.
+Operators can also improve their knowledge on veering troubleshooting actions as well as
+the use of the Laser Alignment Tool with an engineering workshop available in the Airbus catalogue.
+95#TSAF
+92
+Staying on line
+egatireH
+etaroproC
+subriA
+fo
+ysetruoc
+sotohP
+FAST
+from the past
+There wouldn’t be any future At the beginning of civil aviation, when there
+without the experience of the past. was little competition between airlines,
+turnaround time was maybe not a major priority.
+Today, ground handling staff still need to clean,
+check and maintain the aircraft and load cargo
+with the greatest of care, but the stakes are
+now much higher for airlines (see The ground
+handling challenge article, page 04).
+95#TSAF
+03
+95#TSAF
+34
+Around the clock, around the world
+Airbus has more than 300 field representatives, based in over 130 cities
+Technical, Material & Logistics
+USA/CANADA Airbus Technical AOG Centre (AIRTAC) Spares In-Flight orders outside the Americas:
+Tel: +1 703 834 3484 Tel: +33 (0)5 6193 3400 Tel: +49 (0)40 5076 4002
+Fax: +1 703 834 3464 Fax:+33 (0)5 6193 3500 Fax: +49 (0)40 5076 4012
+airtac@airbus.com ifd.spares@airbus.com
+CHINA
+Tel: +86 10 8048 6161 Ext. 5020 Spares AOG/Work Stoppage Spares related HMV issues outside the Americas:
+Fax: +86 10 8048 6162 • Outside the Americas: Tel: +49 (0)40 5076 4003
+Tel: +49 (0)40 5076 4001 Fax: +49 (0)40 5076 4013
+FIELD SERVICE SUPPORT Fax: +49 (0)40 5076 4011 hmv.spares@airbus.com
+ADMINISTRATION aog.spares@airbus.com
+Tel: +33 (0)5 6193 3936 Spares RTN/USR orders in the Americas:
+• In the Americas:
+Fax: +33 (0)5 6193 4964 Please contact your dedicated customer spares
+Tel: +1 70 3729 9000
+account representative
+Fax: +1 70 3729 4373
+csr.na@airbus.com
+aog.na@airbus.com
+Training centres
+Airbus Training Centre Airbus Training Centre Americas Training by Airbus Jakarta
+Toulouse, France Miami, Florida - U.S.A. antoine.renaud@airbus.com
+Tel: +33 (0)5 62 11 82 24 Tel: +1 (305) 871-3655 (switchboard)
+or +33 (0)5 61 93 39 75 Fax: +1 305 871 4649 Airbus Asia Training Centre Singapore
+Fax: +33 (0)5 6193 2094 miamicustomertrainingsales@airbus.com Tel: +65 6877 4300 (reception)
+training.commercial@airbus.com contact.info.aatc@airbus.com
+customercare.atc-europe@airbus.com Airbus Training Centre Beijing
+Tel: +86 10 80 48 63 40 - 3017/3016 Airbus Mexico Training Centre
+Airbus Maintenance + 86 10 80 48 65 Tel: +52 55 57 86 80 50
+Training Centre (communication and marketing)
+Hamburg, Germany Airbus Training Centre Bangalore training.commercial@airbus.com
+Tel: +49 (0)40 7438 8288 Tel: 91-080-6638230 (reception)
+Fax: +49 (0)40 7438 8598 Training by Airbus Korea,
+training.commercial@airbus.com Airbus Training Centre Delhi Seoul, South Korea
+atc.hamburg@airbus.com Tel: +91 9880065511 Tel: +82 (0)32 882 5425
+andrew.rapson@airbuskorea.com
+Training by Airbus Dubai,
+UAE - Airbus Middle East FZE Dubai
+Tel: +971 4 602 78 62
+mary-knoll.garcia@airbus.com
+95#TSAF
+13
+How can I keep my
+business flying?
+Ask for Services by Airbus.
+Our expertise and innovation
+ensure your aircraft is kept to
+the highest standards of safety,
+productivity and efficiency
+for years to come.
+Airbus is the answer.
+airbus.com
+© AIRBUS, 2017. All rights reserved. Airbus, its logo and the product names are registered trademarks.
+Data:Users:drolfe:Desktop:12186_AIR_QA_Services_Master_297x210_1.2
+KROWTRA
+12186_AIR_QA_Services_Master_297x210_1.2.indd 1 17/02/2017 14:56
+12186_AIR_QA_Services_Master_297x210_1.2 johnsp
+297 x 210 mm
+PMS
+3 mm
+Master PMS
+Page 1 PMS
+17 February 2017 2:56 PM PMS

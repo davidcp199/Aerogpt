@@ -1,0 +1,1556 @@
+Airbus technical magazine
+March 2018
+#61
+FA S T
+Flight Airworthiness Support Technology
+Already have the FAST app?
+Now get the latest news for customers
+via Newsfeed by Airbus.
+FAST
+Airbus Airbus
+by by
+FAST and Newsfeed by Airbus apps
+are downloadable to your preferred device
+Already have the FAST app?
+Now get the latest news for customers
+via Newsfeed by Airbus.
+FAST
+Airbus Airbus by by
+FAST and Newsfeed by Airbus apps
+are downloadable to your preferred device 16#TSAF
+30
+Airbus technical magazine
+#61
+FA S T
+Flight Airworthiness Support Technology
+Publisher: Alizée GENILLOUD
+Chief Editor: Deborah BUCKLER
+Design: PONT BLEU Engine Bleed Air System 04
+Cover image: Sylvain RAMADIER Increasing reliability
+Printer: Amadio with preventive maintenance
+Authorisation for reprinting
+FAST magazine articles A350 XWB composite 10
+should be requested by email:
+bonded repair
+fast.magazine@airbus.com
+New technology for new aircraft
+FAST magazine is available on internet
+www.aircraft.airbus.com/
+support-services/publications/ Technical data 18
+for maintenance
+and on tablets or smartphones
+Taking efficiency to new dimensions
+ISSN 1293-5476
+A350 XWB vertical 26
+© AIRBUS 2018 All rights reserved. Proprietary document
+stabiliser continuous joint
+By taking delivery of this Magazine (hereafter ‘Magazine’), you accept on behalf
+of your company to comply with the following. No other property rights are granted Precision technology
+by the delivery of this Magazine than the right to read it, for the sole purpose of
+information. This Magazine, its content, illustrations and photos shall not be modified for attachment fittings
+nor reproduced without prior written consent of Airbus. This Magazine and the
+materials it contains shall not, in whole or in part, be sold, rented, or licensed to any
+third party subject to payment or not. This Magazine may contain market-sensitive
+or other information that is correct at the time of going to press. This information
+Supporting ageing fleets 32
+involves a number of factors which could change over time, affecting the true public
+representation. Airbus assumes no obligation to update any information contained in
+this document or with respect to the information described herein. The statements Scheduling the unscheduled
+made herein do not constitute an offer or form part of any contract. They are based on
+Airbus information and are expressed in good faith but no warranty or representation
+is given as to their accuracy. When additional information is required, Airbus can be
+contacted to provide further details. Airbus shall assume no liability for FAST from the past 38
+any damage in connection with the use of this Magazine and the materials it contains,
+even if Airbus has been advised of the likelihood of such damages. This licence
+is governed by French law and exclusive jurisdiction is given to the courts and tribunals
+of Toulouse (France) without prejudice to the right of Airbus to bring proceedings for
+infringement of copyright or any other intellectual property right in any other court of Around the clock, 39
+competent jurisdiction. Airbus, its logo, A300, A310, A318, A319, A320, A321, A330,
+A340, A350, A380 and A400M are registered trademarks. around the world
+Photo copyright Airbus Field representatives
+Photo credits: Airbus Photographic Library, Airbus Corporate Heritage,
+Master Films, Hervé Gousset, Philippe Masclet, Pascal Pigeyre, Jean-Baptiste Accariez
+16#TSAF
+40
+Engine Bleed
+Air System
+Increasing reliability with preventive maintenance
+Article by
+Benjamin CALVET
+Air and Inerting System Engineer
+AIRBUS
+benjamin.calvet@airbus.com
+By carrying out preventive maintenance on the Engine
+Bleed Air System, operators can significantly reduce both
+Operational Interruptions (OI) and costs, as proven over
+the last five years.
+This sub-system draws hot air from the engines, which
+is then distributed for essential functions such as cabin
+pressurisation and air intake de-icing.
+16#TSAF
+50
+Engine Bleed Air System
+An overview The Engine Bleed Air System is a sub-system of the Bleed Air System that is
+installed directly within the aircraft engine. It allows air to be bled from several
+of the Engine engine ports in order to ensure sufficient pressurised air is provided to consumers*
+which include:
+Bleed Air • Engine starting • Fuel Tank Inerting System (FTIS)
+(including cross starting)
+• Cabin air generation and cooling systems
+System
+• Wing anti-ice system (ATA21)
+• Cabin pressurisation • Pressurisation of hydraulic tank, as well as
+waste and water storage tanks
+Engine Bleed Engine Bleed
+Air System 1 Air System 2
+Wing Ice Water tank Hydraulics tank Wing Ice
+Protection System pressurisation pressurisation Protection System
+(ATA 30) (ATA 38) (ATA 38) (ATA 30)
+Starter Starter
+(ATA 80) (ATA 80)
+Conditioned Service Conditioned Service
+Air System Auxiliary High Air System
+(ATA 21) Power Pressure (ATA 21)
+Unit Ground
+(ATA 49) Carts
+Fuel Tank Inerting System Pack 1 Pack 2 Fuel Tank Inerting System
+(ATA 47) (ATA 21) (ATA 21) (ATA 47)
+This sub-system provides consumers* with high temperature air (200°C) Engine Bleed Air Systems have
+at high pressure (44 PSI) and has 3 main functions: evolved with each Airbus aircraft
+programme. Earlier generation
+Aircraft systems families such as the A320ceo
+1 Temperature Aircraft Bleed and the A330ceo are fitted with
+control systems M co o m ni p to u r t i e n r g full pneumatic Engine Bleed Air
+Systems whereas more recent
+2 Pressure
+overboard
+regulation Engine bleed po V s a i l t v i e on Temperature programmes are fitted with
+push button electro-pneumatic systems.
+3 Pressure switch Precooler
+control exchanger
+Over-
+Airbus Full Electro-
+pressure ThC ThS
+To starter valve valve Fan air aircraft pneumatic pneumatic
+(Rolls Royce) valve programme EBAS EBAS
+Sense line 4
+A320ceo X
+Sense line 1 Pr
+A330ceo X
+Sense line 3
+Pressure Pt
+regulating Sense line 2 A340 basic X
+valve
+HP bleed valve A340-500/600 X
+To starter valve
+(Pratt & Whitney, A380 X
+General Electric) ThC=Temperature Control Thermostat
+A350 X
+IP ThS=Solenoid Thermostat
+Fan check
+valve A320neo X
+A330neo X
+High
+Pressure
+Intermediate
+(HP)
+Pressure * A function which ‘consumes’ bleed air.
+(IP)
+16#TSAF
+60
+Engine Bleed Air System
+Defining the need
+Engine Bleed Air System failures can lead to unscheduled maintenance with FAIR
+associated operational interruptions, as well as to severe events such as in-flight Airbus’ Forum with Airlines for
+turn-back or diversion due to loss of cabin pressurisation capability. Interactive Resolution, where airlines
+share their experience on dedicated
+Initially, design improvements were introduced on the full pneumatic bleed
+topics.
+systems used on early generation families (A320ceo, A330ceo and A340 basic).
+If an airline is affected by a specific
+However, given the impact of bleed systems on operational reliability, a solution
+issue, it posts a new item for further
+was required to counter-balance performance degradation due to bleed
+discussion with other airlines.
+component ageing.
+Airbus regularly screens the item
+Preventive maintenance for the full pneumatic Bleed Air System on A320ceo and provides development updates.
+aircraft was first discussed several years ago, between airlines and Airbus, with
+the creation of a dedicated FAIR (see insert) working group for single aisle
+aircraft. This discussion involved airlines who expected to have dedicated
+preventive maintenance on the Engine Bleed Air System. The programme was The Engine
+required to address all Airbus aircraft fitted with full pneumatic Bleed Air Systems
+and to involve only limited investment by airlines.
+Bleed Check
+helps prevent
+Finding the solution : Engine Bleed Check
+Based on the above requirements, Airbus and Liebherr (valve supplier for engine unexpected
+manufacturers) developed a preventive maintenance programme to detect a drift
+in the system’s functions before a fault is triggered. The Engine Bleed Check operational
+preventive maintenance programme was created. To validate the efficiency of
+this solution, it was tested on both the A320ceo and A330ceo.
+incidents
+This preventive maintenance was first introduced in 2012 on the A320ceo,
+and then on the A330ceo and A340 basic. Airbus and Liebherr worked closely by detecting
+together to define relevant tests and criteria at system and equipment level,
+based on incident reporting provided to Airbus from customer workshops. initial deviations
+The check tests the three main functions of the Engine Bleed Air System:
+• Temperature Control and enabling
+• Pressure Regulation
+scheduled
+• Pressure Control
+maintenance
+The procedures used to perform these tests have been implemented in the
+Aircraft Maintenance Manual. Each procedure has been designed to use only
+test ports and the deactivation screw of the valves, to test the defined
+sub-system functions while avoiding the removal of components.
+In addition, dedicated thresholds have been identified to detect drift in each
+function and then schedule the corrective action necessary to redress the drifts.
+Additionally, these thresholds are also defined so that any equipment that is
+removed for testing in shop will be confirmed faulty. The degree of precision
+offered by the check avoids needlessly removing and sending equipment for
+verification, only for it to be returned as No Fault Found.
+However, it is important to highlight that the Engine Bleed Check should not be
+considered as part of a troubleshooting solution following a failure. Dedicated
+troubleshooting tasks should be applied when a fault is triggered.
+16#TSAF
+70
+Engine Bleed Air System
+Airbus Bleed Test Set and associated
+kit for Engine Bleed Check
+PN 98L36103002000
+PN M82000678
+SBE2213
+What tools are needed to perform
+this preventive action? Airbus set Liebherr set
+As stipulated by the airlines, their investment to Bleed Test
+implement this preventive maintenance had to be set PN 98L36103002000 PN 99127B03
+limited. With this in mind, the main tool required
+for the check is the Bleed Test Set that is already
+used for troubleshooting.
+Liebherr
+A320 Family: 99127-231
+Two troubleshooting Bleed Test Sets are proposed, Bleed Test
+A330 Family: 99127-241
+one supplied by Airbus and the other supplied by set kit
+A340 basics: 99127-251
+Liebherr. The tools are the same for the A320ceo,
+A330ceo and A340, and AMM procedures have been
+designed to be applied using the two proposed Bleed Liebherr
+Test Sets. In addition to these, several adaptors are Universal
+PN M82000678
+also necessary to perform tests. The table to the right Test Port
+shows all the tools necessary to implement the Engine
+Bleed Check.
+Sense line
+Both Airbus and Liebherr sets are available through
+tester SBE2213
+the Airbus Spares portal for customers.
+Temperature control Pressure regulation Pressure control
+16#TSAF
+80
+Engine Bleed Air System
+How often should tests be performed?
+Based on a worldwide fleet study taking into account both fleet experience
+(Operational Interruption main drivers) and components experience (MTBUR/ MTBF*),
+the typical interval for Engine Bleed Checks should be 18 months for A330ceo Family
+aircraft and the A340 basic, and 20 months for A320ceo Family aircraft. However, this
+interval can be adapted by each airline depending on their key Engine Bleed Air
+System OI drivers.
+In addition, procedures have been designed to be as adaptable as possible.
+They allow airlines to perform one test of a given function and on one engine, rather
+than performing the full set of tests on all engines. This adaptability allows airlines to
+implement the Engine Bleed Check depending on their experience.
+The time required to perform one task is approximately two man hours.
+* MTBUR Mean Time Between Unscheduled Removals
+MTBF Mean Time Between Failures
+What procedures are available?
+All procedures for the A320ceo, A330ceo and the A340 basic are already available
+through AMM tasks that are quoted in the below tables:
+Temperature AMM task ref. using AMM task ref. using
+Control Liebherr Bleed Test set Airbus Bleed Test set
+A330 GE 36-11-00-720-809-A 36-11-00-720-809-A01
+A330 PW 36-11-00-720-812-A 36-11-00-720-812-A01
+A330 RR 36-11-00-720-815-A 36-11-00-720-815-A01
+A340 36-11-00-720-821-A 36-11-00-720-821-A01
+A320 36-11-00-720-802-A 36-11-00-720-802-A01
+Pressure AMM task ref. using AMM task ref. using
+regulation Liebherr Bleed Test set Airbus Bleed Test set
+A330 GE 36-11-00-720-810-A 36-11-00-720-810-A01
+A330 PW 36-11-00-720-813-A 36-11-00-720-813-A01
+A330 RR 36-11-00-720-816-A 36-11-00-720-816-A01
+A340 36-11-00-720-823-A 36-11-00-720-823-A01
+A320 36-11-00-720-804-A 36-11-00-720-804-A01
+Pressure AMM task ref. using AMM task ref. using
+control Liebherr Bleed Test set Airbus Bleed Test set
+A330 GE 36-11-00-720-811-A 36-11-00-720-811-A01
+A330 PW 36-11-00-720-814-A 36-11-00-720-814-A01
+A330 RR 36-11-00-720-817-A 36-11-00-720-817-A01
+A340 36-11-00-720-822-A 36-11-00-720-822-A01
+A320 36-11-00-720-806-A 36-11-00-720-806-A01
+CONCLUSION
+The Engine Bleed Check is a preventive maintenance programme for the A320ceo, A330ceo and A340 basic.
+It assesses the robustness of the full pneumatic Engine Bleed Air System by detecting any drift of the main system
+functions before failure. It allows airlines to schedule engine bleed air maintenance and to increase operational
+reliability of the system.
+This solution has been implemented through AMM tasks and uses existing tools. Tasks can be carried out during
+scheduled checks and the intervals proposed by Airbus can be adapted depending on the airline’s experience.
+Performing each task takes around two man hours.
+The efficiency of this solution has been proven, and feedback received from airlines indicates that the operational
+reliability of Engine Bleed Air Systems has considerably improved, and is no longer a major concern since the
+introduction of this preventive maintenance.
+Finally, to support airlines in Engine Bleed Air System Check implementation, Airbus has deployed an engineering
+workshop including a demonstration on an aircraft.
+For more information related to this workshop contact customerservices.consulting@airbus.com.
+16#TSAF
+90
+Engine Bleed Air System
+Recommendations in case of findings
+If the check detects a drift from the dedicated thresholds of each function, additional
+tests may be required to determine the root cause. Correcting this drift is advised to
+ensure system operations until the next check.
+The suspected component may be replaced immediately or at the next opportunity.
+AMM Aircraft Maintenance Manual
+BMC Bleed air Monitoring Computer Findings resulting from the check are not subject to immediate troubleshooting prior to
+CMM Component Maintenance Manual dispatch. Operational considerations remain linked to the BMC monitoring logics
+ECAM Electronic Centralised Aircraft Monitor (ECAM warning, maintenance status) and associated MMEL/TSM coverage.
+MMEL Master Minimum Equipment List Based on the above, component removal can be scheduled at a later convenience
+TSM Trouble Shooting Manual while monitoring the system’s drift through Class 3** messages.
+Finally, components that are removed during this preventive maintenance programme
+** Class 3 messages are of low urgency
+Class 2 messages should be dealt should be sent for CMM test & repair. It is highly recommended to tag the reason for
+with within 800 Flight Hours removal as “check removal” and to mention the paragraph of the AMM failure.
+Class 1 messages are urgent, Supplying this information will ensure the correct reason for removal and will help
+possibly NoGo, AOG
+determine the appropriate repair of the component before return into service.
+Engine Bleed Check workshop
+To implement the Engine Bleed Check, customers can sign up for a workshop,
+in the Engineering Workshop portfolio in the AirbusWorld Customer Services
+e-catalogue.
+This workshop comprises:
+• Classroom sessions to review how the Engine Bleed Air System works
+• A specific review of Operational Interruptions experienced by the airlines and how
+to troubleshoot them
+• Demonstrations on an aircraft, of how the Engine Bleed Check procedures should
+be applied and the aim of each test done during the Bleed Check
+Several airlines have already benefited from this service, finding it useful and efficient,
+enabling them to reinforce their knowledge of the bleed air system and of preventive
+actions to reduce the number of Operational Interruptions.
+16#TSAF
+01
+A350 XWB
+composite
+Article by (left to right)
+bonded
+Sébastien HANSER
+Embodiment Industrial Manager
+AIRBUS
+sebastien.hanser@airbus.com
+Guillaume FERRER
+repair
+Embodiment Industrial Manager
+AIRBUS
+guillaume.ferrer@airbus.com
+Sébastien DUPOUY
+Embodiment Industrial Manager
+AIRBUS
+New technology for new aircraft sebastien.s.dupouy@airbus.com
+Even if composite repairs are not new at Airbus, the extensive use of Carbon
+Fibre Reinforced Plastic (CFRP) on the A350 XWB and especially on primary
+non-removable parts, is driving the development and the industrialisation of
+new composite-specific repair solutions.
+Over the last two decades, generic solutions were used for damaged composite
+components. Most of the affected parts were removable and located in
+non-pressurised areas. The new challenge was to repair primary structures
+without removing them from the aircraft and with minimal grounding time.
+The solution had to restore the required structural capabilities, be carried out
+on-site, and bring the exterior skin of the aircraft back to its original flush finish.
+16#TSAF
+11
+A350 XWB composite bonded repair
+What is CFRP?
+The primary structure of the A350 XWB (Extra Wide Body) is of Carbon
+Fibre Reinforced Plastic (CFRP). This composite has progressively replaced
+aluminium in aircraft design over the past years, improving performance
+(less weight for the required structural robustness), but also bringing
+benefits such as increased resistance to impacts, simplified damage
+assessment processes and proven repair solutions.
+(See article in FAST#57)
+Combining legacy and advanced innovative solutions
+Different repair solutions exist, from the traditional bolted metallic doubler, to the
+most advanced out-of-autoclave, on-wing, bonded repair. The ‘best-fit repair’
+principle is used to select the choice of repair solution depending on the stress
+requirements of the damaged area: if the damage affects structural elements,
+then a metallic bolted solution or a bonded repair are the preferred methods.
+Airbus uses its wide experience in building and repairing composite structures
+to advise on the most appropriate solution to specific damage and repair
+scenarios, based on the new requirements presented by the A350 XWB
+structure. Bonded repair is adapted to customers’ specific requirements
+and expectations, and in accordance with airworthiness conditions.
+Adapting the repair type to the situation
+The main drivers are always safety and lead time. The three composite repair
+techniques available give different aerodynamic and aesthetic finishes:
+Quick but temporary Permanent Permanent
+bolted metallic bolted pre-cured bonded flush repair
+doubler CFRP repair
+Most commonly
+(but not flush)
+This will certainly fix an experienced in-service
+AOG situation, bringing This is a permanent damage, such as severe
+the aircraft back to pre-cured CFRP doubler lightning strikes or GSE
+service very quickly without any additional impacts, can be
+and safely. After a grace cosmetic or aero- repaired using the
+period (life limitation), dynamic consideration. bonded method,
+this efficient but visible enabling on-site repair
+non-flush repair with a flush finish.
+(external doubler) has
+to be replaced by
+a permanent repair.
+A complex repair,
+mixing bolted
+and bonded
+techniques
+16#TSAF
+21
+A350 XWB composite bonded repair
+A bonded repair… from start to finish
+1)
+Damage assessment
+Before any engineering decision or repair action, a very precise
+assessment is carried out, described and recorded in a damage
+report.
+Specific Non-Destructive Testing (NDT) equipment has been
+developed for operational repair on the A350 XWB such as the
+Line tool, Line sizing or Line mapping tools. These enable clear
+identification, localisation and characterisation of the damage.
+As the fuselage skin is a monolithic structure (a solid laminate
+composite – see glossary), the NDT means that are used are
+mainly ultrasonic detection such as A-Scan and C-Scan phased
+array. (see FAST 57 for more information on CFRP damage and
+NDT methods).
+This assessment stage is essential for communicating precisely
+with engineering teams and defining a fast and safe repair
+solution.
+2)
+Damage removal
+Once the repair definition is established, the working party team
+removes damaged plies (layers) following a very precise pattern.
+The damaged area is removed by cutting the CFRP skin using a
+high-speed, diamond-coated cutter.
+3)
+Stepping design for bonded repair
+The area in which the bonded repair is to be applied is
+progressively sand-stepped or removed using a new system:
+The Repair Jet®. The system, which has been specially
+developed and qualified for the A350 XWB, uses pressurised
+water that contains an abrasive media. The portability of the
+Repair Jet® allows it to be used in areas where the repair’s
+situation and ergonomics make it difficult or uncomfortable to
+perform (lower shells, overhead working).
+This process combines a precise set of parameters (pressure,
+speed, nozzle design, media type…) to obtain the final result
+(consistent depth machining).
+Sand-stepping requires a high level of experience to match
+the design engineering requirements (tolerances, orientations,
+ply numbers).
+The Repair Jet® allows clean and safe machining; the pressurised
+water means that no carbon dust is generated, and that
+temperature is not elevated, while the high precision of the jet
+avoids ply delamination that can occur with other methods of
+machining.
+16#TSAF
+31
+A350 XWB composite bonded repair
+4)
+Surface preparation
+Once the stepping has been completed, it is cleaned for optimal
+bonding. An aircraft’s environment often presents elements that
+could contaminate the bonding process such as fuel, hydraulic
+liquids, mineral oil or wax. Using specific solvents the operator
+chemically prepares the surface removing all sources of contami-
+nation that could lead to misbonding.
+5)
+The water-break test
+This test consists of applying a small quantity of water onto the
+prepared surface (bonding area) and checking its physical
+behaviour. The cleaning operation is repeated until the water
+forms a continuous film on the surface to be repaired.
+The aim of this test is to ensure the required cleanliness and
+roughness of the surface required for optimal bonding.
+6)
+Thermal profile
+To secure the final curing cycle, the thermal profile defines the
+homogeneity of the repair zone cure cycle by controlling the
+thermo-couples which are located at the edge of the repair zone.
+A dummy patch (representative of the repair patch) is then placed
+in the repair area, using a release film to avoid the dummy from
+bonding. This dummy is equipped with thermo-couples to record
+thermal mapping of the dummy and its relevant bonding line.
+This task is a dry-run for curing, which validates the quality of the
+vacuum bag thermal insulation.
+7)
+Repairing with pre-impregnated
+materials and film adhesives
+An adhesive film is placed into the whole prepared surface
+(including the stepped area) before positioning the pre-
+impregnated fabric or tape plies; the type of adhesive used
+depends on the curing cycle and required thickness*.
+Repair plies (fibres) are generally similar to the parent structure,
+associated with a pre-impregnated resin dedicated to repair
+solutions. These are laid out following the original orientation and
+the stepped machining provides sufficient overlap to enable load
+transfer between the existing structure and the repair patch.
+The repair kit is prepared in a clean room which is located as
+close as possible to the repair area.
+This phase is key to restore the structural integrity of the
+component or the structure.
+*Another advantage of CFRP is that extra layers of composite
+can be applied to areas that take more stress or are susceptible
+to in-service damage (eg. door surrounds).
+A350 XWB composite bonded repair
+8)
+Compaction
+A compaction phase is used to consolidate cohesion between
+the plies and to remove air bubbles before the final curing cycle.
+This consolidation is another important phase during the ‘out-of-
+autoclave’ repair process, as the repair will be submitted to less
+pressure than traditional ‘in-autoclave’ manufacturing or repair
+processes.
+9)
+Vacuum bagging (internal/external)
+A vacuum bag is installed to maintain pressure on the plies during
+the curing cycle. In a case where damage has
+perforated the skin, a vacuum bag on both sides ensures vacuum
+communication and tightness. Auxiliary material
+such as vacuum bag, backing plate, breather fabric and peel
+plies* are defined by the Aircraft Structure Repair (ASR)
+instructions.
+Vacuum bagging
+Vacuum intake Vacuum register
+Repair patch
+Drilled backing plate
+Vacuum intake Vacuum register
+UW 1032 Bleeder GF180 Edge breather
+Heating blanket Perforted parting film Sealant tape
+Breather GF 180 Thermo couple Vacuum bag
+Non-perforated parting film
+10)
+Cure cycle
+The cure cycle for a repair corresponds with the processing
+window that is appropriate for each material as indicated in its
+corresponding Airbus specification. When more than one material
+is included in an area (adhesive film, pre-impregnated fibres …),
+the selected cure cycle must cover the processing window of all
+of them. A specific curing cycle involving 2 temperature stages
+has been developed in order to reach the required 140°C.
+16#TSAF
+41
+16#TSAF
+51
+A350 XWB composite bonded repair
+11)
+Restoration of lightning strike protection
+Expanded Copper Foil (ECF) which ensures the electrical bonding
+protection against lightning strikes is integrated within the original
+fuselage composite of the A350 XWB. During the composite
+bonding repair this electrical continuity is re-instated by
+overlapping the original ECF with a new ECF patch.
+Original Dry
+Expanded Copper Foil Expanded Copper Foil Repair materials Adhesive
+12)
+Internal bolted repair embodiment
+Damaged internal structure is restored by observing the repair
+definition given by Airbus design engineering, following generic
+repair principles proposed in the ASR manual.
+On most occasions these principles use spliced pre-defined
+standard spare parts, that are bolted to the CFRP.
+Specific drilling tools and processes must be used to install
+pre-cured parts (stiffeners, clips, solid shims or internal doublers).
+Each part that has been freshly cut (according to the repair
+definition) must have its edge sealed to prevent galvanic corrosion
+(Aluminium/CFRP).
+13)
+Final post repair inspections
+before return to service
+Before return to service, the repair area must be inspected using
+standard NDI technics given in the Non-destructive Testing
+Manual (NTM) and the ASR manual for the A350 XWB.
+Both visual and ultrasonic (C-scan phased array) inspection
+methods are performed according to the repair documentation’s
+indications.
+14)
+System and internal equipment
+re-installation
+After completion of the structural repair, any systems
+and equipment that needed to be removed in order to access
+and repair the interior of perforating damage, are then re-installed
+by the working party’s systems specialists, following Aircraft
+Maintenance Manual (AMM) and ASR specific tasks.
+16#TSAF
+61
+A350 XWB composite bonded repair
+Repair on a flight test aircraft Carrying out a repair
+It is important to note that each type
+Capability demonstration of a combined repair on a flight test aircraft.
+of repair requires specific training.
+The bonded repair process has undergone a 3-year certification campaign, during In the case of bonded repairs,
+which the pyramid of destructive and non-destructive tests ensured that the bonded there are three levels of knowledge
+CFRP repair would withstand stress levels well beyond those in a real life, operational depending on the type of repair:
+situation. Cosmetic, Advanced and Expert.
+In addition, an Airbus working party then applied this repair technology to a flight test Operators can use Airbus working
+aircraft in Toulouse, France. parties to carry out all levels of
+repair. Further information on CFRP
+Using a realistic scenario the repair team assessed and repaired the damage,
+bonded repair training courses can
+combining skin bonded repair & stringer bolted repair.
+be found on AirbusWorld > AIRTAC
+This innovative combination of best-fit repair principles addressed structural, > Airbus Engineering
+aesthetic and aerodynamical constraints.
+Monolithic structure Peel ply
+This is a solid laminate A layer of open weave material, usually polyester,
+composite such as CFRP fibreglass or heat-set nylon, applied directly to the surface
+as opposed to carbon of an uncured prepreg or wet lay-up.
+fibre composite/ It protects the surface to be bonded from contamination
+honeycomb sandwich during manufacturing or repair operations. The peel ply is
+structures. removed from the cured laminate immediately before
+bonding operations, leaving a clean resin-rich surface that
+needs no further preparation for bonding, other than
+application of a primer where one is required.
+16#TSAF
+71
+A350 XWB composite bonded repair
+GLOSSARY
+CONCLUSION
+Airbus is constantly developing and improving repairability of its aircraft, proposing a set of innovative repair
+solutions, special tooling and associated training.
+With the arrival of Carbon Fibre Reinforced Plastic, widely used on the A350 XWB, technology has evolved
+bringing an additional repair solution to match this material. Depending on the type of damage incurred, but
+also on the result required in terms of lead-time and aesthetics, customers can now choose from three types
+of composite repairs, from bolted metallic doubling to bolted pre-cured or bonded flush repair.
+Technical data
+for maintenance
+Taking efficiency to new dimensions
+With an ever-increasing responsibility to ensure
+safe and efficient maintenance operations within
+tighter lead times, the customer’s need for digitised
+technical data has never been greater.
+Customers expect high quality maintenance
+documenta tion with easy access, an intuitive
+interface and fast updates.
+Article by
+Airbus is investing in new technologies, to supply
+Boris PLOTEAU
+maintenance and engineering data not only in real- Customer Contract and Policy
+Manager Technical Data
+time, but to new levels of detail that enable quicker
+AIRBUS
+and more precise operations. boris.ploteau@airbus.com 16#TSAF
+81
+In recent years, the escalation of commercial flights has
+put pressure on all aeronautical stakeholders to optimise
+their maintenance operations:
+• Reduced Turnaround Times have become key to an airline’s profitability,
+and aircraft mechanics have less time to access, consult and interpret
+maintenance documentation.
+• Airworthiness authorities have become increasingly involved in
+maintenance documentation, and regularly audit Airbus processes of
+authoring, generating and delivering maintenance and engineering data.
+As Type Certificate holder, Airbus provides its operators with Instructions for
+Continued Airworthiness (ICA) to ensure compliance with EASA Part 21J, a
+requirement for Design Organisations Approvals (DOA). Airbus defines and delivers
+configured ICA when an aircraft is delivered and then continues to update the ICA
+throughout its entire operational life.
+In the first half of 2018, and based on a new EASA regulation, Airbus will designate
+some ICA (e.g. AMM, IPC, ESPM and NTM), approved under DOA process.
+This new regulation does not impact Airbus customers but entails even stronger
+regulatory requirements concerning Airbus processes for data authoring and
+validation. Customers in general will benefit from the approved nature of an Airbus
+ICA when justifying an aircraft’s release under Part 145 to their National
+Airworthiness Authorities.
+Upon request, any National Airworthiness Authority can obtain access to Airbus’
+maintenance and engineering data that is applicable to an aircraft registered with
+them.
+• At delivery, customers are increasingly involved in maintenance and
+engineering data to ensure everything they need is available right from day
+one of operations.
+Airbus on-line technical data
+500
+168,000
+wiring
+customised
+diagrams
+documentation
+sets
+40
+50,000
+maintenance
+Maintenance
+procedures
+& Engineering
+manuals
+16#TSAF
+91
+Technical data for maintenance
+16#TSAF
+02
+Technical data for maintenance
+Managing more information in less time
+Before moving to full online delivery of technical data, Airbus used to deliver over
+250,000 CDs or DVDs every year. Operators can now choose to download data via
+a secure web-based interface, which both speeds up data delivery and reduces the
+global CO footprint.
+2
+Today, Airbus customers access, consult and download data using the customer
+portal, AirbusWorld, and do not receive any physical media. Customers can access
+the portal via all devices and manage their documentation, customising the interface
+by selecting specific aircraft and specific systems by ATA chapter. They can also
+customise the AirbusWorld homepage to their own needs and methods of working
+as well as manage and control the different databases used in their own intranet
+environment. Consulting and downloading maintenance data from AirbusWorld is
+done with one dedicated application: airnavX.
+airnavX entered into service in April 2017, enabling the end-user to access and
+download maintenance data, PDF manuals and software by simply using the
+browser’s “Save as” function. Thanks to its simplicity the application has a high level
+of reliability with no disruption.
+A customer panel works with Airbus to test and develop new solutions, with 25
+customers having participated in the development of airnavX. From the second half of
+2018, customers will join the collaborative approach by using 3D animations, images,
+videos and other smart media for aircraft maintenance on an online platform.
+Access technical data
+more efficiently
+ecnanetniam
+tfarcriA
+atad
+lacinhcet
+airnavX
+Customers handle a continuously increasing volume of information while having less
+time in which to process it.
+Airbus now offers airnavX as a reliable, fast, easy-to-use and efficient application to list,
+download, browse and search Airbus technical data, without relying on external
+browser plug-ins.
+In the long term, airnavX will replace over ten existing applications. It is being deployed
+gradually, the first step being the entry-into-service of airnavX My Library on April 2017.
+airnavX My Library offers one single access point to list and download Airbus technical
+data (maintenance, engineering and flight operations), as well as to browse specific
+flight operations PDF documents.
+The airnavX browsing function completes the scope of airnavX My Library with
+additional features to search and browse the data, with a troubleshooting function
+to retrieve the aircraft fault isolation procedure.
+airnavX covers maintenance operations on the A380, A350 XWB, as well as A320 and
+A330/A340 families, and replaces the following AirN@v products:
+• AirN@v / Maintenance
+• AirN@v / Line Maintenance (A350 XWB)
+• AirN@v / Repair
+• AirN@v / Associated data
+In 2018, the scope of airnavX will be progressively extended.
+16#TSAF
+12
+Technical data for maintenance
+Ensuring up-to-date technical data
+Customers can log all technical queries in • Troubleshooting manuals now incorporate any maintenance advice quoted
+the TechRequest application, which in technical information documents, such as the Technical Follow-Up
+enables traceability and follow-up document.
+by Airbus and selected suppliers.
+• Aircraft Maintenance Manuals have been optimised to include procedures
+The requests are analysed and answered
+coming from part suppliers, within Airbus’ procedure. The present focus is to
+in this application.
+include procedures that relate to unscheduled maintenance operations.
+At the same time, Airbus uses this
+• Structural Repair Manual has changed to a task-oriented layout, in order to
+customer feedback to launch maturity
+allow direct access and simple navigation to the repair procedure. Weight
+initiatives to detect major and/or recurring
+variant information has been reviewed to show only the most conservative
+issues within the technical documentation.
+variant.
+Its static and flight test teams use the
+maintenance data to detect and correct • Airbus Illustrated Parts Catalogue has been simplified to show only two
+any issue prior to the delivery of data types of message for part interchangeability: ‘spares’, for direct
+to the operator. This helps in improving interchangeability or ‘conditional spares’, requiring a condition to be met or
+the completeness and accuracy of where mixing of the same part numbers is not allowed.
+maintenance and engineering
+• Airbus maintenance documentation is customised for each individual
+documentation.
+aircraft. Cabin and cargo information is by nature highly customised.
+Airbus updates forthcoming documentation
+To adhere to the new reinforced regulatory requirements, Airbus also optimises
+for all impacted aircraft as required
+the content of the Aircraft Maintenance Manual and the Illustrated Parts
+and may provide the operators concerned
+Catalogue documents for an efficient aircraft entry-into-service. This optimisation
+with an update in advance, prior to the
+includes exceptional revisions in addition to the contractual regular revisions.
+next revision, avoiding re-occurrence
+of major issues.
+16#TSAF
+22
+Technical data for maintenance
+Share smart media
+for aircraft maintenance
+airnaveo
+airnaveo is an on-line collaborative platform to share smart media,
+videos, 3D data, and images for aircraft maintenance.
+This application will be available on AirbusWorld and linked to the
+airnavX browser.
+From a maintenance procedure, for example, the end-user will
+have a media icon that opens a page with all available smart media
+configured and applicable to this task. Videos from Airbus
+engineering departments, describing the real maintenance use case,
+images and all 3D animations will be available. Customers can then
+load their own smart data into Airbus’ database. Airbus moderates
+the data which may subsequently be shared with other customers.
+Airbus is working with certifying authorities to allow this data to
+become Airbus Instructions for Continued Airworthiness.
+The pilot phase is planned for mid-2018.
+Developing reliable, cost-efficient IT
+Customers currently download and install maintenance and engineering data into their IT
+environment, allowing them to share data internally, create Job Cards, attach airline proprietary
+documents and re-author or customise Airbus data.
+This data management often generates significant IT investments for operators. Airbus’ aim is
+to reduce these investments by maintaining a high level of availability of the AirbusWorld portal,
+using duplicated Airbus servers and a worldwide Content Delivery Network.
+Future developments will include the ability to attach external documents, for example
+engineering orders, and the option to edit data within Airbus’ online applications.
+All these investments will allow the vast majority of Airbus operators to fully integrate their IT
+environment online with AirbusWorld.
+Establishing industry standards for data exchange
+Airbus is actively participating in the development of the Civil Aviation Technical Data Exchange
+standards, ATA Spec 2000, 2400 and 2500.
+These standards allow aviation actors to build a single system for data coming from different
+sources, establish a stable and agreed interface between the data supplier and the data
+consumer, larger tool choice for users and lower cost for the whole industry.
+The data exchange standards are already being integrated into Airbus processes and services.
+An example of this is Service Bulletin (SB) reporting. Maintenance data is kept complete and
+up-to-date by the operator reporting the embodiment of Service Bulletins to Airbus. Aircraft
+operators used to record the embodiment in their Maintenance Information System (MIS) and
+then report embodiments to Airbus via a specific application. The new standards mean that
+Airbus can better interpret data from the MIS configuration chosen by the customer and
+facilitate automated Service Bulletin reporting.
+16#TSAF
+32
+Technical data for maintenance
+From periodic to real-time updates
+Airbus revises and delivers the main maintenance manuals every three months, with A350 XWB
+and A380 manuals revised every month. Regular revision is especially important during the aircraft
+delivery period; by mid-2019, Airbus plans to also revise the maintenance data every month for
+A320 and A330 families. After the aircraft delivery period, the customer can decide whether to
+maintain a monthly revision cycle or have quarterly revisions.
+The next generation of Airbus documentation will provide real-time technical data. Instead of
+periodic revisions, Airbus will update an online technical data repository as and when the revision
+of data occurs or when an Airbus Service Bulletin (SB) has been reported. This will allow customers
+to extract the latest version of the data at any time via a web application.
+Airbus will start to implement this type of data access with wiring information. From one online
+application, the end-user will be able to generate a complete electrical wiring schematic, configured
+to the aircraft and completely replacing the Wiring Diagram Manual. This new application, called
+GenEWIS, will provide the end-user with clearer readability of complex electrical systems.
+The key enabler to switch to real-time technical data is the “state of the art” structure of such data.
+With a smooth transition plan from 2020 to 2022, Airbus will migrate A320, A330, A340 and A380
+maintenance data from ATA iSpec2200 to the latest industry standard S1000D, used today for
+A350 XWB maintenance data.
+This real-time technical data is a new philosophy for data consultation and exchange. Airbus will
+collaborate with operators, Maintenance, Repair and Overhaul (MRO) organisations, leasing
+companies and of course airworthiness authorities in the development of this new system.
+Generate electrical wiring
+diagrams on demand
+GenEWIS
+(Generate Electrical Wiring Interconnection System)
+Information on electrical components is delivered in sheets of
+drawings; systems are split based on ATA breakdown via the
+Aircraft Wiring Diagram (AWD). Depending on the system,
+several sheets sometimes need to be printed and assembled.
+The amount of data produced by wiring products is growing
+exponentially and Airbus is transforming this information for
+the benefit of operators.
+Starting with the A350 XWB and from the beginning of 2019,
+Airbus will provide a new dynamic view of electrical system
+routing with GenEWIS.
+The Aircraft Wiring List (AWL) database will be used as a
+master to generate wiring diagrams on demand. The end-user
+will have an interactive display capable of showing all electrical
+systems, from very small subsets to much larger drawings.
+Airbus’ intention is to improve the airlines’ efficiency during
+electrical trouble-shooting activities, improve the system
+configuration readability and improve Airbus’ capability to
+provide more frequent electrical updates, everything being
+based on the AWL database.
+ecnanetniam
+tfarcriA
+atad
+lacinhcet
+16#TSAF
+42
+Technical data for maintenance
+From manual consolidation to automatic data delivery
+At Transfer of Title (TOT), operators receive from Airbus the Aircraft Inspection Report
+(AIR), providing a snapshot of all relevant part numbers, serial numbers and functional
+item numbers of the aircraft. Manual consolidation of this data is both time and
+resource consuming for operators.
+To support operators during the entry-into-service, Airbus proposes a unique
+digital solution: Airbus Configuration of Tracked Units at Aircraft Level (ACTUAL).
+This product is delivered online per aircraft and provides the airline maintenance
+and engineering teams with a complete and organised view of all part numbers,
+serial numbers, and functional item numbers of their aircraft.
+Using the latest spec2000 XML format, ACTUAL avoids the risk of manual error and
+offers a clear hierarchical structure of each operator’s aircraft configuration: the parts
+are listed according to their function and position on the aircraft. ACTUAL gives airline
+maintenance teams the ability to automatically load aircraft configuration data directly
+into their Maintenance Information System.
+The Illustrated Parts Catalogue provides end-users with part number information
+including part interchangeability which can be complex, depending on the aircraft
+system. From mid 2018, customers will be able to quickly retrieve the part number
+applicable to one aircraft at a specific location, thanks to a new tool called
+ALLOWABLE. The customer will then be able to extract all this information in
+eXtended Mark-up Language (XML) for direct integration in their Maintenance
+Information System allowing the end-user to refer directly to the airline system
+to get the part number information.
+ecnanetniam
+tfarcriA
+atad
+lacinhcet
+Keep electrical load
+data up-to-date
+ELA Update (Electrical Load Analysis)
+Aircraft increasingly rely on electrically driven components and circuits on their most vital
+systems.
+Airbus help operators manage the electrical load of their aircraft and supports them to meet
+regulatory requirements. With the ELA Update service, Airbus provides operators with a
+revised ELA based upon all reported electrical changes on their aircraft since delivery.
+With ELA Update, Airbus will analyse the impact of an operator’s reported Service Bulletins
+and/or Supplementary Type Certificates and provide them with an updated ELA.
+Airbus has also developed a new training course on ELA Update, to provide airline
+engineering teams with all the skills and knowledge needed to update electrical load
+documentation by themselves.
+Technical data is key for efficiently operating an airworthy aircraft.
+Airbus continuously monitors technological developments and applies
+them to documentation and Information Systems’ functionalities,
+production and methods of transmission.
+Based on end-user feedback, Airbus is constantly enhancing content by
+improving the clarity and accuracy of maintenance and engineering data.
+By investing in new solutions, Airbus is looking to minimise technical data
+management for operators.
+The new browser, airnavX, has been developed to ease consultation of
+this data, allowing operators to have one fast and reliable application to
+access the vast majority of maintenance and engineering data. Latest
+industrial standards are used to deliver and exchange the data with the
+aircraft operators.
+Online access and consultation will continue to be the major axis of
+improvement for the years to come. Collaborative platforms are being put
+in place to share information and smart media.
+Airbus is working on the future, with a real-time technical data concept
+that allows the end-user continuous access to the latest version of
+maintenance data.
+16#TSAF
+52
+Technical data for maintenance
+Get enhanced overview of
+aircraft SB configuration
+ACM+ (Aircraft Configuration Matrix)
+An aircraft’s configuration changes throughout its lifecycle, with upgrades and retrofits
+carried out via Airbus Service Bulletins or Vendor Service Bulletins.
+To follow every modification and its impacts on maintenance manuals, customers can
+use the ACM+ service to have a comprehensive view of their aircraft SB configuration
+associated to a global traceability of SB status.
+The aircraft transfer process between two entities always requires significant
+configuration checks: the ACM+ allows customers to save time during those crucial
+moments.
+Since the beginning of 2017, the ACM+ enables customers to have all configuration
+and applicable Service Bulletins’ status in one place.
+This enhanced version of the ACM contains, when applicable, valuable complementary
+data such as the references of safety publications associated to SBs, e.g.
+Airworthiness Directives or Operations Engineering Bulletins. The ACM+ also indicates
+SBs originating from Vendor SBs and SBs requested by the customer. It provides the
+date of the SB reporting to Airbus and the reference when reported online.
+CONCLUSION
+16#TSAF
+62
+A350 XWB
+vertical stabiliser
+continuous joint
+Precision technology for attachment fittings
+The A350 XWB now uses a more optimal way of connecting
+the stabiliser to the fuselage using a continuous joint.
+This in turn has led to a new and more precise way for
+customers to measure bolt tension.
+Article by
+Raquel HERNANDEZ-GONZALEZ
+A350 XWB In-Service/Maturity Manager
+Chief Engineering Office
+AIRBUS
+raquel.hernandez-gonzalez@airbus.com
+16#TSAF
+72
+A350 XWB vertical stabiliser continuous joint
+This new A350 XWB design concept provides a more
+evenly distributed transfer of loads along the joint
+between the vertical stabiliser and fuselage.
+The fuselage interface includes a set of tension and shear fittings that continuously
+connects the shells, stringers and spars of the vertical stabiliser centre-box to the skin
+and frames of the unpressurised rear fuselage structure.
+The optimised load distribution in the joint reduces requirements for redundancies in
+each bolt compared to the classic multi-lug concept. This allows better stress control
+and reduces structural weight, improving fuel performance as a consequence.
+In addition, with no external fairing required thanks to the joint, there is less drag which
+again contributes to fuel efficiency.
+Traditional lug attachment Tension bolt system
+In previous aircraft families, the attachment principle of the vertical stabiliser
+consisted of a multi-lug joint assembled with tapered bolts and sleeves.
+This A350 XWB design enabled the development of a new torque system using the
+latest ultrasonic technology for tension measurement.
+The ability to measure more accurately led to reduced tolerance margins taken in the
+definition of the continuous joint and more precision when monitoring its situation once
+in-service.
+T10 T9 T8 T7 T6 T5 T4 T3 T2 T1
+FR94 FR95 FR96 FR97 FR98
+T20 T19 T12 T11
+T18 T17 T16 T15 T14 T13
+The A350 XWB vertical stabiliser is held in place with 20 tension bolts
+that optimise the load distribution over a continuous joint.
+A350 XWB vertical stabiliser continuous joint
+16#TSAF
+82
+The tension bolts are standard parts, and are installed at the inner side of the vertical
+stabiliser skin. The diameter of the bolts in each frame is different depending on the
+P[kN] load to be supported.
+These bolts are pre-loaded with nominal tension values in accordance with design
+specifications. The tension value in the joint is defined by taking into consideration
+a relaxation of the preload values, to a certain extent, during the first days after
+installation. The preload of the tension bolts is monitored during operational life.
+This monitoring has been included as a mandatory task of Airworthiness Limitation
+Section Part 2 of the A350 XWB Maintenance Programme, and is performed every
+3600 flight cycles or 3 years whichever comes sooner.
+When conducting this maintenance task, preload values per location and temperature
+of the joint should be noted. Minimal nominal preload values for each frame location
+-3a2re° Cdifferent and are dependent on temp2e0ra°tuCre because tension bolt material
+expansion influences ultrasonic measurement and the value has to be adapted to the
+material’s thermal expansion coefficient. The principle of this behaviour is shown in the
+following graph. Depending on the preload value found when measuring, operators
+have to proceed accordingly.
+Bolt calibration data principle
+Tension bolts for the A350 XWB vertical stabiliser and fuselage continuous joint have a
+sensor on their head that can be read by an ultrasonic measuring device. This ultrasonic
+device allows precise control when preloading the bolt during installation on the Final
+Assembly Line.
+The precision of ultrasonic measurement enables the use of smaller diameters, thereby
+increasing structural strength, compared to tension bolts without sensors. If the
+measurement when applying the load is more precise, the required tolerance is lower.
+In the past, high tolerance levels have been given for pre-tension values due to the
+friction during load application.
+This method also allows the use of a simple measurement tool during required
+maintenance checks that is key for guaranteeing the required bolt preload value
+for the continuous joint’s in service performance.
+Bolt Calibration Data (BCD) is needed to adjust the tension value measured in line with
+the specific physical properties of the bolt and its behaviour (how it elongates) under
+load and temperature. This data for each bolt’s characteristics is provided by the
+supplier. The data is retrieved by the tool thanks to the Identification (ID) Number
+embedded in the sensor.
+?esaelp
+seulav
+eht
+evah
+ew
+nac
+No action
+GP? allowed
+as per MP?
+Contact Airbus
+depending
+on values
+62°C
+-32°C 20°C
+notwenolik
+)Nk(P
+eulav
+daolerP
+No further action required
+Maintenance to be planned
+as per procedure
+Maintenance required
+62°C
+Preload measurement principle
+Time
+Echo Pulse
+During tightening: • Tension bolt elongates with load
+Sensor
+• Time between pulse and echo increases with load
+Change in time is directly proportional to load
+Ultrasonic
+wave
+16#TSAF
+92
+A350 XWB vertical stabiliser continuous joint
+These sensors are equipped with a 2-dimensional bar code which contains a
+12-digit ID, so that every bolt is uniquely identified.
+This ID is specific to each individually manufactured bolt and corresponds with that
+bolt’s data on an automatic database, called Bolt Calibration Data (BCD), which
+contains all information relevant to the traceability of the bolt (lot number, bolt
+manufacturer, date of calibration, characteristics of the raw material, etc…).
+This database is uploaded to the measurement tool which compares the time of an
+ultrasonic wave travelling in the material, to establish the tension value of the bolt.
+16#TSAF
+03
+A350 XWB vertical stabiliser continuous joint
+Vertical stabiliser installation overview and management A350 vertical stabiliser tension bolt
+delivery procedure
+of bolt calibration data in Airbus
+The new continuous joint concept, along with the ultrasonic measurement of the Manufacturing company
+tension bolts, required a new approach to the installation of the vertical stabiliser
+Manufacturing
+in the Final Assembly Line.
+of the mechanical elements
+The A350 XWB’s vertical stabiliser is installed with a specific sequence on the (forging, machining…)
+tightening of the tension bolts depending on their location. The tool used for tightening
+is uploaded with the Bolt Calibration Data. It then automatically reads the ID of the bolt
+and applies the correct load related to the specific location and the temperature
+measured. Calibration company
+The preload values, ID and location of each of the twenty tension bolts are recorded Placing the piezoelectric sensor
+following a specific work order. The IDs are then provided to the customer in the
+Product Quality Report (PQR) that is delivered with aircraft documentation.
+Calibration of the bolt batch
+After installation, the preload value is measured again after 12 hours to check that
+(regular speed of the ultrasonic wave
+the values are above the nominal ones after the expected preload relaxation.
+with no pre-load)
+The BCD is updated with newly manufactured bolts and the files comprising the BCD
+are cumulative files that contain all data of tension bolts manufactured by the supplier
+(see boxes to the right).
+Manufacturing company
+In order to ensure proper management of the BCD associated to the tension bolt’s
+logistic management within the FAL, a dedicated team ensures that this data is Lubrication of the bolt
+and batch delivery
+uploaded to the applicable tools. The Airbus Customer Services team then publishes
+it in AirbusWorld, the customer portal.
+AIRBUS
+Ensuring in-service support for customers Reception with Quality conformance
+inspection in accordance with ABS
+To enable airlines to perform this scheduled maintenance task, Airbus has defined the
+reference standard documentation
+necessary support means for monitoring the preload value of tension bolts in the
+vertical stabiliser’s continuous joint. This support is covered by Airn@v Maintenance, Batch with appropriate package
+Ground Support Equipment (GSE) and other data such as the BCD. and documentation plus
+Bolt Calibration Data
+How to measure the preload value
+The maintenance procedure required of airlines is a Special Detail Inspection (SDI)
+on which the preload of the tension bolts is to be measured every 3600 flight cycles
+or 3 years, whichever occurs first. This SDI procedure is the reference MP A350-A-55-
+3X-XX-02001-301A-A in the Airn@v Maintenance. This procedure requires that the
+aircraft is in a hangar to maintain stabilised temperature across the structure assembly
+due to the preload’s dependence on temperature.
+Access to the area is through the door on S19, with installed platforms and a ladder
+to reach tension bolts on the S19 top frames.
+Difference in pressure probe for bar code
+The measurement tool which is prepared with a Pre-Load Indication (PLI) system is
+scanning and load measurement
+the LoadMaster 3600 (LM3600). This tool, once uploaded with the BCD, is able to
+start the process to read the preload value. The tool is then calibrated before carrying
+out the bolt measurement, following the appropriate indications provided in the GSE
+user guide.
+When using the probe of the measurement system, the sensor should be very clean
+and the approach to the tension bolt sensor should be done in two steps: first bar-
+code scanning and second, load measurement. The difference between these steps is
+in the pressure applied to the probe on the sensor as shown in the figure to the right.
+16#TSAF
+13
+A350 XWB vertical stabiliser continuous joint
+Frame temperature Bar code reader
+measurement tool and ultrasonic
+load measurement tool
+The LM3600 measurement tool has a temperature sensor that should be located in
+Measurement of location temperature the frame of the tension bolts to be measured.
+Once the measurements have been done, the preload values and ID of the tension
+bolts should be noted in the report included in the Maintenance Procedure (MP).
+The completed report should be sent back to Airbus (mpdtask.reports@airbus.com).
+If measured values in-service are found to be outside of the recommended ones as
+per design, the re-torque of tension bolts needs performing to restore the nominal
+values. Depending on the specific value, this action should be undertaken in a different
+timeframe, following the indications provided in Airbus publications. Airlines can either
+purchase or lease the required GSE as per MP A350-A-55-3X-XX-02001-301A-A in
+Airn@v Maintenance.
+The full MP A350-A-55-3X-XX-02001-301A-A can be done within two days with two
+mechanics. Customers can consult a dedicated video covering the topic on AirbusWorld.
+Airbus also offers airlines specific working parties to conduct both measuring and
+tightening as required. Operators can request via: embodiment-operations@airbus.com.
+The Airbus working party will provide tailored services including GSE provisioning.
+Feedback for enhanced support
+Airlines can benefit from enhanced support by reporting the MP A350-A-55-3X-XX-
+02001-301A-A inspection to Airbus, including the preload measurements and the
+basic values for conditions of measurement. This reporting allows Airbus to gather
+data from the field to enhance in-service support for airlines, as well as contributing
+to the Airbus global fleet-monitoring database.
+This information, coupled with data already generated by Airbus, will enable an
+informed analysis of whether the relaxation of the preload value over time correlates
+with test data. If sufficient data is gathered and with positive results, the objective
+is to increase the inspection interval for preload value checks of A350 XWB
+in-service aircraft.
+CONCLUSION
+The new design concept for the A350 XWB vertical stabiliser enables a more even load distribution and
+contributes to fuel efficiency thanks to improved stress management, reduced drag and weight loss.
+Tension bolts are now used to connect the stabiliser to the fuselage and ultrasonic technology enables precise
+measuring of the bolt preload value. Operators can carry out the measuring and any necessary adjusting
+themselves or request support from Airbus. Further details can be found in Airn@v Maintenance on the Airbus
+World customer portal.
+16#TSAF
+23
+Suppor ting
+ageing
+Article by (left to right)
+Isabelle REMAURY-LANDO
+fleets A330/340 Family Programme Support Manager
+AIRBUS
+isabelle.remaury-lando@airbus.com
+Delphine MEUNIER
+A300/310 Family Programme Support Manager
+AIRBUS
+Scheduling the unscheduled delphine.meunier@airbus.com
+Hugo Alberto QUIJANO FIALLOS
+A320 Family Programme Support Manager
+AIRBUS
+hugo-alberto.quijano-fiallos@airbus.com
+There are currently around 10,000 Airbus
+aircraft in-service, with the whole fleet
+growing at an increasingly faster rate.
+And the ageing Airbus fleet is set to more
+than triple over the next 10 years.
+These aircraft require particular attention.
+Airbus has carried out in-depth studies
+to address ageing issues in terms of risk
+evaluation, anticipation and appropriate
+mitigations.
+DSG
+Design
+Service
+Goal
+Entry ESG
+Into Aircraft lifecycle Extended
+Service Service Goal
+Early years Maturity Ageing
+16#TSAF
+33
+Supporting ageing fleets
+Airbus fleet age profiles
+700
+600
+500
+400
+300
+A300/A310
+200 A320 Family
+100 A330/A340
+0
+900 2027 projection
+800
+6,655 aircraft ≥ 15 years
+700
+600 4,044 aircraft ≥ 20 years
+500
+400
+300
+200
+100
+0
+1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45
+Airbus considers that an ageing aircraft is one that has been in service for around
+15 years and/or has reached half of its Design Service Goal (DSG) limit.
+Operators looking to keep their aircraft in service as long as possible can benefit
+from different support:
+Extending the aircraft life
+The aircraft life can be extended beyond its original recommended limit, in line with
+Airbus recommendations or ESG (Extended Service Goal)
+Once an aircraft is in service, it accumulates Flight Cycles (FC) and Flight Hours (FH)
+up to the “Design Service Goal”, meaning the point up to which the maintenance
+programme has been validated. However, aircraft can actually be operated beyond
+this point if the ESG – Extended Service Goal – has been applied.
+Refer to page 37
+for more about
+the definition
+of service goals.
+Anticipating for areas affected by ageing
+Being able to foresee ageing issues and thereby plan maintenance in advance is key
+and Airbus has been working alongside airlines to anticipate their needs. The areas
+affected by ageing are the aircraft structure, which result in fatigue and corrosion,
+and systems performance.
+tfarcria
+fo rebmuN
+tfarcria
+fo
+rebmuN
+End 2017
+2,026 aircraft ≥ 15 years
+1,137 aircraft ≥ 20 years
+1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35
+Aircraft age in years
+Aircraft age in years
+16#TSAF
+43
+Supporting ageing fleets
+Structure: facing fatigue
+The accumulation of Flight Cycles (FC) and Flight Hours (FH) can cause cracks in fatigue-sensitive areas.
+Specific inspections have therefore been introduced in the maintenance programme. In addition, the risk
+assessment helps anticipate potential aircraft ground-time overrun, and provides visibility to assist
+management decision-making.
+To anticipate specific maintenance on ageing aircraft, Airbus made a
+complete review of all mandated fatigue-related inspections which were
+part of the Airworthiness Limitation Section (ALS) Part 2, published
+inspections resulting from fatigue; this review was based on fatigue test
+results and customer in-service feedback.
+It focused on Airworthiness Limitation Items (ALI) identified with high
+finding rates and complex repairs requiring a significant time to embody.
+The result was the development of pre-defined repair solutions, spares,
+tools and hardware provisioning in anticipation of customers’ needs.
+To identify fatigue-crack critical areas, Airbus established a specific process
+that provides continuous assessment of the fleet:
+Step 1 Risk versus in-service effect
+Airbus calculates the probability of findings at fleet level and assesses repair
+complexity in case of findings
+Step 2 Optimisation of inspections
+and definition of solutions
+Based on the critical findings from step 1, an analysis is launched to see if
+there are opportunities for:
+• Optimisation of inspection thresholds and intervals
+• Forward fit and retrofit modifications
+• Additional repair solutions taking into account already
+available repair solutions
+Once identified, those areas still judged as highly critical are retained
+and taken to step 3
+16#TSAF
+53
+Supporting ageing fleets
+Step 3 Implementation of solution
+For each of the previous identified areas of improvements/
+opportunities, the final step is to secure:
+• Inspection documentation update with appropriate threshold and interval
+• Modification development and certification
+• Development of new repair solutions in various formats such as Structural
+Repair Manual (SRM) update, Pre-Defined repair Solutions (PDS), single
+part replacement
+Finally for these actions, associated material availability is reviewed accordingly.
+The detailed content of the kits depends on the type of finding, the initial
+configuration of the aircraft and any repairs already performed in the area.
+Consequently, to avoid work stoppage during maintenance checks, Airbus has
+speculated on the most probable configurations of kits and stocked them in
+SATAIR warehouses.
+Structure: coping with corrosion
+Similarly to the above fatigue-related methodology, Airbus reviewed more
+than 40,000 inspection reports coming mainly from Maintenance Planning
+Document (MPD) inspections and reports relating to corrosion findings.
+As an illustration of the analysis, Airbus were able to confirm for
+A330/A340 Family and A320 Family that 80% of the reported findings
+come from only 20% of the total number of existing inspection tasks.
+Airbus is currently focusing on:
+• Effectiveness of modification (monitoring)
+• Spares availability
+• Repair/Allowable Damage Limit (ADL) improvements
+• Continued monitoring of the in-service fleet findings in the coming years
+to adapt recommendations and maintenance tips
+To ensure that this fleet monitoring is based on representative in-service
+data, Airbus encourages operators to report inspection results to them,
+such as no findings, or findings within and above the ADL.
+16#TSAF
+63
+Supporting ageing fleets
+Systems: recommendations and solutions
+Aircraft systems are reviewed in order to establish appropriate The outcome of this A330/A340 working group confirmed for
+actions that limit the effects of ageing. all identified topics that either:
+As agreed with airlines, the main system operational drivers to • The topic is already known and the solution is available
+focus on were:
+• The topic is already known and Airbus is currently working
+ATA 21/36 - Air systems on defining a solution or maintenance recommendation.
+Discussions continue between airlines and Airbus to follow
+ATA 27- Flight Controls
+up activities related to these topics
+ATA 28 – Fuel systems
+• The topic is a non-issue and airlines agreed no engineering
+ATA 29 – Hydraulic systems activities should be pursued.
+ATA 32 – Landing Gear systems Finally, it was also demonstrated that there is no apparent
+ageing effect on components which are often removed from
+For the A300/A310 Family, as requested by operators during
+aircraft and maintained through shop activities (overhaul).
+the 2015 symposium in Berlin, best practices and preventive
+maintenance actions have been compiled (refer to A300/A310
+Example:
+ISI 00.00.00194 in AirbusWorld).
+The main area of concern is around items remaining on the
+Best practices and preventive maintenance actions have also
+aircraft (e.g. hydraulic/fuel line…), for which a number of
+been compiled for the A320 Family and presented to the
+maintenance tips and recommendations are already
+operators during the 2017 symposium in Berlin (refer to A320
+available through Airbus WISE Knowledge Management
+ISI 00.00.00248 in AirbusWorld).
+system (ISI articles as shown in below illustration
+Similarly, for the A330/A340 Family, a FAIR Face-to-Face – A330/A340 ISI 29.00.00160
+working group with airlines was launched in 2016. Following a – A320 ISI 29.00.00012).
+review of recommendations already published in WISE articles/
+ISIs and after further discussions with airlines, very few
+additional areas of investigation were identified.
+GLOSSARY A300/A310 Family symposium
+ADL Allowable Damage Limit (2015, Berlin)
+Solutions for Ageing Aircraft
+ALI Airworthiness Limitation Item
+ALS Airworthiness Limitation Section
+DSG Design Service Goal
+ESG Extended Service Goal
+FC Flight Cycles
+A330/A340 Family Americas
+FH Flight Hours
+Regional conference
+ISG Intermediate Service Goal
+(2016, Miami)
+ISI In-Service Information Supporting ageing fleet,
+ISB Inspection Service Bulletin Extended Service Goal and
+MPPT Maintenance Programme Publication Trigger Widespread Fatigue Damage
+MRBR Maintenance Review Board Report
+WISE World In-Service Experience
+>AirbusWorld
+A320 >Content Library
+Family >Maintenance & Engineering
+ageing
+support
+16#TSAF
+73
+Supporting ageing fleets
+Defining service limits
+When previous Airbus programmes were launched, aircraft were certified with an
+objective to reach a specific Design Service Goal (DSG), defined in terms of Flight
+Cycles or Flight Hours (refer to table below).
+In order to support Airbus aircraft which were actually reaching their DSG limit faster
+than anticipated, Airbus launched appropriate engineering studies to certify an increase
+in FH for some aircraft types: this was called the Intermediate Service Goal (ISG).
+Studies continued for the Extended Service Goal (ESG) for additional life extension.
+The table below gives the values for DSG, ISG and ESG.
+Airbus Extended Service Goal packages can enable operators to increase the
+operational lifetime in terms of flight hours and flight cycles. This can bring up to 10
+years or more of additional revenue service above the initial design objectives.
+Another limitation was also introduced by the FAA in the frame of the FAR26 new
+regulation on widespread fatigue damage topic: Limit of Validity (LoV) which is not to
+be mistaken with the DSG/ISG/ESG definition as it has no relation to this limit.
+These definitions have been completed by a new term which is being used in the
+Airworthiness Limitation Section documents: the Maintenance Programme
+Publication Trigger (MPPT) which is the equivalent to former DSG/ISG/ESG
+depending on the aircraft configuration.
+DSG ISG ESG
+FC FH FC FH FC FH
+A300 B2 48,000 52,000 NA NA 48,000 75,000
+A300 B4-100 40,000 53,000 NA NA 48,000 75,000
+A300 B4-200 / C4 / F4 34,000 70,000 NA NA 48,000 75,000
+A300-600 30,000 67,500 NA NA 51,000 89,000
+A310 35,000 60,000 NA NA 40,000 116,000
+A318 48,000 60,000 NA NA NA NA
+A319 48,000 60,000 60,000 120,000
+A320 48,000 60,000 37,500 80,000 60,000 120,000
+A321 48,000 60,000 60,000 120,000
+Pending certification planned Q1 2018
+A330-200 (WV 000 and WV 020 series) 40,000 60,000 33,000 100,000 40,000* 130,000
+*A330 (WV000 & 020) FC limit for aircraft structure is 44,000 FC
+A330-300 (WV 000 and WV 020 series) 40,000 60,000 33,000 100,000 40,000* 126,000
+TBD: Engineering activities starting mid-2018 for A330 WV050
+(ESG objectives similar to A330 basic) A330 (WV 50 series) 33,000 100,000 NA NA TBD TBD
+TBC: To be confirmed if required depending on A340-500 /600 A330neo 33,000 100,000 NA NA TBD TBD
+future operations A340-200 20,000 80,000 20,000 100,000 25,000 134,000
+A340-300 (WV 000 and 020 series) 20,000 80,000 20,000 100,000 31,000 156,000
+A340-300 (WV 50 series) 20,000 100,000 NA NA TBD TBD
+A340-500/600 16,600 100,000 TBC TBC TBC TBC
+E.g. Describing a customer’s A340-200
+- Previous terminology: The aircraft had a DSG of 20,000 FC and 80,000 FH. This could then be extended
+to an ISG of 20,000 FC and 100,000 FH by implementing Service Bulletin (SB) A340-00-4065, then to an
+ESG of 25,000 FC and 134,000 FH by implementing SB A340-00-4001 if the operator wanted.
+- New terminology: The aircraft has an MPPT value. This is equivalent to the former DSG, ISG or ESG
+values and depends on aircraft configuration (pre or post the above SBs).
+CONCLUSION
+As an aircraft ages, it is likely to require attention to its structure and systems. Anticipating potential findings,
+repair solutions and parts availability can significantly contribute to optimising maintenance planning and to
+ensuring aircraft availability.
+Airbus engineering teams have identified the main structural areas to focus on. Modifications and repair
+solutions are already available or in development. On the systems side, in cooperation with airlines,
+Airbus has developed maintenance best practices and recommendations to better manage ageing fleets.
+Recommendations and solutions have been communicated to Airbus customers via regular meetings or are
+available in the AirbusWorld portal. Airbus continues to monitor and strongly support ageing aircraft in order
+to respond to customers’ needs and expectations.
+egatireH
+etaroproC
+subriA
+fo
+ysetruoc
+otohP
+FAST
+from the past
+There wouldn’t be any future
+without the experience of the past.
+Not so very long ago in 1985, the first Carbon Fibre Reinforced Plastic
+vertical tail spar box for the A310-A300 started series production
+at the Messerschmitt Bölkow-Blohm stabiliser plant in Germany.
+The component is nine metres high, 3.1 metres wide at the bottom
+and 1.4 metres wide at the top. At the time, it was the largest primary
+structure ever developed and manufactured for a civil aircraft.
+16#TSAF
+83
+06#TSAF
+34
+Around the clock, around the world
+Airbus has more than 300 field representatives, based in over 130 cities
+Technical, Material & Logistics
+USA/CANADA Airbus Technical AOG Centre (AIRTAC) Spares RTN/USR, WSP and HMV Orders
+Tel: +1 703 834 3484 Tel: +33 (0)5 6193 3400
+For Europe, Africa, Middle East,
+Fax: +1 703 834 3464 Fax:+33 (0)5 6193 3500
+Asia-Pacific & China: Please contact your
+airtac@airbus.com
+dedicated Single Point of Contact (SPOC).
+CHINA
+More info:
+Tel: +86 10 8048 6161 Ext. 5020 AOG Spares Centre of Competence
+Tel: +49 (0)40 5076 4002
+Fax: +86 10 8048 6162
+For Europe, Africa, Middle East, Fax: +49 (0)40 5076 4012
+Asia-Pacific & China: ifd.spares@airbus.com
+FIELD SERVICE SUPPORT
+Tel: +49 (0)40 5076 4001
+ADMINISTRATION For Americas:
+Fax: +49 (0)40 5076 4011
+Tel: +33 (0)5 6193 3936 Please contact your dedicated
+aog.spares@airbus.com
+Fax: +33 (0)5 6193 4964 Single Point of Contact (SPOC).
+For Americas: More info:
+Tel: +1 70 3729 9000 cod.americas@airbus.com
+Fax: +1 70 3729 4373
+aog.na@airbus.com
+Training centres
+Airbus Training Centre Airbus Training Centre Americas Training by Airbus Jakarta
+Toulouse, France Miami, Florida - U.S.A. antoine.renaud@airbus.com
+Tel: +33 (0)5 62 11 82 24 Tel: +1 (305) 871-3655 (switchboard)
+or +33 (0)5 61 93 39 75 Fax: +1 305 871 4649 Airbus Asia Training Centre Singapore
+Fax: +33 (0)5 6193 2094 miamicustomertrainingsales@airbus.com Tel: +65 6877 4300 (reception)
+training.commercial@airbus.com contact.info.aatc@airbus.com
+customercare.atc-europe@airbus.com Airbus Training Centre Beijing
+Tel: +86 10 80 48 63 40 - 3017/3016 Airbus Mexico Training Centre
+Airbus Maintenance + 86 10 80 48 65 Tel: +52 55 57 86 80 50
+Training Centre (communication and marketing)
+Hamburg, Germany Airbus Training Centre Bangalore training.commercial@airbus.com
+Tel: +49 (0)40 7438 8288 Tel: 91-080-6638230 (reception)
+Fax: +49 (0)40 7438 8598 Training by Airbus Korea,
+training.commercial@airbus.com Airbus Training Centre Delhi Seoul, South Korea
+atc.hamburg@airbus.com Tel: +91 9880065511 Tel: +82 (0)32 882 5425
+andrew.rapson@airbuskorea.com
+Airbus Material Management Training Training by Airbus Dubai,
+Global Availability UAE - Airbus Middle East FZE Dubai
+Tel: +49 (0)40 5076 1228 Tel: +971 4 602 78 62
+spares.training@airbus.com mary-knoll.garcia@airbus.com
+16#TSAF
+93
+LESS FUEL.
+FLY
+WE MAKE IT
+At 4000nm the A321LR has the biggest
+range of any new single aisle aircraft
+in the world. Not only is it capable
+of opening the door to the long-haul
+market, it can do so with an incredible
+30% reduction in operating costs.
+But it’s not just designed to impress
+CFOs with unbeatable fuel effi ciency.
+It is available with our state-of-the-art
+Airspace cabins to give passengers
+unparalleled comfort too.
+Long-haul. We make it fl y.
+airbus.com
+14031_AIR_A321LR_TIME ZONES_297x210mm_Master_1.4.indd 1 01/03/2018 10:14

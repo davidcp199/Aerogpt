@@ -1,0 +1,2282 @@
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+4
+4
+T
+S
+A
+F
+FAST
+44
+J U L Y 2 0 0 9
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+“Ifyouwanttosaynothing,writeabook.Ifyouwantto I take this opportunity to pay tribute to the quality work
+saysomething,writeanarticle”. done by Kenneth.Thanks to his long aviation experience
+I like this saying and I must say that over the past years andexcellenteditorialskills,hehasbeeninstrumentalin
+our FAST magazine editors made use of it as a kind of keeping the level of quality of the magazine at high
+goldenrule. standards.Thisisconfirmedbythecustomersatisfaction
+ForatechnicalmagazinelikeFAST,theroleofaneditor surveys regularly done by Airbus Customer Services
+iskey.He/shemustensurethatthequalityofthearticles whereFASTmagazineachieveshighscores.
+meets our readers’ expectations. It’s not an easy task Kenneth will be sorely missed, but after a long career in
+considering the high level of technical expertise of our Airbus, his retirement is well earned, so my colleagues
+readership as well as its diversity: Aircraft engineers, andIwouldliketothankhimforhisexceptionalworkand
+maintenance specialists, pilots, performance engineers, wishhimwellinhisretirement.Ifeelconfidentthatyou,
+etc. The editor must also ensure the content of the thereadersofhiswork,willfeelthesameandthereforewe
+magazineiswellbalanced;thatthetopicsareofinterest willwishhimwellonyourbehalf.
+andmakesurecomplexsubjectsaretreatedinawaythat
+isattractiveandunderstandable. Our new FAST editor is Lucas BLUMENFELD. Lucas
+(47) isAmerican and French. He has a good knowledge
+YoumaywonderwhyIamsharingmyviewswithyouon of Airbus aircraft having worked in the Flight Test
+‘theeditor'srole’? departmentofourcompany,aswellasinEngineeringas
+The reason is simple. FAST magazine is now celebrating aContinuedAirworthinessEngineer.Hisbackgroundisin
+its 26th year. Over this past quarter century - a nice aircraft interiors’refurbishment and cabin upgrades. He
+longevity!-onlytwopersonsheldthepositionof‘editor’: holds a degree in Surfaces Chemical Physics and Flight
+DenisDEMPSTER,until2004whenheretired,andsince Operations. My colleagues and I welcome Lucas to the
+then Kenneth JOHNSON. Today, we turn a page in the Airbus Customer Services Communications team and
+history of this magazine. Kenneth is retiring and a new wishhimwellinhisnewtask.
+editor,thethirdone,istakingtherelay.
+BrunoPIQUET,
+FASTmagazinepublisher
+JJ UU LL YY 22 00 00 79
+4404
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+A320Family
+Maintenanceplanningescalationpackage
+Pierre-JeanGARROT
+FuelTankInertingSystem
+alsocalledFlammabilityReductionSystem(FRS)
+Aretrofitindustrialchallengeforthenextdecade
+AlainLEROUX
+Publisher:BrunoPIQUET SammyBOUGACI
+Editor:LucasBLUMENFELD LaurentSEGUY
+Pagelayout:Quat’coul
+Brake-to-Vacatesystem
+Cover:
+A380mainlandinggear,seearticleonpage17 Thesmartautomaticbrakingsystemforenhanced
+AuthorizationforreprintofFASTMagazinearticlesshouldberequested surfaceoperations
+fromtheeditorattheFASTMagazinee-mailaddressgivenbelow FabriceVILLAUMÉ
+CustomerServicesCommunications
+Tel:+33(0)561934388
+Fax:+33(0)561934773 ImplementingRNPAR
+e-mail:fast.magazine@airbus.com
+Theoperationalapprovalprocess
+Printer:Amadio
+MatthiasMAEDER
+FASTMagazinemaybereadonInternet ErwanCADOT
+http://www.content.airbusworld.com/SITES/Customer_services/index.html
+under‘Quickreferences’
+ISSN1293-5476 JunkersG.38
+©AIRBUSS.A.S.2009.ANEADSCOMPANY Firstairbrakesystem
+Allrightsreserved.Proprietarydocument
+CustomerServices
+BytakingdeliveryofthisMagazine(hereafter“Magazine”),youacceptonbehalfof
+yourcompanytocomplywiththefollowing.Nootherpropertyrightsaregrantedbythe Events
+deliveryofthisMagazinethantherighttoreadit,forthesolepurposeofinformation.
+This Magazine, its content, illustrations and photos shall not be modified nor
+reproducedwithoutpriorwrittenconsentofAirbusS.A.S.ThisMagazineandthe CustomerServicesWorldwide
+materialsitcontainsshallnot,inwholeorinpart,besold,rented,orlicensedtoany
+Aroundtheclock...Aroundtheworld
+thirdpartysubjecttopaymentornot.ThisMagazinemaycontainmarket-sensitiveor
+otherinformationthatiscorrectatthetimeofgoingtopress.Thisinformationinvolves
+a number of factors which could change over time, affecting the true public
+representation.Airbusassumesnoobligationtoupdateanyinformationcontainedin
+thisdocumentorwithrespecttotheinformationdescribedherein.Thestatements
+madehereindonotconstituteanofferorformpartofanycontract.Theyarebasedon
+Airbusinformationandareexpressedingoodfaithbutnowarrantyorrepresentation
+isgivenastotheiraccuracy.Whenadditionalinformationisrequired,AirbusS.A.Scan
+becontactedtoprovidefurtherdetails.AirbusS.A.Sshallassumenoliabilityforany
+damageinconnectionwiththeuseofthisMagazineandthematerialsitcontains,even
+ifAirbusS.A.Shasbeenadvisedofthelikelihoodofsuchdamages.Thislicenceis
+governedbyFrenchlawandexclusivejurisdictionisgiventothecourtsandtribunalsof
+Toulouse(France)withoutprejudicetotherightofAirbustobringproceedingsfor
+infringementofcopyrightoranyotherintellectualpropertyrightinanyothercourtof
+competentjurisdiction.
+Airbus,itslogo,A300,A310,A318,A319,A320,A321,A330,
+A340,A350,A380andA400Mareregisteredtrademarks.
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+44TSAF
+2
+8
+17
+26
+31
+32
+33
+ThisissueofFASTMagazinehasbeenprinted
+onpaperproducedwithoutusingchlorine,toreduce
+PhotocopyrightAirbus
+Photocredits: wasteandhelpconservenaturalresources.
+AirbusPhotographicLibrary,exmcompany,AirbusFrance Everylittlehelps!
+1
+A320FAMILY-MAINTENANCEPLANNINGESCALATIONPACKAGE
+44TSAF
+A320 Family
+Maintenance planning
+escalation package
+Structure improvements are provided by Airbus Planning Document (MPD) escalation. This
+Upgrade Services to enable structures’ main- escalation is a concrete benefit for airlines
+tenance tasks escalation from five to six years. that can reduce their direct maintenance costs
+This article presents the Service Bulletin (SB) related to corrosion inspections by an esti-
+package necessary to achieve such Maintenance mated20%.
+Pierre-JeanGARROT
+DesignManager
+UpgradeServices
+AirbusCustomerServices
+2
+A320FAMILY-MAINTENANCEPLANNINGESCALATIONPACKAGE
+Figure1
+Task531189 Task534195
+BeforeSB53-11985years BeforeSB53-1194and53-12075years
+AfterSB53-11986years AfterSB53-1194and53-12076years
+FR12 FR21 FR24 FR35.8 FR46 FR66FR68FR70
+Forwardentrancearea Aftentrancearea
+Task531166 Task531194 Task532180 Task534143
+BeforeSB53-11985years BeforeSB53-11985years BeforeSB53-11935years BeforeSB53-1121and53-12025years
+AfterSB53-11986years AfterSB53-11986years AfterSB53-11936years AfterSB53-1121and53-12026years
+Fluidpathinforward
+andaftentrancearea
+Figure2
+The interval for the vast majority
+of structure maintenance tasks,
+NonTextileFloor(NTF)
+initially scheduled at five years, GlassFibre
+was extended to six years for the ReinforcedPlastic(GFRP)
+A320 Family, during the year
+2004. In order to harmonize all
+Sealant
+structures’ maintenance tasks
+Mylarfoil
+formerly from five years to the
+Cord
+new six years interval, some
+technical enhancements were
+deemednecessaryinareassuscep- Foam
+Panel
+tible to corrosion (see figure 1).
+Whilst the original design fully
+Bolt
+meetsmaintenanceobjectives,itis
+Clipnut
+clearly beneficial to operators to
+Longitudinalbeam
+extendthecheckinterval.
+The corrosion discovered in a
+limited number of cases was
+caused by fluid ingress from
+galleys, lavatories and door en-
+trances. The most significant
+impactwasfoundinthewetareas
+of the forward and aft cabin (see
+figures2and3).
+44TSAF
+Structures’maintenance
+tasksmapping
+Floorstructurecorrosion
+typicaldamageimpact
+Figure3
+Clipnuts Hardpoint
+holes fittings
+Wrongtoolused
+Floorpanel
+atfloorpanel
+junction
+removal
+End
+Doorsill
+ofcrown
+3
+A320FAMILY-MAINTENANCEPLANNINGESCALATIONPACKAGE
+44TSAF
+As‘gainingaccess’totheimpacted The technical enhancements ne-
+area and performing the job is cessary to escalate the inspection
+costly in terms of embodiment interval years have gradually
+time, installation during the heavy been introduced in production
+maintenance check is strongly since 1996 and made available
+advised to avoid unnecessary for retrofit in 2007 (refer to
+downtime. Service Information Letter (SIL)
+Table1
+1 53-093). They consist mainly of
+the following package of Ser-
+vice Bulletins: 53-1121, 53-1198,
+53-1191, 53-1193, 53-1194, 53-
+1202and53-1207.
+Maintenance
+Planning
+Document
+escalation
+SB package
+TheSBpackagenecessarytoenable
+Maintenance Planning Document
+(MPD) escalations is composed
+of one optional SB and six
+standard SBs; all of these are
+grouped in a package as it is
+appropriate to embody them
+simultaneously during the heavy
+maintenance check as currently
+scheduled at five or 10 years.
+TheseSBsarelistedintable1with
+their technical contents and
+manufacturingembodimentpoint.
+Another MPD task 575150, listed
+in SIL 53-093, has not been
+2 includedinthispackageduetothe
+fact that the linked SB 57-1118,
+which allows the escalation from
+fivetosixyears,ismandatory.
+Focus
+on SB 53-1198
+Due to the diversity of cabin
+configurations amongst airline
+fleets,theforwardareaisthemost
+customized part of the aircraft.
+SB 53-1198 was specifically
+developed for this area of restrict-
+edaccessibility(beinganoptional
+SB providing a customized solu-
+tion per aircraft – in contrast to
+thestandardSBsthatareavailable
+for glass fibre panel installation
+inotherpartsoftheaircraft).
+4
+44TSAF
+A320FAMILY-MAINTENANCEPLANNINGESCALATIONPACKAGE
+It offers an ‘on demand’ retrofit
+Floorpanelsinforwardentrancearea
+solution for the vast majority of
+(someprotectedwithMylarfoil)
+the first 1,000 A320 Family
+aircraft(thosenotfittedwithglass Figure5
+fibrepanelsinproduction).
+Following implementation of this
+SB , the materials and geometry
+of the cabin floor panel, as well
+as the clip nuts and sealing are
+significantlyimproved.Asaresult,
+the corrosion resistance of the
+floor structure is increased while
+the floor panel’s thickness and
+weight are slightly reduced (by
+around 1kg for the forward
+entrancearea).
+The change introduces glass cloth
+on both the upper and the lower
+sides of the carbon floor panel
+skinstoreducethegalvaniccouple
+between the carbon fibre and the
+aluminium seat rail (see figures 5
+and6).
+Furthermore, the gaps between
+floor panels and metallic beams,
+andthegapbetweenadjacentfloor
+panels are increased by 1.5mm
+whereas the distance from the
+fitting hole axis to the edge panel
+is reduced using the new glass
+type ASNA 5110 7508 at the
+Fibrepanelplies
+perimeter.
+Figure6
+Basicconfigurationuntilend1999 ConfigurationafterSB53-1198
+Carbonfiber Glassfiber
+2Glassfibers Carbonfiber
+Nomex Kevlar
+2Glassfibers Carbonfiber
+Carbonfiber Glassfiber
+5
+A320FAMILY-MAINTENANCEPLANNINGESCALATIONPACKAGE
+J ChordNAS3811-D Glassprotection3M
+A
+Newfloorpanel
+Newsealant(morefluid) Seattrack
+44TSAF
+In addition to that, the use of a Airlines’ benefits
+morefluidsealant(PR1436GANA
+/PQ10010-022-04) improves the Thanks to these structures’impro-
+seal between floor panels and vements, an escalation of the
+metallicbeams(seefigure7). maintenancetaskscanbeachieved.
+In real terms, this means that
+Clip nuts (see figure 8) are also airlines can reduce their direct
+modified with a stronger protec- maintenance costs related to
+tion,soastoreducefrictiononthe corrosion inspections by an
+beam corrosion protection during estimated20%.
+n o t e s
+installation (ABS0365-3-1B/2B
+andABS0365S3-1B). Embodiment of these SBs during
+1. Forairlineswhichhave
+heavy maintenance checks has
+heatedfloorpanels
+Further details about the glass the dual advantage of grouping
+atdoor1LH/RHbutwith
+fibre floor panels are available complexremovalandreinstallation
+formerfloorpanelsinstalled,
+on the Airbus Upgrade Services operationsthataresimilartothose
+thenewgenerationallows
+e-Catalogue. necessary for the corrosion
+theescalationwithout
+(https://w3.airbus.com/ inspection. Consequently, time-
+changingtheheated
+upgrade-eCatalogue/index.html) consuming preparatory work does
+floorpanelsinthe
+not have to be performed twice,
+entrancearea.
+Due to the customized definition thus reducing aircraft on ground
+of floor panels for each airline, time.
+2. SB53-1198enables
+anaveragelead-timeofsixmonths
+corrosioninspection
+between SB kits’ ordering has
+task531190escalation
+tobeanticipatedbeforethefourth
+from10to12years.
+C-check scheduling. Price infor-
+mationisgivenonrequest.
+Newsealantandmorespace
+forsealantapplication
+Figure7
+6
+Considering the time required embodiment, the implementa-
+to perform the six inspection tion of the SB package induces
+tasks and the immobilisation cost an average payback period of 16
+against the benefit of the package months.
+7
+44TSAF
+A320FAMILY-MAINTENANCEPLANNINGESCALATIONPACKAGE
+Clipnuts
+Figure8
+CONTACTDETAILS
+Pierre-JeanGARROT
+DesignManager
+UpgradeServices
+AirbusCustomerServices
+Tel:+33(0)561932871
+Fax:+33(0)562110302
+pierre-jean.garrot@airbus.com
+Conclusion
+Intoday’sextremelycompetitivemarket ofgalleyconfigurationsandtherestricted
+conditionsincludinghighfuelprices, accessibility,theconcernedarearequires
+continuousimprovementisnecessary acustomizedsolutionforeachaircraft.
+toreducedirectmaintenancecosts Incontrasttotheglassfibrepanel
+asitformsanimportantfactorin installationinotherareas(forwhich
+airlines’operationalplanning.Byenabling standardSBsareavailable),theforward
+anescalationofthemaintenanceinterval partsbetweenframes12and24need
+fromfivetosixyears,theSBpackage acustomizedSBforretrofit.
+describedaboveoffersasolution
+toachallengefacedbythevastmajority ImplementationofthisSBcontributes
+ofAirbuscustomers. toa20%extensiontothemaintenance
+Withinthisretrofitpackage,SB53-1198 intervaloftheA320Family
+playsaspecificrole.Duetothediversity earlygeneration.
+7
+FUELTANKINERTINGSYSTEM-ARETROFITINDUSTRIALCHALLENGE
+44TSAF
+Fuel Tank
+Inerting System
+also called
+Flammability Reduction System (FRS)
+A retrofit industrial challenge for the next decade
+This article seeks to describe the flammabi- clarifying the technical, industrial and retrofit
+lity reduction subject in more details, whilst standpoints.
+AlainLEROUX SammyBOUGACI LaurentSEGUY
+HeadofMulti-Programme FuelSystemsEngineer FuelSystemsEngineer
+andBusinessConsolidation AirbusCustomerServices AirbusCustomerServices
+AirbusCustomerServices
+8
+44TSAF
+FUELTANKINERTINGSYSTEM-ARETROFITINDUSTRIALCHALLENGE
+Background
+Preventionofignition
+andreductionofflammability
+As a result of a major accident
+resultingfromafueltankexplosion,
+in 1996 the Federal Aviation
+Authority (FAA) Technical Centre Fuelvapour
+undertookresearchesintofueltank
+flammabilityandignitionrisks.
+Since 2000, Airbus has actively
+been involved in flammability
+reduction, conducting studies for
+the FAA and flight tests on the
+A320prototypein2003. SFAR88 Flammability
+Intpolicy25/12 reduction
+As a result of these researches,
+the FAA has developed a rule
+that requires operators and manu-
+facturers of air transportation
+categories to take actions that will
+reducetheexposuretocatastrophic Ignitionsource Oxygen
+fueltankexplosion.
+Thiscanbeachievedbymitigating Fuel Tank Inerting
+the two main conditions that must
+System
+bepresentinafueltanktosupport
+combustion that can lead to a fuel
+tankexplosion: STATUSONTHEREGULATIONS
+•Anignitionsource,
+•Aflammablefuel-airgaseous The FAA and EASA have deve-
+mixture. loped requirements for design
+precautions to mitigate the risks
+The prevention of ignition is associatedtofueltankflammability.
+coveredbytheFAA(SFAR88)and
+EASA(INT-Policy25/12)require- FAA
+ments for which Airbus demons-
+tratedthefullmeansofcompliance On 21 July 2008, FAA required
+inMay2006. operators and manufacturers
+to incorporate a Flammability
+As well as aircraft and equipment Reduction Means (FRM) or Igni-
+modifications, these requirements tion Mitigation Means (IMM)
+have also been introduced in the on fuel tanks having a flammabi-
+newCriticalDesignConfiguration lity exposure exceeding certain
+Control Limitations (CDCCLs). thresholds, following the official
+The process has been set up to published FAR 25, 26, 121, 125
+reduce the potential ignition and129amendments.
+sources within the fuel tanks (i.e.
+pumps, wirings...) whereas the These amendments affect new
+Fuel Tank Inerting System (FTIS) aircraft type certification, new
+is a means to reduce the aircraft in production and in-
+flammability of the fuel tanks. service aircraft produced after
+So both are complementary and 1 January 1992 (see information
+cannotsupersedeeachother. boxonthefollowingpage).
+9
+FUELTANKINERTINGSYSTEM-ARETROFITINDUSTRIALCHALLENGE
+EASA AIRBUSCOMPLIANCETOTHERULES
+Fornewaircraft,EASA(European Airbus demonstrated that ‘only
+Aviation Safety Agency) have the centre tank’ of some of its
+issued for consultation a draft existing aircraft has fleet average
+amendment to CS-25 (NPA 2008- flammability exposure exceeding
+19) which is harmonized with the 7% and is affected by the
+corresponding American standard requirements of the FAR Part 26.
+(FAR 25). A final decision is There is no necessity to do any
+expectedbythe2ndquarterof2009. modificationonothertanks.
+Itconcernsthefollowingaircraft:
+For in-production and in-service •A320Family,
+aircraft, EASA have stated they •A330-200,A340-200,
+willpublishin2009aNPAtoCS– A340-300,A340-500,A340-600,
+26 and a Safety Directive to be •A300-600.
+adopted by the 4th quarter of 2010
+after taking into account the Atthedateofpublishing,therules
+receivedcomments. apply only for passenger aircraft
+produced and delivered after
+1 January 1992 flying with US
+operatorsorN-registeredpassenger
+aircraft.
+SYSTEMDESCRIPTION
+The Airbus solution for the A320
+Family and A330/A340 Family is
+based on a system developed with
+thesupplier,Parker,whichreduces
+theoxygenlevelsofthecentretank
+ullagespace.
+Theinstallationofthisnewdevice
+is designed to avoid the
+modification of existing systems
+and structures. The Fuel Tank
+Inerting System (FTIS) interfaces
+withthefollowingsystems:
+•Fuelsystems,
+•EnvironmentalControlSystems,
+•Enginebleedairsupplysystems.
+Severalotheralternatemeanshave
+beenstudied(e.g.reductionofheat
+sources, tank pressurisation and
+foam). But they lead either to
+important structure modifications
+oroperationalconstraints.
+One solution studied was to use
+bottled nitrogen, but it was dis-
+missed due to the significant
+required additional airport infras-
+tructure and the impact on aircraft
+TurnAroundTime(TAT).
+44TSAF
+n o t e s
+• Existingfreighteraircraftor
+passengertofreighterconverted
+aircraftarenotinvolved.
+• FortheA300-600aircraft,
+nomoreN-registered
+passengeraircraftwillbe
+operatedatthetimeoftheFAA
+deadlinesfortheretrofit
+completion.IftheFlammability
+ReductionMeans(FRM)
+isrequiredbyanylocal
+AirworthinessAuthorities
+asthefleetaverage
+flammabilityexposurenear7%,
+amodificationbased
+onacoolingconceptofthe
+centretankwillbeproposed.
+i n f o r m a t i o n
+FAA ruling requirements (summary)
+•FARPart25:Amendment125 •FARPart121:Amendment340
+Itwillbethecertificationbasis ItappliestoUSoperatorswhatever
+fornewaircrafttypes.Itupdates thecountryofregistration
+§25.981byincludingtheflammability oftheaircraftusedbythese
+criteriaandmeanstobemetbythe operators.Itsetsrequirements
+tanks,theIMMrequirements,the forretrofitofpassengeraircraft
+instructionforContinued withaFlammabilityReductionMeans
+Airworthiness.Itdefinesthe (FRM)oranIgnitionMitigationMeans
+methodologytobeusedtoperform (IMM) ifrequiredperFARPart26.
+thefueltankflammabilityanalysis, Theretrofitshallbecompleted
+•FARPart26:Amendment3 atthelatestbyDecember2017
+Thisamendmentisapplicable withanintermediaterequirement
+toexistingTypeCertificates(TC) toretrofithalfoftheoperatorfleet
+includingSupplementalType byDecember2014.Newaircraft
+Certificates(STC).Itrequires deliveredtoanoperatorafter
+forpassengeraircraftof30 December26th,2010mustbefitted
+ormoreseatsmanufactured withanoperationalFRMorIMM,
+on/orafterJanuary1st,1992: •FARPart125:Amendment55
+-tosubmittoFAAbyFeb16th,2009. SimilarrequirementstothoseofFAR
+Aflammabilityanalysisforeach Part121appliedforspecifictype
+tankasperFARPart25appendixN, ofcommercialpassengercarrying
+-toprovideaFRMorIMMfortanks operations,
+havingafleetaverageflammability •FARPart129:Amendment46
+exposureexceeding7%, Similarrequirementstothose
+-tosubmittherequiredFRM/IMM ofFARPart121appliedforforeign
+changesandassociatedService operatorsofaircraftregistered
+Instructionsforapproval intheUnitedStates.
+byDec26th2010,
+10
+44TSAF
+FUELTANKINERTINGSYSTEM-ARETROFITINDUSTRIALCHALLENGE
+SYSTEMINSTALLATION
+Figure1 InstallationoftheFTIS(FuelTankInertingSystem)
+ONAIRCRAFT
+inthelefthandsideofthebellyfairing
+Thesystemisinstalledinthelefthand
+side of the aircraft belly fairing as
+showninfigure1.
+PRINCIPLE
+The system (see figure 2) provides
+protection against fuel tank fire and
+explosion by creating an inert
+conditionwithintheullagespaceofthe
+fuel tanks. This is achieved by using
+oxygendepletedairknownasNitrogen
+Enriched Air (NEA) to displace the
+oxygeninthetankullagespaces.
+The system is based on a continuous
+flowprincipleandproducesNEAfrom
+conditioned engine bleed air by gas
+separation,theninjectsitintothetank.
+AirSeparationModuleflow n o t e s
+Figure2
+Ullageisthespacewithinafuel
+tankabovetheliquidpropellant.
+OxygenEnrichedAir
+(OEA)
+Inletflow Fueltankflow
+ConditionedServiceAirSystem NitrogenEnrichedAir
+(CSAS) (NEA)
+AirSeparationModule
+(ASM)
+11
+FUELTANKINERTINGSYSTEM-ARETROFITINDUSTRIALCHALLENGE
+44TSAF
+TECHNICALDESCRIPTION from the sensors. The ozone con-
+verterreducestheamountofozone
+The architecture (see figure 3) is inthebleedairtoprotecttheIGGS
+broken down in two major sub- components.
+systems:
+1)TheConditionedServiceAir The CSAS controller, located in
+System(CSAS) the avionics’ bay, performs the
+2)TheInertGasGeneration system control and health moni-
+System(IGGS) toring BITE (Built In Test
+Equipment) and is interfaced with
+THECSAS the FlightWarning System (FWS)
+andmaintenancecomputer.
+Some bleed air is taken from the
+pneumatic air distribution system THEIGGS
+and then cooled down to a level
+compatible with the IGGS sub- It uses Air Separation Modules
+system using the air from the (ASM)tofiltertheconditionedair
+exiting ECS (Environmental Con- stream,creatingNitrogenEnriched
+trol System) ram air channel. Air (NEA) and Oxygen Enriched
+It is organized into two functional Air(OEA)(seefigure4);theOEA
+elements: a temperature control issentoverboard.
+subsystemandtheCSASIsolation
+Valve with an ozone converter The air at the ASM inlet remains
+subsystem. Driven by the CSAS clean, free of hydrocarbons, dust
+controller, the solenoid Controlled and other contaminants thanks
+Isolation Valve ensures the to the HEPA (High Efficiency
+shutdown of the system if the Particle Air) filter. Being connec-
+engine bleed air pressure is ted to the fuel tank, the system
+abnormallyloworifover-pressure must meet very stringent safety
+or over-temperature is detected requirements:
+A320:InstallationoftheIsolationvalveandOzoneconverter A320:NitrogenEnrichedAir
+goingintothecentretank
+C35
+Ozoneconverter
+Isolationvalve
+Oxygen
+EnrichedAir
+C36
+ASM
+Flight C35
+direction
+12
+FUELTANKINERTINGSYSTEM-ARETROFITINDUSTRIALCHALLENGE
+Nitrogen
+EnrichedAir
+O Rich
+2
+Product
+Waste
+NEA
+O CO
+2 2
+H O
+2
+Air
+13
+44TSAF
+•Airgreaterthan200°C
+mustnotcomeintocontact
+withfuelorfuelvapour,
+•Fueltanksmustnotbe
+over-pressurized, FTIS
+simplifiedschematic
+•Preventionmeansforfuel
+ingressupstreamtotheASM.
+Figure3
+Sensors, valves and controllers
+ensure these safety requirements.
+Downstream of the ASM is an
+FWC
+oxygen sensor ensuring that the CSAScontroller IGGScontroller
+CFDIU/CMC
+oxygen concentration is below Twincheckvalve
+12%. Isolation
+valve Sensors Sensors Centre
+ADualFlowShutOffValveisthen tank
+usedtocontroltheNEAflowtothe O 3 converter Temp HEPA Airseparation O 2
+fueltankandenablesthesystemto control filter module sensor
+switchbetweenlow/mid/highNEA valve
+flows, and to isolate the IGGS DualFlowShut
+fromthefueltank. OffValve
+Heat
+NEAisdistributedfromtheIGGS TCM Pallet
+exchanger
+to the fuel tank through a twin
+check valve which provides a Bleedline
+Wasteflow
+double barrier to the potential
+Overboardexit (O rich)
+back-flowoffuel. 2
+TheIGGScontrollerprovidessys-
+temcontrolandhealthmonitoring/
+BITE.
+AirSeparationModule
+(ASM)description
+Figure4
+ItisthecoreoftheInertGasGeneration membranebundlecontainedinapressure
+System.Theobjectiveistoreduce containmentcanister.Thiscanister
+thecentrewingtankullageO2 isacylinderwiththreeports.Thereis
+concentrationtobelow12% onlyoneASMontheA320Familyaircraft,
+duringmostconditions.EachASM twoontheA330-200andA340-200/300,
+isasemi-permeablehollowfibre andthreeontheA340-500/600.
+44TSAF
+FUELTANKINERTINGSYSTEM-ARETROFITINDUSTRIALCHALLENGE
+FTIS operation Anysystemfaultleadingtotheloss
+of inerting capability generates a
+cockpit and maintenance message
+The Fuel Tank Inerting System
+i n f o r m a t i o n attheendoftheflight(flightphase
+(FTIS) operates during flight when
+10)formaintenancepurposes:
+thebleedairissupplied.Thesystem
+Alarm and maintenance doesnotoperatewhentheaircraftis •ForA320Familyamaintenance
+computers on the ground, except during STATUS:‘INERTFAULT’,
+•ForA330/A340Family
+Inordertoprovidealarm maintenanceoperations.
+anECAMmessage:‘FUEL
+andmaintenancemessages,
+INERTINGSYSFAULT’.
+theprerequisitesare: Ithasthreeflowmodesdesignedto
+• TheFlightWarningComputer achieve the flammability reduction
+Theaircraftcanbedispatchedunder
+(FWC)standardmustbe: objective during the different flight
+Minimum Equipment List (MEL)
+-H2F5fortheA320Family phases:
+with the system inoperative during
+-T3fortheA340-500/600 •Lowisusedinclimb
+10dayswithnospecificmaintenance
+-L11fortheA340-200/300 andcruise,
+action.
+andA330-200 •Mediumisusedinapproach
+• Themaintenancecomputer andslowdescent,
+The implementation of these new
+mustbeat: •Highisusedindescent.
+cockpit and fault messages requires
+-Standard10fortheCFDIU
+upgraded standards of the Flight
+(A320Family) The FTIS will not be operational
+Warning Computers (FWC) and
+-StandardL8-AfortheCMCs when either the electrical power or
+maintenance computers (CFDIU
+(A330/A340Family) the bleed are unavailable, nor when
+for the A320 Family, CMC for
+the anti-ice is ON with a non-
+the A330/A340 Family) (see
+operatingengine(i.e.A330).
+informationnote).
+OPERATIONALIMPACTS
+MAINTENANCEIMPACTS
+e d The FTIS has automatic control
+nreq
+uir
+s
+with no requirement for crew
+I
+th
+n
+e
+o
+h
+rd
+e
+e
+a
+r
+t
+t
+e
+o
+xc
+e
+h
+a
+a
+s
+n
+e
+ge
+th
+r
+e
+w
+m
+it
+a
+h
+in
+t
+t
+h
+e
+e
+nan
+H
+c
+o
+e
+t
+,
+o
+a
+cti o
+pil
+o t intervention.
+Air Bypass Valve, the Temperature
+N and pressure sensors of the CSAS
+f
+or
+subsystem are installed in the
+TemperatureControlModule(TCM)
+(seefigure5).
+TemperatureControleModule
+Figure5
+ECSAirConditioningPack
+HotAirBypassValve
+ECS
+MainHeat
+Exchanger
+CSAS
+TempControlModule
+RamAir (TCM)
+Flow
+CSASHeatExchanger
+14
+44TSAF
+FUELTANKINERTINGSYSTEM-ARETROFITINDUSTRIALCHALLENGE
+Airbushastakenthesameapproach
+IGGSPallet
+forthedesignoftheIGGS.
+Apalletisusedtogroupthemajor Figure6
+IGGScomponents.
+Theyareasseeninfigure6:
+•TheGateValve, Tierodattachments
+•TheHEPAfilter, (MS14103SphericalBrg.)
+•ThePressuresensor,
+•TheTemperaturesensor, DualFlowShutOffValve
+•TheASM(s),
+•TheOxygensensor, Temperaturesensor
+•TheDualFlowShutOffValve
+andducting. Pressuresensor
+O sensor
+2
+In order to maintain the system Gatevalve
+performance and to minimize the Airinlet ASM
+exposure to unscheduled main-
+NEAoutlet
+tenance, some scheduled main-
+tenance actions are required as filter
+describedintable1.
+Aftpallet Nameplate
+bracket
+The industrial
+OEAoutlet
+challenge
+of the retrofit
+Table1
+campaign
+Task Tasktime(hours) Checklabortime(hours) Interval Procedure12
+TheFAArulesimpactsaround900
+Airbus aircraft in-service to be 0.75 1.2 27,000 Remove
+Replace
+retrofittedwithinsevenyears. hours andreplace,
+ASM
+IfEASAfollowstheFAAdecision leaktest
+on retrofit, around 4500 Airbus
+Replace 0.28 0.45 7000 Remove
+aircraft will have to be retrofitted
+filterelement hours andreplace,
+duringthenextdecade. leaktest
+Ozone
+PLANNING Converter 0.58 0.75 6000 Remove
+cleaning hours andreplace
+Under such a hypothesis, a strong
+Heat
+coordinationwitheveryoperatoris
+Exchanger
+a must. A well-prepared retrofit cleaning ConsistentwithECSheatexchangercleaninginterval
+and embodiment planning has to
+besetupbetweentheoperatorsand Checkvalve
+Airbus to avoid any industrial andDFSOV 1.0 1.5 12,000 Test
+bottlenecks.
+Leaktest3 hours andreplace
+asneeded
+1Nospecialtoolsortestequipmentrequiredforscheduledmaintenancetasks
+2Draincapisopenedtocheckforliquidfuelingressfollowingnooperation
+MMELperiodsorafterafueltankoverfill
+3ValveLeaktestisperformedattheliquiddrainpluglocation
+andthetestportlocationbetweenthecheckvalves
+15
+FUELTANKINERTINGSYSTEM-ARETROFITINDUSTRIALCHALLENGE
+44TSAF
+AIRBUSRETROFITOFFER Flight Warning Computers and
+maintenance computers’ standards
+Airbus Upgrade Services through shouldacceptmessagesprovidedby
+the RFC/RMO process will provi- the FTIS (see information for the
+de customized commercial and requestedcorrespondingstandards).
+technical services consisting of a Uponrequest,technicalsupporton
+retrofitpackagewith: site can be provided. Airbus will
+•TwoServiceBulletins: also provide relevant training
+g l o s s a r y -OneSB coursestoyourmaintenancestaff.
+forthestructural
+ASM:AirSeparationModule andelectricalprovisions, EMBODIMENTONAIRCRAFT
+-OneSB
+BITE:BuiltInTestEquipment
+CFDIU:CentralisedFaultDisplay fortheequipmentinstallation About 500 man-hours are needed
+InterfaceUnit allowingthecustomer with a lead-time of 7/8 days if
+CMC:CentralisedMaintenance tocompletetheretrofit done in one operation (provisions
+Computer inpackagesduringC-checks, and installation). This takes into
+CSAS:ConditionedServiceAir •Airbuskits(brackets,pipes, account the aircraft preparation
+System rods,wiring,etc.), (scaffolding, centre tank venting
+DFSOV:DualFlowShutOffValve •SpecificFTISequipment andallthetests).Theworkcanbe
+EASA:EuropeanAviationSafety fromParkerandLiebherr, done in two packages (provi-
+Agency •Thecoordinationofthekit sions, then equipment installation)
+ECS:EnvironmentalControlSystem andequipmentdeliveries. allowing the operator to perform
+FAA:FederalAviation the modification within two
+Administration C-checks.
+FAR:FederalAviationRegulations
+FRM:FlammabilityreductionMean
+FTIS:FuelTankInertingSystem
+i n f o r m a t i o n
+FWC:FlightWarningComputer
+HEPA:HighEfficiencyParticleAir
+Airbus documentation
+IGGS:InertGasGenerationSystem
+• SFAR88:S.I.L.28-072 • FTIS:OIT999.0084/08
+IMM:IgnitionMitigationMean
+Fueltankprotectionagainst ATA47-FAAflammability,
+MEL:MinimumEquipmentList
+ignitionsource, reductionsystemintroduction
+NEA:NitrogenEnrichedAir
+• FTIS:OIT999.0007/06 • AirbusWorldportal:dedicated
+NPA:NoticeforProposed
+ATA28-FAANPRMonflammability page‘ComplywithFuelTank
+Amendment
+reductionsystemretrofit, Safety’.
+OEA:OxygenEnrichedAir
+RFC/RMO:RequestForChange/
+RetrofitModificationOffer
+STC:SupplementaltypeCertificate
+TC:TypeCertificate CONTACTDETAILS
+RFC/RMOqueries Technicalqueries
+upgrade.services@airbus.com RonanALLARD
+DesignManager
+UpgradeServices
+AirbusCustomerServices
+Tel:+33(0)562110773
+Fax:+33(0)562110847
+Conclusion ronan.allard@airbus.com
+TocomplywiththeFAAflammability thedeadlinessetupbytheauthorities.
+reductionrules,Airbushavedeveloped Thiscanonlybeachieved
+themostcosteffectivetechnical withthecooperationoftheconcerned
+compromiseintermsofmaintenance operatorsthatwillovercomethis
+andoperations.Airbusisfullycommitted challengingembodimentoftheFuelTank
+insupportingtheoperatorswiththese InertingSystemtechnologybyscheduling
+newrequirementstakingintoaccount theinstallationinduetime.
+16
+44TSAF
+BRAKE-TO-VACATESYSTEM-THESMARTAUTOMATICBRAKINGSYSTEM
+Brake-to-Vacate
+system
+The smart automatic braking system
+for enhanced surface operations
+The Brake-To-Vacate (BTV) is an Airbus and auto-flight, landing gear, flight tests, aircraft
+innovation in pilot aid to ease airport congestion performanceandhumanfactors)underthescope
+and improve runway turnaround time. The BTV of a multi-programme project, allows pilots to
+system, which will be available on the A380 selecttheappropriaterunwayexitduringdescent
+(2009)andA320Family(2012/2013)asanoption or approach preparation. The Airbus-patented
+and on A350XWB basically, helps reducing innovative system uses the GPS (Global
+taxiing time at busy airports by optimizing the Positioning System), Airport Navigation, Auto-
+runway occupancy time and lowering braking Flight and Auto-Brake Systems to regulate
+energy while maximizing passenger comfort. deceleration, enabling the aircraft to reach any
+The BTV system, which is designed by a multi- chosen exit at the correct speed in optimum
+disciplinary team (avionics, flight controls conditions.
+FabriceVILLAUMÉ
+Multi-ProgrammeProjectLeader
+AirbusSystemsEngineering
+17
+BRAKE-TO-VACATESYSTEM-THESMARTAUTOMATICBRAKINGSYSTEM
+44TSAF
+The project began in 1998 via The automatic
+FinalapproachonLFBO32Lrunway
+a PhD thesis. Following a feasi-
+withS10exitselectionforBTV braking system
+bility phase until 2001, it com-
+pleted a prototype phase on an at landing:
+A340-600 prototype in 2006,
+Historical
+withafirsttestflightinApril2004
+under various operational condi- perspective
+tions. These preliminary demons-
+of evolution
+trations were performed within a
+research framework. A successful
+flighttestinMarch2005hasbeen Automatic braking system, also
+performed in real-time conditions calledauto-brakesystem,isatype
+at Charles de Gaulle Airport in of automatic wheel-based hydrau-
+Paris. The industrialization began lic brake system for advanced
+on A380 in October 2006 with a airplanes (Airbus, Boeing, etc.). In
+firsttestflightinMay2008. order to keep the pilot free to
+performothertasks,theauto-brake
+To better understand what is the has been designed to control,
+BTVsystem,thisarticlewillhigh- robustly and rustically, aircraft
+lightthecurrentuseofthealready longitudinal deceleration during
+existing auto-brake system and its rollout and down to full stop.
+impact on aircraft operations, the Theautomaticdecelerationcontrol
+evolving airport operation context roughly starts at the nose landing
+and will detail the Airbus BTV gearimpactwithanonsettransition
+operationalanswer. rampforcomfort.
+Since the A300-600 model, auto-
+brake modes are selectable for
+landingusingeitherLOandMED,
+which provide low and medium
+fixeddecelerationcontrol.Inorder
+togivemoreoperationalflexibility,
+A340-500/600 models are fitted
+18
+44TSAF
+BRAKE-TO-VACATESYSTEM-THESMARTAUTOMATICBRAKINGSYSTEM
+Automaticbrakingsystems
+onAirbusaircraft
+Figure1
+AUTO/BRK AUTO/BRK LDG AUTO/BRK
+3 TO LDG 2
+L0 MED MAX 2 4 LO 3
+LO HI HI
+DISARM DISARM
+AUTO BRK
+MAX
+A300-600 A320Family A340-500/600 A380(beforeBTV)
+MED
+K A/SKID
+ON
+ON LO LDG
+OFF 2
+LO 3
+Airbusinnovation
+BTV HI
+DISARM
+with an auto-brake system enri- SincetheA380models,asmooth
+ched by five fixed deceleration and symetric system has been
+modes through a new rotary introduced by allowing auto-
+switch: LO, 2, 3, 4 and HI (see brake system disconnection
+figure 1). TheA380 is fitted with through the Auto-Thrust Ins-
+a four-modes auto-brake system tinctive Disconnection button
+(LO,2,3andHI). locatedonthethrustlevers,
+•Thirdly,associatedtocrosswind
+In everyday operations, analysis operations,itmayinduce
+shows that the auto-brake system onsomemodelsassymetric
+cannot be adapted to each landing braking,whichhelpslateral
+situation,whichhasspecifictouch- control,buthasanegative
+down characteristics (position and impactonTurnAroundTime
+speed)withrespecttothedesirable (TAT):Thereismorebraking
+exit taxiway foreseen by the crew energyonthemoreloaded
+(type,positionandspeed). wheels,sothosebrakesget
+toreachhighertemperatures
+Theuseoftheauto-brakesystemis andneedmoretimetocool
+recommended when the pilot’s downbeforethenextdeparture,
+workload is high, and has become •Finally,itishighly
+sincetheyear2000,Airbusrecom- recommendedtoreduce
+mendedStandardOperatingProce- asmuchaspossiblethenumber
+dures (SOP) at landing, but there ofbrakepedalapplications
+aresomedrawbacks: duringlandingrolltolimit
+•Firstly,onsetnosehighonsome carbonbrakewear.
+modelswouldbestrongerthan
+thepilotwouldwish, Additionally, current auto-brake
+•Secondly,brakepedalsoverride systemshortcomingsatlandingare
+includesdiscomfort,asthepilot magnified with its systematic use.
+hasfrequentlytobrakemore... Everyday use leads to reach the
+tobrakeless,causingfrequent desired exit speed too far or too
+assymetricbraking. shortfromthedesiredexit.
+19
+BRAKE-TO-VACATESYSTEM-THESMARTAUTOMATICBRAKINGSYSTEM
+44TSAF
+The only way to improve this simplisticauto-brakesystemmoni-
+situation is the pilot’s compen- toringwhencurrentdecelerationis
+sationbyoverridingtheauto-brake 20% below the target dece-
+system at the right time. The leration:
+override decision criterion then •TheDECELlightmightbe
+depends on the pilot’s feelings, extinguishedathighspeed
+view and experience inducing an onslipperyrunways
+everyday very limited brake whileauto-brakesystem
+optimization. In low visibility isoperatingnormally,
+conditions (crew blindness), the •Apartialimprovementhasbeen
+pilotcannotcompensatetheclassic introducedonA340-500/600
+auto-brakesystemblindness,being byaddinganACTIVlight
+blind himself. In that operational inordertoconfirmthecorrect
+case, auto-brake MED decele- operationoftheauto-brake
+rationlevelorequivalentismostly system.Nevertheless,itwillnot
+used, bringing the aircraft at low helpthepilotinachieving
+i n f o r m a t i o n speed in the middle of nowhere. anintendedexitor
+Then, the pilot taxies on the inpreventingapossible
+Synthetically,current runwayuntil... runwayoverrun.
+auto-brake system …anexitliterallyappears!
+drawbacks(inducedbyitsuseful An evolving airport
+rusticity)are,ineverydayavera- The auto-brake system control
+operation context
+tions,anapproximateoptimization principle is a closed-loop control
+achievedbythepilot(i.e.toohigh on deceleration. Hence, more
+decelerationfollowedbytoolong reverse thrust results in less Innovative solutions are urgently
+speedtaxiontherunway), braking, but without shortening required because congestion is
+apartialawarenessofthe landingdistance.Atfirstsight,this already a serious issue at some
+estimatedandmeasuredbraking is really beneficial by reducing airports. A minority of airports
+distance,alackofflexibility brake energy. Nevertheless, this generatesthemajorityofdemands,
+withrespecttooperationalcon- everyday situation increases the and these airports are already
+straintsandan‘AirportNavigation’ riskofrunwayendoverrunincase operating at their maximum
+unawareness. of long flare on short runways; throughputforsustainedperiodsof
+even if the pilot selects, as com- time.Among other topics, the on-
+mitted, the maximum reverse going SESAR (Single European
+thrust. Sky for Air Traffic Management
+Research) project focuses on
+In terms of Human Machine making best use of airport airside
+BTViscapableofhigh Interface, the pilot, through the capacity based on the available
+speedturnoff DECEL light extinction does a infrastructure, because new cons-
+tructions are in many instances
+strictly limited by political and
+Depending
+environmental constraints. The
+onexactgeometry,
+airport's airside system capacity is
+taxiwayexactangle,
+turnradiusandRWYwidth, significantly influenced by the
+ai
+w
+rc
+i
+r
+t
+a
+h
+ft
+ye
+c
+l
+a
+lo
+n
+w
+be
+lin
+a
+e
+t5
+h
+0
+av
+K
+in
+TS
+g 50kts(0.2g)
+50kts(0.3g)
+GEO50 XEXIT r
+c
+u
+o
+n
+n
+w
+si
+a
+d
+y
+er
+c
+e
+a
+d
+p
+a
+a
+s
+cit
+k
+y
+e
+,
+y
+w
+d
+h
+e
+i
+t
+c
+e
+h
+rm
+sh
+in
+o
+a
+u
+n
+ld
+t f
+b
+o
+e
+r
+slightlystartedtoturn
+the overall intake. It has the
+potential to significantly reduce
+the total amount of delays at
+airports. This will in turn reduce
+the requirements for the airport's
+Highspeed development, the impact on the
+turnoffangle environmentanditsresourceuse.
+slightlysteeper
+than30°,
+Among the wide spectrum of
+with45m
+widerunway runway capacity elements, redu-
+(inNice-France cing the time spent by aircraft on
+exactly30°) 50kts(0.2g) 50kts(0.3g) GEO50 XEXIT the runway is one of the most
+importantissues.
+20
+2 Independentdisplay
+onexisting
+NavigationDisplay
+(ND)
+44TSAF
+BRAKE-TO-VACATESYSTEM-THESMARTAUTOMATICBRAKINGSYSTEM
+This does not alter the fact that
+RunwayOccupancyTime(ROT)is
+inextricably linked to other issues
+such as wake vortex separation
+minima and minimum separation
+standards for both arrival and
+departure. Minimizing the separa- 2 2
+tion between arriving and depar- 1
+ting traffic is equally crucial in
+reducing ROTs. Even environ-
+mental aspects, such as use of
+preferentialrunways,etc.,mayalso
+haveanimpactonoccupancytime.
+3 3
+Studieshaveshownthatdepending
+on the traffic mix (various aircraft
+types), runway capacity can be
+increasedbetween5%(inthecase
+of single-runway airports) and
+15%(multiple-runwayairports)by 1 ControlusingAuto-Brake 3 Selection
+reducing ROTs. A remarkable existingselector. usingexisting
+BTVinstinctivedisconnection KeyBoardControl
+example is the 19% capacity
+usingA/THRexistinginstinctive andCursorUnit
+increase achieved over a period of
+disconnectionbutton. (KCCU)
+threeyearsonthesinglerunwayat
+Manchester,U.K. An operational
+answer: The
+It should be stressed that increa-
+sing runway capacity by mini- Brake-to-Vacate
+mizing runway occupancy is a
+function
+matter of seconds per operation.
+Indeed, aircraft that unnecessarily
+occupy the runway for additional It becomes natural to imagine an
+secondspotentiallyprovokedelays enhancementoftheexistingclassi-
+of at least one order of magnitude cal auto-brake system at landing
+greater,(i.e.closetotheminuteor whichaimsatreachingoptimallya
+worse). If this develops into a desiredexit,byaddinganewauto-
+dominoeffect,thenoverallsystem brake mode (with the same acti-
+capacity will be reduced, causing vation/disconnectionprinciples).
+lossesofslots.On the other hand,
+the saving of a few seconds per Brake-to-Vacate system design
+movement can represent an objectivescanbeexpressedto:
+important capacity increase. •Ensurethebestpossiblebraking
+Enhancing runway capacity is not managementatlanding i n f o r m a t i o n
+necessarily a matter of seeking frommainlandinggearimpact
+absoluteminimumoccupancytime torunwayexitvacation,
+Synthetically,regarding
+butratheroneofachievingconsis- •Developacrewintuitive
+presentrunwayoperations,
+tent performance, thereby building selection,monitoring currenton-board systems
+up the confidence of pilots and andtermination
+cannothelpimprovingrunway
+controllers, which is necessary to oftheBTVsystem,
+capacity;therefore,runway
+optimizerunwaycapacity. •Proposeaseamlessandnatural
+capacityisnotoptimized
+integrationwith:In-flight
+andisdrasticallyreduced
+Finally,incaseoflowvisibility,the landingdistancesassessment
+inlowvisibilityconditions.
+runwaycapacityisdrasticallyredu- duringdescent/approach
+ced due to lack of the operational preparationandexecution,
+guaranteebetweenthepilotandthe RunwayOverrunPrevention
+controller, inducing an important andWarningSystems(ROP
+increaseofsafetymarginsaddedto andROW)below500ftuntil
+everyday separation between two aircraftrunwayvacation,
+consecutiveaircraft. AirportNavigationduringtaxi,
+21
+BRAKE-TO-VACATESYSTEM-THESMARTAUTOMATICBRAKINGSYSTEM
+1 2 3
+BTVconfigurationmustbedone Exitselectionwithclick BTVarming
+inPLANmode/ZOOMrange. onexitlabelaccordingtoaircraft byABRKrotaryswitch.
+TheFMSrunwayis14R. performance,runwaycondition RunwayLDAmustbe
+RunwayselectionwithclickonQFU. anddestinationgate. cross-checkedwithcharts.
+LDG
+2
+LO 3
+BTV HI
+DISARM
+2
+3 BTVarming
+1 Selectionofairportnavigation
+display
+Exitselection
+LDG
+2
+LO 3
+HI
+BTV
+DISARM
+LDG
+Confirmationmessage LO 2 3
+BTV HI
+DISARM
+SelectionofBTVrunway
+44TSAF
+•Ensureasafetyimprovement systemanddisplayof
+byincreasedcrewsituation operationallandingdistances,
+awarenessachievedwith willbetheobjectoftwo
+thein-flightlandingdistance specificarticlesinJulyand
+computationcontinuedonfinal December2009intheeditions
+approachandgroundroll,even ofSafetyFirstmagazine.
+withlowvisibilityoperations,
+•Ensureasafetyimprovement BRAKE-TO-VACATEGENERAL
+withtheimplementation OPTIMIZATIONPRINCIPLES:
+ofabrandnewrunwayoverrun AIRCRAFTSIDE
+preventiondevicecovering
+mostfrequentcases In more details, ‘the best possible
+onnon-contaminatedrunways; braking management at landing’,
+featurewhichisalsogeneralized targeted by the BTV system,
+toallotherclassicalauto-brake considers the most robust and
+modes.ThedescriptionofBTV simple compromize which guaran-
+integratedbrandnewRunway tees to vacate at the assigned
+BTVconfiguration OverrunPrevention(ROP) exit, optimizes the brake energy
+22
+44TSAF
+BRAKE-TO-VACATESYSTEM-THESMARTAUTOMATICBRAKINGSYSTEM
+regarding the current operational intuitive information to assist the
+constraints, minimizes the runway selectionofanoptimumexitandto
+occupancy time and improves the monitor BTV operation. This
+passengercomfort. dedicatedinterfaceprovidesalsoa
+predicted and guaranteed ROT
+In an operation, the optimum exit (RunwayOccupancyTime)andan
+selection depends on multiple estimatedTAT in a sense of brake
+criteria and constraints that can cooling time (assuming thrust idle
+only be known in their full or maximum reversers’ usage as
+complexitybythepilotandtheair perStandardOperatingProcedures
+trafficcontroller: indication).
+•Optimumbrakingenergy
+(complexasfunctionoftaxi, Nevertheless, the selection of the
+ofrequestedTurnAroundTime ‘optimum’exit remains the pilot’s
+(TAT),ofnoiseabatement responsibility. These indications
+procedurespreventingmaximal then help the crew on the optimal
+reversethrustusageoutofsafety thrust reversers’ usage strategy
+needs), during the landing roll on dry
+•Minimumnumberofbrake runway.
+applications,
+•Minimumrunwayoccupancy BRAKE-TO-VACATEGENERAL
+time, OPTIMIZATIONPRINCIPLES:ATM
+•Bestexitfortaxiduration. (AIRTRAFFICMANAGEMENT)SIDE
+Ashortexitselectioncanobviously The main principle is to use
+produce lower runway occupancy efficiently the runway occupancy
+timethanafarexit,butwithhigher time reduction allowed by BTV-
+brake energy and Turn Around fitted aircraft in the whole traffic
+Time. At the end, no automatic converging on the considered air-
+selection of the optimum exit is port; particularly, it takes benefit
+possible. fromtheknowledgeoftheeffective
+Then, for an exit selected by the and guaranteed runway occupancy
+pilot, the BTV system guarantees oftheBTV-fittedaircraftusingthe
+that simultaneously the lowest ‘runwayresource’.
+brakeenergyandrunwayoccupan-
+cy time are reached. For this, Then, the followed dedicated
+BTV system delays braking as arrivalprocedureistodayimagined
+much as possible, applies the (still under study with the ATM
+maximum possible braking at the community):
+latestpossibletimewhilereaching •Sincethe‘approach’controller
+the exit at suitable speed. But a managestheBTV-fittedaircraft,
+designcompromizehasbeenfound thepilotandthecontrolleragree
+in order to respect the passengers’ onthein-servicelandingrunway
+comfort constraints by fixing andexittaxiway,whichdepends
+maximumlevelofdecelerationand onseveralpointsastheairport
+variationofdecelerationovertime, layoutconfiguration,aircraft
+during the landing roll. Moreover, landingperformances,airline
+a special attention has been paid operationalproceduresandall
+to the BTV deceleration profile othercurrentlandingconditions,
+computation regarding the visual •Thepilot(orinthefuturethe
+perception of the pilot associated aircraftitself)communicates
+to late braking in the case of a thepredictiverunwayoccupancy
+selected exit close to the runway time,whichwillbeguaranteed,
+end. •The‘approach’controller
+managesarrivalsconsidering
+Tohelptheexitselectionchosenby separationstoberespected
+thepilot,theBTVsystemproposes andtheforecastedarrivaltime
+a dedicated interface providing onthelandingrunwaythreshold.
+23
+BRAKE-TO-VACATESYSTEM-THESMARTAUTOMATICBRAKINGSYSTEM
+44TSAF
+Theresultsofthissequencing knownmeanvalueswithasufficient
+taskisthelocationofallaircraft margin to take into account uncer-
+infinalapproachinorder tainties(likeitispractisedtoday).
+tooptimizethearrivalflowwith Fornon-specializedrunways(used
+respecttotherunwayoccupancy simultaneously for takeoff and
+time,butalsoallowableminimal landing), the arrival timing has to
+separations(radarandwake be also optimized; a takeoff can
+vortex).Also,itresultsin immediatelyfollowthevacationof
+managingforecastedseparation the previous just-landed aircraft
+intimeonagivenfuture and then take benefit of the time
+positionontheapproach saved.
+trajectory(runwaythreshold),
+•Oncetheaircraftisestablished In addition to the operational and
+infinalsegment,the‘tower’ safety gains foreseen above, the
+controllermonitorsapproaches immediate consequence is the
+sothattheforecastedtiming minimizationofstrongconstraints,
+isrespected(inthefuture, which allow the improvement of
+theaircraftitselfwillbeable admissible cadences. The induced
+tomanagetheseconstraints), ATM operational gain is based on
+•The‘tower’controllergivesthe the increase of runway technical
+landingclearancewithrespect capacity. This gain is particularly
+toitsownconvictionthatthe remarkableincaseoflowvisibility
+runwaywillbevacatedontime. conditions because standard sepa-
+ration can be reached thanks to
+The operational management of BTV system (within the limits of
+mixedtraffic(BTV-fittedandnon- sensitive radio electric protection
+BTV-fitted aircraft) is obviously zone constraints). The runway
+muchmorecomplex.Nevertheless, occupancy time can be then the
+it remains consistent. In this case, same as in case of good visibility
+conservative forecasted runway operations because low speed
+occupancytimewouldoverestimate evolutionontherunwayisreduced
+ROW ROP
+(RunwayOverrunWarning) (RunwayOverrunProtection)
+Goaround Stoptheaircraft
+Nominalglideslope(3°)
+(Nose
+Au
+L
+t
+a
+o
+n
+-
+d
+b
+in
+ra
+g
+k
+G
+e
+e
+a
+a
+c
+r
+t
+d
+iv
+o
+a
+w
+t
+n
+io
+o
+n
+rfive
+secondsafterMainLandingGeardown)
+500ft
+WET
+Symbology
+onlyfor 50ft
+BTVmode
+DRY
+Symbologyforall
+Auto-brakemodes
+(classicalauto-brakeandBTV)
+24
+{
+BTVsystem
+25
+44TSAF
+BRAKE-TO-VACATESYSTEM-THESMARTAUTOMATICBRAKINGSYSTEM
+to its minimum. Moreover, as
+the runway occupancy time of the
+previous aircraft is known and
+respected, a certain number of go-
+around manoeuvres (due to non-
+clearedrunway)willbeavoided.
+Thereductionofthetimespenton
+therunwaycanbetranslatedbyan
+operationtimegainfortheairline.
+It could be negligible for an
+isolatedaircraftbutimportantfora
+fleet.Themostvisiblegainswillbe
+obtained on the delays reduction
+occurringduringairportsaturation
+periods. Operation gains can then
+be magnified by a network effect
+whenconsideringsetsofplatforms
+that are interconnected with local
+BTV induced gains. They will be
+also sensitive to ‘a hub effect’due
+to an important part of fitted
+aircraft.
+Eventually, the airport manager
+will benefit from a declared
+improved operational capacity
+without doing expensive invest- CONTACTDETAILS
+ments (additional and/or exit run-
+FabriceVILLAUMÉ
+waybuilding,etc.).
+Multi-Programme
+ProjectLeader
+AirbusSystemsEngineering
+Tel:+33(0)561186350
+Fax:+33(0)561182538
+fabrice.villaume@airbus.com
+Conclusion
+Brake-To-Vacate(BTV)isanAirbus •Improvingpassengers’comfort
+developmenteffortforimprovingthepilot’s duringlandingroll,
+managementoftheapproachandlanding •Avoidingmissedexitsituations,
+phases.ThewellknownGPSandthenew •And,minimizingrunway
+on-boardairportmapdatabase occupancytime.
+haspermittedthisinnovation.Tangible BTVsystemiscoupled
+valuewillbebroughttoourcustomersby: toaRunwayOverrunPreventionsystem,
+•Reducingbrakewearandtemperature, alsocalledROW/ROP.ThisAirbus
+•Usinglessandevenremoving patentedsolutionoffersacomprehensive
+brakefans, andefficientanswertotherunway
+•Relievingmaximumthrustreversers’ excursionriskatlanding.
+usageondryrunways, Itcanthenbeseenasamajorsafety
+•Reducingnoiselevelonground, enhancementfeature.Throughthe
+fuelconsumptionandgasemission, minimizationoftherunwayoccupancy
+•ControllingTurnAroundTimebefore time,BTVhelpsalsotoreducesignificantly
+landing(guaranteeforthenext theexposuretimetoarunway
+departureslot), incursionrisk.
+25
+IMPLEMENTINGRNPAR-THEOPERATIONALAPPROVAL
+44TSAF
+Implementing
+RNP AR
+The operational approval
+(Required Navigation Performance
+Authorization Required)
+RNP is a navigation technique, which allows Navigation (PBN) for which the ICAO
+aircraft to fly precisely along a predefined (International Civil Aviation Organization) has
+route using state-of-the-art on-board navigation announcedthatitmustbeimplementedallaround
+systems and Global Positioning System (GPS). the world. Very soon, operators will have to
+RNP improves the efficiency, capacity and challenge their future flight operations. Operators
+environmental performance of the global air may have already noticed the publication of new
+transportation system. RNP AR will support the RNP,RNPARorRNPSAAAR(SpecificAircraft
+development of even more efficient procedures in AircrewAuthorizationRequired)approachesatsome
+terms of fuel emissions, aircraft noise, weather- airports. RNP AR operations cover approaches,
+related minima, access to mountainous areas and missed approaches, SID (Standard Instrument
+airportcongestion(seefigure1).RNPARisoneof Departure) and EOSID (Engine-out SID)
+the possible solutions for futureATM (AirTraffic procedures. This article describes the various
+Management) requirements and optimized flight aspectsanoperatorhastocoverwhenseekingfor
+operations, being part of the Performance Based anoperationalapprovalforRNPARoperations.
+MatthiasMAEDER ErwanCADOT
+RNPSupportPilot AirlinesRNPSupport
+FlightOperationsSupport&Services FlightOperationsSupport&Services
+AirbusCustomerServices AirbusCustomerServices
+26
+44TSAF
+IMPLEMENTINGRNPAR-THEOPERATIONALAPPROVAL
+The Required Navigation Perfor-
+ComparisonofRNPARprocedure(bluetrack)
+mance (RNP) is part of the PBN
+andcurrentconventionalprocedure(yellowtrack)inKJFKairport
+(see figure 2). It refers to aRea
+NAVigation (RNAV), based on
+Figure1
+performance requirements of the
+equipment on-board the aircraft
+operatingalonganATS(AirTraffic
+Service) route, an instrument
+approach procedure, or in a
+designated airspace.Therefore, the
+navigationasperRNAVandRNPis
+independent from conventional
+ground navigational aids (navaids)
+such as the VOR (VHF Omni-
+directionalRange),DME(Distance
+Measurement Equipment), NDB
+(NonDirectionalBeacon),etc.
+ForRNP,theperformancerequire-
+ments of the aircraft are contained
+in the PBN navigation specifica-
+tions.They are expressed in terms
+of accuracy, integrity, continuity, repeatability.RNAValreadybrings
+availabilityandfunctionalityneeded a solution to airport congestion,
+fortheproposedoperation. fuel economy requirements, or
+Additionally, the PBN navigation environmental requirements. Due
+specificationsrequirethatforRNP toimprovedflexibilityoftheRNP
+g l o s s a r y
+operations,theaircraftbeequipped AR procedure design, the benefits
+with an On-Board Performance are even greater. It is therefore
+MonitoringandAlerting(OBPMA) a solution for challenging areas PBN:PerformanceBased
+system. (mountainous areas) thanks to Navigationspecifiessystem
+improved accuracy and flexibility. performancerequirements
+Recent RNAV operations are By reducing the weather minima foraircraftoperatingalonganATS
+considered as performance-based and improving the required route,onaninstrumentapproach
+and referred to as ‘RNP RNAV’ visibility during approach, it may procedureorinadesignated
+approaches.They require in fact a avoidweather-relateddisruptions. airspace.
+navigation solution based on GPS RNAV:(aReaNAVigation)Amethod
+or GNSS (Global Navigation The FAA (Federal Aviation ofnavigationthatenablesaircraft
+SatelliteSystem). Authority) has developed 157 toflyonanydesiredpathdefined
+In 2007, ICAO documented two RNP AR procedures. It plans to bygeographicfixes(latitudes,
+typesofapproaches: publish 300 additional RNP AR longitudes)andnotnecessarily
+•RNPapproaches(RNPAPCH) procedures by 2013. RNP AR is bygroundbasednavigationalaids.
+chartedRNAV(GNSS) specified for highly integrated RNP:RequiredNavigation
+orRNAV(GPS)and, navigationsystems,dualGNSSand Performanceisastatement
+•RNPwithAuthorization FMS, Terrain Awareness Warning ofthenavigationperformance
+RequiredApproaches(RNPAR Systems (TAWS), etc. The crew accuracy,integrity,continuity
+APCH)chartedRNAV(RNP). training and the contingency andavailabilitynecessaryfor
+ItisequivalenttotheAmerican proceduresarealsoakeytoachieve operationswithinadefinedair-
+SAAARoperations. therequiredlevelofsafety. space.RNPdiffersfromRNAV
+bytheadditionalrequirement
+TheRNPARconceptisnotlimited The implementation of the RNP ofOn-BoardPerformance
+to approach procedures. It can AR operation is an airline project. Monitoringandanalertingfunction.
+also apply to SID, and EOSID It is a process involving several RNAV'X'/RNP'X':'X'refers
+procedures, although ICAO speci- entities. The operator has the tothelateralnavigationaccuracy
+ficationsarenotyetpublished. responsibility to obtain an opera- innauticalmilesthatisexpected
+tional process from its national tobeachievedatleast95percent
+The RNP AR contains all advan- Civil Aviation Authority, which oftheflighttime.
+tages of the RNAV concept in will define the operational
+terms of flight path tracking and requirements.
+27
+IMPLEMENTINGRNPAR-THEOPERATIONALAPPROVAL
+44TSAF
+For the operational approval, the RNPARproceduresarepredictable
+airlinewillhavetoaddresstypically andrepeatabletrajectoriesbasedon
+thefollowingtopics: sequenced of fixed legs composed
+•Operationalevaluation of Track to a Fix leg (TF) and
+ofeachRNPARprocedure, Radius to a Fix leg (RF) in WGS
+•Validationofthenavigation 84coordinates.SequencesofTFand
+RNAVandRNPnavigation database, RFlegsofferflexibilityinflightpath
+specificationsasperPBN •FlightOperationSafety geometry that allows designing
+Assessment(FOSA), more efficient routes, thanks to
+Figure2
+•Operationaldocumentation, RNPARprocedures.
+•Procedurecharts,specificflight Thespecificauthorizationrequire-
+PerformanceBasedNavigation crewprocedures,limitations, ment is indicated on the RNPAR
+(PBN) •Aircraftcapability, procedurecharts.RNPARapproa-
+•Flightcrewtraining, ches are charted as ‘RNAV (RNP)
+RNAV RNP •RNPmonitoringprogramme. RWYXX’.
+Navigationspecifications Navigationspecifications
+WithoutPerf.Monitoring WithPerf.Monitoring
+andAlertingSystem andAlertingSystem Airbus is supporting airlines as an Hundreds of public or private
+aircraft manufacturer. It includes RNP AR procedures exist in the
+the aircraft definition, the opera- world. For example, access to Li
+EN-ROUTE TERMINAL APPROACH tional documentation update and Jiang Airport (ZPLJ) in China
+EN-ROUTE TERMINAL
+RNAV10 RNAV1 RNPAPCH theRNPmonitoringprogramme.A has been improved through RNP
+RNAV5 RNAV2 RNP4 RNP1 RNPARAPCH service provider may be involved, AR procedures developed with
+for the design of a new RNP AR ENAC-GGX for Airbus aircraft
+procedure, with procedure charts, (seefigures3and4)
+navigation database coding or
+procedure evaluation. The service
+Aircraft capability
+offer may also include a FOSA as
+required, flight crew procedures
+andflightcrewtraining. Airbus proposes a set of RNPAR
+capabilitiesbasedonEASA(Euro-
+The design pean Aviation Safety Agency)
+certification for the A320 Family
+of procedures
+and A330/A340 Family. Airbus
+RNPAR capabilities are available
+RNP AR operations are based on through RNP AR modification/
+RNP AR procedures. RNP AR Service Bulletins (SB) and are
+procedures are designed based on solutions to the different existing
+specific criteria like SAAAR RNP AR operations with the
+procedures design criteria (FAA appropriateon-boardsystems.
+Order 8260.52) or ICAO Manual
+forImplementationoftheRequired The following capacities are
+Navigation Performance. ‘Public’ currently,orwillbesoonavailable
+procedures are already available on A320 Family and A330/A340
+to all operators; an operator can Family:
+develop ‘private’ or ‘tailored’ •RNPARequalorbelow0.3NM
+SAAAR instrument procedures (innormalconditions:up
+withmoreflexiblecriteria. to0.1NMinapproach
+RNPAR approach procedures are andformostaircraftindeparture
+characterizedby: andduringamissedapproach).
+•RNPvalues≤0.3NM(downto Thiscapabilitycoversthelow
+0.1NM)and/or, RNPvaluesforallenvironments.
+•Curvedflightpathbeforeand Requiredsystems’configuration
+aftertheFinalApproachFix(FAF), answerstoEASArequirements
+•Protectionareaslaterallylimited forthelowRNPvalues.
+to2xRNPvaluewithoutany Asanexample,Airbus
+additionalbuffer. developedthelateraldeviation
+RNP AR missed approach and scale(displayedonPFD)
+instrument departures procedures thatanswerstotheEASA
+includeareducedRNP(<1NM). requirements.
+28
+44TSAF
+IMPLEMENTINGRNPAR-THEOPERATIONALAPPROVAL
+•RNPARlimitedto0.3NM Operational
+DevelopmentofanRNPARprocedure
+(indeparture,approach
+documentation atLiJiangAirport(China).
+andmissedapproach).
+Thiscapabilitymaybe
+thesolutionforallenvironment Airbus supports airlines’RNPAR
+limitedtoa0.3NMRNPvalue. projectsbythedeliveryofRNPAR
+C
+IN
+A
+S
+T
+T
+.C
+RUMENTAPPROACH
+A n c T o o T e d p m o T s c h i n r r t q o f e e i h h a b m a d s v u a n t i u n u n i h s k i i f a t s d s a p d e i i s l , c a g t o m a R d i a c R m r u n t o c d e p N o u e r s N n o o m s a n r a r P n y d r b t P t s ( a o e i d e i A c s o l r f l n A n y i e a e i o n t R f t t v s l s i R u r y e p o t t E e f n r e c c a o n l i d a I 0 e m c e s r r s S a t i . r t t r i s 3 i m s t 1 t t o o o i p h N i a f f t f n n o f l a i a n i h a i s M c n r i c t d e y i l e a h d c a s u t l e a t c a f i r a a n T a i o l p e a n o l t s e b o n 2 p s l a e d y n x e n t , s b C r a s i v a o t b b i t c e h A l l i e r i l o i a t e m l e m t c S v i t y t . e e a a y . ) s r t . . l d R w S e a • • x e B F t c c F ( P s n N i d o i F t e a o e l l r s , h i P i i c C o p w t m c s g g i t c c a a t n O i A h h t a p o R e o b t h g e t t t l n d M R n i e e N i d l M C m s a u s i i a t ) P d n d r r s a i R a . a i e e o e c o t A n r r n S w s N c s e c c e a u u u R t s r u n P a a a o a u a , m O m n d l n d f l f p s t d e p d A e e ( d s a n a e a R F d n p a r R n t n r r i e M t a e t N c d a d a e g t c a t i t d P u ) t i u i m O o i t h n a o e p l n i t A e l p g a o d s n o d . t d e o T , d R a i d u M i r i o p t e d n h o f p a e n e l i e a e t c t d i c e r i s v l n u A a n a o a i g e u m v t t t g f r i e r i i a e r o a o y e d b l r t t n n n h e e u o s t d e s f : / M M a a x x I P A r S o 3300 t : e 99 1 2 9 °° 1 c 9 1 0 3 0 1 1 7 1 t 2 11 4 1 0 0 3 5 2 i 4 4 5 mm o 2 5 0 0 T 4 0 0 0 A 0 k ii 0 7 n nn 0 M 0 4 W 0 f 0 C M 0 t f 33 0 t 0 11 f 0 t 00 D f A 0 G o t 55 f 1 0 t i f R t 77 f n 0 i t s l f 1 t N 00 f t n t 0 A v t 00 : i 6 s E ° t e i 2 L S L 0 u e 11 m T r L 0 I 0 22 d s S d 4 99 0 J M E u i e o °° 0 I A h m n V 0 A N : °063 o p 1 t N M . 2 a S 9 l 2 p 3 7 d 3 G b 9 0 : 3 e 1 1 5 3 9 r 2 5 0 1 7 4 l ° 0 i 8 8 4 L e 0 9 o 5 W 7 c 2 6 T n 0 5 2 1 0 0 7 J 7 0 2 7 a N m 7 t o ( 0 3 ’ g 9 II m 0 Q 4 2 o / m 0 3 AA 0 m w M 0 1 c m 0 5 0 5 m N 8 33 r 0 m 5 FF h m 1 11 1 e 8 m 8 H 0 W A 11 0 r ° 0 ° , ) 0 l 1 0 t T 1 i m t 8 H u .4 d R 5 4 e 2 0 ( 2 6 2 1 E ' 0 ° 6 5 3 2 ' L ° 0 0 3 6 2 ' . 0 E ° 6 0 0 2 ' ° 0 0 V 7 V 1 ) ' ° 0 . a . R 0 0 R . lA l 3 e . M N : u F F 5 00 si 00 o e P r 55 7 i 77 C s f c nr s M r f 3 M a r r o F t iu F m ha o i p r m SS 5 s n r i o m af s o a u s t c AA 8 m n s m L e c m w 00 o R e AA J 00 d i 1 m ( L 99 55 d t P W 1 L 4 i 55 T AA 11 3 AA y n 2 00 J A J 00 1 SS 11 0 r pe A 6g 4 o 2 RR 3 6 p R 0 4 L em 0 p 0 s c f 0 e ° p e t n UU 3 t 6 p p PP RR e 4 o p g r t q s o o r o a 0 d t e ee s t L a o h u o n a o 0 n u r L qq J TT EE a t i l a ' c r R P J e r y L 4 e uu 11 c e e t h 00 4 W d J 0 u q h ii HH CC a NN d 00 1 00 1 rr 4 00 r 00 u 55 B 99 MM 3 55 0 ee 0 e ) 99 a 2 a 6 mm II WW OO l - 11 r 0055 1 00 t AA 00 o ee 1 L o 1 5 nn J V° RR o II 7 F 99 4 C 1 tt AA N LL 55 r 0 ss 00 0 i 9 00 FF 0 A n 1 II 77 J ..99 V 9 77 ZZ a 55 AA 00 A 0 L 11 00 11 11 1 55: PP 00 l 00 11 22 88 0 J R 33 0 °° .. N AA 11 FF F 0 11 A 4 0 II 99 77 AA 88 1 .. ° 66 9 °° 00 2 RR 1 p 1 00 0 FF TT 55 7 L 77 0 0 1 L L 99 1 55 L p 00 4 J 00 4 5 0 J J 0 J 0 CC 4 II r 2 4 9 ' 99 4 4 55 II 4 00 11 00 0 o 0 0 FF 99 OO 0 1 0 88 9 L °° 7 RR 3 a 8 J 11 55 M c .. 99 11 NN 4 88 1 °° AA 1 h a 8 RRFF RR 2 0 x FF / k FF I L 22 33 RR .. A .. R 66 55 t J R L 11 W S 99 4 TT 22.. J 22 33 55 22 1 1 N .. EE 88 4 00 22 2 2 1 L 0000 00 55 99 99 00 1 00 33 33 55 L 0 55 5 J 77 00 A 4 1 33 QQ °° 11 && J 00 0 4 77 .. 0 11 11 55 0 4 0 °° V 0 00 1 00 6° UU 5 AA - 20 II 00005599 R 2 ' RR . RR II R 9 55 0000 N F 55 ° RR .. 77 FF 11 EE 22 P 00.. 995500 11 00 CC DD 1 S 7755 3 00 L RR 00 99 0 A J 55 0 77 77 00 5500 4 00 00 55 EE 0 A 0 00 A 5 00 RR 000055 A 99 D WW 1 FF 2 0 R L 0 MM 77 Z 22 °55 I 1 aa P 1 00 R 00 0 3 0 xx J L 0 W 1 Kk II J I ' ( V AA t ° t 0 A I A SS 8 Y W A ) N R C 2 - G 0 4
+77550000
+the Flight Operational Safety RNPARoperational Assessment (FOSA) to be perfor- specificities, 9000 m pr e o d je b ct y a t p h p e ro a v ir a li l n b e y f a o u r t i h ts or R it N ie P s. AR •A D i o r c w u o m rt e h n i t ne (A ss C C D o ) m .A p C lia D nce RNWex0t2W (N P M t )(NM) DA 2 9 .5 000 2.2 3.6 3.1 5.1 isaRNPARdedicated An airline that wishes to equip operationaldocumentapproved
+its aircraft for RNP AR should byEASA.ACDdetailsallthe
+contact its Customer Support assumptions,relevantinformation
+DirectorandsubmitaRequestFor andlimitationstobeconsidered
+Change(RFC). duringtheRNPARapproval
+processanddesignprocedure.
+The validation Thus,Airbus, through this dedica-
+ted documentation, supports the LiJiangRNPARin3D
+of procedures
+airlines’ operational procedures
+update and approval process for
+Each RNPAR procedure needs to RNPARoperation.
+be thoroughly evaluated. This can
+be accomplished through either
+Training
+ground evaluation (e.g. simulator)
+oractualflightoracombinationof
+both. Theairlineneedstodefineaflight
+Thepurposeisto: crewtrainingthatisadequatetothe
+•Verifytheflyability type of RNPAR operations being
+(inparticularforprivate envisaged.Itmayneedtobespecific
+ortailoredairlines’procedures), foroperationsthataresignificantly
+•Defineadequatenormal different considering the type of
+andabnormalflightcrew flightpath,and/orenvironment.The
+procedures, flight crew training is comprised
+•ValidatetheFMSnavigation ofthefollowingmodules:
+databasecoding, •Groundtraining,
+•Confirmtracks,bankangles, •Flighttraining,
+descentandclimbgradients, •Evaluation,
+runwayalignment,EOSID, •Recurrenttraining.
+•EvaluatetheabsenceofTAWS
+(TerrainAwarenessand Thegroundtrainingsegmentshould
+WarningsSystems)warning addressthefollowingsubjects:
+whentheaircraftisonthe •GeneralconceptsofRNPAR
+nominalflightpath. approachoperation,
+29
+(cid:35)(cid:35)
+C
+IN
+A
+S
+T
+T
+.C
+RUMENNTAPPROACH
+MMiisssseeddAApppp M rrooaaccchhhGGNNSSSSHHoollddiinngg x ::: x IICCAAOOCCrriitteerr PP iiaa A -- DDoocc88 r 116688 S --OOPPSS//661111 :22 c 30 o T A nn M W C M t D A G o i R n i s N n A v : s E e i S L e m r L I s SS d J E u io I A h m n V A : o p 1 t N . aa S 9 l p d G b 0 : e r l 0 i e o WW 7 c T n 00 a tt o ( 3 ’ g II Q o // 3 AAAA ww c 55 5 N 8 r FFFF h e 8 8 H A 0 r ,, ) 0 l 1 t T 1 it 8 H u .4 d R 5 e (1 E 0 3 ' L ° 0. E 00 V V 11 ) 00 . a . R 0 1 00 1 . 1 ll 3 7 . NN : 5 u 5 6 7 00000000 7 000000000000 e P 7 555555555555 7 1 777777 4 s 3 6 8 3 2 ’ ’ / ’/ 5 / T 5 4 A 5 AAAA TT 8 4 81 00000000 LLL 0 AAAAAAAA 0 000000000000 0 0 ( 999999 5555555555 :: 0 11 5555555555 0 AAAAAAAAAA 111111 AAAA 2 000000000000 11 m 0000 SS 111111 00000 mm 88 RRRR 66 00 77 3 UU 00 P RRRRRRRR 11 0eeee > ’’ h < 0 // qqqq 1 TT E ' 55 P 0 uu 1111 9 77 00000000 3 Q iiiiii 7 HHH 00 C a NNNNNNNN 1 00000000 00000000 rr 000000000000 00000000000000 555555555555 9 N 00 99999999 MMMMMMMMMMMMMMMMMM 555555555555 h ) 9999999999 h H mm P II WWWWWW OO 1111 P 00000000005555555555 a 000000000000 A 000000 eeee 1 a 888888 L 22 5 nn J 88 RR 99 F 77 9999999999 4 1 tttt 44 AAAA L 55555555 77 0 ssss 000000000000 0 i 9 00000000 77 FFFF 0 n 1 III J 777777 ZZZ a 5555555555 A 0000000000 A L 00000000 1 PP l 000000 11111111118888 J 00 N AAAAA 1111 0 A 4 0 I 1 ° 2 R 1 pp 1 0 TTTT L 0 1 L L 11 L pp 00000000 J 000000 55 0 J J 00 J C 44 III r 4 9 99999999 4 4 55555555 II 4 00000000 11111111 00000000 0 o 99999999 OOOO 0 1 00 8888 9 L 77 RRR 3 a 8 J 1111 cc 99999999 11 NN 4 88888888 AA 1 hh a 2 00 x / 777777 k FF L RR 77 A R t J 2222 R L 1111 W 44444444 S 4 888888 T J 1111 22 1 1 N EE 8888 4 9999999999 2222 2 2 1 L 00000000000055555555 9999999999 9999 666666 1 33333333 55555555 L 0 5 888888 J 000000000000 A 4 111 33 QQ & 66 J 00000000 0 4 777777 00 555555 5555555555 0 4 0 9999 V 000 00000000 1 000000 6 UU 5 A - 99 222 000000 0 II 77777 000000000000 7777 5555555599 R 2 5555555 RRRRRRRRRRRR . RR I 9 5555 0000000000000000 N 55555555 ° R 777777 FFFFFFFFFFFF 1111 EE 22 P 99999955555555000000000000 C DD 1 S 77777755555555 33 000000 L R 000000 9999 A J 55555555 7777 777777 000000 5555000000 44 0000 00000000 5555 E A 0 000000 A 5 00000000 RRRRRRRR 000000000000005555555555 AA 999999 DD W 11 FFFF 2 0 R L 000 MMMMMMMMMM 777777 Z PPP 222 rr 22222 ° oocc 555555555555555555 I eedduurr 111 ee aa P 111 000000000000000000 R ddeessiiggnn 0000000000 000 3 aa 0000 xxxxxxxx J nndd L cchhaa 0 rr W ttiinnggg 1 K II ::: J bbyy I (( EE V AAAA NNAA ° CC 00 //CC A GGxx--AA I A EE SSSSSSSS RR 88 OO Y ii W A nnSSYYSS--PPP )) N rr R ooccfffooo C rr 2 AAIIRR ©© BBUUSS-- - G 0 22000088 4
+77777777555555555555000000
+FromFeedersttoo MMAAHHPP:::FFAAAACCrriitteerriiaa R w A C RN N L i a W t e S h t TTT x0 P e t HHH o 2 A W g u ( RRR L N 0 o t P ::: S M . t 11 777 r 3 )( 333 y 99 N 555 88 M11 888 °° ) 7 ..33 LLL 9 D JJJ 9 444 A 0 111111 ( / f 00 A t 2 .0 e 4 / RRR T r C 4 WWWW m o H 0 d 22 ) : r 00 4 o 5 aaP m rne r e do n c D P M 6 oo eA 4 tt H d I ccP N 0 u oI ( 1 r I C / f
+F
+e ii( 9 M nn t 3 8 2
+A
+2 G,c / ° 5 A 0 . i 9 P°
+A
+m dd 0 ° )ee (2 ) n
+C
+.9 tta °
+r
+l )
+ite
+5.1
+r
+LL
+i
+V P 3 JJ
+a
+3 FFF44 i 6 2 s AA11 0
+-
+0 00F ( 0 0 m
+O C
+)
+r
+1
+H
+9
+d
+8
+G e
+° 7
+r
+.
+:
+6
+s
+LL
+F
+JJ
+n
+44
+o
+00 K
+° r
+D 99 9 C t
+8
+9 e 7
+O
+o o 5 l 4
+2
+R e 0 i 0
+p
+F n L
+6
+m 0 p J
+e
+o
+0
+9 b R 4 t
+r .
+.8
+3
+LL N
+a
+0 t e JJ o
+B
+1
+t
+x 44 P
+i
+00 c
+- o
+1 a 88 0
+8
+5 e 1
+n
+n 9 .
+2
+0 7 e 3 d
+a
+5 4 0
+6
+R 0 d 2
+l
+u h 0 0
+0
+F 0
+U
+n 2 o
+.
+f 1
+5
+1 t t l
+s
+3 i , d 0
+2
+. l
+e
+4 v . LL
+-
+L k
+.
+JJ i
+8
+M J a t 44 I s
+2
+4 F 000 i t 77 s
+6
+1 h u s 3
+0
+1 e n e 11 .
+.
+d t
+5
+555 1 R i 44 l 1 A
+4
+N 0 1 L p 0 J A p 0 2 r 4 V 2 1 o 1 33 6 a °°° R 5 . c 5 LL . N h JJ 22 44 P ..99 00 °° 66 mis 12 s 5 e 00 d 12 a 3 R 0 p F 0 proac 2 h 1.6 LLJJ440055 GéoTITAN®&AIP-GISCharting® (cid:35)(cid:35) a (cid:35)(cid:35) DA (cid:35)(cid:35) TCH:45 2 (cid:35)(cid:35)(cid:35)(cid:35) 9 (cid:35)(cid:35)
+Figure3
+W20 TCH:45 aaP rne rdocPeAAddPuIe3GG5P)2°) 8 9977 5 4 R 00 0 F 0 14 0 22 F 000 300 FromFeeders R w A C N L i a t S h t P e o A g u L 0 o t S . r 3 y 79 D 9 A 00 (( / f 0 A t 2 .0 e 4 / r 4 m o 0 d ) rome D M 64 H IN 0 ( I C / f
+F
+M t 2
+A
+/ A 0
+A
+m 0 )
+Crite
+5.1
+rii
+V 3
+aa
+3 i 66 22 ss 0
+-
+0 ( 0 0 2 m
+O
+.
+C
+5 )
+r H d G e
+7
+r
+.
+:
+6
+s F n o
+K
+° r
+D 2 C t
+8
+e .
+O
+o o 2 l
+2
+e i
+p
+n L
+6
+m p J
+e
+o
+0
+9 b R 4 t
+r .
+.8
+3
+N
+a
+0 t e o
+B
+1
+t
+x P
+i
+c
+- o
+1 a 0
+8
+5 e
+n
+n 3 .
+2
+7 . e 3 d
+a
+6 0
+6
+d
+l
+u h 0
+00 UU
+n 2 o
+.
+f 1
+5
+11 tt t l
+s
+3 i , dd 0
+2
+. l
+e
+44 v .
+-
+L k
+.
+i
+8
+M J a ts
+2
+4 i t s
+6
+1 h u s 3
+0
+e n e 3 .
+.
+d t .
+5
+1 R il A
+4
+N L pp J AA ppr 4 VV 1 o 1 6 a R 5 . c 5 . N h Pmisse 5 d .1 appproac 2 h 1.6 GéoTITTAAN®&AIP-GISCharting®
+Figure4
+IMPLEMENTINGRNPAR-THEOPERATIONALAPPROVAL
+44TSAF
+•ATC(AirTrafficControl) Brochure
+communicationandcoordination
+fortheuseofRNPAR,
+Detailed information about the
+•RNPARequipmentcomponents,
+RNP AR concept is available for
+controls,displaysandalerts,
+Airbuscustomersthrough‘Getting
+•AFM(AircraftFlightManual)
+toGripswithRNPAR’(document
+informationandoperating
+on AirbusWorld). This document
+procedures,
+presents the RNP AR concept, as
+•MEL(MinimumEquipment
+well as the Airbus solutions and
+List)operatingprovisions.
+airlines’activities to conduct their
+RNPARproject.
+The flight training should address
+amongst others the following
+New subsidiary
+subjects:
+•NormalRNPoperations Quovadis
+fordeparture,approach,
+andmissedapproach, Airbus created a new subsidiary,
+•AbnormalRNPoperations Quovadis, in cooperation with the
+fordeparture,approach, French Civil Aviation University,
+andmissedapproach, ENAC, and CGX AERO in SYS,
+•Contingencyprocedures, a specialist in aeronautical and
+includingexistinglocal geographical information systems.
+procedures. Quovadis offers and sells services
+The airline needs to evaluate each linked to RNP to airlines, autho-
+flightcrewmemberontheirknow- rities and airports. This includes
+ledge of RNPAR procedures.The design of the RNP procedures,
+airline should include an RNPAR validation and testing of proce-
+anAIRBUSsubsidiary
+recurrenttraininginitsoverallflight dures, flight operational approval
+crewrecurrenttrainingprogramme. andflightcrewtraining.
+CONTACTDETAILS
+Capt.MatthiasMAEDER ErwanCADOT
+RNPSupportPilot AirlinesRNPSupportEngineer
+FlightOperationsSupport FlightOperationsSupport
+&Services &Services
+AirbusCustomerServices AirbusCustomerServices
+Tel:+33(0)562110203 Tel:+33(0)561938110
+Fax:+33(0)561932968 Fax:+33(0)561932968
+matthias.maeder@airbus.com erwan.cadot@airbus.com
+Conclusion
+TheRNPARdefinitivelybenefits •Reduceweatherminimain
+frommodernnavigationequipment. mountainousareas.
+ThePerformance-BasedNavigation(PBN) Airbushasbeendevelopingandcertifying
+implementationplanisclear.Andsome RNPARcapabilityonseveralaircraft
+countries(USA,Australia)havealready types.AirbusbelievesthatRNPisthe
+startedtowidelyimplementthePBN futureforAirTrafficManagement(ATM)
+andRNPAR,orRNPSAAAR. andfullysupportRNPARimplementation
+Airbusisalsoconvincedoftheoperational allaroundtheworld.Recently,Airbus
+benefitsoftheimplementationoftheRNP supportedseveralChineseauthoritiesand
+ARoperations.Thepossibleadvantages airlinesindevelopinganddeployingRNP
+ofRNPARcanbefoundto: ARproceduresinYanJi,LiJiang,Huang
+•Reduceairportcongestion, ShanandLhassaairports,tonameafew.
+•Improvefuelconsumption, Thetimehascomeforoperatorsallaround
+•Reducegasemissionswhenassociated theworldtoconsiderimplementingRNP
+totrackmilessavings, ARasawayofpreparingandoptimizing
+•Reduceaircraftnoise, thefutureoftheirflightoperations.
+30
+44TSAF
+JUNKERSG.38-FIRSTAIRBRAKESYSTEM
+Junkers G.38
+First air brake system
+The Junkers G.38 first flew on flights carrying firstly
+in 1929. Two prototypes up to 13 passengers.
+were constructed in Germany. Six passengers were carried
+The G.38 carried a crew in two compartments in the
+of seven. Structurally leading edge of each wing.
+the G.38 confirmed to An air brake system
+standard Junkers' practice, with a tandem undercarriage
+with a multi-tubular spar for the wheels was used
+cantilever wing covered, for the very first time.
+like the rest of the
+aircraft in stressed, Today’s braking evolution
+corrugated duraluminum. systems brings the ultimate
+The undercarriage was fixed, solution as explained
+with double tandem main in our ‘Brake-to-Vacate’
+wheels that were initially article (see page 17)
+enclosed in very large to ease airport congestion
+spats. In flight tests, the and enhance passenger
+G.38 set four world records comfort.
+including speed, distance
+and duration for airplanes
+lifting a 5000kg payload.
+The G.38, during its early
+life was the largest
+land plane in the world.
+Passenger accommodations
+were sumptuous by today's
+standards and were meant
+to rival those offered
+by the competing Zeppelin
+JunkersG.38
+service offered by Delag.
+The plane was unique in Tandemcarriage
+that passengers were seated
+in the wings, which were
+1.7m (5feet 7inch) thick
+at the root. On 1 July 1931
+Lufthansa initiated
+regularly scheduled service
+between Berlin and London
+31
+ysetruoc
+shpargotohP
+egatireH
+etaroproC
+SDAE
+fo
+Customer Services
+events
+Just happened suppliers’aftermarketimprovementinitiatives.
+These meetings will be held in Hamburg on
+A320Familysymposium 15and16SeptemberforEuropeancustomers,
+The 11th Airbus A320 Family symposium followedbyDubaifromthe5to7Octoberfor
+was held in Paris beginning of May. 188 Middle East customers. The goal is to share
+representatives from operators, leasing, MRO with our customers, theAirbus developments
+(Maintenance, Repair and Overhaul) centres in supplier support management, following
+andsuppliersattendedit.Duringthe3daysof which, 10 of our major suppliers will present
+the symposium participants reviewed a wide theirimprovementplanstothecustomergroup
+range of subjects in the technical, economic and hold ‘questions and answers’ sessions.
+and process domains. The symposium's key There will also be an opportunity for
+theme was working together to deliver customers to have bilateral meetings with
+solutions that are both technically and suppliers. The preliminary list of suppliers
+economicallyefficient.Thiswascapturedwith participating is: DASELL, EADS Sogerma,
+the motto, ‘Discuss, Decide, Deliver’. The Eaton, Goodrich Interiors, Goodrich Power,
+symposiumconcludedwiththecaucussession Honeywell, Messier Dowty, Messier Bugatti,
+that highlighted key areas for further work. PanasonicandZodiacServices.Invitationsfor
+These will compliment the areas of de- European and Middle East customers will be
+velopment that are agreed through the FAIR sentinthecomingdays.
+(ForumforAirlineIssuesResolution)process.
+AirbusLeasingSupportconferenceinDublin,
+Feedbackduringandaftertheeventindicateda
+Ireland
+high level of added value for the majority of
+The 6th Leasing Support conference will take
+participants.
+place in Dublin, Ireland on 7 and 8 October
+Performance&FlightOperationsconference 2009.This conference is organized forAirbus
+372 people and 111 airlines attended the 16th leasing companies and addresses dedicated
+Performance and Operations conference in support requirements of lessors and airlines,
+Paris from 11 to 15 May 2009. About one withaspecificfocusonaircraftresidualvalue
+hundred presentations were shown, covering andmaintenanceevents.
+all flight operations activities, such as
+A300/A310Familysymposium
+performances, Electronic Flight Bag and digi-
+The next A300/A310 Family symposium will
+tal documentation, airline economics, etc ...
+be held in Bangkok, Thailand from 9 to 12
+The operators could also attend sessions
+November2009.Inordertomakethiseventas
+dedicated to different aircraft types, and share
+productive as possible for all, Airbus will
+their in-service concerns. The caucus,
+proposeabasicagendathatwillbeaugmented
+organizedonthelastday,enabledouroperators
+with your suggestions and input from FAIR
+to provide us with their feedback on our
+(Forum for Airline Issues Resolution). As
+support in the field of flight operations, but
+usual, adequate facilities will be available for
+alsoontheconferenceitself.
+side meetings during the event.Airbus Family
+Coming soon symposiums are held for each Airbus
+programmeseverytwoyears,andtargetairline
+SupplierImprovementmeetings engineering and maintenance managers. The
+Our Supplier Support Management team is prime function of these meetings is to enable
+organizingtworegionalSupplierImprovement two-way communication, leading to an ever
+meetings later this year focusing on our saferandmoreefficientfleet.
+44TSAF
+32
+44TSAF
+CUSTOMERSERVICESWORLDWIDE AROUNDTHECLOCK... AROUNDTHEWORLD
+WORLDWIDE
+BruceJONES
+SeniorVicePresident
+Services&CustomerSupport
+CustomerServices
+Tel: +33(0)561933504
+Fax: +33(0)561934101
+USA/CANADA
+TomANDERSON
+VicePresidentServices
+&CustomerSupport
+CustomerServices
+Tel: +1(703)8343506
+Fax: +1(703)8343463
+CHINA ServicesandCustomerSupportcentres
+Trainingcentres
+PierreSTEFFEN
+MaterialLogisticscentres/Regionalwarehouses
+VicePresidentServices ResidentCustomerSupportManagers(RCSM)
+&CustomerSupport
+CustomerServices RCSMlocation Country RCSMlocation Country
+Tel: +861080486161Ext5040 AbuDhabi UnitedArabEmirates LosAngeles UnitedStatesofAmerica
+Algiers Algeria Louisville UnitedStatesofAmerica
+Fax: +861080486162/63
+Al-Manamah Bahrain Luton UnitedKingdom
+RESIDENTCUSTOMERSUPPORTADMINISTRATION Almaty Kazakhstan Luxembourg Luxembourg
+Amman Jordan Macau S.A.R.China
+Jean-BernardGALY,Director
+Amsterdam Netherlands Madrid Spain
+ResidentCustomerSupportAdministration Athens Greece Manchester UnitedKingdom
+Tel: +33(0)567190413 Atlanta UnitedStatesofAmerica Manilla Philippines
+Fax: +33(0)561934610 Auckland NewZealand Marrakech Morocco
+Baku Azerbaijan Mauritius Mauritius
+TECHNICAL,MATERIALLOGISTICS Bangkok Thailand Melbourne Australia
+&TRAININGSUPPORT Barcelona Spain Memphis UnitedStatesofAmerica
+AirbushasitsmainMaterialLogisticscentre Beijing China MexicoCity Mexico
+inHamburg,andregionalwarehouses Beirut Lebanon Miami UnitedStatesofAmerica
+Berlin Germany Milan Italy
+inFrankfurt,WashingtonD.C.,Dubaï,Beijing,
+Bogota Colombia Minneapolis UnitedStatesofAmerica
+ShanghaiandSingapore.
+Bratislava Slovakia Montreal Canada
+Bucharest Romania Moscow Russia
+Airbusoperates24hoursadayeveryday.
+Budapest Hungary Mumbai India
+AirbusTechnicalAOGCentre(AIRTAC) BuenosAires Argentina Muscat Oman
+Cairo Egypt Nanjing China
+Tel: +33(0)561933400
+Casablanca Morocco NewYork UnitedStatesofAmerica
+Fax: +33(0)561933500 Changchun China Noumea NewCaledonia
+airtac@airbus.com Charlotte UnitedStatesofAmerica PalmadeMallorca Spain
+Chengdu China Paris France
+SparesAOGsinNorthAmericashouldbe Chicago UnitedStatesofAmerica Paro Bhutan
+addressedto: Cologne Germany Philadelphia UnitedStatesofAmerica
+Tel: +1(703)7299000 Colombo SriLanka Phoenix UnitedStatesofAmerica
+Fax: +1(703)7294373 Copenhagen Denmark Prague CzechRepublic
+Damascus Syria Riyadh SaudiArabia
+SparesAOGsoutsideNorthAmerica Delhi India Roma Italy
+shouldbeaddressedto: Denver UnitedStatesofAmerica SanFrancisco UnitedStatesofAmerica
+Tel: +49(40)50764001 Dhaka Bangladesh SanSalvador ElSalvador
+Doha Qatar Sana’a Yemen
+Fax: +49(40)50764011
+Dubai UnitedArabEmirates Santiago Chile
+aog.spares@airbus.com
+Dublin Ireland SaoPaulo Brazil
+Dusseldorf Germany Seoul SouthKorea
+SparesrelatedHMVissuesoutside
+FortLauderdale UnitedStatesofAmerica Shanghai China
+NorthAmericashouldbeaddressedto: Frankfurt Germany Sharjah UnitedArabEmirates
+Tel: +49(40)50764003 Guangzhou China Shenyang China
+Fax: +49(40)50764013 Guayaquil Ecuador Shenzhen China
+hmv.spares@airbus.com Haikou China Singapore Singapore
+Hamburg Germany Sofia Bulgaria
+AirbusTrainingCentreToulouse,France Hangzhou China Sydney Australia
+Tel: +33(0)561933333 Hanoi Vietnam Taipei Taiwan
+Fax:+33(0)561932094 Helsinki Finland Tashkent Uzbekistan
+HongKong S.A.R.China Tehran Iran
+AirbusMaintenanceTrainingCentreHamburg, Indianapolis UnitedStatesofAmerica TelAviv Israel
+Germany Istanbul Turkey Tirana Albania
+Jakarta Indonesia Tokyo Japan
+Tel: +49(40)74388288
+Jeddah SaudiArabia Toluca Mexico
+Fax:+49(40)74388588
+Johannesburg SouthAfrica Toronto Canada
+Karachi Pakistan Tripoli Libya
+AirbusTrainingsubsidiaries Kita-Kyushu Japan Tunis Tunisia
+Miami,Florida-U.S.A. KualaLumpur Malaysia Vienna Austria
+Tel:+1(305)8713655 KuwaitCity Kuwait Washington UnitedStatesofAmerica
+Fax:+1(305)8714649 Lagos Nigeria Wuhan China
+Lanzhou China Xi'an China
+Beijing,China
+Larnaca Cyprus Yekaterinburg Russia
+Tel:+861080486340 Lisbon Portugal Zurich Switzerland
+Fax:+861080486576 London UnitedKingdom 33

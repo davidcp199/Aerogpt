@@ -1,0 +1,1807 @@
+Airbus technical magazine
+August 2016
+#58
+FA S T
+Flight Airworthiness Support Technology
+The choice is yours
+FAST 2016 QTR 2
+- 25 years of flight operational commonality
+- Flight recorders data inspection
+FAST 2016 QTR 1 FAST October 2015 FAST 2015 QTR 4
+- Virtual Reality & 3D for Technical Data A330 Family Overview - TAT Optimizer
+- Augmented Reality in Airbus Incremental Development - ACE by name, ACE by nature
+FAST 2015 QTR 3 FAST 2015 QTR 2 FAST 2015 QTR 1
+- Managing airframe aerodynamic performance - Stealthy building panels - Ground Support Equipement and tools
+- L-ion batteries - Head-Up Display system - Scheduled maintenance requirements
+FAST 2014 QTR 4 FAST 2014 QTR 3 FAST 2014 QTR 2
+- Additive layer manufacturing - Structure Health Monitoring - Telemetry Centre
+- Inflatable tents for engine maintenance - Importance of reporting event from the field - Greener solutions: cleaner chemicals
+Special Edition
+FAST magazine is also available as a media-enriched app,
+downloadable to the tablet of your choice.
+85#TSAF
+30
+Airbus technical magazine
+#58
+FA S T
+Flight Airworthiness Support Technology
+Publisher: Bruno PIQUET
+Chief Editor: Emma MUNDAY ALVARADO
+Flight operational commonality 04
+Design: PONT BLEU
+Celebrating 25 years
+Cover image: Hervé Gousset
+Printer: Amadio
+Flight recorders 12
+Authorisation for reprinting data inspection
+FAST magazine articles
+Simpler testing methods
+should be requested by email:
+fast.magazine@airbus.com
+VIP Kit solutions 16
+FAST magazine is available on internet
+to optimise A330 and A340 aircraft
+www.airbus.com/support/publications
+and on tablets
+OPTIMA 24
+ISSN 1293-5476
+Optimisation of Performance by Task Interval
+Maintenance Assessment
+© AIRBUS 2016 SWITS 30
+All rights reserved. Proprietary document
+Smart Wiring Troubleshooting
+By taking delivery of this Magazine (hereafter ‘Magazine’), you accept on behalf
+of your company to comply with the following. No other property rights are granted
+by the delivery of this Magazine than the right to read it, for the sole purpose of
+information. This Magazine, its content, illustrations and photos shall not be modified Health monitoring 36
+nor reproduced without prior written consent of Airbus. This Magazine and the
+materials it contains shall not, in whole or in part, be sold, rented, or licensed to any and prognostics
+third party subject to payment or not. This Magazine may contain market-sensitive
+or other information that is correct at the time of going to press. This information
+involves a number of factors which could change over time, affecting the true public
+representation. Airbus assumes no obligation to update any information contained in
+FAST from the past 42
+this document or with respect to the information described herein. The statements
+made herein do not constitute an offer or form part of any contract. They are based on
+Airbus information and are expressed in good faith but no warranty or representation
+is given as to their accuracy. When additional information is required, Airbus can be
+contacted to provide further details. Airbus shall assume no liability for Around the clock, 43
+any damage in connection with the use of this Magazine and the materials it contains,
+even if Airbus has been advised of the likelihood of such damages. This licence around the world
+is governed by French law and exclusive jurisdiction is given to the courts and tribunals
+of Toulouse (France) without prejudice to the right of Airbus to bring proceedings for
+infringement of copyright or any other intellectual property right in any other court of
+competent jurisdiction. Airbus, its logo, A300, A310, A318, A319, A320, A321, A330,
+A340, A350, A380 and A400M are registered trademarks.
+Where you see these icons,
+Photo copyright Airbus videos or slide shows are available
+Photo credits: Airbus Photographic Library, Airbus Group Corporate Heritage, Master Films, on the iPad, Android & Windows
+Céline Sadonnet, Philippe Masclet, Hervé Goussé, A.Doumenjou, app versions of FAST magazine.
+ACJ cabin design and illustrations courtesy of Plus 33 Design Studio
+85#TSAF
+40
+Celebrating 25 years
+of flight operational
+commonality between Airbus
+fly-by-wire aircraft
+With the inception of the A320,
+Airbus laid the foundation for
+a truly integrated family of aircraft
+with synergies in the area of flight training
+and operations. The application of a coherent cockpit
+design philosophy and the use of fly-by-wire technology
+throughout have been key in achieving this.
+Airlines that operate several members of the family
+are thus able to reduce flight training expenditure
+and to increase pilot productivity, gaining a competitive
+edge over operators of disparate fleets.
+85#TSAF
+50
+25 years of flight operational commonality
+Article by A brief history of Airbus flight operational commonality
+When, four years after the A320, the A340 took to the sky in 1991, it became possible
+Gerrit VAN DIJK
+for the very first time to benefit from extensive cockpit, systems and handling com-
+Technical Marketing Director
+monality between a short-range 150 seater and a long-range widebody aircraft twice
+Aircraft Operations
+its size. Until then, so-called flight operational commonality had been a design feature
+Customer Affairs
+of aircraft of comparable configuration and mission capability only, such as the A300/
+AIRBUS
+A310 Family or 737 series.
+gerrit.van-dijk@airbus.com
+The A340 incorporated the A320’s pioneering digital fly-by-wire controls and glass
+Contact for Operator Difference cockpit layout with side sticks instead of yokes. Airbus has used this technology in all
+Requirement (ODR) and Operational subsequent programmes as well, offering a consistent man-machine interface across
+Suitability Data (OSD) requests: the A320, A330, A340 families, A350 XWB and A380.
+Régine VADROT
+Head of Training and Operational Certification The importance of fly-by-wire and ECAM
+Engineering - Product Integrity
+Airbus fly-by-wire aircraft have electrical rather than mechanical signalling of primary
+AIRBUS
+flight controls:
+regine.vadrot@airbus.com
+• The pilot’s input to the control surfaces is sent via a side stick
+and rudder pedals through computers that use control laws
+• Control laws convert this input into an aircraft response
+and largely determine the aircraft’s handling characteristics
+Fly-by-wire enables handling and procedures similarity between aircraft as far apart as
+the two-engine A320 and the seven times heavier four-engine A380.
+Pilots receive systems information through an Electronic Centralised Aircraft Monitor or
+ECAM, the heart of any Airbus glass cockpit. If a malfunction occurs, the ECAM
+displays the fault and lists the actions required of the crew. The read-and-do approach
+that follows facilitates the harmonisation of abnormal and emergency procedures,
+even though systems behaviour may vary somewhat from one aircraft type to another.
+STR Same Type Rating and Single Fleet Flying
+Flight operational commonality between a basic aircraft model and its lengthened/
+Same Type Rating
+shortened fuselage variants can be virtually total. A good example is the single-aisle
+A single licence endorsement A320 Family comprised of the A318, A319, A320 and A321. In addition to sharing the
+for related aircraft sharing same Type Certificate, these models have been assigned a Same Type Rating (FAA
+the same Type Certificate. designation) or single pilot licence endorsement (EASA terminology).
+True for any two Airbus models sharing a Same Type Rating, pilots qualified on one of
+them need only a few hours of e-learning to fly the other model as well. Neither full
+SFF
+flight simulator sessions nor a Type Rating check are mandatory in this case.
+Single Fleet Flying One pool of pilots flying multiple Airbus models under a single licence endorsement is
+referred to as Single Fleet Flying (SFF). SFF is both practical and cost effective since:
+One pool of pilots flying related
+aircraft under a single licence • Take-offs and landings in one model count towards recency of experience
+endorsement. on all when it comes to satisfying the regulatory requirement of at least three
+take-offs and landings at the controls over a 90-day period
+• Recurrent training, proficiency checks and line checks in one model are valid for all
+85#TSAF
+60
+25 years of flight operational commonality
+Flight operational commonality due to a consistent man-machine interface across types
+Electronic Centralised
+Aircraft Monitoring
+(ECAM)
+Fly-by-wire
+Flight control computers
+Surface
+deflection
+Surface
+Pilot Control Aircraft
+deflection
+order laws response
+order
+Feedback
+CCQ Cross Crew Qualification and Mixed Fleet Flying
+Flight operational commonality between Airbus aircraft having separate Type Certifi-
+Cross Crew Qualification cates and requiring separate Type Ratings varies from 40% for the A320-A380 to 90%
+Shortened instead for the A330-A340 combination, measured as a reduction in pilot transition training
+of full transition training to days relative to a standard Type Rating course duration.
+acquire an aircraft Type Rating.
+The remaining transition training from one Airbus type to another is known as Cross
+Crew Qualification (CCQ). It consists of a reduced ground phase and a limited number
+MFF of full flight simulator sessions (handling phase) followed by a Type Rating check. An
+A320 pilot needs five simulator sessions to qualify on the A380, for instance, whereas
+Mixed Fleet Flying pilots without previous Airbus fly-by-wire experience typically have nine sessions.
+One pool of pilots flying related CCQ may lead to Mixed Fleet Flying (MFF). Airbus defines MFF as the operation of
+aircraft that require separate multiple aircraft types – requiring separate licence endorsements – with a pool of
+licence endorsements. multi-qualified pilots. MFF with Airbus aircraft is also practical and cost effective since:
+• Take-offs and landings in one type count towards recency of experience on other
+types, provided that one take-off and landing is performed in each type every 45
+days (the A330-A340 combination does even better => only one take-off and
+landing in one and two in the other every 90 days)
+• Recurrent training, proficiency checks and line checks may alternate between types
+85#TSAF
+70
+25 years of flight operational commonality
+Flight operational commonality due to a consistent man-machine interface across types
+The length of Airbus Type Rating courses
+Flight Crew Licensing (FCL) compliant training and exam days
+(base training not included)
+Days
+25
+MORE time for revenue flying
+REDUCED training cost
+20
+40 to 90% time saving
+15
+with Cross Crew Qualification
+10
+5
+0
+Full A320 or A330 A320 or A340 A320 to A330 A380 to A350 A330 to A340 A340 to A330
+Transition or A340 to A350 or A340
+Training* to A380 & vice versa
+* 23 days for A350, 25 days for A380
+All courses include full flight simulator sessions and a Type Rating check
+85#TSAF
+80
+25 years of flight operational commonality
+CTR Common Type Rating and Single Fleet Flying
+The A330 and A350 have separate Type Certificates, but their handling characteristics
+Common are so similar that they have been granted a Common Type Rating (FAA designation)
+Type Rating or single licence endorsement (EASA terminology).
+A single licence Nevertheless, pilots qualified on the A330 need differences training for the A350,
+endorsement for essentially because of the increased functionality and interactivity that the A350
+related aircraft having cockpit offers. It involves four days of laptop based systems knowledge acquisition
+separate Type and procedures training plus four sessions in a non-moving Flight Training Device
+Certificates. (EASA Level 2, FAA Level 6). Expensive full flight simulator sessions are not mandatory
+and neither is a full Type Rating check. That is why flight operational commonality
+between the A330 and A350 is expressed both in terms of pilot training days reduction
+(65%) and tuition savings (80%), relative to a standard A350 Type Rating course.
+The A330 and A350 may be operated by one pool of pilots under a single licence
+endorsement (SFF) with the following credits:
+• Take-offs and landings performed in any A330 or A350 count
+towards recency of experience on both
+• Line and proficiency checks in any A330 or A350 are valid for both,
+provided that differences have been addressed in recurrent training
+An integrated family
+of aircraft
+5 aircraft types with synergies
+in flight training and flight operations
+85#TSAF
+90
+25 years of flight operational commonality
+Regulatory aspects
+A350 flight training
+Pilots qualified on one Airbus (a ‘base’ aircraft) can be trained on another Airbus
+device for differences
+(the ‘candidate’ aircraft) based on system and manoeuvre comparisons presented in
+training Operator Difference Requirement (ODR) tables. Differences for each aircraft combination
+are listed and graded from A to E level according to their severity, which determines
+the corresponding training and checking needs. Airbus ODR tables are available upon
+request.
+Regulations and recommendations with regard to the use of ODR based training
+programmes, such as CCQ courses, and the implementation of SFF and MFF can
+be found in Operational Suitability Data (OSD) documents published by Airbus and
+approved by EASA. Since the introduction of a new rule in Part 21 pertaining to OSD,
+EASA no longer publishes operational evaluation results as Operations Evaluation
+Board reports. Existing reports disappeared from the EASA website at the
+end of 2015; from that date those with an Airbus content are managed by Airbus
+and released to operators on an ad hoc basis, as is the case for approved OSD
+documents today.
+The FAA equivalent of Operations Evaluation Board reports and now OSD documents
+is the Flight Standardization Board (FSB) report. FSB reports continue to be published
+on the FSIMS website of the FAA.
+A330 to A350 training may be
+done with an FTD2* instead
+A pilot’s perspective on flight operational commonality
+of a full flight simulator, which
+reduces the training media The skills and experience accumulated in one Airbus aircraft can be carried over
+investment significantly. to another one, which enhances proficiency. Pilots benefit from greater mobility too:
+an airline looking for, say, A330 qualified pilots may also invite A320 pilots to apply,
+Equipped with full size cockpit panels
+since the cost of A320 to A330 CCQ is relatively low.
+and all controls, switches and knobs
+that physically replicate the aircraft. Those who practise SFF and/or MFF gain access to a larger part of the network, so
+their work environment is more varied. This could mean alternating long haul with short
+* Non-moving Flight Training Device
+haul trips, which provides more take-off and landing opportunities and may lead to a
+(EASA Level 2, FAA Level 6)
+better balance between work and private life compared with purely long haul flying.
+Complacency is less likely and motivation tends to improve as well.
+85#TSAF
+01
+25 years of flight operational commonality
+The value of flight
+operational commonality
+Generally, airline pilots get to fly various aircraft models and/or types Recent developments
+during their professional life, because of:
+The integration of the A350 into the
+• Career incentives that make them move to bigger equipment Airbus family of fly-by-wire aircraft is a
+and change from the right- to the left-hand seat fine example of Airbus’ ability to combine
+innovation with commonality. Following
+• Aircraft replacement initiated by their employer
+regulatory approval of a Common Type
+• A change of employer Rating for the A330 and A350 as well as
+CCQ from the A320 Family in 2014,
+• A combination of the above
+A340 to A350 and A380 to A350 CCQ
+It is not uncommon for a pilot to experience six to eight equipment changes courses are now available too.
+in total at a typical retraining cost of US$30,000 per event in 2016 economic Flight operational commonality between
+conditions. Add around one-and-a-half months of downtime for each change the A350 and A380 in particular is an
+and it becomes obvious that this is costing the airlines collectively several impressive 80%, resulting in a CCQ
+billions of dollars every year. Those with an Airbus fleet, however, can reduce duration of only five days and a recency
+pilot retraining cost by two-thirds on average when using ODR based training of experience requirement in MFF
+programmes. operations equal to that of the
+In addition to that, airlines can take advantage of SFF and MFF in many ways: A330-A340 combination.
+• From creating an integrated fleet management structure As for the A320neo, EASA and the FAA
+and multi-qualifying their flight instructors/examiners… have concluded that the installation of
+PW1100G-JM or CFM LEAP-1A engines
+• To using single-aisle first officers as augmentation pilots
+does not really change the handling
+on long-range widebody aircraft or even multi-qualifying
+characteristics in comparison with the
+reserve crews and ordinary line pilots at large
+CFM56 or V2500 powered A320ceo.
+SFF and MFF offer rostering flexibility, which results in greater pilot productivity. Henceforth, the A320neo can be
+Smaller airlines benefit from powerful economies of scale that were the considered a variant of the A320ceo
+privilege of big operators before. Depending on the mix of fleet and the nature under a single pilot licence endorsement
+of an airline’s flight operations, annual revenue flying time per pilot may (Same Type Rating) designated ‘A320’.
+increase by 5 to 15% with SFF and MFF.
+Airbus flight operational commonality has been demonstrated to save up to
+US$8 million per aircraft in present value terms over a 15-year period.
+Greater pilot productivity due to flight operational commonality
+Crews
+per A350 stand-alone
+Economies
+aircraft A330 stand-alone
+of scale
+and less time
+With A330-A350 SFF*
+in training
+SFF & MFF effect
+Typically
+5-15%
+CCQ effect more revenue
+flying time
+per pilot
+0 10 20 30 40 50 60 70 80 90 Fleet size
+Steady state relationship observed at various airlines
+* In combination with CCQ from the A320 for instance
+85#TSAF
+11
+25 years of flight operational commonality
+Large-scale CCQ and MFF are unique to Airbus and much appreciated by its customers:
+‘
+One of the attractions Operating both A320 Family Our airline has employed CCQ is really a plus
+of going for MFF was the and A330 aircraft does CCQ/MFF for a number and training is facilitated
+advantages it would bring not create any operational of years now, which has by the Airbus approach
+in terms of mixing long difficulties for our pilots but turned out to be effective Brussels Airlines
+and short haul flying and only benefits with regard and successful. We took
+MFF is very beneficial for
+this has been very popular to crew planning and saving full advantage of the strong
+mid-size companies like ours.
+with our pilots in terms resources functional commonality
+We would like to congratulate
+of maintaining recency Windrose Airlines established by ODR tables
+Airbus on this
+and competency and Operations Evaluation ’
+Cathay Pacific Airways The MFF is most useful Board reports Onur Air
+for flexibility Gulf Air
+Thomas Cook Airlines
+CCQ is a reality
+at more than 60 operators,
+35 of which have
+also implemented MFF.
+Be one of them!
+CONCLUSION
+All Airbus fly-by-wire airliners have been designed with flight operational commonality in mind,
+which has resulted in exceptional handling and procedures similarity between even the smallest
+and the biggest of those aircraft.
+Over the past 25 years, numerous operators around the world have discovered the benefits of this:
+optimised flight training and unprecedented crew rostering flexibility coupled with enhanced pilot
+proficiency and motivation.
+Airbus remains strongly committed to offering this valuable feature to its customers, as demonstrated
+by the successful integration of the A350 and A320neo into the Airbus product line.
+85#TSAF
+21
+Flight recorders
+data inspection
+by Airbus
+The flight recorders or “black boxes” might be the most
+famous avionics units in an aircraft. They do not make an
+aircraft fly; they do not participate to passenger comfort.
+However, black boxes are well known by the public
+because they contain something precious: flight data.
+Whenever an aircraft accident occurs, an investigation is
+launched to determine its root causes. For that, investi- Article by (left to right)
+gators need lots of flight data. The more accurate the Raphaëlle OMON
+Indicating, Recorders
+data, the more precise the investigation results will be
+& Lighting Systems Engineer
+and the more benefits will be derived for aviation safety. AIRBUS
+raphaelle.omon@airbus.com
+This is why black boxes draw so much attention. This is
+Thomas QUILLIOU
+also why it is so important to continuously ensure that
+Product Leader Recorders,
+flight recorders’ data quality is high at all times. Cockpit Clock & Lighting Systems
+AIRBUS
+thomas.t.quilliou@airbus.com
+85#TSAF
+31
+Flight recorders data inspection by Airbus
+Two flight recorders are installed on each Airbus aircraft:
+• The Cockpit Voice Recorder (CVR): with a capacity of 30 minutes to 120 minutes of
+audio data. The CVR records the entire cockpit audio environment on four channels.
+Three channels are dedicated to the crew members (captain, first officer, third
+occupant seat) and one channel is dedicated to the Cockpit Ambient Microphone
+(CAM).
+• The Digital Flight Data Recorder (DFDR): with a capacity of 25 hours of continuous
+recording. The DFDR records up to 88 parameters as required by international
+regulations. Each of these 88 parameters represents tens of different signals.
+Regulation changes requiring periodic data inspection
+The regulation authorities, especially the International Civil Aviation Organization
+(ICAO), the European Commission through the European Aviation Safety Agency
+(EASA), and the Federal Aviation Administration (FAA) have adopted regulations
+whereby the flight recorders’ data must be inspected at intervals.
+Several national aviation authorities have expressed similar requirements in their
+aircraft operating rules. These requirements usually apply even on flight recorders
+continuously monitored by On-board Maintenance Systems.
+The requirements consist in checking:
+• For the CVR: the correct duration of the recordings and the quality of audio data
+• For the DFDR: the correct duration of the recording and the reasonableness of
+recorded parameters
+The inspection of flight recorders may require a significant number of engineering
+hours, in order to:
+• Correctly transform the raw data into engineering units
+• Analyse the behaviour of each parameter, by comparison with the flight context
+• Produce an inspection report
+• Define and document procedures in use
+85#TSAF
+41
+Flight recorders data inspection by Airbus
+New economical flight recorders
+data inspection by Airbus
+Every year Airbus performs hundreds of flight recorder readouts, either for certification
+or for aircraft incident analysis purpose. Airbus assets comprise facilities, ground
+support equipment, proprietary software, and above all: skilled, trained personnel.
+Airbus data inspection services include:
+• The CVR audio inspection service where an audio inspection report is provided.
+This service is now proposed in the e-catalogue
+• The DFDR data inspection, provided as technical assistance
+Since 2016 Airbus offers quick and economic data inspection. Data is transferred
+to Airbus using a secured File Transfer System (FTP): there is no need to ship
+the unit to Airbus.
+Usual data inspection Data inspection service by Airbus
+Airline Repair shop Airline Airbus
+Shipment Secured
+of unit File Transfer System
+to shop (FTS)
+Data
+extraction
+Unit removal Data Expert
++ replacement Data download data
+with another inspection on-wing examination
+unit
+Unit
+recertification
+Return shipment Compliant
+of unit to airline inspection report
+Airbus provides turnkey solutions characterised by concise, compliant reports.
+CVR audio DFDR data
+inspection inspection
+The inspection of CVR audio has The inspection of DFDR data must determine the serviceability
+to be done at intervals of 3 months of each mandatory parameter recorded by the DFDR.
+to 2 years.
+This check requires a precise knowledge of the aircraft config-
+The expected quality of a CVR uration and of the aircraft systems.
+audio recording depends on
+For example: let’s consider a parameter remaining invalid during
+different factors such as:
+an entire flight. This may be a normal situation:
+• The type of aircraft
+• The parameter may correspond to a function not exercised
+• The technology of the CVR during this flight
+and its peripherals
+• The parameter may be available only with certain options
+• The channel being analysed installed on the aircraft
+The CVR audio inspection The DFDR data inspection by Airbus crosschecks the recorded
+must therefore be performed data with aircraft configuration data, and engineering judgement,
+by experienced and trained to produce a turnkey report (no additional engineering hours
+personnel. to be spent to analyse the report).
+85#TSAF
+51
+Flight recorders data inspection by Airbus
+Advantages of flight recorders data inspection by Airbus
+• Turnkey solution: by using Airbus services, an airline minimises the number
+of engineering hours required for an inspection
+• File Transfer Service: no unit shipment is needed; this reduces the number of unit
+removals, and all ancillary costs (spare installation, shipment, and recertification)
+• Advice: in case any issue is found on a flight recorder, Airbus provides precise
+troubleshooting advice and follow-up to ensure the recorder serviceability
+• Expertise: flight recorders data is analysed by expert personnel, who are
+experienced in analysing data
+For more information and prices concerning flight recorder data inspection by Airbus,
+please contact Airbus customer support through Tech request in ATA 2371 or 3133.
+CONCLUSION
+Airbus flight recorder inspection services offer a new turnkey solution for airlines. These services are
+proposed to allow airlines to benefit from Airbus’ experience in the area of flight recorders. By selecting
+Airbus services, an airline minimises the number of engineering hours spent on inspection tasks, and can
+focus on their flight and maintenance operations.
+85#TSAF
+61
+Airbus Corporate Jets
+VIP Kit solutions
+to optimise A330
+and A340 aircraft
+Airbus commercial aircraft cabins are carefully configured
+to correspond with an airline’s most efficient, revenue
+generating operations.
+Responding to the needs of operators with requirements
+that extend beyond the scope of usual airline full passenger
+seat arrangements, Airbus has its own division dedicated
+Article by
+to equipping its aircraft with highly customised VIP cabins.
+Lai-ling FUNG
+Cabin Engineering Project Manager In order to offer airlines additional flexibility and opportunities
+AIRBUS
+for creative, optimised use of their aircraft, Airbus Corporate
+lai-ling.fung@airbus.com
+Jets (ACJ) now offers a VIP Kit solution for A330 and A340
+aircraft.
+This VIP Kit transforms the central part of a standard full
+passenger seating cabin into a luxurious corporate jet
+compartment.
+VIP Kit solutions to optimise A330 and A340 aircraft
+85#TSAF
+71
+New cabin products
+In this very competitive market, airlines are obliged to develop strategies to capture
+the maximum of business. A key factor differentiating the services of one airline to
+another is the level of comfort and amount of amenities aboard the aircraft.
+In addition to the operation of an Airbus fleet composed of the most modern aircraft
+in the world, airlines are continuously updating their cabins to provide maximum
+comfort and value-for-money for their passengers.
+Airlines also benefit from the economic advantages that refurbished cabins bring:
+weight saving, increased technological reliability, reduced maintenance costs and
+good levels of product support, warranty and spares availability from the suppliers
+of the innovative systems and furnishings.
+Cabin renewal gives the airline a chance to keep up with industry trends and to adapt
+to route changes and company strategy. Attractive, comfortable and modern cabins
+enable airlines to compete for increasingly discerning passengers.
+Seat suppliers are responding to this continuous cabin upgrade trend by producing
+new style hi-tech and ergonomic products. The old style reclining seats are being
+replaced with horizontal full-flat beds enclosed in private cocoons and packed with
+the latest IFE. Today’s premium economy class rivals many of yesterday’s business
+classes, and today’s business class is more luxurious than yesterday’s first class.
+However equipping a cabin with the most up-to-date and comfortable seats is no
+longer enough – some airlines are going even further by offering passengers their own
+individual compartments in the form of mini-suites while others offer ultra-high-end
+amenities such as bars, relaxation lounges, showers and entire private apartments
+in the skies.
+The appearance of corporate jet style luxury inside a commercial airline cabin is making
+the headlines with Hollywood A-list personalities seen travelling in style in the TV
+commercials for some Airbus operators. Not only is such exposure providing a lot
+of publicity for the airline, but passengers are prepared to pay premium fares for
+the privilege of VVIP travelling.
+85#TSAF
+81
+VIP Kit solutions to optimise A330 and A340 aircraft
+ACJ VIP Kits
+85#TSAF
+91
+VIP Kit solutions to optimise A330 and A340 aircraft
+Combining luxury and flexibility
+While airline ultra-first class arrangements are a fixed and permanently installed feature
+on an aircraft and will fly regardless if booked or not, ACJ introduces a new concept
+of temporarily installed quick-change VIP amenities into a standard cabin by retrofit.
+This concept referred to as a ‘VIP Kit’ opens up a world of possibilities to airlines
+seeking to optimise their operations by using the same aircraft for a multitude of
+missions and to target a full range of passenger profiles according to demand, season,
+special events and specific company strategy.
+The ACJ VIP Kit is a set of modular furnishings (seats, beds, tables, divans, partitions…)
+that can be retrofitted into the standard airline cabin with minimum impact to the
+surrounding monuments, lining and systems. The majority of the furnishings are
+designed to lock into the existing standard seat rails. All that is needed to transform the
+cabin is to remove the seats within the zone to be converted and slot the specially
+designed kit into place. CIDS and IFE re-configurations depend on the pre-mod status
+of the cabin but are generally limited to simple software reprogramming uploaded from
+a memory stick.
+CIDS Cabin Intercommunication Data System
+IFE In Flight Entertainment
+85#TSAF
+02
+VIP Kit solutions to optimise A330 and A340 aircraft
+Example of ACJ340 Conference room
+Protocol/Security area Example of ACJ340 Office
+VIP Kit solutions to optimise A330 and A340 aircraft
+85#TSAF
+12
+ACJ VIP Kits are designed to be a plug and play solution
+Depending on the configuration of the kit which is individually designed for each
+customer, cabin conversion can take between 8 hours for two tables and 8
+armchairs on an A320 to a few days for a full section of A330 VIP corporate jet
+furnishings including bedroom, lounge and office.
+An ACJ VIP Kit will enable the operator to respond quickly to fluctuations in passen-
+ger demand, can help utilise the same aircraft on different routes, can be a powerful
+promotional feature and overall will provide the flexibility to optimise flight operations.
+Airbus is the first to offer “two-for-one” high comfort commercial cabin quick-change
+configurations.
+The process of custom definition, manufacture and entry-into-service of an ACJ VIP
+kit follows a similar pattern to that of the original cabin but at a reduced scale, to a
+Airbus
+quicker timeframe and with a greater degree of design flexibility. As ACJ is part of
+Airbus, ACJ guarantees full certification and airworthiness compliance plus the usual
+Corporate
+high level of after-sales support our customers expect for their fleets.
+Jets
+When it comes to corporate jet ACJ A330/A340 VIP Kit
+style luxury, Airbus has its own
+Flying to new heights in aircraft dual utilisation
+division dedicated to equipping its
+aircraft with the finest VIP cabins. Further to providing the possibility to install a section of quick-change ultra-first
+ACJ is unique amongst commercial class furnishings into a commercial aircraft, an ACJ VIP Kit can also completely
+aircraft manufacturers in providing transform the entire aircraft for very special missions.
+a complete range of services from
+In line with the “two-for-one” concept, an ACJ VIP Kit may be particularly attractive
+marketing, sales, cabin installation,
+to governmental customers wishing to utilise a long range aircraft from their
+entry-into-service and after-sales
+national carrier for worldwide summit meetings and intercontinental state visits.
+support, maintenance and cabin
+The utilisation of the same A330/A340 aircraft for commercial revenue flights plus
+rebuild for very specific aircraft
+for private state use makes good economic sense. When not used by the ministry,
+interior configurations.
+the aircraft is flying with the country’s airline.
+ACJ’s capability ranges from the Another clever application of an ACJ VIP Kit can be for charter operators of Airbus
+full furnishing of an A340-600 VVIP A330 and A340 aircraft seeking to broaden the scope of the services they offer
+aircraft for a private individual, to by proposing different cabins on the same aircraft according to customer needs.
+highly appointed A318 aircraft
+The generous cabin space of at least 216m2 on an A330 and A340 can easily
+destined for luxury business jet
+accommodate a full ACJ VIP Kit comprising several private rooms. Sufficient
+charter operations. The division
+passenger seating in business class and economy class level is maintained in the
+has built A320 cabins for efficient
+aircraft for entourage, journalists and associated staff for a total passenger count
+governmental transport and A319s
+of about 200.
+have been equipped as comfortable
+company shuttles. In order to provide the quickest solution to transform an all-passenger aircraft into
+a corporate jet, ACJ has taken the initiative to pre-engineer a VIP kit that can be
+installed into a part of the constant section of any in-service A330 and A340 aircraft.
+Based on its extensive experience of VIP jet furnishing this specific ACJ A330/
+A340 VIP Kit offers a comprehensive layout arrangement over almost 60m2
+comprising a generously sized and luxuriously finished executive seating area
+(14m2), conference/dining room (22m2), private office (9m2) and a bedroom (13m2).
+High-end local IFE (video screens and Blu-ray players) is also included in the kit
+that fits perfectly into existing linings under the overhead stowage compartments.
+The seats and divan are all certified to 16G requirements and are qualified for
+occupation during Taxi, Take-Off and Landing. A total of 19 passengers can be
+accommodated in the ACJ A330/A340 VIP Kit.
+Each of the individual seats is located adjacent to a separate full size table for
+comfortable working and spacious dining. The executive seating, in particular,
+is located in its own zone and can be used for guests or for protocol and
+entourage staff.
+85#TSAF
+22
+VIP Kit solutions to optimise A330 and A340 aircraft
+Not only does the ACJ A330/A340 VIP Kit offer luxurious seating but for night flights
+the seating positions can be transformed into a total of 11 full length horizontal flat beds,
+of which 3 are at least 1m x 2m size single beds of the best comfort in 2 separate
+private rooms.
+Working is facilitated by the spacious conference room that spans the entire 5.3m width
+of the A330 and A340 cabin. Equipped with a 42” video screen, presentations can be
+easily shared amongst the 12 participants. By laying beautiful linen on the working tables,
+the conference room is transformed into an exclusive dining area.
+A fully enclosed private office is also included, comprising a convertible 3-seater divan,
+a convenient desk and an armchair. The 30” video screen mounted onto a pivoting arm
+can be viewed from both the armchair and the divan, enabling the office to be also used
+as a cinema lounge.
+Finally, the ACJ A330/A340 VIP Kit offers the privilege of having a fully separate calm
+and quiet bedroom in the cabin. This room features 2 full size 1m x 2m single beds,
+each equipped with its own IFE screen and stowage console in addition to the existing
+overhead compartments.
+As a majority of the ACJ A330/A340 Kit components are already produced, the lead time
+to design and manufacture a section of VIP cabin on an A330 or A340 is an impressive
+50% less than compared to a 20-month standard lead time for a comparable product.
+Example of
+ACJ340 Office
+85#TSAF
+32
+VIP Kit solutions to optimise A330 and A340 aircraft
+Example of
+ACJ319 Club 2 and divan
+with consoles Finalisation of the ACJ A330/A340 VIP Kit to the pre-defined configuration and trim
+and finish is expected to take only 10 months. However, adaptation and fine-tuning
+to the precise pre-mod status of the customer aircraft may need additional lead time.
+Customer special requests and additional customisation will also impact lead time,
+to be studied on a case by case basis.
+ACJ is here to guide operators through each step of the customisation process
+and ACJ’s highly specialised engineers and designers are ready to respond to the
+customers’ every need.
+Once the ACJ A330/A340 VIP Kit is finalised and a small amount of aircraft provisions
+installed (some load-bearing hardpoints and power connection sockets only), it takes
+about 4 days to convert the airliner cabin into a VIP jet. Another 3 days is all it takes
+to restore the cabin back to its former standard configuration.
+All ACJ VIP Kit parts are designed with appropriate split lines to fit through the cabin
+doors. As a bonus, the ACJ A330/A340 VIP Kit components can also be packed and
+stowed in the cargo hold in special boxes (included) for transportation to an outstation
+if needed. This gives operators the added freedom to convert the dedicated aircraft in
+Cabin design and illustrations a qualified maintenance centre wherever it may be in the world, without any need to fly
+courtesy of Plus 33 Design Studio back to the home base.
+CONCLUSION
+ACJ enables operators to enhance their cabins with luxurious furnishings and also with ACJ VIP Kits
+for quick cabin conversion in the race for best comfort and optimisation of aircraft usage.
+The ACJ A330/A340 VIP Kit solution presents a unique opportunity to easily and temporarily upgrade
+the full A330 and A340 passenger cabin into a corporate jet in less than a week to use the aircraft
+for special missions.
+There is currently one pre-engineered ACJ A330/A340 VIP Kit immediately available on the market.
+This is an exceptional chance to benefit from the expertise of ACJ and be the first to secure
+an innovative and powerful tool for ‘two-for-one’ operations of Airbus A330 and A340 aircraft.
+For further information, contact the ACJ sales team:
+Chadi SAADE, Email: chadi.saade@airbus.com, Tel: 00 33 (0)5 61 93 29 09
+85#TSAF
+42
+O P T I M A
+Optimisation of Performance by Task Interval Maintenance Assessment
+The optimisation of maintenance programmes, together
+with planning activities, play an important role for
+aircraft performance; reducing Direct Maintenance
+Costs (DMC) and enhancing aircraft availability.
+This article gives a glimpse of the Airbus engineering
+approach to implementing an optimisation of the
+Article by (left to right) maintenance programme at the Maintenance Review
+Oliver Weiss Board Report (MRBR) level as well as for operators’
+Head of Maintenance
+customised maintenance programmes.
+Programmes Engineering
+Systems
+AIRBUS The Optimisation of Performance by Task Interval Maintenance Assessment (OPTIMA)
+oliver.weiss@airbus.com is not an Airbus tool but a process developed by Airbus and accepted by EASA, FAA
+and Transport Canada with the objective to optimise maintenance requirements
+Luis Calderon (including tasks, procedures and task intervals) from the maintenance programme
+Business Developer, without compromising safety and ensuring reliable and cost-effective aircraft operations.
+Maintenance Programmes
+The maintenance programme optimisation with the OPTIMA process monitors the
+Engineering
+maintenance programme’s efficiency throughout a cycle that involves three major
+AIRBUS
+interlaced cornerstones: Optimisation assessment, In-service data, and Optimisation
+luis.calderon@airbus.com
+implementation.
+Paul Bruzzone
+Manager, A330 Fleet Optimisation
+Engineering Management
+assessment
+QANTAS Engineering
+In-service Optimisation
+data implementation
+85#TSAF
+52
+OPTIMA
+Optimisation of Performance by Task Interval Maintenance Assessment The OPTIMA process consists of a series of steps to ensure the best results:
+• Capturing and processing relevant aircraft in-service data
+• Analysing the failure effects and related faults on the aircraft systems and operations
+• Assessing the consequences of a functional defect occurring during operations
+• Using engineering judgement and statistical methods on the data to estimate how
+long operations can continue with hidden defects
+• Effectively implementing the assessment results in the maintenance programme
+• Measuring the efficiency of the optimisation by analysing the data after implementing
+the changes in the MRBR or in the operators maintenance programme
+The OPTIMA process can be applied to MRBR evolutions or for the optimisation of
+operators’ customised maintenance programmes. For the optimisation of the MRBR,
+the quality of the data is just as relevant as the quantity.
+Only fully reported maintenance tasks represent the “data sample”. This data sample
+reaches a 95% confidence level, only once reasonable levels of data quality and
+quantity are met. Airbus introduced a statistical mathematical model in order to take
+full benefit of the reported scheduled maintenance in-service data.
+The principle is to estimate the whole Fleet Finding Rate “F” and the associated
+Margin of Error “ME”, with a confidence level of 95%, using iterative algorithms and
+integrating a method that will attribute a weight to each report depending on the task
+accomplishment interval. Even in the case of customised optimisation for a specific
+operator where all the relevant data of the operators’ fleet is available (the data
+sample will therefore be equal to the fleet), the Fleet Finding Rate will be computed to
+give weight to each report depending on the task accomplishment interval.
+Task
+Report at 50% Report at 90% accomplished
+of MRBR interval of MRBR interval at 50% Task
+of MRBR accomplished
+interval at 90%
+of MRBR
+interval
+Previous task MRBR F +/- ME
+accomplishment interval
+Unscheduled maintenance and replacement data either related to a specific mainte-
+nance requirement or that could later trigger new requirements is a key element of the
+in-service data collected. Not only are the operational interruptions considered in the
+analysis but also any minor finding or unscheduled event recorded by the flight crew,
+cabin crew and/or maintenance crew during the aircraft operation.
+Data sample reports and new shop reports are included in the collection of in-service
+data for those tasks where no Non-Routine Card (NRC) findings from scheduled events
+are expected (e.g. Discard tasks, Lubrication tasks, etc.).
+Economic data for scheduled and unscheduled events are also part of the in-service
+data required for the optimisation. These are considered as part of the economic
+assessment of the effectiveness of maintenance requirements. Economic data is
+excluded for the optimisation of safety-related maintenance tasks.
+85#TSAF
+62
+OPTIMA
+Figure 3
+Scheduled Component Operational Unscheduled Economic Sample
+maintenance reliability reliability maintenance data & shop
+data data data data reports data
+Operator Additional data
+specific data Operational collection has
+uploaded into Interruptions Operators’ been launched
+Data delivered Line and Base
+Airbus’ chargeable to specific to support
+to Airbus Non-Routine
+database the aircraft data; Aircraft
+in industry Cards
+(delays, e.g. Maintenance
+standards and TechLog
+cancellation, man hours, System
+and uploaded entries
+deviation, Operational optimisation
+into Airbus’ systematically
+Airbus in flight Interruption (servicing,
+database recorded
+fleet turn back, costs lubrication,
+data etc.) restoration,
+discard tasks)
+Data is uploaded to Airbus’ database in order to optimise maintenance programming
+and allow the final data to conform with e-Business SPEC2000. Airbus is then able
+to manage different data formats and upload them for the operator into the Airbus
+“In-service Data On-Line Services” IDOLS. (Figure 3)
+The quality of the final data is ensured through OPTIMA engineering data validation.
+The data packages are scrutinised to determine a correlation with the impacted
+maintenance requirement and/or determine potential new requirements.
+OPTIMA assesses the data and recommends task intervals, task procedure
+and/or task adaptation
+The OPTIMA assessment makes full use of Airbus’ specialist “engineering judgement”
+and a “risk analysis” on the relevant validated data. The OPTIMA process focuses not
+only on the analysis of scheduled maintenance data but it also gives the same relevance
+to all in-service data, Airbus’ worldwide fleet experience and Airbus’ first-hand design
+knowledge (Figure 4). This, together with the further development of statistical formulas,
+is a significant complementary step to the general approach maintained throughout
+the years by the industry and regulatory entities for optimisation exercises.
+Scheduled Unscheduled
+Unscheduled
+removals maintenance removals
+Scheduled
+maintenance
+Direct
+Direct Operational
+Maintenance Maintenance
+Operational Costs interruptions
+Costs
+interruptions
+Figure 4: OPTIMA gives the same relevance to all in-service data,
+Airbus’ worldwide fleet experience and Airbus’ first-hand design knowledge
+85#TSAF
+72
+OPTIMA
+Task Reports Economic Information
+Nb. A/C
+Nb. Of Operators
+Total Reports
+Findings Finding Rate & ME
+Task Reports by Actual Interval FH
+Climatic Areas
+Task Reports by Age
+Operational Interruptions
+Operational Interruptions per year
+tnuoC
+.R.T
+tnuoC
+.R.T
+tnuoC
+.I.O
+etaR
+.F
+etaR
+.F
+Total valid Reports Findings Finding Rate
+Cost/A/C/Year ($) 12
+100.00%
+0.00%
+)$(
+raeY/C/A/tsoC
+Scheduled
+Unscheduled
+Sched. Maint. Cost
+.I.S.R
+The assessment’s objective is to determine the most optimised interval for a specific
+maintenance requirement. This optimised interval should be understood as a value
+within a “corridor” where the higher limit (maximum risk) will represent an increased
+probability of an unscheduled maintenance event taking place and the lower limit
+(minimum risk) will represent the first opportunity for preventive maintenance.
+The results of the data assessment and the computed values from the mathematical
+model/formula are represented in a dashboard (Figure 5).
+Figure 5: Dashboard
+406
+14 200 100%
+150 80%
+709 100 60%
+0 50 4 2 0 0 % % 0 0
+Fin
+F
+d
+le
+in
+e
+g
+t F
+R
+R
+ate 0
+0
+,
+,
+4
+4
+0
+0
+%
+%
+<0 o
+(en.. 0-749 750-1499 1500-2249 2250-2999 3000-3749 3750-4499 4500-5249 5250-5999 6000-6749 6750-7499 7500-974
+9
+9 750-11999
+ME 0,40% Unsched. Maint. Cost
+Boreal/Polar X 400 100% 14
+Desert 300 80%
+Sub-Tropical X 200 60% 12
+Temperate X 40%
+100
+Tropical X 20%
+0 0 10
+0-4 4-8 8-12 10-16 16-40
+8
+IF TurnBack Diversion Cancellations Delays R.S.I.
+Total 0 1 10
+6
+Delays 0 0,8 8
+Av. Delay (min) 0 0,6 6
+Cancellations 0 0,4 4 4
+IFTB 0 0,2 2
+Diversions 0 0 0 2
+RSI 0
+2009 2010 2011 2012 2013
+0
+This dashboard consolidates all the relevant data and is the backbone of the
+assessment for Airbus specialists when performing the engineering analysis.
+Once the optimised maintenance requirement (e.g. new/deleted tasks, improved
+task intervals, modified task procedures) has been established, the planning of the
+task accomplishment can be scheduled for the aircraft fleet.
+Depending on the operators’ resources (labour, infrastructure, etc.), operation needs
+(turn around times, uses), fleet conditions and priorities, the OPTIMA process can be
+performed in two “directions”. The first where the selection of maintenance require-
+ments to be optimised from the maintenance programme is set up to fit the existing
+fleet maintenance planning (e.g. optimising out of phase tasks only) and the second
+where an optimisation of the maintenance programme is set up in a new planning.
+OPTIMA
+85#TSAF
+82
+26.00%
+24.00%
+22.00%
+20.00%
+18.00%
+16.00%
+14.00%
+12.00%
+10.00%
+8.00%
+6.00%
+4.00%
+2.00%
+0.00%
+This allows Airbus to zoom into the in-service data and grasp more optimisation
+opportunities to reduce DMC and enhance aircraft availability. Altogether, this provides
+a chance for customised maintenance programme solutions.
+etaR
+gnidniF
+26.32%
+23.53%
+21.05%
+20.00%
+MPD Task References
+14.35% 50xxxx-00001-01
+50yyyy-00001-01
+50zzzz-00001-01
+11.11% 78xxxx-00001-01
+8.79% 78yyyy-00001-01
+8.68%
+6.86%
+6.38% 7.06%
+3.85%
+2.55% 2.80%
+0.43%
+C1: 0-3 Y C2: 3-6 Y C3: 6-9 Y
+Aircraft age category (years)
+Finding Rate per ATA2D and Region
+ATA2D
+noigeR
+The OPTIMA process has been applied not only in MRBR recent evolutions (A320
+evolution during 2014-2017 and currently A380 MRBR evolution) but it has been
+implemented as well by operators on their A330 and A380 programmes with full
+involvement of their local airworthiness authorities. (See FAST magazine #55)
+Airbus maintenance engineering is continuously working with IT specialists and data
+scientists to improve the assessment methodology. To do so, Airbus focuses on
+defining more accurate performance standards to measure the effectiveness of the
+maintenance programme for the worldwide fleet or for sub-fleets with specific
+characteristics like aircraft age or environmental conditions (figure 6 & 7).
+Figure 6
+21 22 24 25 26 27 28 29 30 32 33 34 35 36 38 44 46 49 50 72 73 75 78 79 80 Colours
+Min
+Desert
+Max
+Sub-tropical
+Temperate
+Tropical
+Figure 7
+OPTIMA
+CONCLUSION
+The OPTIMA process by Airbus relies on a good balance between in-service data analysis, usage of statistical
+methods and engineering judgement from Airbus’ long and extended engineering expertise. This efficient
+process results in an optimised maintenance programme for the airlines, which in turn increases aircraft
+availability for more revenue flights and reduces Direct Maintenance Costs (DMC).
+85#TSAF
+92
+Qantas’ OPTIMA exercise
+The benefits that OPTIMA can bring to an airline was confirmed
+by Qantas who conducted an optimisation exercise on its A330 fleet
+with the assistance of Airbus.
+The data collected to enable the OPTIMA process was broken into 6 key elements:
+• Scheduled maintenance • Unscheduled maintenance
+• Component reliability • Operational reliability
+• Economic information • Sample data
+Qantas’ feedback was the following:
+As the Qantas maintenance information system uses electronic certification,
+all maintenance records for scheduled and unscheduled tasks are readily available
+for analysis, eliminating the need for what was historically a time-consuming process
+to gather paper records. This also enabled 100% of relevant data to be analysed
+in the OPTIMA process and reduced the time to validate and load data into
+the IDOLS system.
+The process considered all relevant data in the analysis of maintenance task
+performance. Formerly, in optimisation and evolution exercises, results have been
+skewed to the analysis of scheduled maintenance findings. The OPTIMA process
+balances the issues and considers the complete asset maintenance by using
+many data aspects. This may lead to a different conclusion than when considering
+only the findings of scheduled tasks.
+The engineering judgement and risk assessment applied to the analysis for Qantas’
+customised optimisation exercise allowed both the Airbus expertise (inclusive of the
+reported world fleet experience) and the unique experience of the operator to be
+considered in the analysis process. Through the engineering analysis of the data,
+the results could be considered with respect to their significance on the affected
+system and given context to the unique aircraft operation, modification status,
+configuration, and age of the Qantas aircraft fleet and solutions tailored to suit.
+The operations, planning, resourcing and processes of operators are not identical
+and these differences are accounted for in a customised optimisation exercise
+but cannot always be accounted for in the MRBR process.
+The process was well defined from the start, and acceptance of it was obtained
+from the regulator before commencing data collection and analysis. This ensured
+that the process worked efficiently with very little rework being required as expectation
+and understanding on both sides were clear. In all, the collaboration and quality
+of dialogue between Qantas and Airbus was great.
+SWITS
+Smart Wiring Troubleshooting
+85#TSAF
+03
+With their kilometres of cables, aircraft electrical system
+checks can be a difficult challenge for airlines and MROs.
+In order to ease the process of finding a fault and precisely
+locating it, Airbus is offering a new tool: SWITS.
+Using reflectometry* and the LCR measurement
+(impedance, capacitance and resistance),
+Article by (left to right) SWITS can detect a fault in a fraction of the usual time.
+Jean-Luc BARRE Finding a fault on the aircraft’s electrical system
+Electrical Installation Senior Engineer
+Troubleshooting can become a complicated task when multiple lines (equipment)
+AIRBUS
+are suspected in the Post Flight Report (PFR). Considering that permanent
+jean-luc.barre@airbus.com
+or intermittent faults can appear anywhere in an electrical system, issues can take
+a long time to locate and fix.
+Nick FENDALL
+GSE & Tools Business Development Manager On occasion, intermittent electrical faults that occur in flight can be almost
+Maintenance Planning & GSE Services impossible to replicate on ground. These intermittent faults can be caused by very
+AIRBUS small chafing, corrosion or contact faults that can be difficult to locate, resulting in
+nick.fendall@airbus.com increased aircraft downtime and increased maintenance costs due to ad-hoc
+computer and component replacements. Adding to the mechanic’s burden is the
+fact that the cables are routed behind furniture, fittings or structure, so gaining
+access to wiring can be a large part of the job when troubleshooting electrical faults.
+For this reason the Airbus Ground Support Equipment, Support Engineering and
+BizLab teams have been working closely with airlines in order to simplify the trouble-
+shooting of permanent and intermittent faults found in aircraft electrical systems.
+Customer satisfaction and reduction of aircraft downtime are at the heart of this
+initiative and Airbus is now able to offer enhanced electrical system troubleshooting
+tools and services using the latest technology.
+SWITS - Smart Wiring Troubleshooting
+85#TSAF
+13
+The SWITS tool (Smart Wiring Troubleshooting)
+The SWITS tool is based on standard LCR measurement The end fittings are equipment connected at the extremity
+technology in combination with healthy references of the of the computer such as proximity sensors, servo valves, etc.
+aircraft’s electrical systems. In addition to LCR measurement, Failing this, it is necessary to perform an inspection of the full
+the SWITS uses TDR (Time Domain Reflectometry) to determine wiring loom. Considering that the wiring loom can be more
+the fault location. Together, this enables the tool to sequentially than 100 metres long and concealed by cabin fittings and
+test the affected electrical system lines, compare the results to aircraft structure, this is no easy task. Also by having to replace
+the database of healthy references and automatically identify what could be fully functioning computers or end fittings in
+the nature and location of the fault. search of an issue can result in a high number of No Fault
+Found (NFF) events, which add unnecessary costs.
+In creating SWITS, Airbus has worked with tool supplier
+NEXEYA to develop the WIDD 200 (Wire Defect Detection) tool By using the SWITS tool, the procedure for troubleshooting will
+and combined it with aircraft electrical systems references to start by placing the SWITS tool in place of the computer thanks
+perform automatic fault detection. This equipment is capable to the provided connection cable. The tool will then run an
+of checking 62 channels sequentially which enables incredibly automated test of each line targeted in the GTR (Ground Test
+fast fault analysis. Initially SWITS will be enabled to test ATA 27 Requirement) to easily identify the type of defect (end fitting
+(flight controls) and ATA32 (landing gear) electrical systems issue or wiring issue). During this check, the SWITS tool
+on the A320 Family, A330 and A340. The functionality will be compares the LCR and TDR measurements to the database
+progressively expanded to all systems on all Airbus aircraft. of healthy references to identify the nature and location of the
+defect. This will enable maintenance personnel to go directly
+One of the tool’s main benefits remains the shift between the
+to the fault, reducing the need for random component replace-
+usual process and the radically simplified and faster SWITS
+ments or removal of many cabin furnishings and linings in
+process. The traditional procedure for troubleshooting often
+search of the problem. If no fault is found by the SWITS tool,
+involves first replacing the computer for the affected system.
+the troubleshooting procedure will recommend replacing the
+If this is not successful in resolving the problem, the second
+computer as a last step. This will have the benefit of isolating
+step is to check or replace the end fittings in search of the issue.
+the problem to a wiring, end fitting or computer fault and
+reduce the number of No Fault Found (NFF) events.
+Main characteristics
+• 62 channel LCR and reflectometry measurement
+• Able to detect the following faults:
+- Short circuit
+- Open circuit
+- Bonding
+- Grounding
+- Intermittent
+• Intelligent automatic testing of ATA 27
+and 32 electrical systems
+- Applicable to A320, A330 and A340 families
+- No training required
+• Intermittent fault finding function
+- Applicable to any aircraft
+with use of specific connections
+- Specific user training required.
+• SWITS includes:
+- WiDD 200 tool
+- Integrated rugged laptop
+- Connection cables
+- GTR
+* Reflectometry is a measurement technique used to
+determine the characteristics of electrical lines by observing
+reflected waveforms. The amplitude of the reflected signal
+can be determined from the impedance of the discontinuity.
+The distance to the reflecting impedance can also be
+determined from the time that a pulse takes to return.
+SWITS - Smart Wiring Troubleshooting
+85#TSAF
+23
+Troubleshooting example in automatic mode
+The following example is a clear demonstration of how the SWITS tool works and its efficiency
+compared to the traditional process. In this example two failures are simulated at the connection
+between ELAC2 (Elevator Aileron Computer) “2CE2” and the servo valve of the servo control
+33CE4:
+• an open circuit on the wire 2793-4526
+• 33CE4 equipment failure
+Following the A320 TSM (Trouble Shooting Manual) task 27-10-00-810-828-A recommendations,
+the first step is to replace the ELAC2. The second step is to replace 33CE4 and finally a wiring
+check is performed, which in this case is 62 metres long.
+Note: Aircraft Wiring Manual (AWM) shows
+the connection between ELAC2 and servo
+control 33CE4 in this wiring the cables are
+connected to some VC (connectors
+interface) and one VP (pressure seal).
+A A 2S 2S 2S
+A
+7J 12 B 12 B S 9 B S T B S T
+57 83 4523 4524 4571
+A A PF22 PF20 PG20 PG20 PG20
+10A 11 R 11 R S 10 R S H R S H
+8A CF22
+3H 156
+2E 27 R 27 R S 11 R S J R S J
+59 84 4 PG 52 24 5 4 P 5 G 2 2 6 4 4 P 5 G 7 2 2 4
+2F 28 B 28 B S 12 B S U B S U
+23
+A 27-93-08
+2C R H
+154 R R 29 R 29 R S 13 R S K R S K
+2D PF26 B 2 Y 2 61 86 4 PG 52 24 7 4 P 5 G 2 2 8 4 4 P 5 G 7 2 3 4
+G B 43 B 43 B S 14 B S L B S L
+91-20-33 P 27-93-08 22VC A 1906VC A 4008VP4012VC A 4058VC A
+1844VT 128 132 138 621 621 622
+2CE2 ELAC-2 B2 4529-DK18 S V
+27-93-02-
+84VU SHELF 4038VN
+128 STA920 675 33CE4 SERVO CTL
+R AILERON OUTBD B
+675
+By using the SWITS tool in place of the ELAC2, operators will be able to automatically
+check the aileron servo control, wiring and connections at the same time.
+This will save a significant amount of time and enable the operator to focus directly
+on the 33CE4 failure or wire breakage.
+LCR measurement with the SWITS tool connected in ELAC2’s position
+Status High Low R (mes) R (ref)
+KO 2CE2-AD-2E Ground 822.005 kOhm [LL:447.000 Ohm Ref:490.000 Ohm UL:553.000 Ohm]
+KO 2CE2-AD-2F Ground 822.842 kOhm [LL:447.000 Ohm Ref:490.000 Ohm UL:553.000 Ohm]
+KO 2CE2-AD-2E 2CE2-AD-2F 974.646 kOhm [LL:447.000 Ohm Ref:490.000 Ohm UL:553.000 Ohm]
+OK 2CE2-AD-1G Ground 419.196 Ohm [LL:415.618 Ohm Ref:437.493 Ohm UL:459.368 Ohm]
+OK 2CE2-AD-1H Ground 418.429 Ohm [LL:414.425 Ohm Ref:436.237 Ohm UL:458.049 Ohm]
+OK 2CE1-AD-1G 2CE2-AD-1H 422.579 Ohm [LL:405.339 Ohm Ref:426.673 Ohm UL:448.007 Ohm]
+SWITS - Smart Wiring Troubleshooting
+85#TSAF
+33
+The LCR result shows an open circuit in the line 2CE2 AD 2E/2F as the recorded resistance
+in the first circle (822 kOhms) is much higher than the reference in the second circle (490 ohms).
+However, from this result alone we cannot determine if it is the cable that is cut or if it is the
+end fitting that is defective, resulting in an abnormal electrical load.
+Looking now at the TDR result we can see that there is a large peak at 35 metres, in
+comparison to the reference image (displayed in blue). By taking the LCR and TDR results
+together we can conclude there is an open circuit (breakage) in the cable at 35 metres
+(TDR signal after break is not relevant).
+0
+0 20 40 60
+Distance
+Looking at the second example of an end fitting (33CE4) failure, the LCR measurement
+will produce the same readings as for the previous example.
+However looking again at the TDR result, we can see that there is a difference in peak
+at approximately 62 metres in comparison to the reference image (displayed in blue).
+From these results we can conclude there is an end fitting failure, as the wiring’s full
+length is 62 metres.
+Normal troubleshooting Troubleshooting using SWITS
+E Bay access E Bay access
+Replace ELAC 2 Connect SWITS in place of ELAC 2
+Access to Servo CTL panel
+removal with a platform If no finding Replace ELAC2
+Wiring Check Servo valve
+Wiring Check cables
+Result Result
+)RWS(
+oitaR
+evaW
+gnidnatS
+0.2
+2CE2-AD-2F
+Breakage at 35 metres 2CE2-AD-2F-ref
+0.15
+End of line 62 metres
+0.1
+0.05
+80 100
+0
+0 20 40 60
+Distance
+)RWS(
+oitaR
+evaW
+gnidnatS
+0
+0 20 40 60
+Distance
+0.16
+2CE2-AD-2F
+0.14 2CE2-AD-2F-ref
+0.12
+0.1
+0.08 Open circuit at 62 metres
+0.06
+0.04
+0.02
+80 100
+)RWS(
+oitaR
+evaW
+gnidnatS
+0.2
+2CE2-AD-2F
+Breakage at 35 metres 2CE2-AD-2F-ref
+0.15
+End of line 62 metres
+0.1
+0.05
+80 100
+0
+0 20 40 60
+Distance
+)RWS(
+oitaR
+evaW
+gnidnatS
+0.16
+2CE2-AD-2F
+0.14 2CE2-AD-2F-ref
+0.12
+0.1
+0.08 Open circuit at 62 metres
+0.06
+0.04
+0.02
+80 100
+SWITS - Smart Wiring Troubleshooting
+The SWITS’ Expert mode
+An additional function has been added to SWITS for the troubleshooting of difficult
+or intermittent wiring issues.
+This function continuously scans the wiring to be tested in reflectometry mode and is able to
+detect faults that last as little as 1 millisecond. Therefore, for these intermittent faults the tool
+scans the wiring while someone gently shakes the cables or connector. If the fault is
+reproduced only once and for a fraction of a second, the tool will be able to identify which
+line is effected and where the defect in located.
+Intermittent faults are often triggered by very small wiring defects such as pin/socket
+connection issues, corrosion, wire chafing or ground bonding not well connected.
+These faults can also sometimes only occur during flight and cannot be replicated on
+ground. Due to their small size, fault finding and resolution in these cases can be a very
+difficult and long task. With SWITS however, these faults can be found and solved in a very
+small amount of time.
+This intermittent fault finding mode (Expert mode) is not possible via the automatic analyses
+function based on the GTR used for ATA 27 and 32. Specific user training is required to
+be able to correctly configure the aircraft before starting the test, in order to avoid damage
+to the electrical system, and to be able to correctly interpret the results. This mode has
+the benefit of being able to be used on any aircraft or any electrical system once correctly
+configured by the user. In practice, the intermittent fault finding mode will be used after
+standard TSM tasks have been accomplished and the fault has been identified as an
+intermittent fault.
+The aim of this function is to connect the SWITS tool at one extremity thanks to the provided
+connection cable, usually by removing the computer, and disconnecting all other end fittings
+such as proximity sensors. This ensures only the wiring and connectors are connected
+and analysed. As all end fittings are disconnected, the test is similar to a continuity test.
+85#TSAF
+43
+Locates very small
+intermittent
+in-flight wiring
+defects that are
+difficult to replicate
+on ground
+85#TSAF
+53
+SWITS - Smart Wiring Troubleshooting
+Onsite troubleshooting service by Airbus
+Airbus Customer Services also proposes the possibility for onsite troubleshooting support
+for electrical system faults related to wiring issues with a Customer support expert team
+using the SWITS tool.
+The team is trained to use SWITS and is qualified light Part 145, meaning that they are able
+to disconnect and reconnect electrical items in order to perform the test using SWITS.
+As has been proven with a number of customers, the experts are able to define and locate
+the defect very quickly thanks to the use of SWITS and provide the repair solution.
+To benefit from this service, a request can be raised in TechRequest.
+CONCLUSION
+By incorporating the latest technology, Airbus is now able to offer a tool and on-site service for fast
+fault finding and troubleshooting of on-board electrical systems.
+The SWITS tool will be available from November 2016 and the Airbus support engineering team
+is currently offering a troubleshooting service which has proven to be very successful at quickly
+resolving long running issues.
+SWITS will be referenced in the TEM (Tool Equipment Manual) and will be introduced in the TSM.
+The Expert mode will be covered by the introduction of the SWITS in the ESPM (Electrical Standard
+Practice Manual) and through specific training.
+For more information on the SWITS tool, please contact the GSE and Tools team through TRM
+on AirbusWorld.
+For more information on the on-site troubleshooting service, please contact SEEA5 team through TRM.
+Health monitoring
+and prognostics
+Airbus has combined
+its extensive knowledge
+of aircraft with the vast amount
+of data collected by airlines
+to offer them the possibility
+of predicting maintenance
+needs and maximise their
+operational efficiency.
+Article by
+Pierre SEYTE In recent years, aircraft have become increasingly complex, generating vast amounts
+Diagnostic and Prognostic Solutions of data through countless parameters especially since the A380 and A350 XWB.
+Domain Leader
+At the same time, efficiency of operations has never been so important for airlines.
+AIRBUS
+Flights are more frequent, the number of destinations increases, and delaying or cancelling
+pierre.seyte@airbus.com
+a flight due to unplanned maintenance has, more than ever, heavy consequences for airlines.
+The main stake for airlines is now to move from a reactive mode to a pro-active mode
+Caroline PEREIRA GARCIA
+by turning unscheduled maintenance into scheduled maintenance.
+Marketing Manager M&E applications
+AIRBUS In this context, Airbus offers a complete set of solutions and services that monitor the health
+caroline.pereira-garcia@airbus.com of aircraft and can accurately predict their future needs.
+85#TSAF
+63
+Health monitoring and prognostics
+85#TSAF
+73
+The opportunity
+Analytical techniques including Big Data are making a difference in many industries
+and are a source of great potential in aerospace. Analysing data before, during
+and after the flight enables a better understanding of the aircraft’s status and
+optimisation of its operations.
+Leveraging these growing amounts of data represents the ground material for
+improvements in flight operations, reliability, maintenance and ultimately safety.
+One concrete outcome for operators and maintenance providers is to be able
+to anticipate failures before they occur via prognostics.
+However, these techniques only deliver value when combined with business
+knowledge: Airbus’ unique knowledge of the aircraft and the airlines’ understanding
+of the aircraft’s operations. This winning formula is not only about raising alerts
+on future issues but also proposing actionable solutions to them.
+The Airbus difference
+Firstly, as a major aircraft manufacturer, Airbus has been gathering extensive experience
+in aircraft health monitoring, and has privileged access to worldwide fleet and unparal-
+leled understanding of aircraft systems. Airbus owns valuable knowledge on how to
+optimise aircraft operations through its Support Engineering and Design Office experts,
+its AIRTAC (Airbus Technical AOG Centre) teams who solve AOG situations,
+and a continuous improvement process combining Airbus and customers’ reviews.
+Secondly, with Airbus Smarter Fleet®, Airbus collaborates with IBM to ease data
+gathering, analytics and processes. Airbus Smarter Fleet® is a unique platform
+of integrated solutions where all services share valuable information, via Big Data
+techniques and which can be tailored to specific needs.
+In addition to this, particular attention is given to the user experience, which is key
+to gaining alignment with the customers’ expectations and receiving final acceptance
+from end-users.
+Based on this approach, Airbus has been developing applications and services which
+cover the full aircraft health monitoring value chain, from prognostics to diagnostics
+and support to troubleshooting.
+s
+m
+ho n C
+Al g o v r a
+it
+li d
+ati
+D O e f s fi i c g e n s o u B f p a f p i c c o k e rt
+fe
+e d b
+u
+a c s k t o m e r AIRMAN-web
+Prognostics and
+Customer CORE Ops
+Risk Management
+Services TEAM Centre
+A
+d
+lg
+e fin iti o
+o
+r i
+n
+th m
+s
+e In xp -s e e r r ie v n ic c e e F t l e ig s h t t Air c
+x
+r a
+p
+f t erti s e
+AIRMAN-web
+E
+Expert
+AiRTHM
+The Airbus Lab
+Composed of all of Airbus’ internal skills and the customer’s experience,
+the Lab provides Airbus’ customers with maximum value solutions and services.
+The objective of Airbus is to provide the maximum contextual information to the
+airlines’ maintenance and engineering teams in order for them to manage in-flight
+events efficiently and even be able to anticipate their occurrence. Using these health
+monitoring tools, the airline can avoid operational interruptions.
+85#TSAF
+83
+Health monitoring and prognostics
+Diagnostics
+and troubleshooting
+support
+The first step when a failure occurs is to make a quick and reliable diagnosis in order
+to ensure fast troubleshooting and reduce delay for the next dispatch.
+Used by more than 140 customers on around 7000 aircraft, AIRMAN-web is Airbus’
+aircraft health monitoring tool. It constantly monitors the aircraft systems’ health and
+transmits faults and warning messages to ground control, providing rapid access
+to maintenance documents and troubleshooting steps.
+In parallel with AIRMAN-web, Airbus offers a service called AiRTHM, dedicated to A380
+and A350 XWB operators. In this case an internal Airbus team manages the airline’s
+fleet and provides guidance on optimised maintenance and real-time troubleshooting.
+Based on the strengths of both AIRMAN-web and AiRTHM, Airbus has decided
+to provide the Airbus expertise used for the AiRTHM service through AIRMAN-web
+to enable airline users to go further in diagnostics and troubleshooting. This new
+module, called AIRMAN-web Expert, allows the user to get very detailed information
+on the technical event diagnostics, operational impact and troubleshooting steps
+to be followed, using the uplinks feature to troubleshoot aircraft in real-time.
+AiRTHM service
+AiRTHM is the service dedicated to A380 and A350 XWB operators to support them
+in diagnostics and troubleshooting activities.
+This service consists of an Airbus 24/7 dedicated team, located in the AIRTAC centre,
+which monitors the airline fleet, analyses the aircraft data and, when an event is
+observed, provides appropriate recommendations to the airline.
+AiRTHM currently offers two services, Pre-Departure Check and Flight Watch.
+For the Pre-Departure Check, the Airbus team monitors particular systems of the aircraft
+that may impact the dispatch before it leaves the gate. They particularly look at potential
+failures during flight preparation, pre-departure delay drivers and provide on-demand
+assistance in case of a return to gate procedure.
+The Flight Watch service provides monitoring of the aircraft during the flight and in this
+case the Airbus team tracks the ECAM (Electronic Centralised Aircraft Monitor) alerts
+and fault messages sent by the aircraft.
+In addition to the knowledge and expertise of the Airbus engineers, the team is also
+able to collect additional data such as Aircraft Condition Monitoring System (ACMS)
+reports, Smart Access Recorder (SAR) and Quick Access Recorder (QAR) files,
+and do automatic uplinks in real-time. The collected data then allows the Airbus team
+to perform accurate engineering analysis and provide corresponding dispatch and
+troubleshooting advice to the airline.
+All monitored events are registered in Case Analysis Templates (CAT) files in order
+to build a knowledge base.
+Today, AiRTHM is used by several A380 operators and all A350 XWB operators
+in the early days after entry-into-service.
+85#TSAF
+93
+Health monitoring and prognostics
+At gate In flight Airline MCC
+Feedback
+Uplink
+technology
+Advice
+Expertise
+Analysis on Continuous
+Root cause improving
+AiRTHM team
+identification process
+Back office Customer Design Flight
+support Services Office Test
+AIRMAN-web Expert
+AIRMAN-web Expert has been developed to offer a software solution enhancing
+troubleshooting on A380s and soon also on A350 XWBs.
+This solution was born from Airbus’ objective to allow customers to benefit from
+its extensive knowledge of aircraft and from customer requests to optimise information
+in AIRMAN-web. The objective of AIRMAN-web Expert is to guide the Maintenance
+Control Centre (MCC) in diagnostics and troubleshooting by providing access to
+a knowledge database.
+This database contains enriched data and features like correlation of multiple fault
+codes, direct access to necessary technical documentation and ACMS data uplink
+request capability.
+Focusing on complex technical events which have the most impact, the MCC users
+can base their troubleshooting decisions on Airbus’ expertise contained in CAT files.
+Airbus
+knowledge These files explain all information related to the failure and propose expected remedial
+database
+actions. They also allow to uplink specific ACMS parameters in order to confirm the fault
+and determine the root cause.
+The knowledge shared in AIRMAN-web Expert is based on AiRTHM expertise and will
+continuously be enriched with both Airbus’ and the airlines’ experience.
+With this new module, the MCC can speed-up its diagnosis, save time in troubleshooting
+and so in the end reduce operational interruptions for improved aircraft availability.
+With AIRMAN-web Expert and AiRTHM, Airbus provides a complete offer for diagnostics
+and troubleshooting activities, giving the choice to the airline between a service ensured
+by Airbus with AiRTHM or the autonomy of its MCC with AIRMAN-web Expert.
+Correlated
+uplinks
+(when
+needed)
+Aircraft
+messages
+Airline
+feedback
+Airbus
+expertise
+Alert
+Airline
+decision
+Health monitoring and prognostics
+Prognostics
+Example of PRM efficiency
+In order to be a step ahead of technical events, the airline can use prognostics
+in Delta Air Lines
+and in this case the objective is to avoid unplanned events by detecting system failures
+before they occur. Between April 2015 and May 2016,
+11 PRVs (Pressure Regulating
+Airbus has developed an application called Prognostics and Risk Management (PRM)
+Valves) and 1 HPV (High Pressure
+which provides early detection of failures, enhancing aircraft availability and reducing
+Valve) were removed in scheduled
+unscheduled maintenance.
+maintenance visits thanks to the
+A study made on the A330 fleet, revealed that up to 15% of the entire operational PRM Pneumatics alert before failure.
+interruptions could be avoided using a prognostics solution like PRM. Aircraft operations were maintained
+without any delays and maintenance
+Prognostics and Risk Management activities were properly scheduled
+and organised.
+Thanks to a proof of concept done with 3 airlines between 2013 and mid-2014, the
+In this example, all the removed PRV
+capability to detect in anticipation unplanned failures has been formally demonstrated.
+and HPV were later confirmed
+This milestone was the start point of the industrialisation of the PRM application.
+“faulty” on test bench in the shop.
+From April 2015 a one year “in-service evaluation phase” was set up in collaboration with
+Delta Air Lines allowing users to fine-tune the algorithms and features of the application.
+PRM was born.
+Today, with Delta Air Lines as its launch customer, PRM is a chargeable service
+With Airbus’ Prognostics and Risk
+with fully demonstrated and recognised benefits.
+Management, we will leverage the
+The principle of PRM is quite simple. It uses the Flight Data Interface Management Unit strong expertise of Airbus’ design
+(FDIMU) capabilities and its Aircraft Condition Monitoring System (ACMS) function office to provide us with the most
+to record a particular set of data at a very precise timeframe of the flight, that features effective way to monitor our aircraft
+a specific signature, identified by Airbus Design Office engineers as a weak signal systems.
+to a future failure.
+Prognostic alerting will allow our
+It is in the ACMS load, a customised database, that all this needed data is defined with Engineering and Maintenance teams
+its associated recording conditions. This load, delivered by Airbus to PRM customers, to detect in advance failures on
+has to be fitted onto the FDIMU system of the aircraft monitored by PRM. No software our components and systems
+changes are necessary. to mitigate possible operational
+interruptions. PRM will also help
+At the end of the flight, all the recorded data that has been merged by the FDIMU is
+us maximise our A330 aircraft
+made into a unique ACMS report. This report is automatically transmitted to the Airbus
+turnaround and systems’ reliability
+server on ground using the ACARS network.
+and efficiency and move mainte-
+Finally, thanks to algorithms defined by data scientists in collaboration with Airbus Design nance events from unscheduled
+Office specialists and Airbus Customer Support experts, PRM computes the collected to scheduled.
+parameters and displays aircraft systems degradation. Based on threshold and target
+values defined by Airbus, it can then alert the engineering teams that a failure might occur.
+Jim Jackson,
+Additional data, like ECAM alerts and BITE (Built In Test Equipment) messages from Post
+Manager of Predictive Maintenance
+Flight Reports, is also used to correlate detections with failures when no preventive Engineering at Delta Air Lines
+maintenance was launched. In this case, PRM brings additional information that can be
+useful to improve troubleshooting. ECAM alerts can be displayed on the same graph as
+the prediction trends, hence allowing better customisation of alerting thresholds.
+PRM is a web application accessible by any user from any location and only needs
+an Internet connection to be usable. The application is very easy to use and can be
+customised by the user. For example, it allows the information to be accessed by the
+aircraft and/or by ATA chapter. There are also filtering options allowing the user to
+customise the screen display (by event priority, by aircraft programme, by MSN…).
+Prediction alerts can be based on either Airbus’ pre-defined thresholds or user-defined
+thresholds according to the airline’s strategy of risk mitigation.
+PRM is currently available for A330 fleet and will soon be expanding. The 10 existing
+predictions on A330 aircraft are going to be completed by a new set of algorithms
+by the end of 2016. An in-service evaluation phase will be launched on the Single Aisle
+fleet (A319, A320, A321) in October 2016 with a selected number of airlines who have
+already expressed their wish to experiment with this new concept on their own fleet.
+A350 XWB PRM will be available to airlines at the beginning of 2017 and the A380 PRM
+in the following months.
+85#TSAF
+04
+‘‘
+’’
+ACARS Aircraft Communication Addressing
+and Reporting System
+ACMS Aircraft Condition Monitoring System
+AIRMAN AIRcraft Maintenance ANalysis
+AiRTHM Airbus Real-Time Health Monitoring
+BITE Built In Test Equipment
+DAR Digital ACMS Recorder
+ECAM Electronic Centralised Aircraft Monitor
+FDIMU Flight Data Interface Management Unit
+HMI Human Machine Interface
+MCC Maintenance Control Centre
+PRM Prognostics and Risk Management
+QAR Quick Access Recorder
+SAR Smart Access Recorder
+Health monitoring and prognostics
+85#TSAF
+14
+USER DATE
+Engine 2 PRV slow to close (seconds) A9F_USR1 2016-07-05
+FLIGHT BEFORE FLIGHT AFTER
+100 A9F126 A9F127
+90 DESCRIPTION
+80 Valve removed tested NOK.
+70 New valve installed
+60
+50
+40
+30
+20
+10
+0
+Flights
+Example of ATA36 Event details displaying
+PRV closure degradation and associated
+maintenance action (here PRV replaced) New data sources
+allowing the recovery to normal behaviour
+of the PRV.
+Airbus looks to the future and constantly generates initiatives to improve the accuracy
+and relevance of its models and predictions. As more data can be pushed to the
+ground, it is possible to build more models using Big Data techniques that also allow
+an improved accuracy of failure localisation.
+An experimental phase has been launched, in cooperation with easyJet, where DAR
+Heat exchanger efficiency (Digital ACMS Recorder) as well as maintenance data is used to make predictions.
+(Efficiency rate) DAR data represents several megabytes of data sent to the ground instead of the
+FLIGHT FROM TO
+0.90 Ap9rFe1v2io6usly KlimBOiteSd feEwH kAiMlobytes. This DAR data collected through WiFi or cellular
+0.88 EcNaDpEaDbi lOitiNes gives additional opportunities for Airbus to develop new prediction models
+0.86 1in5 /c6/o2o0p16eration with external companies such as Palantir or IBM.
+0.84 VALUE
+0C.7om37p9a5red to PRM and AiRTHM, these models are built through a different methodology.
+0.82
+WPARRMN IaNnGd AiRTHM models are based on system design and ACMS data, whereas this
+0.80
+MAINTENANCE STATUS CAB TEMP
+new approach will analyse aircraft data in a statistical way to find correlations between
+0.78 P1 HX(521MH19XHH18y PLENUM(52HH117)
+faults and symptoms and be able to identify prognostic models.
+0.76
+0.74 In this context, new HMIs (Human Machine Interface), strongly integrated in the airlines’
+0.72 operational systems have been designed to provide actionable items (pending tools,
+resources, spares’ availabilities) at the best time in order to minimise impact on aFirlcigrahftt s
+operations.
+The prototype will be delivered to easyJet by the end of September 2016 for a 6-month
+“proof of concept” phase during which both Airbus and easyJet will monitor the
+efficiency of the models, their accuracy, and also assess the benefits of the front end
+HMI with its strong integration with airline systems.
+From systems to…
+Today, enhanced troubleshooting or prognostics mainly target systems, whereas other
+areas such as cabins and airframe are for the moment overlooked. Considering their
+potential, Airbus has made these areas its next challenge.
+As new passive sensors become increasingly available, this new technology promises
+Airbus Smarter Fleet® is a trademark of Airbus just the beginning of many benefits and applications.
+CONCLUSION
+Big Data and connected aircraft are key success factors for enhanced maintenance operations.
+Thanks to this consistent approach, continuous development and improvement, Airbus covers all its customers’ needs
+from improved troubleshooting to prognostics. Based on the expertise of its Design Office, and supported by several
+operators for in-service experience, Airbus is now positioning itself centrally in this very promising market.
+Tomorrow’s maintenance will be very different to what was done a few years ago. Prognostics is not only a new
+concept; it is a completely new paradigm for aircraft maintenance in the future.
+8855##TTSSAAFF
+2244
+egatireH
+etaroproC
+subriA
+fo
+ysetruoc
+sotohP
+FAST
+from the PAST
+There wouldn’t be any future without the experience of the past.
+The Junkers JU 52 had a robust
+look and feel despite its - literally -
+‘glass cockpit’*.
+The sturdy levers, cranks, taps
+and dials, as well as its unusual
+corrugated aluminium alloy skin,
+earned her the nickname
+“Iron Annie”.
+The streamlined, harmonised cockpits found in all Airbus aircraft
+today are a far cry from the JU 52.
+Each Airbus cockpit is ergonomically designed for flying that
+particular aircraft with ease and efficiency, but the cockpit also
+consistently adheres to the principles of flight operational
+commonality (see article page 4).
+The flexibility created by a coherent cockpit design and fly-by-
+wire technology across the entire Airbus fleet reduces training
+time, increases pilot productivity, and simplifies rostering.
+Operational commonality was a conscious commercial
+decision made with the inception of the A320 and over the last
+25 years has been applied to the cockpit of each new generation
+of Airbus aircraft.
+*The term ‘glass cockpit’ is used to distinguish cockpits
+using LCD displays.
+85#TSAF
+34
+Around the clock, around the world
+Airbus has more than 240 field representatives based in over 110 cities
+WORLDWIDE TECHNICAL, MATERIAL & LOGISTICS TRAINING CENTRES
+Tel: +33 (0)5 6719 1980 Airbus Technical AOG Centre (AIRTAC) Airbus Training Centre
+Fax: +33 (0)5 6193 1818 Tel: +33 (0)5 6193 3400 Toulouse, France
+Fax:+33 (0)5 6193 3500 Tel: +33 (0)5 6193 3333
+USA/CANADA airtac@airbus.com Fax: +33 (0)5 6193 2094
+Tel: +1 703 834 3484
+Airbus Maintenance
+Fax: +1 703 834 3464 Spares AOG/Work Stoppage
+Training Centre
+• Outside the Americas:
+Hamburg, Germany
+CHINA Tel: +49 (0)40 5076 4001
+Tel: +49 (0)40 7438 8288
+Tel: +86 10 8048 6161 Ext. 5020 Fax: +49 (0)40 5076 4011
+Fax: +49 (0)40 7438 8588
+Fax: +86 10 8048 6162 aog.spares@airbus.com
+• In the Americas: Airbus Training Centre Americas
+FIELD SERVICE SUPPORT Tel: +1 70 3729 9000 Miami, Florida - U.S.A.
+ADMINISTRATION Fax: +1 70 3729 4373 Tel: +1 305 871 3656
+Tel: +33 (0)5 6193 3936 aog.na@airbus.com Fax: +1 305 871 4649
+Fax: +33 (0)5 6193 4964
+Spares In-Flight orders outside the Americas: Airbus Training Centre Beijing
+Tel: +49 (0)40 5076 4002 Tel: + 86 10 8047 5341
+Fax: +49 (0)40 5076 4012
+Airbus Training Centre Bangalore
+ifd.spares@airbus.com
+Tel: +91 9880065511
+Spares related HMV issues outside the Americas: Airbus Training Centre Delhi
+Tel: +49 (0)40 5076 4003 Tel: +91 9880065511
+Fax: +49 (0)40 5076 4013
+Airbus Middle East FZE Dubai
+hmv.spares@airbus.com
+Tel: +971 4 602 78 62
+Spares RTN/USR orders in the Americas: Training by Airbus Jakarta
+Please contact your dedicated customer spares jerome.dartus@airbus.com
+account representative csr.na@airbus.com
+Airbus Asia Training Centre Singapore
+yueyu.he@airbus.com
+How can I keep my
+business flying?
+Ask for Services by Airbus.
+Our expertise and innovation
+ensure your aircraft is kept to
+the highest standards of safety,
+productivity and efficiency
+for years to come.
+Airbus is the answer.
+airbus.com
+© AIRBUS, 2016. All rights reserved. Airbus, its logo and the product names are registered trademarks.
+PWW9-STUDIO:Airbus:2016:Airbus:B1362-001013_2016:12186_AIR_QA_Master_2016:12186_AIR_QA_Services_Master_297x210_1.1
+KROWTRA 12186_AIR_QA_Services_Master_297x210_1.1 johnsp
+297 x 210 mm
+PMS
+3 mm
+Master PMS
+Page 1 PMS
+5 July 2016 4:20 PM PMS

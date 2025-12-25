@@ -1,0 +1,1719 @@
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+5
+3
+T
+S
+A
+F
+35
+D E C E M B E R 2 0 0 4
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+Customer Services
+events
+Just happened Coming soon
+HUMAN FACTORS SYMPOSIUM 13THPERFORMANCE & OPS
+New Delhi,India,14-16 September 2004 CONFERENCE
+Seoul,Korea,23-25 November 2004 Bangkok,Thailand,4-8 April 2005
+Airbus continued the dialogue with its Flight crews, operations and performance
+operators at this forum, discussing human specialists are invited to attend and actively
+factors aspects with practical and participate in the four-day conference,
+operational perspectives. which will offer numerous opportunities
+to constructively exchange views and
+AIRBUS SPARES & SUPPLIER information, and increase mutual
+SERVICES co-operation and communication.
+REGIONAL SYMPOSIUM More than 80 subjects will be addressed,
+including EFB, flight operations,
+Puerto Vallarta,Mexico,25-28October 2004
+performance, CNS/ATM, A380 operation
+This event focused on the latest
+and new documentation. Along with the
+developments related to spares support and
+different sessions, numerous booths will be
+services for all Airbus customers of the
+available daily in order to discuss issues and
+Americas. The conference followed the
+view demonstrations of the newly developed
+theme ‘Reducing cost through supply chain
+Airbus Flight Operations software.
+partnerships’.
+AIRBUS WARRANTY CONFERENCE TECHNICAL DATA SUPPORT &
+Toulouse,France,30 November-2 December 2004 SERVICES SYMPOSIUM
+This was the second event concerning Athens,Greece,25-29 April 2005
+Airbus Warranty processes. Customers Airbus will continue the dialogue with
+made great contributions to the event and, in operators, concerning the changing face of
+addition, a significant number of suppliers technical data.This event will focus on the:
+participated and made contributions. • Maturity, functionalities & benefits of
+The main Warranty topics were addressed Airbus’digital data application & tools
+by alternating presentations with questions • Optimisation of products, data availability
+and answers, workshops and face to face and quality
+meetings. All these dialogues resulted in • Customer Satisfaction Program (CSIP)
+positive exchanges to the benefit of all outcome, measures & results
+parties involved. • Current and scheduled
+developments/projects.
+The preliminary agenda and the formal
+7TH TRAINING SYMPOSIUM
+invitation will be sent out in December
+Bangkok,Thailand, 6-10 December 2004
+2004.
+This event targeted and ran in parallel,
+the three main streams of Airbus Training:
+Flight Crew, Maintenance and Cabin Crew. A320 FAMILY TECHNICAL SYMPOSIUM
+The symposium is the best forum available, Rhodes,Greece,23-27 May 2005
+providing a unique opportunity for briefings The next A320 Family Symposium, will
+on all Airbus training programmes, take place in Rhodes, in the Greek islands.
+developments and facilities, including It will include actual in-service issues
+the A380, as well as various training devices covering the A320 programme and general
+used by our customer base. Operator interest subjects concerning, or affecting,
+training experts will also present additional the A320 Family. It will be a forum for all
+training technologies, methods and customers and operators fleet managers of
+solutions. the A320 family to exchange experience.
+Publisher:Bruno Piquet
+Editor:Kenneth Johnson
+Graphic Designer:Agnès Massol-Lacombe
+Customer Services Marketing
+Tel: +33 (0)5 61 93 43 88
+Fax: +33 (0)5 61 93 47 73
+E-mail: fast.magazine@airbus.com
+Printer Escourbiac
+FAST may be read on Internet http://www.airbus.com/customer/fast/asp
+under Customer Services/Publications
+ISSN 1293-5476
+This issue of FAST has been printed on paper
+produced without using chlorine,to reduce
+waste and help conserve natural resources.
+Every little helps!
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+35
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+Additional Center tanks 2
+Upgrading your Airbus fleet for
+enhanced operational flexibility
+Sonia Bouchardie
+APT - Airbus Pilot Transition 6
+The new flight crew type rating course
+Catherine Neu
+Tools and Ground Support Equipment 11
+The complete story
+André Loubaud
+Günter Urban
+AirN@v 19
+Seamless one-stop access for
+aircraft documentation
+Anthony Poole
+The InternationalAirlines Technical Pool 26
+Airbus membership enhances airlines’ access
+to spares services
+Peter Buchfeld
+A380 30
+Airports are preparing
+for commercial operations
+Jean-Paul Genottin
+Thirty years ago... 32
+the A300B2 entered into service with Air France
+Customer Services 33
+Around the clock… Around the world
+Computer Graphic by I3M
+Photographs by Hervé Bérenger, Hervé Goussé and Philippe Masclet
+53
+TSAF
+1
+53
+TSAF
+D E C E M B E R 2 0 0 4
+Airbus Customer Services
+© AIRBUS S.A.S. 2004. All rights reserved
+No other intellectual property rights are granted by the delivery of this Magazine than the right
+to read it,for the sole purpose of information.This Magazine and its content shall not be
+modified and its images shall not be reproduced without prior written consent of Airbus.
+This Magazine and the material it contains shall not,in whole or in part,be sold,rented,
+distributed or licensed to any third party.The information contained in this Magazine may vary
+over time because of future factors that may affect the accuracy of information herein.Airbus
+assumes no obligation to update any information contained in this Magazine.When additional
+information is required,Airbus S.A.S.can be contacted to provide further details.Airbus,its
+logo and product names are registered trademarks.Airbus S.A.S.shall assume no liability for
+any damage in connection with the use of this Magazine and of the materials it contains,
+even if Airbus S.A.S.has been advised of the likelihood of such damages
+1
+The extra fuel capacity is normally it to withstand the forces exerted
+installed in the forward part of the by the fully laden ACT.
+aft cargo hold in containers called
+Additional Centre Tanks (ACTs), The system provisions include:
+which take the place of normal
+cargo containers. For the A320 • fuel transfer and ventilation pipe
+Family, ACT holds 2,992 liters of work between the ACT and
+fuel, while it holds 7,200liters for centre tanks,
+the A310 and A340-300. Most • pressure regulation equipment
+models can accommodate up to fitted in the cargo bay,
+two ACTs when the cargo hold is • drain lines between the ACT and
+configured for either standard bulk associated pipe work to the drain
+(A320 Family only) or cargo load- mast,
+ing system, while maintaining • cockpit and refuel control panels
+room within this area for cargo and and associated wiring for ACT
+baggage transportation under spe- operation.
+cific loading restrictions. The
+A340-600 can hold one ACT in the The pressurisation system ensures
+aft section of the forward cargo that the ACT and centre tank are
+hold. The A319 Corporate Jet not over pressurised.
+(A319CJ) can be fitted with up to
+six ACTs, four in the aft cargo hold When the system and structural
+and two in the forward cargo hold. provisions are in place, an ACT can
+be positioned and restrained by the
+The transfer of fuel from ACTs is cargo latches and connected to the
+always to the centre tank and is refuel/vent/shroud pipes, drainage
+normally achieved by pressurisa- and air pressurisation system as
+tion of the ACT using cabin air. In well as the fuel quantity indicating
+the event of a failure of the pres- system. An ACT can normally be
+surisation system a back-up electri- installed or removed in one eight
+cal pump, installed on the rear wall hour shift, including system func-
+of the ACT, ensures the fuel trans- tional checks.
+fer. Refuel of the ACT is normally
+automatic and adds between 5 and High-standard safety requirements
+10 minutes to the overall refuel such as impact walls to protect the
+time of the aircraft, meaning that ACT from damage or overheating
+an A320 Family or A310 aircraft are also set upon installation.
+fitted with two ACTs can be refu-
+elled in under half an hour and an ACT INSTALLATION
+A340 aircraft within 40 minutes.
+These refuelling times, taking into The initial installation of an ACT is
+account the added ACTs, remain done by Service Bulletin, which
+within the turnaround time neces- enables its installation and removal
+sary between flights. as required. When the ACT is
+removed, the provisions remain on
+The option to have one or more the aircraft and a kit is provided to
+ACTs installed is broken down into blank and isolate connections. This
+two work packages: provides flexibility of ACT usage
+and maximum efficiency in its use
+• Structural and system provisions by allowing operators to optimise
+• ACT installation. ACT installation to their day to day
+needs.
+STRUCTURAL AND SYSTEM
+PROVISIONS ACTs are machined (to minimise
+weight) light alloy containers, the
+The structural provisions are cov- full width of the cargo bay, and have
+ered by a Service Bulletin and con- a flexible bladder tank attached to
+sist of reinforcement of the cargo all internal surfaces. The weight of
+hold and loading system to enable the tank dry is 400kgs for A320
+53
+TSAF
+ADDITIONALCENTERTANKS
+1
+2
+Upgrading your Airbus fleet
+for enhanced operational flexibility
+3
+To add an extra dimension to the operational flexibility of Airbus
+aircraft, Airbus has developed tailored modifications to enable The three main steps
+installation of removable additional fuel tank capacity. This additional in installing an ACT.
+fuel capacity enables operators to fly longer range, low capacity routes
+(long-thin routes), which otherwise would require a larger aircraft.
+Originally developed in the 1980s for the A310-300 aircraft, the concept
+has since been developed for the A340 and A320 Families of aircraft. To
+maximise the extra fuel capacity, modification to the aircraft design
+weights and associated modifications may be required or recommended.
+Some aircraft may not be candidates for ACT installation depending on
+their configuration, and are subject to case by case feasibility study.
+Sonia Bouchardie
+Technical Project Manager
+Upgrade Operations - Systems
+Customer Services
+3
+53
+TSAF
+ADDITIONALCENTERTANKS
+Additional
+Center Tanks
+2
+ADDITIONALCENTERTANKS ADDITIONALCENTERTANKS
+Payload range capability A340
+Payload
+(1,000lb/t)
+Family and 615kgs for A310 and with an increased fuel capacity Typical internal reserves
+A340-300. The ACT for the A340- giving enhanced operational flexi- 200nm alternate
+120
+300 is also common to the A310- bility. The ACT gives them the
+295 pax + 20.7t (45,600lb) cargo
+300. Likewise, the ACT for the ability to extend the range at both
+A319 (excluding the A319CJ), can average and low payload condi- 271t MTOW
+also be used on the A320 and A321. tions or increase payload signifi- The ACT is an
+40
+cantly at fuel-limiting ranges, optional feature for
+80 7,100nm
+The ACT also includes: therefore enabling them to use the the A340.
+MTOW (Maximum Take Off 295 passengers + baggage Installing an ACT
+• two water drain valves, Weight) increase more efficiently.
+could be an
+• two fuel quantity indicating Furthermore, the ULD (Unit Load
+attractive
+Rails for the ACT probes, Device) container shape of the 20 40 ACT (7,200l) operational feature
+• a drain system with leak monitor, ACT gives the operator great han-
+for high-yield
+• over/under pressure protection dling facility, particularly when the
+scheduled airlines
+devices. aircraft is equipped with a semi-
+with average
+automatic cargo loading system.
+The fuel probes for the A340-300 The cargo loading system allows 0 0 payload
+differ from the A310-300 and the quick and easy installation, or 4,000 5,000 6,000 7,000 8,000 9,000
+A321 differs from the A320 and removal, of the ACT without the Range (nm)
+A319. So they need to be changed need for any tooling.
+when the ACT is switched between
+these models. With the current passenger to Payload CFMI engines A320
+freighter conversions, operators (1,000lb/t)
+The installation of an ACT is cur- may also benefit from the aircraft 20
+ACTfuel pipes installations MTOW FAR domestic reserves
+rently an option in production for the downtime to embody the ACTs 40
+77t/169,750lb 200nm alternate
+A310, A319, A320, A321 and A340. option on the A310-300 or A300-
+Some Service Bulletins are available 600 to further enhance the aircraft
+15 150 passengers + baggage
+to retrofit the system and structural operational performance.
+provisions (not all aircraft can be 30 3,000nm
+retrofitted due to structural con- VIP cabin conversions for all types
+2,850nm
+straints) and install the ACTs. This of aircraft may also be an opportu-
+10
+additional tankage available for nity to benefit from ACT installa-
+20
+Airbus aircraft provides operators tion during the aircraft downtime.
+ACT fuel system Center tank vent pipe 5
+Center tank 10
+schematic Supplementary fuel options:
+Interface with
+refuel/defuel system 1 ACT (2,992l) / 2 ACTs (5,984l)
+Check valve
+Pump discharge
+Expansion cells 0 0
+0 1,000 2,000 3,000 4,000 5,000
+Center tank rear spar
+Range (nm)
+ACT Pressure switch
+Isolating ACT
+valve transfer valve transfer pump Pressure bulkhead
+Belly fairing Cabin air intake fuselage Conclusion
+Filter Ground test Air shut Filter Ambient press datum
+Leak monitor point T1
+off valve from LDG gear bay
+Fuel/refuel CONTACT DETAILS Taking advantage of the high of these have been retrofitted, or
+transfer line
+Check valve Pressure degree of commonality offered by will be retrofitted between 2004
+(Shrouded) reducing valve Air pressure Sonia Bouchardie
+FQI probe Inward relief valve the Airbus Family, ACTs are a and 2007, including 2 VIP aircraft.
+Drain pipe Water system for Technical Project Manager
+Drain mast for trim line drain fuel transfer Upgrade Operations - Systems flexible solution for operators to
+Water Customer Services adapt to demand changes in their The ACT option is available and
+V d e r n a t i n line Ch re e s c t k ri c v t a o lv r e Tank inlet valve C va h l e v c e k C va h l e v c e k T F e a l x : : + + 3 3 3 3 ( ( 0 0 ) ) 5 5 6 6 2 1 1 9 1 3 0 4 1 1 4 0 9 6 markets. c M a o n d b ifi e c a s t u io b n je O ct f fe to r u a p R o e n t r r o e f q it uest to
+(Shrouded) ( F b l l e a x d i d b e le r t li a n n e k r ) Defuser Vent valve Ground test sonia.bouchardie@airbus.com S op o t m io e n o a p n e d r a re to tr r o s f i h tt a e v d e p c ro h v o i s s e io n n s this A Th ir e b u o s p U tio p n g r h a a d s e b S e e e r n v ic a e d s d . e d into
+Vent point T2
+and installation of one or two ACTs Airbus Upgrade Services
+Burst disk
+ACT tank wall on A320 and A321 aircraft. Some Catalogue.
+Cargo compartment FQI probe
+Cavity drain + high level sensor
++ low level sensor
+53
+TSAF
+4
+53
+TSAF
+5
+TRAINING DEFINITION
+THE KEY ELEMENTS
+APT has been developed by apply-
+ing the following principles:
+SYSTEMATIC APPROACH TO
+INSTRUCTION
+Airbus training programmes are
+defined to achieve precise training
+objectives and to bring flight crew
+up to proficiency in the most effi-
+cient way, in a learning and time
+sense.
+The training objectives are deter-
+mined through a complete task
+analysis. The instructional system
+is approached as a whole, where
+the training methods, course con-
+tents and training equipment are
+selected for their ability to best fit
+the required final objectives.
+LEARNING BY DOING
+Practical training is progressively gramme must start from already
+introduced very early in the learning acquired knowledge, avoiding cre-
+process, with training on Standard ating gaps never filled, or timeless
+Operating Procedures (SOP), crew repetition of well known items.
+concept and task sharing.
+TRAINING CURRICULUM
+Computer Based Training (CBT) ORGANISATION
+learning sessions start right from
+the beginning or the course and are The training is organised around a
+combined daily with realistic two-step learning process – a
+hands-on sessions on Airbus’s new ground phase enabling learning
+state-of-the-art training device – about systems and operational pro-
+The Maintenance/Flight Training cedures and a ‘handling’phase using
+Device (M/FTD) a Full-Flight Simulator (FFS).
+TRAINING TO PROFICIENCY The ground phase is performed
+At the end of the training pro- using CBT for system knowledge on
+gramme, each crew member shall a laptop provided to each trainee, it
+be capable of carrying out their also includes self-paced learning on
+tasks safely and efficiently, in the M/FTD.
+accordance with the training objec-
+tives. Therefore, the training Thanks to the M/FTD, trainees
+sequence does not permit a trainee become familiar with operations in
+to move up from one phase to the the cockpit from the fifth day of
+next until they have acquired the training and benefit from an inter-
+skills necessary to complete the active learning of aircraft proce-
+objectives of their current phase. dures. Each crew is supported by a
+dedicated instructor.
+RIGOROUS DEFINITION OF THE
+TRAINEE PREREQUISITES In addition, the M/FTD offers the
+Good definition of the entry level advantage of being a transportable
+of trainees is a success factor for tool, so the ground phase can be
+training programme specification. completed at an Airbus training cen-
+To be effective, a training pro- tre or at the operator’s home base.
+53
+TSAF
+AAPPTT -- AAIIRRBBUUSS PPIILLOOTT TTRRAANNSSIITTIIOONN TTRRAAIINNIINNGG
+APT is based on the following prerequisites
+CAPTAIN FIRST OFFICER
+• Valid and current Airline • Previously qualified on
+Transport Pilot License (ATPL) JAR/FAR/CS 25
+• Previous command experience • Aircraft and commercial
+operations valid and current CPL
+• Fluency in English.Able to (Commercial Pilot License) with
+write,read and communicate at instrument rating
+an adequately understandable
+level in English language • Fluency in English.Able to
+write,read and communicate at
+• 200 hours experience as airline, an adequately understandable
+corporate or military transport level in English language
+pilot
+• Jet experience
+• Jet experience
+• Flight time:
+• Flight time: . 500 hours as pilot
+. 1,500 hours as pilot . 300 hours on JAR/FAR/CS,
+. 1,000 hours on JAR/FAR/CS 25 aircraft
+25 aircraft . 200 hours experience as
+airline,corporate or military
+transport pilot
+7
+53
+TSAF
+APT - AIRBUS PILOT TRANSITION TRAINING
+APT
+Airbus Pilot Transition
+The new flight crew type rating course
+The new Airbus Pilot Transition (APT) course is an
+innovative approach to type rating that trains pilots
+using the latest interactive learning tools and has been
+EFFICIENCY
+welcomed by airline crews.
+With the intensive use very early in the ground course
+of the Maintenance/Flight Training Device (M/FTD),
+the first of its kind integrating tutorial mode in a 3D
+environment with high fidelity simulation software,
+MOBILITY
+Airbus again sets training standards for the future
+through:
+•increased training efficiency, quality of the ground
+school phase
+•optimised training time
+FLEXIBILITY • greater mobilityand flexibilityand
+• high versatility and fidelity of the selected new
+training devices.
+Catherine Neu
+Synthetic Flight instructor
+Flight Crew Training Policy
+Training & Flight Operations Support and Services
+6
+AAPPTT -- AAIIRRBBUUSS PPIILLOOTT TTRRAANNSSIITTIIOONN TTRRAAIINNIINNGG
+USE OF THE M/FTD DURING GROUND PHASE MODE 1
+LINKS TO CBT SUMMARY MODULES
+When working on system oper-
+ations, an appropriate CBT
+summary can be displayed on
+additional screens.
+(1)LOFT PHASE (2) AIRCRAFT BASE TRAINING (3)SKILL TEST PHASE
+A LOFT (Line Oriented Flight According to regulation According to the JAR – FCL
+Training) session is defined to requirements and airline request, recommendations,the skill test
+summarise all the exercises learned two options are provided to the syllabi have been designed in a
+throughout the course and to give customer: commercial air transport
+the trainee experience in operating . either: Aircraft base training – environment.They consist of:
+the aircraft in real time scenarios. 45 minutes per pilot,or . 1st part: a real time sector with
+. Zero Flight Time Training (ZFTT) – some specific events
+4 hours per crew in the FFS . 2nd part: additional part to deal
+with the remaining items to be
+performed by the trainee in order
+to fully satisfy the JAR – FCL
+requirement.
+Training is fully
+integrated.
+No part task training
+and progressive
+introduction of:
+• Flight Management
+System (FMS)
+functions,
+• Systems knowledge
+• Standard Operating
+Procedures (SOP) in
+normal and abnormal
+operations
+• Crew Resource
+Management (CRM)
+including task
+sharing.
+53
+TSAF
+9
+53
+TSAF
+APT - AIRBUS PILOT TRANSITION TRAINING
+COURSE BREAKDOWN IN PERCENTAGE BY TYPE OF TRAINING DEVICES
+Ground Phase
+Self Welcome/Performance/Cabin/FCOM
+18.1% 13.5%
+Computer Based Training
+24.4%
+Instructor led
+Briefing & Debriefing
+6.3%
+10.9%
+Maintenance /
+Flight Training Device Full Flight
+27% Simulator
+10 days alternating M/FTD (4h)
+24.2%
+and CBT self study (3h)
+Note: Figures shown for A320 Family.
+Similar for A330/A340 Family.
+Handling Phase
+DETAILED CURRICULUM
+CBT in classroom is restricted to
+systems presentation. Self paced
+CBT for normal and abnormal
+operations to prepare the M/FTD
+sessions.
+GROUND PHASE HANDLING PHASE
+Welcome (Optional)
+FCOM, LPC*, CRM* Low visibility
+Cockpit philosophy, CBT CBT CBT CBT CBT CBT Performance LOFT phase (1) operations
+SOPs M/FTD M/FTD M/FTD M/FTD M/FTD M/FTD & system test FFS 2 FFS 4 FFS 6 FFS FFS
+11 33 55 77 99 1111 1133 1155 1177 1199 2211 2233 2255
+DAYS
+22 44 66 88 1100 1122 1144 1166 1188 2200 2222 2244 2266
+CBT Performance CBT CBT CBT CBT CBT FFS 1 FFS 3 FFS 5 FFS 7 Skill test phase (3) Aircraft base (2)
+M/FTD M/FTD M/FTD M/FTD M/FTD + CABIN M/FTD FFS training FFS
+8
+* LPC:Less Paper Cockpit - CRM:Crew Resource Management
+APT - AIRBUS PILOT TRANSITION TRAINING
+MODE 2
+TUTORIAL MODE
+The objective of this mode 2 is to
+train the procedures:
+• sequence of actions
+• appropriate call out
+• task sharing.
+The Tutorial mode included in the
+M/FTD provides the instructor
+with the appropriate initialisations
+when a specific lesson is selected
+on the M/FTD instructor panel, i.e.
+the M/FTD is automatically ini-
+tialised in the correct configura-
+tion for the lesson (time saving).
+The M/FTD also provides some
+visual materials (drawing on
+screen).
+The tutorial mode is a major con-
+tributor to training standardisa-
+tion, especially for non-Airbus
+instructors.
+MODE 3
+STANDARD FREE PLAY
+SIMULATION
+In mode 3 trainees can use the
+M/FTD in the same way and with
+the same level of system simula-
+tion as in a full flight simulator.
+Conclusion
+The first A320 APT courses were The APT course dramatically
+carried out at the Toulouse training enhances the quality and efficiency
+centre in mid-September 2004 with of flight crew training and has been
+CONTACT DETAILS
+crews from two recent Airbus welcomed by the first crews
+customers.Typical remarks on the trained.
+Catherine Neu course from these customer crews
+Synthetic Flight Instructor
+were: Today, all Airbus A320 crews
+Flight Crew Training Policy
+’The M/FTD tutorial sessions are trained in the Toulouse training
+Training & Flight Operations
+very impressive because we can centre are benefiting from the APT
+Support and Services
+Tel:+33 5 61 93 28 08 sequence the entire flight and programme. Deployment of A320
+Fax:+33 5 62 11 07 40 divide the flight into phases. The APT training in the other Airbus and
+catherine.neu@airbus.com instructor can teach us task CAE training centres is scheduled
+sharing and the actions to be for early in 2005.
+taken in different flight situations’.
+’The structure of the course APT training will be implemented in
+allowed crews to practice the March 2005 for type rating on the
+procedural aspect of their Airbus A330/A340 aircraft and,
+learning on the M/FTD.’ later on, on the A380.
+53
+TSAF
+10
+53
+TSAF
+TOOLS AND GROUND SUPPORT EQUIPMENT - THE COMPLETE STORY
+11
+53
+TSAF
+Tools and
+Ground Support
+Equipment
+The complete story
+In the beginning...
+On the East African plain 2.5 million years ago, driven by starvation and its desire for
+survival, desperate to feed on a whitened skeleton of what had already been the supper of
+large predators and hosts of scavengers, a small Australopithecus chose a large flat stone
+to crush the larger bones and suck out the nourishing marrow. Little did that creature know,
+but apart from guaranteeing survival of its species and propelling it far forward into
+evolution, it had invented the ‘Tool’, a tool which allowed it unlimited access to food that no
+other species could reach.
+Some generations later, its offspring would be designing and manufacturing stone tools of all
+shapes and sizes for a wide range of tasks, from cutting and crushing to ploughing and building.
+For almost each conceivable application, mankind would design tools to ease or often allow the
+task to be done: The Specific Tool was born.
+mbe
+Massol-Laco
+André Loubaud Günter Urban
+Director Ground Support Equipment Senior Manager
+GSE & Tools and Maintenance Facilities Ground Support Equipment/Tools
+Customer Services Spares Support & Services
+11
+TOOLS AND GROUND SUPPORT EQUIPMENT - THE COMPLETE STORY TTTOOOOOOLLSSLS AA ANNNDDD GG GRRROOOUUUNNNDDD SS SUUUPPPPPPOOORRRTTT EE EQQQUUUIIPPIPMMMEEENNNTTT -- -TT TTTHHHEEE CCCOOOMMMPPPLLLEEETTTEEE SSSTTTOOORRRYYY
+A set of standard tools
+Whether one believes in the Tools, which include test equip-
+Theory of Evolution or not, one ment, can again be split into two
+can only accept that the design, categories: ‘standard tools and test
+manufacture and use of tools is equipment’and ‘specific tools and
+probably one of mankind’s most test equipment’.
+ancient and also most current
+activities. From the dining table to Standard tools and test equipment
+the aircraft maintenance hangar, are usually hand tools and instru-
+tools are present and required ments such as spanners, sockets,
+everywhere, by everyone, all the micrometers, dial gauges, torque
+time. It is therefore a surprise that wrenches or ohmmeters. Each one
+the world of aircraft maintenance of them can be used for a wide
+tools and ground support equip- variety of applications, systems
+ment is so little known by so many and aircraft types whatever the
+in the industry; a fact that this arti- manufacturer.
+cle would like change.
+Specific tools and test equipment,
+TERMS AND DEFINITIONS are designed with a very specific
+task in mind, either a given mainte-
+Although the ‘World Airlines nance task (e.g. removal/installa-
+Technical Operations Glossary’ tion as per Aircraft Maintenance
+(WATOG) definition of Ground Manual (AMM) or a one-time
+Support Equipment (GSE) is: modification task (e.g. Service
+‘Equipment required on the ground Bulletin (SB) modification). Often, Similarly, modification tools can FOR THE TECHNICAL PART
+to support the operation and main- this task is unique to the particular be used for on-aircraft applications
+tenance of the aircraft and all its aircraft type or system, for example (Airbus modification SBs) or The ‘providers’to the GSE and tool engineering group are:
+airborne equipment’, the industry removal and installation of the workshop applications (e.g. com- • the aircraft systems and structure design office
+usually divides Ground Support flaps, each flap of each aircraft type ponent vendor SBs). • the maintainability/supportability department who work with
+Equipment into two categories: being unique and requiring a digital mock-ups of the aircraft, tools and users
+Toolsand GSE. specifically designed and manufac- ORGANISATION • lessons learned from thirty years of Airbus maintenance tool
+tured sling. AND STRUCTURE design and customer feedback.
+Example of a tool as shown in
+GSEin contrast to the WATOG def- The Airbus tool and GSE world is The ‘users’of GSE and tool engineering group’s work are:
+the TEM
+inition of GSE - is ground support split between the GSE and tool • the technical data department who distribute the group’s tool
+equipment which is not designed engineering group (transnational drawings and Tool Equipment Bulletins (TEBs) and use this data to
+for a specific aircraft type, but activity), which covers all the tech- generate the aircraft maintenance documentation and the Tool and
+which could be used on a number nical responsibilities, and the GSE Equipment Manual (TEM)
+of different aircraft types, such as and tool supply group, which deals • customer and MRO (Maintenance Repair and Overhaul)
+wheel change jacks, tripod mainte- with all the commercial responsi- organisations who use information for tool provision purposes and
+nance jacks, ground power carts, bilities. to solve daily technical queries
+access platforms, or towbars etc. • GSE suppliers who receive GSE and tool engineering group
+Such GSE is available in a wide aircraft specifications for GSE design
+range of shapes, colours and sizes • Airbus tool manufacturing licensees who receive GSE and tool
+from a host of GSE suppliers engineering group daily support for tool manufacturing
+worldwide. • The GSE and tool supply group for technical support.
+Whether referring to maintenance
+specific tools, standard tools and
+FOR THE COMMERCIAL PART
+to some extent GSE, there are two
+main ‘environments’in which they
+The ‘providers’to the GSE and tool supply group, are:
+can be used:
+• Airbus tool manufacturing licensees who receive tool orders from the group and deliver tools to it
+• GSE suppliers who deliver GSE to the group
+• for ‘on-aircraft maintenance’
+• Original Equipment Manufacturers (OEMs) who deliver tools to the group.
+tasks as called up in the AMM
+and Trouble Shooting Manual
+The ‘users’of the GSE and tool supply group’s work are:
+(TSM), or
+• the Airbus customer order desk who receive orders and RFQs (Request For Quotation) for tools daily
+• for‘workshop’tasks as called up
+• customers and MROs purchasing who use the group for tool delivery, re-certification or repair, loan etc.
+in Component Maintenance
+Manuals (CMMs).
+53
+TSAF
+13
+53
+TSAF
+12
+TOOLS AND GROUND SUPPORT EQUIPMENT - THE COMPLETE STORY TOOLS AND GROUND SUPPORT EQUIPMENT - THE COMPLETE STORY
+Technical Department Commercial Department
+Engineering Materiel Supply
+Maintenance Engineering Operational Units
+Design office GSE, tools & facilities GSE & tools supply OEMs
+Maintainability
+supportability Licensees GSE suppliers
+Lessons
+learned
+Technical Customer & MRO GSE Customer Customer & MRO
+data engineering suppliers Order Desk purchasing
+Organisation chart TECHNICAL and tools engineering group must
+RESPONSIBILITIES ensure that the specifications rela-
+tive to the new aircraft type are
+Aircraft, like all complex machines, provided to the Airbus technical
+require tools to enable them to be data department for inclusion into
+designed and built known as design Airbus manuals such as the AMM
+and production tools. Aircraft also and Maintenance Facility Planning
+require tools to be maintained Manual, and also to GSE vendors,
+in operating condition, which are aircraft operators and MROs to
+known as maintenance tools. allow them to identify which GSE
+they currently hold that could be
+Within Airbus, the overall technical used on the new aircraft, or which
+responsibility for maintenance new GSE has to be procured - or
+tools and the maintenance environ- designed and manufactured in the
+ment (facilities) lies in Airbus case of GSE vendors.
+Customer Services in Toulouse,
+France (see organisation chart). ...DEFINING, DESIGNING AND
+PHYSICALLY VALIDATING NEW
+GSE and tools engineering group MAINTENANCE TOOLS
+department is responsible for: used for the three main applications
+which are:
+...DEFINING THE SPECIFICATION
+OF GSE • maintenance of new aircraft
+As stated in ‘terms and definitions’, types or systems
+GSE and tools are applicable to var- • aircraft modification SBs
+ious aircraft types and are therefore • aircraft repairs as per the
+usually readily available on the mar- Aircraft Recovery Manual,
+ket. However, before entry into ser- Structural Repair Manual or
+vice of a new aircraft type, the GSE repair instructions.
+53
+TSAF
+15
+53
+TSAF
+Formal process
+Whatever the origin of the tool
+requirement, a formal process from initial requirement to final validation
+exists from initial requirement to
+Families Main tasks
+final validation.
+Tools & GSE requirements
+Each of the GSE and tool design
+Ground handling and servicing offices follow the same stringent
+Tools & GSE list
+tool design procedures and direc-
+Tools for scheduled maintenance
+tives which, amongst other
+Specifications
+things, instruct to keep the tools
+Tools for unscheduled maintenance
+safe, but as simple as possible for
+Design
+local manufacture whenever fea-
+Tools for repair & aircraft recovery sible.
+Prototype manufacturing
+Tools for aircraft Mod & SB
+Before tool release into service, a
+prototype is manufactured and val- Test certificate
+Customer queries
+idated on aircraft as suitable for the
+task it is intended for. This can lead Drawing delivery
+to final adjustments or modifica-
+tions to the tool design, after which
+it is formally validated by releasing
+a GCA (GSE Certificate of Accep- ...PROVIDING TECHNICAL
+tance) which is the green light for ASSISTANCE FOR FACILITIES
+the Airbus technical data depart- MATTERS
+ment to incorporate it into the rele- The customer interface department
+vant documentation, e.g. AMM also provides technical assistance
+and TEM. for all matters related to mainte-
+nance facilities. Its recommenda-
+...PROVIDING IN-SERVICE tions and assistance possibilities
+TECHNICAL SUPPORT FOR TOOL include:
+USERS AND MANUFACTURERS
+As for aircraft systems and struc- • providing general dimensions
+tures, Airbus Customer Services for hangars or workshops, or
+Programmes and Technical Support improved layout or modification
+& Services provides a customer recommendations for existing
+interface department for GSE and buildings
+tools, which is the ‘single point of • listing all recommended
+contact’ for customers, MROs and equipment and built-in systems
+GSE and tool vendors. The cus- for each type of facility along
+tomer interface department’s day- with a list of possible vendors
+to-day business is to provide tech- • carrying out on-site facilities
+nical assistance and support con- reviews and evaluations in the
+cerning specific tool design, manu- case of customers receiving new
+facturing and utilisation, GSE or aircraft types, customers or
+equipment specifications and pos- MROs wishing to develop or
+sible vendor contacts. It also pro- expand their maintenance
+vides technical tool recommenda- activities or as specialised
+tions for provisioning purposes and ‘consultants’in the framework
+assistance on maintenance facilities of ‘best industry practices’or
+and workshops issues. JAR145 reviews led by other
+departments
+...PROVIDING CUSTOMISED TOOL • reviewing and suggesting
+PROVISIONING improved workflow processes
+RECOMMENDATIONS for workshops
+This task, which includes also • providing specialised technical
+commercial discussion, is conduct- assistance for sales campaigns
+ed with the GSE and tools supply to review existing facilities and
+department and is described in the to evaluate any changes required
+‘combined mission’paragraph. and their financial implications
+14
+TOOLS AND GROUND SUPPORT EQUIPMENT - THE COMPLETE STORY TOOLS AND GROUND SUPPORT EQUIPMENT - THE COMPLETE STORY
+• in specific cases, to work with • staggered investment based on • warranty of 36 months INITIAL PROVISIONING
+specialised architects and civil Airbus experience and • superior quality:
+engineers, to propose detailed customer’s planning and Vendor tools are from OEMs It is a recommendation covering
+modifications to existing capabilities only and Airbus proprietary tooling requirements based on the
+facilities, or entire programme • purchase/loan analysis toolsare from Airbus licensees results of the general pre-
+plans and drawings for the • supplier evaluation and sourcing which are quality approved and provisioning meeting held with a
+development of new MRO • tool handling advice regularly audited. customer to define the entry-into-
+facilities from the hangars and • forwarder recommendation Quality checkis complete on all service of an aircraft. During this
+workshops to personnel • warranty administration parts shipped layout and FAA phase a document called ‘W File
+canteens or prayer rooms. • tool repair and calibration compliance of the certificates issue 0’, established in accordance
+service. are homogeneous. with SPEC 2000, is issued by the
+COMMERCIAL GSE and tools supply group.
+RESPONSIBILITIES Tools and GSE can be procured COMBINED MISSION
+from various sources such as: CUSTOMISED RECOMMENDATIONS
+The GSE and tool supply group is The combined mission of the GSE
+responsible to: • Airbus for all equipment and tool engineering and supply Working hand-in-hand with Airbus
+(purchase and loan) groups is to establish tool provi- Spares Support and Services organ-
+• provide tools and GSE for loan • Airbus licensees for Airbus sioning recommendation lists to isation, the GSE and tools engineer-
+and sale to all customer airlines proprietary tools (ref Service optimise investments at airlines ing group provides technical tool
+and MROs for different Information Letter 00-031 for and MROs by providing them with recommendations for customer pro-
+maintenance and repair details) technical and commercial exper- visioning purposes.
+purposes • OEMs tise:
+• support Airbus customers with • local sub-contractors. Following the established process
+special tools and tool kits on • tool commonality study between described below, technical tool rec-
+sale and loan basis for The advantages of tools and GSE Airbus aircraft types and others ommendations are priced by the
+embodiment of SBs supply from Airbus are the • evaluation of existing tools GSE and tools supply group and
+• support Airbus customers, based following: • definition of alternate then discussed in detail with the
+on technical and commercial equipment customer.
+considerations, in optimising • single point of administration • equivalence for standard hand
+their investment in tools and and shipment tools, specific to type tools, The starting point is the customised
+GSE and help them reduce their • special package price/tailored hangar and ramp GSE, technical tool recommendation list
+maintenance costs. method of payment facilities: access, maintenance which is established by the GSE
+• special cost saving solutions for platforms… and tools engineering group based
+In addition, the GSE and tools long lead time items, e.g. interim on standard data, such as:
+supply group also offers: loan for investment reduction and saving
+as well as delivery lead times. • extracted TEM data i.e.
+the list of on-aircraft specific
+Tool provisioning recommendation maintenance tools applicable to Tool provisioning
+is performed in two phases, initial any given aircraft type and
+recommendation process
+provisioning and customised rec- model
+ommendations following a specific • MPD tool list, also known as the Selected tools list
+request from a customer. list of tools for scheduled tasks, left with customer
+Beijing
+Technical tool On-site customer Package price
+Hamburg Loan tool stock Tool customer requests
+recommendation tool review offer to customer
+Washington build up planned
+Main loan
+Loan tool stock tool stock and service
+upgrade in progress
+Package offer back
+Singapore Extracted Standard list pricing to customer
+TEM data
+Loan tool stock
+build up planned
+MPD tool list
+Airbus worldwide spares centres
+53
+TSAF
+17
+53
+TSAF
+16
+TOOLS AND GROUND SUPPORT EQUIPMENT - THE COMPLETE STORY
+Conclusion
+CONTACT DETAILS As the reader may now well hand in hand with the GSE and
+appreciate, tools, GSE and tools supply group, who ensure
+Technical
+maintenance facilities are not an physical availability of all possible
+André Loubaud
+afterthought, but are an integral tools and equipment through
+Director GSE/Tools
+part of aircraft and component buying, selling and loaning, and
+GSE & Tools
+and Maintenance Facilities maintenance activities which must also with the technical data
+Customer Services be anticipated, both in terms of department who incorporate all the
+Tel:+33 (0)5 61 93 39 52 availability and investment. Within tools into the documentation and
+Fax:+33 (0)5 61 93 28 72 Airbus Customer Services, the distribute the manufacturing
+andre.loubaud@airbus.com
+GSE and tools engineering group is drawings to customers.
+the engineering department whose
+Commercial
+Günter Urban responsibility it is to ensure that all So, the next time you pick-up a
+Senior Manager GSE/Tools the tools and equipment which will tool, be it a hammer in your garage
+Spares Support & Services be needed by the customer exist, or a nut-cracker from your dining
+Tel:+49 (40) 5076 3203 and also to minimise the table, maybe you will give a little
+Fax:+49 (40) 5076 3206
+investment required by customers thought to the design process
+guenter.urban@airbus.com
+by providing customised tool which led to its existence, and
+provisioning recommendations and more globally to all similar
+tailored facility and equipment processes which began a mere
+advice. Obviously, the GSE and 2,500,000 years ago in East Africa.
+tools engineering group works 53
+TSAF
+which is manually built After possible evaluation of the
+up by the GSE and tools customer’s existing facilities and
+engineering group based tools, a tool selection meeting is
+on the latest MPD held between the GSE and tools
+revision and the engineering and supply groups and
+associated AMM tasks the customer to enable them to
+and subtasks decide on the tools they require.
+... and customised data The customer personnel met usual-
+such as: ly include the responsible engi-
+neering and maintenance staff,
+• aircraft type and tool/GSE specialists and responsi-
+associated options the ble procurement/provisioning staff.
+customer has selected
+• number of aircraft to be These discussions allow the cus-
+maintained and delivery tomer to select the tools required,
+Example of a technical schedule based on the GSE and tools engi-
+tool recommendation • level of maintenance intended by neering group’s technical explana-
+the customer and its possible tions, their own in-service experi-
+maintenance providers ence, the tools they already hold, or
+• number of main bases and line other local procurement or loan
+stations where the customer has possibilities and the GSE and tools
+planned maintenance events. supply group’s loan stock contents.
+The technical tool recommenda- This leads to a global budgetary
+tion is then supplied by the GSE investment figure for the cus-
+and tools engineering group to the tomer, based on tool unit prices,
+GSE and tools supply groupfor: followed by a package price offer
+provided by the GSE and tools
+• pricing in accordance with latest supply group.
+price data
+• lead time of each tool
+• loan availability of tool through
+Airbus.
+18
+AirN@v - SEAMLESS ONE-STOP ACCESS FOR MAINTENANCE DOCUMENTATION
+53
+TSAF
+19
+53
+TSAF
+AirN@v
+Seamless one-stop access
+for maintenance documentation
+AirN@v is evolving
+In the first AirN@v article in FAST 31 in December 2002, it was explained why and how Airbus
+was working on the necessary foundations for today’s digital Technical Data products and services.
+In April 2004, ADRES and CAATS, (Airbus Document REtrieval System and Computer Assisted
+Aircraft Troubleshooting) were retired, and after a yearlong worldwide deployment fully replaced
+by the new consultation tool, AirN@v. Since then, Airbus has been constantly assessing initial
+reactions to this powerful new documentation browser and taking note of feedback as we continue
+to enhance the capabilities of AirN@v and continue to develop digital services.
+A major change to the initial AirN@v version has been the integration of the wiring and web
+server options into the AirN@v version 2.1 basic package. This has been done to ensure all
+customers and operators will benefit from AirN@v’s full potential. This article will explain how
+the inclusion of the wiring manuals, when added to the existing Aircraft Maintenance Manual
+(AMM), Illustrated Parts Catalog (IPC) Trouble Shooting Manual (TSM) and trouble shooting tool,
+moves AirN@v closer to becoming the total ‘seamless one-stop access’for aircraft maintenance
+documentation.
+Anthony Poole
+Communications & Business Support Manager
+Technical Data Support & Services
+19
+AirN@v - SEAMLESS ONE-STOP ACCESS FOR MAINTENANCE DOCUMENTATION
+EXAMPLE OF PREDEFINED need to refer to the appropriate
+WIRING MANUAL SEARCH AWM sheet.
+In the example that follows, the From the AWM dropdown menu
+TSM Fault Isolation Procedure (Refer to figure 4), select ‘Figure
+includes the statement ‘Do a check by FIN Connector, Pin’; the
+and repair the wiring from the Functional Item Number (FIN)
+SDAC 2 to the first terminal block: connector pin search form is dis-
+pins AB/8C, 8D of the SDAC 2’ played. Enter the FIN of the
+(Refer to ASM 29-31/05 or to fig- SDAC, ‘1WV2’and connector ‘AB’
+ure 3). that you obtained from the ASM,
+into the search form. Enter OK to
+Clicking on the link ASM 29-31/05 open the search results and select
+takes you directly to the referenced the correct wiring sheet (in this
+ASM schematic 29-31-00 sche- case two schemes are applicable
+matic 05. This schematic will give and cover all connections to con-
+an overview of the electrical circuit nector AB).
+to check. To assist when consulting
+the wiring manuals the supplied On the aircraft, using the wiring
+magnifier is very useful to help diagram information, a broken
+identify components, wiring and contact (open circuit) is identified
+references etc. at terminal block 2801VT, Module
+45, Contact K (Refer to figure 4).
+The TSM fault isolation procedure To make the repair the terminal
+mentioned ‘to the first terminal block contact will need replacing
+block’, so to identify this, you will and re-crimping to the existing
+In the ASM,
+use the magnifier
+to help identify the
+referenced wiring
+53
+TSAF
+AirN@v- SEAMLESS ONE-STOP ACCESS FOR MAINTENANCE DOCUMENTATION
+AirN@v (V2.1) What must be remembered is that
+ENHANCEMENTS with AirN@v, there are many dif-
+(STARTING JANUARY 2005) ferent methods of finding the
+required information. The best
+Although each ASM
+SUITE OF WIRING MANUALS method is the one that works for
+schematic will always
+NOW INCLUDED AS BASIC the user and they feel comfortable
+carry a reference to the
+with. This article will focus on the
+related AWM
+With the revision following predefined dropdown menus that
+diagram(s), the quickest
+January 2005, the AirN@v have been designed especially for
+method to go directly to
+Catalogue Page (Refer to figure 1) users.
+the AWM sheet, is to
+now includes the aircraft wiring
+use the AWM
+manuals. Full hyper-linking is PREDEFINED WIRING MANUAL
+‘predefined form’
+ensured between the existing SEARCHES
+search function
+AMM, TSM, IPC and the addition-
+(Refer to figure 4).
+al wiring manuals. Experienced AirN@v users will
+have realised that the traditional
+Some of the basic functions that table of contents is no longer the
+demonstrate the advantages of most efficient method of finding
+AirN@v when the wiring manuals information. The use of the ‘full
+are included, are explained as fol- text’ and ‘predefined form’ search
+lows. functions has been proven to be
+more efficient and considerably
+reduced information search times.
+As defined for the AMM, IPC and
+TSM, there is included a full set of
+‘predefined form’ search menus
+designed especially for the Aircraft
+Schematics Manual (ASM),
+Aircraft Wiring Manual (AWM)
+and Aircraft Wiring List (AWL).
+These drop-down menus are
+accessed from the main top bar
+menu (Refer to figure 2). Just
+select the appropriate search you
+require and the appropriate ‘search
+form’will appear.
+The following example will show
+how to hyperlink between manuals,
+it will also focus on the use of
+these predefined manual searches.
+21
+53
+TSAF
+Figure 1 - AirN@v catalogue page
+Figure 3 - TSM linked to Wiring Manuals
+ASM,AWM,AWL and ESPM are now included as ‘basic’
+Figure 2 - AirN@v predefined search menus
+20
+AirN@v - SEAMLESS ONE-STOP ACCESS FOR MAINTENANCE DOCUMENTATION
+Figure 5 - AirN@v AWM predefined search menus
+The ‘Extended
+Wire List’gives
+the contact
+Part Number.
+In figure 5
+the contact part number
+SOME USEFUL AirN@vTIPS directly to the correct page of the for termination A,
+IPC detailed figure for the PN. ‘E0170FA2200’is not
+• Make full use of the FIN together • When consulting any IPC hyperlinked.
+with key words when using the detailed figure, use the ‘SEE Reference to the ESPM
+‘predefined form search menus’ AMM’button to go directly to is normally by the
+and the ‘full text search’e.g. the correct LRU applicable Electrical
+enter ‘Remove 1WV2’. removal/installation procedure Standard and not by
+• When entering information into page of the AMM. PN. Therefore it will be
+any of the search forms, type the • When consulting wiring necessary to convert the
+minimum and select from the diagrams, use the built-in PN to a standard (Refer
+resulting list. If the list is too magnifier to help identify to figure 6). Then the
+long, simply return to the search diagram details. ‘Standard’is used in
+form and refine your search • Use the ESPM alphabetical ‘text search’to find the
+criteria. index to navigate to topics e.g. related ESPM
+• When entering information into Cable repair (Ref. 20-53-20) or information.
+any of the search forms, use of Repair cable (Ref. 20-53-20).
+the ‘wild card’or asterisk ‘*’
+also eases the input required in IMPROVED HELP FUNCTION
+the search forms.
+• When consulting any Line On the AirN@v V2.1 DVD
+Replaceable Unit (LRU) PowerPoint training presentations
+removal/installation procedure, that illustrate usage and include
+use the ‘SEE IPC’button to go practical examples are included.
+53
+TSAF
+AirN@v - SEAMLESS ONE-STOP ACCESS FOR MAINTENANCE DOCUMENTATION
+An open circuit
+is identified on
+terminal block
+2801VT-Module
+45-Contact K
+Figure 6 - AirN@v PN
+E0170A2200
+Part Number
+to electrical standard
+Standard + Identifier
+ESPM search criteria
+cable. So next the AWL needs to be this case when the PN is clicked it
+consulted for the contact Part links directly to the ESPM
+Number (PN) and then the ‘Equivalence Table’which gives the
+Electrical Standard Practices NSA PN equivalent to the EN PN
+Manual (ESPM) referred to. and also a direct link to the related
+ESPM topic. All procedures and
+First select the AWL predefined tooling required are included in this
+dropdown menu (Refer to figure ESPM topic or related hyperlinks
+5), select ‘Figure by Connector are provided (Refer to Figure 7).
+Pin..’ and enter the terminal block
+FIN, ‘2801VT’ and contact infor- The ESPM will provide the follow-
+mation obtained from the AWM, ing information to enable you to
+into the AWM ‘FIN connector pin’ carry out the repair:
+search form that is displayed.
+Enter ‘OK’ to open wiring infor- • contact insertion and extraction
+mation contained in the ‘Extended tools
+AWL’. • connection procedure
+• sealing (if required)
+The contact part number EN3155- • crimping procedure and tools
+016M2222 (termination B) is a • sleeve information (if required)
+European Norm standard (EN). In • wire stripping procedure.
+23
+53
+TSAF
+Figure 4 - AirN@v AWM predefined search menus
+22
+AirN@v- SEAMLESS ONE-STOP ACCESS FOR MAINTENANCE DOCUMENTATION AirN@v- SEAMLESS ONE-STOP ACCESS FOR MAINTENANCE DOCUMENTATION
+To further assist airlines, AirN@v Figure 8 - AOLS TR/TEB/AirN@v/TFU download
+end-users who have been named as
+‘administrators’ (airline adminis-
+trator function) will, on request, be
+notified by e-mail when a new TR
+or TFU becomes available for
+download via the AOLS Technical
+Download Service. This e-mail
+will include a hyperlink to the new
+data on the Technical Data
+Download Service. Available TFUs
+NEW ADDITIONAL MANUALS
+By mid 2005, the Standards
+Manual (SM) and the Consumable Available TRs.
+Underline indicates
+Material List (CML) will be inte-
+multiple
+grated into the basic AirN@v
+package.
+Both manuals will be added to the Useful references
+regular AirN@v DVD as addition-
+al database’s and offer customers
+OIT* number Date Description
+new and useful hyperlinks between
+SD 999.0112/04/MA 06 Oct 2004 Supply of an enhanced AirN@v version in Jan/Feb 2005 the IPC and the SM, also between
+the AMM and the CML directly SD 999.0096/04/BB 16 Aug 2004 Launch of AirN@v for A310 and A300-600 fleet
+from the consumable material ref- SD 999.0052/04/MA 29 Apr 2004 Introduction of new digital technical data download service
+erence in an AMM task to the SM SD 999.0162/03/MA 23 Dec 2003 Airbus digital data products and solutions
+material specification. *Operator Information Telex
+Conclusion
+CONTACT DETAILS Replacement of the out-dated use it on the Internet, giving them
+CAATS and ADRES by the new the ability to quickly and easily
+Anthony Poole technology AirN@v provides a make the latest AirN@v technical
+Communications
+necessary foundation for today’s data revisions available throughout
+& Business Support Manager
+Airbus digital Technical Data their organisation. Enhancements Technical Data Support
+& Services products and services. The initial to Airbus On Line Services (AOLS)
+Tel:+33 (0)5 61 93 49 21 AirN@v provided maintenance Technical Data Download Service
+Fax:+33 (0)5 61 93 91 86 documentation consultation for the enables customers to download
+anthony.poole@airbus.com AMM, IPC and TSM and included a digital Temporary Revisions and
+troubleshooting tool. AirN@v user Technical Follow Ups, giving
+feedback and experience is quicker and more efficient delivery
+assessed continuously by Airbus of these documents. The
+and enhancements and additions Standards Manual and
+developed and implemented. This Consumable Material List will also
+policy of continuous improvement be added to AirN@v in mid 2005,
+led to inclusion of the complete further increasing technical data
+suite of wiring manuals, making all availability and consultation
+the principle Airbus maintenance efficiency.
+documentation available in the
+AirN@v version to be issued from With these enhancements and
+the beginning of 2005. This AirN@v additions AirN@v has now become
+version also includes additional a seamless one-stop access for
+functionalities, such as the Web technical data consultation,
+Server. The Web Server enables acquisition and distribution for
+Airbus operators to install AirN@v Airbus operators.
+on their own Intranet, Extranet or 53
+TSAF
+25
+53
+TSAF
+Figure 7 - AirN@v navigation in the ESPM
+Contact
+connection
+procedure
+Crimping tool
+information
+Wire stripping and
+insertion/extraction
+tools
+AirN@vWEB SERVER NOW consultation and download in real-
+INCLUDED AS BASIC time. As a result, the TR and TFU
+CD-ROMs that are being distrib-
+The AirN@v Web Server gives uted, can in future be considered
+customers the ability to install as a back up to the AOLS on-line
+AirN@v onto their own Intranet, service. The digital TRs and TFUs
+Extranet or even to use AirN@v on on the AOLS Technical Data
+the Internet. The Web Server will, Download Service page, are pro-
+from January 2005, be included in vided within a ZIP package that
+the basic AirN@v package, giving includes:
+Airbus operators the ability to
+quickly and easily make the latest • the TFUs in Rich Text Format
+revisions available throughout an or the TRs in PDF to be
+airline organisation. anchored within AirN@v
+• an anchoring file that correctly
+ADDITIONAL AIRBUS ON-LINE attaches the TFU or TR within
+SERVICES (AOLS) TECHNICAL the AirN@v application or,
+DATA DOWNLOAD SERVICE within other Standard
+Generalised Markup Language
+Since June 2004, Airbus has pro- based technical documentation
+gressively been loading digital consultation systems (using the
+Temporary Revisions (TR)s and interface document provided).
+Technical Follow Ups (TFU)s
+onto the AOLS Technical Data Further details are included in the
+Download Service page (Refer to PDF guide available on each
+figure 8). These are accessible for AirN@v TFU and TR CD-ROM.
+24
+THE INTERNATIONAL AIRLINES TECHNICAL POOL (IATP) THE INTERNATIONAL AIRLINES TECHNICAL POOL (IATP)
+With more than 300 global dele- IATP Associate members
+gates, the organisation is a truly A BRIEF HISTORY (September 2004)
+diverse, multi-cultural community.
+Each member is encouraged to 1948
+Aero Technologies
+advance their ideas, suggestions A few airlines started sharing
+Airbus
+and opinions without any political aircraft materiels, equipment and
+Atis Aviation
+prejudice in the spirit of a ‘Global manpower resources by gentle-
+Aviation Concepts
+Village’, thereby promoting good- man’s agreement.
+CASL
+will among all members. 1950
+First Wave
+More international airlines
+The organisation characterises joined the group and formulas Goodrich
+itself by its objectives and mission were introduced to provide HAECO
+statement: financial settlement. Honeywell
+1967 Lufthansa Technik
+IATP Name change to ‘International Mach 2
+OBJECTIVES Airlines Technical Pool’. Midnite Express
+2004 Nayak Aircraft Services
+To maintain a high degree of Associate Members (Original Nordam Group
+technical performance in Equipment Manufacturers - Perform Air
+aircraft operations. OEMs) allowed to join. Sabena Technics
+SR Technics
+To maintain a spirit of THE IATP PRINCIPLE OF Sterling Courier
+cooperation in the airline POOLING SPARE PARTS, TAECO
+community. GROUND SUPPORT
+EQUIPMENT/TOOLS AND
+To formulate and enforce OTHER SERVICES
+simplified procedures that
+lower administration costs. HOW DOES IT WORK?
+To establish cost sharing Basically the idea is simple: An air-
+formulas, which are acceptable line having a large network and
+to all members. operating to a number of line sta-
+tions is asked by one or more air-
+To monitor and ensure there lines operating to a limited number
+are no monopolies or of these stations if they could pool
+commercial restraints. spares and services at these sta-
+tions to cover operations.
+IATP
+MISSION STATEMENT Alternatively, a number of airlines
+get together to pool spares and ser-
+The IATP is a convention of airlines vices at stations where they have
+sharing technical resources to gener- common operations.
+ate economic savings and to achieve
+on time dispatch reliability and safe If an airline agrees to put spares
+operation at their line stations. and/or services into such a station
+it becomes the pool provider air-
+The IATP is a non-profit, indepen- line. The other airlines wanting to
+dent, non-political global organisa- access those spares and/or services
+tion based on a democratic culture are the participating airlines. In
+with equal opportunities for all case of need, participating airlines
+member airlines and their dele- have the right to access the pooled
+gates. spares and/or services. All the
+agreements governing the pooled
+Throughout its 56-year history, the spares and services are calculated
+IATP has contributed significantly according to the IATP Blue Book
+to the aviation industry, as we (see following explanation).
+know it today, by forging strong
+bonds among airlines around the Over time, the IATP members have
+world. created formulas to cover pool costs
+53
+TSAF
+IATP member airlines
+operate 9,500 aircraft
+represent 650 main/line stations
+and share 1.2 Billion USD spares
+27
+53
+TSAF
+The International
+Airlines Technical Pool
+Airbus membership
+enhances airlines’ access
+to spares services
+The International Airlines Technical Pool (IATP) is a
+convention of airlines consisting of over 100 members
+worldwide. In the spirit of cooperation, these
+members of the aviation industry gather twice
+yearly to discuss the sharing of resources and cost
+reduction issues, as well as how to improve
+operational efficiency. Under the auspices of
+the IATP, members share aircraft recovery
+equipment, aircraft parts and tooling, ground
+handling equipment and manpower/facilities.
+The primary goal of the IATP is to generate
+economic savings to participating airlines by minimising
+investments otherwise required for the purchase of equipment, and
+to position spare parts and other equipment at various stations in support
+of aircraft operations.
+Peter Buchfeld
+VP Operations
+Spares Support and Services
+26
+THE INTERNATIONAL AIRLINES TECHNICAL POOL (IATP) THE INTERNATIONAL AIRLINES TECHNICAL POOL (IATP)
+and invoicing. The elements are unit POOLING OF LINE MAINTENANCE • Integrate all these aspects of The current IATP
+pool cost, cost of ownership, SERVICES AND ACTIVITIES Airbus participation into Airbus
+management committee
+number of participants, number of policies to provide better, more
+users, number of hours operated, Pooling of line, maintenance efficient and more cost effective
+amortisation factor, number of days services and activities includes: service for customers Ted Moos Horst Schrader
+borrowed, number of days pool is in Cargolux Airlines Lufthansa
+effect, quantity of items pooled and • Sharing manpower and technical OTHER AIRBUS President IATP Board of Directors
+many more depending on the pool. facilities CONTRIBUTIONS TO IATP IATP Board of Directors Product Development
+• Covering all activities up to and Larry Cook Yoshihiro Yawata
+The agreements last for a season including A checks, as well as Further working groups and United Parcel Services All Nippon Airways
+(April to October and November to trouble shooting & defect committees exist in which Airbus Vice-President IATP Management
+March) and can be renewed or rectification, to prevent AOG is also participating and
+IATP Board of Directors Committee Member
+changed. (Aircraft On Ground) risks at contributing inputs, as follows:
+Financial Affairs Cellaletin Durak
+line stations, by using
+San Lucktong Turkish Airways
+Airbus has requested IATP to open standardised contracts PROJECT GROUPS
+Thai Airways IATP Management
+the A-pool for A380 and to sepa- • Authorities requirements
+IATP Board of Directors Committee Member
+rate all other Airbus aircraft from ORGANISATION OF IATP • Introduction A340-500/600
+Facilities Marsha Drescher
+DC10/MD11. IATP is reviewing CONFERENCES • Introduction A380 (Airbus
+Peter Babunek IATP
+this request and will come back elected as Co-chair)
+Austrian Airlines Business Manager
+shortly with a solution. IATP conferences are organised as
+Pool Groups IATP Board of Directors
+follows: PROJECT COMMITTEES
+Corporate Development
+• Aircraft recovery
+• Pool group training • Supplier services (Airbus
+D - Ground handling equipment
+• Pool group meetings member)
+E - Ground maintenance equipment & aircraft recovery
+• Bilateral meetings • Maintenance pooling agreements
+F - Technical facilities and services
+• Ground equipment, aircraft • On line data development
+G – Avionics, common Units & L1011 and tools
+recovery • Station restrictions
+K – 727,737,707 aircraft units and tools
+• Line maintenance (flight line)
+L - Line maintenance services?
+• All parts pool group meetings THE BLUE BOOK
+M – 747 aircraft units and tools
+• Exchange meetings (probably members enables ‘real time visibil-
+P – DC9, MD-80 & 90 series aircraft units and tools
+the most important meeting for The ‘Blue Book’has been prepared ity’ for all of the active pool
+Q – DC10/MD11 + all Airbus models units and tools
+airlines. Opportunities for direct as an operating manual and func- groups. It is no longer necessary to
+S - 757/767 aircraft units and tools
+contacts and market place. tional guide for all parties to the submit all the changes via the elec-
+T - 777 aircraft units and tools
+Delegates can be approached to IATP agreement. It contains all the tronic data processing agency. This
+Aircraft recovery
+establish other member rules and regulations the IATP has improved the communication
+outstation requirements) functions on. It is constantly updat- speed remarkably.
+ed subject to IATP members’
+AIRBUS BECOMES AN approval. The web page contains all neces-
+ASSOCIATE MEMBER OF sary documentation like the Blue
+IATP IATP’s new on-line access Book, all pool forms, minutes of
+WHY? (https://www.iatpool.com) for meetings, member contacts etc.
+Airbus joined IATP in March 2004
+for the following main reasons:
+Conclusion
+• Learn members concerns and
+new ideas from the conference
+discussions CONTACT DETAILS Due to the rapid development of Airbus participation and
+• Present issues concerning Airbus the aviation industry, the IATP is contributions to the IATP
+Spares Support and Services and Peter Buchfeld more valuable than ever before. It community will support cooperation
+Vice President Operations
+solicit feedback from the forum will enhance the services platform among the participating airlines,
+Spares Support and Services
+of 100 major airlines Tel:+49 (0)40 5076 2202 for airlines while maintaining the MROs and suppliers, plus enable
+• Have working sessions with Fax:+49 (0)40 592 398 ideals the organisation was built on. Airbus to learn airlines concerns
+airline supply decision makers to peter.buchfeld@airbus.com IATP is the basis to exchange ideas and ideas and adapt Airbus
+with organisations around the world policies to provide increasingly
+discuss optimum, cost effective
+for the benefit of its members, to better spares and services support
+solutions, ideas and cooperation
+keep up to date with market to customers.
+• Be the contact point in the
+developments and requirements.
+conference for any airlines with
+spares and support issues
+53
+TSAF
+29
+53
+TSAF
+28
+35
+AIRPORTS ARE PREPARING FOR COMMERCIAL OPERATIONS AIRPORTS ARE PREPARING FOR COMMERCIAL OPERATIONS E X T R A C T
+DECEMBER 2004
+This can mean that the infrastruc- Compatibility Group (AACG), has No other intellectual property rights are granted by
+the delivery of this Magazine than the right to read
+ture recommended for a certain developed a set of specific opera- it, for the sole purpose of information.This
+Magazine and its content shall not be modified
+generic group may be in excess of tional recommendations to permit
+and its images shall not be reproduced without
+what is required to safely accom- A380 operations at existing airports prior written consent of Airbus.This Magazine and
+the material it contains shall not,in whole or in
+modate a specific aircraft (as is the with a minimum of infrastructure part,be sold,rented,distributed or licensed to any
+third party.The information contained in this
+case for the A380). change. A major European airport Magazine may vary over time because of future
+factors that may affect the accuracy of information
+has found that this would reduce the herein.Airbus assumes no obligation to update
+AIRCRAFT SPECIFIC projected upgrading costs to full a a n dd y it in io f n o a rm l a in ti f o o n rm c a o t n io ta n i n i e s d r i e n q t u h i i r s e d M , a A g i a r z b i u n s e . S W .A h . e S n .
+OPERATIONAL Code F generic design standards by can be contacted to provide further details.Airbus,
+its logo and product names are registered
+RECOMMENDATIONS 70% and that in total, preparing for trademarks.Airbus S.A.S.shall assume no liability
+for any damage in connection with the use of this
+the A380 would only represent Magazine and of the materials it contains,even if
+Airbus S.A.S.has been advised of the likelihood of
+These requirements allow airport 1.4% of the investment planned for such damages
+infrastructure to be tailored to a their proposed new runway and ter-
+specific type of aircraft based on its minal. These figures are typical of
+exact characteristics. They can other airports worldwide.
+A380 cater for situations where a New
+Large Aircraft (NLA) needs to Airbus has also actively supported
+operate to an existing airport that is ICAO, who recently published (in AIRBUS S.A.S.
+31707 BLAGNAC CEDEX, FRANCE
+not designed to the corresponding June 2004) Circular 305 entitled DECEMBER 2004
+PRINTED IN FRANCE
+Airports are preparing generic design recommendations. ‘Operation of NLA at Existing A © L L A I R R I B G U H S T S S . R A E .S S . E 2 R 0 V 0 E 4 D
+AIRBUS, ITS LOGO, A300, A310, A318,
+This process is recognised by Aerodromes’. With this circular, A319, A320, A321, A330, A340, A380,
+A400M ARE REGISTERED TRADEMARKS
+ICAO and the FAA, who both allow ICAO recognises that generic aero-
+AN EADS JOINT COMPANY
+for commercial operations a specific aircraft to be evaluated, drome infrastructure recommenda- WITH BAE SYSTEMS
+and corresponding tailored infra- tions as defined in Annex 14 are not
+structure to be developed provided the sole and unique means for safe-
+the application is supported by an ly accommodating specific aircraft
+More than 60 airports worldwide are preparing for A380 commercial operations which commence
+‘Aeronautical Study’which ensures types at airports. Contained within
+in 2nd quarter 2006. With its extra capacity enabling it to make the most efficient use of scarce
+the desired level of safety is the Circular are references to a num-
+infrastructure resource combined with unparalleled environmental characteristics (it will generate
+achieved. This system of approval ber of aeronautical studies that have
+half the noise energy of existing large aircraft), airports recognise that the A380 represents the
+has been used for many years, for been, or are being, undertaken by
+most socially responsible solution to cater for air traffic growth.
+example, over 80% of B747 opera- States such as the US, Australia and
+tions in the US are from airports others. To assist other States and
+The A380 has been designed from the start with existing and future airport infrastructure in mind.
+which do not meet the full US aerodrome operators that could
+The required level of airport airside infrastructure (taxiway and runway widths and separations
+generic design standard for the potentially see NLA operations in
+etc) can be specified in two different ways.
+type, known as ‘Group V’, and the future, all the studies are being
+therefore have been granted uploaded on a step by step basis
+GENERIC AIRPORT DESIGN STANDARDS An example is the US Federal Aviation
+waivers under this process. A simi- on the ECAC (European Civil
+AND RECOMMENDATIONS Agency Advisory Circular (FAA AC)
+lar situation exists at several other Aviation Conference) website,
+150/5300, which classes aircraft in
+large international airports that do http://www.ecac-ceac.org/nla-forum,
+These are requirements in which aircraft are Groups I to VI. The A380 falls
+not meet the full ICAO Code E managed by leading European Civil
+grouped by their wingspan and main landing into the ICAO Code F and FAA
+generic design standards. Aviation Authorities.
+gear width into generic categories and are applic- Group VI categories. It is
+Conclusion
+able to the design and construction of a new air- important to note though
+A380 SITUATION Following on from Circular 305 and
+port, or a new part of an existing airport. Each that the infrastructure
+in recognition of the differences
+group has a corresponding infrastructure require- dimensions correspond-
+Since the mid 1990’s and the days of between airport design and opera- By working closely with ICAO,
+ment. At the ICAO (International Civil Aviation ing to each group
+the A3XX, Airbus has included and tional needs, ICAO is in the process national aviation authorities
+Organisation) level, guidance is found in are based on the
+actively sought the comments of reg- of creating an Aerodrome Panel, and airports, Airbus has
+Annex14 where the groups are defined by code maximum aircraft
+ulatory authorities, airport and air- whose main task is intended to be optimised the design of the
+letters A to F. Individual States publish their dimensions
+line operators in the design process separating these distinct areas. The A380 for airport compatibility.
+own recommendations, usually based on within it.
+of the aircraft. These inputs have reference for airport design will Most major airports around
+Annex14.
+massively optimised the aircraft with remain Annex 14 but requirements the world are preparing for
+respect to airport compatibility. for airport operations should be A380 commercial operations
+covered by so-called PANS using a specifically tailored
+Taking into account the specific (Procedures for Air Navigation solution that, in conjunction
+characteristics of the A380, a pan- Services). PANS are expected to with the aircraft design itself,
+will minimise disruption and
+European group of civil aviation build on the concepts and applica-
+cost at airports.
+authorities and airport operators, ble measures already available in
+known as the A380 Airport Circular 305.
+THIRTY YEARS AGO THE A300B2 ENTERED INTO SERVICE WITH AIR FRANCE
+53
+TSAF
+The B2 was a derivative of the A300B, Airbus first
+aircraft and the template for the companies successful
+widebody fleet, which was launched at the Paris Air Show
+in 1969. The first widebody twin-engine jet, the A300B
+was capable of carrying 226 passengers in a two-class
+lay-out.
+Recognising its potential, Air France ordered a stretched
+250-seat version, which became the A300B2. After
+achieving certification on schedule in March 1974, the B2
+went into full-scale production and entered service with
+the French flag carrier on May 23 the same year on the
+Paris-London route.
+The operational capability of the B2 was increased
+with the introduction of subsequent versions and this
+short-range series was followed by the
+medium-range B4 that had an additional
+fuel tank in its centre wing box. Production
+of the A300B4 ceased in May 1984 when the
+A300-600 went into production. The A300-600F remains
+a benchmark freighter aircraft today.
+32
+CUSTOMER SUPPORT AROUND THE CLOCK... AROUND THAER WTIOCRLLED
+Customer Support Centres
+Training centres
+Spares centres / Regional warehouses
+Resident Customer Support Managers (RCSM)
+RCSM location Country
+Luton United Kingdom
+Macau S.A.R. China
+Madrid Spain
+Manchester United Kingdom
+Manila Philippines
+Mauritius Mauritius
+Melbourne Australia
+Memphis United States of America
+Mexico City Mexico
+Miami United States of America
+Milan Italy
+Minneapolis United States of America
+Montreal Canada
+Moscow Russia
+Mumbai India
+Nanchang China
+Nanjing China
+Newcastle Australia
+New York United States of America
+Ningbo China
+Noumea New Caledonia
+Palma de Mallorca Spain
+Paris France
+Paro Bhutan
+Phoenix United States of America
+Pittsburgh United States of America
+Qingdao China
+Quito Ecuador
+Rome Italy
+Sana’a Yemen
+San Francisco United States of America
+San Salvador El Salvador
+Santiago Chile
+Sao Paulo Brazil
+Seoul South Korea
+Shanghai China
+Sharjah United Arab Emirates
+Shenyang China
+Shenzhen China
+Singapore Singapore
+Sydney Australia
+Taipei Taiwan
+Tashkent Uzbekistan
+Tehran Iran
+Tokyo Japan
+Toronto Canada
+Tulsa United States of America
+Tunis Tunisia
+Vienna Austria
+Washington United States of America
+Xi'an China
+Zurich Switzerland
+53
+TSAF
+Customer support
+WORLDWIDE
+Jean-Daniel Leroy
+VP Customer Support
+Tel: +33 (0)5 61 93 35 04
+Fax: +33 (0)5 61 93 41 01
+USA/CANADA
+Philippe Bordes
+Senior Director Customer Support
+Tel: +1 (703) 834 3506
+Fax: +1 (703) 834 3464
+CHINA
+Ron Bollekamp
+Senior Director Customer Support
+Tel: +86 10 804 86161
+Fax: +86 10 804 86162 / 63
+RESIDENT CUSTOMER SUPPORT
+ADMINISTRATION RCSM location Country
+Jean-Philippe Guillon
+Abu Dhabi United Arab Emirates
+Director
+Algiers Algeria
+Resident Customer Support Administration Amman Jordan
+Amsterdam Netherlands
+Tel: +33 (0)5 61 93 31 02
+Athens Greece
+Fax: +33 (0)5 61 93 49 64 Auckland New Zealand
+Bandar Seri BegawanBrunei
+Bangalore India
+TECHNICAL,SPARES,TRAINING Bangkok Thailand
+Airbus has its main Spares centre in Hamburg, Beirut Lebanon
+Brussels Belgium
+and regional warehouses in Frankfurt,
+Budapest Hungary
+Washington D.C., Beijing and Singapore. Buenos Aires Argentina
+Cairo Egypt
+Casablanca Morocco
+Airbus operates 24 hours a day every day. Charlotte United States of America
+AOG Technical and Spares calls. Chengdu China
+Colombo Sri Lanka
+Copenhagen Denmark
+Airbus Technical AOG Centre (AIRTAC) Dalian China
+Tel: +33 (0)5 61 93 34 00 Damascus Syria
+Delhi India
+Fax:+33 (0)5 61 93 35 00 Denver United States of America
+support.airtac@airbus.com Derby United Kingdom
+Detroit United States of America
+Dhaka Bangladesh
+Spares AOGs in North America should be
+Doha Qatar
+addressed to:
+Dubai United Arab Emirates
+Tel: +1 (703) 729 9000 Dublin Ireland
+Duluth United States of America
+Fax:+1 (703) 729 4373
+Dusseldorf Germany
+Florence Italy
+Spares AOGs outside North America should Fort Lauderdale United States of America
+be addressed to: Frankfurt Germany
+Guangzhou China
+Tel: +49 (40) 50 76 3001/3002/3003
+Hangzhou China
+Fax:+49 (40) 50 76 3011/3012/3013 Hanoi Vietnam
+Helsinki Finland
+Hong Kong S.A.R. China
+Airbus Training Centre Toulouse, France
+Indianapolis United States of America
+Tel: +33 (0)5 61 93 33 33 Istanbul Turkey
+Jakarta Indonesia
+Fax:+33 (0)5 61 93 20 94
+Jinan China
+Johannesburg South Africa
+Airbus Training subsidiaries Karachi Pakistan
+Kuala Lumpur Malaysia
+Miami, USA - Florida
+Kuwait city Kuwait
+Tel: +1 (305) 871 36 55 Lanzhou China
+Fax:+1 (305) 871 46 49 Larnaca Cyprus
+Lisbon Portugal
+Beijing, China London United Kingdom
+Tel: +86 10 80 48 63 40 Los Angeles United States of America
+Louisville United States of America
+Fax:+86 10 80 48 65 76 33
+www.airbusworld.com
+AIRMAN AIRcraft Maintenance ANalysis.
+He’s flexible and adaptable. He can’t leap tall of in-service live data checks. He can provide
+buildings in a single bound but he can run a fleet analysis of available data and
+of aircraft. He’s AIRMAN: A unique software tool access to all relevant information.
+designed to optimise the maintenance of your fleet. He can save millions. For more,
+Always handy to have around, AIRMAN can reduce contact Airbus Customer Services.
+aircraft turnaround time. He can provide millions Airbus. Setting the standards.

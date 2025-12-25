@@ -1,0 +1,2295 @@
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+0
+5
+T
+S
+A
+F
+FAST
+50
+A U G U S T 2 0 1 2
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+05
+tsaf
+It’s not so often that we celebrate
+symbolic milestones of a magazine
+dealing with ‘serious’ subjects such
+as Flight, Airworthiness, Support
+and Technology (FAST). So,
+I thought the 50th.edition would be
+a good opportunity to do so.
+The idea for FAST was conceived
+in 1983 by Arno Stein and
+Bernard Ziegler - a true Airbus
+pioneer, at that time respectively
+Vice President and Senior Vice
+President of Airbus Customer
+Support. The editor was Alasdair
+Reynolds, the Technical Director
+was Gerard Misraï, and the
+graphic design was under Knut
+Marsen assisted by Agnès Massol-
+Lacombe, who overtook those
+responsibilities until her own
+retirement in 2009.
+The best way to celebrate this
+milestone is to thank all of those who
+made this longevity possible.
+Firstly, thanks to the thousands of
+readers around the world who have
+encouraged us over the years to
+continue publishing technical articles
+on our Airbus aircraft. Secondly, a
+big part of the merit goes to Airbus
+colleagues from all different areas of
+activity: Design offices, flight tests,
+training, maintenance and engineering
+support, spares and logistics, upgrade
+services, to name a few, and also
+occasionally some airline customers’
+staff, who have contributed in writing such
+interesting articles.
+Finally, I would like to thank the small
+team of people on the picture, who directly
+contributed to the production of this
+magazine: The successive editors standing
+from left to right - Denis Dempster, Kenneth
+Jonhson and the actual one, Lucas Blumenfeld -
+and for the art design, Agnès Massol-Lacombe.
+The common point between all the people who
+made this FAST adventure possible is the same
+and shared passion for aviation.
+Let’s continue sharing this passion with you,
+through many more editions of FAST magazine!
+Bruno PIQUET
+FAST magazine publisher
+JA UU LGy U2 S0 T0 7 2 0 1 2
+40
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+Fuel and emissions efficiency
+Saving fuel and reducing emissions:
+A joint undertaking
+Simon WESELBy
+Airbus Fuel and Flight Efficiency
+Consulting Services
+Working together to save on airline costs
+Serge GoLoFIER
+Publisher: Bruno PIQUET
+Vincent SWIDERSKI
+Editor: Lucas BLUMENFELD
+The 4D-trajectory management
+Page layout: quatcoul
+Cover: FAST 50th edition Flight efficient traffic sequencing based
+Cover design: quatcoul
+on aircraft predictions
+Authorisation for reprint of FAST Magazine articles should be requested
+olivier DE-LA-BURGADE
+from the editor at the FAST Magazine e-mail address given below
+Customer Services Communications Pierre NERI
+Tel: +33 (0)5 61 93 43 88
+Fax: +33 (0)5 61 93 47 73 Sylvain RAyNAUD
+e-mail: fast.magazine@airbus.com
+Printer: Amadio Airbus Technical AOG Centre
+24 Hours in AIRTAC
+FAST Magazine may be read on Internet
+http://www.airbus.com/support/publications Ronie GNECCo
+under ‘Quick references’
+Damien CUSSAC
+ISSN 1293-5476
+Cabin air quality: The key to a comfortable flight
+© AIRBUS S.A.S. 2012. AN EADS CoMPANy
+All rights reserved. Proprietary document How to make an aircraft breathe
+Dr. Andreas BEZoLD
+By taking delivery of this Magazine (hereafter “Magazine”), you accept on behalf
+of your company to comply with the following. No other property rights are granted
+by the delivery of this Magazine than the right to read it, for the sole purpose of Space-Flex
+information. This Magazine, its content, illustrations and photos shall not be modified
+An innovative cabin option for the A320 Family
+nor reproduced without prior written consent of Airbus S.A.S. This Magazine and the
+materials it contains shall not, in whole or in part, be sold, rented, or licensed to any Stefanie von LINSToW
+third party subject to payment or not. This Magazine may contain market-sensitive
+or other information that is correct at the time of going to press. This information
+involves a number of factors which could change over time, affecting the true public Passenger comfort
+representation. Airbus assumes no obligation to update any information contained in Improving air quality in cabins
+this document or with respect to the information described herein. The statements
+made herein do not constitute an offer or form part of any contract. They are based on
+Airbus information and are expressed in good faith but no warranty or representation Customer Services
+is given as to their accuracy. When additional information is required, Airbus S.A.S
+Events
+can be contacted to provide further details. Airbus S.A.S shall assume no liability for
+any damage in connection with the use of this Magazine and the materials it contains,
+even if Airbus S.A.S has been advised of the likelihood of such damages. This licence FAST magazine quiz
+is governed by French law and exclusive jurisdiction is given to the courts and tribunals
+Celebrating the 50th edition
+of Toulouse (France) without prejudice to the right of Airbus to bring proceedings for
+infringement of copyright or any other intellectual property right in any other court of
+competent jurisdiction. Customer Services Worldwide
+Airbus, its logo, A300, A310, A318, A319, A320, A321, A330, Around the clock... Around the world
+A340, A350, A380 and A400M are registered trademarks.
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+05
+tsaf
+2
+7
+10
+15
+22
+30
+34
+35
+36
+37
+This issue of FAST Magazine has been printed
+on paper produced without using chlorine, to reduce
+Photo copyright Airbus
+Photo credits: waste and help conserve natural resources.
+Airbus Photographic Library, Airbus Flight Test Photo Lab, EADS Corporate Heritage, ExM Company, Eurocontrol. Every little helps!
+1
+Fuel and emissions eFFiciency - SAVING FUEL AND REDUCING EMISSIoNS: A JoINT UNDERTAKING
+05
+tsaf
+Fuel and emissions
+efficiency
+Saving fuel and reducing emissions:
+A joint undertaking
+Airbus has, is and will offer its customers with environment is becoming a matter of increasing
+highly fuel efficient aircraft. Fuel efficiency is concern throughout the world. Today, the most
+also function of how the aircraft is operated and effective way to reduce emissions such as
+maintained. Airbus supports the airlines seeking the “greenhouse gas” CO is to reduce fuel
+2
+to optimize their fuel consumption and we also consumption.
+support airport and Air Traffic Management In this article, separated in two sections, we will
+authorities, helping them to provide ever more demonstrate Airbus’ involvement in helping the
+fuel-efficient air transport infrastructures. airlines achieve significant yearly fuel savings,
+Furthermore, aviation’s contribution to our while contributing to a greener planet.
+Simon WESELBY
+Fuel and Emissions
+Performance Manager
+Airbus S.A.S.
+2
+05
+tsaf
+Fuel and emissions eFFiciency - SAVING FUEL AND REDUCING EMISSIoNS: A JoINT UNDERTAKING
+An ever increasing
+demand
+Airbus and alternative
+source fuels
+Projections indicate that from The challenges associated with Biofuels can be produced from
+today’s baseline, commercial the use and certification of renewable plant material or even
+aviation’s fuel consumption could jet aviation fuels derived from domestic waste.
+double by 2050. Today, for many “non-traditional” sources have
+now been overcome. Alternative Biofuels derived from plant matter
+operators, fuel represents their
+source fuels that conform to the offer the advantage of being close
+single largest operating cost
+appropriate specification can now to “carbon neutral” as roughly the
+(figure 1). Against a background of
+be mixed with fuels derived from same amount of Co2 is absorbed
+increasing fuel prices, driven by an
+traditional sources in a ratio by the plants when growing,
+ever increasing worldwide demand of up to 50%, without any specific as is generated when the fuel they
+and continued market speculation, operational requirements produce is burnt.
+this represents a major risk to the or constraints.
+air transport industry development. Airbus only supports
+Fuels derived from gas produce sustainable biofuel
+reduced particulate matter when development that
+The burning of any hydro-carbon
+burnt, meaning improved air is not in competition
+based fuel, such as jet aviation fuel,
+quality at airports. Also, natural gas with food production,
+produces a variety of emissions,
+reserves exceed those of crude oil water supply
+including CO . These emissions
+2 and therefore, this technology has or cause
+are being increasingly scrutinized a significant economic potential. deforestation
+by the scientific community for (read ‘Alternative
+their effect on our environment Airbus’ biofuel development strategy fuels’ in FAST
+and consequently, by the world’s is now focused on making biofuel magazine 46).
+governments as they endeavour to an economically viable alternative
+to conventional fuels.
+moderate their production.
+What has already been done to
+address these issues? What is
+being done? What will need to be
+done in the future?
+Operators’ average
+operating costs
+Figure 1
+Typical single aisle aircraft Typical twin aisle aircraft
+Crew
+Nav. & Landing
+Engine Maint.
+Airframe Maint.
+Fuel
+3
+Fuel and emissions eFFiciency - SAVING FUEL AND REDUCING EMISSIoNS: A JoINT UNDERTAKING
+05
+tsaf
+Relative 100 %
+fuel burn
+per seat
+80 %
+60 %
+40 % - 70 %
+20 %
+0 %
+1950 1960 1970 1980 1990 2000 2010 2020
+The fuel efficient twin-aisle sector. The post launch
+Lower fuel consumption
+success of both of these products
+for modern aircraft aircraft
+has demonstrated that they are
+Figure 2 what the airline industry needs.
+The overall fuel consumption of
+Airbus has and will continue to offer
+commercial passenger jet aircraft
+its customers the most fuel efficient
+has been drastically reduced
+aircraft possible. However, airlines
+over the last 50 years (figure 2).
+and infrastructure providers also
+Airbus has played its part in this
+have a role to play in minimizing
+reduction through the introduction
+fuel consumption.
+of innovative technologies in
+its highly successful products.
+How can an airline
+Fly-by-wire and the use of
+Airbus “Getting to Grips” composites, initially in secondary save fuel?
+series of documents and then in primary structure,
+have many advantages that include
+Figure 3
+improved aircraft performance Airlines have many opportunities
+and economics. The A380’s to save fuel during every single
+fuel consumption per passenger flight. These opportunities are
+kilometre makes it the most fuel widely known and generally
+efficient aircraft in service today. understood. They can be divided
+The A320neo (new engine option) into four basic groups:
+will soon deliver outstanding fuel • Optimized flight profiles: Flying
+efficiency through the introduction the most efficient routes at
+of the latest generation of the most efficient speeds and
+engines and aerodynamics on altitudes. We discuss this further
+an existing platform. The all in the next section
+new A350XWB’s (Extra Wide (“Fuel efficient routes”).
+Body) low weight composite • Operational procedures: Directly
+structure, ultra efficient engines reduce fuel consumed with
+and advanced aerodynamics, will initiatives such as reduced APU
+also deliver class leading levels (Auxiliary Power Unit) use
+of performance in the long-range, or single engine taxiing.
+4
+05
+tsaf
+Fuel and emissions eFFiciency - SAVING FUEL AND REDUCING EMISSIoNS: A JoINT UNDERTAKING
+• Maintenance: Restoring airframe Queues to join runways, holding
+and engine condition patterns, airspace restrictions,
+Airbus and the Air
+to minimize aerodynamic drag ILS (Instrument Landing System)
+Traffic Management
+and maximize efficiency. approaches, they all have their
+• Weight reduction: Every role to play in the non-optimized reform
+kilogramme of weight carried by flight profile. Noise abatement Airbus’ ProSky organisation
+the aircraft consumes extra fuel. trajectories can also increase flight offers products and services
+Weight can be optimized distances. designed to support the
+in many areas, for example, Furthermore, in some regions, development of the Air Traffic
+Management (ATM) industry
+cabin service, potable water notably North America and Europe,
+throughout the world. It also
+and even with fuel carried. the capacity of the current ATM
+enables the deployment of highly
+infrastructures are approaching
+efficient operating procedures
+These and many other initiatives their limits. This leads to delays
+that airlines can exploit today.
+are discussed in widely available and other inefficiencies and also
+documents. Airbus’ contribution represents a significant risk to For example, QuoVadis
+to this library can be found in commercial aviation growth. which is part of ProSky’s
+the ‘Getting to Grips’ series of Airbus’ contribution to addressing group, has amassed significant
+documents. The two highlighted in these issues is outlined in the experience in the design and
+deployment of airport approach
+figure 3 offer an excellent starting Airbus and ATC reform text box.
+and departure procedures that
+point for anyone interested in the
+deliver considerable savings
+subject of fuel efficiency but the Implementing
+for the operators using them.
+these series also include several
+a fuel efficient The procedures are based
+titles for those wishing to develop on RNP (Required Navigation
+their expertise. All these brochures operation Performance) technology, which
+can be downloaded from the Flight is available for all Airbus aircraft.
+Operations community of the The development process
+AirbusWorld portal. Raising awareness of and dealing is done in full collaboration with
+the local ATM community.
+with fuel efficiency, across the
+Fuel efficient airline’s organisation can also be
+Metron, also part of
+facilitated through formal training.
+routes ProSky’s group, offers Air
+Here again, Airbus offers a number
+Navigation Service Providers
+of courses for both the specialists (ANSP), airport authorities
+and non-specialists. and airlines an innovative, cost
+One of the methods for reducing
+Identifying initiatives that can effective solution to optimize
+fuel consumption is to optimize
+save fuel is just the start of the traffic flow and minimize delays.
+the flight profile, including speeds
+story. These initiatives need to The partnership with ATRiCS
+and altitudes. provides a tool for airport tower
+be evaluated with all stakeholders
+Usually the most economic routing controllers that gives them
+to ensure that they do indeed
+is the most direct one. It also engine start times for every
+represent an overall cost reduction
+avoids waiting in line to take-off, departing aircraft to allow
+for the airline. Once this has been
+in-flight “holding”, or waiting for the most efficient use of runway
+confirmed, the initiative will need capacity while minimizing
+a parking stand on arrival.
+to be developed so that it can queues.
+The most efficient vertical profile
+be deployed across the airline’s
+allows the aircraft to climb and
+community in a permanent way. For further information visit
+accelerate continuously to its
+The notion of permanence presents www.AirbusProSky.com
+optimum altitude and speed. It
+a further question: How can
+also allows the aircraft to descend
+the airline track an initiative’s
+continuously from that optimum
+deployment? Again, Airbus
+altitude to the destination runway.
+has solutions to address these
+In this way, the time that the
+questions. Our Fuel and Flight
+aircraft spends in its most efficient
+Efficiency consulting service uses
+configuration - high altitude cruise -
+a process that can be adapted to
+is maximized.
+an airline’s specific requirements
+However, the realities of the
+and priorities. It is supported by
+current Air Traffic Management
+our fuel efficiency measuring and
+(ATM) system often preclude
+monitoring software tool, FEMIS
+the execution of optimum flight
+(Flight Efficiency Management
+profiles.
+and Information).
+5
+Fuel and emissions eFFiciency - SAVING FUEL AND REDUCING EMISSIoNS: A JoINT UNDERTAKING
+05
+tsaf
+A collaborative
+Airbus and emissions
+future
+Today’s aviation industry supports the global aviation
+produces 2% of all man-made industry’s target of 50% net
+Co2 emissions, 80% of which reduction in carbon emissions, Within this article, we have outlined
+are related to passenger flights compared to 2005 levels, by 2050. the principle elements of Airbus’
+exceeding 1,500km, for which To support this target, Airbus is support and services package. It is
+there is no practical alternative. committed to the European Union’s designed to help airlines optimize
+By comparison, maritime “Flightpath 2050” programme that
+their fuel consummation. However,
+emissions are 50% higher aims to deliver a 75%* reduction
+recognizing the ever growing
+nd road transport emissions in Co2 per passenger kilometre.
+importance of this subject, Airbus
+are even seven times higher than
+has launched a customer working
+those of the aviation industry. To fulfil its ambition, Airbus
+Furthermore, in the last decade is investing nearly 2 billion euros group. The objective of the Fuel
+the traffic increased more than per annum in research and Efficiency FAIR Working Group
+50% but the fuel consumption only development. More than 90% is to develop Airbus’ support and
+increased by 3%. of the Research and Technology services’ package to better meet
+The aviation industry is on (R&T) projects have environmental the airlines’ needs. The working
+the right track and Airbus fully benefits.
+group’s priorities for 2012 have
+* Relative to the capabilities of typical new aircraft in 2000 75% = 65% aircraft related + 10% infrastructure related. been established and developments
+“Flightpath 2050” targets also include 90% Nox emissions’ reduction and 65% noise reduction.
+are underway. Further information
+on FAIR Working Groups can be
+found in the adjacent text box.
+n o t e s
+What are Airbus FAIR for airline use. This established,
+Working Groups? collaborative process has delivered
+valuable improvements to support
+FAIR Working groups are dedicated
+the operational excellence
+to specific domains that have been
+of the Airbus fleet.
+selected by the operator community.
+Their goal is the identification of key The progress and results of the Fuel
+issues within the domain, review Efficiency FAIR Working Group (and CONTACT DETAILS
+and development solutions and all the other working groups) can be
+the preparation of those solutions found on the AirbusWorld portal. Simon WESELBY
+Fuel and Emissions
+Performance Manager
+Airbus S.A.S.
+Tel: +33 (0)5 62 11 75 16
+simon.weselby@airbus.com
+Conclusion
+These days it is common to see airlines However Airbus, its engine suppliers
+citing increasing fuel costs as a reason and the aircraft operators are not the
+for lower than expected financial results. only stakeholders in the fuel consumption
+It is also common to see airlines showing and emissions reduction process. Risks
+their “green credentials”, either through to growth and development are not just
+demonstrations of green technologies limited to ever increasing fuel prices.
+or by quoting the emission reductions The ability and willingness of infrastructure
+they have achieved by optimising their providers, such as airports and air
+operations. navigation service providers, to evolve
+Airbus has, is and will continue to support and government to support (for example
+operators who wish to pursue fuel in the context of biofuel development
+and emissions efficiency objectives. or airspace sovereignty) are also key
+Firstly, by continuing to offer the most contributors.
+advanced aircraft, equipped with the most These risks can be reduced by continuing
+advanced engines and secondly, to raise overall awareness, such that all
+by providing support and services that stakeholders contribute to the change
+help ensure that those aircraft are used process and make their respective
+in the most efficient way possible. voices heard.
+6
+05
+tsaf
+airbus Fuel and Flight eFFiciency consulting services - WoRKING ToGETHER To SAVE oN AIRLINE CoSTS
+Airbus Fuel
+and Flight Efficiency
+Consulting Services
+Working together to save
+on airline costs
+Fuel prices fluctuate but its global trend is a the journey. Almost all now consider that fuel
+long term increase. Fuel and flight efficiency efficiency is a key objective and they are looking
+can be a significant source of savings for an how to reach permanent results. Airbus Fuel and
+aircraft operator. Some have developed strong Flight Consulting Services help airlines save fuel.
+competences. Some others are just beginning In this article, we explain how.
+Serge GOLOFIER Vincent SWIDERSKI
+Flight operations Flight operations
+Consulting Services Director Marketing Manager
+Airbus S.A.S. Airbus S.A.S.
+7
+airbus Fuel and Flight eFFiciency consulting services - WoRKING ToGETHER To SAVE oN AIRLINE CoSTS
+05
+tsaf
+Choosing the right • By reaching exit B, the pilot
+extends the landing distance
+initiatives
+leading to:
+- A longer taxi distance
+to the terminal – leading
+Every operational fuel initiative
+to a supplement of fuel burnt.
+requires a proper trade-off. Let’s
+- The occupation of the runaway
+consider the simplified example
+for a longer time – eventually
+given in figure 1. After landing,
+leading to a congestion
+this aircraft will be given the
+of aircraft waiting on the
+choice by the control tower to
+n o t e s taxiway.
+take exit A or exit B. Which one
+- Once again, maybe all
+Airbus Consulting will lead to the lowest cost for the
+of the above!
+Services operator?
+Consulting Services is part In fact, there is no good answer.
+The exit A seems the best answer
+of a comprehensive portfolio It can either be exit A or exit
+of services, covering the airlines’ because it has a shorter taxi
+B, depending on the airport
+major activities (maintenance distance to the airport. But the
+infrastructure, the operational
+and engineering, flight operations, choice is not so easy!
+conditions, etc. Only a trade-off
+material and logistics and training) • Indeed, to reach exit A,
+study considering the relevant
+and ranging up to ‘capability the pilot must decrease the
+assistance’. parameters will find the good
+landing distance:
+answer for each particular case.
+- Either by using more thrust
+For more information about Airbus
+reversers - this meaning
+Consulting Services, contact:
+customerservices.consulting an increase of the engine Multi-disciplinary
+@airbus.com thrust and therefore, increases
+activities
+the fuel consumption.
+- Or by using more the brakes -
+this leading to premature brake
+On top of this, a fuel savings’
+and tyre wear and therefore,
+programme faces organisational
+Which is the best exit? increases maintenance costs.
+challenges. Indeed, fuel initiatives
+- Maybe both!
+usually concern multiple depart-
+Figure 1
+ments such as flight preparations,
+flight operations, ground opera-
+tions, maintenance, engineering,
+etc. A project leader needs to
+develop an appropriate organisa-
+tion and communicate the proper
+Exit B
+arguments to convince all of the
+involved stakeholders.
+Exit A
+AIRPORT
+FEMIS
+FEMIS (Flight Efficiency Management FEMIS automatically processes FEMIS was developed in collaboration
+and Information System) is the aircraft’s actual flight data from with Teledyne for both Airbus
+a ground-based software designed digital recorders and compares and non-Airbus aircraft. Its license
+for the monitoring it with the flight plans. on the one can be purchased either on an annual
+of fuel and flight hand, users explore this data basis, or on a temporarily basis
+efficiency. and identify potential savings. through the “spot-check” service.
+on the other hand, it provides FEMIS can also be deployed as
+a global overview of savings’ part of Airbus Consulting Services’
+initiatives, thanks to relevant reports missions. For more information,
+and indicators. please contact:
+marketingcontact.FEMIS@airbus.com
+8
+9
+05
+tsaf
+airbus Fuel and Flight eFFiciency consulting services - WoRKING ToGETHER To SAVE oN AIRLINE CoSTS
+q
+To confront this challenge, the for an airline but fuel initiatives
+q u o t e
+project leader should: can be internally perceived as
+• Have an empowered multi- contradictory. As an example,
+From Air Arabia:
+functional team representing loading too much fuel reserves
+A successful consulting
+all stakeholders, increases the aircraft weight, and
+mission
+• Implement a monitoring therefore its fuel consumption.
+programme, ensuring the However, loading less fuel reserves “Airbus performed
+a Fuel & Flight
+follow-up of the most important can make a pilot uncomfortable
+Efficiency project
+indicators. because of a potential flight
+focused on a
+diversion. An initiative must
+diagnosis with
+Last but not least, safety must be a consider safety from the beginning
+Air Arabia,
+key competence. This sounds basic to be successful. covering a fleet
+of thirty A320.
+Since Air Arabia was already
+The fuel manager's dilemma experienced with its own fuel
+conservation programme,
+the objective given by Air Arabia
+was for the Airbus Consulting team
+to validate and quantify
+their current initiatives.
+The Airbus Consulting team also
+identified areas of improvements
+and defined potential savings
+achievable.
+The immediate implementation
+of new initiatives is already bringing
+benefits for the airline.”
+Mr. Ismail Mohamed
+Director of Engineering
+Air Arabia
+CONTACT DETAILS
+Serge GOLOFIER Vincent SWIDERSKI
+Flight operations Flight operations
+Consulting Services Director Marketing Manager
+Airbus S.A.S. Airbus S.A.S.
+Tel: +33 (0)5 67 19 15 41 Tel: +33 (0)5 67 19 04 45
+serge.golofier@airbus.com vincent.swiderski@airbus.com
+Conclusion
+The objective of Airbus Fuel and Flight just need a validation of their current
+Efficiency Consulting Services is not only initiatives, the identification
+to help the airlines save on fuel, but of new opportunities and the benchmark
+to bring a real optimisation information. Airbus Fuel and Flight
+in flight preparations, flight operations, Efficiency Consulting Services investigate
+maintenance and engineering, while airlines’ operations through different
+saving on costs at the same time actions including data processing with
+by studying each case individually. Airbus FEMIS software, procedure
+Some airlines need full guidance for analysis, face-to-face meetings, etc.
+the identification of potential savings At the end of the mission, these various
+and the implementation of fuel initiatives. actions result in a tailored answer to
+Others, which are more advanced match the identified airlines’ needs for fuel
+in the fuel efficiency management process, efficient operations.
+9
+the 4d-trajectory management - FLIGHT EFFICIENT TRAFFIC SEQUENCING BASED oN AIRCRAFT PREDICTIoNS
+05
+tsaf
+The 4D-trajectory
+management
+Flight efficient traffic sequencing
+based on aircraft predictions
+On 10th February 2012, an A320 test aircraft such as Eurocontrol MUAC (Maastricht Upper
+flew from Toulouse (France) to Copenhagen Area Control) centre, NORACON (NORth
+(Denmark) and Stockholm (Sweden), testing the European and Austrian CONsortium) and Airbus.
+initial step of a highly innovative Air Traffic This “initial 4D-trajectory management” concept
+Management (ATM) concept - the 4D-trajectory improves the Air Traffic Management (ATM) by
+management. using ‘time’ with early traffic sequencing based
+This flight which was a world premiere was the on the aircraft’s waypoint passage predictions,
+culmination of months of collaboration between thus enabling to fly optimal flight profiles. It is
+several partners within the SESAR (Single planned to be deployed from 2017, paving the
+European Sky ATM Research) programme way to the “full 4D-trajectory management”
+including avionics and ground equipment concept, covering all flight phases, which should
+manufacturers, Air Navigation Service Providers enter-into-service beyond 2020.
+Olivier DE-LA-BURGADE Pierre NERI Sylvain RAYNAUD
+Senior Manager SESAR FMS Designer SESAR & ATM FMS
+ATM Engineering Airbus operations Airbus operations
+Airbus operations
+10
+05
+tsaf
+the 4d-trajectory management - FLIGHT EFFICIENT TRAFFIC SEQUENCING BASED oN AIRCRAFT PREDICTIoNS
+What is a longitude and the vertical), plus
+the time. It means that the Time Of
+4D-trajectory?
+Arrival (TOA) at each waypoint
+along the trajectory is estimated
+The full 4D-trajectory management with an improved accuracy and
+is one of the key pillars of the reliability. These predictions are
+European ATM target concept for not aiming at constraining the
+2020+ that has been defined by the aircraft along all the waypoints
+SESAR programme, in order to cope during the flight (with an exception
+with the worldwide traffic growth of very few waypoints when it is
+and the continuous increasing required for traffic constraints),
+environmental constraints. they are only used to get a more
+In this concept, the aircraft accurate picture of the traffic flow
+trajectory is built before the flight, evolution far in advance, and then
+collaboratively between the aircraft to adjust it efficiently with the
+operator and the Air Navigation offered airspace capacity.
+Services Providers (ANSP),
+considering both the airline’s This concept is based on the use
+business criteria and the air traffic of 4D-trajectories from take-
+constraints in the concerned areas. off to landing (even for airport
+It can be updated during the flight surface operations in the ultimate
+using avionics systems, in order steps), and requires significant
+to integrate new constraints such improvements and upgrades in
+as meteorological constraints not ground Air Traffic Management
+known before flight. This trajectory systems and procedures, as well as
+is defined in four dimensions (4D) in the airlines operations’ control
+which are composed of the three centres.
+geometrical dimensions (latitude, Initial 4D-trajectory management
+Data-Link exchanges
+Figure 1
+EN-ROUTE
+ATC: Air Traffic Control centre
+3 ATCO: Air Traffic Controller
+1 2 5 6
+4 ETA: Expected Time of Arrival
+FMS: Flight Management System
+RTA at merge point
+RTA: Requested Time of Arrival
+TMA: Terminal Area
+TMA
+AIRPORT
+ATC
+Trajectory dialogue via Data-Link Trajectory execution
+1 3D route clearance: ATC sends the route to be followed by the aircraft down to the runway via Data-Link
+2 4D predicted trajectory: The aircraft downlinks the updated airborne trajectory predictions (3D + time) after inserting the route clearance in the FMS
+3 ETA min/max window request: ATC requests reliable ETA min/max window for merge point
+4 ETA min/max window: Aircraft downlinks the reliable ETA min/max
+5 RTA instruction: ATCO chooses a RTA in the ETA min/max window and uplinks this feasible RTA
+6 4D predicted trajectory: The aircraft downlinks the updated airborne trajectory predictions (3D + time) after insertion of the RTA in the FMS
+11
+the 4d-trajectory management - FLIGHT EFFICIENT TRAFFIC SEQUENCING BASED oN AIRCRAFT PREDICTIoNS
+05
+tsaf
+As this full step will take time on time, allowing a smooth
+to be deployed and to pave the integration of the aircraft into the
+way to this ambitious concept optimum arrival sequence.
+while getting early benefits,
+SESAR’s partners have defined an During the flight test performed
+intermediate step called the initial this year, the 4D-trajectory man-
+4D-trajectory (i-4D) management, agement concept has been tested
+less demanding in terms of through several i-4D descents,
+improvements for the short/mid- some starting in the Maastricht
+term. (Netherlands) airspace and end-
+i n f o r m a t i o n
+ing in the TMA of Copenhagen
+What is SESAR? The i-4D management consists (Denmark), and others starting in
+in ground systems using time the Malmö (Sweden) airspace and
+The Single European Sky ATM estimates computed by the aircraft, ending in the TMA of Stockholm
+Research programme to establish far in advance an (Sweden).
+is the operational and technological optimal arrival sequence of all the All these i-4D descents were suc-
+answer to the major challenges
+aircraft in the traffic converging cessful and permitted to validate
+of European air traffic growth.
+to a merging point in a congested the concept in several different
+The aim of this programme
+area. This merging point can be, operational conditions.
+is to ensure the modernisation
+for instance, the entry point of a Once proven and industrialized,
+of the European Air Traffic
+Management system by dense TMA (Terminal Area - initial i-4D will allow the aircraft to
+coordinating and concentrating approach fix), as it was experienced plan and fly an optimized and
+all relevant research and during the flight test performed efficient profile, without any need
+development efforts in the European earlier this year from Toulouse for the controllers to provide any
+Union. Partnerships, sustainability (France) to the north of Europe. vectoring instruction. This will
+and user-drive are key concepts
+In this type of operation, each offer better predictability of the
+of the SESAR approach. Founded
+aircraft converging to the merging traffic flow, facilitate fuel-efficient
+by the European Commission and
+point agrees a 2D route with the descent operations while reducing
+by Eurocontrol, 15 companies
+Air Traffic Control (ATC) centre emissions, and will contribute to
+are members of the SESAR Joint
+Undertaking programme: AENA, before the Top Of Descent (TOD). decreasing traffic conflicts upon
+Airbus, Alenia Aeronautica, DFS, Then, each aircraft transmits a arrivals into airports. Thus, aircraft
+DSNA, ENAV, Frequentis, Honeywell, time window in which it could flying in a holding pattern will be
+Indra, NATMIG, NATS (En Route) reach the merging point while still notably reduced.
+Limited, NoRACoN, SEAC, SELEX keeping an optimal descent profile.
+Sistemi Integrati and Thales.
+All these air-ground exchanges are The impact
+made by Data-Link.
+on avionics
+In the next step, considering all the
+traffic converging to the merging
+point, the ATC centre managing On the airborne side, the i-4D
+the TMA selects a target time capability will be available on most
+within the time window sent by Airbus aircraft through software
+the aircraft, at which the aircraft upgrades. It mainly concerns two
+should reach its target waypoint to airborne systems:
+optimize the traffic flow. This target • The Flight Management System
+time is sent through the Data-Link (FMS), in order to improve
+system from this ATC centre to the management of the time
+the aircraft (via the en-route ATC constraints,
+centre managing the flight before • The Data-Link communication
+the TOD). The target time received system (Air Traffic Services
+by the aircraft is then loaded and Unit - ATSU on the A320),
+activated in the Flight Management in order to be able to exchange
+System (FMS), so that the aircraft new Controller-Pilot
+manages automatically the flight Data-Link Communication
+Air Traffic Controllers on the job
+to meet the merging point (figure (CPDLC) messages and
+2). This ensures that the aircraft send 4D predictions through
+flies its optimal flight profile up ADS-C (Automatic Dependent
+to the merging point and reaches it Surveillance – on Contract).
+12
+05
+tsaf
+the 4d-trajectory management - FLIGHT EFFICIENT TRAFFIC SEQUENCING BASED oN AIRCRAFT PREDICTIoNS
+Target time received by the aircraft
+The required upgrade for the then loaded and activated in the FMS
+i-4D Data-Link capability will be
+particularly light for all aircraft Figure 2
+flying in Europe which have to
+be FANS-ATN (Future Air
+Navigation System - Aeronautical
+Telecommunications Network)
+Data-Link equipped in the coming
+years to comply with the Link
+2000+ mandate (read FAST 48
+magazine - FANS for A320 and
+A330/A340 families).
+I-4D trials
+in the framework
+of SESAR
+Several actors of the Air Traffic
+Management sector joined the
+efforts in the frame of SESAR,
+to support the full validation
+of this innovative concept:
+• As ground systems’
+manufacturers: Indra and Thales
+Air Systems,
+• As avionics manufacturers
+(for the FMS prototypes):
+Honeywell and Thales Avionics,
+• As Air Navigation Service
+Providers: Eurocontrol MUAC
+and NORACON Air Traffic
+Control centres,
+• And Airbus, as aircraft
+manufacturer and avionics
+integrator, but also as an
+avionics’ manufacturer (for
+the airborne Data-Link system
+prototype).
+The flight test which took place
+at the beginning of 2012
+is one of the main achievements
+of this partnership, testing
+in real conditions the ground
+and airborne system prototypes
+developed by the industrial
+partners. However, this flight test
+is only one part of a complete
+validation campaign, aiming
+at validating both technical and
+operational aspects. Within this
+campaign, several other trials,
+not only using flight test aircraft
+but also simulators, are planned
+over the next two years.
+13
+title title - SUB-TITLE SUB-TITLE SUB-TITLE
+05
+tsaf
+the 4d-trajectory management - FLIGHT EFFICIENT TRAFFIC SEQUENCING BASED oN AIRCRAFT PREDICTIoNS
+14
+05
+tsaf
+In this framework, the operational These simulations are mainly
+benefits of the i-4D operations focused on the usability
+will be assessed thanks to two of airborne and ATC systems,
+different types of exercises: human factors and operational
+• Mixed fleet simulations: Real procedures.
+time simulations where a full • Fast time simulations:
+fleet of aircraft is generated Simulations with no human
+with a predetermined percentage in the loop and which should
+of i-4D equipped aircraft and allow computing the operational
+controlled by live controllers benefits in terms of fuel burn,
+from the Air Traffic Control airspace capacity use and traffic
+(ATC) centres. It is even optimisation.
+possible to connect the Airbus
+integration simulators to the
+controller’s simulators to
+integrate real pilots in the loop.
+CONTACT DETAILS Pierre NERI
+SESAR FMS Designer
+Olivier DE-LA-BURGADE Airbus operations
+Senior Manager Tel: +33 (0)5 61 18 89 79
+ATM Engineering pierre.neri@airbus.com
+Airbus operations
+Tel: +33 (0)5 67 19 20 46 Sylvain RAYNAUD
+olivier.de-la-burgade@airbus.com SESAR & ATM FMS
+Airbus operations
+Conclusion Tel: +33 (0)5 61 18 58 50
+sylvain.raynaud@airbus.com
+Thanks to the expertise of several partners an intermediate concept called the initial
+working in complementary fields, the 4D-trajectory management has been
+4D-trajectory management concept has defined. This short to mid-term concept
+started to become a reality, reconciling has been tested successfully. The main
+medium to high traffic density with flight challenge is now to prepare and ensure
+efficiency, through better predictability a synchronized deployment, both on
+of aircraft trajectories. The concept aircraft and in Air Traffic Control centres,
+which is supported by the SESAR (Single in order to get the associated benefits
+European Sky ATM Research) programme as early as possible.
+is also being considered in other regions The deployment cost for airlines should be
+of the world with dense traffic, in particular limited as for most Airbus aircraft, the
+in the United States through the NextGen ‘full and initial 4D-trajectory’ capabilities
+(Next Generation) programme. As the will require only software upgrades.
+full step will take time to be deployed,
+14
+05
+tsaf
+airbus technical aog centre - 24 HoURS IN AIRTAC
+Airbus Technical
+AOG Centre
+24 Hours in AIRTAC
+Dedicated teams of highly qualified structures a new service called AiRTHM (Airbus Real Time
+and systems’ support engineers are staffing Health Monitoring). The objective of this new
+AIRTAC, around the clock and the whole year activity - actually in service and will be proposed
+round. These experienced aeronautical engineers, as an extension of the Flight Hour Services (FHS)
+mostly coming from different areas in Airbus offer - is to health monitor the Airbus A380 fleet
+or from an airline maintenance environment, in real time and thanks to its modern technology,
+know perfectly well how an Aircraft-On-Ground to anticipate, solve AOG issues, or reduce work
+(AOG) hurts the airline’s operation, thus creating stoppage situations.
+the motivation to deal with the airlines’ queries to In this article, we invite you to share 24 hours in
+get them solved as quickly as possible. In addition AIRTAC’s very closed and confined environment,
+to its support activities, AIRTAC has expanded but open to the world, while we assist Airbus
+its scope of activities and is now proposing customers by providing state-of-the-art support.
+Ronie GNECCO Damien CUSSAC
+AIRTAC Structures Engineer AIRTAC Systems Engineer
+Airbus Engineering Airbus Engineering
+15
+05
+tsaf
+airbus technical aog centre - 24 HoURS IN AIRTAC
+History of AIRTAC Entry-Into-Service (EIS) of the
+A340-500/600, the A318 and the
+A380. And of course, AIRTAC is
+The idea to move from the old
+starting to look ahead to be ready
+AIRTAC is a 365-day, 24-hour on-call out-of-hours support to a
+centre where specialist engineers full 24/7 dedicated support centre for the EIS of the A350.
+are always available to help Airbus
+had existed for a long time, but it
+customers’ aircraft get back The first year, AIRTAC had
+really started to take shape in the
+in operation. answered a bit less than 4,000
+early 2000’s with the Airbus fleet
+To carry out these technological queries from Airbus customers, of
+growth. This, combined with the
+enhancements, a challenging
+which around 75% of the issues
+Information System (IS) programme market considering more and more
+were solved directly by AIRTAC.
+was set up to centralize and this type of support as state-of-the-
+Each following years, more than
+better control real-time business art, led to the opening of the Airbus
+13,000 queries have been treated.
+information, with an integrated Technical AOG Centre, AIRTAC,
+control tower concept providing on 7th February 2003.
+all the critical information to Based on its ever growing
+manage each customer’s issues. experience, AIRTAC’s service has
+Airbus inaugurated today’s set up
+been recognized and appreciated
+of AIRTAC’s modern facilities in
+by Airbus customers, and their
+Blagnac (France), in December
+inputs are carefully studied in
+2005. The new facilities are fitted
+order to ensure that the service
+with the most innovative technol-
+provided stays in line with Airbus
+ogy and leading-edge solutions.
+customers’ expectations.
+These enhancements represent
+a multi-million Euro investment
+AIRTAC oBJECTIVE:
+that enables Airbus to provide
+n o t e s
+its worldwide customers with
+To provide structural repair and
+The term AoG should not be used improved technical support, and
+engineering advice to address tech-
+if the aircraft is on a maintenance an even wider range of engineering
+nical AOGs and work stoppages.
+planning. The term AoG is used for services.
+aircraft in operation and is meant
+to keep the aircraft in service with AIRTAC oRGANISATIoN:
+The aim of AIRTAC’s team is
+a temporary repair and approval.
+to minimize on-the-ground time
+on the other hand, during the A complete staff of 44 people
+for aircraft for troubleshooting and
+aircraft maintenance, we can have composed of:
+repairs.
+a so called “work stoppage”,
+• Eight teams available 24/7
+in which case the maintenance
+- each team being composed
+facility is awaiting Airbus’ technical In 2007, the staff was increased
+of two structures, two systems’
+repair approval. to keep up the pace with the
+engineers and one AiRTHM growing workload. AIRTAC
+engineer,
+has been involved as of the
+16
+05
+tsaf
+title title - SUB-TITLE SUB-TITLE SUB-TITLE
+AIRTAC FEBRUARy 2003
+17
+05
+tsaf
+airbus technical aog centre - 24 HoURS IN AIRTAC
+• Three Maintenance Innovation
+i n f o r m a t i o n
+Team (MIT) engineers on
+standard hours,
+All messages delivered to AIRTAC’s to be blocked. Therefore, try
+• The head of the AIRTAC mailbox are limited to five to resize or divide the messages
+department who manages mega-bytes, causing some and contact AIRTAC’s front desk
+the teams. technical messages including in order to check that your message
+damage reports and/or pictures was correctly received.
+AIRTAC MISSIoN:
+AIRTAC structures, systems and
+AiRTHM engineers all ensure that
+the customers’ Airbus aircraft are
+flying safely and with the best
+Operational Reliability (OR).
+AIRTAC engineers meet all the
+customers’ demands and ensure
+a proactive support in any high-
+stress situation, around the world
+and around the clock.
+AIRTAC is Airbus’ front line with
+the customers and is the entry
+point for any AOG, but also for
+accidents and major incidents.
+AIRTAC
+development
+24 hours AIRTAC ToDAy
+in AIRTAC
+“Ladies and Gentlemen. Welcome
+on-board the Airbus Technical
+AOG Centre. We wish you a
+pleasant reading while following
+some issues dealt in AIRTAC
+during 24 hours. Please remain
+seated at all times and remember
+that only AOG and work stoppage
+situations are permitted during
+your reading.”
+17
+24 hours with airtac
+0 H 6 h 12 H 18 H 24 H
+05
+tsaf
+erutcurtS
+smetsyS
+emiT
+laeR
+subriA
+gnirotinoM
+htlaeH
+A320 AOG
+Aircraft found with a previous permanent repair disbonded from the
+RH INBD Flap Leading Edge between Rib 4 and Rib 5. The customer
+doesn’t have the manpower to perform a permanent repair.
+Airline question:
+Airline proposes to apply high speed tape on the disbonded area
+to cover the rear closure of the T/E for 1,000FC, and to perform
+a DVI at the affected locations every 100FC.
+AIRTAC answer:
+AIRTAC informs the customer that the repair proposal is not acceptable
+Response Time: 3 h due to the extent of damage and provides the repair instructions
+to be performed as per the SRM.
+RT: 1 h
+A330 work stoppage
+Response Time: 5 h A part needs to be replaced on a manifold.
+Airline question:
+Airline needs to have confirmation that the valve P/N D31AB4453
+is included within the manifold P/N D31AB4415.
+AIRTAC answer:
+AIRTAC advises that as per CMM 32-31-31 of the manifold,
+the valve gear selector P/N D31AB4453 is a sub-assembly part
+of the manifold P/N D31AB4415.
+A380 In-Flight
+“BRAKES RELEASED” warning fault was triggered associated
+with “MoNIToRING UNIT-WLG, RH WHEEL 4(58GG2)”.
+Fault confirmed thanks to an uplink made from the AiRTHM front desk.
+RT: 1 h AIRTAC action:
+AiRTHM team advises the airline to pass the TSM task “Tachometer
+continuity fault on the RH WLG" associated to this fault code.
+AFT: Aft - AOG: Aircraft-On-Ground - CMM: Component Maintenance Manual - DVI: Detail Visual Inspection - ESPM: Electrical Standard Practices Manual
+FC: Flight Cycles - F/CTL: Flight Control - Fig: Figure - FR: Frame - INBD: Inboard - NVM: Non-Volatile Memory - MCE: Motor Control Electronic
+MEL: Minimum Equipment List - P/N: Part Number - O/B: Out Board - RAS: Repair design Approval Sheet - RH: Right Hand - RT: Response Time
+SFCC: Slat Flap Control Computer - SIL: Service Information Letter - SRM: Structure Repair Manual - T/E: Trailing Edge - TSM: Trouble-Shooting Manual
+WLG: Wing Landing Gear
+18
+24 hours with airtac
+0 H 6 h 12 H 18 H 24 H
+erutcurtS
+smetsyS
+emiT
+laeR
+subriA
+gnirotinoM
+htlaeH
+05
+tsaf
+A380 work stoppage A330 work stoppage
+During cargo loading, damage was located on the AFT Cargo Door frame web at FR81. During the aircraft painting, the RH wing is damaged by the lift technician
+creating an impact on the o/B T/E.
+Airline question:
+Airline question:
+Airline requests approval to dispatch the aircraft with the damage as is for 100FC.
+According to the SRM 57-55-00 Fig 108, the damage falls under zone
+AIRTAC answer: 5 & 6 and Airbus is to be contacted for assistance.
+A temporary repair analysis is done by AIRTAC and the quality check
+AIRTAC answer:
+of the damage report is performed. Airbus Design Office is contacted in order
+AIRTAC advises the customer that due to the extent of damage,
+to have repair/approval comments. The customer is allowed to operate
+the flap needs to be sent to an approved Repair Station and Airbus
+the aircraft with this damage “as is» for the next 100FC, performing a DVI
+AOG Spares needs to be contacted in order to provide the part availability,
+on the affected framework area to ensure a crack free condition.
+lead time and price.
+Airline comments:
+“Thank you very much
+for this efficient recovery.
+It has been a great
+relieve for our customer
+management to receive a
+RT: 2 h
+RAS for 100FC. Our flight
+will be slightly delayed,
+but it will be operated by
+our same A380, and no
+passenger will be left on
+ground". Response Time: 4 h
+A340 work stoppage
+Feeder cable P/N 2456-5325 needs to be replaced with a hydraulic
+crimp tool and a crimp head.
+Airline question:
+Airline requests if there are any alternative tools for a cable
+replacement. A310 work stoppage
+Passenger oxygen generators P/N 117042-02
+AIRTAC answer:
+and 117019-02 are about to expire and customer’s stock
+Referring to the ESPM 20-48-12, AIRTAC advises the operator that
+balance is only sufficient for the replacement
+no alternative tool has been identified and suggests contacting Airbus
+RT: 2 h of the effected generators with P/N 117016-03.
+AOG Spares to check the availability of the tool needed.
+Airline question:
+AIRTAC is contacted to provide comments/acceptance
+to use P/N 117016-03 instead of P/N 117042-02
+and P/N 117019-02.
+AIRTAC answer:
+AIRTAC advises the customer that in accordance with
+SIL 35-007, the P/N 117028-02 can be replaced
+by P/N 117019-02 or P/N 117042-02.
+A380 one hour after take-off
+“F/CTL SLAT SyS 1” fault triggered combined with “Electric Drive Fault, Slats”.
+This item is No Go, a deviation of the MEL is not possible and no Electric Motor spare is available in outstation
+Fault confirmed thanks to an uplink made from the AiRTHM front desk.
+AIRTAC action:
+AiRTHM front desk confirms the fault and advises the airline to reset both NVM (SFCC1 & SFCC2) and perform
+several times an operational test of the slat and droop nose system.
+RT: 1 h
+The airline afterwards sends an electric drive motor from main base to outstation and installs it in the aircraft.
+The aircraft is serviceable and is operated with no delay.
+AFT: Aft - AOG: Aircraft-On-Ground - CMM: Component Maintenance Manual - DVI: Detail Visual Inspection - ESPM: Electrical Standard Practices Manual These are only a few examples of situations that AIRTAC need to deal with on a daily bases. Of course, some days are busier than others and we kindly
+FC: Flight Cycles - F/CTL: Flight Control - Fig: Figure - FR: Frame - INBD: Inboard - NVM: Non-Volatile Memory - MCE: Motor Control Electronic remind our customers that AIRTAC must only be contacted for AOGs and work stoppage situations. Airbus Field Representatives and your Customer Support
+MEL: Minimum Equipment List - P/N: Part Number - O/B: Out Board - RAS: Repair design Approval Sheet - RH: Right Hand - RT: Response Time Directors remain your initial focal point.
+SFCC: Slat Flap Control Computer - SIL: Service Information Letter - SRM: Structure Repair Manual - T/E: Trailing Edge - TSM: Trouble-Shooting Manual AIRTAC, the Airbus AOG centre runs around the world, around the clock and the whole year round.
+WLG: Wing Landing Gear
+19
+airbus technical aog centre - 24 HoURS IN AIRTAC
+New Airbus Real Even if all the maintenance tasks
+cannot be scheduled in advance,
+Time Health
+Airbus’ objective is to help its
+Monitoring customers to provide solutions in
+order to anticipate system failures
+(AiRTHM) service
+and associated troubleshooting, as
+much as possible.
+Being able to reduce at the Some solutions are already
+maximum aircraft ground-time has available but the objective of the
+always been a target for the opera- newly created AiRTHM service is
+tors and aircraft manufacturers. to go further.
+Therefore, maintenance planning With the introduction of the
+is a key element in everyday new generation aircraft, the
+aircraft operations. maintenance systems (Centralized
+Maintenance System, Aircraft
+Condition Monitoring System,
+etc.) enable to get access to a
+large number of parameters, both
+in-flight and on-ground. Moreover,
+by using ACARS (Aircraft
+Communication Addressing and
+Reporting System), Airbus is now
+able to collect those parameters
+and analyze the system data from a
+remote location.
+Thanks to this technological evo-
+lution, AiRTHM is available to
+provide a new and innovative
+‘real time health monitoring’ for
+A380 aircraft. It is based on new
+processes developed by the Airbus
+AIRTAC-MIT (Maintenance
+Innovation Team) with the objec-
+tive to improve the A380 custom-
+ers’ Operational Reliability and
+maintenance scheduling, whilst
+reducing the associated costs.
+Initially launched in Airbus’ Flight
+Test department, a prototype
+has been setup and further
+developed within AIRTAC-MCC
+(Maintenance Control Centre).
+Its objective is to:
+• Provide real time
+troubleshooting assistance
+and guidance for the customers
+to anticipate spares’ provisioning
+and corrective actions,
+in cooperation with Airbus’
+worldwide field representation
+stations,
+• Monitor systems prior the
+aircraft’s departure to anticipate
+a return to the gate,
+• Perform system health
+monitoring in order to anticipate
+eventual failure detections.
+05
+tsaf
+Screenshots of real time health monitoring
+Blurred on purpose
+RDAS: Repair Design Approval Sheet
+DVI: Detailed Visual Inspection - EPSU: Emergency Power Supply Unit
+ESPM: Electrical Standard Practices Manual - HFEC: High Frequency Eddy Current
+SSA: Side Slip Angle - TD: Technical Disposition - T/E: Trailing Edge
+TRU: Transformer Rectifier Unit
+20
+21
+05
+tsaf
+airbus technical aog centre - 24 HoURS IN AIRTAC
+The AIRTAC-MCC action plan is This allows her/him to:
+based on four steps: • View the sequence and details
+1] Identify the fault message of the aircraft data,
+which can cause a potential • Choose parameters and request
+delay (alerting function), their values to the aircraft
+2] Uplink to the aircraft to collect in return,
+further data, • Analyze the collected data
+3] Analyze the results, versus previous similar cases.
+4] Advise the customer.
+Based on the gathered information,
+An alerting system is deployed on the AIRTAC-MCC engineer is
+the AIRTAC’s screen wall. able to quickly provide a tuned
+Amongst the hundreds of aircraft technical advice. This enables
+messages and based on the list the operator to ease its aircraft
+of operational data transmitted dispatch.
+which has been mutually agreed
+with the customer, the messages The AiRTHM service solution
+potentially leading to a delay or an is currently available and is used
+Operational Interruption (OI) are to ease each A380 Entry-Into-
+filtered and displayed for further Service (EIS). This service will
+investigation. then be extended to the Flight Hour
+Services (FHS) customers. The
+For the analysis, each system next step will also be to prepare
+engineer has access to a set of tools the A350’s EIS and contribute to
+and engineering expertise. an even higher level of smooth
+operations.
+CONTACT DETAILS
+Ronie GNECCO Damien CUSSAC
+AIRTAC Structures Engineer AIRTAC Systems Engineer
+Airbus Engineering Airbus Engineering
+Tel: +33 (0)5 61 93 39 01 Tel: +33 (0)5 67 19 60 96
+ronie.gnecco@airbus.com damien.cussac@airbus.com
+Conclusion
+AIRTAC (AIRbus Technical AOG Centre), Operational Reliability and maintenance
+with its qualified structures and systems’ scheduling, whilst reducing
+support engineers is a state-of-the-art the associated costs.
+support service available 24/7 handling The involvement of the Airbus’ Field
+both, AOG or work stoppage situations Representatives and the Customer
+for Airbus aircraft. Support Directors remain
+AIRTAC has set its mission to provide the customers’ focal point, providing
+an answer to the customers’ queries they can immediately support and assist
+within a four hours time frame for the the customers to dispatch the routine
+AOG situations and 12 hours for work technical queries to the relevant Airbus
+stoppages, that is a challenge by itself Customer Support or Engineering
+considering the continuous growth department.
+of Airbus’ fleet. AIRTAC is participating to develop
+The newly created AiRTHM (Airbus Real the future of aviation with pro-active
+Time Health Monitoring) service has been maintenance and a personalized
+set up to provide, as its name clearly customer support.
+stands for, ‘real time health monitoring’ For AIRTAC’s team, ‘Today is Already
+for Airbus aircraft. This innovative service Tomorrow’ to cover your ‘Turn Around
+helps Airbus’ customers improve their Time’.
+21
+cabin air quality: the key to a comFortable Flight - HoW To MAKE AN AIRCRAFT BREATHE
+05
+tsaf
+Cabin air quality:
+The key
+to a comfortable flight
+How to make an aircraft breathe
+On aircraft, cabin air quality contributes and what is Airbus doing to preserve good air
+significantly to the comfort and well being of quality in the aircraft cabin? Let’s take a journey
+passengers and crews alike. But what is actually into the technical depths of the rather abstract
+cabin air quality, what is the importance attributed term of “cabin air quality”.
+to cabin air quality in aircraft design and operation,
+Dr. Andreas BEZOLD
+Environmental Control Systems
+Air Quality
+Airbus operations
+22
+05
+tsaf
+cabin air quality: the key to a comFortable Flight - HoW To MAKE AN AIRCRAFT BREATHE
+Aircraft operating Air quality, temperature and
+d e f i n i t i o n
+pressure are important parameters
+environment
+which are directly controlled by
+Troposphere: The lowest region
+the environmental control system. of the atmosphere between the
+earth's surface and the tropopause,
+Civil aviation occupies a position
+Definition of cabin characterized by decreasing
+of particular importance among
+temperature with increasing
+modes of public transportation, due air quality and its altitude.
+to its environmental and operating
+relation to smell
+conditions. Commercial aircraft Tropopause
+operate primarily in the troposphere The boundary layer between
+and lower stratosphere, depending the troposphere and stratosphere.
+As indicated in figure 1, cabin
+on their geographic position. This It is defined as the lowest level
+air quality is defined by the at which the temperature lapse rate
+is an environment that is hostile to
+content of gaseous, particulate decreases by 2°C km-1 or less,
+life. The outside temperature can
+and biological contaminants in to reach an average of -56°C.
+drop to below -50C, the ambient
+the air. Besides this, other factors
+pressure can decrease to less than
+like temperature, humidity, or Stratosphere: The region of the
+200hPa (hectopascal), which is one atmosphere above the troposphere
+even aircraft movement can have
+fifth the ambient pressure on the and below the mesosphere.
+an influence on our perception
+surface of the earth and high ozone
+of air quality. Such influences
+concentrations may occur.
+and real air contamination issues
+The aircraft cabin becomes
+are difficult to disentangle, and
+increasingly part of our normal
+physiological perceptions cannot
+habitat and is therefore subject
+always be attributed to airborne
+to high expectations. Besides
+contaminations.
+the ergonomic design and the
+amenities, there are also other
+factors with an impact on passenger
+and crew well-being that we have
+The cabin environment
+to take into consideration.
+and its influencing factors
+Figure 1
+CCCaaabbbiiinnn
+eeennnvvviiirrrooonnnmmmeeennnttt
+CCCooonnntttaaammmiiinnnaaannnttt TTThhheeerrrmmmaaalll CCCaaabbbiiinnn NNNoooiiissseee &&& SSeeaatt
+cccooonnntttrrrooolll cccooommmfffooorrrttt ppprrreeessssssuuurrreee vvviiibbbrrraaatttiiiooonnnsss eerrggoonnoommiiccss
+Dust Temperature Cabin pressure Noise
+(Air, Sidewall)
+VViissuuaall // SSppaaccee
+Bacteria / Viruses / Rate of change Vibrations
+iimmpprreessssiioonn
+Fungi Humidity
+Turbulences
+CO2, CO Air Velocity
+IInn--FFlliigghhtt
+EEnntteerrttaaiinnmmeenntt
+VOCs, SVOCs
+Ozone FFoooodd //
+Influence on perception of air quality BBeevveerraaggeess
+Air Quality
+23
+cabin air quality: the key to a comFortable Flight - HoW To MAKE AN AIRCRAFT BREATHE
+Cooling - Expansion Cooling
+Cold ambient air:
+Ambient pressure
+Low temperature
+Hot bleed air:
+High pressure
+High temperature
+MHX
+Cold bleed air:
+PHX
+FCV Reh C Lo a w bi n te p m re p s e s r u a r tu e re
+Engines / APU / WE
+High pressure
+ground cart
+Fan CMP TRB Cond
+PCKV
+TCV
+Hot ambient air:
+Ambient pressure
+High temperature
+05
+tsaf
+Heat
+Absorption
+Cabin air quality 1] It supplies fresh air and,
+in connection with this,
+in the aircraft
+removes air pollutants from
+environmental the cabin replacing used air,
+2] It pressurizes the aircraft
+control design
+fuselage and,
+3] It controls the temperature
+in the cabin and cools technical
+The main and most powerful
+equipment.
+approach to removing contaminants
+on state-of-the-art aircraft is by
+During flight, pressurized outside
+air exchange. Outside air which
+air is taken from the compressor
+is usually very clean, particularly
+stage of the engines (bleed air)
+during flight, is conveyed into
+upstream the combustion chamber,
+the pressurized fuselage and
+where temperatures up to 400°C
+approximately the same amount
+can be reached, passed through
+is discarded overboard by the
+a pre-cooler unit and conveyed
+environmental control system. The
+to the “air conditioning pack” at
+entire cabin air is exchanged with
+a temperature of approximately
+outside air every three minutes. As
+200°C. Alternative bleed air
+a prerequisite to maintain excellent
+supply sources during ground, or
+air quality aboard aircraft, it is
+near ground operations, supplying
+necessary to assure cleanness
+the air conditioning pack with
+of the air delivered to the cabin.
+pressurized and consequently hot
+Consequently, it is important to
+bleed air, are the Auxiliary Power
+know where the air is coming from
+Units (APU) and High Pressure
+and which way it moves from the
+Ground Carts (HPGC).
+outside environment into the cabin.
+The air conditioning pack (figure 2)
+An aircraft environmental control
+Basic principle of an aircraft cools the air to the required
+system performs three main tasks:
+air conditioning pack temperature using outside air (ram
+air) as the cooling medium and air
+Figure 2
+cycle machines for compression
+and expansion cooling. This
+basic architecture is still the best
+proven technology for aircraft air
+conditioning systems with regards
+to efficiency, flexibility, reliability,
+installation space and maintenance
+costs.
+A mixer unit, installed below the
+cabin floor in front of the centre
+wing box, mixes outside air with
+cabin air. The cabin air is taken
+from the under-floor area and
+drawn through recirculation filters
+by recirculation fans (figure 3).
+The quantity of re-circulated cabin
+air mixed with the outside air varies
+from 40% to 60% and improves
+efficient removal of heat loads at a
+moderate temperature gradient, and
+increases the humidity by making
+use of the cabin air. The latter
+contains humidity contributed
+FCV: Flow Control Valve; PHX: Primary Heat Exchanger; MHX: Main Heat Exchanger;
+by the passengers whilst outside
+CMP: Compressor; TRB: Turbine; TCV: Temperature Control Valve; Cond: Condenser;
+WE: Water Extractor; Reh: Reheater; PCKV: Pressure ChecK Valve air, being very cold, is almost
+completely dry.
+24
+05
+tsaf
+cabin air quality: the key to a comFortable Flight - HoW To MAKE AN AIRCRAFT BREATHE
+After leaving the mixer unit, During cruise at high altitudes,
+the air is distributed to different in particular on polar routes, the
+cabin zones. For each cabin zone, outside air may contain significant
+a different temperature can be concentrations of ozone. To
+d e f i n i t i o n
+selected. Trim air valves regulate ensure a sufficiently low ozone
+the cabin outlet temperature by concentration in the cabin, long Olfactory: Relating to, or
+injecting small amounts of hot haul service aircraft and even most contributing to the sense of smell.
+bleed air from the pre-cooler outlet of the short haul service aircraft,
+Olfactory perception:
+(trim air). are equipped with catalytic ozone
+The sensation that results when
+converters (see figure 4 on the
+olfactory receptors in the nose
+following page). The ozone
+Air cleaning are stimulated by particular
+converters are installed in the airborne chemicals.
+technologies bleed air ducting upstream to the
+air conditioning pack to ensure
+sufficient temperature levels for
+Besides the air exchange with the catalytic process. Modern
+the outside air for efficient ozone converters, as introduced by
+contaminant removal, additional Airbus in 2004, combine the ozone
+technologies are necessary to conversion with the ability to
+avoid exposure to ozone from the partially deplete kerosene vapours
+operational environment and to which might occur during ground
+exclude distribution of biological operations to improve the olfactory
+pathogens in the cabin with the perception.
+re-circulated air.
+Aircraft air generation and distribution
+system (here for an A340-600)
+Figure 3
+Cabin Zones
+Crown
+Flight
+Deck
+E/E Bay Forward Cargo Wing Box Alt Cargo Section 18
+Compartment Compartment
+Out Flow Bilge Out Flow
+Hot Air Manifold
+Recirculation Recirculation
+Fan & Filter Mixer Unit Fan & Filter
+Air Air Unpressurised Area
+Conditioning Conditioning
+Pack 1 Pack 2
+Fresh & Recirc. Air
+Recirculation Flow
+HP Ground
+EEnnggiinnee Connection AAPPUU EEnnggiinnee
+Bleed Air Bleed Air Bleed Air
+25
+cabin air quality: the key to a comFortable Flight - HoW To MAKE AN AIRCRAFT BREATHE
+HEPA technology for entire fleet since 1994
+A300/A310 Family EU 9 HEPA H13
+A320 Family HEPA H13
+A330/A340 Family EU 9 HEPA H13
+H13 + Odour filtration
+A380 Odour filtration HEPA H13
+pioneered by Airbus
+and Pall in 1998
+1979 1988 1993 1994 1998 2008
+Optional activated carbon layer in recirc
+filter as gaseous filter, developed
+by Airbus and Pall for long range aircraft in 1998.
+Pall is one of the major filter suppliers for Airbus aircraft.
+HEPA: High Efficiency Particle Arrestor
+H13: HEPA classification (> 99.95% removal) according to European Norm EN1822
+EU9: Filter classification (> 95% removal) according to European Norm EN779 05
+tsaf
+Simplified scheme of Ozone Conversion (OZC)
+and combined Ozone/VOC Conversion (VOZC)
+Figure 4
+Flow Flow
+O2
+O3 O2
+OZC: ozone Converter
+O3 O2
+VOC: Volatile organic Compound
+VOZC: VoC/ozone Converter O2
+O2 catalytic
+CO2: Car
+O
+b
+O
+o
+2
+n
+3
+:
+:
+o
+d
+o
+x
+io
+y
+z
+x
+g
+o
+id
+n
+en
+e
+e
+CmHnOk O2
+CO2
+CO2
+surface
+cata
+O
+ly
+Z
+s
+C
+t
+H2O: Water
+CmHnOx: Simplified molecular H2O
+O3
+formular for organic compounds
+VOZC
+consisting of Carbon (C),
+catalytic catalyst
+Hydrogen (H)
+surface
+and oxygen (o) atoms
+Since 1988 on Airbus single
+Filtration technology installed on Airbus aircraft for re-circulated cabin air
+aisle aircraft and since 1994 for
+Figure 5 the entire fleet (see figure 5),
+Airbus installs HEPA (High
+Efficiency Particle Air) H13
+filters for the re-circulated air
+providing more than 99.95%
+filtration efficiency (for 0.3
+micrometer particles as most
+penetrating particle size).
+Bacteria and viruses are
+effectively removed by these
+filters and hence, cannot be
+distributed by the ventilation
+system.
+Sustainment of
+cabin air quality
+Within the aircraft, air supply
+system areas with high
+temperatures are most critical
+with regards to air quality
+because high temperatures lead
+to evaporation and possibly
+to the breakdown of organic
+substances, in case these
+find their way into the high
+temperature areas.
+26
+05
+tsaf
+cabin air quality: the key to a comFortable Flight - HoW To MAKE AN AIRCRAFT BREATHE
+Consequently, special care needs to These analytical capabilities were
+be taken to avoid any contamination also used to tackle problems that
+with materials susceptible to could occur during production
+evaporation or deterioration in this flights, which are conducted for
+area during design, manufacturing each aircraft prior to delivery
+and operation of the aircraft. by Airbus. Any contamination
+A top priority is clean air supply, introduced during manufacturing
+starting with the sources of will become apparent when the
+pressurized air for the aircraft aircraft air supply system is
+ventilation, engines, APUs and operated as a whole, and some
+air conditioning systems. Since parts of the bleed air system are
+the 1990’s, Airbus has defined subjected to the highest operational
+additional requirements for temperatures for the first time.
+bleed air cleanness on top of Recently a sophisticated meas-
+the requirements used for the urement system was planned and
+certification of engines and installed on several A330/A340
+APUs by the authorities. Airbus Family aircraft, consisting of a
+is promoting and supporting unique online mass spectrometer
+international research projects (Ionicon PTR TOF-MS 8000) and
+and working groups, to acquire a multifunctional sampling system
+independent external expertise and (Fraunhofer IBP) to elucidate the
+scientific knowledge by promoting origin of a particular smell that
+best standards for an ideal cabin occurred during production flights
+environment and its verification. only. The online mass spectrom-
+Airbus is also involved during eter used is a unique combination
+the validation of the verification of a Proton Transfer Reaction
+strategy with APU and engine (PTR) ionisation method with a
+manufacturers, while supporting Time Of Flight-Mass Spectrometer
+with its own measurements. (TOF-MS) as detailed in figure 6.
+Currently, a number of air quality
+measurements are conducted on
+the A380 flying test bed for the
+new A350XWB (Extra Wide
+Body) Trent engine. Simplified scheme of the proton transfer reaction and longitudinal
+section through the Ionicon PTR TOF-Mass Spectrometer
+Figure 6
+H2O: Water
+H+: Protonated Hydrogen.
+ID: Inner Diameter
+M: Molecule of interest
+NO: Nitrogen oxide
+02: oxygen
+PTR: Proton Transfer Reaction
+Sampling air inlet capillary (1mm ID) TOF-MS: Time of Flight-Mass Spectrometer
+M + H O.H+ M.H+ + H O
+2 2
+All molecules M with higher proton affinity
+than water will be charged by PTR
+and can be analyzed as M.H+
+27
+cabin air quality: the key to a comFortable Flight - HoW To MAKE AN AIRCRAFT BREATHE
+3
+Manual
+air in
+sample
+start
+flexible pipe start
+MFC
+TVOC P. T.
+CO CO2
+(PID) R H.
+MFC online sensors
+MFC measurement data
+MFC
+sampler box internal data logger
+pump instrument control internal software
+Interface
+for data
+transmision
+05
+tsaf
+Installation of the PTR TOF-MS 8000 mass spectrometer on an A330 aircraft. The instrument weight is 200kg
+and the dimensions are comparable to a middle-sized refrigerator.
+Figure 7
+1 2
+4
+Scheme of sampling trolley with sensors and sampling tubes connected to a vacuum system. The flow through the
+sampling tubes is controlled by mass flow controllers and initiated by pressing a push button located in the cockpit.
+Figure 8
+The automated and self sustaining
+sampling system developed by
+Fraunhofer Institute for Building
+Physics (Fraunhofer IBP) consists
+of two trolleys and can be installed
+in galley compartments (see
+figures 7, 8 and 9). The trolleys
+contain up to 36 sampling tubes
+tailored for different compound
+classes and several sensors (e.g.
+for carbon monoxide and carbon
+dioxide).
+MFC: Mass Flow Controller - TVOC: Total Volatile organic Compounds
+CO: Carbon monoxide - CO2: Carbon dioxide - P: Pressure
+T: Temperature - R H: Relative Humidity
+28
+05
+tsaf
+cabin air quality: the key to a convenient Flight - HoW To MAKE AN AIRCRAFT BREATHE
+With this analytical system, a
+Installation of dedicated sampling trolleys in the A330/A340 Family aircraft galley area.
+marker substance and finally the
+The sampling hose is rooted to the cockpit and positioned at the fourth occupant seat.
+root cause for the smell could
+be identified unambiguously, Figure 9
+based on the results of air
+quality measurements on the
+Trolley with
+aircraft during flight (figure 10).
+cartridges
+Knowing the precise root cause
+and having clear evidence at
+Trolley with
+hand, corrective actions could be pumps and
+implemented at the supplier which sensors
+is manufacturing the component
+responsible for the smell, and will Sampling hose
+be further followed-up.
+Concentration of a marker substance indicating a particular smell in comparison with concentrations of a usual VOC spectrum
+Figure 10
+1 Pronounced component
+significantly higher
+concentrated than VOC
+background
+2
+2 Smell event
+1
+CONTACT DETAILS
+Dr. Andreas BEZOLD
+Environmental Control Systems
+Air Quality
+Airbus operations
+Tel: +49 (0)40 7436 9174
+Fax: +49 (0)40 7437 3787
+andreas.bezold@airbus.com
+Conclusion
+Analytical methods will be further to the cabin during flight is very clean
+improved and new sophisticated analytical under normal operating conditions,
+tools are continuously scrutinized and since the technical and environmental
+to simplify measurements with the repercussions, as well as safety
+long-term objective to perform a complete implications of installing such system into
+analysis of the cabin air at the push of a highly optimized aircraft environment
+a button. Yet this objective of having may be severe, the introduction of such
+a Star Trek-like device is still out of reach technologies needs to be thoroughly
+for years, if not decades. However, justified. The impact on safety, crew
+it is a tempting idea to combine and passenger comfort, and on
+sophisticated measurement technologies side-effects on the environment, need
+with established databases of contaminant to be carefully weighed to evaluate
+patterns, in order to revolutionize whether an added value for our society
+troubleshooting and aircraft system can be created. Rational decisions
+monitoring. Airbus continuously reviews in design and operation of aircraft are key
+whether any air filtration or cleaning to safe air travel. Considering that civil
+technology could add any value to the aviation is still the safest mode of public
+passengers, crews and aircraft operations. transportation, this basic principle seems
+However, since the air provided to work well so far. Let’s take a fresh deep
+breath!
+29
+space-Flex - AN INNoVATIVE CABIN oPTIoN FoR THE A320 FAMILy
+05
+tsaf
+Space-Flex
+An innovative cabin option
+for the A320 Family
+Every airline is concerned in providing comfort making more efficient use of the volume at the
+and the best level of service to its passengers, rear of the cabin with a lavatory accessible to
+while generating more revenue seats. Persons with Reduced Mobility (PRM).
+Airbus has launched an innovative cabin option The PRM-friendly lavatory is facilitated via a
+for the A320 Family fleet, named Space-Flex. simple conversion process.
+This option, with first deliveries due in 2013, In this article, you will find some of its features
+frees space for more revenue-generating seats and you will already have an idea on how it will
+by reconfiguring the rear of the aircraft, and by benefit Airbus operators.
+Stefanie von LINSTOW
+Aircraft Interiors Marketing Manager
+Airbus operations
+30
+05
+tsaf
+space-Flex - AN INNoVATIVE CABIN oPTIoN FoR THE A320 FAMILy
+Increase your By making more efficient use of the
+volume at the rear of the cabin, two
+cabin comfort and i n f o r m a t i o n
+lavatories plus a galley can now
+increase revenue be efficiently accommodated in With an order from TAM Airlines,
+this space, providing the following Airbus has officially launched
+advantages: the Space-Flex PRM (Persons
+Market feedback from Airbus
+• Freeing-up space for, typically, with Reduced Mobility) lavatory
+customers on the Space-Flex as an option for A320 Family
+three to six more revenue-
+concept revealed in 2011 during operators.
+generating passenger seats
+cabin interior exhibitions has been TAM Airlines will become the first
+and/or an improvement in the
+very positive, not only due to Airbus customer to benefit from
+seat pitch throughout the cabin,
+the unique revenue and comfort Space-Flex, creating more comfort
+• Offering two lavatories, each for its passengers. TAM Airline's
+benefits, but also by optimizing the
+of comparable size to the newly equipped aircraft with
+cabin layout.
+existing A320’s (i.e.: Larger Space-Flex will be delivered
+than the competitors’ lavatories), as from the fourth quarter of 2013.
+Airbus has therefore decided to
+• Providing one of the lavatories
+launch Space-Flex as an option on
+with a full access for ‘Persons
+the A320 Family aircraft.
+with Reduced Mobility’
+(PRM) where a wheelchair can
+conveniently be manoeuvred,
+for the first time in a single-aisle
+aircraft.
+Current A320 rear configuration
+Current A320 rear configuration
+versus the Space-Flex option
+Space-Flex option
+Gain of three seats
+Use currently unused cabin space
+PRM lavatory
+Increased cabin comfort
+31
+title title - SUB-TITLE SUB-TITLE SUB-TITLE
+05
+tsaf
+space-Flex - AN INNoVATIVE CABIN oPTIoN FoR THE A320 FAMILy
+32
+05
+tsaf
+A320 high density layout - 180 passengers
+2299”” 3239”” 2299”” 2288”” High density layout with better comfort
+2299”” 3333”” 3303””
+With Space-Flex:
+PRM lavatory
+Identical forward cabin Improved comfort, no seats at 28” pitch
+The two different Space-Flex The ‘PRM-friendly’ lavatory is
+variants include a: facilitated via a simple conversion
+• Lavatory only configuration: process: Two single Space-Flex
+Space-Flex PRM lavatory Comprises a lateral and a centre lavatories (or the one lavatory
+conversion process
+lavatory separated by a rigid and urinal configuration) are
+wall which can be deployed convertible into one Space-Flex
+at your convenience, as well PRM enclosure in a similar manner
+as a corresponding Space-Flex to those delivered on the Airbus
+galley. wide-body aircraft. During the
+• Lavatory with a urinal concept development, Airbus
+configuration: conducted tests with European and
+With a lateral lavatory and North American experts, inviting
+a centre urinal, separated wheelchair users to make sure
+by a moveable rigid wall. that the lavatory was designed to
+The corresponding Space-Flex the reach the needs of the PRM
+galley option offers users. Thanks to this and after
+a higher capacity than the first having reviewed several criteria,
+variant, and the urinal can bring some un-adapted elements have
+advantages for a better hygiene been detected and immediately
+and the passengers’ satisfaction. improved. The resulting design is
+available today with Space-Flex.
+Basic and optional lavatory Airlines choosing the Space-Flex
+equipment remain the same as option will be in line with the U.S.
+on the existing A320 Family PRM lavatory recommendation,
+lavatories. and any PRM lavatory regulation
+Additional galleys with different that will be mandated in the future.
+capacities, on the right hand
+side before the aft door, can be The entry-into-service is foreseen
+selected. In this particular case, in autumn 2013.
+an airline would gain three
+additional revenue-generating The retrofit aspect of any innovation
+passenger seats. However, without has to be taken into consideration
+any galley installed before ‘Door to maximize the aircraft operators’
+4’, the seat gain could even be benefits. Space-Flex will also be
+of at least six additional seats. available for retrofit.
+The total seat count, of course,
+must always remain within the
+existing exit limit.
+32
+33
+05
+tsaf
+space-Flex - AN INNoVATIVE CABIN oPTIoN FoR THE A320 FAMILy
+Space-Flex improves
+the passengers' comfort
+A320 high density layout - 180 passengers
+2299”” 3239”” 2299”” 2288”” High density layout with better comfort
+2299”” 3333”” 3303””
+With Space-Flex:
+PRM lavatory
+Identical forward cabin Improved comfort, no seats at 28” pitch
+Operators will then be able to and Airbus Upgrade Services
+harmonize their A320 Family fleets is already working with several
+and get the maximum benefits of major customers who envisage the
+Space-Flex. Whether the customers retrofit of Space-Flex in their A320
+want to install additional revenue Family fleets.
+seats, add legroom by improving
+the seat pitch in their cabin, or The Service Bulletin (SB) and the
+simply comply with the PRM kits to embody the solution will be
+recommendations, Space-Flex is available two to three months after
+the answer. the Space-Flex introduction on the
+first production aircraft.
+Today, more than 3,700 A320
+Family aircraft could be retrofitted The Airbus Upgrade Key Account
+with this solution. The concept has Managers will be able to give you
+obtained a tremendous success with more information regarding the
+the majority of Airbus customers integration of Space-Flex in your
+during the different exhibitions, current in service fleet.
+CONTACT DETAILS
+Stefanie von LINSTOW
+Aircraft Interiors
+Marketing Manager
+Airbus operations
+Tel: +49 (0)40 7435 5146
+stefanie.von-linstow@airbus.com
+Conclusion
+Space-Flex is an innovative A320 Family This convenient concept, shown
+option maximizing the cabin revenue space, in several aircraft cabin interior exhibitions,
+and is equipped with lavatories accessible has already found the interest of many
+to Persons with Reduced Mobility (PRM). operators which either, desire to add more
+The entry-into-service will occur during revenue-generating passenger seats, wish
+the 4th quarter of 2013 and will be proposed to improve the seat pitch layout and want
+as a retrofit for the A320 Family aircraft. to offer the PRM-friendly lavatory for their
+passengers' satisfaction.
+33
+30
+100
+passenger comFort - IMPRoVING AIR QUALITy IN CABINS
+05 tsaf
+-“Hello everyone, Although they valued and you can read all
+this is your Captain the cozy cabins in the details in this FAST
+speaking. We welcome the past, they all would magazine at page 22.
+you on-board this appreciate that most
+Fw 200 Condor flight of the worldwide Take a fresh deep breath
+to New York City! passenger commercial and enjoy your flight
+We wish you a pleasant flights nowadays are on Airbus aircraft!
+flight and don’t non-smokers.
+hesitate to ask our
+attendant if you would Airbus has even taken
+like refreshments, a step forward
+newspapers, the latest in cabin air quality
+FAST magazine, or for the comfort of the
+an ashtray. operators’ passengers,
+- A
+a
+s
+n
+h t
+a
+r
+s
+a
+h
+y
+t
+?
+r a
+D
+y
+i
+?
+d
+! !!
+h
+”
+e say T
+F w e
+h
+e w a q
+e
+n s u g 2 i
+F
+i 0 a p
+o
+n 0 p
+c
+e G e
+k
+s C e d
+e
+o r
+-
+t n m w
+W
+h d a i
+u
+a o n t
+l
+t r h
+f
+a e i f n r o t c u e r r r a e f d t
+s a I c e s I t a a y r e T c t t f n r e a v p h T o h i w t o o r a n i a e h m fi e n a e n f y r d c r e m r s r - i e a F e s fi 1 s 2 n o N t w p r t r 9 c j t 7 g f e a e r c s 4 a u o 6 w s d 2 o i fl t 4 p s p 2 d 0 d a e a t a 5 e Y i 0 u l w a w b b i v o n c i i l l e r e r C t a i r t e e t c p l k t o i i n p h s w r a o w n o r l o s e a s p C o d n c J a a f e f s m i o r u n t n t e e t c r e a l e t h n n y a n f y o a B g t . b w d t t t n e e . i a e . 1 o a r r n s d 9 l o l s s 3 fl n i , . 7 y e n
+produced.
+34
+egatireH
+etaroproC
+SDAE
+fo
+ysetruoC
+Customer Services
+events
+Just happened Technical Data Support & Services symposium
+This symposium will be held in Istanbul
+A successful A330/A340 Family symposium (Turkey) from 20th to 22nd November 2012.
+This symposium took place in Bangkok It will be focused on technical data related
+(Thailand) last June. During the three days, to maintenance & repair, spares & suppliers,
+the symposium mainly focused on the fleet’s Service Bulletins (SB) and flight operations.
+performance optimisation with 34 Airbus The targeted population is all tech data users
+specialists who have provided presentations from engineering and maintenance departments
+on actual in-service issues affecting the A330/ from airlines, MROs and a panel of suppliers
+A340 Family fleet, as well as some subjects of which are also invited.
+more general interest. This event provides a comprehensive view on
+This year’s symposium gathered not the current status of Airbus Technical Data,
+less than 54 airlines, 20 vendors and six including planned improvements and future
+MROs (Maintenance Repair and Overhaul) developments for all Airbus aircraft families.
+organisations, representing a total of 174 For more information, please contact:
+participants. miguel.coto@airbus.com.
+A380 symposium in Dubai
+Coming soon
+More than 150 participants are expected to
+participate to the upcoming A380 symposium
+Airbus Lessors Conference which will be held in Dubai (United Arab
+This next conference will be held in Santa Emirates) from 3rd to 6th December 2012.
+Monica, California (U.S.A.) from the The symposium will focus on fleet-wide A380
+9th through 11th October 2012. subjects, operational reliability, maintenance
+The agenda will focus on many important and flight operations. The invitations have
+technical and future development subjects for been sent out in July to all the A380 customers.
+Airbus aircraft. If you haven’t received the
+invitations and agenda, please contact your Announcing the 11th Airbus Training
+Customer Support Director. symposium
+Two years after the previous successful
+Material Matters - Airbus Material, Logistics, symposium which gathered over 375 delegates
+Suppliers and Warranty symposium from more than 100 operators, Airbus Training
+The invitations have been sent out for this organizes the 11th Training symposium in
+symposium to be held in Bangkok (Thailand) Dubai (United Arab Emirates) from 10th to
+from the 22nd to 24th October 2012. Airbus 13th December 2012.
+will share with their worldwide customers If you haven't received the 'Save the Date'
+and major suppliers the latest developments notification sent out in July, please contact
+and initiatives taken on lifetime support and your Customer Support Director.
+first-class innovative services.
+For registration, please use the link provided in
+the invitation you have received.
+05
+tsaf
+35
+All the FAST magazines
+are available free-of-access on: WWW.AIRBUS.CoM/SUPPoRT/PUBLICATIoNS
+Have fun and test your knowledge
+by answering this small quiz!
+For AirbusWorld users, log-on to
+AirbusWorld/What's new/
+News, events and publications
+and answer the quiz online
+to try to win one of the
+50 Airbus giveaways!
+FAST magazine quiz
+10 questions - 1 possible answer
+The answers will be provided in the next FAST magazine edition.
+1) When was the first FAST magazine published? 6) Which system on Airbus aircraft provides protection
+(clue in FAST 1) against fuel tank fire and explosion? (clue in FAST 44)
+A. 1979 A. Fuel Tank Extinguishing System (FTES)
+B. 1983 B. Fire and Explosion Prevention System (FEPS)
+C. 1989 C. Fuel Tank Inerting System (FTIS)
+D. 1995 D. Fuel Valve Bypass System (FVBS)
+2) What is the wing span of an A310? (clue in FAST 5) 7) What happened on 1 February, 2008? (clue in FAST 46)
+A. 41.5 m A. A irbus completed a flight non-stop around the world
+B. 42.1 m with an A380
+C. 43.9 m B. A irbus completed the world’s first ever flight by
+D. 44.6 m a commercial jet (A380) using synthetic liquid
+jet-fuel made from natural gas (GTL)
+3) What is the advantage of the Airbus Fly-By-Wire C. A irbus launched its new A350XWB programme
+system? (clue in FAST 9) D. A irbus sold its 5,000th A320 Family aircraft
+A. It saves weight
+B. It reduces complexity 8) What is the name of the tool especially developed by
+the Airbus Structures Test Domain for the A320 impact
+C. It increases the aircraft reliability
+calibration campaign, which is now used for the impact
+D. All of the above answers are correct
+threat evaluation for the A350XWB composite fuselage?
+(clue in FAST 48)
+4) I am an engineering tool used to design, integrate,
+optimize and validate vital aircraft systems such as A. MICKEY
+the Electrical Generation, Hydraulic Generation, Flight B. RATATOUILLE
+Control System, Auto-Flight System, Warning System C. YOGI
+(ECAM) and the Centralized Fault and Maintenance
+D. GUISMOT
+System. What am I? (clue in FAST 24)
+A. The Test Bed 9) The radio altimeter is used to provide an accurate
+B. The Iron Bird height above ground level when the aircraft is between?
+C. The Flying Prototype (clue in FAST 49)
+D. The Virtual Fly Test A. 0 and 1,000 feet
+B. 0 and 2,000 feet
+5) Airbus received acceptance of the A380 Maintenance C. 0 and 2,500 feet
+Review Board Report (MRBR) from the European
+D. 0 and 3,000 feet
+Aviation Safety Agency (EASA) on which date?
+(clue in FAST 38)
+10) What is called the innovative cabin option for the
+A. 23 December 2005 A320 Family aircraft? (clue in FAST 50)
+B. 17 September 2006
+A. Space-Flex
+C. 12 November 2007
+B. Spice-Flex
+D. 4 July 2008
+C. Space-Flux
+D. Spice-Flux
+Your feedback is a gift to help us always improve FAST magazine.
+Please don’t hesitate to contact us with your comments at fast.magazine@airbus.com
+05
+tsaf
+36
+05
+tsaf
+CUSTOMER SERVICES WORLDWIDE AROUND THE CLOCK... AROUND THE WORLD
+Bangalore
+WorldWIdE
+Services and Customer Support
+Tel: +33 (0)5 6719 1980
+Fax: +33 (0)5 6193 1818
+USA/CANAdA
+Customer Services
+Tel: +1 703 834 3484
+Fax: +1 703 834 3464
+CHINA
+Customer Services
+Services and Customer Support centres
+Tel: +86 10 8048 6161 Ext. 5020 Training centres
+Fax: +86 10 8048 6162 Material Logistics centres / Regional warehouses
+Field Service Managers
+FIEld SErVICE SUPPorT AdMINISTrATIoN
+Field Service Management
+Country Field Service location Country Field Service location
+Tel: +33 (0)5 6719 0413
+Algeria Algiers Malaysia Kuala Lumpur
+Fax: +33 (0)5 6193 4964
+Argentina Buenos Aires Mauritius Mauritius
+TECHNICAl, MATErIAl logISTICS Australia Brisbane Mexico Toluca
+Melbourne Mongolia Ulaanbaatar
+& TrAININg SUPPorT
+Newcastle Morocco Casablanca
+Airbus has its main Material Logistics centre
+Sydney Netherlands Amsterdam
+in Hamburg and regional warehouses Bahrain Manama New Zealand Auckland
+in Frankfurt, Washington D.C., Dubai, Beijing Bangladesh Dhaka Nigeria Lagos
+and Singapore. Brazil Sao Paulo Oman Muscat
+Canada Montreal Pakistan Karachi
+Airbus Technical AOG Centre (AIRTAC) Chile Santiago Peru Lima
+Tel: +33 (0)5 6193 3400 China Beijing Philippines Manilla
+Fax: +33 (0)5 6193 3500 Chengdu Portugal Lisbon
+airtac@airbus.com Chongqing Qatar Doha
+Guangzhou Romania Bucharest
+Spares AOG/Work Stoppage Haikou Russia Moscow
+• O utside the Americas: Hangzhou Saudi Arabia Jeddah
+Hong Kong Riyadh
+Tel: +49 (0)40 5076 4001
+Shanghai Singapore Singapore City
+Fax: +49 (0)40 5076 4011
+Shenyang South Africa Johannesburg
+aog.spares@airbus.com Shenzhen Spain Barcelona
+• I n the Americas: Xi’an Madrid
+Tel: +1 70 3729 9000 Colombia Bogota Sri Lanka Colombo
+Fax: +1 70 3729 4373 Colombia Switzerland Zurich
+Czech Republic Prague Taiwan Taipei
+aog.na@airbus.com
+Ecuador Quito Thailand Bangkok
+Spares In-Flight orders outside the Americas: Egypt Cairo Tunisia Tunis
+Tel: +49 (0)40 5076 4002 El Salvador San Salvador Turkey Istanbul
+Faroe Islands Torshavn United Arab Emirates Abu Dhabi
+Fax: +49 (0)40 5076 4012
+Finland Helsinki Dubai
+ifd.spares@airbus.com France Paris Sharjah
+Spares related HMV issues outside the Americas: Germany Berlin United Kingdom Derby
+Cologne London
+Tel: +49 (0)40 5076 4003
+Dusseldorf Luton
+Fax: +49 (0)40 5076 4013 Frankfurt Manchester
+hmv.spares@airbus.com Greece Athens United States of America Atlanta
+Hungary Budapest Charlotte
+Spares RTN/USR orders in the Americas:
+India Mumbai Chicago
+Please contact your dedicated customer spares New Delhi Fort Lauderdale
+account representative Indonesia Jakarta Herndon
+csr.na@airbus.com Iran Tehran Honolulu
+Irish Republic Dublin Houston
+Airbus Training Centre Toulouse, France Italy Rome Indianapolis
+Tel: +33 (0)5 6193 3333 Japan Kita Kyushu Los Angeles
+Fax: +33 (0)5 6193 2094 Osaka Louisville
+Tokyo Memphis
+Airbus Maintenance Training Centre Jordan Amman Miami
+Hamburg, Germany Kazakhstan Almaty New York
+Tel: +49 (0)40 7438 8288 Korea Republic Seoul Phoenix
+Fax: +49 (0)40 7438 8588 Kuwait Kuwait City San Francisco
+Laos Vientiane Tulsa
+Airbus Training subsidiaries Lebanon Beirut Washington, D.C.
+Miami, Florida - U.S.A. Libya Tripoli Uzbekistan Tashkent
+Tel: +1 305 871 3655 Luxembourg Luxembourg City Vietnam Hanoi
+Fax: +1 305 871 4649 Ho Chi Minh
+37
+Higher load factors. Lower costs. When will your revenues profi t from the A380?
+.skramedart
+deretsiger
+era
+seman
+tcudorp
+eht
+dna
+ogol
+sti
+,subriA
+Operators love the aircraft that passengers love to fl y.
+A 380
+lovea380.com Airbus . Love at fi rst fl ight.
+10913171.10584_AIR_Farn_Plane_FAST_297x210.indd 1 27/06/2012 14:38

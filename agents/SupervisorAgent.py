@@ -125,8 +125,8 @@ def supervisor_action(state):
 
     except Exception as e:
         logger.exception("Error en supervisor LLM: %s", e)
-        state.next_agent = "none"
-        agent = "none"
+        state.next_agent = None
+        agent = None
    
     state.decision = agent
     return state

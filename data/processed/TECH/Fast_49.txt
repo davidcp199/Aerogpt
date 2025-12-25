@@ -1,0 +1,1814 @@
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+9
+4
+T
+S
+A
+F
+FAST
+49
+J A N U A R Y 2 0 1 2
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+JJ UA NL YU A 2R 0Y 0 72 0 1 2
+40
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+CustomerServices
+Events
+Sparepartcommonality
+EnsuringA320neoseriescommonality
+withtheexistingA320Family
+AndrewJamesMASON
+Publisher:BrunoPIQUET
+GrahamJACKSON
+Editor:LucasBLUMENFELD
+Pagelayout:Quat’coul Biomimicry
+Cover:RadioAltimeters Whenaircraftdesignerslearnfromnature
+PicturefromHervéGOUSSE
+ExMCompany DenisDARRACQ
+AuthorizationforreprintofFASTMagazinearticlesshouldberequested
+fromtheeditorattheFASTMagazinee-mailaddressgivenbelow RadioAltimetersystems
+CustomerServicesCommunications Correctmaintenancepractices
+Tel:+33(0)561934388
+Fax:+33(0)561934773 SandraPREVOT
+e-mail:fast.magazine@airbus.com
+IanGOODWIN
+Printer:Amadio
+FASTMagazinemaybereadonInternet ELISEConsultingServices
+http://www.airbus.com/support/publications
+under‘Quickreferences’ ILSadvancedsimulationtechnology
+ISSN1293-5476
+LaurentEVAIN
+©AIRBUSS.A.S.2012.ANEADSCOMPANY Jean-PaulGENOTTIN
+Allrightsreserved.Proprietarydocument BrunoGUTIERRES
+BytakingdeliveryofthisMagazine(hereafter“Magazine”),youacceptonbehalfof
+yourcompanytocomplywiththefollowing.Nootherpropertyrightsaregrantedbythe The‘CleanSky’initiative
+deliveryofthisMagazinethantherighttoreadit,forthesolepurposeofinformation.
+This Magazine, its content, illustrations and photos shall not be modified nor Settingthetone
+reproducedwithoutpriorwrittenconsentofAirbusS.A.S.ThisMagazineandthe
+materialsitcontainsshallnot,inwholeorinpart,besold,rented,orlicensedtoany AxelKREIN
+thirdpartysubjecttopaymentornot.ThisMagazinemaycontainmarket-sensitiveor EricDAUTRIAT
+otherinformationthatiscorrectatthetimeofgoingtopress.Thisinformationinvolves
+a number of factors which could change over time, affecting the true public
+representation.Airbusassumesnoobligationtoupdateanyinformationcontainedin
+Altimeters
+thisdocumentorwithrespecttotheinformationdescribedherein.Thestatements
+madehereindonotconstituteanofferorformpartofanycontract.Theyarebasedon Frombarometrictoradio
+Airbusinformationandareexpressedingoodfaithbutnowarrantyorrepresentation
+isgivenastotheiraccuracy.Whenadditionalinformationisrequired,AirbusS.A.Scan
+becontactedtoprovidefurtherdetails.AirbusS.A.Sshallassumenoliabilityforany
+CustomerServicesWorldwide
+damageinconnectionwiththeuseofthisMagazineandthematerialsitcontains,even
+ifAirbusS.A.Shasbeenadvisedofthelikelihoodofsuchdamages.Thislicenceis Aroundtheclock...Aroundtheworld
+governedbyFrenchlawandexclusivejurisdictionisgiventothecourtsandtribunalsof
+Toulouse(France)withoutprejudicetotherightofAirbustobringproceedingsfor
+infringementofcopyrightoranyotherintellectualpropertyrightinanyothercourtof
+competentjurisdiction.
+Airbus,itslogo,A300,A310,A318,A319,A320,A321,A330,
+A340,A350,A380andA400Mareregisteredtrademarks.
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+94TSAF
+49
+2
+8
+15
+23
+30
+36
+37
+ThisissueofFASTMagazinehasbeenprinted
+onpaperproducedwithoutusingchlorine,toreduce
+PhotocopyrightAirbus
+Photocredits: wasteandhelpconservenaturalresources.
+AirbusPhotographicLibrary,ExMCompany,AirbusFrance,GettyImages Everylittlehelps!
+1
+SPAREPARTCOMMONALITY-ENSURINGA320NEOSERIESCOMMONALITYWITHTHEEXISTINGA320FAMILY
+94TSAF
+Spare part
+commonality
+Ensuring A320neo series commonality
+with the existing A320 Family
+Commonality is one of the key drivers of the The A320neo series is a programme which uses
+A320neo development. The A320neo series, innovative new engine and aero-structural
+where neo stands for ‘new engine option’, has a technologiestoprovideasignificantimprovement
+targetofover95%sparepartscommonalitywith in performance for the A319, A320 and A321
+the existing models, enabling the new aircraft to aircraft. Whilst striving to deliver this benefit to
+fit seamlessly into existing A320 Family fleets the operators,Airbus is also keen on minimizing
+andcustomers’operations.Thiswillhelp airlines the changes to a proven product. Changing only
+to achieve significant savings in the areas of what is necessary to integrate the new engines,
+Initial Provisioning (IP) investment and keeping the rest of the aircraft in harmony with
+maintenance training, compared to an all new the operators’ existing economic and logistical
+aircraftseries. models,canensurethefutureoperatorsasimpler,
+lowercostserviceentry.
+AndrewJamesMASON GrahamJACKSON
+ProjectManagerNewProgrammesIP A320neoOperability
+AirbusMaterial,LogisticsandSuppliers TechnicalIntegrator
+AirbusEngineering
+2
+94TSAF
+SPAREPARTCOMMONALITY-ENSURINGA320NEOSERIESCOMMONALITYWITHTHEEXISTINGA320FAMILY
+000000
+222222
+333333333
+AAAAAA
+Key drivers of the OVERALLRSPLINVESTMENT
+n o t e s
+A320neo
+The overall RSPL investment was
+RSPL(RecommendedSpareParts
+development set at the same level for the
+List)
+A320neoseriesasforthestandard
+Airbusprovidescustomerswith
+A320 Family aircraft. It was then
+Spares’ investment and services materialprovisioningdata
+broken down to individual com-
+haveahugeimpactonthelifecycle concerningspares’holdingsfor
+ponents, in order to ensure that
+costofanaircraft.Inrecognitionof agivenfleetbasedoncustomized
+both component reliabilities and
+this,Airbushassetcleartargetsfor parameters.Thislistgives
+contractual agreements with
+theA320neo development to drive recommendationsforthe
+suppliersdon’tincreasetheoverall
+cost factors such as spares’ unscheduledmaintenanceplanning
+quantity and cost of parts in the
+investment and commonality du- forthefirstyearofoperation.
+RSPL.
+ring the aircraft definition phase.
+This includes the specific
+objectives on both commonality
+andoverallRSPL*investment.
+3
+SPAREPARTCOMMONALITY-ENSURINGA320NEOSERIESCOMMONALITYWITHTHEEXISTINGA320FAMILY
+94TSAF
+COMMONALITYSTUDIES Generation of a
+Recommended
+The 95% commonality of parts
+definedinAirbus’objectivesisnot Spare Parts List
+just a marketing figure. An initial
+(RSPL)
+verification exercise has been
+conducted to ensure that it is
+measurable, achievable and value To generate RSPLs as a basis of
+adding. The following sections comparison,keyassumptionswere
+definehowthiswascarriedout. defined relating to the fleet size,
+aircraft utilisation, logistics and
+Airbus has compared the standard economics. The assumptions are
+engine variants, CFM (joint based on experience with all
+venture between General Electric Airbusoperatorsandrepresentthe
+and SNECMA) and IAE (Inter- averageA320Familymission.
+national Aero Engines), with both
+‘neo’enginevariants-‘CFMLeap Four RSPLs were generated based
+X’ and ‘PW1100G’, as shown in upon the defined assumptions and
+figure 2. The operators of both using the same methodology as a
+standard engine variants have typical customized airline’s RSPL
+expressed an interest in both new forthefollowingconfigurations:
+engine options, meaning all fleet
+combinationsmustbeconsidered. •A320CFM56-5BVariant,
+•A320IAEV2500Variant,
+The technical scope of the •A321CFM56-5BVariant,
+assessment covers the whole •A321IAEV2500Variant.
+airframe, including all systems
+impactedbytheintroductionofthe Recommended
+new engines, but excluding the
+Spare Parts List:
+engines and nacelles themselves.
+Airframesparepartcommonalitystudy The analysis does not consider Short-listing
+consideringA320withdifferentenginevariants
+structuralparts.
+Figure2 The Recommended Spare Parts
+List contains a huge range of
+different parts from large assem-
+blies such as an APU (Auxiliary
+Power Unit) to small ‘nuts and
+bolts’. It is critical to filter these
+partstogetarepresentativeviewof
+the commonality, as hundreds of
+small standard hardware part
+numbers with very small financial
+impactcanfalsifytheresults.
+Airbus therefore considered the
+number of recommended parts,
+multiplied by the respective part
+number price, to determine the
+spares’financialimpactofeachpart.
+Through this exercise, standard
+simple items such as filters, light
+bulbs,placards,seals,switchesand
+sensorswithlittlefinancialimpact,
+are removed from the calculation
+allowing the exercise to focus on
+thevaluableandhighimpactitems.
+4
+94TSAF
+SPAREPARTCOMMONALITY-ENSURINGA320NEOSERIESCOMMONALITYWITHTHEEXISTINGA320FAMILY
+Parts’ •1.Fullycommon
+•2.Partiallycommon-hardware
+commonality
+onlycommon*
+identification •3.Partiallycommon-
+n o t e s
+interchangeable(‘neo’to
+standard) Softwareupdateisrequired.
+The commonality of each part on
+•4.Non-common Itallowstheexistinghardware
+the short-listed RSPL has been
+The suitability of existing A320 tobeembodiedonboththepre
+determinedfortheA320neoseries
+Familypartsforapplicationonthe andpost‘neo’aircraftseries.
+baseline designs for all engine
+‘neo’ series is continuously being
+variants. The determined commo-
+assessed to capitalize on the
+nalitieshavebeengradedusingthe
+commonalityopportunities.
+followingcategories(seefigure3):
+Partscommonalityidentification
+Figure3
+5
+SPAREPARTCOMMONALITY-ENSURINGA320NEOSERIESCOMMONALITYWITHTHEEXISTINGA320FAMILY
+94TSAF
+Commonality SOMEEXAMPLES
+feasibility study
+A320neo series’commonality can
+results be seen on many of the control
+computerssuchastheFAC(Flight
+Augmentation Computer), ELAC
+The percentage of commonality
+(Elevator Aileron Computer) and
+between each pair of variants is
+the DMC (Display Management
+visibleinfigure4.
+Computer), where the hardware
+will remain exactly the same,
+b e n e f i t s In order to clearly determine the
+requiringonlyasoftwareupdateto
+commonality percentage, the
+allow full compatibility with the
+Theprincipalbenefitsofthe results were classified into two
+new engine options. The new
+A320neoaircraftseriesare: categories, to reflect the required
+software will be such that once
+•Reductioninfuelburnof15% customerinvestment:
+loaded onto the part, it can be
+versusthestandardA320Family
+installed on either the ‘neo’ or
+aircraft. •Either,newhardware,including:
+standard A320 Family aircraft,
+•Minimumadditionalspares’ -Partswhicharecompletely
+easing parts’ management for a
+investmentrequiredduetothe different,
+mixedfleet.
+synergybetweenA320Family -Partswhicharenewforthe
+types. A320neobutcanalsobe
+Furthermore, the Integrated Drive
+•Minimaladditionalmaintenance retrofittedonthestandard
+Generator (IDG) on the A320neo
+trainingrequired,owingto A320Familyaircraft.
+‘CFM LEAP-X’ is currently
+retentionofexistingcomponents.
+common with the IDG on the
+•Inter-operablewithcurrentA320 •Or,commonhardware,
+standard A320 ‘IAE V2500’. An
+Familyaircraft. including:
+investigationwascarriedoutonthe
+•Benchmarkreliability. -Partswhicharecompletelythe
+feasibility of adding functionality
+same,
+to the IDG (see figure 5), which
+-Partsforwhichthehardwareis
+would have changed the part
+thesame(enabledbya
+number.Thechangehassincebeen
+softwareupgrade).
+rejected, retaining commonality of
+this exceptionally expensive item
+oftheInitialProvisioning(IP).
+Commonalityfeasibility
+studyresults Commonhardware
+Comparison Newhardware(%*)
+(%*)
+Figure4
+TheA320neoseries A320CFM56-5B
+95.6 4.4
+iscurrentlyunder andA320neoLEAP-X
+developmentandthe
+detaileddesignisyet
+tobefrozen,the
+commonality A320CFM56-5B
+95.6 4.4
+percentageswill andA320neoPW1100G
+evolveasthedesign
+definitionprogresses.
+A320IAEV2500
+95.9 4.1
+andA320neoLEAP-X
+A320IAEV2500
+95.5 4.5
+andA320neoPW1100G
+*PercentagecalculatedoverthecurrentA320parts'baseline
+6
+7
+94TSAF
+SPAREPARTCOMMONALITY-ENSURINGA320NEOSERIESCOMMONALITYWITHTHEEXISTINGA320FAMILY
+This shows that Airbus can make
+informeddecisions,baseduponthe
+overall fleet lifecycle costs for the
+customer, and obtain the best
+solution for the aircraft parts'
+commonality.
+IDGexample
+Figure5
+CONTACTDETAILS
+AndrewJamesMASON GrahamJACKSON
+ProjectManagerNewProgrammesIP A320neoOperability
+AirbusMaterial,Logistics TechnicalIntegrator
+andSuppliers AirbusEngineering
+Tel:+49(0)4050762434 Tel:+33(0)561931640
+andrew.j.mason@airbus.com graham.jackson@airbus.com
+Conclusion
+DuringtheA320neodevelopment,Airbus ThenewenginesfortheA320neoseries,
+hassetobjectivesforboththeRSPLcost sharkletsandacontinualaerodynamic
+andthesystems’commonality,andhas optimisationallowreductionsinfuelburn,
+accuratelyprojectedthespareparts’delta andthereforesignificantsavings.The
+betweenthestandardA320Family implementationofthis,whilstretaining
+andtheA320neoseries. systemcommonality,isatruedemonstration
+Itisclearthat95%commonalityfor ofengineeringexcellencewhichiscritical
+airframesystemsisatoughtarget,butthe intoday’scompetitive‘singleaisle’
+systematicandpracticalapproachmade market.Alongsidetheaircraftmarket
+possiblebyusingsparesprovisioningdata leadingperformance,thesuccessofthe
+showshowthiscanbeachieved. A320Familyisalsoarecognitionof
+InnovationinAirbusdoesnotstopwith Airbus’constantstrivetoimprovethe
+theintroductionofnewtechnologies. productwiththecustomerinmind.
+7
+BIOMIMICRY-WHENAIRCRAFTDESIGNERSLEARNFROMNATURE
+94TSAF
+Biomimicry
+When aircraft designers
+learn from nature
+Asked to design a flying object of about 1kg central pacific region from Alaska to New
+capable of a non-stop flight over more than Zealand.Thissmallbutelegantmigratoryseabird
+10,000km in less than 10 days, many engineers isindeedcapableofanincredibleefficientflight.
+would cautiously answer that these requirements This is just to illustrate that nature is constituted
+cannot be met with current technologies. Some of biological solutions and behavioural strategies
+othersmightevendemonstratethatitisphysically thatareextremelyefficient,suchasenergysaving
+impossible to carry the required energy. But by inflight.
+simply raising eyes towards the sky, researchers In this article, you will be convinced that nature
+have observed that migrating sea-birds, such as inspires aircraft designers, engineers and manu-
+thebar-tailedgodwitisachievingthisoutstanding facturersinmanyways.
+performance,andevenbeyond,whencrossingthe
+DenisDARRACQ
+HeadofFlightPhysics
+Research&Technology
+AirbusEngineering
+8
+94TSAF
+BIOMIMICRY-WHENAIRCRAFTDESIGNERSLEARNFROMNATURE
+Nature: A model Buttheperformanceobtainedwith
+standardtechnologieswillbeginto
+for human
+saturatesoon.Moreover,itwillnot
+creations permittodelivertheradicalstepin
+aircraft efficiency that is required
+inanotsofarawayfuture,tomeet
+Natural selection has been
+airtransportobjectivesintermsof
+happeningeversincethefirstsigns
+fuel consumption and emissions.
+of life on Earth, more than three
+Natureisasourceofinspirationfor
+billion years ago. Charles Darwin
+aircraft designers to improve
+explainedthatthiskeymechanism
+performance.
+of evolution is driving the
+adaptation of species to their
+Biomimicry should not be
+environment.Thislongprocesshas
+considered as a full scientific
+yield to remarkable achievements
+discipline, but more as a new
+thatarousetheadmirationofthose
+approach in which biologists and
+who are looking carefully at
+engineers are working together,
+nature.
+firstly by learning to share a
+common language.The basic idea
+In front of a challenge to human
+istounderstandthemechanismsof
+intelligence, such as flying, these
+thelivingworld,toadaptthemand
+natural achievements have often
+to apply them on human pro-
+been a direct source of imitation
+ductions, such as on aircraft, for
+for pioneers as described by Otto
+Airbus.
+Lilienthalin1911in“Birdflightas
+the basis of aviation”. Sometimes
+with dramatic consequences, as
+experienced by first attempts of
+humantake-offs. A380inflight
+Then the scientific knowledge has
+been acquired through a more
+rationalapproachoftheproblem.It
+has enabled a controlled powered
+flight yielding a few decades later
+to the emergence of the air
+transport industry which carries
+now more than two billion
+passengers per year across the
+world.
+Continuous progress of techno-
+logiescombinedtotheexploitation
+of more and more powerful
+computers has permitted to pro-
+duce more efficient aircraft. As a
+consequence,theconsumptionand
+emissions of Airbus aircraft have
+been reduced by 70% and noise
+productionby75%overthelast40
+years
+9
+BIOMIMICRY-WHENAIRCRAFTDESIGNERSLEARNFROMNATURE
+94TSAF
+We cannot copy precisely nature: But species adapted to extreme
+An aircraft is not a bird and conditions or born to a strategy of
+aeronautical engineers are not longdistancemigrationshavealso
+expected to transform themselves developed some clever solutions
+intobutterflyhunters.Commercial that also should be looked at by
+aircraft are indeed operating in an engineers.
+extreme environment at transonic
+speeds, high pressures, very low Denominations of recent and
+temperatures and are much larger future technologies are a revealing
+and heavier than any animal on indicator of this attraction of
+Earth. For example, at these engineersforthemodelsofnature.
+speeds, air compressibility is In aeronautics, we speak of
+playing a major role on aero- “morphing”shape,“natural”lami-
+dynamic performance. Therefore narity, “health” monitoring, “self-
+the objective is not to simply healing” and “smart” materials,
+“mimic” but to understand and to “memory” shape alloys, “genetic”
+get inspiration from “techno- algorithms,Airbus“sharklets”,etc.
+logical”solutionsandstrategiesof Thepurposeofthisarticleisnotto
+thenature. make an exhaustive list of
+innovations inspired from nature,
+Honeycombed-likestructuresare
+usedforaircraftpanelsto saveweight The adaptation from the living but more to give a status and a
+world to aircraft production may perspective in the field of flight
+require several years of research sciences.
+and development. At Airbus, we
+are following attentively all these Flight control and
+potential sources of innovation for
+flight performance
+ourfutureproducts.
+Butwheretolook?Assumingthata At the end of the 19th. century, the
+predatormustbetougherandfaster Wright brothers observed that
+than its prey, it seems therefore birds were manoeuvring and reco-
+sensible to look first at the veringfromgustdestabilisationby
+creatures on top of the food chain, slightly twisting the tip of their
+such as flying raptors and sharks. wings.
+10
+94TSAF
+BIOMIMICRY-WHENAIRCRAFTDESIGNERSLEARNFROMNATURE
+They decided to implement a
+similarsystemofwingwarpingon
+the “Flyer” aircraft in 1903, to
+complete what is considered the
+first powered controlled flight.
+Less than ten years later, as wings
+were becoming more rigid, wing-
+warpingwasreplacedbymoveable
+surfaces located on the wing. The
+use of ailerons or spoilers for
+rollingisstillthenormtodayonall
+modern aircraft. This is likely the
+first successful application in
+aeronautics of biomimicry, though
+theworddidnotexistatthattime.
+Globally, an efficient flight
+requires producing enough lift
+(forceopposedtogravity)togoup
+whileloweringdrag(forceopposed These feathers are smoothing the
+tospeed)tomoveforwardwiththe mix of airflow near the tip that is
+minimumenergy. responsible of creating wing tip
+vortices that generate induced
+Unfortunately, the production of drag. Similarly, the A380 whose
+lift is generating some drag called wing span is limited to 80m to
+the lift-induced drag or induced meet airport gate space requi-
+drag.Itcanbethesourceofabout rements,isequippedwithwingtip
+one third of the total drag of an fences, aiming to improve its
+aircraft. Long narrow wings (cha- aerodynamic performance. The
+racterizedinaeronauticaltermsby A320Familywillalsosoonbenefit
+aspectratio:Wingchordoverspan) from innovative wing tip devices -
+generate less induced drag for a the“sharklets”-thatisexpectedto
+givenlift.Thankstoahigherwing resultinatleast3.5%reducedfuel
+spanofanylivingbird,albatrosses burn (first test flight performed in
+(aspect ratio up to 15) are ex- December2011).
+ploitingseawindenergytoglidein
+any direction effortlessly through Tobesafeandcontrolled,alanding
+dynamic soaring. Modern com- must be completed at low speed.
+mercial aircraft have pushed the Additionalliftanddragisrequired
+limitsofaspectratiouptoabout9 tolowerthespeed.Toachievelow
+to10,asbeyondthebenefitsfrom speed performance, the aircraft
+drag reduction are offset by other deployflapsandincreasetheangle
+penalties, such as manoeuvrability of attack. Hence aircraft and birds
+onground. adoptsimilarstrategies:Butmaybe
+the bird solution is the more
+Verylargewingsareahandicapfor advanced.
+bird manoeuvrability (as nicely
+describedbyCharlesBaudelairein Moreastonishingly,somebirdsare
+"Thealbatross"). deploying alula, a digit covered
+with feathers located on the front
+Therefore,inordertominimizethe partofthewing,inordertocreate
+induced drag for a given wing aslotontheleadingedge.Current
+span, nature has been extremely speculation is that this function is
+inventive. Some large birds, such enabling birds to delay stall of the
+asraptorsandstorks,aredeploying wing(i.e.:Toproducemorelift).It
+impressive large feathers on wing is exactly this concept that is used
+tips. oncommercialaircraftthroughthe
+deploymentofslats.
+11
+BIOMIMICRY-WHENAIRCRAFTDESIGNERSLEARNFROMNATURE
+94TSAF
+Some sea birds, evolving in areas On the contrary, commercial
+of strong winds and turbulence aircraft are based on a fixed-wing
+have developed a passive control structurethatisprimarilydesigned
+capability of the flow - passive for optimum cruise performance.
+because it does not require any The rest of the aircraft mission is
+energy from the bird. Some achievedthroughdedicatedadd-on
+feathers located on the wing of moving devices such as spoilers,
+skuabirdsaredeployedbyreverse flaps, slats, rudders and landing
+flow, preventing a local separation gears, that are generally retracted
+from spreading across the whole during almost all the flight dura-
+wing. Large flow separation is tion.
+responsible for stall. This passive Even though the deployment and
+concept is not applied on aircraft the retraction of aircraft flaps and
+butwingsareequippedwithactive slatscanbeseenas“primaryage”
+moveablesurfaces(e.g.spoilers)to in morphing evolution, we know
+controltheflowonthewing. thatwecannotgobeyondwiththe
+currentstructuraltechnologies,due
+Biomimicry is very promising in totheimpactoncostandweight.
+termsofnewperspectives. Nevertheless, novel technologies
+such as “smart” materials are
+Morphing raising the prospect to morphing
+aircraftconcepts.Amongstvarious
+concepts
+enabling technologies, shape
+memory alloys sustain large
+A common characteristic of life is deformations and recover their
+theflexibilityofshapesthathuman initial form through temperature
+industrial implementation struggle variations, and piezoelectric mate-
+to reproduce. The rigidity of a rials produce mechanical stress
+robot,anaircraftorasubmarine,is when submitted to a voltage.
+strikingcomparedtoaman,abird Therefore,suitablydesignedstruc-
+or a fish. Birds are characterized tures made from these materials
+by continuously varying the shape can be accurately controlled to
+of their wings which guarantee manage seamless deformation of
+optimumperformancesforvarious the aircraft weight. This will
+purposes: Landing, gliding, revolutionize the aircraft perfor-
+flapping,manoeuvringforhunting, mance and will make them
+Thefirsttestflightwith"sharklets"
+onanA320tookplaceinDecember2011 diving, etc. In aeronautical terms, definitivelylooklikebirds.
+theseare“multi-functional”wings.
+12
+94TSAF
+BIOMIMICRY-WHENAIRCRAFTDESIGNERSLEARNFROMNATURE
+Formation flight the shape of grooves: The dermal
+denticles. This was going against
+the belief of aerodynamicists - the
+We have all observed the im-
+smootherthesurface,thelowerthe
+pressive ‘V’ formation flight of
+drag. Detailed investigations have
+migratory birds. Scientific studies
+indeed demonstrated that these
+of pelicans in formation have
+groove structures are reducing
+concluded that follower birds are
+significantly the skin friction,
+flyingatalowerheartrateandare
+enhancingspeed,andtheenergetic
+more often gliding than flapping,
+efficiencyofsharks.Flighttestson
+compared to a solitary flight.
+the Airbus Beluga aircraft with
+Actually, follower birds are
+shark skin-like surfaces called
+exploitingveryopportunelythelift
+"riblets",haveconfirmedthatsuch
+(i.e.:The energy) produced by the
+surfaces are reducing the fuel
+outerwingsofleadingbirds.
+consumptionandemissions.About
+Studies confirmed that such
+70% of the aircraft surface could
+formationflights(actuallyinverted
+be covered by these surfaces. The
+‘V’flights)couldbeappliedtoair
+drag could be reduced by several
+transport with a significant
+units of percentage which
+reduction of emissions on trans-
+represents a significant step of
+continental routes, even though
+performance for an aircraft.
+there would be a time penalty to
+Nevertheless, there are several
+organize the flight from various
+challenges to address such as
+airports.
+production, operational reliability
+(resistance to erosion) and
+Surfaces
+maintenance.
+Beyond all these macroscopic Lotus plants trigger engineers’
+solutions captured from the curiosity as they present remar-
+observation of bird flights, we kable properties. They are always
+know that the marine animals and clean and dry in a dirty and wet
+eventhevegetalworld,constitutea environment. Micro structures on
+tremendous potential source of the surface of the leaves prevent
+innovation for future aircraft. water droplets spreading across.
+Particularly, materials and inter- Droplets are slipping over the leaf
+faces of species with their clearing the surface from any
+environment might inspire revolu- particle of dirt. This self-cleaning
+tionary capabilities for aircraft propertyissettoequipcoatingsfor
+engineers. Shark skin is not aircraft cabin fittings, or could
+smoothatallbutonthecontrary,is even be exploited to prevent ice
+constituted of micro structures in accretiononwings.
+13
+BIOMIMICRY-WHENAIRCRAFTDESIGNERSLEARNFROMNATURE
+94TSAF
+Thisarticleisdedicatedtooursadlymissed
+colleague,FrédéricPICARD,whowasaworld
+classconnoisseuroforchids.Duringhistimein
+theAirbusInnovationCell,heusedtoconceive
+biomimicryasoneoftheexcitinglevers
+forinnovation.
+FrédéricPICARD
+CONTACTDETAILS
+DenisDARRACQ
+HeadofFlightPhysics
+Research&Technology
+AirbusEngineering
+Tel:+33(0)562117537
+denis.darracq@airbus.com
+Conclusion
+Establishinghistoricallythesourcesof todesigninnovativematerialsand
+progressofhumanflightsisnotaneasy advancedinterfaces.Thefurther
+task.Andifaircraftlooklikebirds,itis explorationofnatureintheperspectiveof
+sometimesimpossibletodistinguish drasticallyreducingairtransportfuelburn
+whetheratechnologyisreallyduetothe isrequiringamoredirectcollaboration
+observationofbirdsortopurehuman betweenaeronauticalengineersand
+abstraction.Actually,itdoesnotreally expertsofalldisciplinesofbiology.
+matter:Thelessonisthathuman Theextinctionofanyspeciescausedby
+deterministicmethodologyandnatural humanactivities-thatisatragedyinitself
+selectionoftenconvergetothesame -representsadefinitivelossofknowledge
+solutions. andthereforeapotentiallossofsourceof
+Butthebirdflightisonlytheemergedpart progressforhumanityandforthe
+oftheicebergthathasbeencapturedso protectionoftheenvironment.Thisisthe
+far.Therestofthelivingworld,including reasonwhythepreservationof
+plants,isahugetankofpotential biodiversityisapriorityforindustriesthat
+innovationsforaeronauticalengineers, willfacetremendoustechnological
+particularlytocontrolandexploitthe challengesinthefuture,suchasAirbus.
+turbulenceofflows,
+14
+94TSAF
+RADIOALTIMETERSYSTEMS-CORRECTMAINTENANCEPRACTICES
+Radio Altimeter systems
+Correct maintenance practices
+Incorrectmaintenanceofkeyaircraftsystemscan oftenidentifiedthatthereasonforthemalfunction
+harm the continued safe operation of the aircraft. ofthesystemwasduetoadegradationthatcould
+Onekeysystem,usedduringcriticalflightphases have been prevented by simple maintenance
+includinglanding,istheRadioAltimetersystem. practices, such as the cleaning correctly being
+Several events have been reported where failures carried out. This article aims to explain why the
+of this system have contributed to damage the application of best practice maintenance proce-
+aircraft during landing operations. What is little dures on the Radio Altimeter system is key, and
+known, is that in many cases these events could detailsthebestpracticestosupportthecontinued
+havebeenprevented.Therootcauseinvestigation safeoperationofAirbusaircraft.
+SandraPREVOT IanGOODWIN
+RadioNav/Com&Data-LinkSystems ProductSafety
+CustomerSupportEngineering EnhancementManager
+AirbusS.A.S.
+15
+RADIOALTIMETERSYSTEMS-CORRECTMAINTENANCEPRACTICES
+94TSAF
+How does a Radio
+Altimeter function?
+The barometric altitude, used
+during cruise phases to determine
+anaircraft’saltitude,isbyitsnature
+imprecise due to the variation of
+the atmospheric pressure. Whilst
+this is not a problem in cruise,
+during the approach phases, it is
+however necessary to have a
+greater precision which is not
+possible using the barometric
+altitude. A Radio Altimeter is
+therefore used to provide an
+accurateheightabovegroundlevel
+whentheaircraftisbetween0and
+2,500ft.
+The Radio Altimeter functions by
+means of radio waves. It transmits
+towards the ground a radio wave,
+and measures the time taken to
+receive the reflected wave in
+return. The time between the
+AntennaR2 AntennaR1 emission and reception allows the
+calculation of the height of the
+AntennaT2 AntennaT1
+aircraft above ground level. The
+RadioAltimetersystemconsistsof
+two (three on the A380) inde-
+pendent systems, each system
+consisting of a transceiver, a
+transmission antenna and a
+receptionantenna.
+InteractionoftheRadioAltimeterwithaircraftsystems(A320usedasexample)
+Figure1
+Capt FO
+PFD PFD
+GPWS
+FWC1 FWC2
+TCAS
+Radio Radio
+Alt1 Alt2
+ELAC1 ELAC2
+XMSN Receipt
+antenna FMGC 1 FMGC 2 antenna
+Receipt XMSN
+antenna antenna
+Capt:Captain-ELAC:ElevatorAileronComputer-FO:FirstOfficer-FMGC:FlightManagementandGuidanceComputer-FWC:FlightWarningComputer
+GPWS:GroundProximityWarningSystem-PFD:PrimaryFlightDisplay-TCAS:TrafficAlertandCollisionAvoidanceSystem-XMSN:Transmission
+16
+94TSAF
+RADIOALTIMETERSYSTEMS-CORRECTMAINTENANCEPRACTICES
+The radio height data is shown on
+ConsequencesofRadioAltimeterfailures
+the Primary Flight Display (PFD)
+and also provides feedback to a
+Table1
+number of aircraft systems, to
+advise these on the height of the
+Examples
+aircraft. In figure 1, you will find Symptoms Observations Correctiveaction
+onaircraft
+thetypicalinteractionoftheRadio
+Altimeter system with aircraft RadioAltimeter
+Heavylandingin Correctre-installation
+systems. feedbackfrozenat
+AUTOLANDanda oftheRA,including
+A319 -4ft. Moistureingress
+continuousRETARD installationof
+observedintheRA
+What can go callout. waterproofing.
+installation.
+wrong?
+RAconnectorsnot
+installedasperAMM
+BothRAsignals
+(AircraftMaintenance
+observedgoingNCD.
+Manual),withlackof
+Consequences of Radio Altimeter Similareffects
+Tailstrikewithmultiple waterproofingand
+failures have been well previouslyobservedon
+A320 spuriousECAM incorrectcrimpingon
+sameaircraftbuthad
+documented, but before reviewing warnings. oneantenna,
+clearedatgate,sono
+some case studies, let’s review suspectedfollowingan
+trouble-shooting
+incorrectSB
+whatfeedbacktheRadioAltimeter performed.
+application.Antennas
+(RA) provides. There are two
+re-installedcorrectly.
+common operating modes of the
+RAsystem:
+•ThefirstiscodedNormal
+Operation(NO):Inthiscase,the
+Dirtimpactedthe
+RadioAltimetercorrectly RETARDcall transmissionand
+transmitsandreceivestheradio UntimelyRETARDcall transmitted receiptofthesignal.
+A321
+out. at<22ft.RAantenna Correctedbycleaning
+waves,andthereforeprovidesan
+identifieddirty. theRAantenna
+indicationoftheaircraft’sheight
+surface.
+abovetheground.
+•ThesecondisNonComputed
+Data(NCD):Aboveacertain
+altitude(morethan5,000ftor
+duringspecificflightphases thenon-activationoftheflare
+(i.e.:Roll>30°)),thesignal law*,leadingtoatailstrikeor
+levelreceivedbythereception multipleECAM(Electronic
+antennadoesnotallowthe CentralizedAircraftMonitoring)
+aircraftheighttobecomputed. messagesonground.
+Theheightisthereforenolonger
+transmittedandtheRAoutput Does this occur in
+becomesNCD.
+operation?
+If an incorrect value is received,
+this can have a negative effect on Damage to the Radio Altimeter i n f o r m a t i o n
+theaircraftsystem: systemcanoccurfromeitherwear
+Flare mode
+•Toolowvalue(erroneous),can andtearcomingfromnormaldaily
+Thismodeisautomaticallyengaged
+leadtoanearlyactivationof operation of the aircraft, or follo-
+whentheRadioAltimeterindicates
+flarewhichcouldleadtoan wing an incorrect or incomplete
+100ft.aboveground.
+increaseintheaircraftangleof application of maintenance prac- At50ft.theaircrafttrimsthenose
+attack,whichifnotcorrected, tices, all of which can lead to slightlydown.Duringtheflare,
+couldleadtoaircraftstall,hard erroneous values. In such cases, NormalLawprovidesahighangle
+ofattackprotectionandbankangle
+landingorotheroperational these can lead to spurious cockpit
+protection.
+effect. indications or incidents which can
+Theloadfactorispermittedtobe
+•AnincorrectlytransmittedNCD result in the aircraft being out of from2.5Gto-1G,or2Gto0Gwhen
+valuewillleadtheaircraftto serviceforalengthyperiod.Three theslatsareextended.
+believethatitisincruise typicalcases,withdifferentcauses Thepitchattitudeislimitedfrom
++30to-15°whichisreducedto
+altitude.Ifthisoccurswhenthe aredescribedintable1.
+25°astheaircraftslowsdown.
+aircraftisonthegroundorin
+approach,thiscouldleadto
+17
+RADIOALTIMETERSYSTEMS-CORRECTMAINTENANCEPRACTICES
+94TSAF
+Maintenance New TSM procedures have been
+written to provide recommenda-
+aspects
+tionstocover:
+•ErroneousRadioAltimeter
+heightindications,
+The operational consequences and
+•RadioAltitudesettoNot
+what is observed when there is an
+ComputedData(NCD).
+erroneousRadioAltimeterreading
+has been covered in detail in
+Airbus’ Safety First edition #11. Prevention is
+However, as an essential and
+better than cure
+importantpieceofequipment,itis
+necessary to ensure that the main- with a correct
+tenanceactionsandproceduresare
+maintenance
+correctlyapplied.
+application
+ACTNOWTOPREVENTLATER
+DELAYS
+Root cause analysis in the three
+In the examples in table 1, whilst casestudiesintable1showthatthe
+the root cause is different, a key application of incorrect main-
+message to extract is that the tenance or installation procedures
+trouble-shooting and root cause could drive to the RA mis-
+identification only commenced behaviour so, prevention being
+after there was a significant better than cure, the following
+operational interruption. There- pointsdetailtheactionstotake.
+fore, in the event that a Radio
+Altimeterfailureissuspected,then
+trouble-shooting in accordance
+with theTrouble-Shooting Manual
+(TSM)shouldbeperformed.
+i n f o r m a t i o n
+Radio Altimeter
+cleaning requirements
+•SIL34-099scheduled
+maintenancetask
+recommendationforRadio
+Altimeterantennas’external
+surfacecleaning
+•344200-0503-2
+fortheA300MPD*
+•34-42-02
+fortheA300-600STOMP*
+•344200-02-1fortheA300-600
+andA310MPD
+•344200-03-1forthe
+A318/A319/A320/A321MPD
+•344200-04-1fortheA330
+andA340MPD
+•344000-00000-01
+fortheA380MPD
+*MPD:Maintenance
+ProgrammeDevelopment
+*OMP:Operator
+MaintenanceProgramme
+18
+94TSAF
+RADIOALTIMETERSYSTEMS-CORRECTMAINTENANCEPRACTICES
+CLEANTOPREVENTERRONEOUS
+Accumulationofdirtaround
+DATA
+RadioAltimeters
+The first case is to ensure that the Figure2
+period of your maintenance task
+associated to the cleaning of the
+Radio Altimeter antennas is
+correctly suited to the aircraft
+operation. The RA antennas,
+located on the bottom of the
+aircraft behind the main landing
+gear (centre landing gear on the
+A340), are in the ideal position to
+get covered by dirt which
+accumulates in normal operation.
+Inaddition,theysufferfrombeing
+stained by liquids discharged via
+the onboard galley drain. These A:BeforeMOD-B:Withadditionalslack-C:Brokenconnectors
+materials can form a thick residue
+Figure3
+on the surface of the antenna and
+prevent them from functioning A B C
+correctly.
+To address this issue and as dirt
+accumulation on the RA is a
+common failure mode, the first
+action of the trouble-shooting for
+RA erroneous data is to clean its
+antenna. To prevent the aircraft
+from getting into a position where
+incorrect RA data is being
+transmitted due to dirt, a periodic
+cleaning is scheduled in the MPD
+(MaintenancePlanningDocument) This tempts the mechanic to pull
+withanintervalof6months.Inthe justthatlittlebitharder,sometimes
+event that dirt accumulation is ontheantenna,togivethatlittlebit
+observed to occur at a greater rate moreslack.Thisextraforceonthe
+thanthatcoveredbytheMPDtask antenna harness weakens the
+(forexampleifoperatingonslushy connectors,andwhilstitmaylook
+or contaminated runways, particu- undamaged from the outside,
+larly in winter periods, etc.) then several flight cycles after the
+cleantheRAantennasatareduced antenna replacement the connec-
+interval. The advantages of this is torsmaybreak(seefigure3).This
+to prevent the RA data becoming can cause the disturbances of the
+NCD or erroneous at landing, and RA signal which may transmit
+reducingthechancesofatailstrike erroneous indications or switch to
+orhardlanding. NCD, and lead to issues on
+approach and landing increasing
+MOREFORCEISNOTNECESSARILY theriskofanincident.
+THEANSWER To counteract this difficult access
+to free the RA cable on the A320
+OntheA320Familyaircraft,when Family aircraft, Airbus has
+replacing the Radio Altimeter certified a modification which re-
+antenna, it is often observed that routes the coaxial cable to provide
+there may not be quite enough additional free cable to ease the
+available cable length to com- replacementsofRAantennas.This
+fortably disconnect/connect the can also be embodied on aircraft
+antennatothecable. viaaServiceBulletin.
+19
+RADIOALTIMETERSYSTEMS-CORRECTMAINTENANCEPRACTICES
+Shrinksleeve
+Shrinksleeve
+Locknut
+Additionalsealant
+Optional shrink
+sleeve(depending
+onmodel)
+Gelgasket
+94TSAF
+WATERALWAYSFINDSITSWAYTO The evolution has taken various
+THEWRONGPLACES coursesofaction:
+•Installation of additional shrink
+One of the main causes for sleevesontheconnectorbetween
+incorrectRAreadingscomesfrom the RA antennas and cables the
+water ingress and the con- introductionofwhicharecovered
+tamination of the connectors. by the issuance of appropriate
+Water ingress can cause for modifications(seefigure4).
+exampleanerroneous-6ftvalueby •TheAMM(Aircraft
+direct coupling between the MaintenanceManual)
+transmittingandreceivingantenna. installationtaskshavebeen
+Also, NCD values may occur due updated,ensuringthatthe
+to water causing corrosion of the installationiscorrectly
+cables or the antennas themselves. waterproofed.
+So what can be done about this?
+Wateringresscanbetackledintwo To enhance the waterproof
+means: characteristics of the shrink sleeve
+•Byensuringthatthecorrect installation, additional sealant at
+installationproceduresare the top and bottom of the
+followed, installation is added. This ensures
+and thatnowaterisabletoingressinto
+•Byapplyingthelatest theassembly;eitherfromthetopor
+installationrecommendations bottom of the installation (refer to
+Additionofshrinktubestoimprove andappropriatewaterproof associated AMM procedures and
+waterproofingoftheRAinstallation materials. SIL34-087).Whenintroducingthe
+sealant, a key aspect is to make
+Figure4 The latest installations have been sure that the sealant has time to
+designed to identify and remove dry. Not drying the sealant may
+weak points in the water proofing impact the waterproof abilities of
+oftheharnesses. the installation. The appropriate
+AMMtasksnowreferencethisasa
+standardinstallation.
+Enhancementofwaterproofing
+bytheadditionofsealant
+Figure5
+20
+94TSAF
+RADIOALTIMETERSYSTEMS-CORRECTMAINTENANCEPRACTICES
+The figures 4 and 5 show the •Introductionofanewgelgasket
+building up of the waterproof betweentheRadioAltimeter
+installationontheRadioAltimeter antennaandtheaircraftstructure
+antenna.Itisimportanttonotethat toimprovewaterproofnessofthe
+to get the full protection, all parts installation(detailedinfigures
+need to be correctly installed. If 5and7).
+one of the parts is not correctly Protectiveboots
+installed, then there is likely to be
+water ingress into the system with Figure6
+itsconsequentialeffects.
+Further modifications have been
+introducedtopreventwateringress
+into the antenna cable and consist
+of:
+•Addingsealantonthepipe.
+•Replacementofthecurrent
+polyamideprotectionpipewitha
+longermetalonewhichisless
+disposedtodeformationand
+crackingcausedby
+environmentalconditions.
+•Additionalwaterproofing
+appliedtotheendofthe
+protectiveboots,byputting
+additionaltapeandclampsat
+bothendstomakesurethatthe
+entrancesoftheprotectiveboots
+aresealedagainsteventual
+externalwateringress(referto
+figure6).
+StepsforadditionalsealantbetweentheRadio
+Altimeterantennaandtheaircraftstructure
+Figure7
+Protectionpipe
+Rivet
+Sealant PR1436GB
+4
+Varnish
+2
+Antenna'O' ring
+1 3
+Applysealantbetween Applysealantin
+1 3
+pipeandskin inner gap of pipe/skin
+Applysealantaround Applysealantoverthehead
+2 4
+outerflange oftherivets
+21
+RADIOALTIMETERSYSTEMS-CORRECTMAINTENANCEPRACTICES
+Conclusion
+ToensurethattheRadioAltimetersystem installationoftheRadioAltimeter,the
+continuestoprovideaccurateandcorrect instructionsarefullyfollowed(including
+information,itisnecessarytorecognize, respectingsealantcuretimes).
+reportandtrouble-shootsymptomsofthe Byfollowingthepointsidentifiedinthis
+RadioAltimetermisbehavioursassoonas articleanddevelopedinthereferenced
+theyappear. Airbusdocumentation,theintegrityofthe
+Theoperatorsmustadapttheir RadioAltimetersystemcanbeensured
+maintenanceregimetotheenvironmental andthecontinuedsafeoperationofthe
+conditionsandmakesurethatduringthe aircraftsupported.
+94TSAF
+The replacement The continued operation of the
+RadioAltimeterslocated
+aircraftwitholdcablesinstalledis
+onthebellyoftheaircraft of cables - getting
+not recommended.Therefore, as a
+old gracefully precaution, Airbus has addressed
+thisissuebyincludingintheMPD
+aregulartasktoreplacethecables
+Likeallequipment,afteralifetime
+and antennas.This is scheduled to
+of wear, tear and exposure to the
+take place every 144 months (12
+environment, the Radio Altimeter
+years),duringtheheavyinspection
+antennacablesmaybecomedama-
+for structural items (refer to SIL
+ged, the water proofing may
+34-097foradditionalinformation).
+becomelessefficientandcorrosion
+In addition, it ensures that the
+can set in. Water ingress that has
+Radio Altimeter cables and
+occurred may have affected the
+antennas are installed to the most
+shielding or the wiring, causing
+recentspecification,withthelatest
+corrosion and thus perturb the
+standard of waterproofness, ensu-
+signals. Water present in the RA
+ring continued efficiency and
+cables may cause cross coupling
+accuracy of the Radio Altimeter
+anderroneousvaluesoccurring.
+system.
+d o c u m e n t a t i o n
+Installation improvements Service Bulletins:
+for the Radio Altimeter: •SBsforimprovementofelectrical
+•SIL34-087RadioAltimeterantennas, installationforantennas(Issue2or
+protectionagainstwater subsequent):
+contamination -A320-92-1030
+•SIL34-097AircraftScheduled -A330-92-3044
+MaintenanceTaskRecommendation -A340-92-4054
+relativetoRadioAltimeterantennas’ -A340-92-5005
+installation •SBsforinstallationofgelgaskets:
+•FortheA320: -A320-34-1476
+-A330-34-3218
+AMM34-42-11-400-001
+•ForA330/A340: -A340-34-4222
+-A340-34-5064
+AMM34-42-11-400-801
+CONTACTDETAILS
+SandraPREVOT IanGOODWIN
+RadioNav/Com&Data-Link ProductSafetyEnhancement
+Systems Manager
+CustomerSupportEngineering AirbusS.A.S.
+Tel:+33(0)561188319 Tel:+33(0)561933366
+sandra.prevot@airbus.com ian.x.goodwin@airbus.com
+22
+94TSAF
+ELISECONSULTINGSERVICES-ILSADVANCEDSIMULATIONTECHNOLOGY
+ELISE Consulting Services
+ILS advanced simulation
+technology
+The Instrument Landing System (ILS) is a these, ELISE (Exact Landing Interference
+ground-based system at airports. It provides Simulation Environment) enhances the safety of
+reliable guidance to aircraft approaching and landing operations, can allow to increase runway
+landing at the airport, and is especially useful in capacity and allows the optimisation of airside
+reduced visibility conditions. The signal emitted land usage.This article describes the specialised
+by the ILS system can be sensitive to multipath consulting service which uses this advanced
+disturbances caused by objects close to the simulation software which predicts disturbances
+runway, including other aircraft, buildings and with an unequalled level of accuracy and
+cranes.Accuratelypredictingdisturbancessuchas reliability.
+LaurentEVAIN Jean-PaulGENOTTIN BrunoGUTIERRES
+AirportRegulatoryManager HeadofAirsideOperations HeadofAirbusBusiness
+AirportOperations AirportOperations Nursery
+AirbusS.A.S. AirbusS.A.S. AirbusS.A.S.
+23
+ELISECONSULTINGSERVICES-ILSADVANCEDSIMULATIONTECHNOLOGY
+Approachslope
+LOC
+GP
+3°
+Signalreceived=
+direct+multipath
+Direct
+signal
+LOCantenna Multipath
+94TSAF
+What is an ILS? ILS multipath
+interference
+An Instrument Landing System
+(ILS)isaground-basedinstrument Any large reflecting objects at an
+approachsystem(seefigure1)that airportcanpotentiallycausemulti-
+provides precision guidance to an pathinterferencetotheILSsignal.
+aircraft approaching and landing These disturbances can make the
+onarunway.Itusesacombination ILSsignaldeviatefromitsnominal
+of radio signals to guide the position, which would cause a
+aircraft during reduced visibility deviation of the aircraft in
+landings (Instrument Meteo- approach to the extent that it
+rological Conditions – IMC) such becomesunacceptable.
+asforlowcloudceilings,fog,rain Aircraft,cranesandlargebuildings
+or snowy conditions. The ILS is can produce an ILS multipath
+composed of the Localizer (LOC) interference that would exceed the
+antenna which provides runway required tolerances as set in
+centrelineguidancetoaircraft,and ICAO’s (International Civil Avia-
+the Glide Path (GP) antenna as tion Organisation) Annex 10
+shown in figure 2, which provides document.
+thestandard3°slopeguidance.
+Approachslope:IntersectionofLocalizer(LOC)
+LocalizerandGlidePathantennas andGlidePath(GP)signals
+Figure1 Figure2
+MultipathdisturbancesofILSsignalcausedbysurroundingobstacles
+Figure3
+24
+94TSAF
+ELISECONSULTINGSERVICES-ILSADVANCEDSIMULATIONTECHNOLOGY
+However, ILS predicting software a consulting service using
+can be used to calculate the advanced simulation software for n o t e s
+probable location, magnitude and ILS disturbances called ELISE
+EADS:EuropeanAeronautical
+duration of ILS disturbances (Exact Landing Interference
+DefenseandSpacecompany
+caused by objects. A number of Simulation Environment). ENAC
+ENAC:EcoleNationale
+ILS disturbance prediction tools isarenounedFrenchcivilaviation
+del’AviationCivil
+currentlyexist.Thesetoolsrelyon universityandcentreofexcellence
+the theory of physical optics in ILS antenna expertise. EADS
+applied to 2D flat rectangular IW operates the EADS corporate
+plates.Theyhavetheadvantageof Research and Technology (R&T)
+providing very rapid simulation laboratories and a global network
+timesbuttheirvalidityfortreating of technical centres, including
+obstacles at grazing incidence is electromagnetism.
+questionable. Generally, the more
+accurate the ILS predicting tool,
+How does ELISE
+the more computation power,
+memoryandtimeisrequired.This work?
+is particularly true for the latest
+generation of tools like ELISE
+ELISEusesadvancedtechnologies
+whichmodelsobjectsin3D.
+in:
+•Objectmodelling:ELISEis
+The ELISE solution
+capabletomodeltheobjectsin3
+dimensions,whereasthe
+Airbus in collaboration with previousgenerationofclassic
+EADS* Innovation Works (EADS ILSpredictingtoolsuses2Dflat
+IW)andtheENAC*hasdeveloped plates(seefigures3&4).
+Methodsofobjectmodeling
+Figure4
+ELISEmethodin3D
+Classicmethodin2D
+25
+ELISECONSULTINGSERVICES-ILSADVANCEDSIMULATIONTECHNOLOGY
+•Corecomputing:ELISEuses The advanced levels of accuracy
+anexactmethodofresolution and reliability of the ELISE
+(MethodofMoments)forthe software have been validated by
+radiosignalpropagation more than a hundred ground and
+equations(Maxwell’s flight measurements performed at
+equations),whereasprevious several airports (see figure 6), in
+classicalmethodsarebased coordination with the reference of
+onlyonapproximations European Air Navigation Service
+(physicaloptics)ofthe Providers -ANSP (DTI in France,
+Maxwell’sequations.The DFSinGermany,NATSintheUK
+‘MethodofMoments’isthe andSkyGuideinSwitzerland).
+mostadvancedandaccurate
+methodtomodelthebehaviour These measurement campaigns
+ofILSsignals. have demonstrated that ELISE
+simulations deliver a better corre-
+Based on those two advanced lation with these measurements,
+technologies, ELISE consulting which translate into direct ope-
+services offer a step change in rational and tangible benefits to
+accuracy and reliability on ILS ELISEusers.
+signalpredictionscomparedtothe
+existing classic ILS predicting
+tools.
+94TSAF
+MethodsofresolutionofILS
+propagationequations
+Figure5
+Simplifiedclassicmethod
+BettercorrelationbetweenresultsfromtheactualmeasurementsandELISE
+ExactELISEmethod Figure6
+Errorbetweenresultsfromclassicmethod
+andactualmeasurement
+Measurement
+classicmethod
+ErrorbetweenELISEresultsandactual
+measurement
+Measurement
+ELISE
+26
+94TSAF
+ELISECONSULTINGSERVICES-ILSADVANCEDSIMULATIONTECHNOLOGY
+ELISE benefits 2.TOINCREASEGROUNDCAPACITY
+BYREDUCINGSIGNIFICANTLYTHEILS
+PROTECTIONAREAS
+ELISE delivers direct operational
+andfinancialbenefitstothetarget
+The Localizer signal needs to be
+customers (i.e.: Air Navigation
+protected from multipath inter-
+Service Providers, airport opera-
+ference. One of the protection
+tors and consultants) described in
+areas is near any parallel taxiways
+thethreefollowingpoints.
+to the runway. On the taxiway, the
+aircraftisatagrazingangletothe
+1.TOIMPROVESAFETYBY
+Localizersignal.Atgrazingangles,
+REDUCINGTHERISKOF
+classical prediction tools provide
+UNPREDICTABLEILSFLUCTUATION
+far more conservative results than
+ELISE.
+When an aircraft takes-off it can
+generate fluctuations in the
+Localizer signal used by any
+Safetyissuewhenresultsfromclassicmethodsunder-estimatetherealimpact
+aircraft on approach. These ofobstacles
+fluctuations can cause lateral
+deviations to the aircraft on Figure7
+approach or during landing to the
+point where the landing aircraft
+could veer off the runway surface.
+By modelling the aircraft in 2D
+only, classic tools cannot predict
+those fluctuations, which is a
+concern for safety. ELISE
+modelling in 3D is accurate and
+canpredictallsituationsdelivering
+reliablesimulations.
+Simulation with classic method
+LimitsofICAOCAT 1
+Simulation with ELISE showing out of tolerancedisturbance
+27
+ELISECONSULTINGSERVICES-ILSADVANCEDSIMULATIONTECHNOLOGY
+94TSAF
+Unhelpfullyandasshowninfigure ELISEadvancedtechnologieshave
+8, classic tools can even predict permitted the development of
+out-of-tolerance disturbances (in elegant “stealth” solutions for
+red), which in reality, are well building facades to prevent the
+withinthetolerancedefinedbythe building from causing the loss of
+ICAOAnnex 10 specifications (in Category III operations at airport
+green). By using classic tools, the runways.The solution is based on
+ANSP could impose unnecessary diffraction gratings that redirect
+operational constraints to the theincidentwavebacktoitssource
+airport, even to the point of not rather than the specular direction.
+allowing the use of a parallel Diffraction grating has been ex-
+taxiway which would adversely tensively studied in the 1980s but
+impact the runway’s capacity. has never been applied on
+ELISE can significantly help an buildingsfortheILSproblem.The
+ANSP take decisions that optimize shape of the diffraction grating is
+aircraft operations with sound and optimizedforthespecificposition
+reliablepredictions. and orientation of the building
+towardtherunway.
+3.TOALLOWTHECONSTRUCTIONOF Byusingthisstealthtechnologyon
+BUILDINGSCLOSERTOTHERUNWAY buildingslocatedwithinpreviously
+forbidden areas, land-constrained
+TheICAOEuropeanguidelinesfor airportsarenowinapositiontosig-
+managing Building Restricted nificantly increase their land
+Areas (BRA) define a volume income(upto100hectarescanbe
+where buildings have the potential saved).
+to cause unacceptable interference
+totheILSsignal.WithintheBRA, Way forward
+it is necessary to demonstrate
+(using simulation or other means)
+that any proposed building for The ELISE software is being
+example will not cause distur- introduced in the ICAO Working
+bancesinexcessofthepredefined Group in the Navigation Systems’
+limits. Panel(NSP)inchargeofupdating
+theILSProtectionsAreasinICAO
+Annex10.
+28
+)m(noitisopyawedis.tacS
+)m(noitisopyawedis.tacS
+ILSprotectionareasaroundrunway
+optimizedwithELISE
+Figure8
+Taxiwayparalleltotherunway
+Withclassic
+methods
+Scat.forwardposition(m) %ofICAOlimits
+0 50 100%
+Taxiwayparalleltotherunway
+WithELISE
+Scat.forwardposition(m)
+29
+94TSAF
+ELISECONSULTINGSERVICES-ILSADVANCEDSIMULATIONTECHNOLOGY
+After almost one year of business
+tests, Airbus’ ELISE Consulting
+Services receives very strong EADS IW and ENAC:
+positive feedback from several Two core partners for ELISE
+airports and Air Navigation
+EADS Innovation Works (IW) The Ecole Nationale de
+Service Providers. Since last
+quarter 2011, several studies have gatherstheEADScorporateResearch l'Aviation Civile (ENAC)
+been already done for customers. andTechnology(R&T)laboratoriesthat isaFrenchcivilaviationuniversity.
+Year 2012 is expected to see a guaranteethegroup’stechnical Since1January2011,ithasbecome
+confirmationoftheinterestsofthe innovationpotentialwithafocuson thebiggestaeronauticaluniversity
+huge capabilities of the ELISE thelong-termhorizon.EADSIWhasthe inEurope.Thetrainingsprovidedat
+software. missiontoidentifynewvalue-creating theENACinvolveeachyearanaverage
+technologiesandtodevelop of2,000studentscomposedof
+technologicalskillsandresources. engineers,airtrafficcontrollers,
+GillesPERES(electromagnetic electronicengineers,technicians,air
+specialist)andAndrewTHAIN(designer transportpilotsandflightdispatchers.
+ofstealthbuildings)arepartofthe BertrandSPITZ(ILSinstructor)ispart
+electromagneticteamthatdeveloped oftheelectronicdepartmentthat
+acompleterangeofsoftwareitems developedaworldwideexpertiseinILS
+includingASERISwhichisattheheart antennaknowledge.Hehasdeveloped
+ofELISE.Thesesoftwaresupportthe theILSantennamodellingandthe
+studiesofelectromagnetic humaninterfacedisplayoftheELISE
+compatibility,antennasittings,stealth, software.
+andmoregenerally,theeffectsof
+theelectromagneticaggressionson
+thosesystems.
+Supportedby
+CONTACTDETAILS Jean-PaulGENOTTIN
+HeadofAirsideOperations
+LaurentEVAIN AirportOperations
+AirportRegulatoryManager AirbusS.A.S.
+AirportOperations Tel:+33(0)562118083
+AirbusS.A.S. jean-paul.genottin@airbus.com
+Tel:+33(0)561931162
+laurent.evain@airbus.com BrunoGUTIERRES
+HeadofAirbusBusinessNursery
+AirbusS.A.S.
+Tel:+33(0)562110689
+Conclusion
+bruno.gutierres@airbus.com
+Airbusismuchmorethantheleading TheELISEteamcanprovidedetailed
+aircraftmanufacturer.Itdeliversalarge analysisandexpertisetoairportswhich
+rangeofservicesnotonlytoairlines,but wanttomaximizetheirgroundcapacity,
+alsotoAirNavigationServiceProviders buildnewbuildingsclosertotherunways
+andairports.ELISEisonesuchservice, oroperatenewaircraft.Ifyouwouldlike
+withadvancedsimulationsoftwarethat moredetails,pleasecontactourspecialists.
+predictsILSdisturbanceswithalevelof
+accuracyandreliabilityunequalledtoday.
+29
+THE‘CLEANSKY’INIATIVE-SETTINGTHETONE
+94TSAF
+The ‘Clean Sky’
+initiative
+Setting the tone
+Clean Sky brings together leading aviation to enable the validation of large-scale systems in
+companies and experts to form a truly European realflightdemonstrations.
+technologyplatform. Itskeyobjective?Tomature Embedded in the 7th European Framework
+the most advanced green technologies in the Programme, the JointTechnology Initiative (JTI)
+fields of large commercial transport aircraft, that is Clean Sky offers a key opportunity to
+regional aircraft, rotorcraft, aircraft engines and accommodate Airbus Research and Technology
+aircraftsystems. priorities, with the view to preparing the next
+For Airbus, Clean Sky is one of the most generationofevermoreefficientaircraft.
+important elements of aeronautical research in The following article has been published in the
+Europe; not only due to its budget of 1.6 billion Air and Space Academy Newsletter (#72) and
+euros, but also due to the fact that for the first demonstrates Clean Sky’s active involvement in
+time in history, the Clean Sky initiative has pavingthewayforaneco-efficientfuture.
+createda7-yearpartnershiponaEuropeanlevel,
+AxelKREIN EricDAUTRIAT
+SeniorVice-President ExecutiveDirector
+ofResearchandTechnology CleanSkyJ.U.
+AirbusS.A.S.
+30
+94TSAF
+THE‘CLEANSKY’INITIATIVE-SETTINGTHETONE
+An example of Airbus’ role in A “Joint Technological Initiative”,
+Clean Sky is the coordination it hinges on a public-private
+(jointly done with Saab Aero- partnership associating the Euro-
+systems) of the Smart FixedWing pean Commission and just about
+aircraft platform, which is one of the entire civil aircraft industry of
+the six mentioned integrated Europe.Inthecourseofatenyear
+technologydemonstratorsinClean period (2008-2017), it aims to
+Sky.HereAirbusispursuingmajor deliver integrated demonstrators
+activitiestomatureanallnewlow with a high TRL (Technology
+drag “Smart Wing“ concept and ReadinessLevel).
+the integration of the most
+promising innovative engine con- Thetotalcostoftheprogrammeis
+cept - the Contra Rotating Open 1.6 billion euros, making it one of
+Rotor (CROR) - to achieve a twoorthreeofthelargestresearch
+substantial improvement in fuel programmes ever financed by the
+burn and noise reduction for the EuropeanUnioninanyfield.
+next generation large transport
+aircraft. In addition to direct benefits to
+Airbusisalsocontributingtoother Europeancitizens,thereductionof
+integrated technology demons- CO emissions and noise also
+2
+trators, like systems for green providesafederatingobjectiveona
+operations, eco-design or the technologicallevel.Effortswillbe
+TechnologyEvaluator. madeintheareasofaerodynamics,
+mass, propulsion efficiency, flight
+Clean Sky’s article pathoptimisation,etc.
+published in the
+The programme is organized into
+Air and Space six Integrated Technology De-
+monstrators (ITD), technological
+Academy
+platforms grouping together cohe-
+Newsletter rent research areas and the
+interestedplayers(seefigure1).
+“Clean Sky”, a designation that
+CleanSkyissteeredbypublicandprivatestakeholders
+clearly sets the tone. Whether
+greenorblue,weknowstraightoff Figure1
+thatitwillbeaquestionofskyand
+environment. Let's be clear. The
+questionhereisnotoneofwaging
+war on the (scant) smoke still
+escaping from our factory
+Governingboard:
+chimneys, nor even coping with
+European 12industrialleaders+6associates Scientific
+thevolcanicashwhichgrabbedthe parliament. +EUcommission andtechnical
+headlines in 2010. We are talking Annualdischarge advisoryboard
+ofaeronauticaltechnologiesdesig-
+ned to reduce the environmental
+footprintoffutureaircraftinterms
+Nationalstates JointUndertaking
+ofCO ,noise,NOxandlifecycle Generalforum
+2 representatives executiveteam
+effects. group
+BornoutoftheACARE(Advisory
+Council for Aeronautics Research
+Technology
+Partners ITD ITD ITD ITD ITD ITD Partners
+in Europe) Strategic Research Evaluator
+Agenda, Clean Sky is a somewhat
+unusualinitiative. ITD: Integrated Technology Demonstrator
+31
+THE‘CLEANSKY’INITIATIVE-SETTINGTHETONE
+94TSAF
+Eachoneisdirectedbyatandemof AroundthiscircleofITDleadersis
+industrialists. Three of them con- a wider circle of associates: Over
+cernaircraftdirectly: 70 other industrialists, research
+•SmartFixed-Wingedaircraft,for centres, SMEs (Small & Medium
+commercialaircraft(Airbusand Enterprise) and universities, com-
+Saab) mittedliketheleadersforthewhole
+•GreenRegionalAircraft(Alenia duration of the programme. These
+andEADS’Spanisharm) include organisations as diverse as
+•GreenRotorcraft(Eurocopter Zodiac, MTU, Onera, Ruag, the
+andAgustaWestland) UniversitiesofMilanandCranfield
+withthreefurthertransverse ortheRomanianINCAS.
+topics:
+•SustainableandGreenEngines Leaders, associates and the
+(Rolls-RoyceandSafran) European Commission constitute
+•SystemsforGreenOperations the members of the Clean Sky
+(missionandflightpath Joint Undertaking, or J.U., a
+management,energy peculiar legal creature whose
+managementwithThalesand uniquemissionistoimplementthe
+Liebherr) Technological Initiative of the
+•Eco-Design(Dassaultand same name. They are represented
+Fraunhofer). byagoverningboard,whichactsas
+boththemanagementcommitteeof
+The whole is topped by a the programme and the board of
+‘Technology Evaluator’, a set of directorsoftheJ.U.Theessenceof
+models intended to identify envi- the public-private partnership lies
+ronmentalbenefitsonalevelofan in the joint taking of strategic
+individual mission, an airport or decisions. Of course, shared
+the entire world fleet. This Eva- decision making also implies
+luatorisdirectedbyThalesandthe sharedfunding.Fundsareprovided
+DLR. halfbytheCommission-fromthe
+FP7 (Framework Programme for
+research-Eurofundingandindus-
+try co-funding) budget - and half
+byindustry.(NB:Theterm“indus-
+try”isasimplification.Itincludes
+research centres and other public
+organisations sharing the same
+financingterms).
+A third circle exists, of crucial
+technological and political
+importance: The “Partners”. These
+are selected by means of regular
+(more or less quarterly) calls for
+proposals.They must meet precise
+technical specifications stemming
+from the requirements of the de-
+monstrators. Today, after seven
+calls for proposals and the related
+evaluation processes which are
+carried out according to European
+Commissionrules,itwouldappear
+that the SMEs are doing well,
+representingabout40%ofatotalof
+almost300identifiedpartners(and
+rising): Clean Sky is gradually
+involving not only the major
+aeronautics players, but also a
+significantnumberofnewcomers.
+32
+94TSAF
+THE‘CLEANSKY’INITIATIVE-SETTINGTHETONE
+Asregardsgovernance,thehighest •Laminarityisanotherlarge-scale
+authority is wielded by the project,andaflight
+governing board while the mana- demonstrationisalsoplannedin
+gement of the programme is 2015onanA340,withthe
+entrusted to the executive director realisationandinstallationofan
+of this Joint Undertaking and his 8metre-longwingelement.For
+twenty-member team. The J.U. themomentitisaquestionof
+issues contracts to members and naturallaminarity,whichmakes
+partners and ensures proper exe- manufacturingaspectsallthe
+cution of activities; the Director is moreessential,aswellasthe
+directly responsible to the Euro- verificationoftherobustnessof
+peanParliament. thislaminarity,whichmustnot
+belostwiththefirstmosquito
+It would be tedious to cite the strike!LikeOpenRotor,
+hundredorsokeytechnologiesand laminarityisaverypromising
+30 demonstrator projects included technologythatwillberelevant
+in the six ITDs. A few examples forfutureaircraftgenerations
+willsufficeinordertomakesome thatcouldenterthemarket
+generalobservations: aroundthehorizon2025.Clean
+•OpenRotor(seefigure2)isthe Skyprovidestheplatformand
+mostweighty,totheextentthat timeframe,makingthelarge
+CleanSkyfinancestwoparallel requiredtechnologicalstepsat Contra-rotatingOpenRotor
+projects:OnebyRolls-Royce, therighttime.
+Figure2
+theotherbySnecma,bothwith
+gearedcounter-rotatingpusher
+propulsors.IntermsofCO
+2
+benefit,OpenRotorisvery
+promisingwithapproximately
+30%reductioninenginespecific
+fuelconsumption,alittleless
+onceinstalledbecauseofweight
+penaltiesforexample.Problems
+ofnoise,vibrationand
+certificationhavetoberesolved
+ofcourse,butthelatest
+informationisencouraging.One
+ofthesedemonstratorswillbe
+benchtestedin2015,and
+subsequentlyflighttestedonan
+AirbusA340-600.Thisconcept
+isinfactnotentirelynew,having
+alreadybeentestedintheUnited
+Statesduringthe1980s’surgein
+fuelprices,moreshort-livedthan
+today.Itdoesthoughbenefit
+fromdevelopmentscarriedout
+inthepastquarterofacentury.
+FIRSTOBSERVATION
+Clean Sky includes neither flying
+wings, rhomboidal wings, solar
+planes nor hydrogen propulsion,
+but rather aims for the shorter
+term, the very next generation of
+aircraft:
+NACRE:NewAircraft
+ConceptsResearch
+33
+THE‘CLEANSKY’INITIATIVE-SETTINGTHETONE
+94TSAF
+SECONDOBSERVATION cockpittechnologieswhichwill
+enablerealtimeoptimisationof
+CleanSky,bydefinition,isrelated anindividualmission.
+to industrial strategies. It aims to
+prepare, from the viewpoint of THIRDOBSERVATION
+environmentaltechnologies,future
+generations of planes and rotor- SESAR is interested in traffic,
+craft. This provides an essential Clean Sky with the vehicle. Since
+guarantee - disregarding unfore- theonecannotadvancewithoutthe
+seen factors which are always other, the two programmes are
+possible in research - that public partiallylinked:
+expenditure will not be frittered •Researchconcerningcomposite
+away on superb but unapplicable materials(andthereforeweight)
+technologies. It is also the objec- iscarriedoutwithinthe
+tiveofsharedgovernance: frameworkofregionalaircraft.
+•Flightpathoptimisationis Someexamplesincludecarbon
+anothereffectivemeansto nanotubesinordertoimprove
+reducebothCO emissionsand conductivityandshearstrength,
+2
+noise.InadditiontotheSESAR andmulti-layer,multifunction
+(SingleEuropeanSkyATM materials.Admittedly,CleanSky
+Research)programme,another isfarfrombeingtheonlyparty
+J.U.comprisingthetechnical involvedinresearchactivitieson
+sideoftheEuropeanSingleSky composites!Forcommercial
+initiative,whichwilloptimizeair aircraft,itiscarriedoutinother
+trafficandachieveenvironmental contexts.
+benefitsbyavoidingfuelwaste,
+CleanSkyisalsolookinginto FOURTHOBSERVATION
+Clean Sky is not an island, on the
+contrary, it has many partners,
+many connections with the classic
+FP7 or national programmes;
+betterstill,CleanSkyaimstohave
+someleverageonthelatter.Letus
+note that in France, for example,
+the CORAC (COnseil pour la
+Recherche Aéronautique Civile)
+takes this necessary complemen-
+tarityveryseriously:
+•Businessaircraft,regionalaircraft
+andhelicopterscoordinatepartof
+their“allelectric”activitiessince
+“allelectric”or“almostall”,is
+easiertoachieveinthesesectors
+(forreasons,inparticular,of
+dissipatedpower)thanfor
+commercialaircraft,althoughthe
+latterarenotentirelyabsent.
+Correspondingarchitectureswill
+allbetestedona“CopperBird”
+belongingtothe“eco-design”
+ITD.
+FIFTHOBSERVATION
+Clean Sky is a coordinated pro-
+gramme, with many interactions
+betweenthedifferentITDs,andnot
+asimplejuxtapositionofinterests.
+34
+35
+94TSAF
+THE‘CLEANSKY’INITIATIVE-SETTINGTHETONE
+This, together with the global
+natureofthetechnologyevaluator,
+demands a “systems” approach
+which has not been a feature of
+Europeanprogrammesuntilnow.
+Clean Sky being an aeronautical
+enterprise,onemightsaythatithas
+now reached full cruising speed,
+after a delayed take-off. Initial
+hurdles have been overcome and
+the necessary budgetary flexibility
+and operational effectiveness
+achieved.Later,itwillbeuptothe
+market to put these technologies
+into operation. The first inter-
+mediate achievements are emer-
+ging:Partialtestsinflight,produc-
+tionofinnovativeparts,etc.
+These parts of the puzzle will
+begin to be assembled towards
+2013, when the largest demon-
+stratorsstarttoturnover.
+In the meantime, the environ-
+mental benefits must be secured.
+CleanSkyhasproventobeavery
+essential instrument in driving
+substantialtechnologyadvancement
+forthefutureofaeronautics.
+ArticlewrittenbyEricDAUTRIAT
+(Copyrightusedbypermission-CleanSky)
+CONTACTDETAILS
+AxelKREIN EricDAUTRIAT
+SeniorVice-President ExecutiveDirector
+ofResearchandTechnology CleanSkyJ.U.
+AirbusS.A.S. eric.dautriat@cleansky.eu
+axel.krein@airbus.com Tel:+3222218152
+Conclusion
+Tel:+33(0)562110644
+CleanSkyhasalreadyprovenitselftobe creatinghighskilledjobs,increasing
+anessentialinstrumentindriving transportefficiency,sustainingeconomical
+technologyandinnovationforthefutureof prosperityanddrivingenvironmental
+aviation.Giventheambitioustargetsset improvementsworldwide.
+outinEurope’svisionforaviation, Indeed,asecondgenerationJ.U.will
+"Flightpath2050",itisessentialthatwe undoubtedlyberequiredunderthenext
+keepourfootfirmlyontheaccelerator. FrameworkProgrammeifweareto
+Acommitmenttodeliveringthemost maintainourcurrenttrajectory,whilst
+promisingtechnologiesinaviation-the embracingever-moreambitious
+fastestgrowingtransportsectorwith objectives,suchasusinglarge-scale
+>4,8%/a-attheearliestpossible integrateddemonstratorsfornew
+opportunity,–necessarilymeans configurations.
+maintainingtechnologicalleadership,
+35
+ALTIMETERS
+94TSAF
+From barometric to radio
+In 1928, Paul Kollsman invented a barometric altimeter making it possible for pilots
+to fly using only their gauges, such as in heavy fog or at night when visibility is limited.
+The aviator, James H. Doolittle, became the first pilot to take off, fly and land during
+the first all-instrument flight on a Consolidated N-Y-2 biplane, on September 24 1929.
+“ W W C w N o h e a a f o l a n t l , t , t c ’ h t S h I t e ’ y i i m r m s o e . h u a e T n o r h o t i l w s e i i t e s i l n l s i q t i t g u w ? s b n i i t t t a i ’ e h t m r s o a y e u m o w a r u e e l a r l t . t r o c s ic h v o e p a b r h l u t t i i h s t m t e o i e c n w t a e e o t r e r s d ld? ”
+everinvented.
+The history of the altimeter begins with the invention of the mercury barometer, the first
+device to measure air pressure. As early as in 1643, Italian physicist Evangelista
+Torricelli (a pupil of Galileo), filled a tube with mercury. One end of the tube was closed;
+the other open end was turned upside down and inserted in a cup of mercury. Because
+the air exerted pressure on the mercury in the cup, about thirty inches of mercury
+remained in the tube.
+Nowadays, the Radio Altimeter sends out radio waves to a fixed point on the ground
+and then determines the altitude by the time it takes the wave to bounce back. Unlike
+the barometric altimeter, a Radio Altimeter won't be affected by the weather. However,
+a Radio Altimeter is usually only used when the aircraft descends below 2,500ft as
+detailed in this FAST magazine (Radio Altimeter systems - page 15), and regular
+maintenance practices are recommended.
+36

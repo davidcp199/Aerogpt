@@ -1,0 +1,3988 @@
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+2
+4
+T
+S
+A
+F
+FAST
+42
+J U L Y 2 0 0 8
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+Dear Airbus friends,
+What makes a technical magazine a ‘good’technical magazine?
+No doubt one of the most important ingredients is the relevancy
+and quality of its contents, but so is the quality of its layout.
+A good technical article is one that conveys accurate, sometimes
+complex, and useful data in a meaningful and easy way
+to understand. This is where the quality of the layout,
+design and illustrations play an important role.
+These three attributes serve the article to make it easy
+to read and help the writers pass on their complex technical
+messages to the reader. The layout must render complex subjects
+more accessible and the photos and illustrations must contribute
+to a better understanding of the article.
+You may wonder why I am writing an editorial about this today?
+Indeed, we very seldom include an editorial in regular issues
+of FAST magazine and only do it for very special occasions.
+Well, this is the case today… at least in FAST magazine history!
+I would like to pay tribute to a person without whom
+this magazine would not be what it is today.
+This is Mrs Agnès Massol-Lacombe - the art director of FAST.
+Agnès has worked on our technical magazine since issue Number 1,
+back in 1983, and she is now retiring. Almost the end of an era
+some would say. Through all these years Agnès provided
+the artistic organization, which makes FAST the attractive magazine
+it is, as confirmed by readership surveys.
+Over these past 25 years, printing and graphic design techniques
+have evolved very… ‘FAST’. Agnès successfully adapted herself
+to this ‘FAST’evolving world and above all never fell into the trap
+of graphic design technology for the sake of technology.
+She and I share the same views on the role of graphic design
+and its impact on the quality of a publication.
+For sure, thanks to her professionalism and passion for her work,
+Agnès contributed a lot to the quality of FAST magazine.
+On behalf of the FAST readers community I would like to say:
+‘Thank you Agnès, and enjoy a well deserved retirement!’
+Bruno PIQUET
+FAST magazine publisher
+24
+TSAF
+CUSTOMER SUPPORT AROUND THE CLOCK... AROUND THE WORLD
+WORLDWIDE
+Bruce Jones
+Senior Vice President
+Services & Customer Support
+Tel: +33 (0)5 61 93 35 04
+Fax: +33 (0)5 61 93 41 01
+USA/CANADA
+François Mourareau
+Senior Vice President Customer Services
+Tel: +1 (703) 834 3506
+Fax: +1 (703) 834 3463
+CHINA Customer support centres
+Pierre Steffen Training centres
+Vice PresidentCustomer Services Spares centres / Regional warehouses
+Tel: +86 10 804 86161 Ext 5040 Resident Customer Support Managers (RCSM)
+Fax: +86 10 804 86162 / 63 RCSM location Country RCSM location Country
+Abu Dhabi United Arab Emirates London United Kingdom
+RESIDENT CUSTOMER SUPPORT ADMINISTRATION
+Algiers Algeria Louisville United States of America
+Jean-Bernard Galy Al-Manamah Bahrain Luton United Kingdom
+Director Almaty Kazakhstan Luxembourg Luxembourg
+Resident Customer Support Administration Amman Jordan Macau S.A.R. China
+Amsterdam Netherlands Madrid Spain
+Tel: +33 (0)5 67 19 04 13
+Athens Greece Manchester United Kingdom
+Fax: +33 (0)5 61 93 46 10 Auckland New Zealand Manilla Philippines
+Baku Azerbaijan Marrakech Morocco
+TECHNICAL,SPARES AND TRAINING Bangalore India Mauritius Mauritius
+Airbus has its main spares centre in Hamburg, Bangkok Thailand Memphis United States of America
+and regional warehouses in Frankfurt, Barcelona Spain Mexico City Mexico
+Washington D.C., Beijing, Dubai and Singapore. Beijing China Miami United States of America
+Beirut Lebanon Milan Italy
+Airbus operates 24 hours a day every day. Berlin Germany Minneapolis United States of America
+Bogota Colombia Montreal Canada
+Airbus Technical AOG Centre (AIRTAC) Brussels Belgium Moscow Russia
+Bucharest Romania Mumbai India
+Tel: +33 (0)5 61 93 34 00
+Budapest Hungary Nanchang China
+Fax: +33 (0)5 61 93 35 00 Buenos Aires Argentina Nanjing China
+airtac@airbus.com Cairo Egypt New York United States of America
+Changchun China Newcastle Australia
+Spares AOGs in North America should be Charlotte United States of America Ningbo China
+addressed to: Chengdu China Noumea New Caledonia
+Tel: +1 (703) 729 9000 Cologne Germany Palma de Mallorca Spain
+Colombo Sri Lanka Paris France
+Fax: +1 (703) 729 4373
+Copenhagen Denmark Paro Bhutan
+Damascus Syria Phoenix United States of America
+Spares AOGs outside North America
+Dar Es Salaam Tanzania Pittsburgh United States of America
+should be addressed to: Delhi India Prague Czech Republic
+Tel: +49 (40) 50 76 4001 Denver United States of America Riyadh Saudi Arabia
+Fax: +49 (40) 50 76 4011 Detroit United States of America Roma Italy
+aog.spares@airbus.com Dhaka Bangladesh San Francisco United States of America
+Doha Qatar San Salvador El Salvador
+Spares related HMV issues outside Dubai United Arab Emirates Sana’a Yemen
+Dublin Ireland Santiago Chile
+North America should be addressed to:
+Dusseldorf Germany Sao Paulo Brazil
+Tel: +49 (40) 50 76 4003 Ekaterinburg Russia Seoul South Korea
+Fax: +49 (40) 50 76 4013 Fort Lauderdale United States of America Shanghai China
+hmv.spares@airbus.com Frankfurt Germany Sharjah United Arab Emirates
+Guangzhou China Shenyang China
+Airbus Training Centre Toulouse, France Haikou China Shenzhen China
+Tel: +33 (0)5 61 93 33 33 Hamburg Germany Singapore Singapore
+Hangzhou China Sofia Bulgaria
+Fax:+33 (0)5 61 93 20 94
+Hanoi Vietnam Sydney Australia
+Helsinki Finland Taipei Taiwan
+Airbus Maintenance Training Centre Hamburg,
+Ho Chi Minh City Vietnam Tashkent Uzbekistan
+Germany Hong Kong S.A.R. China Tehran Iran
+Tel: +49 40 743 88288 Indianapolis United States of America Tel Aviv Israel
+Fax: +49 40 743 88588 Istanbul Turkey Tokyo Japan
+Jakarta Indonesia Toluca Mexico
+Airbus Training subsidiaries Johannesburg South Africa Tripoli Libya
+Karachi Pakistan Tulsa United States of America
+Miami, USA - Florida
+Kita-Kyushu Japan Tunis Tunisia
+Tel: +1 (305) 871 36 55 Kuala Lumpur Malaysia Vienna Austria
+Fax:+1 (305) 871 46 49 Kuwait City Kuwait Washington United States of America
+Beijing, China Lanzhou China Wuhan China
+Tel: +86 10 80 48 63 40 Larnaca Cyprus Xi'an China
+Lisbon Portugal Zurich Switzerland
+Fax:+86 10 80 48 65 76 37
+JJ UU LL YY 22 00 00 78
+4402
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+Flight Management Systems
+on commercial aircraft
+Past,present and future
+Marino MODENA
+New flight operations documentation
+for the A380
+Publisher: Bruno PIQUET Electronic documentation brings major
+Editor: Kenneth JOHNSON improvements in usability and efficiency
+Francis PAYEUR
+Cover:
+The Airbus ACJ parked at the Wilkins runway in the Antarctic.
+Blue-ice runway operations are described in the article on page 26
+Authorization for reprint of FAST Magazine articles should be requested Fuel system water management
+from the editor at the FAST Magazine e-mail address given below
+A330/A340 enhancements
+Customer Services Communications
+Tel:+33 (0)5 61 93 43 88 Laurent ARIS
+Fax:+33 (0)5 61 93 47 73
+e-mail:fast.magazine@airbus.com
+Printer:Escourbiac
+Blue-ice runway operations
+FAST Magazine may be read on Internet
+http://www.content.airbusworld.com/SITES/Customer_services/index.html Airbus ACJ to Antarctica
+under ‘Quick references’ David VELUPILLAI
+ISSN 1293-5476
+© AIRBUS S.A.S.2008.AN EADS COMPANY
+All rights reserved.Proprietary document Fuel system water management
+Part II
+By taking delivery of this Magazine (hereafter “Magazine”),you accept on behalf of
+your company to comply with the following.No other property rights are granted by the
+delivery of this Magazine than the right to read it,for the sole purpose of information.
+Customer Services
+This Magazine, its content, illustrations and photos shall not be modified nor
+reproduced without prior written consent of Airbus S.A.S.This Magazine and the Events
+materials it contains shall not,in whole or in part,be sold,rented,or licensed to any
+third party subject to payment or not.This Magazine may contain market-sensitive or
+other information that is correct at the time of going to press.This information involves
+a number of factors which could change over time, affecting the true public
+representation.Airbus assumes no obligation to update any information contained in Customer Services
+this document or with respect to the information described herein.The statements Around the clock...Around the world
+made herein do not constitute an offer or form part of any contract.They are based on
+Airbus information and are expressed in good faith but no warranty or representation
+is given as to their accuracy.When additional information is required,Airbus S.A.S can
+be contacted to provide further details.Airbus S.A.S shall assume no liability for any
+damage in connection with the use of this Magazine and the materials it contains,even
+if Airbus S.A.S has been advised of the likelihood of such damages.This licence is
+governed by French law and exclusive jurisdiction is given to the courts and tribunals of
+Toulouse (France) without prejudice to the right of Airbus to bring proceedings for
+infringement of copyright or any other intellectual property right in any other court of
+competent jurisdiction.
+Airbus,its logo,A300,A310,A318,A319,A320,A321,A330,
+A340,A350,A380 and A400M are registered trademarks.
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+24
+TSAF
+2
+9
+21
+26
+35
+36
+37
+This issue of FAST Magazine has been printed
+on paper produced without using chlorine,to reduce Photo copyright Airbus
+Photo credits: waste and help conserve natural resources.
+Airbus Photographic Library,exm company,Airbus France Every little helps!
+1
+FLIGHT MANAGEMENT SYSTEMS ON COMMERCIAL AIRCRAFT - PAST,PRESENT AND FUTURE FLIGHT MANAGEMENT SYSTEMS ON COMMERCIAL AIRCRAFT - PAST,PRESENT AND FUTURE
+Since the beginning of commercial
+flight, it was clear to the people
+involved (pilots, engineers and air
+traffic specialists) that one of the
+major challenges was to enable
+aircraft flight in all weather con-
+ditions while maintaining a mini-
+mum level of safety.
+When commercial flights started
+to increase significantly in the early
+1960s, one of the most im-portant
+items was to avoid flight
+cancellation, while taking into
+account time and fuel savings. At
+that time every flight was a ‘special
+mission’ where the entire cockpit
+crew (three or more), had dedica-
+ted tasks to accomplish.
+With the continuous increase in
+number of aircraft and routes (con-
+sidered as roads in the sky), it be-
+came evident that aircraft had to
+follow strict rules during all phases
+of flight, especially for the most
+significant ones (i.e. take-off and
+landing). For these reasons the
+flight had (and still has) to be
+‘planned’ before take-off in all
+details and for all flight phases for
+the crew to be prepared for and
+‘manage’any deviation that could
+occur.
+This planning task, while not at all position based on direct distance to
+easy, was not only time consuming various ground stations. The FMS
+for the crew but could also divert uses this aircraft position to assist
+pilot attention when their efforts the flight crew in flight plan prepa-
+should be concentrated on other ration, allowing them to build-up
+important duties during particular the lateral and vertical trajectory
+flight conditions. It was clear that that the aircraft should follow
+under these conditions an aid for during the various phases of the
+pilots was necessary to maintain flight: take-off, climb, cruise, des-
+and exceed the required level of cent, approach and landing.
+safety: this ‘assistant’is now known
+under the name of the FlightMana- Present Flight
+gement System.
+Management
+FMS only became standard equip- Systems
+ment on commercial aircraft at the
+beginning of the 1970s, with the With today's FMS the crew
+first automatic FMS using external workload is significantly reduced
+position sensors for fuel manage- and they can easily optimize air-
+ment and pilot awareness. These craft performance to fly the most
+sensors (e.g. the Inertial Reference fuel economic route or choose the
+System) were (and are) used by the fastest route to a destination.
+FMS to calculate a precise aircraft
+24
+TSAF
+ADR/IR
+Primary Secondary
+ILS (MLS)
+flight controls flight controls
+ECAM
+Maintenance
+EFIS
+CPC
+ATSU (option)
+ACARS (option)
+Flight
+Management Systems
+on commercial aircraft
+Past, present and future
+The Flight Management System (FMS) can be navigate the aircraft. It calculates performance
+thought of as the ‘brain’of the aircraft navigation data and the most fuel-efficient route to be flown
+system, which assists pilots in navigation and based on typical aircraft parameters such as
+flight preparation to compute the most efficient weight, cruise altitude and actual aircraft position,
+flight in fuel and time savings and automatically regardless of weather conditions.
+Marino MODENA
+Maintenance Marketing
+Airbus Customer Affairs
+2
+van
+pukcaB
+Typical FMGC
+architecture
+FCU
+FMGC
+ADF
+RA
+VOR
+DME
+Clock
+FCMC
+Database
+loader
+LGCIU
+SFCC
+FADECs Thrust levers
+24
+TSAF
+(cid:1)Glossary:
+ACARS: Aircraft Communication Addressing
+& Reporting System
+ADF: Automatic Direction Finding
+ADR/IR:Air Data Reference/Inertial Reference
+ATSU: Air Traffic Service Unit
+CPC: Cabin Pressure Controller
+DME: Distance Measuring Equipment
+ECAM: Electronic Centralized Aircraft Monitor
+EFIS: Electronic Flight Instrument System
+FADEC: Full Authority Digital Engine Control
+FCMC: Fuel Control & Management Computer
+FCU: Flight Control Unit
+FMGC: Flight Management & Guidance Computer
+ILS (MLS): Instrument Landing System
+(Microwave Landing System)
+LGCIU: Landing Gear Control Interface Unit
+RA: Radio Altimeter
+SFCC: Slat Flap Control Computer
+VOR: VHF Omni-directional Range.
+3
+FLIGHT MANAGEMENT SYSTEMS ON COMMERCIAL AIRCRAFT - PAST,PRESENT AND FUTURE FLIGHT MANAGEMENT SYSTEMS ON COMMERCIAL AIRCRAFT - PAST,PRESENT AND FUTURE
+Since the beginning of commercial
+flight, it was clear to the people
+involved (pilots, engineers and air
+traffic specialists) that one of the
+major challenges was to enable
+aircraft flight in all weather con-
+ditions while maintaining a mini-
+mum level of safety.
+When commercial flights started
+to increase significantly in the early
+1960s, one of the most im-portant
+items was to avoid flight
+cancellation, while taking into
+account time and fuel savings. At
+that time every flight was a ‘special
+mission’ where the entire cockpit
+crew (three or more), had dedica-
+ted tasks to accomplish.
+With the continuous increase in
+number of aircraft and routes (con-
+sidered as roads in the sky), it be-
+came evident that aircraft had to
+follow strict rules during all phases
+of flight, especially for the most
+significant ones (i.e. take-off and
+landing). For these reasons the
+flight had (and still has) to be
+‘planned’ before take-off in all
+details and for all flight phases for
+the crew to be prepared for and
+‘manage’any deviation that could
+occur.
+This planning task, while not at all position based on direct distance to
+easy, was not only time consuming various ground stations. The FMS
+for the crew but could also divert uses this aircraft position to assist
+pilot attention when their efforts the flight crew in flight plan prepa-
+should be concentrated on other ration, allowing them to build-up
+important duties during particular the lateral and vertical trajectory
+flight conditions. It was clear that that the aircraft should follow
+under these conditions an aid for during the various phases of the
+pilots was necessary to maintain flight: take-off, climb, cruise, des-
+and exceed the required level of cent, approach and landing.
+safety: this ‘assistant’is now known
+under the name of the FlightMana- Present Flight
+gement System.
+Management
+FMS only became standard equip- Systems
+ment on commercial aircraft at the
+beginning of the 1970s, with the With today's FMS the crew
+first automatic FMS using external workload is significantly reduced
+position sensors for fuel manage- and they can easily optimize air-
+ment and pilot awareness. These craft performance to fly the most
+sensors (e.g. the Inertial Reference fuel economic route or choose the
+System) were (and are) used by the fastest route to a destination.
+FMS to calculate a precise aircraft
+24
+TSAF
+ADR/IR
+Primary Secondary
+ILS (MLS)
+flight controls flight controls
+ECAM
+Maintenance
+EFIS
+CPC
+ATSU (option)
+ACARS (option)
+Flight
+Management Systems
+on commercial aircraft
+Past, present and future
+The Flight Management System (FMS) can be navigate the aircraft. It calculates performance
+thought of as the ‘brain’of the aircraft navigation data and the most fuel-efficient route to be flown
+system, which assists pilots in navigation and based on typical aircraft parameters such as
+flight preparation to compute the most efficient weight, cruise altitude and actual aircraft position,
+flight in fuel and time savings and automatically regardless of weather conditions.
+Marino MODENA
+Maintenance Marketing
+Airbus Customer Affairs
+2
+van
+pukcaB
+Typical FMGC
+architecture
+FCU
+FMGC
+ADF
+RA
+VOR
+DME
+Clock
+FCMC
+Database
+loader
+LGCIU
+SFCC
+FADECs Thrust levers
+24
+TSAF
+(cid:1)Glossary:
+ACARS: Aircraft Communication Addressing
+& Reporting System
+ADF: Automatic Direction Finding
+ADR/IR:Air Data Reference/Inertial Reference
+ATSU: Air Traffic Service Unit
+CPC: Cabin Pressure Controller
+DME: Distance Measuring Equipment
+ECAM: Electronic Centralized Aircraft Monitor
+EFIS: Electronic Flight Instrument System
+FADEC: Full Authority Digital Engine Control
+FCMC: Fuel Control & Management Computer
+FCU: Flight Control Unit
+FMGC: Flight Management & Guidance Computer
+ILS (MLS): Instrument Landing System
+(Microwave Landing System)
+LGCIU: Landing Gear Control Interface Unit
+RA: Radio Altimeter
+SFCC: Slat Flap Control Computer
+VOR: VHF Omni-directional Range.
+3
+24
+TSAF
+FLIGHT MANAGEMENT SYSTEMS ON COMMERCIAL AIRCRAFT - PAST,PRESENT AND FUTURE FLIGHT MANAGEMENT SYSTEMS ON COMMERCIAL AIRCRAFT - PAST,PRESENT AND FUTURE
+Through the MCDU pilots can As a result, the FMS is able to
+enter and modify a flight-plan, manage the entire flight from take-
+insert data such as aircraft weight, off runway to landing (through
+speeds, cruise flight level, etc. all flight phases), by performing
+and interface with other sys- all the complex navigation calcu-
+tems, for example the Aircraft lations that the crew would
+Communication Addressing and otherwise have to do to achieve the
+Reporting System (ACARS), highest efficiency and cost savings.
+today included in the Air Traffic
+Service Unit (ATSU) which allows By reducing pilot workload, the FMS
+pilots to send and/or receive lets the crew manage other tasks so
+messages and flight parameters that they are more operational and
+to/from a ground station. concentrated in case of need. For
+Moreover, the MCDU is also used example, instead of having to
+as an interface tool for the check through detailed navigation
+maintenance staff to test aircraft and airport charts to find an
+systems and equipment. alternate route or airport in case of
+necessity (e.g. bad weather
+For crew awareness the MCDU conditions), the FMS can provide
+also has the capability to display the crew with a detailed analysis
+messages (in the lower part of the of the best alternate solution at the
+screen). These messages can be push of a button.
+displayed as a result of a pilot
+action or to request a data entry In recent years progress has been
+when necessary (for example an made on FMS design (known
+entry that crew have to add in the as FMS second generation), ena-
+flight plan). bling operators to customize many
+options that can be loaded directly
+Another important interface on-board without removing the
+between pilots and the FMS are Flight Management & Guidance
+the Navigation Displays (NDs), Computer (FMGC), which contains
+two screens in the cockpit the FMS part. One of today’s major
+showing the actual position of the options requested by operators is
+aircraft in relation to the position the interface with the ground
+esti-mated by the flight plan. management system for data link
+Looking at the NDs, the crew can communications between the
+easily follow the aircraft position aircraft and their airline ope-
+evolution as flight progresses, rations’centre. This produces more
+being alerted to any possible efficient flight movement, impro-
+deviation that may occur from the ving data management like engine
+original flight plan. trend monitoring and maintenance
+reports and anticipating any
+To build-up a flight plan the FMS possible parts replacement, thus
+uses pilot input and information optimizing spares and costs mana-
+stored in the Navigation Data Base gement. These types of FMS
+(NDB). The NDB, which contains reports have experienced a big
+updateable software that has to be growth in functionality and support
+loaded every 28 days, is a key part to pilots and more is still to come.
+of the FMS. It provides pilots with
+information about navigation aids A further step has been made with
+(navaids), airports, air traffic the latest FMS now in service
+control frequencies, runways, and fitted in the A380. This new
+waypoints, company routes (most system provides a better crew
+frequently used route is usually interface and improves the user
+already recorded in the NDB) and friendliness of the FMS to reduce
+other data extracted from a pilot workload. Moreover, in the
+worldwide database. The NDB is A380 a third flight management
+an efficient way to drastically unit (there are two in other Airbus
+reduce crew workload. family aircraft) has been introduced
+5
+24
+TSAF
+1 1
+2 2
+3 3
+4 4
+Example
+A330 cockpit of a lateral flight plan
+1 2 3 4
+ATC push button Navigation Display Data Communication MCDU
+Display Unit - DCDU
+Flight Management
+& Guidance Computer (FMGC)
+To do this, the FMS takes into by the FMS system to predict
+account and estimates the time and aircraft performance by using
+fuel required for a flight and the some aerodynamic, engine and
+optimum cruise level for a mini- atmospheric models together with
+mum fuel burn. The parameters predicted temperature, wind, speed
+that are considered for this and actual aircraft weight and
+calculation are the cruise flight centre of gravity.
+level, the gross weight of the
+aircraft, the Cost Index (CI = ratio The results of this aircraft
+of cost of flying time to the cost of performance are made visible to
+fuel), the external temperature and the pilots by the main interface
+the winds average. between pilots and the FMS that
+is called, in Airbus aircraft,
+Moreover, as the flight progres- the Multifunction Control Display
+ses, the FMS tracks the fuel Unit (MCDU), or Control Display
+consumption, considers the updated Unit (CDU) on A300/A310
+winds and re-estimates regularly Family). This is a sort of notepad
+the flight time taking into account or virtual book with many chapters
+the aircraft position. In effect, that enables pilots to enter data
+the FMS regularly monitors the and programme the FMS. Two
+position information of the aircraft MCDUs are today fitted in the
+received from all of the sensor cockpit of the A320 Family (two
+A320 cockpit,MCDUs
+systems, synthesizing them to CDUs on A300/A310 Family) and
+produce the actual position of the three MCDUs are fitted in the
+aircraft. That position is then used A330/A340 Family’s aircraft.
+4
+24
+TSAF
+FLIGHT MANAGEMENT SYSTEMS ON COMMERCIAL AIRCRAFT - PAST,PRESENT AND FUTURE FLIGHT MANAGEMENT SYSTEMS ON COMMERCIAL AIRCRAFT - PAST,PRESENT AND FUTURE
+Through the MCDU pilots can As a result, the FMS is able to
+enter and modify a flight-plan, manage the entire flight from take-
+insert data such as aircraft weight, off runway to landing (through
+speeds, cruise flight level, etc. all flight phases), by performing
+and interface with other sys- all the complex navigation calcu-
+tems, for example the Aircraft lations that the crew would
+Communication Addressing and otherwise have to do to achieve the
+Reporting System (ACARS), highest efficiency and cost savings.
+today included in the Air Traffic
+Service Unit (ATSU) which allows By reducing pilot workload, the FMS
+pilots to send and/or receive lets the crew manage other tasks so
+messages and flight parameters that they are more operational and
+to/from a ground station. concentrated in case of need. For
+Moreover, the MCDU is also used example, instead of having to
+as an interface tool for the check through detailed navigation
+maintenance staff to test aircraft and airport charts to find an
+systems and equipment. alternate route or airport in case of
+necessity (e.g. bad weather
+For crew awareness the MCDU conditions), the FMS can provide
+also has the capability to display the crew with a detailed analysis
+messages (in the lower part of the of the best alternate solution at the
+screen). These messages can be push of a button.
+displayed as a result of a pilot
+action or to request a data entry In recent years progress has been
+when necessary (for example an made on FMS design (known
+entry that crew have to add in the as FMS second generation), ena-
+flight plan). bling operators to customize many
+options that can be loaded directly
+Another important interface on-board without removing the
+between pilots and the FMS are Flight Management & Guidance
+the Navigation Displays (NDs), Computer (FMGC), which contains
+two screens in the cockpit the FMS part. One of today’s major
+showing the actual position of the options requested by operators is
+aircraft in relation to the position the interface with the ground
+esti-mated by the flight plan. management system for data link
+Looking at the NDs, the crew can communications between the
+easily follow the aircraft position aircraft and their airline ope-
+evolution as flight progresses, rations’centre. This produces more
+being alerted to any possible efficient flight movement, impro-
+deviation that may occur from the ving data management like engine
+original flight plan. trend monitoring and maintenance
+reports and anticipating any
+To build-up a flight plan the FMS possible parts replacement, thus
+uses pilot input and information optimizing spares and costs mana-
+stored in the Navigation Data Base gement. These types of FMS
+(NDB). The NDB, which contains reports have experienced a big
+updateable software that has to be growth in functionality and support
+loaded every 28 days, is a key part to pilots and more is still to come.
+of the FMS. It provides pilots with
+information about navigation aids A further step has been made with
+(navaids), airports, air traffic the latest FMS now in service
+control frequencies, runways, and fitted in the A380. This new
+waypoints, company routes (most system provides a better crew
+frequently used route is usually interface and improves the user
+already recorded in the NDB) and friendliness of the FMS to reduce
+other data extracted from a pilot workload. Moreover, in the
+worldwide database. The NDB is A380 a third flight management
+an efficient way to drastically unit (there are two in other Airbus
+reduce crew workload. family aircraft) has been introduced
+5
+24
+TSAF
+1 1
+2 2
+3 3
+4 4
+Example
+A330 cockpit of a lateral flight plan
+1 2 3 4
+ATC push button Navigation Display Data Communication MCDU
+Display Unit - DCDU
+Flight Management
+& Guidance Computer (FMGC)
+To do this, the FMS takes into by the FMS system to predict
+account and estimates the time and aircraft performance by using
+fuel required for a flight and the some aerodynamic, engine and
+optimum cruise level for a mini- atmospheric models together with
+mum fuel burn. The parameters predicted temperature, wind, speed
+that are considered for this and actual aircraft weight and
+calculation are the cruise flight centre of gravity.
+level, the gross weight of the
+aircraft, the Cost Index (CI = ratio The results of this aircraft
+of cost of flying time to the cost of performance are made visible to
+fuel), the external temperature and the pilots by the main interface
+the winds average. between pilots and the FMS that
+is called, in Airbus aircraft,
+Moreover, as the flight progres- the Multifunction Control Display
+ses, the FMS tracks the fuel Unit (MCDU), or Control Display
+consumption, considers the updated Unit (CDU) on A300/A310
+winds and re-estimates regularly Family). This is a sort of notepad
+the flight time taking into account or virtual book with many chapters
+the aircraft position. In effect, that enables pilots to enter data
+the FMS regularly monitors the and programme the FMS. Two
+position information of the aircraft MCDUs are today fitted in the
+received from all of the sensor cockpit of the A320 Family (two
+A320 cockpit,MCDUs
+systems, synthesizing them to CDUs on A300/A310 Family) and
+produce the actual position of the three MCDUs are fitted in the
+aircraft. That position is then used A330/A340 Family’s aircraft.
+4
+FLIGHT MANAGEMENT SYSTEMS ON COMMERCIAL AIRCRAFT - PAST,PRESENT AND FUTURE
+For these reasons FANS can be
+seen as a chain linking a pilot and
+a traffic controller.
+The main crew interface used for
+the FANS application is based on
+the two Data Communication
+Display Units (DCDUs) located in
+the cockpit just above each MCDU This will allow conducting NPA in
+which displays data link written the same way as a precision
+messages sent/received by the crew approach (based on instrument
+to/from the ATC in real-time (a sort flight) with similar display,
+of operational ‘chat’line). guidance and warnings.
+The FMS will play a key role For these new concepts, the FMS
+in the navigation, surveillance and human computer interface needs
+communication of FANS, providing improvement to make best use of
+aircraft actual and planned position the increasing number of features
+and coordinating, processing and to ease pilot interaction with the
+exchanging data with the ATC system. Such improvement of
+and the airline operations’ centre the FMS and its high level of auto-
+through the ATSU system. mation will further change the
+pilot’s role considerably.
+As far as new landing capabilities
+based on FMS are concerned, the These anticipated future concepts
+FMS Landing System (FLS) is a consider capabilities and functions
+new concept that applies to the that will be required to manage the
+existing Non Precision Approaches increasing traffic growth, reduced
+(NPA) procedures. FLS is a new fuel consumption and continuous
+way to fly these existing NPA ap- safety improvement demands,
+proaches based on an ILS ‘look while not ignoring preparation
+alike’concept for which the virtual for future requirements and will
+approach path is built by the FMS significantly drive the development
+based on NDB stored data. of new flight management systems.
+7
+24
+TSAF
+FLIGHT MANAGEMENT SYSTEMS ON COMMERCIAL AIRCRAFT - PAST,PRESENT AND FUTURE
+to improve availability of all FMS achieve these objectives, in con-
+functions during all flight junction with increased routing 1 1
+conditions. Another advantage flexibility.
+offered by the A380 FMS is the
+vertical situation profile of the Based on today’s forecast, some
+flight plan on the Navigation areas seem more appropriate for a
+Display (ND), in addition to the new type of operation such as the
+2 2
+normal lateral flight plan. so-called Area Navigation or RNAV,
+the Required Navigation Performance
+Future Flight (RNP) concept, the Future Air Navi-
+gation System (FANS A and B)
+Management 3 3
+enhancement concept and new
+Systems approach and landing capabilities
+based on FMS (so-called FMS
+landing system) or FLS (Flight Ma-
+The A380 FMS has taken new FMS nagement Landing System). A380 cockpit
+concepts a step further, but FMS
+functions or concepts after this RNAV involves the development of
+must take into account continuous navigation procedures based on 1 2 3
+Navigation Display Multi Function Display Keyboard Cursor Control Unit
+traffic growth and operator demand instrument flight (particularly
+for faster system reactivity. important in adverse weather condi-
+tions), enabling aircraft to fly
+A recent FMS forum with ope- point-to-point without conventional
+rators emphasised the necessity to ground-based radio navigation aids.
+keep operator’s informed of new It can be used en-route in association
+FMS evolution strategy, not neces- with the RNP concept, but also for
+sarily linked to mandated new pro- terminal area navigation (approach
+cesses or procedures, but also new phase) and for instrument approach
+concepts and capabilities that are procedures.
+‘most desirable’to operators. This
+will assist future development and RNP is a navigation element that is
+keep the Airbus operator’s com- expected to affect current and
+munity aware of new strategies and future existing airspace structures.
+options that could be effectively It concerns navigation performance
+applied in future FMS development. accuracy that is essential to fly
+the aircraft in RNP airspace.
+Due to heavier traffic in specific Aircraft must meet or exceed these
+dense areas, airspace is becoming performance and precision require-
+increasingly saturated. This neces- ments to fly in that airspace.
+sitates a reduction in aircraft
+separation while maintaining the RNAV and RNP are two key
+equivalent level of safety. It is clear elements of a more global concept
+that increasing airspace capacity, that is FANS. This new enhanced
+enhancing operational efficiency concept involves not only
+and fuel savings, while ensuring the navigation (with RNAV and RNP),
+best safety level of air traffic cannot but also surveillance and com-
+be reached without a combined use munication areas through an air
+of air and ground elements. traffic management link. Surveil-
+lance will allow the Air Traffic
+New implementations being studied Control (ATC) to receive the
+now require aircraft to maintain a aircraft position and its planned
+specified level of accuracy and route in order to reduce aircraft
+precision in the position update in separation and communication
+all flight phases and in particular will assist in the automatic sharing
+during aircraft landing. Recent of real-time information and
+navigation systems offer the digital communication between
+required navigation performance to pilots and ATC.
+6
+FLIGHT MANAGEMENT SYSTEMS ON COMMERCIAL AIRCRAFT - PAST,PRESENT AND FUTURE
+For these reasons FANS can be
+seen as a chain linking a pilot and
+a traffic controller.
+The main crew interface used for
+the FANS application is based on
+the two Data Communication
+Display Units (DCDUs) located in
+the cockpit just above each MCDU This will allow conducting NPA in
+which displays data link written the same way as a precision
+messages sent/received by the crew approach (based on instrument
+to/from the ATC in real-time (a sort flight) with similar display,
+of operational ‘chat’line). guidance and warnings.
+The FMS will play a key role For these new concepts, the FMS
+in the navigation, surveillance and human computer interface needs
+communication of FANS, providing improvement to make best use of
+aircraft actual and planned position the increasing number of features
+and coordinating, processing and to ease pilot interaction with the
+exchanging data with the ATC system. Such improvement of
+and the airline operations’ centre the FMS and its high level of auto-
+through the ATSU system. mation will further change the
+pilot’s role considerably.
+As far as new landing capabilities
+based on FMS are concerned, the These anticipated future concepts
+FMS Landing System (FLS) is a consider capabilities and functions
+new concept that applies to the that will be required to manage the
+existing Non Precision Approaches increasing traffic growth, reduced
+(NPA) procedures. FLS is a new fuel consumption and continuous
+way to fly these existing NPA ap- safety improvement demands,
+proaches based on an ILS ‘look while not ignoring preparation
+alike’concept for which the virtual for future requirements and will
+approach path is built by the FMS significantly drive the development
+based on NDB stored data. of new flight management systems.
+7
+24
+TSAF
+FLIGHT MANAGEMENT SYSTEMS ON COMMERCIAL AIRCRAFT - PAST,PRESENT AND FUTURE
+to improve availability of all FMS achieve these objectives, in con-
+functions during all flight junction with increased routing 1 1
+conditions. Another advantage flexibility.
+offered by the A380 FMS is the
+vertical situation profile of the Based on today’s forecast, some
+flight plan on the Navigation areas seem more appropriate for a
+Display (ND), in addition to the new type of operation such as the
+2 2
+normal lateral flight plan. so-called Area Navigation or RNAV,
+the Required Navigation Performance
+Future Flight (RNP) concept, the Future Air Navi-
+gation System (FANS A and B)
+Management 3 3
+enhancement concept and new
+Systems approach and landing capabilities
+based on FMS (so-called FMS
+landing system) or FLS (Flight Ma-
+The A380 FMS has taken new FMS nagement Landing System). A380 cockpit
+concepts a step further, but FMS
+functions or concepts after this RNAV involves the development of
+must take into account continuous navigation procedures based on 1 2 3
+Navigation Display Multi Function Display Keyboard Cursor Control Unit
+traffic growth and operator demand instrument flight (particularly
+for faster system reactivity. important in adverse weather condi-
+tions), enabling aircraft to fly
+A recent FMS forum with ope- point-to-point without conventional
+rators emphasised the necessity to ground-based radio navigation aids.
+keep operator’s informed of new It can be used en-route in association
+FMS evolution strategy, not neces- with the RNP concept, but also for
+sarily linked to mandated new pro- terminal area navigation (approach
+cesses or procedures, but also new phase) and for instrument approach
+concepts and capabilities that are procedures.
+‘most desirable’to operators. This
+will assist future development and RNP is a navigation element that is
+keep the Airbus operator’s com- expected to affect current and
+munity aware of new strategies and future existing airspace structures.
+options that could be effectively It concerns navigation performance
+applied in future FMS development. accuracy that is essential to fly
+the aircraft in RNP airspace.
+Due to heavier traffic in specific Aircraft must meet or exceed these
+dense areas, airspace is becoming performance and precision require-
+increasingly saturated. This neces- ments to fly in that airspace.
+sitates a reduction in aircraft
+separation while maintaining the RNAV and RNP are two key
+equivalent level of safety. It is clear elements of a more global concept
+that increasing airspace capacity, that is FANS. This new enhanced
+enhancing operational efficiency concept involves not only
+and fuel savings, while ensuring the navigation (with RNAV and RNP),
+best safety level of air traffic cannot but also surveillance and com-
+be reached without a combined use munication areas through an air
+of air and ground elements. traffic management link. Surveil-
+lance will allow the Air Traffic
+New implementations being studied Control (ATC) to receive the
+now require aircraft to maintain a aircraft position and its planned
+specified level of accuracy and route in order to reduce aircraft
+precision in the position update in separation and communication
+all flight phases and in particular will assist in the automatic sharing
+during aircraft landing. Recent of real-time information and
+navigation systems offer the digital communication between
+required navigation performance to pilots and ATC.
+6
+24
+TSAF
+FLIGHT MANAGEMENT SYSTEMS ON COMMERCIAL AIRCRAFT - PAST,PRESENT AND FUTURE
+New flight operations
+documentation for the A380
+Electronic documentation brings major
+improvements in usability and efficiency
+Starting from the Middle Ages with the invention of the deployed fleet. Amongst its disadvantages paper
+printing, books have been the common support has low operational capabilities (e.g. no easy way
+material for storing and retrieving information for to retrieve the needed information or to navigate
+knowledge or reference. Aviation did not deviate within several books) and offers low flexibility and
+from this and from the beginning of commercial high cost in revision management or customization.
+aviation a multitude of paper documents were used New electronic technology in information
+for reference in aircraft daily operations. The management offered modern capabilities to
+aircraft flight operations manuals are an important introduce new concepts for the flight operations
+part of this documentation. However, paper manuals in an Electronic Flight Bag (EFB) and
+documents have some disadvantages, particularly even more integrated electronic documentation
+for flight operations manuals which are very (eDoc) in the A380 Onboard Information System
+dynamic documents that have to provide the flight (OIS). This article explains the path from the EFB
+crew with the right information at the right time and to the advantages of eDoc and its integration in the
+are subject to regular updates to stay current with A380 OIS.
+Francis PAYEUR
+Director A380/A350/A400M Operational standards
+Flight Operations and Line Assistances
+Airbus Customer Services
+9
+24
+TSAF
+NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380
+The A380 cockpit layout has made accessible through the MFDs via
+some steps towards these concepts two Keyboard Cursor Control
+with two new display units called Units (KCCUs). KCCUs consist
+Multi Function Displays (MFDs), of a keypad and a trackball system,
+an interactive display much larger which enable movement of a cursor
+than the MCDU display. All on the MFDs to insert data or
+FMS functions (including data- change menu pages (just like a
+link exchange messages) are now cursor in a normal home computer).
+A380 cockpit
+CONTACT DETAILS
+Marino MODENA
+Maintenance Marketing
+Airbus Customer Affairs
+Tel: +33 (0)5 62 11 85 03
+Fax: +33 (0)5 61 93 31 01
+marino.modena@airbus.com
+Conclusion
+Since the very beginning of commercial fuel-efficient, safety and airworthiness
+flight it was clear to the pilot community aspects. In the new FANS concept today
+that strict rules were fundamental for safe under development, the FMS plays
+and successful flight and with continuous a key role not only for navigation
+traffic growth an efficient flight had to be providing aircraft present and planned
+prepared in advance and in all details - position during the flight, but in
+increasing pilots workload. Introduction surveillance and communication linked
+of the FMS became a necessity to assist with real-time information shared with
+pilots in their flight preparation air traffic control and the airline ground
+and for airlines to obtain the most operation centre.
+fuel-economic route to be flown.
+These new concepts known as FANS,
+Today, the new developed FMS (FMS RNAV and RNP are essential to cope
+2ndgeneration) reduces the pilot’s with estimated evolution of the worldwide
+workload by managing the entire flight air traffic, by reduction in aircraft
+from take-off to landing by performing separation minima while maintaining
+all the complex navigation calculations the required level of safety. The global
+that the crew had normally performed concept is to increase the air space
+in the past to achieve the highest capacity enhancing operational flexibility
+efficiency and cost savings. based on new satellite technology
+and on digital communication for position
+In the frame of this FMS evolution, Airbus and data exchange. Moreover, FMS
+goal is to assure that pilots interact with will also play a basic role with FLS,
+different FMSs in the same way regardless a new way to fly NPA approaches.
+of the different Airbus aircraft families,
+leaving to operators the choice of their With the future concepts now under
+fleet standardization when a new standard development it will be fundamental
+with new concepts become available. to continuously improve pilot’s awareness
+considering faster system reactivity
+It is worth noting that FMS, being a ‘live’ and providing different option choices
+system, needs to follow and, above all, to to operators while maintaining a similar
+anticipate new concepts and capabilities FMS crew interaction regardless
+taking into account economical, of the aircraft type in use.
+8
+24
+TSAF
+FLIGHT MANAGEMENT SYSTEMS ON COMMERCIAL AIRCRAFT - PAST,PRESENT AND FUTURE
+New flight operations
+documentation for the A380
+Electronic documentation brings major
+improvements in usability and efficiency
+Starting from the Middle Ages with the invention of the deployed fleet. Amongst its disadvantages paper
+printing, books have been the common support has low operational capabilities (e.g. no easy way
+material for storing and retrieving information for to retrieve the needed information or to navigate
+knowledge or reference. Aviation did not deviate within several books) and offers low flexibility and
+from this and from the beginning of commercial high cost in revision management or customization.
+aviation a multitude of paper documents were used New electronic technology in information
+for reference in aircraft daily operations. The management offered modern capabilities to
+aircraft flight operations manuals are an important introduce new concepts for the flight operations
+part of this documentation. However, paper manuals in an Electronic Flight Bag (EFB) and
+documents have some disadvantages, particularly even more integrated electronic documentation
+for flight operations manuals which are very (eDoc) in the A380 Onboard Information System
+dynamic documents that have to provide the flight (OIS). This article explains the path from the EFB
+crew with the right information at the right time and to the advantages of eDoc and its integration in the
+are subject to regular updates to stay current with A380 OIS.
+Francis PAYEUR
+Director A380/A350/A400M Operational standards
+Flight Operations and Line Assistances
+Airbus Customer Services
+9
+24
+TSAF
+NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380
+The A380 cockpit layout has made accessible through the MFDs via
+some steps towards these concepts two Keyboard Cursor Control
+with two new display units called Units (KCCUs). KCCUs consist
+Multi Function Displays (MFDs), of a keypad and a trackball system,
+an interactive display much larger which enable movement of a cursor
+than the MCDU display. All on the MFDs to insert data or
+FMS functions (including data- change menu pages (just like a
+link exchange messages) are now cursor in a normal home computer).
+A380 cockpit
+CONTACT DETAILS
+Marino MODENA
+Maintenance Marketing
+Airbus Customer Affairs
+Tel: +33 (0)5 62 11 85 03
+Fax: +33 (0)5 61 93 31 01
+marino.modena@airbus.com
+Conclusion
+Since the very beginning of commercial fuel-efficient, safety and airworthiness
+flight it was clear to the pilot community aspects. In the new FANS concept today
+that strict rules were fundamental for safe under development, the FMS plays
+and successful flight and with continuous a key role not only for navigation
+traffic growth an efficient flight had to be providing aircraft present and planned
+prepared in advance and in all details - position during the flight, but in
+increasing pilots workload. Introduction surveillance and communication linked
+of the FMS became a necessity to assist with real-time information shared with
+pilots in their flight preparation air traffic control and the airline ground
+and for airlines to obtain the most operation centre.
+fuel-economic route to be flown.
+These new concepts known as FANS,
+Today, the new developed FMS (FMS RNAV and RNP are essential to cope
+2ndgeneration) reduces the pilot’s with estimated evolution of the worldwide
+workload by managing the entire flight air traffic, by reduction in aircraft
+from take-off to landing by performing separation minima while maintaining
+all the complex navigation calculations the required level of safety. The global
+that the crew had normally performed concept is to increase the air space
+in the past to achieve the highest capacity enhancing operational flexibility
+efficiency and cost savings. based on new satellite technology
+and on digital communication for position
+In the frame of this FMS evolution, Airbus and data exchange. Moreover, FMS
+goal is to assure that pilots interact with will also play a basic role with FLS,
+different FMSs in the same way regardless a new way to fly NPA approaches.
+of the different Airbus aircraft families,
+leaving to operators the choice of their With the future concepts now under
+fleet standardization when a new standard development it will be fundamental
+with new concepts become available. to continuously improve pilot’s awareness
+considering faster system reactivity
+It is worth noting that FMS, being a ‘live’ and providing different option choices
+system, needs to follow and, above all, to to operators while maintaining a similar
+anticipate new concepts and capabilities FMS crew interaction regardless
+taking into account economical, of the aircraft type in use.
+8
+24
+TSAF
+NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380 NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380
+paper preparation and distribution NSS AVNCS SIDE
+process, and by providing opti-
+mized data to comply with spe- The NSS AVNCS has two servers
+cific operational needs. With this that mainly host the applications
+innovative LPC project, and its and manuals used for maintenance
+pioneering introduction into ser- purposes.
+vice, Airbus gained a wealth of Two-way communication between
+experience in the domains of digital the NSS AVNCS and the aircraft
+documentation and the EFB and avionics systems is possible via a
+from this the eDoc concept was secure interface. The NSS AVNCS
+born. also hosts applications for the
+flight crew:
+With the advent of the A380, • The Airlines Operations Control
+new opportunities emerged for an (AOC) that the flight crew uses
+inventive concept of enhanced to communicate with their
+and fully digital operational do- airlines flight ops department,
+cumentation displayed on the OIS • The electronic logbook.
+terminals integrated in the cockpit.
+This new A380 concept of elec- The NSS AVNCS also hosts the
+tronic documentation not only be- Cabin Crew Operating Manual
+nefits from the experience ob- (CCOM) that is displayed on The
+tained during the development of Flight Attendant Panel (FAP) and
+the LPC, but also from all of the the Minimum Equipment List that is
+Beginning new opportunities offered by a available for maintenance purposes. Airlines can keep or remove any of
+fully digital format and by the the Airbus produced manuals and
+with the EFB
+integration of the OIS within the FLT OPS SIDE put their own manuals in the OIS.
+cockpit and its connection with They can also customize the content
+Airbus was a pioneer in the other aircraft systems. The FLT OPS side is the main side of the Airbus manuals to fit their
+development of the EFB via the used by flight crews and has two needs or comply with any local
+Airbus Less Paper Cockpit (LPC) The OIS can host the entire EFB laptops that are attached to the requirements.
+project. package and provides the flight aircraft and connected to the OIS • The performance applications:
+The LPC project began in the mid crew with all the operational and network. The flight ops side can Takeoff, landing, in-flight,
+1990’s, and was implemented first mission oriented material that they receive information from the aircraft loadsheet,
+in line operations in 1997. It led the need in their daily operations. This avionics via the NSS AVNCS and • The mission applications: Nav
+way towards the era of electronic includes technical information, a diode designed to secure charts, Electronic Flight Folder
+documentation in the cockpit, with operating manuals, performance communication from/to the aircraft (EFF)/Flight Follow Up (FFU).
+first the reduction of paper, then computation and mission mana- avionics. An additional backup
+paper elimination. The first step in gement information. The OIS eli- laptop is available that is electrically OIS installation
+this significant transition involved minates the need for paper in powered by the aircraft, but is not
+in the cockpit
+performance calculations (e.g. the cockpit and replaces it by a connected to the network. The
+takeoff, landing, weight and package of comprehensive appli- laptops host all the flight ops
+balance computations) and then cations within the OIS. The birth applications: On board the aircraft the flight
+the introduction of the first of the OIS sets up the eDoc con- • The ops library that contains crew uses two dedicated terminals,
+electronic manual: the Flight Crew cepts, and revolutionizes custo- all the electronic manuals referred to as Onboard Information
+Operating Manual (FCOM) based mization capabilities for the flight that can be used by flight crews: Terminals (OIT), to display and
+on SGML (Standard Generalized operations manuals. - Flight Crew Operating Manual operate the flight ops applications.
+Markup Language) data. This (FCOM), The flight crew operates each
+format was then adopted for the OIS general - Flight Crew Training Manual terminal by using a dedicated
+Master Minimum Equipment List (FCTM), keyboard attached to the folding
+overview
+(MMEL). - Cabin Crew Operating Manual table, a pointing device that is
+(CCOM), fitted in the folding table, and/or
+This solution provided flight crews The OIS, also referred to as - Minimum Equipment List additional keys near the terminals.
+with readily accessible, updated, and Network Server System (NSS), has (MEL), In accordance with regulations, the
+optimized information to perform two sides: the NSS AVNCS (avio- - Aircraft Flight Manual A380 OIS installation being fixed,
+operational tasks in the cockpit - nics) side and the FLT OPS (Flight /Configuration Deviation List attached to the aircraft and using
+their working environment. It also Operations) side. The flight crew (AFM/CDL), aircraft displays and interface,
+presented numerous cost and mana- can select the side to be displayed - Weight and Balance Manual it is classified as a Class 3 EFB
+gement advantages to airlines by on the two dedicated terminals in (WBM), installation.
+simplifying the tedious and costly the cockpit.
+11
+24
+TSAF
+OIS simplified
+schematic architecture
+Aircraft avionics AOC
+Secured two way
+communication
+NSS AVNCS FLT OPS
+Communication Flt Ops Manuals
+AOC FCOM/FCTM
+Maintenance CCOM
+FAP CMS MEL
+Maint. manuals AFM / CDL
+eLogbook Performance
+MEL/CDL Takeoff
+CCOM In-flight
+Landing
+Loadsheet
+Mission
+EFF/FFU/Charts
+Overview of OIS
+flight ops applications
+•
+EFF
+•
+Charts
+•
+Performance
+•
+eDoc
+• AOC
+•
+eLogbook
+(cid:1)A Class 1 EFB has no installation
+in the aircraft (stand alone
+laptops connected for electrical
+supply only).
+(cid:1)A Class 2 EFB is a Class 1 EFB
+with an installation in the aircraft
+to fix the laptop for use.
+10
+24
+TSAF
+NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380 NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380
+paper preparation and distribution NSS AVNCS SIDE
+process, and by providing opti-
+mized data to comply with spe- The NSS AVNCS has two servers
+cific operational needs. With this that mainly host the applications
+innovative LPC project, and its and manuals used for maintenance
+pioneering introduction into ser- purposes.
+vice, Airbus gained a wealth of Two-way communication between
+experience in the domains of digital the NSS AVNCS and the aircraft
+documentation and the EFB and avionics systems is possible via a
+from this the eDoc concept was secure interface. The NSS AVNCS
+born. also hosts applications for the
+flight crew:
+With the advent of the A380, • The Airlines Operations Control
+new opportunities emerged for an (AOC) that the flight crew uses
+inventive concept of enhanced to communicate with their
+and fully digital operational do- airlines flight ops department,
+cumentation displayed on the OIS • The electronic logbook.
+terminals integrated in the cockpit.
+This new A380 concept of elec- The NSS AVNCS also hosts the
+tronic documentation not only be- Cabin Crew Operating Manual
+nefits from the experience ob- (CCOM) that is displayed on The
+tained during the development of Flight Attendant Panel (FAP) and
+the LPC, but also from all of the the Minimum Equipment List that is
+Beginning new opportunities offered by a available for maintenance purposes. Airlines can keep or remove any of
+fully digital format and by the the Airbus produced manuals and
+with the EFB
+integration of the OIS within the FLT OPS SIDE put their own manuals in the OIS.
+cockpit and its connection with They can also customize the content
+Airbus was a pioneer in the other aircraft systems. The FLT OPS side is the main side of the Airbus manuals to fit their
+development of the EFB via the used by flight crews and has two needs or comply with any local
+Airbus Less Paper Cockpit (LPC) The OIS can host the entire EFB laptops that are attached to the requirements.
+project. package and provides the flight aircraft and connected to the OIS • The performance applications:
+The LPC project began in the mid crew with all the operational and network. The flight ops side can Takeoff, landing, in-flight,
+1990’s, and was implemented first mission oriented material that they receive information from the aircraft loadsheet,
+in line operations in 1997. It led the need in their daily operations. This avionics via the NSS AVNCS and • The mission applications: Nav
+way towards the era of electronic includes technical information, a diode designed to secure charts, Electronic Flight Folder
+documentation in the cockpit, with operating manuals, performance communication from/to the aircraft (EFF)/Flight Follow Up (FFU).
+first the reduction of paper, then computation and mission mana- avionics. An additional backup
+paper elimination. The first step in gement information. The OIS eli- laptop is available that is electrically OIS installation
+this significant transition involved minates the need for paper in powered by the aircraft, but is not
+in the cockpit
+performance calculations (e.g. the cockpit and replaces it by a connected to the network. The
+takeoff, landing, weight and package of comprehensive appli- laptops host all the flight ops
+balance computations) and then cations within the OIS. The birth applications: On board the aircraft the flight
+the introduction of the first of the OIS sets up the eDoc con- • The ops library that contains crew uses two dedicated terminals,
+electronic manual: the Flight Crew cepts, and revolutionizes custo- all the electronic manuals referred to as Onboard Information
+Operating Manual (FCOM) based mization capabilities for the flight that can be used by flight crews: Terminals (OIT), to display and
+on SGML (Standard Generalized operations manuals. - Flight Crew Operating Manual operate the flight ops applications.
+Markup Language) data. This (FCOM), The flight crew operates each
+format was then adopted for the OIS general - Flight Crew Training Manual terminal by using a dedicated
+Master Minimum Equipment List (FCTM), keyboard attached to the folding
+overview
+(MMEL). - Cabin Crew Operating Manual table, a pointing device that is
+(CCOM), fitted in the folding table, and/or
+This solution provided flight crews The OIS, also referred to as - Minimum Equipment List additional keys near the terminals.
+with readily accessible, updated, and Network Server System (NSS), has (MEL), In accordance with regulations, the
+optimized information to perform two sides: the NSS AVNCS (avio- - Aircraft Flight Manual A380 OIS installation being fixed,
+operational tasks in the cockpit - nics) side and the FLT OPS (Flight /Configuration Deviation List attached to the aircraft and using
+their working environment. It also Operations) side. The flight crew (AFM/CDL), aircraft displays and interface,
+presented numerous cost and mana- can select the side to be displayed - Weight and Balance Manual it is classified as a Class 3 EFB
+gement advantages to airlines by on the two dedicated terminals in (WBM), installation.
+simplifying the tedious and costly the cockpit.
+11
+24
+TSAF
+OIS simplified
+schematic architecture
+Aircraft avionics AOC
+Secured two way
+communication
+NSS AVNCS FLT OPS
+Communication Flt Ops Manuals
+AOC FCOM/FCTM
+Maintenance CCOM
+FAP CMS MEL
+Maint. manuals AFM / CDL
+eLogbook Performance
+MEL/CDL Takeoff
+CCOM In-flight
+Landing
+Loadsheet
+Mission
+EFF/FFU/Charts
+Overview of OIS
+flight ops applications
+•
+EFF
+•
+Charts
+•
+Performance
+•
+eDoc
+• AOC
+•
+eLogbook
+(cid:1)A Class 1 EFB has no installation
+in the aircraft (stand alone
+laptops connected for electrical
+supply only).
+(cid:1)A Class 2 EFB is a Class 1 EFB
+with an installation in the aircraft
+to fix the laptop for use.
+10
+24
+TSAF
+NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380 NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380
+A DU is a small piece of information
+that is usually self-explanatory,
+self-sufficient, and independently
+understandable on its own. It is
+made up of a succession of well-
+organized objects and corresponds
+to the different types of data that
+can be found within the different
+manuals.
+For example:
+• For the FCOM: Descriptions,
+procedures, limitations, perfor-
+mance,
+• For the MMEL: Descriptions,
+malfunction assessment,
+dispatch items, operational
+procedures.
+Each DU has a Document Type
+Definition (DTD), which defines
+its content, structure and metadata
+(information associated with the
+DU). The DU can be structured
+text, and/or can have illustrations
+(in Computer Generated Metafile -
+CGM - format), multimedia data
+(sound, video), colour, interactive
+zones and links (e.g. internal links,
+or links to external manuals or
+applications). DUs enable such
+new functions introduced by the
+A380 eDoc as ‘contextual access’
+or ‘information layers’ (both
+described later).
+DUs are also basic elements that
+enable configuration management
+by technical criteria such as
+modifications or Service Bulletins
+(SBs). A new management process
+enables SBs to be taken into ac-
+count in the operational manuals,
+even before they are applied, as
+soon as airlines have accepted the
+SB and decided to incorporate the All DUs are no longer classified in
+modification. In this way, data for volumes, but are organized in a
+operational manuals can contain tree structure according to the type
+not only the current aircraft defi- of information. For instance, the
+nition, but also, in anticipation of structure of the FCOM is
+an SB retrofit, the definition of an organized according to the four
+SB (Pre/Post SB Management) after different types of information
+incorporation. (descriptions, procedures, limi-
+tations and performance) that can
+This Pre/Post SB Management currently be found in it. This
+does not apply to the approved structure, reflected in the OIS
+manuals (e.g. AFM, MMEL). navigation tree facilitates navi-
+gation within the manual and
+simplifies the task-oriented and
+contextual approach of the FCOM.
+13
+24
+TSAF
+OIS in the cockpit
+1 1
+2 3
+OPS data tool
+1
+OIT and additional keys
+eDoc on OIS direct information from the air-
+2 craft are not available when the do-
+Folded keyboard
+cumentation is consulted outside
+eDoc is designed to fit this new
+3 the aircraft.
+electronic format on the OIS.
+Keyboard
+This new format enables the
+eDoc structure
+introduction of a considerable
+number of new functions within
+the A380 operational documen- The first step of the eDoc imple-
+tation. In particular, these include: mentation for A380 was develop-
+• New, structured, electronic ment of specific tools at Airbus.
+documentation, This started in 2001 with the
+• A new Human Machine specification and development of
+Interface (HMI), tools to support the new format and
+• Enhanced consultation modes, all the main new features of the
+• Information layers, A380 ops documentation. These
+• Line and training-oriented tools, namely OPS DATA, enable
+development, the writing, management and
+• New revision processes and, production of the A380 eDoc.
+• Customization capabilities.
+The primary electronic format
+Operational manuals are also used developed for A380 operational
+outside the aircraft, in an office documentation is XML (Extensible
+or on a standalone computer for Markup Language) stored in the
+example. However, for training OPS DATA databank. The output
+and for operational efficiency is also a set of files in XML format,
+purposes, they will always be and is used as the basis for
+presented and used exactly in the electronic consultation and custo-
+same way, regardless of the support mization of data by airlines.
+that may be used to display them. The electronic manuals are structu-
+Only the functions that require red in Documentary Units (DUs).
+12
+24
+TSAF
+NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380 NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380
+A DU is a small piece of information
+that is usually self-explanatory,
+self-sufficient, and independently
+understandable on its own. It is
+made up of a succession of well-
+organized objects and corresponds
+to the different types of data that
+can be found within the different
+manuals.
+For example:
+• For the FCOM: Descriptions,
+procedures, limitations, perfor-
+mance,
+• For the MMEL: Descriptions,
+malfunction assessment,
+dispatch items, operational
+procedures.
+Each DU has a Document Type
+Definition (DTD), which defines
+its content, structure and metadata
+(information associated with the
+DU). The DU can be structured
+text, and/or can have illustrations
+(in Computer Generated Metafile -
+CGM - format), multimedia data
+(sound, video), colour, interactive
+zones and links (e.g. internal links,
+or links to external manuals or
+applications). DUs enable such
+new functions introduced by the
+A380 eDoc as ‘contextual access’
+or ‘information layers’ (both
+described later).
+DUs are also basic elements that
+enable configuration management
+by technical criteria such as
+modifications or Service Bulletins
+(SBs). A new management process
+enables SBs to be taken into ac-
+count in the operational manuals,
+even before they are applied, as
+soon as airlines have accepted the
+SB and decided to incorporate the All DUs are no longer classified in
+modification. In this way, data for volumes, but are organized in a
+operational manuals can contain tree structure according to the type
+not only the current aircraft defi- of information. For instance, the
+nition, but also, in anticipation of structure of the FCOM is
+an SB retrofit, the definition of an organized according to the four
+SB (Pre/Post SB Management) after different types of information
+incorporation. (descriptions, procedures, limi-
+tations and performance) that can
+This Pre/Post SB Management currently be found in it. This
+does not apply to the approved structure, reflected in the OIS
+manuals (e.g. AFM, MMEL). navigation tree facilitates navi-
+gation within the manual and
+simplifies the task-oriented and
+contextual approach of the FCOM.
+13
+24
+TSAF
+OIS in the cockpit
+1 1
+2 3
+OPS data tool
+1
+OIT and additional keys
+eDoc on OIS direct information from the air-
+2 craft are not available when the do-
+Folded keyboard
+cumentation is consulted outside
+eDoc is designed to fit this new
+3 the aircraft.
+electronic format on the OIS.
+Keyboard
+This new format enables the
+eDoc structure
+introduction of a considerable
+number of new functions within
+the A380 operational documen- The first step of the eDoc imple-
+tation. In particular, these include: mentation for A380 was develop-
+• New, structured, electronic ment of specific tools at Airbus.
+documentation, This started in 2001 with the
+• A new Human Machine specification and development of
+Interface (HMI), tools to support the new format and
+• Enhanced consultation modes, all the main new features of the
+• Information layers, A380 ops documentation. These
+• Line and training-oriented tools, namely OPS DATA, enable
+development, the writing, management and
+• New revision processes and, production of the A380 eDoc.
+• Customization capabilities.
+The primary electronic format
+Operational manuals are also used developed for A380 operational
+outside the aircraft, in an office documentation is XML (Extensible
+or on a standalone computer for Markup Language) stored in the
+example. However, for training OPS DATA databank. The output
+and for operational efficiency is also a set of files in XML format,
+purposes, they will always be and is used as the basis for
+presented and used exactly in the electronic consultation and custo-
+same way, regardless of the support mization of data by airlines.
+that may be used to display them. The electronic manuals are structu-
+Only the functions that require red in Documentary Units (DUs).
+12
+24
+TSAF
+NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380 NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380
+the A380 programme development. The eDoc HMI is also defined in
+Therefore, due to its integration accordance with general OIS HMI
+within the A380 cockpit, Human rules, and in compliance with
+Factor considerations have been cockpit HMI rules.
+applied for its development. In addition, in the OIS platform
+certification or, more extensively, in
+Human Machine the cockpit HF certification
+process, special HF demonstrations
+Interface (HMI)
+for OIS applications, including
+eDoc have been run with a large
+With the fast growth of electronic variety of pilots from airlines,
+information for direct use by the authorities and Airbus.
+flight crew in performing their The eDoc and its operational use
+tasks in the cockpit, various was also evaluated in the generic
+stu-dies, directives and regulations operational approval of the OIS
+have been issued to provide Human applications conducted by Airbus.
+Factors (HF) considerations in This generic approval eases the
+developing and using electronic operational approval to use the
+documentation. electronic documentation that is
+required for each individual airline.
+Among all the published docu- In this way, an integrated Joint
+ments, the Federal Aviation Operational Evaluation Board
+Agency/Volpe Center document: (JOEB) made of representatives
+‘Human Factors Considerations in from the Federal Aviation Agency
+the Design and Evaluation of (FAA), European Aviation Safety
+Electronic Flight Bags’(ref DOT- Agency (EASA) and Transport
+VNTSC-FAA-006-22) provides an Canada evaluated the use of
+extensive reference for the the eDoc in an operational envi-
+development and definition of the ronment. From this, HF aspects
+A380’s eDoc HMI. were taken into consideration in
+15
+24
+TSAF
+From XML data This helps airlines cope with their eDoc on OIS and on ground
+From Airbus
+operational needs, offers them
+to the display on to the aircraft
+increased flexibility and facilitates Editing/management
+board the aircraft their workload and the reworking and publishing tools
+of Airbus data. In addition, it helps
+airlines benefit from all of the new Customization and publishing
+All DUs are produced in XML
+with the graphics in CGM; Airbus eDoc functions. AIRBUS
+multimedia objects are also
+All airlines manage and update
+incorporated as needed.
+their Airbus operational manuals in
+To cope with all possible needs, Raw data
+different ways, such as:
+the frequency of the exchange of XML format XML data
+revised data between airlines and
+• Used, as is, for line operations,
+Airbus is contractual with each
+or,
+airline defining how often they
+• Complemented by some
+need to receive revisions from
+other information, operations Pdf (e.g. for content validation
+Airbus. The shortest frequency
+manuals, or modified to suit purposes)
+is monthly. These customized
+operational needs, airline policy,
+revision frequencies provide air-
+or airworthiness requirements.
+lines with the possibility of
+Some of the reasons include:
+regularly obtaining eDoc revisions Airline data
+- To ensure fleet commonality,
+for updating documentation XML format
+- To specify the applicable
+onboard the aircraft and increases
+standards enforced
+the flexibility of the data
+by the airline,
+customization process. Furthermore, Airline
+- To comply with an applicable
+regard-less of which revision
+operational regulation
+frequency is selected, Airbus can
+(e.g. Joint Airworthiness
+also initiate revisions for the
+Requirements -JAR OPS-,
+dispatch of urgent information
+Federal Aviation Requirements
+(e.g. ‘real time’up-dates). For the
+part 121) and/or the need
+benefit of custo-mers, XML data
+for a local adaptation
+packages that are produced are
+of these regulations.
+available on the Airbus customer
+portal (AirbusWorld). The XML
+With these different variables,
+raw data are either:
+it is possible that not only the
+• Used as is for OIS consultation.
+structure of the manuals may
+In this case, the XML data
+change, but also the technical
+is simply converted into
+content. For some manuals this
+Hyper Text Markup Language
+customization is necessary and
+(HTML) format using
+even required by regulations, for
+a publisher tool developed
+example, to transition from the
+by Airbus: OPS PUBLISHER,
+Airbus MMEL to the airline’s
+• Used as source data
+Minimum Equipment List (MEL),
+for establishing a customized
+which is then modified according
+and in-house developed airline
+to local requirements.
+operating manual. In this case,
+airlines can use Airbus
+The editing, management and
+developed editing
+publishing tool has a function to
+and management tools
+publish the XML raw data in the
+(ADOC – Airbus Document
+consultable format of HTML. The
+system or FOSP – Flight
+end result of this is data ready for
+Operations Standard Package)
+loading into the OIS onboard the
+or their own XML tools
+aircraft. The OIS has a specific
+to customize the Airbus data
+application that has been defined
+as needed, or as required
+and developed by Airbus to display
+by their local authorities.
+the data on the OIS: The Flight Ops
+One of the greatest advantages of Consultation Tool (FOCT). This
+the A380 eDoc is its customization development has been made in
+capability. a fully integrated way within
+14
+24
+TSAF
+NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380 NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380
+the A380 programme development. The eDoc HMI is also defined in
+Therefore, due to its integration accordance with general OIS HMI
+within the A380 cockpit, Human rules, and in compliance with
+Factor considerations have been cockpit HMI rules.
+applied for its development. In addition, in the OIS platform
+certification or, more extensively, in
+Human Machine the cockpit HF certification
+process, special HF demonstrations
+Interface (HMI)
+for OIS applications, including
+eDoc have been run with a large
+With the fast growth of electronic variety of pilots from airlines,
+information for direct use by the authorities and Airbus.
+flight crew in performing their The eDoc and its operational use
+tasks in the cockpit, various was also evaluated in the generic
+stu-dies, directives and regulations operational approval of the OIS
+have been issued to provide Human applications conducted by Airbus.
+Factors (HF) considerations in This generic approval eases the
+developing and using electronic operational approval to use the
+documentation. electronic documentation that is
+required for each individual airline.
+Among all the published docu- In this way, an integrated Joint
+ments, the Federal Aviation Operational Evaluation Board
+Agency/Volpe Center document: (JOEB) made of representatives
+‘Human Factors Considerations in from the Federal Aviation Agency
+the Design and Evaluation of (FAA), European Aviation Safety
+Electronic Flight Bags’(ref DOT- Agency (EASA) and Transport
+VNTSC-FAA-006-22) provides an Canada evaluated the use of
+extensive reference for the the eDoc in an operational envi-
+development and definition of the ronment. From this, HF aspects
+A380’s eDoc HMI. were taken into consideration in
+15
+24
+TSAF
+From XML data This helps airlines cope with their eDoc on OIS and on ground
+From Airbus
+operational needs, offers them
+to the display on to the aircraft
+increased flexibility and facilitates Editing/management
+board the aircraft their workload and the reworking and publishing tools
+of Airbus data. In addition, it helps
+airlines benefit from all of the new Customization and publishing
+All DUs are produced in XML
+with the graphics in CGM; Airbus eDoc functions. AIRBUS
+multimedia objects are also
+All airlines manage and update
+incorporated as needed.
+their Airbus operational manuals in
+To cope with all possible needs, Raw data
+different ways, such as:
+the frequency of the exchange of XML format XML data
+revised data between airlines and
+• Used, as is, for line operations,
+Airbus is contractual with each
+or,
+airline defining how often they
+• Complemented by some
+need to receive revisions from
+other information, operations Pdf (e.g. for content validation
+Airbus. The shortest frequency
+manuals, or modified to suit purposes)
+is monthly. These customized
+operational needs, airline policy,
+revision frequencies provide air-
+or airworthiness requirements.
+lines with the possibility of
+Some of the reasons include:
+regularly obtaining eDoc revisions Airline data
+- To ensure fleet commonality,
+for updating documentation XML format
+- To specify the applicable
+onboard the aircraft and increases
+standards enforced
+the flexibility of the data
+by the airline,
+customization process. Furthermore, Airline
+- To comply with an applicable
+regard-less of which revision
+operational regulation
+frequency is selected, Airbus can
+(e.g. Joint Airworthiness
+also initiate revisions for the
+Requirements -JAR OPS-,
+dispatch of urgent information
+Federal Aviation Requirements
+(e.g. ‘real time’up-dates). For the
+part 121) and/or the need
+benefit of custo-mers, XML data
+for a local adaptation
+packages that are produced are
+of these regulations.
+available on the Airbus customer
+portal (AirbusWorld). The XML
+With these different variables,
+raw data are either:
+it is possible that not only the
+• Used as is for OIS consultation.
+structure of the manuals may
+In this case, the XML data
+change, but also the technical
+is simply converted into
+content. For some manuals this
+Hyper Text Markup Language
+customization is necessary and
+(HTML) format using
+even required by regulations, for
+a publisher tool developed
+example, to transition from the
+by Airbus: OPS PUBLISHER,
+Airbus MMEL to the airline’s
+• Used as source data
+Minimum Equipment List (MEL),
+for establishing a customized
+which is then modified according
+and in-house developed airline
+to local requirements.
+operating manual. In this case,
+airlines can use Airbus
+The editing, management and
+developed editing
+publishing tool has a function to
+and management tools
+publish the XML raw data in the
+(ADOC – Airbus Document
+consultable format of HTML. The
+system or FOSP – Flight
+end result of this is data ready for
+Operations Standard Package)
+loading into the OIS onboard the
+or their own XML tools
+aircraft. The OIS has a specific
+to customize the Airbus data
+application that has been defined
+as needed, or as required
+and developed by Airbus to display
+by their local authorities.
+the data on the OIS: The Flight Ops
+One of the greatest advantages of Consultation Tool (FOCT). This
+the A380 eDoc is its customization development has been made in
+capability. a fully integrated way within
+14
+24
+TSAF
+NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380 NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380
+a task-oriented access to information.
+Contextual access offers the flight
+crew an easy and rapid way of
+accessing information from the
+eDoc (particularly the FCOM and
+MMEL) without needing to know
+the manuals structure and/or where
+to look for relevant information
+as the eDoc finds it for them.
+This is automatically achieved via
+alerts that come from the ECAM
+(Electronic Centralized Aircraft
+Monitor). An ECAM alert is used
+by the OIS to automatically pre-
+select relevant information from
+the eDoc. For HF and certification
+reasons, the OIS does not automa-
+tically display the information so
+the flight crew can continue to
+concentrate on their basic tasks and
+are not distracted.
+They can access this pre-selected
+information when desired.
+In addition, if an ECAM alert has
+an impact on landing performance,
+the OIS LDG PERF application
+also receives this information so varied uses. Basically, flight crews
+that the flight crew can easily use the FCOM to perform their
+compute any performance impact. daily tasks. However, the FCOM is
+This automatic function will be also commonly used by airlines
+available on board aircraft with the for training purposes and by their
+OIS version available by April operations and scheduling per-
+2009. sonnel.
+The contextual access function The FCOM can also be used as a
+significantly reduces and even reference document for the creation
+virtually eliminates the time requi- of an Airlines Operations Manual
+red to search for and retrieve infor- (AOM). As such, it can be used as
+mation. Consequently, this enables is, or complemented, or even
+the flight crew to easily and readily reworked and customized with
+access information and respond more specific airline material (e.g.
+quickly to operational situations. airline policy, training philosophy,
+national requirements).
+INTERFACE SEARCH Airlines have therefore expressed
+varying needs for the level of
+Another access mode is the information that they would like
+interface search. By selecting a the FCOM to provide. To support
+panel on a cockpit diagram, the these needs, information layers are
+user can access information that re- now implemented in the A380
+lates to the panel. This function FCOM: up to three layers of
+will be available with the OIS ver- information are available and users
+sion available by April 2009. can filter this information in
+accordance with their needs and
+ENHANCED CONSULTATION the level of detail required. The
+FUNCTIONS A380 FCOM is directly written
+conside-ring these layers. Selection
+INFORMATION LAYERS of the layer desired for consultation
+is made via dedicated controls on
+Operational documentation, and the OIS and the function applies to
+particularly the FCOM, has many both text and graphics.
+17
+24
+TSAF
+defining the final roleof eDoc and ENHANCED CONSULTATION MODES
+Interface search
+its HMI, which was designed to
+help the end-users –flight crews– Various consultation modes and
+to access the correct information, search capabilities are available.
+at the right time, with the correct The eDoc can be consulted in a
+level of detail, and to provide the conventional way by steering Library Word search Interface search Index search Bookmarks
+right interface to easily navigate through the navigation tree in a INTERFACE SEARCH
+through the information. linear mode. With this, users can
+recognize the typical structure of
+Among the main HF criteria used flight ops manuals and select in the
+to define the eDoc HMI were: navigation tree the information
+Learning capacity, efficiency, cla- they need. Some of the other
+rity, consistency, safety… capabilities include:
+eDoc main new WORDSEARCH
+features
+The electronic format offers word
+search to find any information
+The eDoc electronic format offers containing the selected word(s).
+many possibilities for enhanced
+consultation and navigation within CONTEXTUAL ACCESS
+the flight ops manuals. It enables
+the introduction of attractive, use- One of the greatest advantages of
+ful and easy to use functions to the electronic format, due to its
+Three layers of information
+facilitate consultation and displays integration in the cockpit
+the information in an attractive environment, is the possibility to
+way in colour with realistic repre- receive data from the aircraft
+Contextual access sentations of aircraft displays and avionics systems. This is known as (cid:1)Layer 1provides ‘need to know’
+pilot’s interfaces. contextual access and permits information:Typically,this is the
+minimum amount of information
+necessary for the flight crew in
+operations and basically corre-
+sponds to information they need
+to know for their initial training.
+Computer Based Training (CBT)
+contains almost the same level of
+information
+(cid:1)Layer 2provides ‘nice to know’
+information:This can be used
+as reference for the flight crew
+to fully understand the logic
+of the aircraft-pilot interface
+(cid:1)Layer 3provides ‘detailed
+information’:This is not likely
+to be used in flight,but provides
+more expertise,rationale and
+explanation with clarification and
+amplification material that can be
+used at an airline’s discretion
+16
+24
+TSAF
+NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380 NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380
+a task-oriented access to information.
+Contextual access offers the flight
+crew an easy and rapid way of
+accessing information from the
+eDoc (particularly the FCOM and
+MMEL) without needing to know
+the manuals structure and/or where
+to look for relevant information
+as the eDoc finds it for them.
+This is automatically achieved via
+alerts that come from the ECAM
+(Electronic Centralized Aircraft
+Monitor). An ECAM alert is used
+by the OIS to automatically pre-
+select relevant information from
+the eDoc. For HF and certification
+reasons, the OIS does not automa-
+tically display the information so
+the flight crew can continue to
+concentrate on their basic tasks and
+are not distracted.
+They can access this pre-selected
+information when desired.
+In addition, if an ECAM alert has
+an impact on landing performance,
+the OIS LDG PERF application
+also receives this information so varied uses. Basically, flight crews
+that the flight crew can easily use the FCOM to perform their
+compute any performance impact. daily tasks. However, the FCOM is
+This automatic function will be also commonly used by airlines
+available on board aircraft with the for training purposes and by their
+OIS version available by April operations and scheduling per-
+2009. sonnel.
+The contextual access function The FCOM can also be used as a
+significantly reduces and even reference document for the creation
+virtually eliminates the time requi- of an Airlines Operations Manual
+red to search for and retrieve infor- (AOM). As such, it can be used as
+mation. Consequently, this enables is, or complemented, or even
+the flight crew to easily and readily reworked and customized with
+access information and respond more specific airline material (e.g.
+quickly to operational situations. airline policy, training philosophy,
+national requirements).
+INTERFACE SEARCH Airlines have therefore expressed
+varying needs for the level of
+Another access mode is the information that they would like
+interface search. By selecting a the FCOM to provide. To support
+panel on a cockpit diagram, the these needs, information layers are
+user can access information that re- now implemented in the A380
+lates to the panel. This function FCOM: up to three layers of
+will be available with the OIS ver- information are available and users
+sion available by April 2009. can filter this information in
+accordance with their needs and
+ENHANCED CONSULTATION the level of detail required. The
+FUNCTIONS A380 FCOM is directly written
+conside-ring these layers. Selection
+INFORMATION LAYERS of the layer desired for consultation
+is made via dedicated controls on
+Operational documentation, and the OIS and the function applies to
+particularly the FCOM, has many both text and graphics.
+17
+24
+TSAF
+defining the final roleof eDoc and ENHANCED CONSULTATION MODES
+Interface search
+its HMI, which was designed to
+help the end-users –flight crews– Various consultation modes and
+to access the correct information, search capabilities are available.
+at the right time, with the correct The eDoc can be consulted in a
+level of detail, and to provide the conventional way by steering Library Word search Interface search Index search Bookmarks
+right interface to easily navigate through the navigation tree in a INTERFACE SEARCH
+through the information. linear mode. With this, users can
+recognize the typical structure of
+Among the main HF criteria used flight ops manuals and select in the
+to define the eDoc HMI were: navigation tree the information
+Learning capacity, efficiency, cla- they need. Some of the other
+rity, consistency, safety… capabilities include:
+eDoc main new WORDSEARCH
+features
+The electronic format offers word
+search to find any information
+The eDoc electronic format offers containing the selected word(s).
+many possibilities for enhanced
+consultation and navigation within CONTEXTUAL ACCESS
+the flight ops manuals. It enables
+the introduction of attractive, use- One of the greatest advantages of
+ful and easy to use functions to the electronic format, due to its
+Three layers of information
+facilitate consultation and displays integration in the cockpit
+the information in an attractive environment, is the possibility to
+way in colour with realistic repre- receive data from the aircraft
+Contextual access sentations of aircraft displays and avionics systems. This is known as (cid:1)Layer 1provides ‘need to know’
+pilot’s interfaces. contextual access and permits information:Typically,this is the
+minimum amount of information
+necessary for the flight crew in
+operations and basically corre-
+sponds to information they need
+to know for their initial training.
+Computer Based Training (CBT)
+contains almost the same level of
+information
+(cid:1)Layer 2provides ‘nice to know’
+information:This can be used
+as reference for the flight crew
+to fully understand the logic
+of the aircraft-pilot interface
+(cid:1)Layer 3provides ‘detailed
+information’:This is not likely
+to be used in flight,but provides
+more expertise,rationale and
+explanation with clarification and
+amplification material that can be
+used at an airline’s discretion
+16
+24
+TSAF
+NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380
+OTHER ADVANCED CONSULTATION
+FUNCTIONS
+Taking advantage of the electronic
+format, various advanced consul-
+tation functions are implemented
+in the A380 eDoc to enhance
+consultation and ease navigation
+within the whole flight ops docu-
+mentation and include:
+LINKS
+Each eDoc manual is no longer
+consulted as a standalone manual.
+Users can directly navigate from
+one manual to any other linked
+manual or operational application.
+For instance, links between the
+FCOM abnormal procedures and
+the MMEL enable easy assess of
+dispatch conditions for associated
+failures. For MMEL items with
+a performance impact, the relevant
+performance application is linked
+to the MMEL item to ease perfor-
+mance computation in a degraded
+configuration. These links between
+the ops manuals or applications
+enable flight crews to quickly and
+easily navigate between them. In
+addition, and most importantly,
+they not only reduce the flight
+crew’s workload by preventing mu-
+ltiple data entries, but also in-
+crease accuracy and safety by
+preventing sources of errors from
+such multiple data entries.
+MULTIMEDIA/INTERACTIVE ZONES
+The flight ops manuals and parti-
+cularly the FCOM description
+part is mainly constructed around
+graphics with interactive zones. By
+clicking on these zones users can
+access any information for this part
+of the graphic.
+SOUNDS
+The FCOM also includes all
+sounds that can be generated
+by the aircraft systems (e.g. Flight
+Warning System or Surveillance
+System) and some videos (e.g., to
+show sequences of actions).
+19
+24
+TSAF
+NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380
+Interactive zones
+Information layers
+in the FCOM
+1
+2
+3
+Example:
+Aircraft systems
+oxygen
+Layer 1 information
+Layer 2 information
+Audio and video
+in the FCOM
+Layer 3 information
+From paper to electronic
+performance data
+PERFORMANCE INFORMATION However, this did not preclude the
+use of some paper performance
+Performance information and data information, e.g. for in-flight
+are also part of the FCOM. performance.
+In the paper FCOM the per-
+formance sections are made of The A380 FCOM and OIS go
+basic operational performance beyond this with no need for paper
+information together with a suite of performance data. All the charts
+performance charts and tables for previously available in the FCOM
+takeoff, landing and in-flight are replaced by performance
+performance. applications. To ensure full
+coverage of performance data in
+In the LPC, and for airlines having electronic format, a new perfor-
+implemented it, takeoff and landing mance application, the ‘In-Flight
+performance was already available Per-formance Application’ has
+in electronic format with the LPC been created.
+takeoff and landing modules.
+18
+24
+TSAF
+NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380
+OTHER ADVANCED CONSULTATION
+FUNCTIONS
+Taking advantage of the electronic
+format, various advanced consul-
+tation functions are implemented
+in the A380 eDoc to enhance
+consultation and ease navigation
+within the whole flight ops docu-
+mentation and include:
+LINKS
+Each eDoc manual is no longer
+consulted as a standalone manual.
+Users can directly navigate from
+one manual to any other linked
+manual or operational application.
+For instance, links between the
+FCOM abnormal procedures and
+the MMEL enable easy assess of
+dispatch conditions for associated
+failures. For MMEL items with
+a performance impact, the relevant
+performance application is linked
+to the MMEL item to ease perfor-
+mance computation in a degraded
+configuration. These links between
+the ops manuals or applications
+enable flight crews to quickly and
+easily navigate between them. In
+addition, and most importantly,
+they not only reduce the flight
+crew’s workload by preventing mu-
+ltiple data entries, but also in-
+crease accuracy and safety by
+preventing sources of errors from
+such multiple data entries.
+MULTIMEDIA/INTERACTIVE ZONES
+The flight ops manuals and parti-
+cularly the FCOM description
+part is mainly constructed around
+graphics with interactive zones. By
+clicking on these zones users can
+access any information for this part
+of the graphic.
+SOUNDS
+The FCOM also includes all
+sounds that can be generated
+by the aircraft systems (e.g. Flight
+Warning System or Surveillance
+System) and some videos (e.g., to
+show sequences of actions).
+19
+24
+TSAF
+NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380
+Interactive zones
+Information layers
+in the FCOM
+1
+2
+3
+Example:
+Aircraft systems
+oxygen
+Layer 1 information
+Layer 2 information
+Audio and video
+in the FCOM
+Layer 3 information
+From paper to electronic
+performance data
+PERFORMANCE INFORMATION However, this did not preclude the
+use of some paper performance
+Performance information and data information, e.g. for in-flight
+are also part of the FCOM. performance.
+In the paper FCOM the per-
+formance sections are made of The A380 FCOM and OIS go
+basic operational performance beyond this with no need for paper
+information together with a suite of performance data. All the charts
+performance charts and tables for previously available in the FCOM
+takeoff, landing and in-flight are replaced by performance
+performance. applications. To ensure full
+coverage of performance data in
+In the LPC, and for airlines having electronic format, a new perfor-
+implemented it, takeoff and landing mance application, the ‘In-Flight
+performance was already available Per-formance Application’ has
+in electronic format with the LPC been created.
+takeoff and landing modules.
+18
+24
+TSAF
+NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380 FUEL SYSTEM WATER MANAGEMENT - A330/A340 ENHANCEMENTS
+Since the entry into service of the A330 and the aircraft Fuel Quantity Indication System
+A340 aircraft in the early 90’s the aircraft (FQIS). Industry-wide, the major threat to FQIS
+utilization rate has increased by over 10%, availability is microbiological contamination of
+reducing the time available for maintenance the fuel (see FAST 38) and water in the fuel tanks.
+activities (refer to aircraft utilization rate chart on Settled water in the fuel tanks may affect FQIS
+next page). The Maintenance Planning Document indications, typically driving FQIS probe readings
+for the aircraft has a minimum interval of weekly out of limits and leading to aircraft delays for tank
+for draining the A330/A340 aircraft fuel tanks of draining. Therefore, a regular water drain task
+settled water, which can be difficult to achieve in is essential for smooth aircraft operations.
+the reduced maintenance time and can lead to Responding to airline needs for increased aircraft
+accumulation of water in the tanks causing utilization and regular maintenance actions Airbus
+problems and aircraft delays. In the frame of the has developed solutions, which will help to extend
+continuous improvement programme, Airbus is the water drain task interval on A330/A340 Family
+focused on optimizing aircraft availability and aircraft. This article explains the issues and
+reducing maintenance costs for airlines. A key solutions for fuel system water management
+enabler for aircraft dispatch is the availability of enhancement.
+Laurent ARIS
+Group Manager - Fuel Systems
+Customer Services Engineering
+Airbus Customer Services
+21
+24
+TSAF
+PERSONAL NOTES each Documentary Unit and can be
+easily retrieved via the navigation
+In some cases flight crews may tree, which automatically creates a
+need to add personal notes on the specific chapter with all notes
+manuals for their own records, so available. Additionally, the notes
+the manuals provide an annotating can be exported for sharing with
+function. The notes are attached to other users.
+Notes in the flight ops
+manuals
+Fuel system
+water management
+CONTACT DETAILS
+Francis PAYEUR
+Director A380/A350/A400M A330/A340 enhancements
+Operational standards
+Flight Operations Support
+and Services
+Tel:33 (0)5 61 93 30 29
+Fax:33 (0)5 61 93 29 68
+Conclusion
+francis.payeur@airbus.com
+Previous paper operational documents by the new opportunities offered by A380
+suffered from disadvantages in consulting systems and electronic documents
+in an operational or training environment to enable a much better integration of task
+and also in the time, process oriented operational documentation
+and frequency of updating with revisions, in the cockpit. Customer satisfaction
+the difficulty of integrating airline was a prime objective for the new A380
+and Airbus content and various others. flight operational documentation so
+When electronic documents became airlines were deeply involved from
+available, with the introduction of the the beginning, particularly in the FCOM,
+Airbus LPC, they offered opportunities to FCTM and MMEL.
+reduce these disadvantages. These were The A380 operational documentation
+a first step towards a new concept is setting new standards for ease of use,
+of flight operations documentation. functionality, airline and Airbus data
+Now, the advanced technology of the integration and numerous others.
+A380 enables a further step to be made This will be beneficial for existing and
+with an enhanced concept of electronic future projects such as the A400M and the
+operational documentation that can be A350 XWB. In addition, it will benefit the
+displayed on the OIS of the aircraft. evolving Airbus ‘Going Digital’ project for
+This new concept benefits from the the A320, A330/A340 families and will
+experience gained by the airlines help operational documentation to cruise
+and Airbus with the LPC and is enriched to new heights of usability.
+20
+24
+TSAF
+NEW FLIGHT OPERATIONS DOCUMENTATION FOR THE A380 FUEL SYSTEM WATER MANAGEMENT - A330/A340 ENHANCEMENTS
+Since the entry into service of the A330 and the aircraft Fuel Quantity Indication System
+A340 aircraft in the early 90’s the aircraft (FQIS). Industry-wide, the major threat to FQIS
+utilization rate has increased by over 10%, availability is microbiological contamination of
+reducing the time available for maintenance the fuel (see FAST 38) and water in the fuel tanks.
+activities (refer to aircraft utilization rate chart on Settled water in the fuel tanks may affect FQIS
+next page). The Maintenance Planning Document indications, typically driving FQIS probe readings
+for the aircraft has a minimum interval of weekly out of limits and leading to aircraft delays for tank
+for draining the A330/A340 aircraft fuel tanks of draining. Therefore, a regular water drain task
+settled water, which can be difficult to achieve in is essential for smooth aircraft operations.
+the reduced maintenance time and can lead to Responding to airline needs for increased aircraft
+accumulation of water in the tanks causing utilization and regular maintenance actions Airbus
+problems and aircraft delays. In the frame of the has developed solutions, which will help to extend
+continuous improvement programme, Airbus is the water drain task interval on A330/A340 Family
+focused on optimizing aircraft availability and aircraft. This article explains the issues and
+reducing maintenance costs for airlines. A key solutions for fuel system water management
+enabler for aircraft dispatch is the availability of enhancement.
+Laurent ARIS
+Group Manager - Fuel Systems
+Customer Services Engineering
+Airbus Customer Services
+21
+24
+TSAF
+PERSONAL NOTES each Documentary Unit and can be
+easily retrieved via the navigation
+In some cases flight crews may tree, which automatically creates a
+need to add personal notes on the specific chapter with all notes
+manuals for their own records, so available. Additionally, the notes
+the manuals provide an annotating can be exported for sharing with
+function. The notes are attached to other users.
+Notes in the flight ops
+manuals
+Fuel system
+water management
+CONTACT DETAILS
+Francis PAYEUR
+Director A380/A350/A400M A330/A340 enhancements
+Operational standards
+Flight Operations Support
+and Services
+Tel:33 (0)5 61 93 30 29
+Fax:33 (0)5 61 93 29 68
+Conclusion
+francis.payeur@airbus.com
+Previous paper operational documents by the new opportunities offered by A380
+suffered from disadvantages in consulting systems and electronic documents
+in an operational or training environment to enable a much better integration of task
+and also in the time, process oriented operational documentation
+and frequency of updating with revisions, in the cockpit. Customer satisfaction
+the difficulty of integrating airline was a prime objective for the new A380
+and Airbus content and various others. flight operational documentation so
+When electronic documents became airlines were deeply involved from
+available, with the introduction of the the beginning, particularly in the FCOM,
+Airbus LPC, they offered opportunities to FCTM and MMEL.
+reduce these disadvantages. These were The A380 operational documentation
+a first step towards a new concept is setting new standards for ease of use,
+of flight operations documentation. functionality, airline and Airbus data
+Now, the advanced technology of the integration and numerous others.
+A380 enables a further step to be made This will be beneficial for existing and
+with an enhanced concept of electronic future projects such as the A400M and the
+operational documentation that can be A350 XWB. In addition, it will benefit the
+displayed on the OIS of the aircraft. evolving Airbus ‘Going Digital’ project for
+This new concept benefits from the the A320, A330/A340 families and will
+experience gained by the airlines help operational documentation to cruise
+and Airbus with the LPC and is enriched to new heights of usability.
+20
+Daily utilisation (FH total)
+FH
+Linear (Daily utilisation FH total)
+14
+13
+12
+11
+10
+09
+03.1993 03.1994 03.1995 03.1996 03.1997 03.1998 03.1999 03.2000 03.2001 03.2002 03.2003 03.2004 03.2005 03.2006 03.2007 03.2008
+Month/Year
+24
+TSAF
+FUEL SYSTEM WATER MANAGEMENT - A330/A340 ENHANCEMENTS
+Moreover, in cold weather ope- of this area. The water scavenged
+rations (below 0°C), as the water by this new pipe is re-circulated
+drain valves are located in the within the collector cells through
+lower part of the fuel tanks where the existing fuel transfer system.
+water accumulates, there is a risk Once there, the water is blended
+of frozen water around the drain with jet fuel and this, with the
+valves, which would prevent the water in suspension, is then consu-
+water from being drained. med by the engines via the fuel
+Microbiological contamination may feed system, thus eliminating the
+also develop at the fuel/water water from the tank.
+interface (see FAST 38) and if
+water is left un-drained in the fuel A330/A340 COLLECTOR
+tanks it may contribute to an CELL ENHANCEMENT
+increased risk of microbiological
+contamination. Considering these The A330 and A340 collector cell
+factors in the continuous impro- is a local fuel reservoir inside the
+vement programme, Airbus has wing tank that ensures the fuel
+developed solutions to enhance the pumps are always immersed in fuel
+efficiency of the fuel tank water in any flight conditions. The modi-
+drain and scavenge system. fication for this extends the current
+water scavenge pipe and adds a
+Water drain new remote pick-up pipe for the
+water drain valve. Similar to the
+and scavenge
+Rib 1 modification, the collector
+enhancements cell water scavenge pipe will draw
+water from the collector cell low-
+point. The water scavenged by this
+A330/A340 RIB 1 ENHANCEMENT new pipe is re-circulated within the
+collector cells where the water is
+The modification for this consists blended with jet fuel and then
+of a new water scavenge pipe that consumed by the engines via the
+draws water from the low point fuel feed system.
+23
+24
+TSAF
+FUEL SYSTEM WATER MANAGEMENT - A330/A340 ENHANCEMENTS
+1 Aircraft utilization rate 4 5 Rib 1 modification
+Rib 1
+New water
+scavenge pipe
+4
+Rib 1 New water
+scavenge pipe
+Fuel Quantity increases. Fuel density is mea-
+2 sured using the fuel dielectric
+Wing plan view Indication System
+value or variations with the speed
+of sound. The FQIS uses the 5
+volume and density values to
+The Fuel Quantity Indication
+calculate the mass (kg or lb).
+System (FQIS) measures the
+New water
+quantity of fuel in each of the scavenge pipe
+Effect of water
+aircraft fuel tanks. It displays this
+information on the flight deck, in the fuel tanks
+providing indication of the Fuel
+on Board (FOB) and, via the
+Electronic Centralized Aircraft The FQIS system is calibrated for 3 A340 rib 1 and collector Rib 2
+Area of change
+Monitoring (ECAM) Systems use with jet fuel and the probes cell modification locations or Rib 3
+4 5
+display, the individual tank quan- measure from 'unusable' to full Inside
+tities. On the A330/A340 fleet the tank capacity. However, the RIB 1 collector cell Collector cell
+clack valve
+data is also used for the auto- dielectric of water is approxi-
+transfer functions e.g. CG (Centre mately eight times higher than the 6
+of Gravity) control. jet fuel dielectric. Therefore, when
+Airbus aircraft use a capacitance there is water in the proximity of
+6
+Fuel Quantity Indication (FQI) the probes, the fuel measured capa- Collector cell modification
+6 7 scavenge pipe
+system to measure the fuel level citance changes. Typically, the
+(volume) within the aircraft fuel probes will read a higher capa- The new water scavenge pipe
+tanks. citance level than the actual fuel Collector cell will allow clearance
+of water from under
+See figure 3 Vertical probes located throughout level. In some cases the measured 2(3) the two existing FQI
+for A340 details the tanks measure the fuel level in capacitance of the probe will over- C e n probes of the
+and figure 8 for A330 details t
+c
+h
+o
+e
+n c
+t
+e
+a
+n
+n
+t
+k
+ri
+s
+c
+.
+a
+E
+lu
+a
+m
+ch
+i ni
+p
+u
+r
+m
+ob e
+tu b
+h
+e
+a
+s
+s
+. T
+tw
+h
+o
+e
+r
+b
+e
+o
+a
+u
+d
+r in
+o
+g
+r
+re
+'d
+ad
+is
+i
+a
+n
+g
+g
+r
+.
+e
+A
+e'
+t a
+w
+n
+i
+a
+th
+ir c
+a
+ra f
+n
+t
+e
+le
+ig
+v
+h
+e
+-
+l
+te r
+s p a
+To
+e n
+N
+g
+°
+i n
+2
+e
+(3)
+6 7
+collector cells.
+r
+open ends of the tubes allow the in the cockpit, a key symptom of
+fuel to move freely between the presence of water in fuel is Collector cell
+1(4)
+tubes. The fuel/air ratio within the degraded or failed (XXX) fuel
+probe is the capacitor dielectric; as quantity indication.
+the fuel level changes, so does In some cases aircraft dispatch
+the probe capacitance. When the may be limited by the status of the
+probe is dry, the capacitance value FQI display (see the Airbus Master
+is low, but as fuel moves up Minimum Equipment List or
+RIB 4
+the probe the capacitance value airline Minimum Equipment List). To N° 1(4) engine
+22
+Daily utilisation (FH total)
+FH
+Linear (Daily utilisation FH total)
+14
+13
+12
+11
+10
+09
+03.1993 03.1994 03.1995 03.1996 03.1997 03.1998 03.1999 03.2000 03.2001 03.2002 03.2003 03.2004 03.2005 03.2006 03.2007 03.2008
+Month/Year
+24
+TSAF
+FUEL SYSTEM WATER MANAGEMENT - A330/A340 ENHANCEMENTS
+Moreover, in cold weather ope- of this area. The water scavenged
+rations (below 0°C), as the water by this new pipe is re-circulated
+drain valves are located in the within the collector cells through
+lower part of the fuel tanks where the existing fuel transfer system.
+water accumulates, there is a risk Once there, the water is blended
+of frozen water around the drain with jet fuel and this, with the
+valves, which would prevent the water in suspension, is then consu-
+water from being drained. med by the engines via the fuel
+Microbiological contamination may feed system, thus eliminating the
+also develop at the fuel/water water from the tank.
+interface (see FAST 38) and if
+water is left un-drained in the fuel A330/A340 COLLECTOR
+tanks it may contribute to an CELL ENHANCEMENT
+increased risk of microbiological
+contamination. Considering these The A330 and A340 collector cell
+factors in the continuous impro- is a local fuel reservoir inside the
+vement programme, Airbus has wing tank that ensures the fuel
+developed solutions to enhance the pumps are always immersed in fuel
+efficiency of the fuel tank water in any flight conditions. The modi-
+drain and scavenge system. fication for this extends the current
+water scavenge pipe and adds a
+Water drain new remote pick-up pipe for the
+water drain valve. Similar to the
+and scavenge
+Rib 1 modification, the collector
+enhancements cell water scavenge pipe will draw
+water from the collector cell low-
+point. The water scavenged by this
+A330/A340 RIB 1 ENHANCEMENT new pipe is re-circulated within the
+collector cells where the water is
+The modification for this consists blended with jet fuel and then
+of a new water scavenge pipe that consumed by the engines via the
+draws water from the low point fuel feed system.
+23
+24
+TSAF
+FUEL SYSTEM WATER MANAGEMENT - A330/A340 ENHANCEMENTS
+1 Aircraft utilization rate 4 5 Rib 1 modification
+Rib 1
+New water
+scavenge pipe
+4
+Rib 1 New water
+scavenge pipe
+Fuel Quantity increases. Fuel density is mea-
+2 sured using the fuel dielectric
+Wing plan view Indication System
+value or variations with the speed
+of sound. The FQIS uses the 5
+volume and density values to
+The Fuel Quantity Indication
+calculate the mass (kg or lb).
+System (FQIS) measures the
+New water
+quantity of fuel in each of the scavenge pipe
+Effect of water
+aircraft fuel tanks. It displays this
+information on the flight deck, in the fuel tanks
+providing indication of the Fuel
+on Board (FOB) and, via the
+Electronic Centralized Aircraft The FQIS system is calibrated for 3 A340 rib 1 and collector Rib 2
+Area of change
+Monitoring (ECAM) Systems use with jet fuel and the probes cell modification locations or Rib 3
+4 5
+display, the individual tank quan- measure from 'unusable' to full Inside
+tities. On the A330/A340 fleet the tank capacity. However, the RIB 1 collector cell Collector cell
+clack valve
+data is also used for the auto- dielectric of water is approxi-
+transfer functions e.g. CG (Centre mately eight times higher than the 6
+of Gravity) control. jet fuel dielectric. Therefore, when
+Airbus aircraft use a capacitance there is water in the proximity of
+6
+Fuel Quantity Indication (FQI) the probes, the fuel measured capa- Collector cell modification
+6 7 scavenge pipe
+system to measure the fuel level citance changes. Typically, the
+(volume) within the aircraft fuel probes will read a higher capa- The new water scavenge pipe
+tanks. citance level than the actual fuel Collector cell will allow clearance
+of water from under
+See figure 3 Vertical probes located throughout level. In some cases the measured 2(3) the two existing FQI
+for A340 details the tanks measure the fuel level in capacitance of the probe will over- C e n probes of the
+and figure 8 for A330 details t
+c
+h
+o
+e
+n c
+t
+e
+a
+n
+n
+t
+k
+ri
+s
+c
+.
+a
+E
+lu
+a
+m
+ch
+i ni
+p
+u
+r
+m
+ob e
+tu b
+h
+e
+a
+s
+s
+. T
+tw
+h
+o
+e
+r
+b
+e
+o
+a
+u
+d
+r in
+o
+g
+r
+re
+'d
+ad
+is
+i
+a
+n
+g
+g
+r
+.
+e
+A
+e'
+t a
+w
+n
+i
+a
+th
+ir c
+a
+ra f
+n
+t
+e
+le
+ig
+v
+h
+e
+-
+l
+te r
+s p a
+To
+e n
+N
+g
+°
+i n
+2
+e
+(3)
+6 7
+collector cells.
+r
+open ends of the tubes allow the in the cockpit, a key symptom of
+fuel to move freely between the presence of water in fuel is Collector cell
+1(4)
+tubes. The fuel/air ratio within the degraded or failed (XXX) fuel
+probe is the capacitor dielectric; as quantity indication.
+the fuel level changes, so does In some cases aircraft dispatch
+the probe capacitance. When the may be limited by the status of the
+probe is dry, the capacitance value FQI display (see the Airbus Master
+is low, but as fuel moves up Minimum Equipment List or
+RIB 4
+the probe the capacitance value airline Minimum Equipment List). To N° 1(4) engine
+22
+25
+24
+TSAF
+FUEL SYSTEM WATER MANAGEMENT - A330/A340 ENHANCEMENTS FUEL SYSTEM WATER MANAGEMENT - A330/A340 ENHANCEMENTS
+This modification improves water in-service aircraft during summer
+scavenge in the rib 3 area and 2007, evaluated in normal airline
+reduces the quantity of settling operations for six months and the
+water. results are now available to airlines.
+In-service
+The evaluation showed a reduction
+evaluation of up to 80% of the quantity of
+water drained, as shown in the
+and results chart below. Therefore, this modi-
+fication has proven effective and
+The A340 water scavenge modi- enables escalation of the water
+fications were installed on two drain task interval.
+25
+24
+TSAF
+7 A330 RIB 3 ENHANCEMENT
+Collector cell modification
+Water drain remote pickup pipe
+Additional modifications have been
+developed for the A330 Rib 3 area.
+These introduce a water scavenge
+jet pump, with an induced flow
+Rib 2
+line to the rib bay 3-4 tank sump.
+or Rib 3 The water scavenge jet pump
+New water drain
+Inside remote pickup pipe receives motive flow from the collector cell
+standby feed pump.
+This modification does not
+interfere with the existing standby
+feed pump operation and does not
+require modification to the existing 10
+7 In-service evaluation results
+circuitry. The additional electrical
+components allow the stand by
+feed pump to be automatically Weekly drained Pre MOD
+9
+A330 Rib 3 operated. The stand by pump water (litres) Post MOD
+Water scavenge jet pump operates when the aircraft is on the
+ground, both main pumps have
+1.4
+Rib 3 been selected and engines are
+above idle. The electrical modi- 1.2
+fication allows normal stand by
+feed pump operation (when main 1.0
+A330
+Stand-by pump pumps fail) or on normal pump 0.8 -80%
+Water scavenge selection and any failure, of
+jet pump components introduced the 0.6
+scavenge cycle without interference
+of the normal pump control 0.4
+system.
+0.2
+9
+0.0
+CONTACT DETAILS
+Outboard Collector Cell Inboard Collector Cell Inner FWD
+Laurent ARIS
+8 A330 rib 1,collector cell Group Manager - Fuel Systems
+4 5 and rib 3 modification Customer Services Engineering
+RIB 1 Airbus Customer Services
+Phone:+33 (0)5 67 19 10 98
+Fax:+33 (0)5 61 93 36 14
+Collector laurent.aris@airbus.com
+cell Conclusion
+Flap valves
+6 7 (ref only)
+Water drainage has a significant impact significantly reduces the risk
+on the maintenance burden and grounding of microbiological contamination
+time for airlines. Therefore, Airbus developing within the tanks
+developed specific modifications and the costly maintenance and
+for locations where the highest quantity grounding activities associated
+To N° 1(2)
+of water has been accumulating. with its removal (see FAST 38).
+engine
+9 Tests and an in-service evaluation The evaluation indicated that the cost
+C RIB 3 have been performed and results support of these modifications would be recovered
+e
+n te water drain task escalation from in approximately 18 months for
+r
+s weekly to A-Check for aircraft A330 aircraft and less for A340 aircraft,
+p
+a r with the modifications incorporated. providing a clear benefit for airlines
+Flap valves
+An additional benefit is that minimizing in reduced maintenance activities
+(ref only)
+water content in the aircraft fuel tanks and improved operations of their aircraft.
+RIB 4
+24
+25
+24
+TSAF
+FUEL SYSTEM WATER MANAGEMENT - A330/A340 ENHANCEMENTS FUEL SYSTEM WATER MANAGEMENT - A330/A340 ENHANCEMENTS
+This modification improves water in-service aircraft during summer
+scavenge in the rib 3 area and 2007, evaluated in normal airline
+reduces the quantity of settling operations for six months and the
+water. results are now available to airlines.
+In-service
+The evaluation showed a reduction
+evaluation of up to 80% of the quantity of
+water drained, as shown in the
+and results chart below. Therefore, this modi-
+fication has proven effective and
+The A340 water scavenge modi- enables escalation of the water
+fications were installed on two drain task interval.
+25
+24
+TSAF
+7 A330 RIB 3 ENHANCEMENT
+Collector cell modification
+Water drain remote pickup pipe
+Additional modifications have been
+developed for the A330 Rib 3 area.
+These introduce a water scavenge
+jet pump, with an induced flow
+Rib 2
+line to the rib bay 3-4 tank sump.
+or Rib 3 The water scavenge jet pump
+New water drain
+Inside remote pickup pipe receives motive flow from the collector cell
+standby feed pump.
+This modification does not
+interfere with the existing standby
+feed pump operation and does not
+require modification to the existing 10
+7 In-service evaluation results
+circuitry. The additional electrical
+components allow the stand by
+feed pump to be automatically Weekly drained Pre MOD
+9
+A330 Rib 3 operated. The stand by pump water (litres) Post MOD
+Water scavenge jet pump operates when the aircraft is on the
+ground, both main pumps have
+1.4
+Rib 3 been selected and engines are
+above idle. The electrical modi- 1.2
+fication allows normal stand by
+feed pump operation (when main 1.0
+A330
+Stand-by pump pumps fail) or on normal pump 0.8 -80%
+Water scavenge selection and any failure, of
+jet pump components introduced the 0.6
+scavenge cycle without interference
+of the normal pump control 0.4
+system.
+0.2
+9
+0.0
+CONTACT DETAILS
+Outboard Collector Cell Inboard Collector Cell Inner FWD
+Laurent ARIS
+8 A330 rib 1,collector cell Group Manager - Fuel Systems
+4 5 and rib 3 modification Customer Services Engineering
+RIB 1 Airbus Customer Services
+Phone:+33 (0)5 67 19 10 98
+Fax:+33 (0)5 61 93 36 14
+Collector laurent.aris@airbus.com
+cell Conclusion
+Flap valves
+6 7 (ref only)
+Water drainage has a significant impact significantly reduces the risk
+on the maintenance burden and grounding of microbiological contamination
+time for airlines. Therefore, Airbus developing within the tanks
+developed specific modifications and the costly maintenance and
+for locations where the highest quantity grounding activities associated
+To N° 1(2)
+of water has been accumulating. with its removal (see FAST 38).
+engine
+9 Tests and an in-service evaluation The evaluation indicated that the cost
+C RIB 3 have been performed and results support of these modifications would be recovered
+e
+n te water drain task escalation from in approximately 18 months for
+r
+s weekly to A-Check for aircraft A330 aircraft and less for A340 aircraft,
+p
+a r with the modifications incorporated. providing a clear benefit for airlines
+Flap valves
+An additional benefit is that minimizing in reduced maintenance activities
+(ref only)
+water content in the aircraft fuel tanks and improved operations of their aircraft.
+RIB 4
+24
+24
+TSAF
+BLUE-ICE RUNWAY OPERATIONS - AIRBUS ACJ TO ANTARCTICA BLUE-ICE RUNWAY OPERATIONS - AIRBUS ACJ TO ANTARCTICA
+27
+24
+TSAF
+Operations Landing at night when the temper-
+atures are lower means that the ice
+runway will have a better surface (cid:1)Midnight sun:
+It is approaching midnight in
+coefficient of friction. There are the Earth’s tilt means 24 hours
+Australia, and Captain Garry
+about 2,500 feet of ice underneath a day of sunlight in summer
+Studd is preparing to fly a group of
+the runway, and solid ground in the southern polar region.
+research scientists in Skytraders’
+underneath that – unlike the Arctic,
+Airbus Corporate Jetliner (ACJ)
+where there is only ice – but it is, of
+to Antarctica. The flight takes just
+course, the ice on the surface that
+over four and a half hours, so it
+matters. Much about the Antarctic
+means a landing in the middle of
+is impressive. Some 80 per cent of
+the night - albeit in daylight,
+the world’s fresh water is locked up
+be-cause of the midnight sun.
+in its ice, and it is one of the
+world’s coldest, loneliest, most
+Why not during more civilised
+beautiful and most unspoiled
+hours? The reason is to have a
+places.
+colder temperature on the Wilkins
+blue-ice runway where they will
+Garry Studd has wanted to be a
+land, and it highlights the contrasts
+polar explorer since the age of
+and paradoxes of the Antarctic.
+about seven, has been involved in
+the Antarctic for more than 31
+We think of the Antarctic as being
+years, and is probably one of the
+one of the coldest places on Earth,
+world’s most experienced Antarctic
+Blue-ice runway and indeed it is, with winter
+pilots.
+temperatures falling below – 60°
+Celsius. But it is summer and, in
+So what’s it like taking an Airbus
+the daytime, it rarely drops below
+operations aircraft to Antarctica and landing
+– 20°Celsius.
+on an ice-runway?
+Airbus ACJ to Antarctica
+An Airbus Corporate Jetliner (ACJ) is now flying any Airbus aircraft, and mean that the Airbus
+regularly to and from Antarctica, transporting ACJ Family is now flying on every continent,
+scientists more quickly and in greater comfort highlighting the versatility of the family. Captain
+than by ship. The flights are the first to Antarctica Garry Studd explains operation of the aircraft
+Perth
+by any airliner, the first landings on ice by in Antarctica.
+Sydney
+Hobart
+Christchurch
+Casey
+Wilkins
+McMurdo
+60° 70° 80°
+David VELUPILLAI
+Product Marketing Director
+Executive & Private Aviation
+Airbus Customer Affairs
+26
+24
+TSAF
+BLUE-ICE RUNWAY OPERATIONS - AIRBUS ACJ TO ANTARCTICA BLUE-ICE RUNWAY OPERATIONS - AIRBUS ACJ TO ANTARCTICA
+27
+24
+TSAF
+Operations Landing at night when the temper-
+atures are lower means that the ice
+runway will have a better surface (cid:1)Midnight sun:
+It is approaching midnight in
+coefficient of friction. There are the Earth’s tilt means 24 hours
+Australia, and Captain Garry
+about 2,500 feet of ice underneath a day of sunlight in summer
+Studd is preparing to fly a group of
+the runway, and solid ground in the southern polar region.
+research scientists in Skytraders’
+underneath that – unlike the Arctic,
+Airbus Corporate Jetliner (ACJ)
+where there is only ice – but it is, of
+to Antarctica. The flight takes just
+course, the ice on the surface that
+over four and a half hours, so it
+matters. Much about the Antarctic
+means a landing in the middle of
+is impressive. Some 80 per cent of
+the night - albeit in daylight,
+the world’s fresh water is locked up
+be-cause of the midnight sun.
+in its ice, and it is one of the
+world’s coldest, loneliest, most
+Why not during more civilised
+beautiful and most unspoiled
+hours? The reason is to have a
+places.
+colder temperature on the Wilkins
+blue-ice runway where they will
+Garry Studd has wanted to be a
+land, and it highlights the contrasts
+polar explorer since the age of
+and paradoxes of the Antarctic.
+about seven, has been involved in
+the Antarctic for more than 31
+We think of the Antarctic as being
+years, and is probably one of the
+one of the coldest places on Earth,
+world’s most experienced Antarctic
+Blue-ice runway and indeed it is, with winter
+pilots.
+temperatures falling below – 60°
+Celsius. But it is summer and, in
+So what’s it like taking an Airbus
+the daytime, it rarely drops below
+operations aircraft to Antarctica and landing
+– 20°Celsius.
+on an ice-runway?
+Airbus ACJ to Antarctica
+An Airbus Corporate Jetliner (ACJ) is now flying any Airbus aircraft, and mean that the Airbus
+regularly to and from Antarctica, transporting ACJ Family is now flying on every continent,
+scientists more quickly and in greater comfort highlighting the versatility of the family. Captain
+than by ship. The flights are the first to Antarctica Garry Studd explains operation of the aircraft
+Perth
+by any airliner, the first landings on ice by in Antarctica.
+Sydney
+Hobart
+Christchurch
+Casey
+Wilkins
+McMurdo
+60° 70° 80°
+David VELUPILLAI
+Product Marketing Director
+Executive & Private Aviation
+Airbus Customer Affairs
+26
+24
+TSAF
+BLUE-ICE RUNWAY OPERATIONS - AIRBUS ACJ TO ANTARCTICA BLUE-ICE RUNWAY OPERATIONS - AIRBUS ACJ TO ANTARCTICA
+Skytraders looked at a range of air-
+craft ranging from small to large
+before choosing the Airbus ACJ for
+its Antarctic operations. ‘We want-
+ed an aircraft without a point-of-
+no-return for the mission,” says
+Studd, and the Airbus ACJ’s very
+long range and modest size and
+weight make it great for the job.’
+It operates the flights to and from
+the Antarctic on behalf of the
+Australian Antarctic Division, and
+the big benefit it brings is a reduc-
+tion in the time it takes to get sci-
+entists and their equipment to and
+from the region. ‘Under the best
+conditions, it takes about ten days
+to go by ship from Hobart to the
+base at Casey, but it can take three
+or four weeks if you get stuck in
+the ice,’ points out Studd. ‘The
+Airbus ACJ also costs less a day to
+run than a ship, says Studd, ‘and
+freeing one up is helpful for marine
+research.’The rapid flight time is tory in time for meaningful re-
+also of direct benefit to some sci- search. Some of the ice in these
+entists. He cites the example of one cores dates from a million years
+researcher that makes measure- ago, making it a very special and
+ments of an isotope buried in 1,000 unique insight into the Earth’s past.
+metre long ice cores that are drilled Other Antarctic research covers
+out of the ice. The isotope breaks many other fields – such as atmos-
+down in about 24 hours so, until pheric measurements, geology,
+the flights began, it was not possi- glaciology and work involving
+ble to get them back to the labora- plants and animals.
+29
+24
+TSAF
+Garry Studd says: ‘The landing keep a better distribution of
+and stopping are not a problem – weight on all three landing gear to
+braking action is only slightly optimize the bearing strength of
+worse than landing on a wet run- the ice and also assist us to make
+way - our biggest challenge is lat- a 180 degree turn on the blue-ice
+eral control and handling the air- runway in winds of up to about
+craft on the ground, especially in 50 knots.’
+strong winds, when there is risk of
+the whole aircraft trying to ‘weath- Skytraders operates its Airbus ACJ
+ercock’(point its nose into wind)’. with four additional centre tanks
+He continues – ‘The team on the (ACTs) in its cargo-hold – there is
+ground measures the friction coef- room for a maximum of six – and
+ficient every 500 metres along the appreciates the aircraft’s outward-
+runway before we land and reports opening cargo doors, which maxi-
+to us by radio – if it is okay we mizes the remaining cargo space.
+land, and if not we turn around.’In The extra fuel carried in these
+practice, the Airbus ACJ pilots are tanks allows Skytraders to fly its
+looking for a runway friction coef- Airbus ACJ to Antarctica and back
+ficient of around 0.20 or better, without refuelling, which brings
+before they will commit to a land- several important benefits. ‘First, it
+ing. means that if the weather is not
+good enough for a landing, we can
+‘Blue-ice’simply means a runway always turn around and fly back to
+surface that is kept clear of snow Australia, which is pretty impor-
+by the wind and, at Wilkins, a 30 tant when you recognize that there
+knots wind is typically what you is no nearby alternate,’ comments
+get. Meteorological measurements, Studd. ‘Secondly, the Antarctic is
+made before the runway was built, very much a pristine, unspoiled
+allowed its centreline to be aligned place – one of the reasons it is so
+with this wind. valuable to scientists – so avoiding
+‘The challenge comes when you refuelling means that there is no
+try to turn the aircraft around risk of contamination from a fuel
+at the end of the landing roll,’con- spill. And thirdly, transporting fuel
+tinues Studd, ‘so we deliberately to the Wilkins runway would make
+restrict the Airbus ACJ’s centre-of- it very costly – perhaps as much as
+gravity when landing on ice to $25 a gallon.’
+Approach to the Wilkins runway, Landing on the Wilkins runway Runway flyover On the way
+note PAPI lights on the left of the runway
+28
+24
+TSAF
+BLUE-ICE RUNWAY OPERATIONS - AIRBUS ACJ TO ANTARCTICA BLUE-ICE RUNWAY OPERATIONS - AIRBUS ACJ TO ANTARCTICA
+Skytraders looked at a range of air-
+craft ranging from small to large
+before choosing the Airbus ACJ for
+its Antarctic operations. ‘We want-
+ed an aircraft without a point-of-
+no-return for the mission,” says
+Studd, and the Airbus ACJ’s very
+long range and modest size and
+weight make it great for the job.’
+It operates the flights to and from
+the Antarctic on behalf of the
+Australian Antarctic Division, and
+the big benefit it brings is a reduc-
+tion in the time it takes to get sci-
+entists and their equipment to and
+from the region. ‘Under the best
+conditions, it takes about ten days
+to go by ship from Hobart to the
+base at Casey, but it can take three
+or four weeks if you get stuck in
+the ice,’ points out Studd. ‘The
+Airbus ACJ also costs less a day to
+run than a ship, says Studd, ‘and
+freeing one up is helpful for marine
+research.’The rapid flight time is tory in time for meaningful re-
+also of direct benefit to some sci- search. Some of the ice in these
+entists. He cites the example of one cores dates from a million years
+researcher that makes measure- ago, making it a very special and
+ments of an isotope buried in 1,000 unique insight into the Earth’s past.
+metre long ice cores that are drilled Other Antarctic research covers
+out of the ice. The isotope breaks many other fields – such as atmos-
+down in about 24 hours so, until pheric measurements, geology,
+the flights began, it was not possi- glaciology and work involving
+ble to get them back to the labora- plants and animals.
+29
+24
+TSAF
+Garry Studd says: ‘The landing keep a better distribution of
+and stopping are not a problem – weight on all three landing gear to
+braking action is only slightly optimize the bearing strength of
+worse than landing on a wet run- the ice and also assist us to make
+way - our biggest challenge is lat- a 180 degree turn on the blue-ice
+eral control and handling the air- runway in winds of up to about
+craft on the ground, especially in 50 knots.’
+strong winds, when there is risk of
+the whole aircraft trying to ‘weath- Skytraders operates its Airbus ACJ
+ercock’(point its nose into wind)’. with four additional centre tanks
+He continues – ‘The team on the (ACTs) in its cargo-hold – there is
+ground measures the friction coef- room for a maximum of six – and
+ficient every 500 metres along the appreciates the aircraft’s outward-
+runway before we land and reports opening cargo doors, which maxi-
+to us by radio – if it is okay we mizes the remaining cargo space.
+land, and if not we turn around.’In The extra fuel carried in these
+practice, the Airbus ACJ pilots are tanks allows Skytraders to fly its
+looking for a runway friction coef- Airbus ACJ to Antarctica and back
+ficient of around 0.20 or better, without refuelling, which brings
+before they will commit to a land- several important benefits. ‘First, it
+ing. means that if the weather is not
+good enough for a landing, we can
+‘Blue-ice’simply means a runway always turn around and fly back to
+surface that is kept clear of snow Australia, which is pretty impor-
+by the wind and, at Wilkins, a 30 tant when you recognize that there
+knots wind is typically what you is no nearby alternate,’ comments
+get. Meteorological measurements, Studd. ‘Secondly, the Antarctic is
+made before the runway was built, very much a pristine, unspoiled
+allowed its centreline to be aligned place – one of the reasons it is so
+with this wind. valuable to scientists – so avoiding
+‘The challenge comes when you refuelling means that there is no
+try to turn the aircraft around risk of contamination from a fuel
+at the end of the landing roll,’con- spill. And thirdly, transporting fuel
+tinues Studd, ‘so we deliberately to the Wilkins runway would make
+restrict the Airbus ACJ’s centre-of- it very costly – perhaps as much as
+gravity when landing on ice to $25 a gallon.’
+Approach to the Wilkins runway, Landing on the Wilkins runway Runway flyover On the way
+note PAPI lights on the left of the runway
+28
+24
+TSAF
+BLUE-ICE RUNWAY OPERATIONS - AIRBUS ACJ TO ANTARCTICA BLUE-ICE RUNWAY OPERATIONS - AIRBUS ACJ TO ANTARCTICA
+certificated aerodrome in Austra- unit). ‘We also tend to avoid
+lian territory. Situated 70 kilome- changes to the aircraft configura-
+tres inland, and at a height of 2,500 tion until we are sure that we can
+feet, the Wilkins runway is 4,000 land’, says Studd.
+metres long and 100 metres wide.
+It comprises levelled blue-ice, and But what happens if the worst hap-
+has to meet the same stringent pens, and the aircraft becomes
+standards required of other Aus- unserviceable on the ground? ‘It
+tralian airports – including no might take time, but we would find
+bumps above a certain height and a way to fix it,’ says Studd. ‘The
+other conditions. Crea-ting and Antarctic is a very special place,
+maintaining a surface of compact- and people help each other,’ he
+ed snow, which offers better brak- adds. ‘We tend to go only when the
+ing action, is a constant challenge, weather is good’, says Studd, ‘and
+and the surface can easily be des- in the Antarctic the weather is usu-
+troyed by a blizzard. Fortuna-tely, ally either very, very good, or very,
+the blue-ice runway underneath very bad.’
+can still be used for landings, albeit
+with some limitations. ‘In practical terms, we are looking
+for a cloud base of 2,000 feet or
+Skytraders made its first Airbus more, and a visibility of at least
+ACJ landing in the Antarctic on 10 kilometres, before we will com-
+19th November 2007, at the US mit to a landing’, he adds. ‘In wea-
+base in McMurdo Sound, where ther terms, one of the biggest dan-
+the facilities are much larger and gers is the lack of surface defini-
+longer established. This was fol- tion in the landscape, making it
+lowed by a first landing at Wilkins hard to judge how far away things
+on 9th December, and full opera- are, and how high you are above
+tions were certificated by Austra- them’, points out Studd. ‘This is
+lia’s Civil Aviation Safety Autho- exacerbated by a phenomenon
+rity (CASA) in January 2008. ‘We known as whiteout, which can
+very much appreciated the support occur even when there is a high
+from Airbus for these pioneering cloud-base and, sometimes, unlim-
+flights, especially that of Airbus ited visibility.’
+pilot John Quinnell, who has been
+the life and soul of our operation in An established Global Positioning
+the Antarctic, and that of retired System (GPS) approach is used
+Vice President Flight Division when flying into Wilkins, and all of
+Pierre Baud, who was with us on the bearings are ‘true’rather than
+our very first landing at Wilkins magnetic.
+Runway,’says Studd. ‘We operate in ‘true’or grid-based
+navigation below a latitude of 60°
+One of the big challenges of regu- south’, says Studd, ‘and making the
+lar Antarctic flights is, of course, transition is very easy in the Airbus
+the risk of an aircraft becoming un- ACJ – everything goes to ‘true’on
+serviceable on the ground. Sky- the push of a button’. Precision
+traders works actively to minimize Approach Path Indicators (PAPI)
+the risk, by keeping the aircraft provide the final guidance in the
+well maintained and only commit- final phases.
+ting to landings when everything is
+in good working order. Like other ‘We will only land if there is less
+corporate jet operators around the than 5 knots of cross-wind, we have
+world, it also flies with an engineer ‘primary’GPS navigation and if the
+on board. The Auxiliary Power runway friction coefficient is 0.2 or
+Unit (APU) is started at top-of- better’, explains Studd. ‘We fly a
+descent, for example, to ensure that fully managed ap-proach and will
+there are at least two sources of air typically use medium autobrake for
+for an engine start on the ground the landing’, adds Studd.
+(the APU and the ground power
+31
+24
+TSAF
+(cid:1)True VS magnetic:
+Skytraders’Airbus ACJ flights also for such operations – under the
+Magnetic compasses behave
+make research more accessible to company’s own Air Operator
+erratically close to the poles,
+scientists – who might not be able Certificate (AOC). They are flown
+and navigation based
+to afford to devote the month or during the Antarctic summer,
+on a true or grid reference
+two that travel by ship would which typically runs from end-
+is used in the polar regions.
+demand, but would be able to spare October to early-March. Because
+a week or two. It also makes emer- the routing takes the Airbus ACJ
+gency evacuation flights possible far from nearby airports, the flights
+and, if equipment breaks or some- are flown under 180 min Extended
+thing needs replacing, then it can Time Diversion Operations, which
+easily be flown out very quickly. are like ETOPS (Extended Twin-
+Skytraders’Airbus ACJ features an engine Operations), but with some
+airline-style layout, with 28 seats additional requirements. Based on
+in business class, and 54 in econo- experience to date, Skytraders’
+my. Flights to the Antarctic typical- Airbus ACJ typically does two or
+ly carry around 20-25 passengers, three trips a week at the start and
+however, which is well within the end of the season, when there is the
+40 or so persons that can be most need for getting people and
+accommodated in the emergency equipment to and from the site, and
+shelter at the Wilkins runway (the an average of about one trip a week
+main Australian research base is at during the rest of it.
+Casey, about 60 kilometres away).
+The Antarctic flights leave from The blue-ice runway at Wilkins is
+Hobart in Tasmania, and are run as certificated to the same high stan-
+a full public transport operation – dards as other Australian airports,
+one of the benefits of the Airbus including Sydney. It took four
+ACJ is that it is fully certificated years to build, and is the largest
+30
+24
+TSAF
+BLUE-ICE RUNWAY OPERATIONS - AIRBUS ACJ TO ANTARCTICA BLUE-ICE RUNWAY OPERATIONS - AIRBUS ACJ TO ANTARCTICA
+certificated aerodrome in Austra- unit). ‘We also tend to avoid
+lian territory. Situated 70 kilome- changes to the aircraft configura-
+tres inland, and at a height of 2,500 tion until we are sure that we can
+feet, the Wilkins runway is 4,000 land’, says Studd.
+metres long and 100 metres wide.
+It comprises levelled blue-ice, and But what happens if the worst hap-
+has to meet the same stringent pens, and the aircraft becomes
+standards required of other Aus- unserviceable on the ground? ‘It
+tralian airports – including no might take time, but we would find
+bumps above a certain height and a way to fix it,’ says Studd. ‘The
+other conditions. Creating and Antarctic is a very special place,
+maintaining a surface of compact- and people help each other,’ he
+ed snow, which offers better brak- adds. ‘We tend to go only when the
+ing action, is a constant challenge, weather is good’, says Studd, ‘and
+and the surface can easily be des- in the Antarctic the weather is usu-
+troyed by a blizzard. Fortunately, ally either very, very good, or very,
+the blue-ice runway underneath very bad.’
+can still be used for landings, albeit
+with some limitations. ‘In practical terms, we are looking
+for a cloud base of 2,000 feet or
+Skytraders made its first Airbus more, and a visibility of at least
+ACJ landing in the Antarctic on 10 kilometres, before we will com-
+19th November 2007, at the US mit to a landing’, he adds. ‘In wea-
+base in McMurdo Sound, where ther terms, one of the biggest dan-
+the facilities are much larger and gers is the lack of surface defini-
+longer established. This was fol- tion in the landscape, making it
+lowed by a first landing at Wilkins hard to judge how far away things
+on 9th December, and full opera- are, and how high you are above
+tions were certificated by Austra- them’, points out Studd. ‘This is
+lia’s Civil Aviation Safety Autho- exacerbated by a phenomenon
+rity (CASA) in January 2008. ‘We known as whiteout, which can
+very much appreciated the support occur even when there is a high
+from Airbus for these pioneering cloud-base and, sometimes, unlim-
+flights, especially that of Airbus ited visibility.’
+pilot John Quinnell, who has been
+the life and soul of our operation in An established Global Positioning
+the Antarctic, and that of retired System (GPS) approach is used
+Vice President Flight Division when flying into Wilkins, and all of
+Pierre Baud, who was with us on the bearings are ‘true’rather than
+our very first landing at Wilkins magnetic.
+Runway,’says Studd. ‘We operate in ‘true’or grid-based
+navigation below a latitude of 60°
+One of the big challenges of regu- south’, says Studd, ‘and making the
+lar Antarctic flights is, of course, transition is very easy in the Airbus
+the risk of an aircraft becoming un- ACJ – everything goes to ‘true’on
+serviceable on the ground. Sky- the push of a button’. Precision
+traders works actively to minimize Approach Path Indicators (PAPI)
+the risk, by keeping the aircraft provide the final guidance in the
+well maintained and only commit- final phases.
+ting to landings when everything is
+in good working order. Like other ‘We will only land if there is less
+corporate jet operators around the than 5 knots of cross-wind, we have
+world, it also flies with an engineer ‘primary’GPS navigation and if the
+on board. The Auxiliary Power runway friction coefficient is 0.2 or
+Unit (APU) is started at top-of- better’, explains Studd. ‘We fly a
+descent, for example, to ensure that fully managed approach and will
+there are at least two sources of air typically use medium autobrake for
+for an engine start on the ground the landing’, adds Studd.
+(the APU and the ground power
+31
+24
+TSAF
+(cid:1)True VS magnetic:
+Skytraders’Airbus ACJ flights also for such operations – under the
+Magnetic compasses behave
+make research more accessible to company’s own Air Operator
+erratically close to the poles,
+scientists – who might not be able Certificate (AOC). They are flown
+and navigation based
+to afford to devote the month or during the Antarctic summer,
+on a true or grid reference
+two that travel by ship would which typically runs from end-
+is used in the polar regions.
+demand, but would be able to spare October to early-March. Because
+a week or two. It also makes emer- the routing takes the Airbus ACJ
+gency evacuation flights possible far from nearby airports, the flights
+and, if equipment breaks or some- are flown under 180 min Extended
+thing needs replacing, then it can Time Diversion Operations, which
+easily be flown out very quickly. are like ETOPS (Extended Twin-
+Skytraders’Airbus ACJ features an engine Operations), but with some
+airline-style layout, with 28 seats additional requirements. Based on
+in business class, and 54 in econo- experience to date, Skytraders’
+my. Flights to the Antarctic typical- Airbus ACJ typically does two or
+ly carry around 20-25 passengers, three trips a week at the start and
+however, which is well within the end of the season, when there is the
+40 or so persons that can be most need for getting people and
+accommodated in the emergency equipment to and from the site, and
+shelter at the Wilkins runway (the an average of about one trip a week
+main Australian research base is at during the rest of it.
+Casey, about 60 kilometres away).
+The Antarctic flights leave from The blue-ice runway at Wilkins is
+Hobart in Tasmania, and are run as certificated to the same high stan-
+a full public transport operation – dards as other Australian airports,
+one of the benefits of the Airbus including Sydney. It took four
+ACJ is that it is fully certificated years to build, and is the largest
+30
+24
+TSAF
+BLUE-ICE RUNWAY OPERATIONS - AIRBUS ACJ TO ANTARCTICA BLUE-ICE RUNWAY OPERATIONS - AIRBUS ACJ TO ANTARCTICA
+next mission’. ‘During the past sea-
+son we flew a total of 12 flights,
+turned back twice for weather rea-
+sons, and achieved 100 per cent
+reliability’, says Studd.
+The Antarctic flights are only one
+part of Skytraders’use of the Airbus
+ACJ, however. Studd points out
+that the aircraft is the first of its
+kind in Australia that it is available
+for charter, and that it has already
+done many flights of this kind.
+‘We’re expecting to fly about
+300-400 hours a season, and are
+very pleased with what we have
+already achieved with our Airbus
+ACJ operations’, says Studd.
+‘The Airbus ACJ has more than
+demonstrated its versatility and
+reliability in operations to one of
+the most hostile places on Earth,
+and we are glad to have it in our
+fleet’, he concludes.
+33
+24
+TSAF
+‘Once on the ground, we minimize Once the Airbus ACJ has landed, it
+use of the nosewheel steering to usually stays just long enough to
+avoid skidding’, he adds. unload and reload passengers and (cid:1)‘Antarctica in brief’ Some 45 countries are signatories
+equipment. This usually takes about Antarctica comprises some 13 million to the Antarctic Treaty,which currently
+The edges of the runway are one and a half to two hours, during square kilometres - more than ensures the future of Antarctica
+marked by canvas markers on which the engines are shut down the whole of Canada and the United for scientific,non-commercial
+canes, which have to be put out for but the APU is kept running. States put together,and about and peaceful purposes.
+each aircraft arrival and departure, ‘When it is –20°Celsius and blow- twice the size of Australia. Australia has the largest claim
+or they would blow away. Eight ing 50 knots, however, things take Paradoxically,for a land that has to Antarctica – just over 40 per cent –
+full time staff are responsible for a bit longer’, points out Studd. ‘We
+so much of the world’s freshwater and runs three scientific research
+weather reporting, and for clearing operate with three pilots on board’,
+locked up in its ice cap,Antarctica bases,at Casey,Mawson and Davis.
+and preparing the runway for each says Studd, ‘which gives us some
+is a very dry place.Parts of the ice cap Turboprop CASA 212s - equipped
+landing. reserve for the unexpected, such
+are more than 14,000 feet high, with skis – and operated by Skytraders
+as one of us being incapacitated by
+and even the South Pole is some are also used for flights within
+‘Ice is dynamic, and one of the pe- slipping and falling on the ice.
+culiarities of the Wilkins runway is With the engineer and a flight at- 9,250 feet high.Nobody owns Antarctica Antarctica on behalf of the Australian
+that its threshold moves at about tendant that makes a crew of five’, although several countries,including Antarctic Division.
+12-15 metres a year, significant, he adds. ‘We are sometimes faced Australia,have territorial claims.
+but not enough to affect our day-to- with snow blowing along the sur-
+day operations’, points out Studd. face and, in such conditions, the
+good clearance between the Airbus
+After landing, we leave the slats ACJ’s engines and the ground are (cid:1)‘Airbus ACJ Family’ delivering more comfort and space
+and flaps in the ‘1 + F’configura- a further plus’, he adds. ‘When it is Airbus has created corporate than traditional business jets.
+tion, which allows easier detection time to leave, we do a wing anti-ice
+jet versions of its aircraft from time The Airbus ACJ Family,which now
+of any trapped ice and snow and is check, then we start the engines
+to time since its early days,but comprises the A318 Elite,ACJ
+also the setting that we will use for and it is back to Australia for the
+it was not until 1997 that it entered and A320 Prestige,has won more
+takeoff. Skytraders Airbus ACJ - until the
+the market in a more comprehensive than 100 sales,worth more than
+way,with the launch of an A319 $5.5 billion since its inception,
+derivative called the Airbus Corporate and continues to win new business
+Jetliner (ACJ). from private clients,companies
+Featuring a VIP or other cabin chosen and governments.
+by the customer,extra fuel-tanks It is complemented by VIP widebodies
+in the cargo-hold for intercontinental ranging from the A330/A340 through
+range,high-thrust engines for good the A350 and all the way up
+takeoff performance,built-in airstairs to the A380,for customers
+and a richer specification, that want even more comfort
+it has established itself as the new and space,as well as the range
+top-of-the-line in corporate jets, to fly ‘non-stop to the world’.
+32
+24
+TSAF
+BLUE-ICE RUNWAY OPERATIONS - AIRBUS ACJ TO ANTARCTICA BLUE-ICE RUNWAY OPERATIONS - AIRBUS ACJ TO ANTARCTICA
+next mission’. ‘During the past sea-
+son we flew a total of 12 flights,
+turned back twice for weather rea-
+sons, and achieved 100 per cent
+reliability’, says Studd.
+The Antarctic flights are only one
+part of Skytraders’use of the Airbus
+ACJ, however. Studd points out
+that the aircraft is the first of its
+kind in Australia that it is available
+for charter, and that it has already
+done many flights of this kind.
+‘We’re expecting to fly about
+300-400 hours a season, and are
+very pleased with what we have
+already achieved with our Airbus
+ACJ operations’, says Studd.
+‘The Airbus ACJ has more than
+demonstrated its versatility and
+reliability in operations to one of
+the most hostile places on Earth,
+and we are glad to have it in our
+fleet’, he concludes.
+33
+24
+TSAF
+‘Once on the ground, we minimize Once the Airbus ACJ has landed, it
+use of the nosewheel steering to usually stays just long enough to
+avoid skidding’, he adds. unload and reload passengers and (cid:1)‘Antarctica in brief’ Some 45 countries are signatories
+equipment. This usually takes about Antarctica comprises some 13 million to the Antarctic Treaty,which currently
+The edges of the runway are one and a half to two hours, during square kilometres - more than ensures the future of Antarctica
+marked by canvas markers on which the engines are shut down the whole of Canada and the United for scientific,non-commercial
+canes, which have to be put out for but the APU is kept running. States put together,and about and peaceful purposes.
+each aircraft arrival and departure, ‘When it is –20°Celsius and blow- twice the size of Australia. Australia has the largest claim
+or they would blow away. Eight ing 50 knots, however, things take Paradoxically,for a land that has to Antarctica – just over 40 per cent –
+full time staff are responsible for a bit longer’, points out Studd. ‘We
+so much of the world’s freshwater and runs three scientific research
+weather reporting, and for clearing operate with three pilots on board’,
+locked up in its ice cap,Antarctica bases,at Casey,Mawson and Davis.
+and preparing the runway for each says Studd, ‘which gives us some
+is a very dry place.Parts of the ice cap Turboprop CASA 212s - equipped
+landing. reserve for the unexpected, such
+are more than 14,000 feet high, with skis – and operated by Skytraders
+as one of us being incapacitated by
+and even the South Pole is some are also used for flights within
+‘Ice is dynamic, and one of the pe- slipping and falling on the ice.
+culiarities of the Wilkins runway is With the engineer and a flight at- 9,250 feet high.Nobody owns Antarctica Antarctica on behalf of the Australian
+that its threshold moves at about tendant that makes a crew of five’, although several countries,including Antarctic Division.
+12-15 metres a year, significant, he adds. ‘We are sometimes faced Australia,have territorial claims.
+but not enough to affect our day-to- with snow blowing along the sur-
+day operations’, points out Studd. face and, in such conditions, the
+good clearance between the Airbus
+After landing, we leave the slats ACJ’s engines and the ground are (cid:1)‘Airbus ACJ Family’ delivering more comfort and space
+and flaps in the ‘1 + F’configura- a further plus’, he adds. ‘When it is Airbus has created corporate than traditional business jets.
+tion, which allows easier detection time to leave, we do a wing anti-ice
+jet versions of its aircraft from time The Airbus ACJ Family,which now
+of any trapped ice and snow and is check, then we start the engines
+to time since its early days,but comprises the A318 Elite,ACJ
+also the setting that we will use for and it is back to Australia for the
+it was not until 1997 that it entered and A320 Prestige,has won more
+takeoff. Skytraders Airbus ACJ - until the
+the market in a more comprehensive than 100 sales,worth more than
+way,with the launch of an A319 $5.5 billion since its inception,
+derivative called the Airbus Corporate and continues to win new business
+Jetliner (ACJ). from private clients,companies
+Featuring a VIP or other cabin chosen and governments.
+by the customer,extra fuel-tanks It is complemented by VIP widebodies
+in the cargo-hold for intercontinental ranging from the A330/A340 through
+range,high-thrust engines for good the A350 and all the way up
+takeoff performance,built-in airstairs to the A380,for customers
+and a richer specification, that want even more comfort
+it has established itself as the new and space,as well as the range
+top-of-the-line in corporate jets, to fly ‘non-stop to the world’.
+32
+BLUE-ICE RUNWAY OPERATIONS - AIRBUS ACJ TO ANTARCTICA
+CONTACT DETAILS
+David VELUPILLAI
+Product Marketing Director
+Executive & Private Aviation
+Airbus Customer Affairs
+Tel:+33 (0)5 67 19 18 32
+Fax:+33 (0)5 61 93 45 15
+david.velupillai@airbus.com
+Conclusion
+Antarctica, once the preserve with careful preparation and operation
+of polar explorers, is now regularly helping to ensure safety in challenging
+accessible to scientists through regular surroundings.
+flights by the Airbus ACJ, helping us The Airbus ACJ’s ability to handle
+to understand more about our planet. a wide range of climatic conditions means
+Conscious of the need to preserve that it takes these demanding operations
+this pristine wilderness for generations in its stride, highlighting once again
+to come, the flights are made the versatility and operational flexibility
+in an environmentally responsible way, of the modern Airbus family.
+24
+TSAF
+(cid:1)Garry Studd
+has wanted to be a polar explorer
+since he was seven years old and,
+CAPTAIN GARRY STUDD ACCEPTS first landings on an ice-runway by
+when he was just 16,led an
+AIRBUS AWARD ON BEHALF any Airbus aircraft, and the first
+expedition to Spitzbergen,within OF SKYTRADERS - AIRBUS ACJ FORUM operations on the continent by an
+the arctic circle.He originally IN PARIS,2NDAPRIL 2008 Airbus Corporate Jetliner.
+attempted to qualify as a doctor, The award was presented by Charles
+but became a pilot instead Captain Garry Studd, Skytraders’ Champion, Airbus EVP Customer
+when this did not work out. Deputy Chief Pilot (centre), accepts Services (left) with Antoine
+He began flying in Antarctica the Airbus award for Skytraders’ Vieillard (right), Airbus VP A320
+pioneering of the first flights to Family and CJ/VIP Programme
+in 1977,where he was Chief Pilot
+the Antarctic by any airliner, the within Customer Services.
+for the British Antarctic Survey,
+flying Twin Otters,until 1984.
+He has continued his involvement
+with Antarctic flight operations
+for various organizations to date.
+His passion was development
+flying and,from 1984-1988,
+he ran the flight test department
+of Decca Navigator in the UK
+(later Racal Avionics and THALES).
+From 1990 he was Chief Pilot
+of a major UK executive
+jet charter company and latterly
+ran his own company specialising
+in training Falcon 900 business jet
+pilots and,for part of this time,
+he also flew Falcons for a private
+customer.
+In 2004,Garry went to Australia
+to become Deputy Chief Pilot for
+Skytraders.
+He has flown some 17,000 hours,
+of which about 6,000
+are in the Antarctic.
+His interests include skiing
+and woodworking.
+34
+24
+TSAF
+FUEL SYSTEM WATER MANAGEMENT- PART II
+Fuel system
+water management
+Part II
+In the good old days
+refuelling aircraft was
+not as organized and
+efficient as it is today,
+with the consequent
+higher probability of
+water or contamination
+in fuel.
+However, aircraft in
+those days flew far
+less hours and distance
+and fuel tanks were
+easier to drain and
+clean. The advances in
+aircraft operations
+since these days have
+brought new issues in
+aircraft fuel and
+solutions for them as
+described in the article
+on page 21.
+35
+BLUE-ICE RUNWAY OPERATIONS - AIRBUS ACJ TO ANTARCTICA
+CONTACT DETAILS
+David VELUPILLAI
+Product Marketing Director
+Executive & Private Aviation
+Airbus Customer Affairs
+Tel:+33 (0)5 67 19 18 32
+Fax:+33 (0)5 61 93 45 15
+david.velupillai@airbus.com
+Conclusion
+Antarctica, once the preserve with careful preparation and operation
+of polar explorers, is now regularly helping to ensure safety in challenging
+accessible to scientists through regular surroundings.
+flights by the Airbus ACJ, helping us The Airbus ACJ’s ability to handle
+to understand more about our planet. a wide range of climatic conditions means
+Conscious of the need to preserve that it takes these demanding operations
+this pristine wilderness for generations in its stride, highlighting once again
+to come, the flights are made the versatility and operational flexibility
+in an environmentally responsible way, of the modern Airbus family.
+24
+TSAF
+(cid:1)Garry Studd
+has wanted to be a polar explorer
+since he was seven years old and,
+CAPTAIN GARRY STUDD ACCEPTS first landings on an ice-runway by
+when he was just 16,led an
+AIRBUS AWARD ON BEHALF any Airbus aircraft, and the first
+expedition to Spitzbergen,within OF SKYTRADERS - AIRBUS ACJ FORUM operations on the continent by an
+the arctic circle.He originally IN PARIS,2NDAPRIL 2008 Airbus Corporate Jetliner.
+attempted to qualify as a doctor, The award was presented by Charles
+but became a pilot instead Captain Garry Studd, Skytraders’ Champion, Airbus EVP Customer
+when this did not work out. Deputy Chief Pilot (centre), accepts Services (left) with Antoine
+He began flying in Antarctica the Airbus award for Skytraders’ Vieillard (right), Airbus VP A320
+pioneering of the first flights to Family and CJ/VIP Programme
+in 1977,where he was Chief Pilot
+the Antarctic by any airliner, the within Customer Services.
+for the British Antarctic Survey,
+flying Twin Otters,until 1984.
+He has continued his involvement
+with Antarctic flight operations
+for various organizations to date.
+His passion was development
+flying and,from 1984-1988,
+he ran the flight test department
+of Decca Navigator in the UK
+(later Racal Avionics and THALES).
+From 1990 he was Chief Pilot
+of a major UK executive
+jet charter company and latterly
+ran his own company specialising
+in training Falcon 900 business jet
+pilots and,for part of this time,
+he also flew Falcons for a private
+customer.
+In 2004,Garry went to Australia
+to become Deputy Chief Pilot for
+Skytraders.
+He has flown some 17,000 hours,
+of which about 6,000
+are in the Antarctic.
+His interests include skiing
+and woodworking.
+34
+24
+TSAF
+FUEL SYSTEM WATER MANAGEMENT- PART II
+Fuel system
+water management
+Part II
+In the good old days
+refuelling aircraft was
+not as organized and
+efficient as it is today,
+with the consequent
+higher probability of
+water or contamination
+in fuel.
+However, aircraft in
+those days flew far
+less hours and distance
+and fuel tanks were
+easier to drain and
+clean. The advances in
+aircraft operations
+since these days have
+brought new issues in
+aircraft fuel and
+solutions for them as
+described in the article
+on page 21.
+35
+Customer Services
+events
+Just happened • Airbus Material Management strategy,
+• The new Supplier Support Conditions
+A330/A340 Technical Symposium,
+(SSC),
+Dubai,11-15 May
+• Supplier improvement process,
+The symposium was attended by 57 airlines.
+• Airbus BFE and powerplant supplier
+During the airline caucus operators expressed
+policies and support,
+their satisfaction and requested Airbus to
+• Optimization of the supply chain,
+concentrate on the following issues in the
+• What’s new in warranty,
+coming months:
+• Warranty tool developments,
+• Landing gear overhaul requirements
+and life limitations To compliment the speeches, plenary sessions
+• Landing gear corrosion and findings and workshops were held to share greater detail
+at first overhaul on specific developments and to openly
+• Fuel tank contamination, water drainage exchange ideas together with customers
+modifications and validation and suppliers. The customer caucus highlighted
+of a new biocide that we delivered on our previous commit-
+• Engine bleed system reliability ments and our ongoing initiatives were highly
+• APU (Auxiliary Power Unit) generator burst. appreciated.
+Operators also strongly requested Airbus to
+develop fuel saving initiatives, e.g. weight Coming soon
+reduction or performance improvement
+Airbus Training symposium,
+packages.
+Paris,1- 4 December 2008
+Operational excellence awards were presented: After an outstanding event in San Francisco in
+• Emirates were awarded for operational October 2006, the ninth of these dynamic and
+excellence for the A340-500/600 fleet, highly informative forums dedicated to the
+• Korean Airlines were awarded for Airbus international training scene will take
+operational excellence for the A330 fleet place at the Marriott Rive Gauche Hotel in
+of more than 10 aircraft, Paris, France. This biennial event provides
+• Asiana were awarded for operational airline training professionals with a unique
+excellence for the A330 fleet of less opportunity: whether the focus is on flying,
+than 10 aircraft, cabin safety or aircraft maintenance,
+• Cathay Pacific were awarded for operational participants will get the latest status of all
+excellence for the A340 fleet of more Airbus training programmes, technologies,
+than 10 aircraft, techniques and perspectives and can share their
+• Sri Lankan were awarded for operational Airbus training experience with the industry’s
+excellence for the A340 fleet of less most senior players.
+than 10 aircraft. Four separate but integrated conference
+streams covering pilot training, cabin crew
+Material,Suppliers and Warranty Symposium,
+training, maintenance training and training
+Cancun,Mexico 2-5 June 2008
+simulation support, will complement an
+We concluded a successful symposium, which
+exhibition featuring the latest developments in
+brought together 150 people from customers
+simulation and training technology.
+and major suppliers organizations. The key
+The Airbus Training Symposium is the best
+theme of this event was to ‘Materialize
+forum for Airbus training information and
+our future together’ with keynote speeches
+industry networking and Airbus will be pleased
+dedicated to:
+to welcome its customers, aviation authorities
+• Reveal of the Supplier Support Rating awards, and the major training media vendors.
+24
+TSAF
+36
+Dear Airbus friends,
+What makes a technical magazine a ‘good’technical magazine?
+No doubt one of the most important ingredients is the relevancy
+and quality of its contents, but so is the quality of its layout.
+A good technical article is one that conveys accurate, sometimes
+complex, and useful data in a meaningful and easy way
+to understand. This is where the quality of the layout,
+design and illustrations play an important role.
+These three attributes serve the article to make it easy
+to read and help the writers pass on their complex technical
+messages to the reader. The layout must render complex subjects
+more accessible and the photos and illustrations must contribute
+to a better understanding of the article.
+You may wonder why I am writing an editorial about this today?
+Indeed, we very seldom include an editorial in regular issues
+of FAST magazine and only do it for very special occasions.
+Well, this is the case today… at least in FAST magazine history!
+I would like to pay tribute to a person without whom
+this magazine would not be what it is today.
+This is Mrs Agnès Massol-Lacombe - the art director of FAST.
+Agnès has worked on our technical magazine since issue Number 1,
+back in 1983, and she is now retiring. Almost the end of an era
+some would say. Through all these years Agnès provided
+the artistic organization, which makes FAST the attractive magazine
+it is, as confirmed by readership surveys.
+Over these past 25 years, printing and graphic design techniques
+have evolved very… ‘FAST’. Agnès successfully adapted herself
+to this ‘FAST’evolving world and above all never fell into the trap
+of graphic design technology for the sake of technology.
+She and I share the same views on the role of graphic design
+and its impact on the quality of a publication.
+For sure, thanks to her professionalism and passion for her work,
+Agnès contributed a lot to the quality of FAST magazine.
+On behalf of the FAST readers community I would like to say:
+‘Thank you Agnès, and enjoy a well deserved retirement!’
+Bruno PIQUET
+FAST magazine publisher
+24
+TSAF
+CUSTOMER SUPPORT AROUND THE CLOCK... AROUND THE WORLD
+WORLDWIDE
+Bruce Jones
+Senior Vice President
+Services & Customer Support
+Tel: +33 (0)5 61 93 35 04
+Fax: +33 (0)5 61 93 41 01
+USA/CANADA
+François Mourareau
+Senior Vice President Customer Services
+Tel: +1 (703) 834 3506
+Fax: +1 (703) 834 3463
+CHINA Customer support centres
+Pierre Steffen Training centres
+Vice PresidentCustomer Services Spares centres / Regional warehouses
+Tel: +86 10 804 86161 Ext 5040 Resident Customer Support Managers (RCSM)
+Fax: +86 10 804 86162 / 63 RCSM location Country RCSM location Country
+Abu Dhabi United Arab Emirates London United Kingdom
+RESIDENT CUSTOMER SUPPORT ADMINISTRATION
+Algiers Algeria Louisville United States of America
+Jean-Bernard Galy Al-Manamah Bahrain Luton United Kingdom
+Director Almaty Kazakhstan Luxembourg Luxembourg
+Resident Customer Support Administration Amman Jordan Macau S.A.R. China
+Amsterdam Netherlands Madrid Spain
+Tel: +33 (0)5 67 19 04 13
+Athens Greece Manchester United Kingdom
+Fax: +33 (0)5 61 93 46 10 Auckland New Zealand Manilla Philippines
+Baku Azerbaijan Marrakech Morocco
+TECHNICAL,SPARES AND TRAINING Bangalore India Mauritius Mauritius
+Airbus has its main spares centre in Hamburg, Bangkok Thailand Memphis United States of America
+and regional warehouses in Frankfurt, Barcelona Spain Mexico City Mexico
+Washington D.C., Beijing, Dubai and Singapore. Beijing China Miami United States of America
+Beirut Lebanon Milan Italy
+Airbus operates 24 hours a day every day. Berlin Germany Minneapolis United States of America
+Bogota Colombia Montreal Canada
+Airbus Technical AOG Centre (AIRTAC) Brussels Belgium Moscow Russia
+Bucharest Romania Mumbai India
+Tel: +33 (0)5 61 93 34 00
+Budapest Hungary Nanchang China
+Fax: +33 (0)5 61 93 35 00 Buenos Aires Argentina Nanjing China
+airtac@airbus.com Cairo Egypt New York United States of America
+Changchun China Newcastle Australia
+Spares AOGs in North America should be Charlotte United States of America Ningbo China
+addressed to: Chengdu China Noumea New Caledonia
+Tel: +1 (703) 729 9000 Cologne Germany Palma de Mallorca Spain
+Colombo Sri Lanka Paris France
+Fax: +1 (703) 729 4373
+Copenhagen Denmark Paro Bhutan
+Damascus Syria Phoenix United States of America
+Spares AOGs outside North America
+Dar Es Salaam Tanzania Pittsburgh United States of America
+should be addressed to: Delhi India Prague Czech Republic
+Tel: +49 (40) 50 76 4001 Denver United States of America Riyadh Saudi Arabia
+Fax: +49 (40) 50 76 4011 Detroit United States of America Roma Italy
+aog.spares@airbus.com Dhaka Bangladesh San Francisco United States of America
+Doha Qatar San Salvador El Salvador
+Spares related HMV issues outside Dubai United Arab Emirates Sana’a Yemen
+Dublin Ireland Santiago Chile
+North America should be addressed to:
+Dusseldorf Germany Sao Paulo Brazil
+Tel: +49 (40) 50 76 4003 Ekaterinburg Russia Seoul South Korea
+Fax: +49 (40) 50 76 4013 Fort Lauderdale United States of America Shanghai China
+hmv.spares@airbus.com Frankfurt Germany Sharjah United Arab Emirates
+Guangzhou China Shenyang China
+Airbus Training Centre Toulouse, France Haikou China Shenzhen China
+Tel: +33 (0)5 61 93 33 33 Hamburg Germany Singapore Singapore
+Hangzhou China Sofia Bulgaria
+Fax:+33 (0)5 61 93 20 94
+Hanoi Vietnam Sydney Australia
+Helsinki Finland Taipei Taiwan
+Airbus Maintenance Training Centre Hamburg,
+Ho Chi Minh City Vietnam Tashkent Uzbekistan
+Germany Hong Kong S.A.R. China Tehran Iran
+Tel: +49 40 743 88288 Indianapolis United States of America Tel Aviv Israel
+Fax: +49 40 743 88588 Istanbul Turkey Tokyo Japan
+Jakarta Indonesia Toluca Mexico
+Airbus Training subsidiaries Johannesburg South Africa Tripoli Libya
+Karachi Pakistan Tulsa United States of America
+Miami, USA - Florida
+Kita-Kyushu Japan Tunis Tunisia
+Tel: +1 (305) 871 36 55 Kuala Lumpur Malaysia Vienna Austria
+Fax:+1 (305) 871 46 49 Kuwait City Kuwait Washington United States of America
+Beijing, China Lanzhou China Wuhan China
+Tel: +86 10 80 48 63 40 Larnaca Cyprus Xi'an China
+Lisbon Portugal Zurich Switzerland
+Fax:+86 10 80 48 65 76 37
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+2
+4
+T
+S
+A
+F
+FAST
+42
+J U L Y 2 0 0 8
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y

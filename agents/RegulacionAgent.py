@@ -84,7 +84,12 @@ def regulation_action(state):
 
         # Chunks
         try:
-            retrieved_docs = store.similarity_search(question, k=5)
+            retrieved_docs = store.max_marginal_relevance_search(
+                query=question,
+                k=5,
+                fetch_k=20,
+                lambda_mult=0.7
+            )
             context = "\n\n---\n\n".join([d.page_content for d in retrieved_docs])
         except Exception as e:
             logger.exception("Error en similarity_search (regulación): %s", e)

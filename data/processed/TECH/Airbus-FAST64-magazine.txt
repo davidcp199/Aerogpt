@@ -1,0 +1,2033 @@
+Airbus technical magazine
+October 2019
+#64
+FA S T
+Flight Airworthiness Support Technology
+pioneering
+progress
+Already have the FAST app?
+Now get the latest news for customers
+via Airbus’ Newsfeed app.
+FAST
+FAST and Newsfeed apps
+are downloadable to your preferred device
+9102
+-
+46#TSAF
+30
+Airbus technical magazine
+FAST magazine articles, primarily dedicated to Airbus
+commercial aircraft customers, are written by our
+Already have the FAST app? #64
+technical experts and focus on what is informative,
+interesting and useful to operators.
+Now get the latest news for customers
+FA S T Learn about innovations and evolutions to Airbus
+aircraft, as well as best practices to help optimise fleet
+via Airbus’ Newsfeed app.
+performance.
+And see where Airbus is working, sometimes with key
+players in the industry, to continue to support customers
+and prepare the future.
+With Airbus celebrating 50 years, take a look at what
+Flight Airworthiness Support Technology
+has changed for customers since that first commercial
+flight back in 1974.
+• Chief Editor: Deborah Buckler
+Then FAST forward to some innovations of the future.
+• Writing support: Beetroot, Tom Whitney, JKF Content & Edit-
+ing, Jan de Heus, Parkinson Stephens Editorial, Marc Stephens, Although the printed copy remains popular, you may
+Geoff Poulton prefer to switch to the FAST app, enabling you to share
+and comment. Any changes in preference can be sent
+• Design: Pont Bleu
+to your field service or to the editor.
+• Cover image: J.VUILLE / Master Image
+And for short news updates for customers, get the
+• Printer: Amadio
+Newsfeed by Airbus app. This consolidates key news
+Authorisation for reprinting FAST magazine articles: in one place, with content from across Airbus, stream-
+fast.magazine@airbus.com lining and aligning communication in response to your
+FAST magazine availability: requests (see opposite).
+On the FAST app (see QR code opposite page)
+Airbus website:
+www.aircraft.airbus.com/support-services/publications/ Deborah BUCKLER
+Chief Editor
+ISSN 1293-5476
+Photo copyright Airbus. Photo credits: Airbus Photographic Library, Airbus Corporate Heritage,
+Aerotheque, Shutterstock, Master Films, Hervé Gousset, Philippe Masclet, Benjamin Mouchet, Pierre-
+Jean Argaud, Alexandre Doumanjou, Frederick Lancelot, Sylvain Ramadier, Pascal Pigeyre,
+Anthony Pecch, J. Vuillei
+Undesired aircraft state 04
+Training pilots to prevent and recover
+© AIRBUS 2019 All rights reserved. Proprietary document
+By taking delivery of this Magazine (hereafter ‘Magazine’), you accept on behalf Sky control 10
+of your company to comply with the following. No other property rights are granted
+Rethinking air traffic management
+by the delivery of this Magazine than the right to read it, for the sole purpose of
+information. This Magazine, its content, illustrations and photos shall not be modified
+nor reproduced without prior written consent of Airbus. This Magazine and the
+materials it contains shall not, in whole or in part, be sold, rented, or licensed to any Cabin Communication 20
+third party subject to payment or not. This Magazine may contain market-sensitive
+or other information that is correct at the time of going to press. This information Architecture, functions
+involves a number of factors which could change over time, affecting the true public
+and troubleshooting
+representation. Airbus assumes no obligation to update any information contained in
+this document or with respect to the information described herein. The statements
+made herein do not constitute an offer or form part of any contract. They are based on
+Airbus information and are expressed in good faith but no warranty or representation Structural blind fasteners 26
+is given as to their accuracy. When additional information is required, Airbus can be
+contacted to provide further details. Airbus shall assume no liability for Strong, easy and efficient
+any damage in connection with the use of this Magazine and the materials it contains,
+new fastening system
+even if Airbus has been advised of the likelihood of such damages. This licence
+is governed by French law and exclusive jurisdiction is given to the courts and tribunals
+of Toulouse (France) without prejudice to the right of Airbus to bring proceedings for
+infringement of copyright or any other intellectual property right in any other court of 50 years 30
+competent jurisdiction. Airbus, its logo, A220, A300, A310, A318, A319, A320, A321,
+A330, A340, A350, A380 and A400M are registered trademarks.
+FAST FAST forward 36
+FAST from the past 38
+Around the clock, 39
+FAST and Newsfeed apps
+This brochure is printed on paper produced in factories that are accredited EMAS and certified around the world
+ISO 9001-14001, PEFC and FSC CoC.
+are downloadable to your preferred device It is produced using pulp that has been whitened without either chlorine or acid. The paper is Customer Services contacts
+entirely recyclable and is produced from trees grown in sustainable forest resources.
+The printing inks use organic pigments or minerals. There is no use of basic dyes or dangerous and training centres
+metals from the cadmium, lead, mercury or hexavalent chromium group.
+9102
+-
+46#TSAF
+40
+Undesired
+aircraft state
+Training pilots to prevent and recover
+In an effort to investigate and mitigate loss of control in
+flight, the International Civil Aviation Organisation (ICAO)
+published in 2014 a series of recommendations for Upset
+Prevention and Recovery Training (UPRT).
+In line with ICAO, the US Federal Aviation Authority,
+the European Aviation Safety Agency and other national Article by (left to right)
+aviation authorities have introduced new UPRT
+Eric FUILLA-WEISHAUPT
+requirements. New requirements for Flight Simulation Expert in Simulator Qualification and Regulation
+AIRBUS
+Training Devices have also been issued to enable more
+eric.fuilla-weishaupt@airbus.com
+effective and realistic training.
+Eric DENOUX
+Synthetic Flight Instructor A320/A330/A380
+AIRBUS
+eric.denoux@airbus.com
+9102
+-
+46#TSAF
+50
+Undesired aircraft state
+Airbus has taken part in UPRT industry and rule making initiatives for many years.
+Results of this involvement include the first two editions of the Airplane Upset Recovery
+Training Aid (AURTA), published by the Flight Safety Foundation. Edition 1 was issued
+in 1998; Revision 2 was published in 2008.
+* The Threat and Error
+Management model is a More recently, in 2017, Airbus actively contributed to a revised edition of the Airplane
+conceptual framework that Upset Prevention and Recovery Training Aid (AUPRTA). This document, available on
+focuses on understanding the the ICAO website, promotes a new definition of upset as no longer characterised by
+inter-relationship between pitch, bank or speed values exceedance. Rather, it assimilates upsets to undesired
+safety and human aircraft states, which are a component of the Threat and Error Management (TEM)*
+performance in dynamic and model. As a result, more importance is given to prevention and early detection of
+challenging operational undesired aircraft states and the TEM model is used to address the root causes of
+contexts. potential upsets.
+Airbus has already
+i a a T t n h p n h t e e d p e g p r t i o n r r r a a e a s t i v c t n e r e h u i d n n c i g t n t t i h o o t e o e n r m t n i a t r p s e a n h w i d p n a i i l n s U e o i g a s t P . r e R ly s T P R E V E N A w T a r I e O n e N s s A P v o R id E a n V c e E N T I O N
+recognition of undesired
+aircraft states. The objective RESILIENCE
+Competence
+is to develop skills and
+& Confidence
+r
+to
+ei n
+a
+f
+c
+o
+h
+rc
+ie
+e
+v e
+p i
+a
+lo
+g
+t
+o
+c
+o
+o
+d
+nf i
+l
+d
+ev
+e
+e
+n
+l
+c e Effective
+and
+timely
+of resilience.
+RECOVERY
+What is an undesired aircraft state
+and why does it happen?
+An undesired aircraft state is characterised by unintentional divergences from normal
+operating parameters. It may involve pitch and/or bank angle divergences, as well as
+inappropriate airspeeds for the conditions.
+Deviations from the desired aircraft state will become greater until action is taken to
+stop the divergence. Return to the desired state can be achieved through the aircraft’s
+static or dynamic stability, auto-flight system response or pilot intervention.
+Airbus believes that flight crew engagement combats complacency through active
+**As defined by ICAO,
+monitoring. This makes active monitoring critical in ensuring awareness and avoidance
+startle is the initial short-term,
+of undesired aircraft states and provides the strongest counter-measure against
+involuntary physiological and
+startle**. An engaged crew is in the best position to cope with undesired aircraft states.
+cognitive reaction to an
+unexpected event that From the early stages of training, pilots should acquire knowledge, skills and attitudes
+commences the normal to perform active monitoring throughout all operations and phases of flight. This should
+human stress response. become part of the competent pilot’s DNA.
+Training recommendations
+for prevention and recovery
+A re ir c b o u m s m ha e s n d re a c ti e o n n t s ly f o p r u u b n lis d h e e s d ir e t d ra a in ir in c g ra ft states T A r 3 a 2 in 0 i n F g li g S h ta t n C d r a e r w d s
+prevention and recovery training in a specific
+Operations Training Transmission (OTT).
+They also appear in the new Flight Crew
+Training Standards (FCTS), a manual
+dedicated to course designers.
+These two documents include
+recommendations related to the training
+methodology, training exercises
+and training media to be used.
+9102
+-
+46#TSAF
+60
+Undesired aircraft state
+Prevention and early recognition
+Pilots should be able to identify a developing undesired aircraft state. The competency
+focus should be on situation awareness (SA) and knowledge.
+Practical training related to undesired aircraft states prevention should include:
+• Understanding of the flight control law principles and protections;
+• Exploration of the normal flight envelope* (low and high speeds, low and high *Flight envelope: the operating
+altitudes), with a specific emphasis on angle of attack awareness; parameters in which a given
+aircraft type is aerodynamically
+• Energy management at low and high altitude;
+stable. The envelope is defined
+• Manual handling skills reinforcement in normal and reconfiguration flight control laws in terms of altitude, attitude,
+at low and high altitude; airspeed and load.
+• A reminder of AP/FD (Auto Pilot/Flight Director) and A/THR (Auto Thrust) specificities
+(engagement and disengagement, operating limits, mode reversions, etc.).
+Active monitoring should be encouraged during training. Airbus promotes the use of
+ICAO core competencies for pilot assessment. Consequently, observable behaviours
+related to each core competency should include elements of active monitoring.
+Years of experience have demonstrated that automation has significantly improved
+safety and operational efficiency. However, in very rare cases of abnormal conditions,
+automation may become inoperative. This is why it is important to remind pilots of basic
+flying techniques across the whole flight envelope that enable the avoidance of
+undesired aircraft states.
+Moreover, barely ten per cent of a commercial aircraft’s flight envelope is used in
+everyday operations. Training flight crews to explore the full envelope is seen as key
+in UPRT, including performance at low and high speed and altitude and, importantly,
+awareness of angle of attack.
+In parallel to improving manual flying skills, Airbus recommends that pilots receive
+regular ‘refresher’ training on the auto flight system to master its full functionality
+and impact on aircraft behaviour.
+9102
+-
+46#TSAF
+70
+Undesired aircraft state
+Recovery
+When the flight crew recognises an undesired aircraft state, it should be able to apply
+the correct procedure or technique to exit the state. The competency focus should be
+on Flight Path Management – Manual Control (FPM) and Flight Path Management –
+Automation (FPA).
+The practical training related to undesired aircraft states recovery should include:
+• Recovery from speed excursion, particularly at high altitude.
+• Recovery from unusual aircraft attitude at low and high altitude.
+• Approach to stall at low and high altitude.
+Approach to stall training assumes that the pilots react to the first stall cue, which may
+be a stall warning or a stall buffet - whichever occurs first. However, some National
+Aviation Authorities such as the FAA mandate full stall training. FAA advisory circular
+AC120-109A advises that “upon pilot recognition of the impending stall, the instructor
+will encourage the further increase of angle of attack to reach full stall while highlighting
+the impending stall cues.”
+Beyond the critical angle of attack
+C
+L
+C Max
+L
+Stall
+flow separation
+AOA
+Critical Angle of Attack
+‘Negative learning’ is when trainees risk developing bad habits during training by
+deliberately flying beyond the aural warning or ignoring the stick-shaker to create a
+‘hands-on’ stall. To counter the risk Airbus recommends the use of a function called
+Automated Stall Entry (ASE), which may be implemented on the Instructor Operation
+Station (IOS) whereby at the press of a button the instructor can induce a stall.
+This functionality is valid for all Airbus A320, A330, A350 and A380 Family aircraft.
+It enables the replication of a real Airbus aircraft stall without pilot intervention until
+the trainee decides to take over.
+X
+New requirements for Flight Simulation Training
+Devices and corresponding simulation package >0
+N (0°)
+heading
+(SimPack) >0
+Wind
+Recent revisions to Flight Simulation Training Device (FSTD)
+regulations specify enhanced modelling requirements with Roll
+regards to stall (EASA: CS-FSTD (A) Issue 2; FAA: 14 CFR Part 60 >0
+change 2), in relation to the new Undesired Aircraft State Prevention track
+>0 DA<0
+& Recovery Training (UASPRT) requirements.
+T
+T
+in
+h
+o
+e
+r d
+FA
+er
+A
+t o
+a n
+e
+d
+n h
+E
+a
+A
+n
+S
+c
+A
+e
+-
+m
+m
+o
+a
+d
+nd
+el
+a
+s
+t e
+a
+d
+n d
+tr a
+to
+in
+p
+in
+r
+g
+o v
+r
+i
+e
+d
+q
+e
+u
+f
+i
+e
+re
+e
+s
+d b
+u
+a
+p
+c
+d
+k
+a t
+t
+e
+o
+s
+t h
+to
+e
+F
+in
+S
+s
+T
+tr
+D
+u
+s
+c tor
+r u e
+A p
+e e d
+on the Instructor Operator Station. Airbus has developed a compliant
+ir
+S d
+S
+p n
+SimPack that can be integrated by the training device manufacturers. e e o u
+d G r
+The SimPack for UPRT and Stall Training is composed of simulation
+X
+models, documents and Qualification Validation Source Data (QVSD).
+It contains enhanced simulation models that provide total free-play
+>0
+capabilities. These models can be used in conjunction with the above-
+Yaw
+mentioned Automated Stall Entry IOS feature. True
+Air Speed Pitch
+The simulation models consist of an enhanced aerodynamics model,
+air>0
+a stall buffet model and a roll-off model:
+• The aerodynamics model is an evolution of the existing
+Horizon
+model that simulates additional features occurring when flying ground<0
+at a high angle of attack in approach to stall and into a stall.
+Wind
+• The roll-off model accounts for the uncommanded
+a
+fly
+c
+i
+c
+n
+e
+g
+l e
+in
+ra
+to
+ti o
+a
+n
+s
+i
+t
+n
+a l
+r
+l.
+o
+T
+ll
+h
+a
+i
+n
+s
+d
+f e
+y
+a
+a
+t
+w
+ur e
+th
+i
+a
+s
+t
+t
+m
+o
+a
+b
+y
+e
+o
+tr
+c
+ig
+c
+g
+u
+e
+r
+r
+w
+ed
+h en Ground
+Speed
+and monitored by the instructor. This is a new
+model.
+• The stall buffet model accounts for the vibration that occurs
+and amplifies when the angle of attack increases in approach to stall
+and stall situations. This is a new model that replaces former technical
+documents. The purpose of modelling this phenomenon with an
+Airbus-designed model is to ensure that the modelling is as per
+aircraft and consistent among all FSTDs that use this model.
+The documents include the FSTD Validation Envelope - information on the
+origin of the data used by the models (flight tests, wind tunnel, extrapolated).
+They provide a status of compliance of the models (information on the
+modelling techniques), as well as the result of stall characteristics assessment
+by Airbus subject matter experts.
+9102
+-
+46#TSAF
+80
+Undesired aircraft state
+Example of FSTD Validation Envelope
+40
+30
+20
+10
+0
+-10
+Flight test validated
+-20 Wind-tunnel/analytical
+-30 Extrapolated for simulation
+-40
+-20 -10 -0 10 20 30 40 50 60
+Angle-of-Attack ( )
+)
+(
+elgnA
+pilsediS
+Undesired aircraft state
+X
+>0
+N (0°)
+heading
+>0
+Wind
+Roll
+>0
+track
+>0 DA<0
+T
+r u e
+A p
+e e d
+ir
+S d
+S
+p n
+e u
+e o
+d G r
+X
+>0
+Yaw
+True
+Air Speed Pitch
+air>0
+Horizon
+ground<0
+Wind
+Ground
+Speed
+CONCLUSION
+Airbus has long supported collaborative international initiatives aimed
+at mitigating the risk of loss of control in flight. The shared objective is
+to increase pilots’ ability to recognise and avoid situations that can lead
+to an undesired aircraft state; and to improve their ability to quickly
+recover full control in the event of a flight upset.
+Finally, as an Approved Training Organisation Airbus has already
+integrated regulation-compliant Undesired Aircraft State Prevention
+& Recovery Training (UASPRT) into the majority of its recurrent
+programmes for the primary purpose of improving aviation safety.
+9102
+-
+46#TSAF
+90
+The QVSD is the flight test reference data required for the objective validation
+of the FSTDs (the ‘Qualification Test Guide (QTG)’ tests). These elements
+are available for the A320 (CEO and NEO), A330, A350, A380 and A300-600.
+Airbus delivers a comprehensive description of these elements to customers,
+as well as a rollout schedule, in a Simulation Product Operators Transmission (SPOT)
+referenced S00500102 – SimPack for Upset Prevention and Recovery Training
+(UPRT) and Stall Training.
+Glossary
+AUPRTA Airplane Upset Prevention and Recovery Training Aid QVSD Qualification Validation Source Data
+UPRT Upset Prevention and Recovery Training UASPRT Undesired Aircraft State Prevention & Recovery Training
+TEM Threat and Error Management SimPack Simulation Package, the Airbus offer encompassing a
+data package, simulation software package and cockpit hardware.
+FSTD Flight Simulation Training Device It is used to design FSTDs representing an Airbus aircraft.
+Get the FAST app
+Scan the QR code or search ‘Airbus FAST’
+on your app store
+Sky control
+Rethinking air traffic management
+Innovative technology alongside effective change
+management have helped safely manage air traffic
+at the second busiest airport in South America
+Since its airspace was designed in the 1990s, Colombia’s El Dorado Airport FAST interview with (left to right):
+in Bogota has seen rapid growth. Now the second busiest airport on the
+South American continent behind Sao Paulo’s Guarulhos Airport, passenger Charles THORNBERRY
+numbers increased by over 70% at El Dorado from 2010 to 2016 while the Product Marketing Manager
+number of flights (operations) grew by 30%. Commercial & Communication
+NAVBLUE
+Colombia’s ANSP (Air Navigation Service Provider), Aerocivil, recognised
+Charles.thornberry@navblue.aero
+that changes needed to be made to accommodate this growth and
+commissioned the International Air Transport Association (IATA) to establish
+Luca ZUCCARINI
+what could be done to manage the airspace above Bogota more efficiently.
+Senior Project Manager
+In 2015, IATA partnered with Airbus flight operations and air traffic
+Airspace & Airports
+management subsidiary, NAVBLUE, to develop and implement solutions
+NAVBLUE
+supporting the overall airspace management.
+Luca.zuccarini@navblue.aero
+9102
+-
+46#TSAF
+01
+Sky control
+Sky control
+9102
+-
+46#TSAF
+11
+To improve the efficient use of the airspace, ensuring safe future use that could be
+effectively managed by air traffic control operators, NAVBLUE designed a new
+concept of operations (CONOPS).
+“We had an international cooperation agreement with IATA on this project.
+This was the first airspace for a full TMA (Terminal Manoeuvring Area) project
+delivered by NAVBLUE and we were responsible for delivering the CONOPS,
+implementation and training. We started work in April 2015, with the CONOPS
+deployed on 12 October 2017.”
+Congestion in the skies
+Dated air traffic management procedures alongside continuously increasing traffic
+combined to cause excessive holding times for operators at El Dorado, and a very
+high workload for the ATC (Air Traffic Controllers) controlling arrivals and departures
+across the airport’s two runways.
+“The rapid growth at El Dorado was beyond the airport’s planning. Airspace is not
+indefinite – you can make airports bigger on the ground, expand runways and
+terminals, but airspace is limited. So if you put more aircraft into the airspace,
+unless you have a CONOPS designed to move aircraft in and out efficiently, you
+will have delays, holds, challenging ATC workload and other difficulties. That is
+what happened in Bogota.”
+Flight planning at El Dorado was also difficult for ATC because all aircraft were
+vectored in (separating aircraft by a specified distance, to aid the navigation of flights)
+for arrivals, requiring frequent radio communications.
+“El Dorado airspace was working at its limits, with technology and procedures that
+they had been using for 15-20 years. They needed a change and wanted advice
+on available solutions from experts in airspace design.”
+What does NAVBLUE do?
+Airbus services subsidiary NAVBLUE provides solutions for flight planning and
+aircraft performance, and is dedicated to Flight Operations and Air Traffic
+Management solutions.
+• Services include digital cockpit operations, Operations Control Centre (OCC)
+systems, Performance Based Navigation and ATM consultancy
+• It has developed hundreds of procedures to optimise airports capacity and
+efficiency around the world. From airports handling over 300,000 movements to
+remote and challenging airfields, it aims to improve access to airports and
+increase capacity
+Radar tracks showing vectored
+approaches and departures in Bogota
+9102
+-
+46#TSAF
+21
+Sky control
+Mountains and military
+As well as the historic ATC processes used at Bogota, there were further challenges
+at the airport that complicated air traffic management.
+“The airport is located in challenging terrain. It’s high up and hot. And to the north
+a significant section of the BOGOTA TMA airspace is used for military activities
+and closed to commercial aircraft.
+In a parallel challenge to the project, we worked with the military on the flexible use
+of airspace – where together we defined specific procedures for crossing through
+the military airspace that could be used by civilian aircraft under certain conditions.
+For example, as a start this airspace could be made available during specific times
+of the year such as Christmas, when the airspace wasn’t in use. Or at night.
+The military was very keen to help.”
+The mountainous terrain surrounding the airport ultimately affected the CONOPS
+that could be implemented.
+“There were challenges with crossing the mountains and altitude. The main runway
+configuration of operations at El Dorado is 13; when aircraft depart, they have to
+go left or right of the mountains, as it’s not possible to cross them directly.
+Bogota wanted an airspace that worked for a long time. And it wanted 90
+operations per hour on the runway 13 configuration (see diagram below).
+That was a huge challenge, as 90 operations per hour means close to the
+maximum capacity managed by other airports with two runways and although
+Bogota has the same two runway configuration, it also has the terrain challenge.”
+El Dorado airport is surrounded by mountains
+and a significant section of the northern Bogota
+Limited space TMA airspace is used for military activities
+The capacity at El Dorado airport was Its airspace management solution
+also constrained by several factors: needed to address ATC vectors
+(where air traffic controllers manually
+• Airspace limitations
+keep aircraft separated by a
+• Runway capacity combination of distance, altitude
+• Ground operations and/or speed), holding patterns
+and bottlenecks at VOR (navigation
+• Processes and control standards
+beacons). The airport’s procedures
+• Manuals (SOPs or documents which were causing problems for air traffic
+instruct and guide ATC on how to management including different sectors
+operate the airspace) and regulation and excessive radio communications.
+Runway 13 L
+Did you know?
+Runway 13 R
+North
+Runway numbers are based on
+the magnetic compass direction they
+are oriented to and consist of two numbers.
+If the magnetic direction is 132°, you would
+round it down and drop the last digit leaving you
+with Runway number 13. When an airport has multiple El Dorado airport
+parallel runways with the same orientation, a letter is assigned Bogota - Colombia
+after the runway number: L (Left), C (Centre), R (Right).
+The opposite side of the runway has the reciprocal magnetic
+compass orientation, which in this example would be 31.
+As a result the orientation of the runway is referred to as 13/31
+Runway 31 R
+Runway 31 L
+Sky control
+9102
+-
+46#TSAF
+31
+The solution
+One solution was to redesign the airspace and optimise airside capacity
+at El Dorado airport.
+“This project was about changing the airspace design to create a more
+orderly flow of aircraft, but also to implement this through change management.
+We wanted to position Bogota El Dorado international Airport as one of the most
+efficient international terminals in Latin America by increasing its capacity
+and airspace efficiency, keeping in mind safety as the top priority.”
+The aim was to do this by:
+• Introducing Performance-Based Navigation (PBN)
+• Reducing aircraft separation within the TMA
+• Implementing independent and simultaneous
+parallel runways operations
+• Improving ground operations
+• Updating regulations and operations manuals
+(SOPs or documents which instruct and guide ATC
+on how to operate the airspace)
+• Enhancing ATC capability with theoretical,
+and practical on-the-job training.
+“Before building the CONOPS, we worked closely with Aerocivil and IATA
+to fully understand their requirements. We then refined the CONOPS to
+make it acceptable to all the different stakeholders.”
+By observing ATC, interviewing operators, the Colombian Air Force and other
+stakeholders, NAVBLUE identified the airspace design constraints and ATC
+resourcing issues that needed to be addressed.
+“We found that 100% of arrivals were vectored, including speed, altitude and
+headings. That meant a lot of radio communications. In fact there were so many,
+it was difficult for people to get onto the radio because it was always busy.
+To create spacing between arriving aircraft, controllers were forming arcs
+(instead of sending them direct to the runway) of aircraft. The planes were sent
+to the VOR (similar concept to a ‘point merge’) where the aircraft come off the
+arc and to a point where they start their final approach to the runway.
+Technology at the time for point merge was used by few airports, but we
+thought it could work at Bogota. With this technology the approach is coded
+into the database and aircraft are positioned automatically. This reduces the
+amount of communications between controllers and the aircraft.
+So today, instead of flying to a normal conventional nav-aid for procedures,
+the airspace at Bogota is designed on PBN technology.”
+From its observations, NAVBLUE created a Current Situation Assessment and a
+Gap Analysis Report. These two activities allowed NAVBLUE to baseline operations
+at El Dorado and model them with simulation software.
+“From the Fast Time Simulation we got a theoretical 93 operations per hour
+in the airspace.”
+With this baseline in place, a new CONOPS could be designed and compared
+against the current situation and against other likely operational scenarios,
+including an increase in traffic growth.
+9102
+-
+46#TSAF
+41
+Sky control
+The CONOPS to be developed included:
+• Using RNAV and balancing sector ATC workload to improve access
+and efficiency
+• Reducing the requirements to vector aircraft and reduce workload by
+creating a point merge system
+• Helping reduce ATCO workload and improving predictability for pilots
+• Implementing procedures to separate flight trajectories, reducing conflicts
+and allowing for efficient flight climb and descent trajectories
+• Separating arrival and departure trajectories to allow runway 31 arrivals
+and runway 31 departures to operate simultaneously
+• Concentrating arrival aircraft on two main flows to reduce complexity.
+CONOPS timeline
+2015 2016 2017
+Data survey, Detailed design, Performance analysis,
+conceptual testing and validation, approval and
+design publishing, training of ATC
+The implementation
+Once the CONOPS was agreed by all key stakeholders, the team were then able to
+begin implementation. This included detailed procedure design and testing, training,
+cultural change management, documentation updates and awareness raising.
+“The navigation technology we brought in at Bogota included both RNAV (area
+navigation) and RNP AR (Required Navigation Performance Authorisation required).
+It was a challenge getting operators to adopt the systems, but they said they
+would do it if it improved efficiency.
+There are aircraft that fly into Bogota that are not capable of RNAV. So Aerocivil
+are retaining some conventional procedures for these aircraft when they come in
+and out. Today there is a balance, ‘mixed separation’, where most of the aircraft fly
+the RNAV/PBN systems, but those that don’t have the technology or operational
+approvals can still use the airport.
+The good thing about PBN is that it’s predictable, controllers know that the
+majority of traffic will be flying the same procedures. Controllers can concentrate
+on aircraft that don’t have the technology and vector it. Because the other aircraft
+all have predictable altitude, speed and trajectory.”
+Creating order
+Before the CONOPS, there were occasional aircraft conflicts at Bogota.
+“When aircraft were vectored coming in, they were descending at a manual speed,
+while the departures were RNAV. What happened at selected waypoints was that
+some aircraft were descending at increased vertical speeds and others taking off
+at the right speed, and conflicts were created. But by having the departing and
+arrival trajectories separated or coded with specific altitudes for separation, this
+‘dance’ could be avoided.
+So we entered into Continuous Descent Operations or Continuous Climb
+Operations. That meant putting in some altitude windows that would allow, for
+example, a departing aircraft to be kept at a certain altitude and the controller
+could look to see there was no conflict of aircraft arriving, they could then ascend
+all the way to the cruising altitude. Or when they were descending, they could do
+so uninterrupted.”
+9102
+-
+46#TSAF
+51
+Sky control
+Another issue the CONOPS Runway 13 New Arrival and Departure trajectories
+addressed was creating a system
+to efficiently switch between
+ILSEV GIKPU
+ATANA
+runway configurations when
+ROMOT
+needed.
+DOPLO
+“If you are coming into runway MUGOP
+13 configuration, ATC might
+ISVAT
+need to change runway SKR10
+configuration because of the RENOS (Restricted
+military area) ENVAM
+wind, but runway 31 had a big Buvis
+challenge because everyone NIRSO AKROB
+was coming in through the
+EDPUL PAPET
+same waypoint. The capacity
+TIRTO
+of the airport would therefore be Mariquita SIRUG
+reduced, and changing runway VASIL Zipaquira
+configuration was chaotic and Manizales
+lengthy.
+AMVES
+Bogota EVRAK
+Consequently, we introduced Ambelema
+ANLAV
+ARCs in the CONOPS that IRUPU
+are exactly the same for
+either runway 13, or runway El Paso Soacha
+Ibague
+31 configuration. The only
+thing that changes are the
+TOLIM MADLA
+altitudes at the point merge. EGEPI
+If they needed to switch Girardot DANSA
+between runway configurations, EKARA
+it would thus only take around Control Area
+15-20 minutes. Because of the POVSO Restricted Area
+altitude separations for
+OREGA MUGBU USANA LIXAG Inbound routes
+departing and arriving
+Outbound routes
+trajectories, this dramatically
+PTO mandatory
+increased the runway 31 notification
+Runway 31 New Arrival and Departure trajectories
+operations – they went from 50 Waypoint
+to approximately 70 operations
+ILSEV GIKPU
+per hour. Bringing it up to ATANA
+ROMOT
+almost the same capacity of 74
+operations per hour managed
+DOPLO
+MUGOP
+for the runway 13 configuration.
+For the controller it means
+ISVAT
+regardless of what runway SKR10
+RENOS (Restricted
+configuration you fly, they
+military area) ENVAM
+used the same STARs, ARCs, Buvis
+and SID transitions.” NIRSO AKROB
+EDPUL PAPET
+TIRTO
+Mariquita SIRUG
+VASIL Zipaquira
+Manizales
+AMVES
+Bogota EVRAK
+Ambelema
+ANLAV
+IRUPU
+El Paso Soacha
+Ibague
+TOLIM MADLA
+EGEPI
+Girardot DANSA
+EKARA
+POVSO
+OREGA MUGBU USANA LIXAG
+Sky control
+View from the Air Navigation Service Provider
+Colonel Edgar SANCHEZ, formerly working for Aerocivil as Deputy Director,
+talks about the successes of the project…
+What was your involvement?
+“I led air traffic control procedures and aeronautical information, as well as being directly responsible
+for the implementation of the new CONOPS allowing the operational increase of the most important
+airport in Colombia.”
+What changes have resulted at the airport since the project was implemented?
+“The operational capacity has increased, going from 70 operations per hour to 90 operations per hour.
+The flight times were also reduced considerably, which has reduced fuel consumption and CO emissions,
+2
+so it has benefited the airlines, passengers and environment. Previously, when due to wind conditions
+the track was changed for approach and takeoff, the capacity of the airport was reduced by almost 50%,
+but now there is no capacity reduction.”
+What do you see as the main successes?
+“The increase in capacity of air operations from 70 to 90 per hour from the air side and the increase
+of safety standards for air traffic control and stabilised approaches.”
+Balancing workloads
+Before the CONOPS, sector workloads by controllers were very unbalanced.
+“There were sectors that were very challenging and busy for the controllers. We needed a re-sectorisation
+for controllers to bring more balance. Pilots were telling us before the CONOPS, that they had little
+information about what to expect, they didn’t know which runway they were going to get, so they had
+to brief both runways and expect landing clearance just before the final approach. The new system is
+easy for the pilots to fly and for the controllers to manage. It’s more predictable which allows early
+preparation, raises awareness and safety.”
+Clear information on obstacles
+Before the CONOPS, there was limited published information on obstacles (man-made obstacles or
+vegetation) at Bogota.
+“We carried out a partial data survey to provide information on the obstacles pertinent to departure
+and arrival trajectories, to be put in the aeronautical publications.
+The obstacles are very important, because if they are public, airlines can carry out performance
+assessments – for example, working out departure weight depending on where the obstacles are.
+We provided all the obstacle information through Electric Information Systems (EIS).”
+Training programmes
+To ensure smooth implementation of the project, the participation of ATC teams was critical, so NAVBLUE
+oversaw a thorough training and change management programme using classroom, simulator and
+on-the-job training techniques. This ‘train the trainer’ approach has meant that knowledge transfer has
+become self-sustaining.
+“Once the project was launched, the challenge was how to make it operational. Aerocivil was very good
+at planning the start of operations with the required time in advance, so we planned it months in
+advance, with all operators aware of the changes and of the date of transition to the new CONOPS.
+Part of the success to be able to do this was the training of aircraft controllers. We worked with
+Aerocivil, coding all the procedures inside their training radar facility, running different training scenarios.
+All of the controllers were trained.
+We developed the curriculum and ground training simulators. We trained an initial batch of ATC
+instructors and a group of controllers, and after that IATA continued to repeat that training with the
+remaining controllers.
+A year after implementation, we reviewed with controllers and operators how they were doing and what
+the challenges were, providing a report based on their feedback (2019) for further improvements.”
+9102
+-
+46#TSAF
+61
+9102
+-
+46#TSAF
+71
+Sky control
+9102
+-
+46#TSAF
+81
+Sky control
+Representation of departure (green) and arrival (red)
+flown trajectories on the 24th of November 2017,
+one month after CONOPS implementation
+Balanced TMA sectors
+Due to increased inbound and outbound aircraft operations in the Bogota TMA, ATCO workload was not balanced and
+needed adjustment. After studying the flown city pairs, along with peak traffic and the new point merge arrival strategy,
+updated TMA sectors were proposed to balance the ATCOs workload and make the airspace capacity more efficient.
+SKR10 SKR10
+BUV BUV
+North sector
+MQU North sector MQU
+Central ZIP ZIP
+sector Central sector
+ABL West sector ABL
+SKBO SKBO
+South sector
+Arrivals
+IBG South sector IBG
+Departures
+GIR GIR South sector
+Runway 13 configuration before CONOPS Runway 13 configuration after CONOPS
+Sky control
+CONCLUSION
+“Implementing a new CONOPS is an art and a science.
+We’re implementing a mixture of proven technology and innovation
+methods, but nothing would work without the buy-in of the
+stakeholders. With a diverse team of ATC, pilots, instrument flight
+procedure designers, expert project managers you can overcome
+the trepidation of the stakeholders so they can become partners.
+Without their willingness to take on the challenge, it would have been
+impossible for Bogota Airport to imagine a significant reduction of
+holding time and ATC workload coupled with an increase in capacity
+and efficiency.”
+Bogota Airport now has a baseline CONOPS that will continue to
+improve over time.
+9102
+-
+46#TSAF
+91
+Making a difference
+The project has resulted in multiple benefits for El Dorado airport:
+Landing and take-off capacity
+• Increase in airspace potential capacity – runway 13 has increased by 29.2%
+from 74 operations per hour up to a theoretical 93, while runway 31
+has increased by 40% from 50 operations per hour to 70
+Efficiency
+• A reduction in ATC work rate, mainly in radio communications which
+were significantly reduced (60% fewer communications per aircraft)
+Glossary
+• Controllers (focus on management of aircraft separation and speed
+ATM Air Traffic Management instead of manually vectoring aircraft direction, altitude and speed)
+ATC/ATCO Air Traffic Controllers • Pilots (fewer communications to deal with: 3 to 4 per landing
+CCO Continuous Climb Operations instead of previous 7 to 8)
+CDP Continuous Descent Operations
+• Passengers feel the benefit from reduced delays and holding
+CONOPS Concept Of Operations
+• Improved climb locations
+RNAV a method of flight navigation that allows an aircraft
+to choose any course within a navigation network of beacons • Procedures to allow the flexible use of military airspace
+RNP Required Navigation Performance
+• Parallel independent runway operations as required
+RNP-AR Required Navigation Performance
+with Authorization Required • Peak sector workloads have been reduced so they are more balanced.
+PBN Performance-Based Navigation Today ATC have a base line, so if the sectors get busier in the future
+they can change some of their procedures to balance sector workflow
+STAR Standard Arrival Route
+SID Standard Instrument Departure Route
+TMA Terminal Control Area Economics
+VOR Very High Frequency Omni-Directional Range,
+the most standard air navigation system • The project is forecasted to bring financial efficiencies up to US$100m per year
+Get the FAST app
+Scan the QR code or search ‘Airbus FAST’
+on your app store
+xyz
+Cabin Communication
+Architecture, functions and troubleshooting
+For all Airbus aircraft types, it is the CIDS
+Stéphane GUIRAUD Thierry SCHENTEN
+(Cabin Intercommunication Data System)
+Smoke Detection System A320/A330/A340
+which is the key system for the aircraft cabin & A350 CIDS Specialist CIDS Specialist
+AIRBUS AIRBUS
+and enables management of cabin lighting,
+stephane.guiraud@airbus.com thierry.schenten@airbus.com
+passenger service system functions, EVAC
+(evacuation) signals, cabin interphone
+and cabin system monitoring.
+How does it work, what does it control
+and how can operators get the best
+system performance?
+9102
+-
+46#TSAF
+02
+Article by
+9102
+-
+46#TSAF
+12
+Cabin communication
+Cabin Communication
+The backbone of cabin communication
+The CIDS is the central digital data system for cabin crew to manage all cabin
+functions. It is quintessential in keeping passengers well informed and contributes
+to their overall comfort and safety. The CIDS allows control of cabin lighting, service
+interphone, EVAC signals and all functions of the passenger service system:
+passenger lighted signs, reading lights, passenger calls, automatic announcements,
+boarding music and the passenger entertainment system. The flight crew can monitor
+all cabin systems via a central interface.
+System architecture and functions
+The ‘classic’ CIDS was first introduced in 1988 for the A320 and has been installed in
+more than 2000 single aisle aircraft, many of them in operation today. This was the first
+time a single system integrated all cabin functionalities by connecting the crew,
+cockpit, cabin systems and passenger service. The core system architecture has
+remained robust and effective over 30 years of operation, while allowing for a seamless
+integration of updates and new functionalities like the SDF (Smoke Detection Function)
+due to its modular set-up. The adaptability of the system ensures viability for various
+aircraft types without major changes in hardware and with minimal training effort for
+its operators.
+The system is typically managed by 2 Directors. They are the central computers of the
+CIDS. One operates in active mode and one in stand-by, so it can take over in the
+unlikely event of a complete failure of Director 1. The crew can control the cabin
+functions via the FAP (Flight or Forward Attendant Panel) or by using cockpit switches.
+Communication between the Director and the cabin, passenger and crew systems is
+handled via a number of DEUs (Decoder-Encoder Units). They pick up the information
+across the cabin and convert it into binary code for the Director. Binary code received
+back from the Director is then decoded. The DEUs are the interpreters enabling
+information transfer between the Directors and the cabin systems. They are spread
+along the cabin on top lines (DEU A) and middle lines (DEU B).
+The system architecture is similar for all Airbus aircraft models.
+The PTP (Programming and Test Panel) allows programming of the CIDS and running
+of functional tests. The system update for the A318 features no PTP as its functions
+have been integrated into a new touch screen FAP. The introduction of this enhanced
+CIDS on the A318 has been the starting point for its implementation on other models.
+The FAP comprises the CAM (Cabin Assignment Module), the OBRM (On Board
+Replaceable Module) and the optional IPRAM (Integrated Pre-recorded Announcement
+Model) in compact flash card format. The IPRAM contains pre-recorded
+announcements and boarding music audio data that can be played in the cabin to
+passengers in accordance with operational requirements. The CAM defines all the
+modifiable system properties and cabin layout information for the CIDS. Each CAM is
+programmed according to the airline’s request, so the CAM is unique to every
+individual airplane. The OBRM contains the CIDS software. Major changes of the CIDS
+functions are executed by the replacement of the OBRM.
+Pierre MONTANIER
+The ‘no smoking’ and seat belt signs are controlled directly from the cockpit while the
+A320 Product Leader
+cabin functions related to passenger service (for example, cabin lighting, temperature
+AIRBUS
+control and passenger calls) are managed by the cabin crew via the FAP.
+pierre.montanier@airbus.com
+A number of additional aircraft systems can be managed via the CIDS’ panels (FAPS,
+AAP etc.): emergency light, door bottle pressure monitoring, door closure status, slide
+armed/disarmed status, water and waste tank quantities, air conditioning and smoke
+detection. Starting with the enhanced CIDS, the SDF (Smoke Detection Function)
+has been embedded into the CIDS Director.
+9102
+-
+46#TSAF
+22
+Cabin communication
+CIDS standard architecture
+Attendant Aft
+Indication Attendant
+Panels Panel Decoder-Encoder Units
+Cockpit switches AIP AAP & Handsets Middle line (DEU-B)
+25VU DEU-B DEU-B
+DEU-A DEU-A
+Display area
+21VU 22VU
+Area
+Call
+Panels
+35VU
+ACP
+Decoder-Encoder Units
+Top line (DEU-A)
+Attendant functions:
+• Public Address & Interphone
+21VU
+• Pax call
+• Cabin indications
+A318-A219-A320
+A321
+Reading light Reading light
+Switches
+Passenger call/
+Indication button
+Lavatory & Cargo
+Smoke Detectors
+Loudspeaker No smoking/
+Portable Electronic Devices/
+Fasten seatbelt sign
+Directors
+(DIR 1 / DIR 2) Pax functions: Passengers
+Service Units (PSU/PISA)
+Forward
+Attendant
+Attendant
+Panel
+Avionics bay
+functions:
+FAP
+Cabin control
+and monitoring
+9102
+-
+46#TSAF
+32
+Cabin communication
+Even though the CIDS is not safety-critical itself, it remains important for flight safety.
+Prior to its introduction there was no communication system that handled operational
+and service-related data in an integrated data network. The reporting of information
+relevant to flight operations relied on the more or less effective verbal communication
+between cabin crew and cockpit. Today, awareness about communication cultures
+Attendant Aft
+Indication Attendant has been raised considerably, and an integrated cabin management system like the
+Panels Panel Decoder-Encoder Units CIDS now helps flight attendants to report operational information, as there are
+Cockpit switches AIP AAP & Handsets Middle line (DEU-B) sensors in place which already detect and communicate information to the CIDS.
+As an example, an EVAC warning is automatically issued without any potential for
+25VU DEU-B DEU-B human error through overlooking, misjudgement or miscommunication.
+DEU-A DEU-A
+Display area
+21VU 22VU
+An evolving system with a classic core
+Area
+Call
+• 1988: Launch of A320 aircraft with classic CIDS
+Panels
+35VU
+• 1993: 700 aircraft of A330 and A340 model ranges
+ACP
+• 2003: 1500 aircraft equipped with enhanced CIDS for A330s and A340s
+• 2006: Enhanced CIDS for single aisle, 8500 A318s, A319s, A320s, and A321s
+Decoder-Encoder Units • 2007: Adaption of CIDS for A380
+• 2009: Enhanced 2nd Generation CIDS for A330 with integrated SDF function
+Top line (DEU-A)
+• 2014: CIDS for A350
+Attendant functions:
+A resilient, adaptable and scalable original design allowed for integration of different
+• Public Address & Interphone
+21VU
+standards for various aircraft types while keeping the classic system architecture intact.
+• Pax call
+• Cabin indications
+A318-A219-A320
+Troubleshooting & maintenance for CIDS
+A321 Over its 30 years of operation, the CIDS has proved to be a highly reliable system for
+managing the increasing amount of cabin data and related cabin equipment. In case
+of a system fault or equipment malfunction event, there is a standard troubleshooting
+practice in place, which has to be followed. For the cabin crew this can happen when
+Reading light Reading light the system is used for passenger announcements or cabin interphone. The cabin crew
+Switches
+Passenger call/ then informs the flight crew, who performs a system reset according to the FCOM
+Indication button
+(Flight Crew Operating Manual) reset table.
+Lavatory & Cargo If the initial event is not cleared by this standard reset the flight operator’s MEL
+Smoke Detectors (Minimum Equipment List) has to be consulted for a relevant item. The MEL will either
+identify the event as non-crucial to flight operations or provide an expiration date for
+Loudspeaker No smoking/ deferred troubleshooting and fix. In case there is no applicable MEL item, or the event
+Portable Electronic Devices/
+is classified as crucial to flight operations, a BITE (Built-in Test Equipment) test needs
+Fasten seatbelt sign
+to be performed to confirm the fault and on-ground maintenance staff need to be
+Directors
+involved.
+(DIR 1 / DIR 2) Pax functions: Passengers
+Service Units (PSU/PISA) The CIDS has an extensive self-monitoring capability. Failure messages related to
+CIDS units are sent to the CFDS (Central Failure Display System) or CMS (Centralised
+Maintenance System). Failure message reports are stored automatically in a CIDS BITE
+dedicated memory within the directors. Through three MCDU (Multipurpose Control
+and Display Unit) interfaces or OMT (On-board Maintenance Terminal) this information
+Forward
+Attendant can be accessed from the cockpit. CIDS BITE enables interactive interrogation of the
+Attendant
+Avionics bay Panel system by maintenance personnel.
+functions:
+FAP
+Cabin control The TSM (Trouble Shooting Manual) or AFI (Aircraft Fault Isolation for A350) will list the
+and monitoring tasks to be followed for the observed failure message.
+If the event is still not cleared, the issue requires deeper troubleshooting. At this point,
+contacting Airbus via Tech Request (Engineering Domain and ATA 23-73) is key for the
+required deep troubleshooting. A mobile app Tech Request was developed to facilitate
+reporting and feedback by the operators.
+Reporting failure messages through Tech Request necessitates data from the CIDS
+BITE including the Last Leg report, Previous Leg reports, Troubleshooting Data (TSD),
+the Class 3 fault and the results of the Power-up test, in addition to the outcomes
+of the TSM task performed.
+9102
+-
+46#TSAF
+42
+Cabin communication
+Standard troubleshooting practices
+Event
+Cleared by CIDS reset performed as per FCOM reset table
+No
+Yes Deferred item to troubleshoot
+Any relevant MEL item?
+before MEL expiry date
+No
+Confirmed
+Interface & Power-up Follow TSM Task as per
+test to confirm fault fault messages observed
+Still not cleared?
+Deep troubleshooting required, contact Airbus via Tech Request.
+Engineering Domain and ATA 23-73 with the following data:
+1 CIDS BITE via MCDU
+• Last Leg report
+• Previous Legs report
+• Trouble Shooting Data (TSD)
+• Class 3 fault
+• Interface & Power-up test
+2 Outcomes of TSM task performed
+For general information ISI (In Service Information) reference guides are available for all The future cabin
+CIDS versions ranging from the classic system for the A320 Family to the enhanced
+system for the A350 Family with the incorporated SDF function. The latest ISI guides management
+can be obtained through the Resident Customer Support Manager or accessed via
+login to Airbus World. system will feature
+Operators should note that these reference guides
+Model ISI are frequently updated, nevertheless the AMM a simplified
+A320 Classic 23.73.00095 (Aircraft Maintenance Manual), TSM (Trouble
+architecture,
+Shooting Manual), FCOM (Flight Crew Operating
+A320 Enhanced 23.73.00093
+Manual) and MEL remain the sole source of
+23.73.00094 digitally connected
+instructions during maintenance and operation
+A330 Enhanced 23.73.00097 of the CIDS.
+equipment,
+A380 44.11.00013
+Operators can request an onsite engineering
+A350 44.11.00012 workshop for CIDS users to increase operational customer feedback
+reliability. The outcome of these workshops usually
+ends up with a 50% improvement on CIDS operational reliability immediately after and data analysis
+imparting the instructions. Such workshops, together with regular follow-ups within
+the airlines, can be a valuable means to ensure the CIDS is used to its full capacity tools.
+and all troubleshooting procedures are followed in case of failure messages.
+Operators are encouraged to report any issue with the system for continuous
+improvement. Currently a new analogic handset is being developed for the A320
+and A330, thanks to such user feedback.
+What will the future of CIDS look like?
+The farthest-reaching impact on the future of cabin communication will be brought
+about by the new Decoder-Encoder Units DEU 4.0 linked with the Airbus data-
+integration platform, Skywise*. The (DEU) manage the information flow between the
+Director and the various cabin systems. The new DEUs 4.0 enable connectivity to the
+Internet of Things (IoT) and empower the CIDS for the digital transformation and
+ongoing fourth industrial revolution (Industry 4.0). It will pave the way for the wireless
+cabin, the ability to connect wireless equipment to the CIDS, and eventually create full
+digital connectivity for all CIDS related equipment. Data lake solutions will unleash an
+unprecedented potential for optimisation and customisation through real-time data
+management.
+*More about Skywise in FAST 63
+Cabin communication
+The increased availability of data will not only help to further improve the systems
+operational reliability and facilitate handling, it will also unlock a great deal of relevant
+operational information for the airlines and allow for a new level of passenger service.
+Preferred lighting and seat settings from previous flights could be retrieved and
+reinstated and the In-Flight Entertainment (IFE) service could be targeted based on
+the passengers’ prior choices. Also, maintenance and troubleshooting in case of
+malfunctioning devices will be further facilitated, as enhanced more complete
+maintenance data will be accessible and directly presented in real-time.
+The estimated release date for DEU 4.0 is 2023.
+Glossary
+AAP Aft Attendant Panel
+AFI Aircraft Fault Isolation for A350
+BITE Built-in Test Equipment
+CAM Cabin Assignment Module
+CFDS Central Failure Display System
+CIDS Cabin Intercommunication Data System
+CMS Centralised Maintenance System
+DEU Decoder-Encoder Unit
+EVAC Evacuations
+FAP Flight or Forward Attendant Panel
+FCOM Flight Crew Operating Manual
+IFE In-Flight Entertainment
+IPRAM Integrated Pre-recorded Announcement Model
+MEL Minimum Equipment List
+MCDU Multipurpose Control and Display Unit
+OBRM On Board Replaceable Module
+OMT On-board Maintenance Terminal
+PTP Programming and Test Panel
+SDF Smoke Detection Function
+TSM Trouble Shooting Manual
+TSD Troubleshooting Data
+Get the FAST app
+Scan the QR code or search
+‘Airbus FAST’ on your app store
+CONCLUSION
+Since its introduction in 1988, the CIDS digital cabin management system has undergone several upgrades
+and adaptions for new aircraft types. Technical documentation is available to assist operators in improving
+operational reliability of the CIDS and onsite workshops have already proven to improve the reliability rate.
+In the light of the upcoming link to Skywise and the advances in full digital connectivity and intelligent data
+management, the CIDS original system architecture remains relevant as an integrated single-system solution
+for cabin communications. The connection of the cabin systems to the Internet of Things and Skywise data
+lake will break new grounds in cabin communications, boost the CIDS’ self-monitoring capacity and open up
+new possibilities for creating and managing the passenger experience of the future.
+9102
+-
+46#TSAF
+52
+9102
+-
+46#TSAF
+62
+Structural
+blind fasteners
+Strong, easy and efficient new fastening system
+Airbus is ramping up its use of a new
+structural blind fastener. Improvements
+in design enable faster installation and
+a broader number of uses, leading to
+significant time and cost savings for
+maintenance and repair procedures.
+Article by
+Oluwole AJALA
+Fastener Expert (Operations & Support)
+Metallic Materials & Assembly
+Technology Product Leader
+AIRBUS
+Oluwole.Ajala@airbus.com
+9102
+-
+46#TSAF
+72
+Structural blind fasteners
+Solid rivets are permanent mechanical fasteners – the ‘glue’ that holds an aircraft
+structure together. Tens of thousands of solid rivets are used on each aircraft, from
+the fuselage to the wings and tailplanes. Installing them, however, is not always a
+simple process. A traditional solid rivet is most commonly made from aluminium alloy
+and combines light-weight with medium strength. It consists of a smooth cylindrical
+shaft with a pre-formed head (either protruding or countersunk) and a tail on the other.
+During installation on an aircraft, the rivet is inserted in a drilled hole from one side,
+while the tail is ‘bucked’ (deformed), either by hand or with a pneumatic tool. The tail
+expands and holds the rivet in place like a nut does with a bolt. Once installed, the
+rivet completely fills the hole – unlike a bolt – and creates a secure joint.
+Bucking
+tool Multi-shot
+riveting
+gun
+Typical aluminium solid rivet installation process
+But to achieve this, technicians must have access to both sides of the structure.
+In areas such as the cockpit or avionics bay, this is a difficult and time-consuming
+process, while in some parts of the aircraft, it is impossible to access both sides.
+The solution is to use a blind rivet, which can be installed without the need for access
+on both sides. To do this, the stem is pulled back into the rivet body using an
+installation tool, deforming the body and clamping down on the joint until the stem
+snaps off at an engineered weak point and the fastening is formed.
+Blind rivet seen from the interior
+However, blind rivets do not fill holes in the same way a solid rivet does, making
+their joint performance slightly inferior. Consequently, they cannot be used in
+areas subjected to vibration and high loads. Instead, they are used on parts like
+brackets, closed boxes or flaps, as well as temporary repairs on the fuselage.
+Blind rivets cannot be reused like nuts and bolts, so must be drilled out and
+replaced if they or the panel they are holding together is damaged, for example
+during lightning strike. As only one technician is needed to carry out the
+installation using blind rivets, the process is quicker than with solid rivets.
+The aircraft will still need to be grounded again at a later date to carry out
+a permanent repair solution with solid rivets or bolts.
+Structural blind fasteners
+9102
+-
+46#TSAF
+82
+Major reductions in fastener installation time
+To overcome these issues, Airbus worked with a leading fastener manufacturer to
+improve existing blind fasteners to address maintenance needs. The improved
+structural blind fastener offers numerous advantages over traditional blind and solid
+rivets.
+Because they are blind fasteners, they can be used in areas that are difficult to access.
+Installation is performed by one technician rather than two, making it quicker, cheaper,
+more efficient and quieter to install than solid rivets due to its ergonomic design. But
+unlike traditional blind rivets, they are made from titanium 6Al-4V alloy and A286
+corrosion-resistant steel with a threaded core and sleeve and a unique self-locking
+mechanism to act like a crimped system on a structural nut. This gives them superior
+mechanical performance in shear, tensile and fatigue, enabling their use in high-load- Superior
+bearing structural parts of the aircraft, which the traditional blind rivets cannot. They
+mechanical
+can also be used as permanent repair solutions when non-destructive testing is used
+to confirm a secure installation. Consequently, temporary repairs are no longer performance
+necessary – the work can be carried out in one procedure, significantly cutting
+in shear, tensile
+maintenance and repair downtime.
+and fatigue,
+The new structural blind fasteners achieve further time-saving in several other areas.
+Some aluminium alloy rivets require heat treatment prior to installation, either to enabling their
+achieve the required level of strength or to soften the rivet to prevent cracking on
+use in high-
+installation. But titanium fasteners do not need to be treated beforehand. In addition,
+the unique breaking stem creates a clean break, so no additional reworking is required load-bearing
+to achieve a smooth surface. Overall, the new structural blind fasteners offer a
+structural parts
+minimum of 65 percent time saving in comparison to solid rivet installation, for
+example around Frame 12 just behind the cockpit, on brackets around the cargo bay of the aircraft
+or other areas where solid rivets could be used.
+Frame 12
+Get the FAST app
+Scan the QR code
+or search ‘Airbus FAST’
+on your preferred store
+CONCLUSION
+Further developments in the future include a greater selection of diameters, including an oversize range,
+as well as a flush 100° reduced head, 130° head and protruding head. Eventually, the structural blind
+fastener is expected to be used on both metal and composite material applications on all areas of all
+Airbus aircraft, bringing further improvements to installation efficiency and product rationalisation.
+9102
+-
+46#TSAF
+92
+Structural blind fasteners
+The new structural blind
+fasteners offer a minimum
+of 65 percent time saving
+in comparison to solid rivet
+installation
+When will the fasteners be installed?
+On the A320 Family the structural blind fasteners are now
+being used in place of solid rivets around Frame 12, just
+behind the cockpit, and have been tested on selected
+commercial flights since February 2019. Serial implementation
+on Frame 12 at the Airbus Saint Nazaire final assembly line
+began in mid-June, with full rate expected to follow in the
+near future. Use of the rivets in other areas of the aircraft is
+being explored.
+The fasteners can currently be used for maintenance on
+metallic joints in all areas of the aircraft, excluding fuel
+boundaries until further tests have been carried out.
+Examples of fasteners that can be replaced with the new
+solution include (but are not limited to): aluminium solid rivets
+(e.g. ASNA2051); aluminium lockbolts (e.g. EN6100); and
+traditional blind rivets (e.g. ASNA0077). The new fastener has
+the same grip overlap capability at either end of the grip
+range and accommodates back side slope of up to 5° angle
+as standard rivets. The installation and removal processes
+are already documented in the structural repair manual SRM
+51-42-11, while SRM 51-43-00 includes identification of
+alternative fasteners and the fuselage SRM 53-00-00 has
+also been amended. The standard of the new structural
+blind fastener is ABS2322. ABS2322 and its alternative
+are available to be procured by customers as required.
+As Airbus celebrates its 50th anniversary, FAST looks back
+on how innovation and developments have contributed
+to the evolution of customer operations.
+Fast forward to page 36 to see examples of how Airbus
+continues to shape the future of flight.
+1969
+Paris Air Show
+29 May 1969,
+France and Germany
+make a pioneering
+agreement to create the
+Airbus A300, the world’s
+first twin-engine wide
+body airliner.
+A300B EIS with Air France Wingtip fences
+• For short to medium-haul passenger A300 and A310 outfitted with wingtip
+operations and for freight. fences, arrow-shaped vertical at-
+• Composites on structures, electrical signalling tachments that extended above and
+for secondary controls, drag-reducing wingtip below the end of the wing.
+fences and centre of gravity control. + Reduced fuel burn during cruise
++ World’s first twin-engine wide-body without altering aircraft handling.
+for commercial aircraft, + Lower noise emissions
++ Economic and operational performance. by improving take-off
+performance.
+9102
+-
+46#TSAF
+03
++
+1970’s
+9102
+-
+46#TSAF
+13
+50 years
+Forward Facing Crew Cockpit
+CIDS Cabin Intercommunication
+A300 FFCC EIS with Garuda, the first
+Data System
+twin-aisle aircraft that could be piloted by
+The system controls and displays the
+a two-man crew: all systems traditionally
+Field Service stations cabin functions for passengers and
+displayed on the flight engineers’ side
+The first Airbus Field Service crew. (See article page 20)
+panel were now in front and overhead
+Representatives team was deployed + Facilitates management by crew,
+of the two pilots.
+in Paris to support Air France contributes to passenger comfort
++ Improved cockpit layout, reduced
+for the A300. and safety.
++ On-site or local Airbus point flight crew to operate the aircraft.
+of contact for technical assistance.
+(Over 140 stations worldwide today)
+1980’s
+Envelope protection philosophy and technology
+The pilot’s commands to the control surfaces are monitored
+to ensure the aircraft is kept within a safety margin, called the
+‘flight envelope protection’.
++ The flight envelope protection prevents the aircraft
+from performing outside its operational limits.
+Mixed Fleet Flying (MFF)
+With commonality, pilots can be current on more than one Airbus
+fly-by-wire aircraft type at a time. This is known as Mixed Fleet Flying.
++ Allows operations by a common pool of pilots, opens new crew
+scheduling possibilities and offers pilots a mix of flying opportunities.
++ Common Type Rating and Mixed Fleet Flying concepts also result
+in significant benefits for airline profitability (flexible scheduling, less
+training so lower costs).
+Cross Crew Qualification (CCQ)
+Possible thanks to flight operational commonality between
+Airbus fly-by-wire aircraft. CCQ is available for all combinations
+of Airbus fly-by-wire aircraft in service.
++ Savings in time and cost, thanks to reduced transition training.
+9102
+-
+46#TSAF
+23
+50 years
+Fly-By-Wire and commonality
+• Fly-by-wire (electrical signalling instead
+of cables and pulleys) introduced the
+fourth - and latest - generation
+aircraft, enabling technologies
+such as flight envelope protection,
+thus further enhancing safety
+A340 EIS with Lufthansa
+• Operational commonality -
+• The A340 Family spans 295-380 seats
+almost identical cockpit designs
+• Superior passenger comfort, economy and operational flexibility.
+and handling characteristics
++ For longest and most demanding routes, with superior operating
+across Airbus aircraft - is a
+economics – even in challenging “hot and high” conditions – and high
+fundamental design criterion.
+passenger comfort.
++ Fly-by-wire brought weight
++ Quiet cabin
+savings, lower maintenance costs,
+improved flight controls.
++ Commonality brought reductions
+in time and costs to crew training.
+Cargo Loading System (CLS)
+• The A320 CLS option
+for loading pallets and A330 EIS with Air Inter
+containers on the lower deck. • Medium to long-range, wide-body,
+• EIS of the first A320 CLS twin-engine
+with Air France. • Variants include: Freighter, VIP, and
++ The outward-opening cargo Military (Multi Role Tanker Transport)
+doors and large cargo compart- + reliability
+ment cross-section maximises + economics
+the usable cargo volume. + commonality
+1980’s 1990’s
+Additional Centre Tank
+Option to incorporate 2 additional
+centre tanks (ACT) on A310-300.
+Available on A319, A320 and A321.
++ Increased operational flexibility
+with extended aircraft
+range or increased payload.
+Electronic Centralised
+A320 EIS with Air France Aircraft Monitor
+• First civil aircraft to pioneer fly-by-wire technology. ECAM monitors aircraft
+• One aircraft in four sizes (A318, A319, A320 & A321) functions and produces
+• A320 Family seats from 124 to 244 passengers messages detailing fail-
++ Allows operators to match aircraft size to demand, ures, lists procedures to
+covering the entire market from low to high density undertake to correct the
+routes to longer range. problem.
++ With the widest single aisle cross section, the A320 + Enables reduction to 2
+Family offers containerized cargo as an option, allow- flight crew members.
+ing operators the unique flexibility
+to choose between bulk or container capability.
+9102
+-
+46#TSAF
+33
+50 years
+Cabin innovations Composite materials
+• State-of-the-art In-Flight Entertainment (IFE). Progressively replacing aluminium
+A330 EIS with Air Inter • Comfortable and private rest areas for crew without removing space alloys. Benefits include strength,
+• Medium to long-range, wide-body, for passengers, ambient lighting option for passenger comfort, low weight, corrosion-free quality
+twin-engine and adaptable to airline branding and colour scheme. and superior durability.
+• Variants include: Freighter, VIP, and • Airbus Airspace cabin with quality ambience, comfort, service and design; + More cost-efficient aircraft,
+Military (Multi Role Tanker Transport) providing airlines with a tool to differentiate. reducing costs of maintenance.
++ reliability • 2017: Smart Onboard Wheelchair, giving increased independence
++ economics for passengers with limited mobility.
++ commonality + Improved comfort for passengers and crew, efficient operations for cabin crew.
+1990’s 2000’s
+AirbusWorld portal
+An internet-based support
+Final Assembly Lines (FALs) environment for customers.
++ Fully personalised
+portal, giving access
+Airbus has nine final assembly lines (FALs) at five locations worldwide:
+to tools, on-line
+forums and web-
+Toulouse, France (four FALs)
+collaborative
+A320, A330, A350 XWB families / A380
+solutions to
+manage
+Hamburg, Germany
+technical
+A320 Family
+queries.
+Tianjin, China
+A320 Family
+Mobile, United States (two FALs):
+A320 Family / A220 Family
+Mirabel, Canada AIRMAN (now AIRMAN-web)
+A220 Family AIRcraft Maintenance Analysis)
+is a health-monitoring tool for aircraft
+maintenance.
++ Simplified and optimised maintenance,
+with early detection of anomalies
+to enable anticipation.
+Less Paper in Cockpit (LPC)
+Flight crews can access flight-critical information from
+a laptop. Along with FlySmart and the On-board Infor-
+mation System (OIS), LPC provides advanced digital
+software solutions for the Electronic Flight Bag (EFB).
++ Replaces paper-based manuals and instruction
+procedures in the cockpit.
++ Easy locating of operational information
+for flight and maintenance crews.
++ Optimised performance and weight-
+and-balance computations.
+Brake to Vacate (BTV)
+BTV allows pilots to
+visualise the point where
+the aircraft will reach its
+runway exit point during
+the approach and landing
+phases.
++ Optimises braking
+energy and Turn
+Around Time.
++ Guarantees to vacate
+at the assigned exit.
++ Optimises runway
+occupancy time.
+9102
+-
+46#TSAF
+43
+50 years
+A380 EIS
+with Singapore Airlines
+• The world’s first full-length twin-deck aircraft
+• Over 500 seats
+• Range of up to 8,000nm/ 15,000km,
+allowing it to fly non-stop between Europe and Asia.
++ Highest passenger capacity
++ Passenger comfort with more personal space, premium products,
+and quiet cabin.
++ Unique features (bar, business areas and social areas).
+AIRTAC Extended Service Goal
+The state-of-art Airbus Technical (now LoV) ESG enables A320
+Aircraft-on-ground Centre (AIRTAC) Family aircraft to fly beyond
+offers dedicated, specialist engi- their original limit of flight
+neers to support airlines in case cycles.
+of urgent issues during operations. + Allows an increase in the
++ Global 24/7 assistance for all operational lifetime of air-
+Aircraft-On-Ground matters craft in terms of flight hours
+to minimise time for trouble- and flight cycles, bringing
+shooting or repairs. up to 10 years or more of
+additional revenue service.
+2000’s
+AirN@v
+Runway Overrun
+Advanced web-
+Prevention System
+technology tool
+ROPS* provides a real-
+that provides single Flight Hour Services (FHS)
+time crew alert in case
+access for technical Provides component support,
+of detected runway
+data consultation, line and base maintenance,
+overrun situation
+acquisition and as well as fleet technical
+at landing.
+distribution including management services. + It contributes to
+the principle mainte- Options include on-site stock
+increasing pilot
+nance manuals and a mutualised pool access
+situational awareness,
+(eg AMM), an service, as well as state-of-
+particularly during
+interactive aircraft the-art repair services.
+troubleshooting aid + Operational reliability
+approach and landing.
+and a web server. and fleet performance. *Navblue an Airbus subsidiary,
+Head Up Display (HUD) provides customers with flight
++ Helps operators The Head Up Display system pre- operations and air traffic
+to maximise management solutions.
+sents flight information and guidance
+use of aircraft
+on a glass plate mounted behind the
+maintenance
+windshield in the pilot’s field of view.
+documentation, + Contributes to increasing pilot
+thereby reducing
+situational awareness, particularly
+costs.
+during approach and landing.
+Sustainable fuel
+Since 2016, Cathay Pacific’s A350s
+have been delivered with a 10 percent
+blend of sustainable jet fuel in its tanks.
++ Customers can choose to have
+delivery flights with sustainable fuel.
+Skywise
+• Aviation data-sharing platform.
+• Additional modules such as
+Skywise predictive maintenance
+and Skywise reliability.
++ Allows airlines to improve operational
+performance, optimise maintenance,
+engineering and flight operations
+decision-making, reduce costs.
+9102
+-
+46#TSAF
+53
+50 years
+• pioneering,
+• innovation
+• development
+A350 XWB EIS with Qatar
+• Evolutionary adaptive wing design
+• Airspace cabin (wider seats,
+Spares management high ceilings, ambient lighting,
+Airbus Managed Inventory quietest cabin on a twin-aisle
+(AMI), automatic replenishment aircraft, high air quality
+service for Airbus proprietary + Maximum aerodynamic efficiency
+material. Satair (Airbus subsid- by optimising wing loading,
+iary) provides customers with reducing drag, lowering fuel burn.
+material and logistics man- + Lighter, more cost-efficient, reducing
+agement, while offering a wide maintenance requirements.
+worldwide distribution network. + Passenger comfort.
++ Reduced procurement + Flexibility from regional A350-900ULR with Singapore Airlines.
+Furthest-flying commercial aircraft in service
+costs, consolidated to Ultra-Long-Range.
+(up to 9,700 nautical miles).
+shipments and real-time
++ No additional fuel tanks required
+inventory management.
+- just an adaptation of the existing tank.
+Reduced replenishment
++ Possibility of flying over 20 hours non-stop.
+cycles, minimizing
+inventory holding.
+2010’s
+2019
+A330neo EIS
+with TAP Air Portugal
+• Lowest seat-mile cost
+for mid-size wide-body.
+Ab-initio flight
+• New-generation engines,
+training
+an advanced high-span wing,
+Airbus Pilot Cadet
+new materials across the wing
+Training Programme,
+including titanium pylon
+delivered by the Airbus
+and composite nacelle.
+Flight Academy Europe
++ Reliable and versatile
+and by independ-
+A320neo EIS at Lufthansa
+30 minutes to over 15 hours.
+ent partnering flight
+Two new engine options: + Improved aerodynamics.
+A220 Family schools.
+Pratt & Whitney’s PurePower + Lower fuel burn per seat. • State-of-the-art technologies + Equips cadets
+turbofan and CFM International’s + Airspace cabin.
+• Wider economy seats to become opera-
+LEAP-1A.
++ Airspace cabin. • Lightweight structure tionally-ready
++ 20% improvement and advanced systems pilots, with key pilot
+• 100-150 seat. competencies.
+in fuel burn per seat.
++ 50% reduction + Fuel efficiency. + Helps meet future
++ Passenger comfort. high demand
+in noise footprint
++ Reduced noise footprint for pilots.
+and NOx emissions
+and NOx emissions.
+50% below CAEP/6
+standards.
+9102
+-
+46#TSAF
+63
+FAST FORWARD
+Airbus is powered by innovation to redefine and shape the future of flight
+Finding inspiration in nature: AlbatrossOne takes flight
+When the albatross seabird soars for long distances, it “locks” its wings at the shoulder.
+But when faced with wind gusts, it unlocks them to better navigate the sudden, brief
+increase in wind speed. This flight technique inspired Airbus engineers in Filton to
+develop AlbatrossOne, a small-scale, remote-controlled aircraft demonstrator that
+has “semi-aeroelastic” hinged wing-tips. “The concept of hinged wing-tips is not
+new,” explains Airbus engineer Tom WILSON. “Military jets employ them to
+allow greater storage capacity on aircraft carriers. However, AlbatrossOne
+is the first aircraft to trial in-flight, freely flapping wing-tips—which
+account for up to a third of the length of the wing.” In comparison,
+a conventional wing on an aircraft transmits huge loads to the
+fuselage during turbulence. This requires the base of the wing
+to be heavily strengthened, thus adding weight to the
+aircraft. By allowing the wing-tips to react and flex to
+wind gusts, load is significantly reduced.
+The AlbatrossOne project aims to provide new
+insight on how to reduce drag, and relieve
+the effects of wind gusts and turbulence.
+It recently concluded a 20-month
+development programme. The next
+step is to conduct further tests
+to combine the two modes,
+allowing the wing-tips
+to unlock during flight
+and to examine
+the transition.
+Computer vision to power more autonomous flight
+What if an aircraft could taxi, take off and land by itself? This is the idea
+behind the Autonomous Taxi, Take-off and Landing (ATTOL) project.
+ATTOL leverages computer vision technologies and techniques to
+enable commercial aircraft to navigate and detect obstacles during
+taxi, take-off, approach and landing. “Many aircraft are already
+able to land automatically,” Sébastien GIULIANO, ATTOL
+project lead, explains. “But they’re reliant on external
+infrastructure like Instrument Landing System (ILS)
+or GPS signals. ATTOL aims to make this possible
+solely using on-board technology to maximise
+efficiency and to reduce infrastructure cost.”
+Autonomous flight tests are expected
+in mid-2020.
+9102
+-
+46#TSAF
+73
+A more personalised in-flight experience
+Imagine if passengers could “pre-order” their preferred food and beverages
+for a more customised experience. Or cabin crew could benefit from full
+transparency on inventory management for efficient operations. Thanks
+to the Airbus Connected Experience, all of these benefits will soon be
+available on board. The platform will link interconnected core cabin
+components—including the galleys, meal trolleys, seats, overhead
+bins and other cabin elements—in real time. “This seamless
+inter-connectivity within the cabin will be of tremendous
+benefit to passengers who will be able to enjoy individually
+tailored, personalised and high-quality in-flight service,”
+says Soeren SCHOLZ, Airbus SVP Cabin & Cargo
+Programme. Airbus Connected Experience
+is designed to be line-fit and retrofit. It will
+be made available on the A320 Family
+first, before extending to other Airbus
+programmes. The platform is fully
+compatible with Airbus’ Open
+Software Platform (OSP) and
+will also be “Skywise-
+ready” for future data
+analytics, thus
+enabling predictive
+maintenance.
+Lift, tilt & fly: Vahana’s full transition flight validates design
+Only a few years ago, Vahana—Airbus’ electric vertical take-off and landing (eVTOL)
+vehicle demonstrator—was merely a sketch on a napkin. Today, Vahana is a full-
+scale flying aircraft that recently completed its full transition flight. During the
+flight, Vahana’s wing and canard rotate to the full cruise configuration before
+accelerating to a speed of up to 168 Km/h. “This flight marks a major
+engineering milestone,” says Zach LOVERING, Vice President of UAM
+Systems. “It represents everything we set out to achieve when we
+began our flight test campaign: to confirm the technical viability
+of the vehicle we first sketched out on a napkin years ago.”
+The full transition flight marks Vahana’s 66th flight since
+flight testing began in 2018. Vahana is one of two
+eVTOL demonstrators Airbus is working on.
+The lessons learned from Vahana will contribute
+to developing a future market-ready vehicle
+that is expected to help make urban air
+mobility possible within the mid-
+2020s timeframe.
+egatireH
+etaroproC
+subriA
+fo
+ysetruoc
+otohP
+FAST FROM THE PAST
+There wouldn’t be any future without the experience of the past
+9102
+-
+46#TSAF
+83
+Focke-Wulf F19 Ente (1927)
+“This is your captain speaking”
+In the early days of commercial aviation, on this Focke-Wulf F19 Ente (canard),
+the pilot sat just in front of the 2 or 3 passengers.
+Cabin communication* should in theory have been easier... except the pilot was outside.
+*see cabin communication article page 20
+Around the clock, around the world
+300+ Airbus field reps and 140+ stations
+Technical, Material & Logistics
+9102
+-
+46#TSAF
+93
+Field Service
+Support
+Tel: +33 (0)5 6193 3936 Airbus Technical AOG Centre (AIRTAC) Spares RTN/USR, WSP and HMV Orders
+Fax: +33 (0)5 6193 4964 Tel: +33 (0)5 6193 3400
+For Europe, Africa, Middle East,
+Fax: +33 (0)5 6193 3500
+Asia-Pacific & China: Please contact your
+airtac@airbus.com
+dedicated Single Point of Contact (SPOC).
+More info:
+AOG Spares Centre of Competence
+Tel: +49 (0)40 5076 4002
+For Europe, Africa, Middle East, Fax:+49 (0)40 5076 4012
+Asia-Pacific & China: ifd.spares@airbus.com
+Tel: +49 (0)40 5076 4001
+For Americas:
+Fax: +49 (0)40 5076 4011
+Please contact your dedicated
+aog.spares@airbus.com
+Single Point of Contact (SPOC).
+For Americas: More info:
+Tel: +1 70 3729 9000 cod.americas@airbus.com
+Fax: +1 70 3729 4373
+aog.na@airbus.com
+Airbus training centres
+Hamburg
+Denver Toulouse Seoul
+Miami Beijing
+Tunis
+Mexico
+New Delhi
+Dubai
+Hong Kong
+Bangalore
+Ho Chi Minh
+Ba ngkok
+Singapore
+Campinas Jakarta
+Chile (2020)
+Buenos Aires
+For more information on flight crew, cabin crew, maintenance, and structure training,
+please contact your Training Product Sales Manager:
+training.commercial@airbus.com or discover www.services.airbus.com
+BY YOURS.
+FLY
+With Airbus Services, we help fulfil
+your fleet’s full potential, leaving you
+free to focus on what matters most –
+your customers. Skywise digital solutions
+ensure the ultimate in optimised aircraft
+availability, whilst our enhanced in-flight
+experiences mean both passengers and
+crew benefit from a more comfortable and
+connected journey onboard, every time.
+We make it fly.
+airbus.com
+14043_AIR_Services_297x210_Fast_Magazine_1.0.indd 1 31/07/2019 16:03
+STUDIO:PublicisL ondon:2019:Airbus:14043_AIR_Trade_Press_Adapts_2019:ENGLISHA DAPTS:SP ADAPTS:Services:14043_AIR_Services_297x210_Fast_Magazine_1.0
+31 JULy 2019 4:03 PM | SIZE: 297MM X 210MM | BLEED: 3MM | PUBLICATION: FAST MAGAZINE | CODE: X
+CUTTER LASER PMS
+14043_AIR_Services_297x210_Fast_Magazine_1.0
+PROOF READER: DATE: PROJECT MANAGER: DATE:
+POWERED BY
+ACCOUNT MANAGER: DATE: CREATIVE: DATE:
+FINAL APPROVAL
+SIGNATURES

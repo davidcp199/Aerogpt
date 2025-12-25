@@ -1,0 +1,1677 @@
+Airbus technical magazine
+October 2018
+#62
+FA S T
+Flight Airworthiness Support Technology
+Already have the FAST app?
+Now get the latest news for customers
+via Newsfeed by Airbus.
+FAST
+Airbus Airbus
+by by
+FAST and Newsfeed by Airbus apps
+are downloadable to your preferred device
+Already have the FAST app?
+Now get the latest news for customers
+via Newsfeed by Airbus.
+FAST
+Airbus Airbus by by
+FAST and Newsfeed by Airbus apps
+are downloadable to your preferred device
+8102
+-
+26#TSAF
+30
+Airbus technical magazine
+#62
+FA S T
+Flight Airworthiness Support Technology
+A350-900 tail cone
+Chief Editor: Deborah BUCKLER Focus on fuel 04
+Writing support: Parkinson Stephens Editorial Increasing efficiency
+Design: PONT BLEU and reducing emissions
+Cover image: Alexandre Doumanjou Lightning 10
+Printer: Amadio
+and HIRF effects
+Monitoring aircraft to ensure
+Authorisation for reprinting
+FAST magazine articles long-term protection
+should be requested by email:
+fast.magazine@airbus.com Laminar wings 14
+Testing, with pilots in mind
+FAST magazine is available on internet
+www.aircraft.airbus.com/
+Be cool, be efficient 22
+support-services/publications/
+Better management of air-con
+and on tablets or smartphones
+on the ground
+ISSN 1293-5476
+The structural fuel leak 30
+challenge
+© AIRBUS 2018 All rights reserved. Proprietary document
+Detecting and preventing
+By taking delivery of this Magazine (hereafter ‘Magazine’), you accept on behalf
+of your company to comply with the following. No other property rights are granted
+by the delivery of this Magazine than the right to read it, for the sole purpose of Ultra Long Range 34
+information. This Magazine, its content, illustrations and photos shall not be modified
+nor reproduced without prior written consent of Airbus. This Magazine and the
+A350-XWB
+materials it contains shall not, in whole or in part, be sold, rented, or licensed to any
+third party subject to payment or not. This Magazine may contain market-sensitive
+Extra distance, extra comfort
+or other information that is correct at the time of going to press. This information
+involves a number of factors which could change over time, affecting the true public
+representation. Airbus assumes no obligation to update any information contained in
+this document or with respect to the information described herein. The statements FAST from the past 38
+made herein do not constitute an offer or form part of any contract. They are based on
+Airbus information and are expressed in good faith but no warranty or representation
+is given as to their accuracy. When additional information is required, Airbus can be
+contacted to provide further details. Airbus shall assume no liability for
+any damage in connection with the use of this Magazine and the materials it contains, Around the clock, 39
+even if Airbus has been advised of the likelihood of such damages. This licence
+is governed by French law and exclusive jurisdiction is given to the courts and tribunals around the world
+of Toulouse (France) without prejudice to the right of Airbus to bring proceedings for
+infringement of copyright or any other intellectual property right in any other court of Field representatives and training centres
+competent jurisdiction. Airbus, its logo, A300, A310, A318, A319, A320, A321, A330,
+A340, A350, A380 and A400M are registered trademarks.
+Photo copyright Airbus
+Photo credits: Airbus Photographic Library, Airbus Corporate Heritage,
+Master Films, Hervé Gousset, Philippe Masclet, Benjamin Mouchet, Pierre-Jean Argaud,
+Alexandre Doumanjou, Sylvain Ramadier, Pascal Pigeyre, Anthony Pecchi
+8102
+-
+26#TSAF
+40
+Focus on fuel
+Increasing efficiency and reducing emissions
+Article by
+Nicolas DUVAL
+Fuel and Emissions Performance Manager
+AIRBUS
+nicolas.duval@airbus.com
+Emmanuelle AYGAT
+Fuel and Emissions Performance Manager
+AIRBUS
+emmanuelle.aygat@airbus.com
+Fuel represents around 40% of an airline’s direct operating costs
+and is subject to price volatility like few other overheads. Any reduction
+in consumption not only directly improves an airline’s margins but,
+equally importantly, brings obvious environmental benefits.
+What’s the latest on emissions regulation and how can operators
+reduce their carbon intensity?
+8102
+-
+26#TSAF
+50
+Focus on fxuyezl
+Jet fuel was 52% more expensive in May 2018 than it was a
+year earlier. That means, according to International Air Transport
+Association (IATA) data, that airlines will pay about $40 billion
+more for fuel this year than in 2017. Indeed, the industry
+organisation has warned that its members’ 2018 profits will be
+12% lower than originally forecast, at $33.8 billion, because
+of the fuel price spike.
+Today’s aircraft such as the Airbus A350 XWB, A320neo and A330neo are far
+more efficient than previous models; the latest generation of engines brings
+double-digit fuel burn reduction, and incremental aerodynamic improvements
+such as Sharklets deliver smaller but regular gains.
+However, it is an airline’s entire operating environment and all the actors involved
+that contribute most to shaping its efficiency and its fuel consumption.
+That environment covers the complete flight cycle, from taxi to final approach,
+landing, ground operations, and maintenance.
+nollaG
+SU
+rep
+stnec
+SU
+ni
+leuF
+teJ
+Average prices of jet fuel (US cents/USg) and crude oil (US$/barrel)
+220
+210
+200
+190
+180
+170
+160 Jet fuel
+150 Crude oil
+140
+130
+$SU
+ni
+lerraB
+liO
+edurC
+75
+70
+65
+60
+55
+50
+45
+Aug
+2016
+Oct
+2016
+Dec
+2016
+Feb
+2017
+Apr
+2017
+Jun
+2017
+Aug
+2017
+Oct
+2017
+Dec
+2017
+Feb
+2018
+Apr
+2018
+Jun
+2018
+Aug
+2018
+Source: Energy International Agency & Airbus
+nollaG
+SU
+rep
+stnec
+SU
+ni leuF
+teJ
+Average prices of jet fuel (US cents/USg) and crude oil (US$/barrel)
+220
+210
+200
+190
+180
+170
+160 Jet fuel
+150 Crude oil
+140
+130
+$SU
+ni
+lerraB
+liO
+edurC
+75
+70
+65
+60
+2% Insurance 55 Finance Fuel
+3% Landing
+50
+42% 6% Navigation 25%
+45
+Aug
+2016
+Oct
+2016
+Dec
+2016
+Feb
+2017
+Apr
+2017
+Jun
+2017
+Aug
+2017
+Oct
+2017
+Dec
+2017
+Feb
+2018
+Apr
+2018
+Jun
+2018
+Aug
+2018
+9% Crew Insurance 2%
+Source: Energy International Agency & Airbus
+Landing 3%
+1% Line maintenance
+Navigation 6%
+8% maintenance
+4% maintenance Crew 9%
+25% Finance
+Direct operating costs
+2% Insurance
+Fuel 3% Landing
+42% 6% Navigation
+9% Crew
+1% Line maintenance
+8% Engine maintenance
+4% Airframe maintenance
+25% Finance
+8102
+-
+26#TSAF
+60
+Focus on fuel
+2010 2020 2050
+1.5% fuel efficiency Carbon neutral -50% CO2 emissions
+per year growth compared to 2005
+Airbus supports the CORSIA Airbus supports
+ATAG* aspirational Airbus supports ATAG, ATAG in this ambitious
+objective to achieve ICAO, states and airlines and challenging goal
+1.5% fuel efficiency to ensure the successful towards a 2-degree
+per year with new implementation of pathway requiring
+technologies and the CORSIA scheme significant research,
+new aircraft - also contributing investment and policy
+Improve fleet
+*Air Transport Action Group to capacity building development fuel efficient by
+1.5% per year
+from now until
+2020.
+5002 0102 0202 0302 0402 0502
+CORSIA and carbon offsetting:
+What you need to know
+Aircraft engines produce nitrogen oxide, unburnt hydrocarbons, particulates and
+noise. Reducing levels of each requires different methods. For example, Airbus
+has partnered with British Airways to reduce the noise impact of the A380 around
+London Heathrow. They have worked with the thrust and climb angle to reach
+higher flight levels sooner on departure, and with the thrust and angle of descent
+to stay higher for longer on arrival. The project has seen improvements over some
+communities of up to nine decibels on departure and up to two decibels on arrival.
+However, this inevitably has an effect on fuel consumption.
+As the most well-known of combustion engine emissions, carbon dioxide gets
+What is offsetting?
+the most attention. A single ton of jet fuel produces just over three tons of CO .
+2
+To reach civil aviation’s self-imposed aim of stabilising carbon emissions at 2020 Carbon offsetting is simply a way
+levels, regulated monitoring and offsetting is acknowledged as compulsory in an for individuals or organisations to
+industry where, according to IATA, passenger numbers will almost double between neutralise their proportion of an
+2016 and 2035 at a 3.7% compound annual growth rate. aircraft’s carbon emissions on
+a particular journey by buying
+One pan-national monitoring device is CORSIA – the Carbon Offsetting and
+carbon credits on the market
+Reduction Scheme for International Aviation. It is a global initiative overseen by
+and investing in carbon reduction
+ICAO, the International Civil Aviation Organisation. CORSIA will make it compulsory
+projects.
+for airlines operating international flights to offset their CO production through
+2
+emission credits on a carbon market fed by sectors seeking to reduce their
+emissions.
+From 2019, airlines involved in CORSIA will be required to monitor and report their
+CO emissions. They should begin preparing compliance from 2018. Although the
+2
+scheme does not fully enter into effect until the end of 2020, thanks to the
+voluntary participation of numerous nations it is estimated that 80% of international CORSIA key dates for airlines
+air traffic will be covered by the scheme from 2021. State participation becomes
+2018 Prepare compliance
+mandatory in 2027.
+2019 Monitor, report
+Airbus supports ICAO and IATA in building awareness and helping deployment
+emissions
+of CORSIA among airlines. Through the Sustainable Aviation Engagement
+Programme, Airbus already offers help to airlines with the monitoring and reporting 2021 80% international
+of emissions to authorities. traffic covered
+by scheme
+As an example, in December 2017 the Indonesian Directorate General of Civil
+Aviation (DGCA) hosted a CORSIA workshop in Yogyakarta in collaboration with 2027 Mandatory
+Airbus, Vertis Finance, Garuda Indonesia and with support from ICAO’s Technical participation
+Cooperation Bureau. Representatives attended from south-east Asian airlines,
+civil aviation authorities and airline associations. The aim was to deliver a concrete
+implementation plan to Garuda and DGCA Indonesia to manage and declare the
+airline’s CO emissions and offsetting obligations.
+2
+No action
+For more on CORSIA
+see the ICAO website Known technology, operations
+and infrastructure measures
+www.icao.int
+Biofuels and additional
+new-generation technologies
+Economic measures
+Net emissions trajectory
+‘No actions’ trajectory
+Carbon neutral growth
+Cap net
+emissions from 2020
+through carbon
+By 2050
+neutral growth
+aviation carbon -50%
+emissions will be
+half what they CO2 emissions
+were in 2005 indexed to 2005
+8102
+-
+26#TSAF
+70
+Focus on fuel
+Learning to be more fuel efficient
+While fuel efficiency recommendations are most effective when tailored to the
+particularities of an airline’s fleet and operations, some tools that help reduce
+consumption can be universally applied. They are detailed in Airbus’ reference
+guide ‘Getting to Grips for Fuel Saving’ whose latest, updated version is planned
+by the end of 2018.
+‘Getting to Grips’ includes best practices on flight and ground operations;
+maintenance task recommendations; information on CORSIA; the role of air traffic
+management in fuel saving; sustainable fuels; and details of Airbus’ aftermarket
+and upgrade services that offer ‘quick win’ improvements. The upcoming version
+has a simplified structure and in 2018 it will cover the A320neo and A380.
+The A350 XWB and A330neo will be covered in a subsequent edition.
+Quick wins offered by Airbus include single engine taxi without APU, known as
+SETWA. SETWA enables an A320ceo aircraft to save up to 25% in fuel burn
+compared to two-engine taxiing, with negligible weight increase. It is available
+on the A320 Family, A330, A350 XWB and A380.
+In addition to the Getting to Grips guide, Airbus hosts yearly fuel savings and
+emissions reduction seminars to examine and discuss latest developments and
+technologies. In 2018 the event reached its seventh edition. It was attended by
+some 160 delegates representing over 50 airlines as well as airports, air navigation
+service providers, original equipment manufacturers, environmental bodies,
+and fuel producers from across the world.
+The seminar is a useful networking opportunity for the fuel efficiency managers,
+pilots and flight operations specialists who attend. It emphasises interactivity to
+explore and respond to airline needs. Subjects for debate and discussion are
+proposed by participants and presenters coming from diverse backgrounds to
+share their insight and experience. Areas covered at the 2018 event include using
+big data to better manage fuel, new technologies and a focus on ground operations.
+The seminar is complemented by twice-yearly webinars that delve into more detail
+on the subjects it raises. It revolves around presentations by Airbus experts and
+detailed question-and-answer sessions. Participants at the March 2018 webinar
+discussed potable water uplift. Airbus and Finnair worked to reduce the amount
+of potable water carried on the airline’s fleet, presenting the results during the
+June seminar.
+Fuel savings & emissions reduction seminar: What the participants say
+Operators work with Airbus in a partnership on fuel The value of the fuel seminars lies in sharing ideas to
+efficiency. We want the same thing, and can have a overcome obstacles together. Every year the event
+frank discussion of what we expect from you. Fuel is allows us to step out of the day-to-day, reflect and
+clearly an Airbus priority, and we know we can count gain some perspective. This is especially relevant in
+on support when we make changes to our business. fostering culture change around the next generation
+of aircraft that come with new fuel saving
+The networking during the seminar is very valuable
+innovations, techniques and tools.
+for meeting your opposite numbers at other airlines.
+The participation is very diverse. Swapping tips and Airbus’ information sharing is encouragingly
+hints when operations are comparable is great. consistent, as the yearly seminar is complemented
+I appreciate the Top Five, when we draw up top by webinars at regular intervals. The fact that you’re
+issues for Airbus to address and press you on how listening to operators, that’s the key to great
+you will tackle them. Of course the following year we customer support.
+can review progress!
+Luigi FOFFA Mike PULASKI
+Fuel Efficiency Manager, British Airways Engineering, Senior Manager, Fuel Smart, American Airlines
+Seminar caucus chairman
+Focus on fuel
+8102
+-
+26#TSAF
+80
+Applying fuel efficiency solutions
+Fuel efficiency can be optimised by concentrating on pragmatic continuous
+improvement in ground operations, flight operations, and maintenance.
+Ground operations Flight operations Maintenance
+Several options for so-called ‘green Airbus’ Green Operating Procedures The airframe is a complex shape and
+taxiing’ exist, from single engine use highlight how fuel burn can be includes many panels, doors and flight
+to hybrid or fully electric manoeuvring. optimized during all phases of flight. control surfaces. In order for the
+Ground movements represent about Operators can use them to define their aircraft to perform at its optimum
+15 minutes per flight; ‘green’ taxiing own fuel policy as part of a general efficiency - i.e. to create the lowest
+can significantly reduce fuel burn during cost reduction policy covering amount of drag - the airframe must be
+the phase. Airbus offers three solutions maintenance and operating costs, fuel as free from irregularities as possible.
+to improve efficiency – SETWA (see consumption and passenger comfort. This means that surfaces should be as
+above), TaxiBot and eTaxi. They deliver Savings can be achieved, for example, smooth as possible, panels and doors
+between 25% and 85% fuel savings by using a Ground Electrical or should be flush with surrounding
+on the ground compared to standard Pneumatic Unit instead of an Auxiliary structure and all control surfaces
+operations, and reducing emissions. Power Unit at the gate, by optimum should be rigged to their specified
+flight level during cruise, or by position.
+TaxiBot – Single aisle aircraft are towed
+optimization of the descent profile.
+by a semi-robotic, pilot-controlled In terms of overall airframe condition
+vehicle with engines switched off. Air traffic doubles every 15 years, (dents, panel gaps, under or over filled
+Modification involves a switch on the raising challenges to safety, reliability panel joints, etc…), particular attention
+cockpit centre pedestal, and taxiing fuel and the sustainability of aviation itself. should be paid to areas of the airframe
+savings of up to 85% can be achieved To respond to these challenges, the that air impinges on first (e.g. forward
+compared to two-engine operations. Airbus subsidiary NAVBLUE develops portion of the fuselage, the nacelles,
+TaxiBot is already available for the A320 digital flight operations and air traffic wings, fin, etc).
+Family and will be certified for the A330, management solutions which offer
+One objective of the maintenance
+A350 XWB and A380. major improvements for navigation,
+schedule is to preserve the aircraft’s
+enhanced operations and savings.
+eTaxi - Aircraft can taxi without engines operational efficiency by the most
+Extra fuel reserves are used to cover
+or without requiring airport tractors or economic means possible. This is
+potential uncertainties during flight;
+tugs. A significant modification is achieved through inspections, and
+however, they increase aircraft
+needed to install electric motors in the subsequent repair as necessary, in
+operating weight and fuel consumption
+main landing gear that are powered by specified areas at specified intervals.
+and may reduce payload. Using an
+the APU. But eTaxi brings savings of up These intervals are the minimum
+MSN or ‘tail-centric’ approach,
+to 85% compared to two-engine taxi allowable, but the industry is
+NAVBLUE offers a set of innovative
+and removes pushback fees: the weight constantly seeking to extend task
+applications to save fuel. Its consulting
+of the electric motors is compensated intervals. Although carrying out any
+services help airlines implement a fuel
+by fuel savings. It will be available on maintenance task more regularly might
+and flight efficiency strategy by
+the A320 Family from 2021. increase maintenance costs, some
+optimizing activities related to flight
+tasks can bring significant reductions
+preparation and flight operations.
+in fuel consumption.
+TaxiBot eTaxi
+Focus on fuel
+8102
+-
+26#TSAF
+90
+Sustainable aviation fuels
+Sustainable Aviation Fuels (SAF) are a significant pillar to be used by aviation to
+reach carbon neutral growth. SAF are built by blending alternative and renewable
+sources of raw materials with conventional fuels. A variety of blends is available
+on the open market, although the sector is still in its infancy in terms of large-scale
+use. Compared to conventional jet fuel, SAF can reduce life cycle greenhouse gas
+emissions by up to 80%.
+2010 2020 2050
+1.5% fuel efficiency Carbon neutral -50% CO2 emissions
+per year growth compared to 2005
+Airbus supports the CORSIA Airbus supports
+ATAG* aspirational Airbus supports ATAG, ATAG in this ambitious
+objective to achieve ICAO, states and airlines and challenging goal
+1.5% fuel efficiency to ensure the successful towards a 2-degree
+per year with new implementation of pathway requiring
+technologies and the CORSIA scheme significant research,
+new aircraft - also contributing investment and policy
+Improve fleet
+*Air Transport Action Group to capacity building development fuel efficient by
+1.5% per year
+from now until
+2020.
+Around 100,000 flights per year are now operated using SAF, according to IATA
+data. However that amounts to just 0.5% of the aviation industry’s total fuel bill
+of around $200 billion a year. IATA says a ‘massive uplift’ in SAF production and
+use is necessary to reach a 50% cut in net CO2 emissions by 2050, compared
+to 2005 levels.
+Airbus offers customer ferry flights from its Toulouse base using a biofuel blend
+provided by Total. Cathay Pacific uses the facility for each A350 XWB delivery,
+including its first A350-1000 which left Toulouse in June carrying a 10% blend
+of sugarcane-based biofuel. Other customers, including China Airlines and Iberia,
+have also used the facility for their ferry flights. Airbus’ delivery centres in Mobile
+(Alabama) and Finkenwerder (Germany) have been identified as the next targets
+for SAF facilities.
+CONCLUSION
+Effective fuel management is essential to optimising airline operations and reducing aviation’s environmental
+footprint. This is especially true at times of fuel price volatility. While latest-generation engines such as those
+that power the A320neo, A330neo and A350 XWB offer significant savings, it is important to see the bigger
+picture. Fuel burn can be truly optimised by implementing performance-boosting retrofits and running efficient
+ground, flight and maintenance operations.
+Fuel efficiency recommendations are subject to continuous improvement and Airbus works closely with its
+customers to optimise fuel consumption. Airbus is of course fully committed to carbon-neutral aviation
+through its support for monitoring initiatives such as CORSIA and institutional programmes such as the United
+Nations’ Sustainable Development Goals.
+5002 0102 0202 0302 0402 0502
+No action
+Challenges and targets
+Known technology, operations
+and infrastructure measures
+Biofuels and additional
+new-generation technologies
+Economic measures
+Sustainable aviation fuels
+Net emissions trajectory
+‘No actions’ trajectory and new technologies
+Carbon neutral growth are expected to account
+Cap net for more than 50%
+emissions
+from 2020 of CO savings
+through carbon 2
+By 2050
+neutral growth
+aviation carbon -50%
+emissions will be
+half what they CO2 emissions
+were in 2005 indexed to 2005
+Lightning
+and HIRF
+effects
+Monitoring aircraft to ensure long-term protection
+Article by
+Eduardo ORGAZ VILLEGAS
+Maintenance Engineering - Systems
+AIRBUS
+eduardo.orgaz@airbus.com
+When lightning strikes an aircraft, the result
+looks spectacular from the ground and it
+can also cause alarm for passengers.
+However, aircraft are designed to cope well
+with what is actually a fairly common event
+– on average a passenger jet will be hit by
+lightning once every 1,000 flight hours.
+Airbus monitors one of the different means
+of protection against lightning which also
+contributes to protecting aircraft against
+High Intensity Radiated Fields (HIRF). 8102
+-
+26#TSAF
+01
+Lightning and HIRF effects
+What happens during
+a lightning strike?
+Lightning strikes are most likely to occur during landing and takeoff flight phases
+when aircraft are passing through cumulonimbus clouds that create high electrical
+charges. Strikes are less likely during cruise phase, partly because most cruising
+altitudes are well above the clouds, but also because pilots can navigate around
+storms once they are well into their journey.
+Lightning arrives at the extremities or protuberances of the aircraft, usually a wing
+tip or the nose; this is known as the entry point. It then leaves from another
+extremity, or exit point, such as the tail, as it continues on its path to earth.
+During this process the fuselage acts as a Faraday cage: an enclosure used to
+block electromagnetic fields and conduct the lightning current safely.
+Those onboard might notice some noise, sense what feels like an impact and even
+experience brief disruption of the cabin lights; however there is usually no cause
+for concern. On traditionally designed aircraft the aluminium ‘skin’ does the
+conducting, while ultra-modern aircraft such as the A350 XWB have a copper layer
+embedded in their carbon fibre fuselage sections specifically to handle lightning.
+The aircraft is designed to ensure aircraft structure electrical continuity. It is
+capable of distributing lightning current in a highly effective way, thus providing
+key protection. Nevertheless, there are other means of protection such as: systems
+architecture (ensuring redundancy and dissimilarity); devices/equipment protection
+(equipment qualification against electromagnetic hazards); and design and
+installation rules of the electrical installation.
+Dealing with induced current
+When an aircraft is struck by lightning, induced voltages inside the fuselage may
+occur. These induced voltages are produced between the external surface of the
+aircraft, where the current is high, and the internal part of the aircraft which acts
+as ground to the potential reference.
+The induced voltages could be enough to disrupt the aircraft systems if harnesses
+lacked an additional layer of protection. This protection is provided through the use
+of braided metal conduits which conduct current safely to the aircraft’s voltage
+reference points, ensuring only a minor amount of current reaches the cables
+inside or metallic raceways protecting cable signals.
+The conduits also function as a barrier reducing HIRFs* such as those generated
+by radar stations. These could interfere with the functioning of aircraft systems but
+the braided conduits, combined with Electro-Magnetic Hazards (EMH) qualification
+equipment, ensure attenuation of HIRF events. All aircraft equipment is qualified
+against EMH, based on Environmental EUROCAE RTCA-DO160 (environmental
+conditions and test procedures for airborne equipment).
+*HIRF = High Intensity Radiated Fields
+8102
+-
+26#TSAF
+11
+Braided metal conduits
+8102
+-
+26#TSAF
+21
+Lightning and HIRF effects
+Checking for damage:
+Lightning/HIRF Assurance Plan
+Of course, all this protection relies on the good condition of the conduits and their
+correct functioning throughout the aircraft’s lifecycle. As well as satisfying
+airworthiness requirements of the conduits at the time of type certification, Airbus
+monitors them over time through a sampling campaign. This is known as the
+Lightning/HIRF Assurance Plan and through Airbus expertise, close collaboration
+with customers and systematic data gathering, it contributes to keeping the current
+fleet safe as well as to improving future aircraft design.
+How aircraft are selected
+For each campaign, Airbus works on a representative sample of aircraft
+considering a range of environmental factors such as humidity, heat levels, routes,
+airports and distances covered. Having identified suitable aircraft for sampling,
+Airbus invites the corresponding operators to participate in the campaign with one
+aircraft from each fleet. Lightning/HIRF inspections are then organised to fit around
+the airline’s routine maintenance checks so that there is no disruption to normal
+MRO scheduled activities.
+Sampling campaigns start six years after entry-into-service, with one aircraft per
+family inspected per year. This sampling is repeated after 12 years (2nd campaign),
+18 years (3rd campaign) and so on.
+The inspection: finding and fixing issues
+Airlines are already obliged to carry out their own visual inspections. However,
+Airbus looks for signs which are not visible from the outside. These inspections
+can take place anywhere in the world and usually involve a small, multi-
+functional team of experts from Airbus with the full range of engineering and
+maintenance skills that could be required.
+Potential sources of High Intensity Radiated Fields
+Military aircraft
+Commercial aircraft
+Telecommunications
+Sea vessels
+Radar Vehicles
+Lightning and HIRF effects
+Most of the work involves a device known as a loop resistance tester (LRT).
+With all aircraft systems switched off, this is clamped onto a section of the
+braided conduit and a measured current is applied. The team measures the
+flow of charge through the conduits. The LRT shows how well the conduit is
+conducting the current, thus demonstrating the status of the harness protection.
+If any sign of conductivity reduction is revealed, the LRT pinpoints the cause.
+The team has a part 145 qualification allowing it to work on the aircraft and
+repair or rectify as required, free of charge.
+Loop Resistance Tester Multimeter
+AC current AC current
+applied measured
+AIRCRAFT STRUCTURE
+This process is repeated on conduits all over the aircraft over a period of several
+days and all data about different forms of degradation is recorded. Causes of
+conductivity reduction have included mainly degradation of bonding areas linked
+to environmental conditions. The team can deal with many issues directly
+on-site. It tends to find fewer issues on older aircraft as modifications and
+service bulletins, made following earlier sampling campaigns, have guided
+constant refinements of the design.
+After inspection: bringing long-term solutions
+Once Airbus has inspected all targeted aircraft in a sampling campaign, it
+presents the findings to the aircraft certification authorities (EASA and FAA).
+After careful consideration, solutions are agreed for any issues that have been
+found. They could involve quality improvements, modifications, or changes to
+scheduled maintenance tasks. Finally, the outcomes may influence the scope
+and number of aircraft to involve for the following campaign.
+The data gathered during campaigns is also extremely valuable in informing the
+design of aircraft and variants to remove common causes of degradation – an
+example of highly effective preventative maintenance. The work carried out on
+aircraft during inspections will influence current and next generations.
+CONCLUSION
+Although aircraft are very well protected against lightning strike and HIRFs, the use of braided metal conduits
+to add an extra layer of protection to the aircraft’s systems is essential for airworthiness certification.
+Through regular sampling campaigns, the Lightning/HIRF Assurance Plan helps to ensure that these standards
+are maintained throughout the lifecycle. Findings from inspections are shared with the certification authorities
+and the Airbus design office also uses them to refine their future use of conduits.
+8102
+-
+26#TSAF
+31
+Laminar wings
+Testing, with pilots in mind
+8102
+-
+26#TSAF
+41
+Airbus is working at the heart of European research into
+the feasibility of natural laminar flow within an industrial
+environment. Known as BLADE (Breakthrough Laminar
+Aircraft Demonstrator in Europe), the project involves
+21 partners and around 500 contributors working closely
+together as part of the Clean Sky* European project.
+All of them depend on the data gathered by an Airbus
+flight test team to push the research further.
+8102
+-
+26#TSAF
+51
+Laminar winxgysz
+*Clean Sky is a European research programme developing innovative, cutting-edge technology aimed
+at reducing CO , gas emissions and noise levels produced by aircraft. Funded by the EU’s Horizon 2020
+2
+programme, Clean Sky is a joint undertaking that contributes to strengthening European aero-industry
+collaboration, global leadership and competitiveness.
+8102
+-
+26#TSAF
+61
+Laminar wings
+FAST talked to (left to right)
+Julien Moreau - flight test specialist engineer,
+José Corugedo-Bermejo - flight test engineer,
+Thierry Fol - flight lab leader,
+Karl-Heinz Mai - experimental test pilot,
+to find out more about their role in the project,
+how they keep airlines in mind and exactly how
+they gather the data.
+FAST: What are you hoping to achieve with BLADE? Examples of two upper cover options
+Karl-Heinz: The simplest way to put it is fuel efficiency. Natural laminarity is
+essentially super smooth air flow close to the wing skin and the resulting reduction
+Natural Laminar Flow wing section
+in drag allows aircraft to fly using less power. In concrete terms, the use of laminar
+wings on short and medium range commercial aircraft could mean a 5% fuel burn
+saving, by modifying the shape and the surface finish. This would create many
+financial benefits, as well as a consequent drop in emissions. However, it has to be
+achieved without adding complexity in aircraft operation for pilots and airlines, and Laminar wing structure concept Laminar wing structure
+without having too much impact on cruising speed. Laminar wing w s ith tr c u o c n t t u in r u e ou c s o s n ur c fa e c p e t with leading edge jo L in a e m d i t n o a bo r x wing structure
+Thierry: We already know that laminarity works – gliders are usually laminar aircraft with continuous surface with leading edge joined to box
+- but it has long been assumed that it is unsuitable for larger, more robust
+commercial aircraft with their need for much greater speeds and power. The
+argument has been that, although a laminar commercial aircraft is technically
+possible, it couldn’t be produced at a cost that made it practical.
+Karl-Heinz: That practicality is a recurring theme in the project. Laminarity’s full
+benefits are probably best achieved at slightly lower speeds than airlines currently
+favour, so we have to consider the possible consequences for air traffic control.
+Flight controls and flight parameters have to be adapted to ensure that aircraft
+handling remains normal. The flight envelope might change a little and the physics
+might shift slightly but, for pilots converting to a laminar winged aircraft, there has
+to be no change.
+Starboard Port
+Laminar wing structure concept Laminar wing structure
+with continuous surface with leading edge joined to box
+“5% fuel burn saving without adding Starboard Port
+Laminar wing structure concept Laminar wing structure
+complexity in aircraft operation for with continuous surface with leading edge joined to box
+pilots and airlines, and without having
+too much impact on cruising speed”
+8102
+-
+26#TSAF
+71
+Laminar wings
+FAST: So are you flying with root-to-tip laminar wings now?
+Julien: No, but that’s quite a common misconception so it’s best to be clear about
+what we do. We needed a scale-1 demonstrator to test the laminar surfaces that
+some of the BLADE partner companies have developed. This was firstly because
+we want to fly these laminar surfaces in representative aerodynamic conditions,
+in terms of Mach* and Reynolds* numbers.
+And secondly, wings flex and distort in flight and that can disrupt laminar flow.
+We aren’t flying around with a futuristic A340 wing. The experimental zone refers
+only to the panels of laminar materials in place of some of the outer wing panels of
+an A340 test aircraft. We’re then monitoring what happens to those panels during
+Examples of two upper cover options real flights and sharing that data with the rest of the project.
+José: You’d never see an aircraft in flight with different coloured panels; but we’re
+not after cosmetic perfection, we just need results. Being able to use the first A340
+Natural Laminar Flow wing section ever built was fantastic because its big wings give us a natural zone to experiment:
+the 2/3 span of a typical transonic short-range aircraft wing of the type most likely
+to benefit from natural laminarity.
+Thierry: That’s one of the great benefits of being involved in this project – it’s a
+Laminar wing structure concept Laminar wing structure genuinely experimental test flight campaign. If we need to check results or fly
+with continuous surface with leading edge joined to box
+Laminar wing structure concept Laminar wing structure differently, we can. The partners tell us what they’d like to know, but we decide
+with continuous surface with leading edge joined to box how to gather the data. This can be challenging but it’s also fun being pushed to
+find solutions. Knowing about the transition from laminar to turbulent flow on a
+surface in a lab is essential. Knowing how much the distortion caused by the
+aircraft movement can trigger the transition is a whole new area.
+FAST: How do you gather the data?
+Julien: A full list of techniques would be very long but I think the most unusual
+compared to standard flight test equipment probably involve infrared cameras,
+reflectometry, the waviness beam and pressure taps. Getting the first infrared
+images showing exactly where the transition line from laminar to turbulent air flow
+was on the test panel was a thrill for us all. Infrared isn’t new technology but it was
+the first time anybody had mounted cameras on an aircraft tail and used it to
+measure laminarity on such a wide wing surface.
+Starboard Port
+Laminar wing structure concept Laminar wing structure
+FAST: How well is BLADE going and can customers buy
+with continuous surface with leading edge joined to box
+aircraft with laminar wings in the near future?
+José: We can’t answer the second part – we’re working to establish how well the
+laminar panels supplied by our industrial partners will work in real flight conditions.
+We can say that, from a flight test point of view, they seem to be working well
+enough so far for us to be optimistic about the future.
+Karl-Heinz: The other aspect is to emphasise what Julien said earlier – BLADE
+Starboard Port
+isn’t about trialing a new type of wing. We’re trying to establish whether laminarity
+Laminar wing structure concept Laminar wcianng bster uac tpurraectical option for designers of future aircraft. At this stage we can’t be
+with continuous surface with leading ecdegreta jioni ntheadt ttoh eb opxotential fuel savings can become a reality while avoiding
+disruption and excessive expense, and we’re in no position to guess at
+manufacturing costs. However, at Airbus we’re commercial aircraft-minded people
+and we wouldn’t be pressing ahead with a project like BLADE if we didn’t think the
+signs were suggesting that this could be good for us and our customers.
+* Mach: Ratio between speed of aircraft and sound of aircraft
+** Reynolds: Ratio between inertia forces and viscous forces inside the fluid
+8102
+-
+26#TSAF
+81
+Laminar wings
+Re-thinking testing methods
+A great deal of the data gathered during the BLADE flights is gathered on all test flights
+and standard flight test installation equipment fulfils this function. However, the data
+relating to laminar flow required new equipment and new thinking.
+Infra-red
+To provide data that will help partners decide if a laminar wing will be a practical
+option for future serial production aircraft, the team needed to record changes in
+laminarity levels on the test panels in real time. The changes to the wing surface
+caused by adjustments in angle of attack or speed influence the air flow over the
+wing. To measure these changes, they used existing infra-red technology and
+skin temperature change at transition point.
+As shown in the diagram below, laminarity involves a thin layer of smooth air
+flowing over the wing skin. When this flow ceases to be smooth and becomes
+turbulent, it has reached the line of transition and laminar flow has ended. The
+exact point at which this happens changes according to the materials and shape
+used to make the test panel and all the other variables that occur during flight.
+The BLADE test team mounted infra-red cameras on the vertical tailplane of the
+A340 and these provide a stream of images showing the thermal patterns on the
+wing as shown in image to the right.
+The areas where air flow is turbulent appear white and light grey in the infra-red
+images and the areas of laminar flow show as dark grey. Looking at these
+images alongside flight data allows an accurate account to be established of
+how the laminarity of the panels being tested changed in the course of any
+flight. This is crucial information for the wider BLADE project but whenever a
+change is detected a question is raised: Why did that change in laminarity
+occur?
+Infra-red airflow
+Laminar flow
+Turbulent air flow disperses wing heat by increasing mixing with
+cooler air around wing. Then wing temperature distribution is directly
+linked with transition line.
+Laminar
+8102
+-
+26#TSAF
+91
+Laminar wings
+Reflectrometry
+The answer is frequently to do with changes in the wing surface caused by
+pressure changes during flight. To measure these pressure changes, and the
+distortion they cause, the BLADE team combines a brand new technique with
+some well-established, pressure-measuring ones.
+The new technique is known as reflectrometry and relies on the basic concept
+that, to get a perfect reflection, a completely flawless reflective surface is needed.
+The further that surface moves away from perfection, the more distorted the
+reflected image becomes, as demonstrated by mirrors at fairgrounds.
+This is the first time that reflectometry has been used during flight tests so, although
+the BLADE team are pleased with its performance, they are cautious and run a
+simultaneous test using other means to ensure that the results are accurate.
+8102
+-
+26#TSAF
+02
+Laminar wings
+8102
+-
+26#TSAF
+12
+Laminar wings
+The waviness beam
+Rather than trying to replicate the ‘whole wing’ approach of reflectometry, the
+team take a clear, highly accurate linear measurement of any skin waviness
+caused by pressure changes. A beam supporting a line of highly sensitive, tiny
+position sensors is placed under the skin of the wing and this generates a mass
+of data showing exactly what is happening to the wing skin across a single narrow
+section of the wing. If this data confirms the wider picture being given by the
+reflectometry equipment, the team can be confident that they have an accurate
+way of recording the effects.
+Flight deformation data
+In-flight deformation data is a crucial support in tackling industrial constraints
+because it allows researchers working on different laminar materials to predict the
+impact that different manufacturing techniques will have on the laminar flow levels
+of a future wing. If creating the most laminar wing possible makes it too expensive
+to manufacture, a wing that offers a certain amount of laminarity could be
+economically viable. To decide this, the designers of tomorrow’s wings need to
+understand the distortion levels and performance of the different laminar options.
+CONCLUSION
+The Airbus flight test team are playing a key role in the BLADE partnership. By taking a flexible and genuinely
+experimental approach to how they use the A340 test aircraft, the team is generating data that will allow
+Airbus and its partners to come to a careful assessment of the commercial potential of laminar wings.
+That assessment’s accuracy will depend on having data that demonstrates how the experimental wing
+surface behaves during real flight. Testing panels which are integrated into a bigger and well-established
+wing is a long way from flying any fully laminar wing that might be designed in future. However, gaining
+real-world insights into laminar flow could now allow that design process and the consequent fuel burn
+and emission savings to become reality sooner than was previously thought likely. BLADE is accelerating
+industrial laminarity.
+Be cool,
+be efficient
+Better management of air-con on the ground
+8102
+-
+26#TSAF
+22
+Article by Didier GENDRE
+Airport Operations Manager
+AIRBUS
+didier.gendre@airbus.com
+Nicolas ORVAIN
+Electromechanical Systems Manager
+- Engineering Sales & Marketing
+AIRBUS
+nicolas.orvain@airbus.com
+Dariusz KRAKOWSKI
+ECS System Architect ATA21/36
+AIRBUS
+dariusz.krakowski@airbus.com
+Making passengers feel comfortable, even as Although on-board auxiliary power units (APUs)
+can provide effective cabin air-conditioning, they
+they are boarding their plane, gives a good first
+are increasingly restricted by legislation and may
+impression. In hot climates, this means the cabin not be the preferred option for environmentally
+friendly and cost-conscious airlines.
+temperature is cool and the step from boarding
+Whether a solution involves conventional ground
+gate to cabin is seamless. The challenge for
+carts or subfreezing operations*, best practices
+airlines is to keep their passengers comfortable can improve air-conditioning operations on the
+ground. There are ‘quick wins’ and more complex
+whilst at the same time reducing fuel consumption
+procedures, but it is worthwhile carefully
+in line with airport environmental requirements; considering how to combine them to best effect
+to obtain maximum efficiency at minimum cost.
+they also need to keep their own costs down.
+*Subfreezing operations: the temperature at the aircraft inlet is below 2°C
+8102
+-
+26#TSAF
+32
+Be cool, be efficient
+Quick wins on the apron
+Efficient air-conditioning operations are in everybody’s best interests and Airbus
+provides data and guidance. However, if air-conditioning on the ground seems
+too costly or is not meeting the expected standards, checking some basic
+measures may help.
+Choosing the right cart
+Airbus does not recommend one particular cart because every airline operates
+in its own way, flying different destinations and times. Add the variations in cabin
+layouts and passenger numbers and there simply isn’t a ‘right air cooling unit’ for
+everybody. However, there are some aspects of the aircraft characteristics that
+are worth emphasising:
+The air flow rates and temperature requirements for the ground cart, provided in
+sections 5.6 and 5.7 of the aircraft characteristics documents, are needed at the
+point where the aircraft is connected to the ground equipment.
+The manufacturers of the equipment publish a cooling capacity in kilo-watts or
+tons in the US. However, this is only indicative and will not necessarily ensure the
+temperature and flow rate combinations at the point of aircraft connection that
+translate into good performance.
+Steady state data – a false friend?
+Airlines choosing a cart might also look at the steady state* data, but this actually
+refers to a theoretical state of a settled temperature that is never reached in
+normal operations. Once an aircraft is ready to take off, the job of the ground
+equipment is over and the on-board systems run the air-conditioning. This usually
+occurs long before the steady state is reached which means that, although the
+figure is very useful for ground air-conditioning designers, it is of limited use to
+airlines.
+The example below shows a cart which might be rejected because it has a steady
+state above the desired comfort zone. Nevertheless, it might actually do an
+efficient job of pulling down the cabin temperature to below the 27°C objective
+in plenty of time for boarding. Equipment with a steady state figure within the
+comfort zone might be more powerful and expensive than is really needed.
+Boarding Dispatch erutarepmet
+nibaC
+*Steady state is reached when the temperature distribution of the cabin does not change with respect to time.
+Air-conditioning at turnaround
+38°C
+Steady state
+27°C
+COMFORT ZONE
+t=0
+time
+Pull-down time
+Pull-down time: the time needed
+to lower cabin temperature down
+Pull-down time
+to its temperature objective,
+prior to passenger boarding
+8102
+-
+26#TSAF
+42
+Be cool, be efficient
+Common mistakes – and best practices
+When it comes to using the cart, there is still more to do than simply switching it
+on or off, even when the unit performances appear to match with aircraft demand.
+Three of the photographs below show a number of common mistakes that can
+combine to make a cart 50% less effective in cooling performance than it should
+be. Severe bends, or ‘elbows’, in hoses cause a loss of pressure which leads to a
+drop in cooling power. The same is true of undetected leakages, while overly-long
+hoses dragging on the ground can lead to the cooled air becoming warmer than
+it should be by the time it reaches the aircraft.
+The other two photos show some popular best practices. One is the use of
+stainless steel telescopic tubes which is a low maintenance, highly effective
+alternative to traditional hoses. The other shows a pit system that protects hoses
+and pre-conditioned air units from heat and contamination by keeping them
+underground. This is being installed in the Middle East at Bahrain and Dubai,
+and in Europe at Barcelona and Hamburg.
+Examples of mishandling / misuse Examples of good operation
+1) Elbows on hoses when deployed 4) Stainless steel telescopic (IST solution)
+beneath the PBB
+2) Leaks/bad condition (wearing) of the hose
+5) PCA pits (Cavotec solution in Bahrain),
+3) Too much hose on ground
+shortening hose length and reducing contamination
+1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+1 2 3 4 5 1 2 3 4 5
+8102
+-
+26#TSAF
+52
+Be cool, be efficient
+Quick wins in the aircraft
+Airlines continue to request solutions for an APU alternative at the gate. In addition
+to subfreezing, other initiatives have been launched to explore solutions.
+Cabin fans on or off?
+The AMM tasks related to air-conditioning used to require cabin fans to be ON;
+this was a default position. It was associated with a CAUTION, the rationale being
+the possibility of damage to avionics. Nevertheless, some airlines did practice
+‘FANS OFF’ on their aircraft as they experienced better air-conditioning for the
+cabin. After analysis of the impact on avionics, Airbus’ recommendation for
+‘FANS ON’ eventually turned out to have been conservative, except for the
+A330/A340 Family for which the recommendation ‘FANS ON’ is maintained.
+‘Cabin FANS OFF’ operation is now permitted on all Airbus products except
+the A330/A340 Family, when supplying air at the aircraft inlet above +2°C.
+This allows an increase in the maximum flow rate entering the aircraft.
+For example, for the A320 Family, the maximum flow rate goes from 1.0 kg/s –
+limitation with ‘Cabin FANS ON’, up to 1.3 kg/s – limitation with ‘Cabin FANS OFF’.
+This increased flow rate can help to achieve faster cooling and is an improvement
+even if not combined with the best practices described here.
+A/C type AMM simplified Cautions *See detailed description in the AMM AMM reference
+A320 > CAB FANS ON/OFF 1 door opened or alternative free area* TASK 12-33-21-618-001-A
+> PCA ON Pre-conditioning through the LP Ground Connection
+A320 > Subfreezing PCA 1 door opened or alternative free area* TASK 12-33-21-618-002-A
+> CAB FANS ON FANS ON mandatory Pre-conditioning through the Low Pressure SUBFREEZING PCA GROUND-AIR SUPPLY
+A380 > Subfreezing PCA 1 door opened or alternative free area* TASK 21-00-00-618-805-A
+> CAB FANS ON FANS ON mandatory Pre-Conditioning through the Low-Pressure SUBFREEZING PCA GROUND-AIR SUPPLY
+> APU ON
+A380 > PCA ON 1 door opened or alternative free area* TASK 21-00-00-618-808-A
+CAX to be checked Pre-conditioning through the Low-Pressure Ground Connection together with the APU
+> CAB FANS OFF
+> APU OFF
+1 door opened or alternative free area* TASK 21-00-00-618-801-A
+A380 > PCA ON
+CAX to be checked for CAB Fans OFF Pre-Conditioning through the Low-Pressure Ground Connection with Electrical Power On
+> CAB FANS OFF/ON
+A350 > Subfreezing PCA 1 door opened or alternative free area* TASK A350-A-21-XX-XX-03001-398A-A
+> CAB FANS ON Fans ON mandatory Pre-Conditioning with Subfreezing Air through the Low Pressure (LP) Ground Connection
+> APU OFF
+TASK A350-A-21-XX-XX-00001-398A-A
+A350 > PCA ON 1 door opened or alternative free area*
+Pre-Conditioning through the Low Pressure (LP) Ground Connection
+> CAB FANS OFF/ON
+> Subfreezing PCA/LPG 1 door opened or alternative free area* TASK 12-33-21-618-801-A03
+A330
+> CAB FANS ON FANS ON mandatory Pre-conditioning with a Low-Pressure SUBFREEZING PCA ground-air supply unit
+> APU OFF
+1 door opened or alternative free area* TASK 12-33-21-618-801-A
+A330 > CAB FANS ON
+FANS ON mandatory for Avionic Ventilation Pre-conditioning through the Low-Pressure Ground Connection
+> PCA ON
+> Subfreezing PCA 1 door opened or alternative free area* TASK 12-33-21-618-801-A03
+A340
+> CAB FANS ON FANS ON mandatory Pre-conditioning with a Low-Pressure SUBFREEZING PCA ground-air supply unit
+> APU OFF 1 door opened or alternative free area* TASK 12-33-21-618-801-A
+A340 > CAB FANS ON FANS ON mandatory for Avionic Ventilation Pre-conditioning through the Low-Pressure Ground Connection
+> PCA ON
+8102
+-
+26#TSAF
+62
+Be cool, be efficient
+Why Does FANS ON/OFF vary according to avionics architecture?
+For the A330 and A340 programmes, CAB FANS are integrated into the avionic
+ventilation system as blowing fans and supply some of the necessary air to the
+avionic compartments. Switching them off directly impacts the avionic ventilation
+system which is why Airbus does not recommend switching CAB FANS OFF for
+A330 and A340.
+For the A380, to decide if CAB FANS can be switched to OFF, operators should
+refer to the dedicated AMM task. Part of the ventilation system (the low pressure
+fans system) supplies some air required by the rear avionic compartments so, if
+CAB FANS are switched to OFF, there is a need to check the extraction operates
+properly.
+Also, all Airbus aircraft should have FANS ON during subfreezing operations:
+this is to prevent risk of icing in the mixing chamber.
+Deployment of subfreezing units
+Airbus already issued a list of design requirements for the subfreezing unit suppliers.
+These requirements are provided in the document ‘Subfreezing PCA carts: compliance
+document for suppliers’ (ref: X21RP1146224, issue 06, dated 02 February 2015).
+As explained in the article on subfreezing in FAST #52:
+Replacing the need for APU use at the gate, ground units may now provide -25°C Pre-
+Conditioned Air (PCA) directly to the aircraft’s interface, without any aircraft modification.
+This new subfreezing PCA considerably reduces the ‘pull-down’ phase, even in extremely
+hot and humid conditions, and allows airlines to keep the aircraft cool more efficiently
+during turnaround time. The reduced use of the Auxiliary Power Unit leads to economy
+of fuel and reduction of direct maintenance costs. Furthermore the ‘pack off’ operation
+increases the time between cleaning the pack heat exchangers and contributes
+to reducing bleed leak overheat occurrences in hot regions.
+A resulting advantage is the decrease of noise pollution and emissions at the gate.
+Five risks, resulting in limitations for ground air conditioning operations, have
+been identified:
+Risk Limitation Low pressure
+air-con operations
+Cabin overpressure Max. flow rate at A/C inlet in kg/sec All
+Duct overpressure Max. pressure at A/C inlet in mbars-g All
+Icing in the mixing chamber Min. temperature at A/C inlet in °C Subfreezing
+Duct over-temperature Max. temperature at A/C inlet in °C All
+Icing in the mixer chamber Max. humidity at A/C inlet in g water/1 kg air Subfreezing
+and distribution ducting
+All these limits are defined based on current Airbus Environmental Control System
+architecture and differ from one programme to another.
+Subfreezing system
+Compressor Driver PCA Decoding unit Data broadcaster
+Provide compressed air Suppress humidity Control air flow - Connect to the broadcaster wifi network - Provide wifi access point
+- Decode the received A/C parameters - Connected to P-MAT plug
+- Provide representative analog signals - Select / down-sample A/C parameters
+to PCA control unit - Broadcast live parameters
+8102
+-
+26#TSAF
+72
+Be cool, be efficient
+Manufacturers have developed three families of products:
+• Air systems (cold production by expansion throughout an air cycle machine) Systems can be centralised
+or ‘on post’ as mobile equipment
+• Vapour cycle systems (evaporation/compression of cooling fluid)
+or equipment fixed under
+• Other solutions based on liquid nitrogen evaporation (air/nitrogen exchanger) the passenger bridge.
+The three solutions above are compliant with Airbus defrost cycle with manufacturers requesting a reduction of
+requirements, so the choice will be made according to airport the cycle period. In agreement with customers, each proposal
+development plans and airline needs according to the air features a particular setting, ranging from soft subfreezing
+cooling unit performances and the characteristics of the (down to -10°C at the aircraft inlet) to deep subfreezing
+turnaround. Following discussions with the manufacturers, (down to -25°C at the aircraft inlet), according to the ambient
+the compliance document (issue 06) has reached a certain conditions, from extreme hot areas to continental ambience.
+maturity level, the main topic of discussion being on the
+APU restrictions and fuel savings:
+Today, roughly one third of airports restrict the use of the However, for air cooling units lacking in performance, the
+APU, mainly to reduce noise and emissions. The Aeronautical APU still has to be operated during boarding or disembarking
+Information Publication mentions that ‘the use of the fixed in hot regions.
+energy system has saved 12,170 tonnes (t) of fuel, 38,500t of
+Deployment of subfreezing solutions is actually slower than
+carbon dioxide (CO ) and 75t of nitrogen oxides (NOx)’.
+2 hoped previously and the introduction of this new operating
+Extract from Unique (Flughafen Zürich AG), Zurich, 2004.
+procedure for air-conditioning in AMM tasks is not yet
+Another study was made by an air cooling unit manufacturer widespread. At new airports in extremely hot areas, it appears
+in 2005 demonstrating the benefits of current air-conditioning to be a prerequisite, the trend being for these new hubs to
+ground cart units. It concluded that airlines could save 15M have a centralised system delivering subfreezing air at each
+USD per year and an airport could obtain a net revenue of gate.
+2.5M USD with a return on investment in three years, just by
+With these notable exceptions, there does seem to be a
+using PCA.
+reluctance to embrace the new technologies: this may be due
+This shows that in terms of economy, it is preferable to use to lack of awareness, unfavourable economics, or both.
+a ground-based PCA instead of the APU. Either way, use of the APU at the gate remains quite common.
+Alternatives to subfreezing
+Airbus has developed for the A380 only, a specific procedure A trend for the airport of the future is automation at the ramp
+for extreme hot day operation on ground with APU ON, CAB with use of extensive ground units connected and one single
+FANS OFF and air cooling unit operative. This new procedure man-machine interface. Smart GSE wireless connectivity for
+allows operation of the APU at a lower regime with air cooling ground cooling function has been successfully tested on one
+unit operative. A350 XWB test aircraft, allowing a closed loop in temperature
+between the aircraft and the ground and making the air-
+The new procedure exists under reference AMM TASK
+conditioning operation a simple one
+21-00-00-618-808-A, Pre-Conditioning through the Low-
+(ON/OFF unit after selection of the aircraft)
+Pressure Ground Connection together with the APU.
+and both more efficient and safer
+(flow rate and temperature control).
+Air cooling unit – wireless connectivity
+Be cool, be efficient
+8102
+-
+26#TSAF
+82
+Achieving the comfort objective
+The most effective approach to achieving the correct cabin temperature varies massively according to the airline,
+the destination and the time of day. Taking careful account of all the variables to make a series of correct
+decisions is essential. Subfreezing is one solution, especially in hot and humid environments such as the Gulf
+nations, but it is not always available. New air-conditioning procedures are also an option and are further
+alternatives to using the APU, although they are probably not sufficient in very hot and humid environments.
+Referring to the air-conditioning charts in the AMM, airlines can pick the best solution that fits the comfort
+temperature objective for one specific aircraft on a particular mission.
+As an example, let’s consider an A320 aircraft. The aircraft is hot-soaked (45°C outside average temperature)
+in Doha, Qatar, and has to be prepared to fly in the morning (pull-down) to Amman, Jordan.
+First flight of the day
+Preparation of the aircraft (pull-down phase):
+APU OFF
+OAT (Outside Average Temperature) 45°C
+Aircraft is soaked up (cabin at 45°C)
+T0: Start air-conditioning
+Air-conditioning (COOLING) settings (conditions at aircraft inlet): 1.3 kg/s at 2°C
+(not exceeding 40 mbar-g at the aircraft interface) FANS OFF operation
+Objective: pull the cabin temperature down to 27°C (comfort objective) in less than
+one hour. T0+49 minutes: aircraft cabin = 27°C; T0+65 minutes: aircraft cabin = 25°C
+Turnaround at departure from Doha, Qatar with OAT 45°C:
+IFE: ON
+Blinds: OFF
+Lights: ON
+Galleys: ON
+Air conditioning (COOLING) settings (conditions at aircraft inlet):1.0 kg/s at 2°C
+(not exceeding 40 mbar-g at aircraft interface) FANS ON operation.
+Objective: maintain cabin temperature at 25°C
+T0: Start boarding
+T0+45 min. dispatch (APU ON)
+Two-hour flight - turnaround at destination (Amman)
+OAT 30°C
+Aircraft cabin at 25°C
+Air-conditioning (COOLING) settings (conditions at aircraft inlet): 1.3 kg/s at 2°C
+(not exceed 40 mbar-g at the aircraft interface) FANS ON operation.
+Objective: maintain cabin temperature at 25°C
+T0: Start de-boarding
+T0+45 minutes: dispatch (APU ON)
+Two-hour flight - turnaround at destination (Doha)
+OAT 45°C
+Aircraft cabin at 25°C
+Same objective and settings as above
+Be cool, be efficient
+This target has to be met after pull-down of the hot-soaked aircraft and is to be maintained
+during the turnaround of the aircraft (de-boarding/boarding of passengers until dispatch).
+With a 45°C outside average temperature (OAT), for the A320 the following target temperatures
+can be met (with max. 40 mbars-g pressure at Aircraft Interface):
+Aircon ground Cabin Fans Flow rate Temp at Achieved cabin Pull-down
+ops status at aircraft inlet A/C inlet temperature at the
+duration
+(kg/sec) end of pull-down
+22°C 85 min
+Subfreezing unit ON (mandatory) 1.0 -10°C 25°C 59 min
+27°C 46 min
+22°C >2 hrs
+Conventional ON 1.0 +2°C 25°C >2 hrs
+27°C 139 min
+22°C 103 min
+Conventional OFF 1.3 +2°C 25°C 65 min
+27°C 49 min
+CONCLUSION
+Environmental legislation, coupled with the determination of airlines and airports to become
+‘greener’, means that the drive to find alternatives to APUs on the ground is set to continue
+and intensify. Alternatives certainly exist thanks to subfreezing technology and new procedures.
+Depending on their cooling power and the ambient conditions, they can achieve cabin target
+temperatures in many circumstances.
+Nevertheless, a simple established truth that applies to all air-conditioning options remains pertinent.
+All solutions rely on careful application of all the basic procedures and without this, they will be
+rendered ineffective. Poor hose quality or a lack of care about deployment can undermine the
+merits of any system.
+A similar level of care is also essential in choosing the right options for a specific aircraft in
+particular circumstances. This can make as much difference to energy consumption and effective
+cooling as the selection of air-conditioning technology.
+In the near future, the growing automation trend for ground operations will make air-conditioning
+procedures even more efficient. We should see reductions in pull-down time for aircraft
+preparation, improved safety with automatic shut-down in case of over pressure, excessive
+flow rate or too low a temperature, and simpler control of units. This automation will rely on
+e-connecting the air-conditioning unit to the aircraft, closing a temperature control loop between
+the aircraft and the unit, and drawing the best performance out of the unit to reach and maintain
+the cabin temperature comfort target.
+As these changes take place, Airbus is ready to support airlines and airports that want to improve
+their ground operations, whether they are implementing subfreezing technology, tailoring
+procedures or introducing connectivity to air cooling units.
+8102
+-
+26#TSAF
+92
+8102
+-
+26#TSAF
+03
+The structural
+fuel leak
+challenge
+Detecting and preventing
+Fuel leaks are a fact of life for aircraft operators Article by (left to right)
+and when they are discovered during walk-around
+Nicolas RIBIÈRE
+inspections, they can prove particularly disruptive Structure Engineering Expert
+AIRBUS
+and costly. Airbus receives frequent requests from
+nicolas.ribiere@airbus.com
+customers seeking support in detecting and managing
+Patrick SALVAN-GUILLOTIN
+these incidents. In response, it offers guidance based on
+Wing-Pylon-HTP-VTP Structure Engineer
+decades of experience with its global fleet. The dual aim AIRBUS
+patrick.salvan-guillotin@airbus.com
+is always to help operators reduce the time any aircraft
+Clement DUCASSE
+spends on the ground and to prevent recurrences
+Wing-Pylon-HTP-VTP Structure Engineer
+by ensuring that repairs are carried out correctly. AIRBUS
+clement.ducasse@airbus.com
+8102
+-
+26#TSAF
+13
+The structural fuel leak challenge
+The structural
+Where and why do fuel leaks happen?
+The most common areas for fuel leaks are the wing dry bay and the wing to
+fuel leak centre wing box RIB 01, but other areas may include the wing front spar, wing
+bottom skin and wing tank access panel. Leaks can be challenging because
+they can occur in many different places, and for a variety of different reasons.
+challenge Wing to centre wing box junction Incorrect sealant application Current sealant cracked due to bolt rotation
+Detecting and preventing
+Damage on sealant bead Cavity not sealed
+Seal degradation
+Wing spar junction
+Detecting external and internal leak points
+The simplest form of external leak point detection can be carried out with fuel
+remaining in the tanks and a basic product. The likely area of the leak source is
+cleaned and then covered with a dusting of talcum powder. The powder’s
+absorbent qualities allow it to soak up any fuel and the point at which a dribble,
+or drops, of fuel emerge becomes visible. This method may not help to identify
+the internal leak point but it can prove to be an efficient first step that yields
+quick results.
+To determine the origin of the leak, the internal leak point must be identified.
+One efficient method is to drain the section of the fuel system where the leak
+is present and introduce a pressurised mixture of 90% air and 10% helium.
+This creates a detectable flow of gas out of the leak which exposes the exact
+location of the problem.
+Alternatively, a thin coat of liquid soap can be applied to potential leak sites,
+then pressurised air introduced from the external leak point. The air finds the fault
+in the system and makes the soap bubble up as it leaves – a clear visible sign of
+the leak’s location. Using dye can also make spotting the location relatively easy.
+8102
+-
+26#TSAF
+23
+The structural fuel leak challenge
+Making the repair
+Temporary repairs can be carried out on external leak points and only require
+enough defueling to enable work on the specific area. After thorough cleaning,
+sealant can be applied and, as long as tests confirm that the leak is fixed, the
+aircraft can return to normal service. Nevertheless, it should be kept in mind that
+this solution is only temporary and the problem will return unless a definitive repair
+is carried out.
+A definitive repair involves defueling, draining and venting of the tanks. The internal
+leak point is then detected using the methods outlined above. All old sealant in the
+affected area should be removed using appropriate tools. The area is then
+inspected for damage, and a torque check included if necessary. A bolt removal/
+installation may also be required, especially in the case of bolt rotation or migration
+evidence. Finally, after thorough cleaning, the new sealant can be applied.
+In the case of a definitive repair, the aircraft should return to service with a very low
+probability of leak recurrence, although it will depend on the quality of the repair.
+Inappropriate tools, sub-standard materials or incorrect methods will affect the
+durability of the repair.
+Taking action to prevent recurring leaks
+One key to preventing fuel leaks is to check that repairs are carried out properly.
+If any part of the process is flawed, then recurrence is very likely and inspections
+do often reveal simple causes such as incorrect sealant application and damage to
+sealant caused by bolt rotation.
+In the case of fuel leaks around the fuel tank access panels, tell-tale streaking
+around the panel is a clear sign that the seal is degraded and a leak will follow
+within a few months. Replacing the seal at the next MRO opportunity, as described
+in a dedicated article in FAST 52, will avoid an aircraft on ground situation following
+a walk-around inspection.
+Preventive action also means general
+fuel leak mapping of the aircraft before
+it enters the hangar.
+Helium testing - image courtesy of Sunaero, equipment supplier.
+8102
+-
+26#TSAF
+33
+The structural fuel leak challenge
+Sharing know-how and experience
+Detailed knowledge of the aircraft’s design is essential for effective fuel leak
+trouble-shooting so Airbus has a dedicated team available to help customers.
+They use their design knowledge and experience gathered across the global fleet
+to evaluate fuel leak paths as quickly and accurately as possible.
+Fuel leak path troubleshooting is done based on the analysis of the different
+assembly steps at the Airbus FAL.
+In the case of complex fuel leaks, Airbus strongly encourages customers to
+complete the STRUCTURAL FUEL LEAK REPORTING FORM (SFLRF) mentioned
+in the AMM 28-11-00. This form is required for Airbus analysis and support but
+also for reporting fuel leak data for Airbus records only.
+Meanwhile, customer requests for help with developing their own capacity to
+deal with fuel leaks effectively have led to the launch of a new, tailored workshop
+at the customer premises. After detailed discussions with the customer about its
+fleet and experience of fuel leaks, the Airbus workshop leader prepares the
+workshop to focus on the most relevant areas of trouble-shooting. For instance,
+an airline might find it can deal with most leaks on most types of aircraft very
+effectively, but that recurrence is a problem in a specific area. Or they might
+repeatedly experience a specific type of leak right across their fleet. In either
+case, the benefits of solving or minimizing the impact of a recurrent issue can
+be substantial.
+Whatever the focus, the workshop team combines classroom-based sessions
+with time spent on an actual aircraft, guiding the mechanics through the
+processes and techniques that will help to further refine their skills.
+CONCLUSION
+Dealing with fuel leaks effectively is a challenge because there are many potential sources.
+Understanding the design of the aircraft and having a good grounding in detection techniques
+is essential, as is the experience needed to carry out repairs to a high standard.
+Airbus supports customers with fuel leak trouble-shooting and is now also offering workshops
+for individual airlines.
+Ultra Long Range
+A350 XWB
+Extra distance, extra comfort
+The first Airbus A350-900 Ultra Long Range (ULR)
+enters into service in October 2018 with Singapore Airlines
+(SIA). SIA will use the aircraft to resume the world’s longest
+commercial flight, from Singapore to New York.
+How does the A350-900ULR differ from the standard A350-900,
+and what makes it an efficient and competitive option?
+The case for ultra-long-range flights
+Today, airlines are flying further non-stop with the new generation A350 XWB,
+with only the very longest routes requiring technical stops. Yet there is
+increasing demand for non-stop, ultra-long-haul missions. The convenience
+of them is especially attractive to business passengers, but they appeal as
+much to anyone looking for a direct flight over very long distances.
+Customers keen to open ultra-long-haul routes have long lacked the right
+aircraft to perform them.
+Through consultation with interested airlines, Airbus established the basic
+technical characteristics that such an aircraft would require: a range of up
+to 9,700 nautical miles, representing a flight duration of around 20 hours,
+and without ETOPS* constraints. High comfort standards for both passengers
+and crew, the latest entertainment system and a quiet cabin environment
+were natural pre-requisites.
+*ETOPS (Extended Twin Operations): acronym created by Article by (top to bottom)
+ICAO (International Civil Aviation Organisation) to describe
+the operation of twin-engined aircraft over a route that
+contains a point further than one hour’s flying time from an Philippe PALMER
+adequate airport at the approved one-engine inoperative A350 XWB PIP / ULR project leader
+cruise speed.
+AIRBUS
+philippe.palmer@airbus.com
+Ion LAZARE
+Airframe Architect
+AIRBUS
+ion.lazare@airbus.com
+8102
+-
+26#TSAF
+43
+Ultra Long Range
+A350 XWB
+Extra distance, extra comfort
+8102
+-
+26#TSAF
+53
+Ultra Long Range A350 XWB
+Technical differences between
+A350-900ULR and standard A350-900
+From 2018 onwards, the A350-900 comes with an improved baseline which further
+improves the competitiveness of the product. It consists of an aerodynamic
+performance improvement package including extended winglets, enhanced flap
+support fairings, wing re-twist and modified over-wing fairings; and an increased
+Maximum Take Off Weight (MTOW) option of 280 tonnes. All improvements
+contribute to a greater payload/range capability.
+The challenge was to offer these improvements while avoiding any weight impact
+on the aircraft, and to deliver a mature design. Both have been made possible by
+revising the loads model with knowledge acquired during flight testing, design
+allowable improvement and some weight-saving modifications based on deploying
+technology from the A350-1000. Finally, extensive flight tests in 2017 using Airbus
+test aircraft secured a mature design for the A350-900ULR’s entry into service.
+The major differences between the A350-900ULR and the standard version are:
+Increased fuel capacity Reduced Weight
+The A350-900ULR offers a fuel- The A350-900ULR is one tonne lighter
+carrying capacity of up to 165,000 litres than the standard airframe, thanks to
+(+ 24,000 litres compared to the three adaptations:
+standard A350-900).
+• The A350-900’s large aft cargo area
+Adding this capacity requires means the forward cargo hold can
+adaptation of the fuel system, including be deactivated for ULR operations.
+the centre tank venting architecture
+• Removal of one of the two tanks
+and fuel quantity management system.
+for potable and waste water.
+Thanks to the A350-900’s scalable
+platform, the capacity is provided • Single lane slide at door two
+with existing tanks. (instead of dual lane slide).
+From an industrial standpoint, manufacturing an A350-900ULR does not disrupt
+production lead time when compared to a standard -900.
+CONCLUSION
+The entry into service of the A350-900ULR opens a new way of travelling. It responds to growing demand
+for point-to-point ultra-long haul travel and creates a sustainable, efficient business model for airlines that
+offer that product.
+Thanks to the versatility and efficiency of the A350 XWB Family, Singapore Airlines is resuming the world’s
+longest commercial route, from Singapore to New York, operated until 2013 by the A340-500.
+Airbus is convinced there will be a growing demand for a category of travellers who want to travel as far as
+possible in a non-stop flight. The answer is the Ultra Long Range A350 XWB.
+8102
+-
+26#TSAF
+63
+Ultra Long Range A350 XWB
+The A350 XWB Family
+The A350-900ULR is the latest addition to Airbus’ ultra-modern A350 XWB
+widebody Family. The Family comprises the baseline A350-900 and its larger
+sister aircraft the A350-1000.
+Based on a clean-sheet design, the A350 XWB is by essence a very flexible
+platform. It is designed to offer full operational flexibility with unrivalled levels of
+efficiency and comfort however it is operated, be it on domestic, regional, long
+haul or ultra-long-haul services.
+A350 XWB Family aircraft contain 53% carbon composites, supporting easier
+maintenance and increased resistance to corrosion. They offer 25% lower operating
+costs, fuel burn and CO emissions when compared to previous-generation aircraft.
+2
+The A350-900 is the cornerstone member of the A350 XWB Family.
+It accommodates 325 passengers in a standard three-class configuration.
+Measuring nearly 74 metres from nose-to-tail, the A350-1000 is the longest-fuselage
+version of the A350 XWB Family. In a typical three-class configuration, the A350-1000
+seats a total of 366 passengers. The aircraft entered into service in February 2018.
+Why the A350-900 suits ultra-long-haul operations
+Comfort Flexibility Economics
+The A350-900’s Airspace cabin (see The A350 XWB Family is designed to The A350-900 is a clean sheet
+right) offers the quietest widebody cabin provide airlines with high flexibility in design bringing a step change in
+flying today. Its effective temperature operations. It can be operated efficiency, with 25% lower fuel burn
+management system, lower cabin efficiently whatever the sector length, and cash operating costs compared
+altitude compared to previous-generation from regional up to ultra-long-range. to the competitor aircraft it replaces.
+aircraft, and full-LED ambient lighting all Additionally, with its mature design
+This flexibility means the A350-
+contribute to passengers’ well-being. the A350-900 reaches high levels
+900ULR can easily be returned to
+This helps them to arrive at their destina- of operational reliability.
+a standard -900 configuration.
+tions feeling rested and refreshed even
+after the longest flights. Furthermore, Building the ULR from the A350-900
+cabin air is renewed every two to three was made possible thanks to
+minutes, a shorter cycle than the older extensive design and upstream
+aircraft it replaces. industrial studies, avoiding complex
+modifications. Part of the engineering
+The A350-900 can accommodate a
+development, for example, involved
+broad range of cabin configurations from
+the relocation of sensors in the fuel
+economy-led three-class arrangements
+system enabling existing tanks to carry
+to a more premium-orientated layout,
+the maximum fuel load for the ULR.
+with a level of comfort perfect for ultra-
+This dispensed of the need for
+long-range operations. Singapore Airlines’
+additional fuel tanks.
+A350-900ULR configuration is tailored for
+high-comfort, ultra-long-haul flights with
+a large number of business class berths.
+8102
+-
+26#TSAF
+73
+Ultra Long Range A350 XWB
+A350-900 Ultra Long Range
+Dimensions Capacity Performance
+Overall length 66.80 m Pax Customisable Range 18 000 Km / 9700 nm
+Cabin length 51.04 m Typical cruise speed M0.85
+Fuselage width 5.96 m Freight Max LD3 capacity underfloor 16 Max ramp weight 280.90 tonnes
+Max cabin width 5.61 m Max pallet capacity underfloor 5 Max take-off weight 280.00 tonnes
+Wing span (geometric) 64.75 m Bulk hold volume 11.3 m3 Max landing weight 205.00 tonnes
+Height 17.05 m Total volume (bulk loading) 82.9 m3 Max zero fuel weight 192.00 tonnes
+Track 10.60 m Max fuel capacity 165 000 litres
+Wheelbase 28.66 m
+What is Airspace?
+Airspace is Airbus’ cabin brand. The A350-900ULR
+features an Airspace cabin for maximum comfort.
+Airlines have to differentiate the experience they offer
+from that of their competitors in the age of instant
+and far-reaching passenger reviews on social media.
+Hundreds of details come together to make one airline
+cabin superior to another but space, comfort and
+ambience are probably the biggest contributors to
+overall in-flight well-being.
+These are Airspace’s biggest attributes. It takes the
+best of the ultramodern A350 XWB cabin already flying
+today to create a unique experience.
+At the heart of the Airspace cabin ‘DNA’ are the
+advanced technologies developed for the A350 XWB
+Family. Key enablers include more spacious lavatories,
+larger storage bins, adaptable full-LED lighting and
+unique entrance features. Airspace also offers excellent
+cabin crew and galley facilities that lead directly to
+better service.
+egatireH
+etaroproC
+subriA
+fo
+ysetruoc
+otohP
+FAST
+There wouldn’t be any future
+without the experience of the past.
+from the past
+Many years ago, passengers already enjoyed
+comfortable seats and overhead lighting.
+Today, however, the Airspace by Airbus concept
+takes passengers to infinitely higher levels of
+comfort (see page 37), contributing to their overall
+well-being during flight.
+8102
+-
+26#TSAF
+83
+06#TSAF
+34
+Around the clock, around the world
+Airbus has more than 300 field representatives, based in over 130 cities
+Technical, Material & Logistics
+USA/CANADA Airbus Technical AOG Centre (AIRTAC) Spares RTN/USR, WSP and HMV Orders
+Tel: +1 703 834 3484 Tel: +33 (0)5 6193 3400
+For Europe, Africa, Middle East,
+Fax:+1 703 834 3464 Fax: +33 (0)5 6193 3500
+Asia-Pacific & China: Please contact your
+airtac@airbus.com
+dedicated Single Point of Contact (SPOC).
+CHINA
+More info:
+Tel: +86 10 8048 6161 Ext. 5020 AOG Spares Centre of Competence
+Tel: +49 (0)40 5076 4002
+Fax: +86 10 8048 6162
+For Europe, Africa, Middle East, Fax:+49 (0)40 5076 4012
+Asia-Pacific & China: ifd.spares@airbus.com
+FIELD SERVICE SUPPORT
+Tel: +49 (0)40 5076 4001
+ADMINISTRATION For Americas:
+Fax: +49 (0)40 5076 4011
+Tel: +33 (0)5 6193 3936 Please contact your dedicated
+aog.spares@airbus.com
+Fax: +33 (0)5 6193 4964 Single Point of Contact (SPOC).
+For Americas: More info:
+Tel: +1 70 3729 9000 cod.americas@airbus.com
+Fax: +1 70 3729 4373
+aog.na@airbus.com
+Training centres
+Airbus Training Centre Airbus Training Centre Americas Training by Airbus Jakarta
+Toulouse, France Miami, Florida - U.S.A. antoine.renaud@airbus.com
+Tel: +33 (0)5 62 11 82 24 Tel: +1 (305) 871 3655 (switchboard)
+or +33 (0)5 61 93 39 75 Fax: +1 (305) 871 4649 Airbus Asia Training Centre Singapore
+Fax: +33 (0)5 6193 2094 miamicustomertrainingsales@airbus.com Tel: +65 6877 4300 (reception)
+training.commercial@airbus.com contact.info.aatc@airbus.com
+customercare.atc-europe@airbus.com Airbus Training Centre Beijing
+Tel: +86 (10) 6148 7700 Airbus Mexico Training Centre
+Airbus Maintenance Tel: +52 55 57 86 80 50
+Training Centre Airbus Training Centre Bangalore (communication and marketing)
+Hamburg, Germany Tel: +91 080 6638230 (reception) training.commercial@airbus.com
+Tel: +49 (0)40 7438 8288
+Fax: +49 (0)40 7438 8598 Airbus Training Centre Delhi Training by Airbus Korea,
+training.commercial@airbus.com Tel: +91 988 0065511 Seoul, South Korea
+atc.hamburg@airbus.com Tel: +82 (0)32 882 5425
+Training by Airbus Dubai, andrew.rapson@airbuskorea.com
+Airbus Material Management Training UAE - Airbus Middle East FZE Dubai
+Global Availability Tel: +971 4 602 78 62
+Tel: +49 (0)40 5076 1228 mary-knoll.garcia@airbus.com
+spares.training@airbus.com
+8102
+-
+26#TSAF
+93
+FOR YOU.
+FLY
+WE MAKE IT
+With SERVICES BY AIRBUS, you get
+access to the very latest innovations
+in data analytics and technology
+combined with Airbus’ OEM expertise.
+Together let’s build new ways for
+your airplane fl eet to achieve the
+most effi cient and most profi table
+performance for years to come.
+Airbus commercial aircraft.
+Services. We make it fl y.
+14031_AIR_Services_Ad_297x210_MASTER_1.0.indd 1 11/09/2018 13:40
+14031_AIR_Services_Ad_297x210_MASTER_1.0
+11 SEPTEMBER 2018 1:40 PM | SIZE: 297X210MM | BLEED: 3MM | PUBLICATION: PRESS SERVICES MASTER | CODE:
+CUTTER LASER PMS APPROVAL
+14031_AIR_Services_Ad_297x210_MASTER_1.0

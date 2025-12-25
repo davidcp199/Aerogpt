@@ -1,0 +1,2482 @@
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+7
+4
+T
+S
+A
+F
+FAST47_COUV.qxp:couvFAST41 rectoverso 06/01/11 11:36 Page 2
+FAST
+47
+J A N U A R Y 2 0 1 1
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+Customer Services
+events
+Just happened
+Material, Logistics, Suppliers & Warranty sym-
+posium
+This event was held in October 2010, gathering impact of such services on the aircraft residual
+97 customers and 39 suppliers in Paris, France. value. A very productive lessors’ caucus
+Various presentations, live demos and inter- emphasized our ability to react quickly to
+active sessions highlighted the latest innovative lessors’ queries and specific requirements.
+Finally, a satis faction questionnaire showed
+developments and initiatives in the material,
+that lessors were very satisfied with Airbus’
+logistics, suppliers and warranty fields. A very
+customer support and by its special
+active exchange of views took place during the
+consideration for leasing companies.
+12 interactive sessions and caucus discussions
+on different material management topics. Coming soon
+Together, the attendees had the opportunity to
+shape the future requirements and business Airbus Corporate Jet (ACJ) forum
+The next Airbus Corporate Jet forum will be
+models in the material, logistics, suppliers and
+held in Hong Kong, China, from 29 to 31
+warranty domains.
+March 2011. The invitations and programmes
+A380 symposium will be sent at the beginning of 2011.
+This symposium took place in Singapore, in
+November, and featured an airline caucus Performance and Operations conference
+where the operators were able to provide The 17thPerformance and Operations conference
+detailed feedback on their A380 operational will take place in Dubai, from 9 to 13 May 2011.
+experience and expectations, for a review by Organized by Airbus Flight Operations Support
+Airbus and the suppliers. and Services since 1980, this biennial event
+Airbus representatives responded that the provides flight crews, operations specialists, flight
+ongoing enhancement of maintenance and operations engineers and performance specialists
+operational procedures were well on the way to with a unique opportunity to constructively
+meeting its objective of 98.5% operational exchange views and information, and increase
+reliability for the A380 fleet, by the middle of mutual cooperation and communication. The
+2011. The operators recognized the efforts invitations will soon be sent out.
+made by Airbus teams, pointing out their
+exceptional support, commitment and excellent
+A320 Family symposium
+work.
+The next Airbus A320 Family symposium will
+Airbus Leasing Support conference be held in Toronto, Canada, from the 23rd to
+The 7thAirbus Leasing Support conference took 26thMay 2011. An Operators Information Telex
+place last December in Miami, U.S.A., with (OIT) with the programme will be sent out at
+more than 130 participants coming from 43 the beginning of 2011.
+different leasing companies. Airbus Family symposiums are held for each
+A particular focus was put on upcoming rules Airbus programme every two years and target
+and regulations and the associated upgrade
+airline engineering and maintenance managers.
+solutions. The A320, A330/A340 and
+The prime function of these meetings is to
+A300/A310 families’ issues, solutions and new
+enable two-way communication, leading to an
+developments were presented.
+ever safer and more efficient fleet.
+Airbus detailed all the new services for lessors
+to ease aircraft transfers. An Flight Hour
+Services-Tailored Support Package (FHS-TSP)
+presentation was given to highlight the benefits
+of Airbus services to lessors and the positive
+74
+TSAF
+FAST47_COUV.qxp:couvFAST41 rectoverso 20/12/10 11:15 Page 3
+JJ UA NL YU A 2R 0Y 0 72 0 1 1
+40
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+Customer Services
+Events
+Demonstrating the green trajectory
+Fuel efficient trajectory management tested
+on revenue flights
+Tom MAIER
+Automatic Dependent Surveillance
+Broadcast (ADS-B)
+Publisher: Bruno PIQUET Communications development for Air Traffic
+Editor: Lucas BLUMENFELD Management
+Page layout: Quat’coul Christine VIGIER
+Cover: Optical fibre used on aircraft
+Picture from Hervé GOUSSE Optical fibre on aircraft
+ExM Company
+When the light speed serves data transmission
+Authorization for reprint of FAST Magazine articles should be requested Stéphane BOUYSSOU
+from the editor at the FAST Magazine e-mail address given below
+Customer Services Communications
+A300/A310 Family optimized air-vent inlet
+Tel: +33 (0)5 61 93 43 88
+Fax: +33 (0)5 61 93 47 73 NACA Duct
+e-mail: fast.magazine@airbus.com
+Continuous engineering solutions for fuel savings
+Printer: Amadio
+Charles VALE
+FAST Magazine may be read on Internet Hannah RINGROW
+http://www.airbus.com/en/services/publications/
+under ‘Quick references’
+ISSN 1293-5476 Radio Frequency Identification (RFID)
+Airbus business radar
+© AIRBUS S.A.S. 2010. AN EADS COMPANY
+Carlo K. NIZAM
+All rights reserved. Proprietary document
+Paul-Antoine CALANDREAU
+By taking delivery of this Magazine (hereafter “Magazine”), you accept on behalf of
+your company to comply with the following. No other property rights are granted by the Jamil KHALIL
+delivery of this Magazine than the right to read it, for the sole purpose of information.
+This Magazine, its content, illustrations and photos shall not be modified nor Enhanced spare part engineering support
+reproduced without prior written consent of Airbus S.A.S. This Magazine and the
+materials it contains shall not, in whole or in part, be sold, rented, or licensed to any Smart spare parts’ design for a part standardisation
+third party subject to payment or not. This Magazine may contain market-sensitive or
+other information that is correct at the time of going to press. This information involves Tanja BUCHHOLZ
+a number of factors which could change over time, affecting the true public Andy J. MASON
+representation. Airbus assumes no obligation to update any information contained in
+this document or with respect to the information described herein. The statements Kay JASCHOB
+made herein do not constitute an offer or form part of any contract. They are based on
+Airbus information and are expressed in good faith but no warranty or representation
+is given as to their accuracy. When additional information is required, Airbus S.A.S can Electrical installations
+be contacted to provide further details. Airbus S.A.S shall assume no liability for any Past to future
+damage in connection with the use of this Magazine and the materials it contains, even
+if Airbus S.A.S has been advised of the likelihood of such damages. This licence is
+governed by French law and exclusive jurisdiction is given to the courts and tribunals of Customer Services Worldwide
+Toulouse (France) without prejudice to the right of Airbus to bring proceedings for
+infringement of copyright or any other intellectual property right in any other court of Around the clock... Around the world
+competent jurisdiction.
+Airbus, its logo, A300, A310, A318, A319, A320, A321, A330,
+A340, A350XWB, A380 and A400M are registered trademarks.
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 1
+47
+2
+8
+14
+21
+24
+30
+36
+37
+This issue of FAST Magazine has been printed
+on paper produced without using chlorine, to reduce
+Photo copyright Airbus
+Photo credits: waste and help conserve natural resources.
+Airbus Photographic Library, ExMCompany, Airbus France Every little helps!
+1
+EN-ROUTE EN-ROUTE
+Sector A Sector B
+TMA
+Terminal Area
+Surface • Direct routings/less airways
+operation
+• Optimum altitude • Opti
+• Minimum time tracks • Idle descent • Reduced clim
+• Dynamic re-routing • Reduced engine taxi in/out and
+• Improved coordination track miles • Gate hold • Dep
+- Amongst ATC sectors • Unimpeded taxi proc
+- With military cust
+• Required Time of Arrival (4D) aircr
+foot
+weiv
+EDIS
+weiv
+POT
+DEMONSTRATING THE GREEN TRAJECTORY - FUEL EFFICIENT TRAJECTORY MANAGEMENT TESTED ON REVENUE FLIGHTS
+AARRIVAL
+DEPAR
+• Curved RNP approach
+- Noise abatement
+- Track mile savings
+• RNP to ILS transition
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 2
+Demonstrating
+the green trajectory
+Fuel efficient trajectory management
+tested on revenue flights
+At the 5th Aviation and Environment Summit in obtained when airlines, airports and Air
+Geneva, Switzerland, in September 2010, one Navigation Service Providers work hand in hand,
+could get an impression of the multitude of often with the support of the aircraft
+initiatives which our industry is pursuing, to fulfil manufacturer. This article depicts, through
+its engagement for an environmental compatible examples, how revenue flights can be
+growth. Besides research looking typically into instrumental to trial more fuel efficient Air Traffic
+improved airframe, engine designs and alternative Management procedures with the objective to
+fuels, the optimization of the flight trajectory is implement them on a regular basis.
+identified as an area where quick wins can be
+Tom MAIER
+Senior Manager CNS/ATM
+System Sales & Marketing
+Airbus Engineering
+2
+EN-ROUTE EN-ROUTE EN-ROUTE
+Sector A Sector B Sector C
+TMA
+Terminal Area
+Surface
+• Direct routings/less airways • Direct routings/less airways
+operation
+• Optimum altitude • Optimum • Optimum altitude
+• Minimum time tracks • Idle descent • Reduced climb speed • Minimum time tracks
+• Dynamic re-routing • Reduced engine taxi in/out and profile • Dynamic re-routing
+• Improved coordination track miles • Gate hold • Departure • Improved coordination
+- Amongst ATC sectors • Unimpeded taxi procedure - Amongst ATC sectors
+- With military customised to - With military
+• Required Time of Arrival (4D) aircraft's noise • Required Time of Arrival (4D)
+footprint
+weiv
+EDIS
+weiv
+POT
+DEMONSTRATING THE GREEN TRAJECTORY - FUEL EFFICIENT TRAJECTORY MANAGEMENT TESTED ON REVENUE FLIGHTS
+AARRIVAL DEPARTURE
+• Curved RNP approach
+- Noise abatement
+- Track mile savings
+• RNP to ILS transition
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 3
+Background present aircraft capa bilities in the
+Communication, Na vi gation and
+Surveillance (CNS) domain. The
+One of the programmes which
+Asia and Pacific Initiative to
+takes systematically advantage of
+Reduce Emissions (ASPIRE) is the
+revenue flights is the Atlantic
+equivalent programme for that
+Interoperability Initiative to
+region and was launched in Febru -
+Reduce Emissions (AIRE), which
+ary 2008.
+was signed on highest level at the
+Paris Air Show in 2007, between These programmes have to be seen
+the Administrator of the FAA in the wider context of SESAR
+(Federal Aviation Administration) (Single European Sky ATM
+and the European Union Vice Research) and NextGen, its sister
+President/EC Transport Commis - initiative in the United States. Both
+sioner. This initiative aims to started their respective develop -
+reduce CO emissions and to ment work for redesigning the g l o s s a r y
+2
+accelerate the pace of change by ATM airborne and ground system,
+taking advantage of best Air with the objective to enable ATC:Air Traffic Control
+RNP:Required Navigation Performance
+Traffic Management (ATM) prac - sustained air traffic growth at a
+ILS:Instrument Landing System
+tices, as shown in figure 1. It reduced service unit cost for the
+enables the implemen tation of fuel airspace user, reducing the impact
+efficient procedures for all phases on the environment without com -
+of flights, taking full advantage of pro mising safety.
+Green trajectory portfolio
+Optimum trajectory Time Metering Fix
+Figure 1
+Traditional trajectory Waypoint
+3
+DEMONSTRATING THE GREEN TRAJECTORY - FUEL EFFICIENT TRAJECTORY MANAGEMENT TESTED ON REVENUE FLIGHTS
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 4
+In May 2010, the SJU awarded
+another 18 contracts for the
+‘Performance of flight trials
+validating solutions for the
+reduction of CO emissions’. This
+2
+second wave of AIRE revenue
+flight trials (AIRE2) started in fall
+2010 and involves 42 partners,
+with Airbus leading one of the
+projects (A380 Transatlantic
+SESAR and NextGen put the Green Flights) and contributing as
+business trajectory in the centre of a partner to two further (Green
+their operational concepts, which Shuttle and VINGA).
+implies that the airspace user’s
+preferred way of flying is A380 Transatlantic
+compromised to a minimum by Air
+Green Flights
+Traffic Management (ATM). Ena -
+bled by enhanced on-board and
+ground systems, the adherence to This project addresses shortfalls
+the most efficient trajectory caused by congestion on ground
+becomes the baseline for all flights. and in oceanic airspace on Air
+France flights from New-York to
+In the light to ensure a smooth Paris. The average departure taxi
+transition to this target concept, time at JFK is more than 40
+revenue flight trials started in the minutes long which justifies a two,
+meantime to demonstrate locally instead of four engines taxi in most
+some of the concept elements - as cases, saving typically 23kg of fuel
+far as current equipment levels per minute. However, a prerequis ite
+allow - under involvement of small for this procedure is to inform the
+but representative stakeholder flight crew on the estimated take-
+consortia. off time which is provided in the
+frame of this trial to demonstrate
+On the European side, the AIRE one benefit of the airport
+flight trials are overseen by the Collaborative Decision Making
+SESAR Joint Undertaking (SJU) - (CDM) concept.
+the management body which was
+set-up by the European Com- In the oceanic phase of flight,
+mission and Eurocontrol as the most efficient trajectory is
+founding members and which compromised by the North
+counts now 15 more members Atlantic Oceanic Track System
+coming from air navigation service (OTS), which imposes to stick to
+providers, airports and industries - one of the predefined lateral
+, including Airbus - with a strong tracks. Climbing to an optimum
+involvement from airlines. AIRE is flight level is frequently hindered
+building the first blocks of the by other traffic. The A380
+SESAR Concept of Operations by Transatlantic Green Flight trial
+testing 4D trajectory-based ope - takes advantage of the A380’s
+rations and Performance-Based rather high optimum cruise level
+Navigation (PBN). A batch of six (between FL390 to FL430) where
+revenue flight trial projects was little other traffic is encountered.
+executed in 2009 involving 18 The oceanic Air Traffic Control
+partners and accumulating more Centres of Gander (NAV CANADA)
+than 1,000 trial flights (known as and Shanwick (NATS) make
+the European AIRE1 Exercise). arrangements to free the aircraft
+This article will exemplary look at from the OTS. This allows
+one of them, namely the Minimum planning the flight on a minimum
+CO in Terminal area (MINT) time track and to choose the most
+2
+project, in which Airbus had a economic speed and cruise level.
+partner role.
+4
+74
+TSAF
+DEMONSTRATING THE GREEN TRAJECTORY - FUEL EFFICIENT TRAJECTORY MANAGEMENT TESTED ON REVENUE FLIGHTS
+Arrival flight phase their first generation Electronic
+Stockholm RNP AR 0.3
+Flight Instrument System (EFIS).
+with a high approach chart
+potential for The lateral trajectory of the 10
+MINT flights was agreed with the
+optimization
+ATC sectors of Stockholm and
+Malmö (Sweden), well before
+The arrival is often the most leaving the cruise flight level and
+constrained phase of the whole the ATC enabled a Continuous
+flight. Speed and altitude Descent Operation (CDO) by
+restrictions are frequent to manage avoiding altitude instructions.
+the traffic flow within the Terminal Therefore, the aircraft could follow
+Area (TMA) as well as the the most efficient vertical profile
+transition from the En-route Sector with engines at idle, saving in an
+to the TMA. Noise avoidance often average 145kg of fuel per arrival.
+results in a considerable stretching Further, 20kg were saved through
+of the flight path; 360° holdings or reduced track miles when
+lengthy lateral ‘trombones’ are the compared to the standard
+ultimate Air Traffic Control (ATC) Instrument Landing System (ILS)
+means to get the landing sequence procedure.
+built up. Successive clearances to
+lower altitudes and vectoring put Combining Performance-Based
+the flight crew in a reactive ‘open Navigation (PBN) with Continuous
+loop’ situation, in which the arrival Descent Operations (CDO)
+trajectory is not fixed, neither constitutes an operational concept
+vertically, nor laterally. This which is feasible for many regional
+prevents following a predefined airports or for major airports at low
+route which is a prerequisite for traffic hours. Often, the main
+properly planning and executing hurdles are more of an institutional
+the most energy efficient descent nature and a question of changing
+Curved noise abatement
+profiles. habits, rather than technical.
+approach into Stockholm:
+Suggesting a revenue flight trial
+After having been tested in
+The 'Minimum CO 2 in Terminal project can be a good means for the the MINT project, the
+area' (MINT) project addressed a airline to improve the situation and procedure was published
+good part of these issues. It used obtain buy-in from the Air and is now applied on a
+regular basis.
+for the first time in Europe the Navigation Service Providers
+aircraft’s Required Navigation (ANSP) and airports.
+Performance with Authorization
+Required (RNP AR) for a +/- 0.3 Time as the 4th
+nautical miles lateral accuracy in a
+navigation
+curved approach (RNP AR 0.3) for
+the purpose of noise abatement at dimension
+Stockholm, Sweden (see approach
+chart in figure 2). Before
+For both, airborne and ground
+publishing the procedure, Airbus
+sides in high traffic situations, the
+contributed with fly-ability
+optimization of the arrival
+analysis through simu lator sessions
+trajectory is more complex and
+and ensured that speed and altitude
+requires additional means which
+constraints are not compromising
+are developed in SESAR and
+the most fuel efficient descent.
+NextGen. Some of these technical
+enablers are related to the addition
+Novair, the airline partner in the
+of the time aspect for trajectory
+MINT project, recently upgraded
+management.
+the Flight Management System
+(FMS) on their A321 fleet to the
+latest ‘Release 1A’ standard, which
+allows flying the RNP AR 0.3
+procedure in combination with
+5
+hcetvaN
+fo ysetruoC
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 5
+Figure 2
+DEMONSTRATING THE GREEN TRAJECTORY - FUEL EFFICIENT TRAJECTORY MANAGEMENT TESTED ON REVENUE FLIGHTS
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 6
+As the Continuous Descent at and departing from Gothenburg
+Operation (CDO) prevents the Air Landvetter airport, in Sweden. En-
+Traffic Controller (ATCO) to apply route, the flight follows a planned
+the traditional altitude and heading direct routing, which becomes now
+instructions during the descent, the possible with the implementation
+concept previews that additional of the Free Route Airspace Sweden
+Required Time of Arrival
+information be provided in return, concept. Improved service level
+(RTA) page on MCDU
+in the form of arrival time for a agreements amongst adjacent
+significant metering fix. This control sectors, including the
+Figure 3
+waypoint is defined from a traffic Danish Air Traffic Control, shall
+flow management point of view enable that the arrival trajectory be
+and may typically be a merging known to the flight crew already
+point or a Terminal Area (TMA) before the end of the En-route
+entry point. On-board, the phase. The crew then plans an idle
+adherence to the trajectory’s time continuous descent choosing the
+schedule is ensured within a optimum top of descent point.
+certain tolerance by the Required Considering the traffic situation,
+Time of Arrival (RTA) function, vertical ATC clearances shall not
+which is accessible through the compromise the most fuel efficient
+Multi-purpose Control and Display vertical profile.
+Unit (MCDU), via the Flight Plan
+(FLP) menu pages, as shown in The arrival trajectory leads then
+This capability is rarely used
+today but will increase in figure 3. On the ground side, the into a noise and fuel optimized
+importance as operational ATCO is assisted by an Arrival RNP AR 0.3 procedure, followed
+concepts emerge based on 4D Management (AMAN) tool which by a transition to the Instrument
+trajectory management.
+helps to build up, at an early stage, Landing System (ILS) approach.
+the sequence of incoming traffic Through this new combination, it is
+and which alerts in case of ensured that even under conditions
+conflicts. of low approach minima, the most
+efficient arrival trajectory can be
+In anticipation of this operational followed. Another particularity is
+concept, the MINT trials looked that a RNP procedure will be
+also at the adherence to the designed, not based as usual on
+estimated time of arrival over a very conservative theoretical wind
+waypoint which was chosen around models, but on observed statistical
+an altitude of FL100, representing winds which results in a further
+a typical altitude for entering the optimization. Comprising an
+TMA. The observed deviation was important Performance Based
+below 10 seconds compared with Navigation (PBN) element,
+what has been predicted about 20 partners to the VINGA project are
+minutes earlier, well before leaving not only the typical revenue flight
+the cruise level. More flight trials trial triplet consisting of the airline
+will be undertaken building up (Novair), airport (Swedavia) and
+confidence in the aircraft time Air Navigation Service Provider
+performance, in order to start using (LFV), but also Quovadis, the PBN
+it for the sake of a smooth service company. This recently
+transition to the initial 4D formed Airbus subsidiary provides
+operational concept of SESAR and a complete set of RNP services
+NextGen. including RNP procedure design
+and testing, flight operation safety
+Optimization assessment, documenting air worth -
+i ness compliance, training, RNP
+from En-route to
+monitoring, and cost-benefit ana -
+En-route lysis.
+VINGA (Validation and Improve - The optimization of ground
+ment of Next Generation Airspace) movements is addressed in the trial
+addresses all flight phases, arriving through single engine taxi-in and
+6
+7
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 7
+DEMONSTRATING THE GREEN TRAJECTORY - FUEL EFFICIENT TRAJECTORY MANAGEMENT TESTED ON REVENUE FLIGHTS
+Air Traffic Controller strips
+out, whenever feasible. In case of are kept on sub-optimal lower
+delays, ‘gate holding’ with engines altitudes, in favour of overflying
+off will be preferred over queuing- long haul traffic. Here again, an
+up on the taxiway. improved coordination between the
+national ATC sectors managed by
+VINGA looks also into the the French Air Navigation Service
+feasibility of more flexible and Provider DGAC/DSNA was key to
+efficient departure trajectories, obtain a more fuel efficient
+which shall be tailored to the noise trajectory.
+footprint of the individual aircraft
+type. Instead of applying an unique The Green Shuttle trials which
+Standard Instrument Departure were undertaken in fall 2010,
+(SID), aircraft with better noise demonstrated the feasibility to
+Courtesy of DFS
+values shall be allowed to obtain under certain conditions
+accelerate earlier to the most optimum cruising levels and more
+economic climb speed and to turn direct routings, thanks also to a
+earlier to the target heading. better coordination with the
+i n f o r m a t i o n
+military stakeholder. Continuous
+Gothenburg, Sweden, could be Descent Operation (CDO) could
+Quovadis
+taken as representative for a typical also be demonstrated from top of
+a 100% Airbus subsidiary, was
+single runway regional airport and descent into both, Paris-Orly and
+launched in July 2009 to support
+the described measures are Toulouse. Airbus contributed with
+airlines, airports, air navigation
+certainly worthwhile to be studied ‘CDO fly-ability’ analysis and
+service providers and authorities
+in similar circumstances. advised on best speed and vertical
+in Performance-Based Navigation
+windows for the hand-over
+(PBN) deployment, as well as to
+The Green Shuttle between ATC sectors in descent.
+provide related services.
+Contact: Paul-Franck BIJOU
+Quantified findings of the fuel
+The context is more challenging in paul-franck@quovadisway.com
+savings obtained in the AIRE2
+the busy parts of central Europe,
+exercise will be published by the
+such as between the French cities
+SJU through a dedicated
+of Paris-Orly and Toulouse, where
+dissemination event in the first half
+Air France operates up to almost
+of 2011. It is expected that the
+50 flights a day with an A320 CONTACT DETAILS
+tested ATM procedures have a
+Family fleet. Although each flight
+saving potential, which justifies Tom MAIER
+duration is only around one hour,
+their consideration in any airline’s Senior Manager CNS/ATM
+three ATC En-route Sectors are Airbus Engineering
+fuel saving action plan.
+concerned and the shuttle flights System Sales & Marketing
+Tel: +33 (0)5 61 93 12 45
+Fax: +33 (0)5 61 93 41 25
+thomas.t.maier@airbus.com
+Conclusion
+Revenue flight trials are an excellent efficient trajectory throughout the different
+means to experience and adjust more flight phases. Partnerships between the
+efficient Air Traffic Management (ATM) main stakeholders - airlines, Air Navigation
+procedures, in a perspective to transit Service Providers and airports - is the key
+smoothly to their application on a daily for improvements.
+basis. Airbus in general and Quovadis The current context of ongoing major ATM
+specifically for matters related to development programmes such as SESAR
+Performance-Based Navigation (PBN), are and NextGen favours to challenge legacy
+prepared to support revenue flight trials operations in order to migrate to more
+through customer services and expertise. efficient target operational concepts,
+There is a whole register of measures for which will be enabled by new
+bringing a flight nearer to the most fuel technologies on-ground and on-board.
+7
+AUTOMATIC DEPENDENT SURVEILLANCE BROADCAST (ADS-B) - SURVEILLANCE DEVELOPMENT FOR AIR TRAFFIC MANAGEMENT
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 8
+Automatic
+Dependent Surveillance
+Broadcast (ADS-B)
+Surveillance development
+for Air Traffic Management
+As air traffic is predicted to increase steadily over (ADS-B) is all about communications between
+the coming years, there is a clear need to ensure aircraft, and also between aircraft and ground.
+that standards of safety and efficiency are Both are vital in ensuring safe flights and
+maintained, or even enhanced. This is recognized efficiency in terms of fuel use, time and
+by the Single European Sky programme in Europe emissions. ADS-B is an integral part of the
+(SESAR) and the NextGen programme in the planned efficiency drive towards 2020.
+U.S.A. (read FAST article - Demonstrating the Taking advantage of the latest technology, ADS-B
+green trajectory), the two major bodies driving the is designed to be retrofit on aircraft flying today.
+Air Traffic Management (ATM) development Here, we will look at aspects associated with the
+over the coming years. retrofit and take a look at the developments that
+Automatic Dependent Surveillance Broadcast are planned for the future.
+Christine VIGIER
+Design Management Avionics
+Airbus Upgrade Services
+8
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 9
+AUTOMATIC DEPENDENT SURVEILLANCE BROADCAST (ADS-B) - SURVEILLANCE DEVELOPMENT FOR AIR TRAFFIC MANAGEMENT
+ADS-B summary
+In its final form, ADS-B is
+designed to ease Air Traffic
+Control (ATC) as the number of
+approaches grows, enhancing safe-
+ty and increasing airport capacity.
+g l o s s a r y
+In the air, the information provided
+by ADS-B enhances the pilots' traf-
+ADC: Air Data Computer HFDR:High Frequency Data Radio
+fic awareness, allowing more opti-
+ADIRS:Air Data/Inertial Reference IRS:Inertial Reference System
+mal flight levels leading to fuel
+System MCDU:Multi-purpose Control Display
+savings.
+ATC:Air Traffic Control Unit
+ADS-B is considered in two parts
+ATSAW: Air Traffic Situational Awareness MMR: Multi-Mode Receiver
+as described:
+DMC:Display Management Computer NRA: Non-Radar Airspace
+EHS: Enhanced Surveillance OANC:On-board Airport Navigation
+• ADS-B OUT provides a means
+EIS:Electronic Instrument System Computer
+of automated aircraft parameter
+FCOM:Flight Crew Operating Manual OANS: On-board Airport Navigation
+transmission be tween the aircraft
+FM:Flight Manual System
+and the ATC.
+FMS:Flight Management System OMS:On-board Maintenance System
+FWC:Flight Warning Computer SATCOM:Satellite Communication
+• ADS-B IN provides automated
+GPS:Global Positioning System SPI:Special Position Identification
+aircraft parameter transmission
+between aircraft themselves.
+First steps involved in
+ADS-B
+Figure 1
+ADS-B
+ADS-B
+Step 1: ADS-B OUT
+Aircraft information
+broadcasted for ground use
+ADS-B
+Air Traffic Control
+ADS-B
+receiver
+Step 2: ADS-B IN (ATSAW)
+Display of other aircraft ADS-B
+info in the cockpit
+9
+AUTOMATIC DEPENDENT SURVEILLANCE BROADCAST (ADS-B) - SURVEILLANCE DEVELOPMENT FOR AIR TRAFFIC MANAGEMENT
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 10
+STEP 1: ADS-B OUT STEP 2: ADS-B IN (ATSAW)
+ADS-B OUT automatically The Airbus approach to ADS-B IN
+transmits aircraft parameters from is named the Air Traffic Situational
+the aircraft to the ATC on ground. Awareness (ATSAW) which
+There is no need for the pilot’s enables the reception of ADS-B
+action and it conforms to EASA information from other aircraft in
+regulations on ADS-B OUT, for the vicinity. As for the ADS-B
+Non-Radar Airspace (NRA) OUT, the capability must also be
+operations.The capability must be declared in the FCOM and the FM
+declared in the FCOM and the FM updated (figure 4).
+ADS-B OUT
+shall be updated (see figure 2).
+ATSAW is splited in two steps:
+Figure 2
+- Step 2A: ATSAW operation in
+flight
+DO-260 DO-260B - Step 2B: ATSAW operation on
+ground
+• ATC transponder enhanced
+capable • ADS-B OUT DO-260B
+Equipment required STEP 2A: ATSAW OPERATION IN FLIGHT
+• MMR (with GPS capability) • FWC
+• Wiring provision EHS
+a)ATSAW
+As per mandate
+Availability date Now • Improves cooperationwith ATC
+(refer to figure 10)
+(better understanding of ATC
+instructions),
+• Improves the detection of
+Example on MCDU
+opportunities for flight level
+changes in standard separation
+Figure 3
+for reduced fuel savings and a
+In this example, the MCDU reduction of CO 2 emissions,
+(Multi-purpose Control and • Improved efficiency on
+Display Unit) shows the approach,
+identity and the relative
+• Enhances identification and
+horizontal position of three
+information on target aircraft,
+aircraft. The pilot can see
+immediately that a flight • Increases runway capacity.
+level change to FL370 is not
+possible until 1412Z time, b) ATSAW with ITP (In Trail
+as computed by the TCAS Procedures) today defined on
+(Traffic alert and Collision
+the North Atlantic ocean
+Avoidance System).
+(see figure 3):
+• Enables more frequent altitude
+changes by temporarily reducing
+standard separation,
+• Enables flying at the optimum
+flight level,
+A different flight level • Provides significant fuel savings.
+can be requested as
+clearly indicated, taking
+STEP 2B: ATSAW ON THE GROUND
+into account the
+surrounding aircraft
+positions, trajectories • Enhanced situational awareness
+and speeds. during surface operations.
+10
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 11
+AUTOMATIC DEPENDENT SURVEILLANCE BROADCAST (ADS-B) - SURVEILLANCE DEVELOPMENT FOR AIR TRAFFIC MANAGEMENT
+NEXT STEPS
+ADS-B IN (ATSAW)
+STEP 3: SEQUENCING AND MERGING
+Figure 4
+The objective of the future step
+Step 2A Step 2B
+is to enable the flight crews to
+achieve and maintain automati-
+• ATC transponder EHS
+cally a given spacing with des-
+• MMR (with GPS
+ignated aircraft.
+capability)
+The two principle maneuvers As for Step 2A
+Equipment required • EIS2
+are 'remain behind' and 'merge + OANC
+• Wiring provision
+behind'.
+• EHS traffic selector
+The operational benefit will be
+• FWC standard
+the enhanced traffic regularity
+during the approach to airports
+Availability date Early 2011 2013 TBC
+with heavy traffic allowing
+increased airport capacity.
+How does ADS-B
+Example on Navigation
+work?
+Display and MCDU
+ADS-B OUT
+Figure 5
+It uses ATC transponders to transmit
+The Navigation
+aircraft information to the ground, Display (ND)
+using the Mode S 1090 MHz shows the aircraft
+Extended Squitter with a refresh orientation and
+relative
+rate of 0.5 seconds.
+information from
+aircraft in the
+vicinity.
+Figure 6 Figure 7 Aircraft identification
+Relative
+Absolute altitude/
+bearing/ Absolute
+2D distance altitude
+Heading/ Ground
+Tracking speed
+Wake vortex Vertical
+category velocity
+Additional information shown on the MCDU. The Pilot elects to see more information on
+AFR6512 by the menu selection.
+11
+AUTOMATIC DEPENDENT SURVEILLANCE BROADCAST (ADS-B) - SURVEILLANCE DEVELOPMENT FOR AIR TRAFFIC MANAGEMENT
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 12
+ADS-B IN Aircraft
+architecture
+On aircraft, it is the TCAS computer
+that receives and treats the ADS-B required for
+information coming from ATC
+ADS-B OUT
+transponders of surrounding aircraft.
+DAL 024 The information is then displayed
+15 H
+on the Navigation Display (ND) ADS-B OUT NEEDS
+and the MCDU (see figures 5, 6 & 7).
+When ATSAW is activated and if • ATC transponders at minimum
+the ADS-B information is available DO-260 standard.
+from aircraft in the vicinity, the • Additional wiring associated
+following information is available with peripheral equipment,
+for each pilot: • MMR in hybrid architecture
+Figure 8 • Aircraft identification with GPS capability.
+• Absolute bearing/2D distance
+The ND indicates
+• Heading/Tracking CURRENT FLEET STATUS
+the position and
+trajectory of other • Wake vortex category
+aircraft on • Relative altitude/Absolute Aircraft currently flying in Europe
+taxiways altitude are generally well equipped for
+• Ground speed the transition to ADS-B OUT as
+• Vertical velocity the prerequisite ATC transponders
+Mode S (DO-260) are already
+required to meet the former
+enhanced surveillance mandate.
+Architecture for Aircraft greater than five years of
+ADS-B OUT and for ADS-B IN
+age and operating outside of
+Europe are more likely to need a
+Figure 9
+new transponder in order to
+achieve ADS-B capability.
+OANC ADS-B IN
+Control
+panel
+STEP 2A
+FMS
+MMR • TCAS capable
+• Additional wiring
+Flight ID source ATC • Traffic selector in cockpit
+Transponders FWC • EIS2 capable
+ADC, GPS, IRS data
+ADIRS
+STEP 2B
+Heading, Audio
+Pitch, Other aircraft Step 2A + OANC
+Roll,
+GPS data systems (On-board Airport Navigation
+Computer)
+MCDU ADS-B IN TRIALS
+TCAS
+Capable ATSAW To pioneer and test the new func-
+GPS position tions associated with ADS-B IN,
+DMC/EIS trials are scheduled with the
+involvement of Eurocontrol and
+certain airlines which will have the
+ATSAW capability, some from
+Traffic
+production and others by retrofit.
+selector
+For ADS-B IN only The European trials will com-
+mence in early 2011.
+12
+13
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 13
+AUTOMATIC DEPENDENT SURVEILLANCE BROADCAST (ADS-B) - SURVEILLANCE DEVELOPMENT FOR AIR TRAFFIC MANAGEMENT
+Mandates
+Figure 10
+2010
+DO-260
+2017
+2020
+DO-260B
+DO-260B
+Date to be
+determined with a D0-260
+minimum standard
+2013
+DO-260
+ADS-B OUT MANDATES standard (DO-260B) which implies
+an upgrade to the FWC and con-
+Current operational requirements nections between the MMR and the
+or mandates are already in service ATC transponder. This will enable
+and others are anticipated. The fig- additional benefits in terms of safe-
+ure 10 shows areas where a man- ty, flight efficiency and situational
+date already exists, such as the awareness, thanks to the GPS data
+Hudson Bay, and also shows antic- enabling the transmission of more
+ipated mandates in other regions. accurate information on aircraft
+The upcoming mandates in Europe positions and the improved latency CONTACT DETAILS
+and North America require a new in broadcasts.
+Christine VIGIER
+Design Management Avionics
+Airbus Upgrade Services
+Tel: +33 (0)5 67 19 02 17
+Fax: +33 (0)5 62 11 08 47
+christine.vigier@airbus.com
+Conclusion
+Whilst the initial drivers from SESAR and ADS-B IN presents additional
+NextGen are motivated by the need to opportunities for fuel and time savings,
+maintain and where possible enhance in particular by the utilization of ‘In Trial
+safety standards, the commercial Procedures’ for long range flights in the
+implications for operators are not oceanic airspace, maintaining safety.
+forgotten. The benefits from the Automatic ADS-B is in the early stages of a roadmap
+Dependent Surveillance Broadcast (ADS- vision up until 2020 and has been adopted
+B) are not only for Air Traffic Control (ATC), by SESAR and NextGen. Airbus Upgrade
+but also for the airlines, flight crew and Services will continue to develop new
+passengers. solutions to ease flight operations, thus
+ADS-B OUT eases the flight crew and ATC contributing to reduce the congestion in
+workload, resulting in fuel and time future Air Traffic Management.
+savings thanks to more efficient
+approaches.
+13
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 14
+OPTICAL FIBRE ON AIRCRAFT - WHEN THE LIGHT SPEED SERVES DATA TRANSMISSION
+Optical fibre
+on aircraft
+When the light speed serves
+data transmission
+As more and more electronic systems are installed Therefore, electrical installation designs
+on aircraft, the quantity of electrical cable is introduced the optical fibre technology instead of
+inclined to increase significantly. Aeronautical copper cables for data signal transmissions. The
+electrical installations have been for many years use of optical fibre provides large benefits in
+based on copper conductors which are firstly terms of a large bandwidth capacity, EMI
+expensive in terms of weight and secondly, have insensibility, complete electrical isolations, signal
+some constraints in relation to their characteristics attenuations lesser than electrical cables and last
+such as Electro-Magnetic Interferences (EMI) and but not least, lightweight compared to an
+bandwidth limitations. The introduction by Airbus electrical cable (4kg/km).
+of aluminium wiring allowed saving weight but
+had no better effects on the characteristic
+constraints.
+Stéphane BOUYSSOU
+Aircraft Electrical Installation
+Electrical Standard Items
+Airbus Engineering
+14
+What is an optical
+transmission
+assembly?
+The principle is to convert the
+electrical signal to a light wave
+signal, then to transmit it through a
+physical pipe used as a wave guide,
+so called ‘optical fibre’. Therefore,
+an optical fibre transmission
+assem bly is composed of a
+transmitter, optical fibre, con-
+nectors and a receiver (figure 1).
+As a reminder, light is charac -
+terized by its ‘spectrum’ which is
+the whole set of wavelengths from
+ultraviolet to the infrared
+(including visible light) and by its
+‘index of refraction (n)’ which is
+an intrinsic property of a material
+corresponding to the ratio between
+the speed of light in vacuum and its
+speed in the material. When light
+encounters an environment, the
+light ray is reflected and refracted.
+The refracted ray (meaning
+transmitted inside the medium with
+a change of directions) depends on:
+• The refraction index of the
+parameters which are the
+medium,
+• The angle of the light ray
+(figures 2 and 3).
+This is defined per the Snell
+Descartes Law: n1sinΘ1=n2sinΘ2.
+Another physical phenomenon is
+when an object bumps on a plane
+surface, its incidence ray angle is
+the same as the reflection ray
+angle.
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 15
+OPTICAL FIBRE ON AIRCRAFT - WHEN THE LIGHT SPEED SERVES DATA TRANSMISSION
+To date, the optical fibre application in Airbus aircraft are:
+Aircraft Family A320 A330/A340 A380 A350
+Cockpit Display System (CDS) •
+Large displays(under development) •
+Head-Up Display (HUD) • • • •
+On-board Airport Navigation System (OANS) • • • •
+Taxi Aid Camera System (TACS) • • •
+Concentrator Multiplexing Video (CMV) •
+Network Server System/On-board Information System (NSS/OIS) •
+Cabin Video Monitoring System (CVMS) •
+Cockpit Door Surveillance System (CDSS) •
+In-Flight Entertainment (IFE) • • •
+Aircraft Family A320 A330/A340 A380 A350
+Cable length* Following chosen options 565 m* 2.4 km TBD
+Nombre of links Following chosen options 41* 171 TBD
+*average following chosen options
+Optical transmission
+assembly
+Figure 1
+Connectors
+Transmitter Receiver
+Electrical E Optical cable Optical cable O Electrical
+signal signal
+O E
+Electric/Optic Optic/Electric
+conversion conversion
+However, it is possible to obtain a
+complete reflexion (see figure 4) if
+Angle of Incidence
+the above both conditions are =
+gathered, which will give us: Angle of Reflection
+• n1 value > n2 value (n1 and n2
+refraction value of both medium).
+• Incident angle 1 trends towards
+90° (low-angled beams).
+I R
+Normal point Normal point
+of incidence of incidence
+Incident ray Reflected ray
+Figure 2
+1 1 Incident ray 1 1 Reflected ray
+n1 medium n1 medium
+n2 medium n2 medium
+General physical 2 Condition for a
+behavior of the light complete reflection
+Figure 3 Figure 4
+Refracted ray No refracted ray
+15
+OPTICAL FIBRE ON AIRCRAFT - WHEN THE LIGHT SPEED SERVES DATA TRANSMISSION
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 16
+Optical fibre Transmitter and
+receiver
+An optical fibre is a wave guide
+i n f o r m a t i o n allowing transmission of a
+The transmitter and receiver
+reflected light signal between two
+Regarding optical fibre in modules are included in the
+equipments. This wave guide is
+telecommunication, cladding is equipment using the optical fibre
+made of two basic elements which
+one or more layers of material of a technology and manufactured
+are the core and the cladding. Each
+lower refractive index, in intimate directly by the equipment suppliers.
+of them is composed of the same
+contact with a core material of a
+material with different refraction
+higher refractive index. The The transmitter has to convert
+indexes which are chosen in order
+cladding causes light to be electrical data signal to light data
+to have ‘ncore value > ncladding
+confined to the core of the fibre by signal. The signal is specified by
+value’. Then the light is transmitted
+total internal reflection at the its power (<1mW) and its wave
+inside the core with a low angle to
+boundary between the two. length. Wave lengths used by
+ensure the light wave will be totally
+Airbus are 850nm and 1300nm
+reflected by the cladding and trans -
+(figure 7). The conversion is
+mitted along the core (figure 5).
+ensured by laser diodes or the
+The fibre can be made out of
+Light Emitting Diode (LED)
+Silica or Polymer. Airbus qualified
+technology. At the end of the line,
+a Sili ca (glass) optical fibre
+the receiver has to collect the light
+P/N ABS0963-003 Type LF (see
+data signal and reverse it to electric
+figure 6).
+Fibre data signal. This conversion is
+done using the Photodiode
+Figure 5 Total reflection technology.
+Cladding
+Optical contacts
+Core n Core Silica or
+Polymer and connectors
+fibre
+n
+Cladding The optical connector is a
+Light mechanical element which allows
+the connection of two optical fibre
+Airbus Optical Fibre
+links. The optical fibre link is an
+P/N ABS0963-003 LF
+optical fibre fitted with contacts at
+each end, allowing the installation
+Figure 6
+of the optical cable in a connector.
+The connector implementation has
+to ensure the optical signal
+propagation with the minimum of
+attenuation. In consequence, the
+Jacket N° ELEMENTS MATERIAL DIAMETER Ø
+connectors have been designed to
+Core 62.5 μm ± 3 μm ensure a perfect alignment of both
+Fibre Silica
+Cladding 125 μm ± 2 μm optical fibre contact end faces, but
+Primary coating Silicone 400 μm ± 25 μm also a constant contact between
+Primary jacket Copolymer OHAL high temperature 900 μm ± 50 μm both fibres whatever the environ -
+Mechanical mental conditions (figure 8).
+Polymer aromatic fibre braid N/A
+strength braid
+Outer jacket Copolymer OHAL high temperature 1.8 μm ± 0.1 μm Two contacts, ABS1906-01 and
+ABS1379-003, allowing the instal -
+μm: micrometre
+1.000×10−6 m = 1.0000 µm lation of optical fibre in the
+Light spectrum connectors have been qualified by
+Figure 7
+Airbus.
+Ultraviolet Visible light Infrared
+400 nm 800 nm 850 nm 1300 nm
+nm = nanometer
+CAUTION: Even in an infrared spectrum (not visible to the eye), the light ray could cause
+serious eye damage, therefore never look an optical fibre contact in front view.
+16
+OPTICAL FIBRE ON AIRCRAFT - WHEN THE LIGHT SPEED SERVES DATA TRANSMISSION
+The particularity of the optical
+contacts, compared to electrical
+contacts, is that they are
+‘hermaphrodite’, meaning that the
+contact is the same on both sides
+of the connector. The contact
+alignment is ensured by a specific
+additional sleeve fitted in the
+female connector.
+Since the A350 design, Airbus’
+philosophy is to use only
+ABS1379-003 (the best one in
+terms of installation facilities,
+cleaning and installation on the
+optical fibre) and to design
+connectors in accordance with
+existing supports (rectangular,
+circular or square connectors, as
+shown in figure 9).
+Optical link
+manufacturing
+The manufacturing of an optical
+link consists in fitting the optical
+contacts on each side of the optical
+fibre. This process is complex due
+to some critical steps as the gluing
+of the ferrule with the fibre
+(contact robustness is highly
+dependent of this step) or the
+polishing (where the surface of the
+fibre needs to be plane). In case of
+a damaged optical fibre, operators
+have the possibility to order a new
+optical fibre link through Airbus
+Spares. Depending on the
+programme, the optical cable has
+its own Part Number (P/N)
+recorded in the Illustrated Parts
+Catalogue (IPC) and retrieved
+with the wire number as entry
+point (A350, A380, A340 TACS),
+or it is possible to request Airbus
+customers support to get the P/N
+associated to the wire number.
+In addition, optical link
+manufacturing requires some
+specific tooling (oven, polish
+machine, interferometer, etc.). The
+on-shop process is described in the
+Process and Material Specifica -
+tion manual 01-05-63.
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 17
+Optical fibre contact
+alignment
+Figure 8
+skew
+correct
+gap lateral misalignment
+Airbus optical
+components
+Figure 9
+Contact ABS1379-003 Connector ABS1696
+Connector ABS1213
+Square connector EN4165
+receptacle plug
+Contact ABS1906-01
+17
+OPTICAL FIBRE ON AIRCRAFT - WHEN THE LIGHT SPEED SERVES DATA TRANSMISSION
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 18
+Optical fibre To prevent such attenuation, either
+bobbin or tape must firstly be
+installation and
+applied at each attachment point of
+connection on the the optical fibre installation.
+Information concerning the
+aircraft
+installation of the optical fibre is
+available in the ESPM 20-33-11
+Optical fibre can be routed alone (Electrical Standard Practices
+but also on a bundle with electrical Manual).
+wire. Due to the optical cable
+specifications (-55° to 125°C), no A major difference with the
+optical cable is routed in fire or electrical wiring installations with
+high temperature areas. a high impact on the optical
+As for electrical wires, a minimum assembly performance concerns
+bend radius has to be respected due the cleanliness of the connection.
+to the light’s reflection properties. Due to the diameter of the optical
+Indeed a short bend radius will fibre’s core (62.5µm, about the
+modify the incidence angle of the thickness of a human hair),
+light ray, thus the total reflection contamination of the optical
+conditions will no longer be contact surface generates optical
+respected, resulting to some attenuations or even, a complete
+refraction of the light ray and loss of the signal. This is why
+attenuation of the signal (figure 10). cleaning and protecting the optical
+cable contact surface is mandatory
+During maintenance actions on the at each step of the optical fibre
+Usage of optical fibre
+aircraft or during its installation handling, to avoid contamination
+for In-Flight Entertainment
+phase, the optical fibre should not of the contact surface (figure 11).
+be crushed at the attachment point. For the cleaning, Airbus proposes
+In case of over tightening, effects three techniques: Dry, wet and dry
+could occur on the fibre leading to air cleaning, and two processes:
+an attenuation of the signal. Contact alone or contact fitted in a
+Over-bent radius effects
+connector.
+Figure 10
+In addition, to allow the detection
+of an optical contact end face
+Cladding Refracted light ray contaminated, a microscope with a
+minimum magnification of 200
+can be used. All the above is
+Core widely detailed in ESPM 20-55-60.
+Optical fibre
+troubleshooting
+and repair
+Optical fibre cleanliness
+In order to ease the operator’s task
+Figure 11
+for the optical fibre’s malfunction
+troubleshooting, some specific
+tools were designed in strong
+partnership with the manufacturers.
+The troubleshooting is similar to
+one that would be done for an
+electrical cable, by performing a
+continuity check. It is performed
+using the Visual Fault Locator
+(visible light source emitter) or a
+Power Meter, with or without a
+Dirty optical fibre Clean optical fibre calibrated light source (figure 12).
+18
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 19
+OPTICAL FIBRE ON AIRCRAFT - WHEN THE LIGHT SPEED SERVES DATA TRANSMISSION
+Extracted from the Electrical Standard
+Practices Manual (ESPM 20-52-25)
+To determine where the default is Figure 12
+located on the optical fibre line,
+the use of the Optical Time
+Domain Reflectometer (OTDR) is CONNECTOR CONNECTOR CONNECTOR CONNECTOR CONNECTOR
+A B C D E
+the most reliable and accurate way.
+The OTDR LOR220, using the EMITTING
+LIGHT OPTICAL FIBRE UNDER TEST
+photon counting method (see the VFL/VLC
+information box below), was OPTICAL CONTINUITY TEST CONNECTION METHOD
+specifically designed by Luciol
+Instruments to provide high TEST LEAD TEST LEAD
+CONNECTOR
+precision measures in the aircraft
+SYSTEM
+environment and can be used on /
+EQUIPMENT
+wing.
+CONNECTOR CONNECTOR CONNECTOR CONNECTOR CONNECTOR POWER
+A B C D E METER
+With one screenshot, the tool OPTICAL POWER MEASUREMENT TEST CONNECTION METHOD
+provides a curve showing the
+optical signal’s attenuation at each
+TEST LEAD TEST LEAD TEST LEAD TEST LEAD
+distance point of the cable. By CONNECTOR CONNECTOR
+such, it is possible to find with
+high accuracy where the damage is
+LIGHT CONNECTOR CONNECTOR POWER
+localized on the line in order to SOURCE A E METER
+perform the repair. INSERTION LOSS TEST CONNECTION METHOD
+The displayed result curve (figure
+13) allows to make the difference
+between the return loss (light
+reflection due to the optical line
+cut-off at the level of the i n f o r m a t i o n
+connectors) and the insertion loss
+In physics, a photon is an
+(signal attenuation resulting of the
+elementary particle, the quantum
+defect on the line). The OTDR of the electromagnetic interaction
+offers the possibility to record the and the basic unit of light and all
+curve, allowing the operator to other forms of electromagnetic
+radiation.
+send the curve directly to Airbus
+specialists for interpretation.
+Airbus broken optical fibre can be
+repaired. Airbus qualified a
+specific tooling developed by the
+Optical Time Domain Reflectometer
+manufacturer Diamonds allowing
+(OTDR) screenshot
+this kind of repairs called the
+‘Fusion Splice’ which uses the Figure 13
+fusion technology.
+An electrical arc is generated
+welding two optical fibre ends
+facing each other (figure 14). The
+result is a complete continuity of
+the fibre. The tool kit contains also
+a ‘tension test’ system, checking
+the correct fusion of the cable. A
+kind of protective sleeve P/N
+ABS1632-003 - called ‘crocodile’
+in relation to its shape and
+specifically designed for this
+application - is then glued on the
+splice to ensure a mechanical
+protection.
+19
+OPTICAL FIBRE ON AIRCRAFT - WHEN THE LIGHT SPEED SERVES DATA TRANSMISSION
+CONTACT DETAILS
+Stéphane BOUYSSOU
+Aircraft Electrical Installation
+Electrical Standard Items
+Airbus Engineering
+Tel: +33 (0)5 61 18 55 75
+Fax: +33 (0)5 61 93 44 25
+stephane.bouyssou@airbus.com
+Conclusion
+In the recent past years, the optical fibre faces to be scrupulously clean. The
+was introduced in the aeronautics. This continuous development of the optical
+has required to develop components and fibre’s use in the aeronautics requires new
+associated processes/methods to skills and competences for an airline
+maintain them during the aircraft’s life- electrician, likely to work on the systems
+cycle, like any other previous copper or using optical fibre.
+aluminium electrical cables. In the coming A specific training course (Optical Fibre
+years, no doubt that continuous Inter-System Code XMOF) dedicated to
+improvements and further developments optical fibre troubleshooting and
+will come to light. maintenance has been developed by
+The principles of optical fibre installations Airbus and will be available beginning of
+are similar to other technologies, copper 2011 in the Airbus Training e-Catalogue.
+and aluminium, but require the optical
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:19 Page 20
+This permanent repair restores the plate, etc.) and the material
+full integrity and characteristics of necessary to perform the repair on-
+the optical cable (losses introduced wing.
+by the ‘Fusion Splice’ are less than
+0.1dB). You may find information
+Fusion Splice technology concerning the repair of an optical
+A complete kit P/N 1047320 cable in the ESPM 20-53-28, but
+Figure 14 (figure 15) was designed also available in Airbus SIL
+containing the Fusion Splice tools 20-030.
+including the complete gear
+(pliers, scissors, light, support
+On-wing repair kit
+Figure 15
+20
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:20 Page 21
+A300/A310 FAMILY OPTIMIZED AIR-VENT INLET NACA DUCT- CONTINUOUS ENGINEERING SOLUTIONS FOR FUEL SAVINGS
+A300/A310 Family
+optimized air-vent inlet
+NACA Duct
+Continuous engineering solutions
+for fuel savings
+Fuel economy has always been a concern for the potential hardware improvements which would
+operators, particularly with the increase in oil give a better fuel economy to its operators. Such
+prices in recent years and global awareness for the improvements need to be attractive to operators
+environment. Airbus has been working with the and be capable for retrofit, with a quick return on
+operators to look for ways to improve fuel investment. The improved NACA Duct described
+economy for all its aircraft programmes. For the in this article reduces drag, thus improving the
+A300/A310 Family programme, despite no longer aircraft’s fuel consumption.
+being in production, Airbus has been looking into
+Charles VALE Hannah RINGROW
+Site Chief Engineer Continuous Product Development
+A300/A310 Programme Project Leader
+Airbus Operations A300/A310 Programme
+Airbus Operations
+21
+A300/A310 FAMILY OPTIMIZED AIR-VENT INLET NACA DUCT- CONTINUOUS ENGINEERING SOLUTIONS FOR FUEL SAVINGS
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:20 Page 22
+In-service Meeting these design objectives
+NACA Duct location
+ensures that the structural loads are
+on the wing experience
+kept to a minimum and therefore
+allow for a lighter wing. Maintai-
+Figure 1
+ning the original design loads is
+Based on the A320 and A330/A340
+essential to avoid any further
+Family programmes, improve -
+modifications to the wing struc ture.
+ments have been studied to reduce
+For the A300/A310 Family
+aerodynamic drag through the
+programme modification, we have
+introduction of a new NACA Duct.
+taken benefit from previous tes -
+The A300/A310 Family
+tings carried out on other Airbus
+programme team launched an
+programmes including on the fuel
+activity to optimize its own, but
+rig, the wind tunnel and flight tests
+with the constraint of a minimal
+(figure 3), thereby minimizing the
+impact to the structure and a
+cost of development and
+minimal installation time.
+qualification.
+Fuel system
+Aerodynamic
+requirements
+Current A310 NACA Duct, view optimization of the
+from underneath the wing
+air-vent inlet NACA
+The NACA Duct is located near the
+Figure 2 Duct
+wing tip, and counts one per wing
+(see figures 1 and 2). As an air
+inlet, the NACA Duct ensures that
+Using knowledge gained from the
+the differential pressure between
+optimization of other Airbus
+the interior of the fuel tanks and
+aircraft families, a new aerodyna -
+the outside atmospheric pressure is
+mic shape was created, which
+kept to a minimum, particularly
+differs from the old shape
+during climb and descent - the
+particularly on the rear face of the
+emergency descent being the most
+insert see figures 4 and 5. This new
+severe design case.
+insert still satisfies the fuel system
+As a fuel vent system outlet, the
+requirements. The resulting drag
+NACA Duct is sized to permit fuel
+reduction is 0.3% of the total aircraft
+flow overboard in the event of an
+drag, leading to an approximate fuel
+automatic refuel failure.
+saving of 20-30kg per flight.
+Flight test set-up for A340 Inverted NACA Duct
+aerodynamic supplement Inset installation
+Figure 3 Figure 4
+Current
+NACA Duct
+Flow cones is retained
+Camera
+Rake
+Improved NACA Duct is
+achieved by fixing the
+new machined insert to
+the exterior of the
+current NACA Duct
+22
+23
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:20 Page 23
+A300/A310 FAMILY OPTIMIZED AIR-VENT INLET NACA DUCT- CONTINUOUS ENGINEERING SOLUTIONS FOR FUEL SAVINGS
+Industrialization
+NACA Duct with insert top view
+and cross-sectional profile
+Several options were considered Aerodynamic supplement
+Figure 5
+including a multi-part design. The
+chosen modifica tion is a single
+one-piece machined insert which is
+attached externally with new
+fasteners to the existing NACA
+A310 fuel vent
+Duct. This means that the current
+Insert
+NACA Duct does not need to be
+removed, minimizing the
+embodiment time for the retrofit
+solution. The complete retrofit can
+be achieved in eight hours elapsed
+time. This modification is fully
+Insert Insert A310 Insert
+inter-chan geable and requires no
+ramp inlet 'Letterbox' rear
+additional parts to be modified. inlet face
+The original shape of the
+NACA Duct was analyzed and
+considered to be less than optimal,
+as put in evidence by flight tests
+performed on the A340.
+The new shape of the
+NACA Duct was developed using
+analysis and testing to demonstrate
+the reduction in drag while
+maintaining a similar pressure
+differential. The benefit in the new Line-of-flight section through the A310 fuel vent
+shape results in the design changes and geometry insert
+brought to the rear face, from
+concave to convex of the inlet. This Airflow
+Concave
+improves the flow aft of the inlet
+new design
+and therefore reduces the drag.
+In addition, the frontal area of the
+duct is reduced which also
+contributes to the reduction in drag.
+Convex
+original shape
+i n f o r m a t i o n
+A NACA Duct, also sometimes called a NACA Scoop
+CONTACT DETAILS
+or NACA Inlet, is a common form of low-drag air
+Hannah RINGROW
+inlet design, originally developed by the U.S. National
+Charles VALE Continuous Product Development
+Advisory Committee for Aeronautics (NACA), the Site Chief Engineer Project Leader
+precursor to NASA, in 1945. A300/A310 Programme A300/A310 Programme
+Airbus Operations Airbus Operations
+Tel: +44 11 79 36 65 79 Tel: +44 11 79 36 04 74
+Fax: +44 11 79 36 56 07 Fax: +44 11 79 36 56 07
+charles.vale@airbus.com hannah.k.ringrow@airbus.com
+Conclusion
+The newly designed NACA Duct has taken installation time for retrofit to the
+advantage of the improvements made on A300/A310 Family programme. The
+other Airbus programmes and has been benefit to the operator is fuel savings with
+adapted to minimise the cost of parts and a short payback period (2 to 2,5 years).
+23
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:20 Page 24
+RADIO FREQUENCY IDENTIFICATION (RFID) - AIRBUS BUSINESS RADAR
+Radio Frequency
+Identification (RFID)
+Airbus business radar
+Radio Frequency Identification (RFID) is a form In the 1980’s and 1990’s, the use of RFID was
+of Automatic Identification (Auto-ID) that uses a often associated with building access control,
+small wireless device that can be attached to automatic payments for road charges at toll
+objects or parts. It provides an accurate, automatic booths and animal tracking. Today, as a result of
+and a fast way to record and collect information massive advances in the technology’s maturity,
+about the object’s or part’s business activities. For RFID is recognized as a fundamental enabler to
+example, you can automatically track the streamline business processes, reduce inventory
+confirmation of deliveries into a warehouse, data and increase the productivity and quality of
+can be written and stored onto the device in large business operations. Consequently, companies
+quantities if required, and then can be read taking advantage of such capabilities can very
+automatically from a distance with an RFID quickly develop a competitive edge.
+reader.
+Carlo K. NIZAM Paul-Antoine CALANDREAU Jamil KHALIL
+Head of Value Chain Visibility Flyable RFID Project Manager Head of Sourcing
+and Auto-ID Programme Value Chain Visibility and EADS Coordination
+Airbus Information, and Auto-ID Value Chain Visibility
+Communication & Technology Airbus ICT and Auto-ID
+Airbus ICT
+24
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:20 Page 25
+RADIO FREQUENCY IDENTIFICATION (RFID) - AIRBUS BUSINESS RADAR
+The history of
+Airbus business radar: A digital
+RFID in Airbus Fly-By-Wire view of reality
+Airbus recognized this advantage
+early on and as part of its mantra Supply Chain
+for ‘Non Stop Innovation’, started & Warehouse Logistics
+piloting the technology as early as
+the year 2000, across its tool loans Repair Process Closed Loop
+with airlines. By 2006, there were Optimisation Asset Tracking
+15 projects across Airbus, each
+looking at promising new benefits
+enabled by RFID. However, it was Cabin Airbus Transport
+clear that to maximize the benefits Operations Network
+across the company, a coordinated
+approach was needed to avoid
+duplication of activities and to Configuration Internal Asset
+Management Tracking
+maximize synergies.
+Manufacturing
+As a consequence, in 2007, a & Assembly
+corporate decision was taken to
+launch a company-wide program -
+me to increase visibility across the
+lifecycle of the aircraft, using a Why increase visibility?
+Why RFID?
+collection of automatic identi-
+fication technologies (inclu ding
+RFID). This was called the Value
+Chain Visibility (VCV) program - RFID, bar codes, etc. Accurate and
+efficient information
+me. A dedicated transver sal team
+was established to chart a company Quick wins Visibility Information about
+strategy, develop the optimum use through data working, not working
+automation
+of the technology and consoli -
+date/prioritize activities across the Measurability Where is it
+working, not working?
+company.
+Long term wins
+through continuous Business process Improve the way
+The Value Chain process of working
+improvement
+Visibility
+Business savings EBIT, cash,
+programme cost avoidance
+The VCV programme is an Auto-ID The VCV programme is providing
+inspired business transforma tion Airbus, its industrial partners and
+programme that is developing its customers with real-time
+state-of-the-art streamlined busi - automated visibility of processes,
+ness processes across the value materials/asset movements and
+chain through increased visibility other key business events. By
+and measurability. Its scope is the doing so, we move away from an
+Airbus value chain, from suppliers analogue and paper-based value
+to Airbus, between the global chain to what we call the “Digital
+Airbus manufacturing sites onto Fly-By-Wire” value chain.
+airline customers and in-service
+partners.
+25
+RADIO FREQUENCY IDENTIFICATION (RFID) - AIRBUS BUSINESS RADAR
+The business the more measurability and control
+it can have on its processes which
+radar concept
+in turn, help improve those
+processes which translate into
+savings and quality improvements.
+This may seem like a radical
+concept at first glance, but the
+Radio Frequency Identification
+following comparison illustrates
+(RFID) helps us adopt the same
+the potential benefits of the
+principle in the same way that
+industrial Fly-By-Wire value chain
+radar sensors provide visibility to
+and Airbus’ business radar concept.
+airports. It is our ‘business radar’
+that lets us see what is going on
+Airports use radar sensors (that use
+digitally, automatically and in real
+radio frequencies) to automatically
+time, so we can optimize the way
+track what is going on, in real-time.
+we work and make the right
+All the information from the radar
+decisions faster.
+sensors feed into the air traffic
+control system that informs the air
+The Value Chain
+traffic controllers what is
+happening, so they can make the approach
+right decisions faster. In other
+words, they have real-time
+visibility and measurability. Airbus does not wish to limit the
+benefits of this improvement
+For airport and air traffic initiative to one specific function
+controllers, the benefits are (e.g. logistics) or even itself. This is
+extremely clear. Without that level because Airbus considers its value
+of visibility, without real-time chain to effectively be ‘profits in
+updates and without this motion’. These profits are not
+automation, it would be extremely limited to any particular function
+difficult to manage the skies but are spread all along it; the same
+efficiently and prevent incidents, being true for costs. Costs arise
+given today’s volume of air traffic. from waste that does not
+distinguish itself between functions,
+The same is true for a global nor limits itself to company
+industrial company that has tens of boundaries. So Airbus is focusing
+Tool tracking with RFID
+thousands moving parts albeit the on the big lifecycle picture in order
+ground. The more visibility a to make the big savings and
+company has into its operations, develop an approach that
+Visibility, measurability and maximizes the benefits to all actors
+savings. They are all connected.
+across the value chain.
+Due to the large scale of this
+lifecycle based approach, the VCV
+Automated visibility programme is split into two main
+with high level categories which are the ‘Non-
+of measurability (e.g. RFID)
+Flyable’ and ‘Flyable’. The ‘Non-
+Flyable’ category refers to all the
+ground-based processes and includes
+Semi-automated visibility the supply chain, transportation,
+Improved accuracy Improved business
+control efficiency of processes w (e i . t g h . i b n a c r r e c a o s d e e d ) measurability savings logistics, manufacturing and
+assembly related applications. The
+‘Flyable’ category refers to all in-
+service processes and includes
+Manual based visibility
+with low measurability operational, maintenance and payload
+(e.g. manual data entry)
+tracking applications.
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:20 Page 26
+26
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:20 Page 27
+RADIO FREQUENCY IDENTIFICATION (RFID) - AIRBUS BUSINESS RADAR
+Value chain visibility & Auto-ID:
+Total lifecycle traceability
+Within each category, there is a
+portfolio of new streamlined
+processes that span the lifecycle of
+Value Chain Visibility and Auto-ID Programme
+the aircraft. These processes were
+first piloted in an individual Airbus Non-flyable Flyable
+business location and then once
+proven, are repeatedly deployed on
+Release 1 Release 2 Release 3
+a large scale across the company.
+In this way, we re-use and
+Logistic Distribution Manufacture Assembly Lifecycle of parts Cargo
+standardize both, the new process
+Supply chain tracking Global transportation Cabin configuration
+and solutions across the company.
+(3PL Centre, Toulouse) (Beluga Transport, Hamburg Station) (Airline 1)
+It is effectively process
+harmonization with a top down
+Warehouse logistics Work In progress Repair Shop processes
+strategy, but executed in a bottom-
+(3PL Centre, Toulouse) (A380 Hamburg, St Nazaire, Broughton) (Airline 2)
+up fashion.
+• Non-Flyable:
+Inventory management Tool tracking/Calibration Spares logistics/ FHS
+So far, Airbus has deployed (A380 FAL, Toulouse) (A380+A400M Assembly, Filton/Hamburg) (Airline 3)
+almost 20 industrial projects in
+the ‘Non Flyable’ category that Distribution tracking Configuration Management Payload tracking
+range from warehouse logistics (A380 FAL, Hamburg) (A330/A340 FAL, Toulouse) (Airline 4)
+to tooling management, to the
+work in progress tracking. All 3PL: Third Party Logistics
+FAL: Final Assembly Line
+these projects, without
+A350 XWB
+exception, have shown very
+strong financial benefits in the
+order of millions of Euros per As a result of this analysis, Airbus RFID tracking process from 'A to Z'
+year, with pay back periods in became the first aircraft
+most cases of less than one year. manufacturer to request its
+The tangible benefits induced by suppliers to add permanent RFID
+the higher level of automation tags to approximately 3,000 parts
+include a reduction in inventory on each of its new A350 XWB
+and capital assets, improved aircraft. These RFID tags are
+productivity and quality. designed to remain with the parts
+• Flyable: throughout their entire lifecycle,
+In March 2006, a two day RFID in order to enable process
+specific Customer Focus Group automation and enhance the
+was held with 34 airlines and process visibility for airlines,
+MRO (Maintenance, Repair & suppliers and MRO organisations.
+Overhaul) organisation
+participants. Airbus presented its For example, consider the line side
+ideas and the attendees provided maintenance domain. When a
+feedback and their view of mechanic replaces a faulty unit
+priorities. Their inputs have with a replacement unit, he will be
+formed the cornerstone of the able to digitally scan the faulty and
+‘Flyable’ project. replacement units in order to
+complete his work order via a
+The results from an opportunity mobile RFID handheld reader. He
+and pilot analysis across a range of will also be able to remotely
+in-service processes with key upload this information into his
+airlines and MRO partners were Maintenance Information System
+found to be better than expected. (MIS) without the need to fill in
+All the projects had a payback any paperwork and later type it into
+period of less than 12 months with his MIS. As a result, the overall
+medium to strong savings. But one process is much faster, the quality
+of the critical enablers for these of data in the databases
+savings was the high memory UHF significantly improved and there is
+(Ultra-High Frequency) passive less administrative work.
+RFID tags on parts.
+27
+RADIO FREQUENCY IDENTIFICATION (RFID) - AIRBUS BUSINESS RADAR
+74
+TSAF
+External services
+n o t e s A successful example is the
+collaboration with Air Portugal’s
+If you would like further details
+Airbus has been approached by a Maintenance and Engineering (TAP
+about what Airbus is doing and
+number of companies, both in M&E) department in Lisbon,
+how RFID can benefit your
+aerospace and outside, for support Portugal. TAP M&E and Airbus’
+company, please contact us. We
+on RFID projects. Part of the added team jointly studied and deployed a
+would be more than happy to invite
+value is clearly to benefit from the RFID solution for tracking parts in an
+you to our Value Chain Visibility
+first hand experience of the Airbus engine repair shop. Work is now on-
+industrial showroom in Toulouse,
+team and the proven portfolio of going to expand to two additional
+France, where you can touch and
+processes and solutions that have areas of TAP M&E's tracking
+see firsthand how Airbus is using
+already been deployed within operations (for tooling and life-
+the technology to deliver
+Airbus’ industrial environment. vests).
+improvements and savings across
+its global manufacturing sites.
+Lean
+b
+e
+u
+r
+s
+a
+i
+n
+n
+d
+e s
+m
+s
+o
+p
+r
+r
+e
+o
+c
+c
+o
+es
+m
+s
+p
+e
+e
+s
+titive
+RFID
+Process monitoring
+28
+emit
+laeR
+noitamotuA
+gnitroper
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:20 Page 28
+RFID + process monitoring:
+Enables process improvement
+Productivity
+Cycle time
+Quality
++ =
+Identify variations
+Process optimisation
+Automated alerts
+i n f o r m a t i o n
+The theory behind the not our end destination. The destination improved and is therefore an enabler
+benefits is fully automated and real-time for continuous improvement
+visibility and monitoring of our business
+Visibility, measurability and business processes. RFID is one of the main How does RFID achieve this?
+savings: They are all connected. vehicles that can help us reach this Firstly, RFID helps automate processes
+All business savings come from goal. by removing the need to manually (via
+process improvements. But we can’t paper or bar code) track the progress
+improve what we can’t measure. And What are the benefits? of a business process. This helps
+we can’t measure what we can’t see There are two categories of benefits accelerate the process, reduce the
+(i.e., visibility). short and long term. cycle times and makes it more lean.
+So visibility is a pre-requisite for all In the short term, RFID helps us Secondly, RFID enables long term
+business savings. Furthermore, the automate processes. Automation: improvements by allowing us to
+level of visibility and in an organisation a)Improves productivity, automatically “see” in real-time how
+determines the maximum level of b)Makes processes faster which our processes are actually performing.
+savings (i.e., if you can see so much, reduces cycle times and inventories, If we then compare the actual
+you can only measure so much, only c)Helps avoid manual errors which performance against our target
+improve so much and only save so therefore improves quality. So overall performance, we can see very quickly
+much). faster processes, less inventory, less what is working and what is not. This
+RFID helps us see more, measure efforts and better quality. helps us identify where we need to
+more, improve more and save more. In the long term, RFID can help identify take corrective actions in order to focus
+But while RFID is very important, it is areas where processes can be our improvement processes.
+29
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:20 Page 29
+RADIO FREQUENCY IDENTIFICATION (RFID) - AIRBUS BUSINESS RADAR
+Other EADS
+companies From left to right:
+Clive HOHBERGER
+Chairman Automatic Identification
+and Mobility (AIM)
+The solid RFID successes within
+Airbus, together with the spirit of Carlo K. NIZAM
+innovation across the EADS group Head of Value Chain Visibility & Auto-ID
+Airbus
+(of which Airbus is one company),
+has resulted in companies within
+Dr. Patrick KING
+all the group are also interested in Global Electronics Strategist
+using RFID to enable savings. So, Michelin
+in order to capitalize on the
+experience and lessons learnt, the
+Airbus employee receives and Mobility (AIM) which is the
+different companies within the
+the highest award for international global association for
+EADS group are re-using and
+Radio Frequency automatic identification and mobility
+building on the past of Airbus’
+Identification (RFID) technology. AIM was particularly
+RFID work.
+activities impressed with Airbus’ wide vision for
+RFID and how far and fast Airbus had
+Carlo K. NIZAM received the pushed the boundaries for the
+distinguished Don Percival award in application of the technology.
+recognition of his outstanding “To be recognised by your own
+contribution to the advancement of company is one thing,” Carlo says. “To
+Automatic Identification (Auto-ID) be recognised by the Auto-ID industry
+solutions at the AIM conference in as a whole as best-in-class takes it to
+November 2010 in Chicago, U.S.A. another level”.
+The award was handed over by the
+Association for Automatic Identification
+CONTACT DETAILS
+Carlo K. NIZAM Paul-Antoine CALANDREAU Jamil KHALIL
+Head of Value Chain Flyable RFID Project Head of Sourcing
+Visibility Manager and EADS Coordination
+& Auto-ID Programme Value Chain Visibility & Value Chain Visibility &
+Airbus Information, Auto-ID Auto-ID
+Communication & Airbus ICT Airbus ICT
+Technology Tel: +33 (0)5 67 19 18 22 Tel: +33 (0)5 61 18 78 05
+Tel: +33 (0)5 67 19 35 61 Fax: +33 (0)5 61 30 00 79 Fax: +33 (0)5 61 30 00 79
+Fax: +33 (0)5 61 30 00 79 paul-antoine.calandreau jamil.khalil@airbus.com
+carlo.nizam@airbus.com @airbus.com
+Conclusion
+Airbus is using RFID as a ‘business radar’ and solutions. The new A350 XWB aircraft
+to improve its business processes through will embed RFID capabilities from day one
+better visibility and taking a lifecycle on 3000 of its parts and be able to take
+based approach through a single advantage of the portfolio of processes
+corporate programme, that aims to that have already been developed. Airbus
+maximize benefits to all actors across the is ready to support its airline customers
+value chain. As part of this lifecycle based and industrial partners to benefit from its
+approach, Airbus has developed and proven industrial experiences.
+deployed a full portfolio of RFID processes
+29
+ENHANCED SPARE PART ENGINEERING SUPPORT - SMART DESIGN OF SPARE PARTS FOR A PART STANDARDISATION
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:20 Page 30
+Enhanced spare
+part engineering support
+Smart spare parts' design for
+a part standardisation
+The Airbus Material and Logistics Engineering Its approach to engineering solutions for material
+team has developed the capability to create and logistics requirements and the services it
+efficient engineering solutions for the design of provides to the customers includes the initiation
+spare parts, maximizing their standardisation and and drive of standardisation and modular designs
+harmonisation. Airbus defines innovative spare of spare parts, for the Airbus spares’ aftermarket.
+part solutions leading to improved part delivery The service also aims to provide new
+lead times, based on the combination of standardized part numbers and lead-time
+engineering expertise with the material and solutions based on customer requests. This article
+logistics business experience. will explain the advantages and future of inter-
+changeability between spare parts.
+Tanja BUCHHOLZ Andy J. MASON Kay JASCHOB
+Manager Material and Logistics Engineering Material and Logistics Engineer Material and Logistics Engineer
+Airbus Material Logistics Airbus Material Logistics Airbus Material Logistics
+& Suppliers & Suppliers & Suppliers
+30
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:20 Page 31
+ENHANCED SPARE PART ENGINEERING SUPPORT - SMART DESIGN OF SPARE PARTS FOR A PART STANDARDISATION
+A typical case
+for the Material
+Figure 1
+and Logistics
+Engineering
+support
+When a component fails on an
+aircraft, the usual assumption is
+that this occurs due to fatigue,
+static loading, wear, corrosion or
+other influences which aircraft
+components are subject to. The
+immediate solution to allow the Dado Panel
+aircraft to continue its operations is (Lower sidewall panel)
+always to replace the part,
+particularly when its essentiality
+code is ‘1’ or ‘No-Go’, meaning
+the aircraft is not airworthy without
+the part. Airbus has experienced
+many cases where the root cause is Some customers use a light grey
+not based solely on the part itself, colour, others a sand-colour, i n f o r m a t i o n
+but on various other external amongst the various other shades
+Inter-changeability:
+factors such as maintenance available. In this case, we looked
+handling or on the installation and into the various opportunities to Parts are inter-changeable (INC)
+transportation. Once identified, the reduce the replacement lead-time, when they are equal in form, fit
+global issues can be solved faster whilst maintaining the integrity of and function. There are three main
+and more cost-efficiently, compa - the business, airworthiness and types:
+red to the time and cost of a part re- safety to fulfil the customers’ • INC1 (cid:2)One way inter-
+design. require ments. changeable: New parts can
+A recent customer query regarding The only economically viable replace old; old ones cannot
+the lead-time for A340 aircraft solution was to deliver semi- replace new parts.
+cabin lower sidewall panels, finished panels, requiring the • INC2 (cid:2)Fully inter-changeable:
+commonly named ‘Dado Panels’, customer to add the coating on-site Old parts can replace the new
+highlighted this point (figure 1). but enabling him to operate his parts which can replace old
+Due to the fact that cabin lower aircraft quickly. This bypassed the parts
+sidewall panels are highly customisation issue and greatly • INC3 (cid:2)Not inter-changeable.
+customized to the specific improved the lead-time.
+Mixability:
+requirements of the customer’s
+cabin design, the specific The following two prerequisites Parts are mixable when different
+production lead times can be are required to be able to add the modification standards can be
+relatively high. Lower sidewall lower sidewall panel coatings on- installed at the same time, in
+panels are finished by applying a site: different locations, within a given
+film rendering the surface with the • An autoclave for the curing system.
+final colour and pattern for the process,
+cabin interior, specific to each • The qualification to perform the
+customers’ cabin specifications. curing processes.
+31
+ENHANCED SPARE PART ENGINEERING SUPPORT - SMART DESIGN OF SPARE PARTS FOR A PART STANDARDISATION
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:20 Page 32
+There are various maintenance a personal selection of a maintenance
+facilities and external providers provider for the customisation work.
+which fulfil these requirements
+and satisfy external aftermarket In this particular case, the solutions
+needs. These are able to apply such resulting from the analysis carried
+coatings to internal Airbus out highlighted the additional
+proprietary panels. added value provided by the Airbus
+Material and Logistics Engineering
+Once Airbus had followed up the team's inputs when tackling such
+‘Dado panel’ case, an internal in-service root cause analysis.
+initiative was launched to create a There are many areas where
+new official Part Number (P/N) combining experience of
+defining a standard procurable engineering processes and
+‘non-coated’ version of the ‘Dado procedures within Airbus with the
+panel’. This has been phased-in ‘logistics and spares’ expertise can
+with the respective inter- lead to efficient trouble-shooting
+changeability (ICY) links to the and the determination of the real
+customised ‘Dado panel’ variants root causes, particularly when only
+displayed in the customer's indirectly design-related. The
+Illustrated Parts Catalogue (IPC). Material and Logistics Engineering
+Airbus customers can now order a team has been established in 2007
+non-customised part, greatly in Airbus to address and solve such
+reducing the lead-time, whilst topics.
+giving the freedom to drive a
+cost/lead-time balance through
+The Airbus Material and Logistics
+Engineering team way forward
+Objectives Approach
+• React in case of Aircraft-On-Ground (AOG) with more Existing parts
+flexibility based on intelligent spares solutions. • Initiation of design changes to
+• Improve the part usability by ensuring specific market existing parts, creating spares which
+spare parts' inter-changeability (ICY), are far more flexible, covering
+- Production ICY - Defining which systems are installed multiple applications and complete
+on the production aircraft. P/N families.
+- Spares ICY - Connecting parts indirectly inter- • Reorientation of ICY codes to
+changeable through chains of modifications. expand the usability of parts and to
+- Specific spares ICY - Allowing the customer to choose optimize the effectivity scope of
+whether to use new systems installed in production. P/Ns, as for spares a P/N can be
+• Increase operational flexibility allowing increased effective through an ICY link.
+regional parts’ availability:
+- Reduce Part Number (P/N) variance in storage New parts
+warehouses, whilst covering the fleet requirements. • Ensure that design changes are
+- Same P/Ns serve more customers. carried out allowing the new parts to
+- Increased regional availability due to increased scope be inter-changeable where possible
+per Part Number. and initiating the creation of a
+• Reduce lead times: separate, fully interchangeable
+- Standardized designs and parts. spares’ solution.
+- Highly structured product lines and streamlined
+processes.
+32
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:20 Page 33
+ENHANCED SPARE PART ENGINEERING SUPPORT - SMART DESIGN OF SPARE PARTS FOR A PART STANDARDISATION
+Current work and
+The Geared Rotary Actuator
+principles inter-changeability on an A340 wing
+Figure 2
+The aircraft configuration in
+service today is the product of
+trade-offs between various
+specialists and innovative design
+solutions. To give an example, the
+aerodynamic design of the wing
+must be adapted to accommodate
+the structural requirements, and the
+structural design must be adapted
+to allow the required aerodynamic
+wing shape. Another important
+trade-off in aerospace design is the
+one between the in-service
+performance of particular aircraft
+parts and the spares logistics’
+requirements, such as mixability,
+inter-changeability and transporta-
+bility. One standardized part
+performing the same task in two
+different locations is clearly more
+cost effective than designing two
+different parts to perform two only
+very slightly different tasks.
+An efficient design must meet the
+operation's philosophy enabling The design philosophy that Airbus
+Harmonisation
+the standardisation of parts, is developing has been incor- and standardisation:
+ensuring the highest degree of porated already for parts to other Part ´B´ harmonized
+standardisation and its inter- Airbus family aircraft. For the first the functions of 5055CV,
+5044CV and 5009CV
+changeability. The wing of an time, it is also being incorporated
+as the same part
+A340 aircraft, is already an into the A350XWB programme
+can be used in all
+existing example of standardi- and will benefit all future three locations.
+sation to explain this principle. The programmes.
+Geared Rotary Actuator (shown as
+part ‘B’ in figure 2) can be used in Initial and
+two separate locations. The benefit
+long term
+of this is that one spare part covers
+both applications, allowing a importance of
+greater flexibility and leaner
+inter-changeability
+warehouse stocks.
+Airbus Material and Logistics Design evolutions are important
+Engineering team is working to for continued airworthiness, safety
+identify all areas where different and the technical advancement of
+parts are similar in form, fit and Airbus aircraft programmes which
+function, to standardize parts and keeps us at the forefront of
+thus, to increase flexibility. The technology. Whilst it is important
+incorporation of service require - to ensure the maturity of aircraft
+ments throughout the life cycle, through continuous improvements,
+issues into the design process and the inter-changeability is
+the ongoing product development paramount, as for large expensive
+decisions for several parts in the components it can have a huge
+A380 aircraft proves the validity of positive impact on lead times.
+the concept.
+33
+ENHANCED SPARE PART ENGINEERING SUPPORT - SMART DESIGN OF SPARE PARTS FOR A PART STANDARDISATION
+Airbus Material and Logistics throughout the aircraft lifecycle as
+Engineering team is not just the pre-mod spares must continue
+looking at the technical perfor - to be produced and stocked by
+mance of the part, but is applying a customers, suppliers and Airbus
+particular focus on the inter- (figure 3).
+changeability (ICY) and main-
+tainability of the part. This is to Material and
+secure lead times and the future
+Logistics
+AOG (Aircraft-On-Ground) per -
+forman ces and will allow Airbus to Engineering
+apply the lessons learnt from
+solution
+current projects to all future
+programmes. The long term impact
+of non inter-changeability (when
+We initiate and facilitate the
+design changes are carried out and
+creation of new engineering
+the new solution is not inter chan -
+solutions by working together with
+geable with the old solution) is that
+system specialists, allowing
+the pre-mod fleet cannot be
+product developments to be inter-
+provisio ned with post-mod spares.
+changeable, without compromising
+This can lead to challenges
+their technical excellence.
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:20 Page 34
+i n f o r m a t i o n
+Benefits for Airbus
+customers
+• Flexibility for high priority
+demands:
+- Parts can be used
+for numerous applications
+- Reduced Part Number variance
+in warehouses whilst fully
+covering fleet requirements
+• Shorter lead times and less
+complexity:
+- Modular design and spare part
+flexibility allows a lower
+inventory to cover the same
+fleet size, reducing complexity
+for Airbus operators’ fleets
+and maintenance customers
+- The resulting budget savings
+allow re-investment in greater
+regional availability worldwide
+Spare parts engineering
+• Inventory reduction due to
+without inter-changeability
+reduced number of standards:
+- Focussing on full inter-
+Figure 3
+changeability will allow Airbus
+to ensure the optimum Current design
+and configuration
+progression of its product
+developments, whilst retaining
+Old fleet not covered
+simplicity and clarity of required by new part-more
+spares required
+spare parts thus driving
+operational efficiency and New Design change:
+New design solution
+excellence. spare part notinter-changeable
+Larger warehouse stock
+required to ensure
+the dispatch reliability
+Future flying fleet
+Spare parts engineering
+Current design
+with inter-changeability
+and configuration
+New Design change:
+spare part New design solution
+isinter-changeable
+for spares
+Maximized
+inter-changeability
+throughout full aircraft cycle
+34
+35
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:20 Page 35
+ENHANCED SPARE PART ENGINEERING SUPPORT - SMART DESIGN OF SPARE PARTS FOR A PART STANDARDISATION
+Future activities: How to access
+Technical stock the support?
+optimisation
+services Airbus Material and Logistics
+Engineering team’s principle
+objective is to ensure that efforts are
+The processes Airbus is currently
+focussed on the parts which affect
+developing to optimize its
+its customers the most, in terms of
+warehouses, will show benefits in
+technical warehouse optimisation,
+terms of tailoring service goals,
+inter-changeability and material
+enhanced regional availability and
+planning. Airbus is available to cater
+operational flexibility. Airbus
+to your material and logistics
+intends to allow applications also
+aftermarket require ments.
+to customers’ spares warehouses.
+Looking towards the future, Airbus
+will be able to provide a technically
+orientated warehouse optimisation
+service, based on in-depth analysis n o t e s
+with an initial focus on large,
+In the frame of Airbus consulting services,
+complex and high value parts.
+Airbus offers two services addressing mate-
+These are analysed based on
+rial and logistics’ optimisation:
+consumption (essentiality),
+• Inventory review:
+depreciation and risk, allowing a
+- Optimisation of inventory levels,
+rigorous and firm decision process
+- Analysis of distribution of spares
+to identify candidates for
+within the flight network
+elimination.
+- Support of preparation for fleet increase.
+This will extend the scope of
+• Process efficiency review based on lean
+Airbus’ current inventory consul -
+principles:
+ting services, moving it to the next
+- Increase of process efficiency
+level of service excellence and will
+and output
+include the following:
+- Identification and elimination
+• Inventory optimisation
+of waste.
+recommendations
+• Special offers
+• How to attract buyers CONTACT DETAILS Andy J. MASON
+• When to scrap parts Material and Logistics Engineer
+Tanja BUCHHOLZ Airbus Material,
+• When does it make sense to
+Manager Material and Logistics Logistics and Suppliers
+modify/upgrade parts.
+Engineering Tel: +49 (0)40 50 76 24 34
+Airbus Material, Fax: +49 (0)40 50 76 28 29
+Logistics and Suppliers andrew.j.mason@airbus.com
+Tel: +49 (0)40 50 76 24 31
+Kay JASCHOB
+Fax: +49 (0)40 50 76 28 29
+Material and Logistics Engineer
+tanja.buchholz@airbus.com
+Airbus Material,
+Logistics and Suppliers
+Tel: +49 (0)40 50 76 24 32
+Fax: +49 (0)40 50 76 28 29
+Conclusion kay.jaschob@airbus.com
+The Material and Logistics Engineering The Material and Logistics Engineering
+team is building up knowledge and team is the focal point within Airbus for
+experience to support its customers in the issues relating to the design of spare
+resolution of material and logistics issues parts, specifically for logistics, aftermarket
+relating to the design of spare parts. efficiency, mixability and inter-
+Airbus is aiming to build closer links with changeability which includes spare part
+its customers to focus on the parts which definition and spare part design.
+have the greatest cost impacts on its
+customers.
+35
+ELECTRICAL INSTALLATIONS - PAST TO FUTURE
+Concorde is a turbojet-powered Concorde is easily recognizable This magnificent aircraft was
+supersonic passenger airliner with its drooping nose which manufactured by the former
+and first flown in 1969. It was a compromise between the Aerospatiale and British Aircraft
+entered into service in 1976 and need for a streamlined design Corporation companies.
+continued commercial flights for to reduce drag and increase In French, the common noun
+27 years. Twenty aircraft have aerodynamic efficiency in flight, ‘concorde’ means "agreement,
+been built. Concorde was the and the need for the pilot harmony, or peace".
+first airliner to have a Fly-By- to see properly during
+Wire Flight Control system. Its taxi, take-off and
+avionics were unique because it landing operations.
+was the first commercial aircraft
+to employ hybrid circuits.
+Concorde’s maximum cruising
+altitude was of 60,000 feet
+(18,000 m), subsonic airliners
+typically cruising below
+40,000 feet (12,000 m).
+baL
+otohP
+tseT
+thgilF
+subriA
+fo
+ysetruoc
+sotohP
+This picture - which can easily
+remind you that it’s close to lunch
+time and that you’re starving for a
+delicious plate of spaghetti after
+having read the FAST magazine -
+shows not less than the kilometres
+of electrical wire installed on
+aircraft.
+This particular photo was taken
+during the Concorde’s first
+electrical cables' dismantlement in
+April 1976.
+No doubt that the use of the
+optical fibre technology (article
+page 14) will help reduce the
+amount of tangled cables on future
+aircraft.
+74
+TSAF
+36
+74
+TSAF
+FAST47.qxp:FAST MASTER LAYOUT 20/12/10 10:20 Page 36
+36
+74
+TSAF
+FAST47_COUV.qxp:couvFAST41 rectoverso 06/01/11 11:37 Page 4
+CUSTOMER SERVICES WORLDWIDE AROUND THE CLOCK... AROUND THE WORLD
+WORLDWIDE
+Services & Customer Support
+Tel:+33 (0)5 67 19 19 80
+Fax:+33 (0)5 61 93 18 18
+USA/CANADA
+Customer Services
+Tel: +1 703 834 3484
+Fax:+1 703 834 3464
+CHINA
+Customer Services
+Tel:+86 10 8048 6161 Ext 5020
+Fax:+86 10 8048 6162
+RESIDENT CUSTOMER SUPPORT ADMINISTRATION
+Field Service Management
+RCSM location Country
+Tel:+33 (0)5 67 19 04 13
+Abu Dhabi United Arab Emirates RCSM location Country
+Fax:+33 (0)5 61 93 49 64
+Alexandria Egypt Los Angeles United States of America
+TECHNICAL, MATERIAL LOGISTICS Algiers Algeria Louisville United States of America
+Almaty Kazakhstan Luton United Kingdom
+& TRAINING SUPPORT
+Amman Jordan Luxembourg Luxembourg
+Airbus has its main Material Logistics centre Amsterdam Netherlands Madrid Spain
+in Hamburg, and regional warehouses Astana Kazakhstan Manama Bahrain
+in Frankfurt, Washington D.C., Dubai, Beijing, Athens Greece Manchester United Kingdom
+Shanghai and Singapore. Atlanta United States of America Manilla Philippines
+Auckland New Zealand Marrakech Morocco
+Airbus operates 24 hours a day every day. Bangkok Thailand Mauritius Mauritius
+Barcelona Spain Melbourne Australia
+Airbus Technical AOG Centre (AIRTAC)
+Beijing China Memphis United States of America
+Tel:+33 (0)5 61 93 34 00 Beirut Lebanon Mexico City Mexico
+Fax:+33 (0)5 61 93 35 00 Berlin Germany Miami United States of America
+airtac@airbus.com Bogota Colombia Minneapolis United States of America
+Brisbane Australia Montreal Canada
+Spares AOGs in Americas should be
+Bucharest Romania Moscow Russia
+addressed to:
+Budapest Hungary Mumbai India
+Tel:+1 703 729 9000 Buenos Aires Argentina Muscat Oman
+Fax:+1 703 729 4373 Cairo Egypt Nanjing China
+aog.na@airbus.com Casablanca Morocco New Delhi India
+Charlotte United States of America Newcastle Australia
+Spares AOGs outside Americas
+Chengdu China New York United States of America
+should be addressed to: Chicago United States of America Paris France
+Tel:+49 (0)40 5076 4001 Cologne Germany Phoenix United States of America
+Fax:+49 (0)405076 4011 Colombo Sri Lanka Prague Czech Republic
+aog.spares@airbus.com Dakar Senegal Quito Ecuador
+Dhaka Bangladesh Riyadh Saudi Arabia
+Spares related HMV issues outside Doha Qatar Roma Italy
+North America should be addressed to: Dubai United Arab Emirates San Francisco United States of America
+Tel:+49 (0)40 5076 4003 Dublin Ireland San Salvador El Salvador
+Fax:+49 (0)40 5076 4013 Dusseldorf Germany Sana’a Yemen
+hmv.spares@airbus.com Fort Lauderdale United States of America Santiago Chile
+Frankfurt Germany Sao Paulo Brazil
+Airbus Training Centre Toulouse, France Guangzhou China Seoul South Korea
+Tel:+33 (0)5 61 93 33 33 Haikou China Shanghai China
+Fax:+33 (0)5 61 93 20 94 Hamburg Germany Sharjah United Arab Emirates
+Hangzhou China Shenyang China
+Airbus Maintenance Training Centre Hanoi Vietnam Shenzhen China
+Hamburg, Germany Helsinki Finland Singapore Singapore
+Tel: +49 (0)40 7438 8288 Hong Kong S.A.R. China Sofia Bulgaria
+Fax:+49 (0)40 7438 8588 Honolulu United States of America Sydney Australia
+Indianapolis United States of America Taipei Taiwan
+Airbus Training subsidiaries Istanbul Turkey Tashkent Uzbekistan
+Miami, Florida - U.S.A. Jakarta Indonesia Tehran Iran
+Tel:+1 305 871 36 55 Jeddah Saudi Arabia Tel Aviv Israel
+Fax:+1 305 871 46 49 Johannesburg South Africa Tokyo Japan
+Karachi Pakistan Toluca Mexico
+Beijing, China
+Kita-Kyushu Japan Toulouse France
+Tel:+86 10 80 48 63 40 Kuala Lumpur Malaysia Tripoli Libya
+Fax:+86 10 80 48 65 76 Kuwait City Kuwait Tunis Tunisia
+Lagos Nigeria Vienna Austria Bangalore, India (Maintenance training)
+Lima Peru Washington United States of America Tel: +33 (0)5 61 93 33 33
+Lisbon Portugal Xi'an China
+Fax:+33 (0)5 61 93 20 94 London United Kingdom Zurich Switzerland
+37
+FAST47_COUV.qxp:couvFAST41 rectoverso 20/12/10 11:15 Page 1

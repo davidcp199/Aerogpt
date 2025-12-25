@@ -1,0 +1,1889 @@
+AAiirrbbuuss tteecchhnniiccaall mmaaggaazziinnee
+OOccttoobbeerr 22001177
+##6600
+FFAA SS TT
+FFlliigghhtt AAiirrwwoorrtthhiinneessss SSuuppppoorrtt TTeecchhnnoollooggyy
+Already have the FAST app?
+Now get the latest news for customers
+via Newsfeed by Airbus.
+FAST
+Airbus Airbus
+by by
+FAST and Newsfeed by Airbus apps
+are downloadable to your preferred device
+Already have the FAST app?
+Now get the latest news for customers
+via Newsfeed by Airbus.
+FAST
+Airbus Airbus by by
+FAST and Newsfeed by Airbus apps
+are downloadable to your preferred device 06#TSAF
+30
+Airbus technical magazine
+#60
+FA S T
+Flight Airworthiness Support Technology
+Publisher: Alizée GENILLOUD
+Chief Editor: Deborah BUCKLER
+Optimise the skies 04
+Design: PONT BLEU
+Air Traffic Management
+Cover image: Hervé GOUSSET modernisation programmes
+Printer: Amadio
+RSC traceability 12
+Authorisation for reprinting
+FAST magazine articles Removable Structural Components
+should be requested by email:
+fast.magazine@airbus.com
+Aquarius 18
+FAST magazine is available on internet
+Dealing with water in jet fuel
+www.aircraft.airbus.com/
+support-services/publications/
+electronic Quick 24
+and on tablets or smartphones
+Reference Handbook
+ISSN 1293-5476
+Making the paperless cockpit a reality
+© AIRBUS 2017 All rights reserved. Proprietary document Fleet-wide systems 32
+By taking delivery of this Magazine (hereafter ‘Magazine’), you accept on behalf maintenance
+of your company to comply with the following. No other property rights are granted
+by the delivery of this Magazine than the right to read it, for the sole purpose of Priorities and status at a glance
+information. This Magazine, its content, illustrations and photos shall not be modified
+nor reproduced without prior written consent of Airbus. This Magazine and the
+materials it contains shall not, in whole or in part, be sold, rented, or licensed to any
+third party subject to payment or not. This Magazine may contain market-sensitive FAST from the past 38
+or other information that is correct at the time of going to press. This information
+involves a number of factors which could change over time, affecting the true public
+representation. Airbus assumes no obligation to update any information contained in
+Around the clock, 39
+this document or with respect to the information described herein. The statements
+made herein do not constitute an offer or form part of any contract. They are based on
+around the world
+Airbus information and are expressed in good faith but no warranty or representation
+is given as to their accuracy. When additional information is required, Airbus can be
+Field representatives
+contacted to provide further details. Airbus shall assume no liability for
+any damage in connection with the use of this Magazine and the materials it contains,
+even if Airbus has been advised of the likelihood of such damages. This licence
+is governed by French law and exclusive jurisdiction is given to the courts and tribunals
+of Toulouse (France) without prejudice to the right of Airbus to bring proceedings for
+infringement of copyright or any other intellectual property right in any other court of
+competent jurisdiction. Airbus, its logo, A300, A310, A318, A319, A320, A321, A330,
+A340, A350, A380 and A400M are registered trademarks.
+Photo copyright Airbus
+Photo credits: Airbus Photographic Library, Airbus Corporate Heritage,
+Master Films, Hervé Gousset, Pascal Pigeyre, Lisa S./Shutterstock,
+aapsky/Shutterstock, Martin Chainey
+06#TSAF
+40
+Optimise
+the skies
+Air Traffic Management (ATM)
+modernisation programmes
+Article by (left to right)
+Daniel CHIESA
+Airline Flight Organisations Expert
+AIRBUS
+daniel.chiesa@airbus.com
+Didier DELIBES
+Project Manager
+AIRBUS
+didier.delibes@airbus.com
+With air traffic set to double over the next 15 years,
+ATM modernisation programmes around the world
+are aiming to ensure a high performance infrastructure
+that will allow airlines to expand their business.
+In addition to this, airlines are demanding more
+cost-efficient air traffic management and more
+environmentally-friendly operations are expected.
+ATM modernisation is therefore key to the commercial aircraft industry and a priority for both operators and Airbus.
+There are however several challenges to be considered:
+• Political: The ATM context is fragmented due to states exercising national sovereignty
+• Transitional: New ATM concepts have long development cycles, typically 10 to 15 years
+• Complexity: ATM covers Air Traffic Control, Network Management systems, airports, airlines’ operational
+control centres and aircraft
+Russia
+Federal Investment
+Programme
+Collaborative Actions for Renovation of Air Traffic Systems
+FIANS
+BRASIL
+NZ
+New Southern Sky
+06#TSAF
+50
+Air Traffic Management modernisation programmes
+The stakeholders
+Airlines Aircraft manufacturers Air navigation Airports Ground
+with avionics service infrastructure
+suppliers providers
+Several ATM modernisation programmes have been launched to respond to the
+specific needs of different regions of the world (see fig.1). It is hoped that many of
+these will set ambitious performance objectives along the lines of SESAR and
+NextGen, such as 50% reduction of navigation fees, reducing CO2 emissions by 10%,
+or having the potential of a 3-fold increase in ATM capacity. These programmes also
+have the merit of federating the various ATM stakeholders and of progressing in a
+collaborative manner that is beneficial for all.
+NextGen SESAR The ICAO GANP
+NextGen is the Federal Aviation Single European Sky ATM Research is the The fifth edition of the International Civil Aviation
+Administration (FAA) programme to European programme launched in 2009 Organization (ICAO) Global Air Navigation Plan
+modernise the air transportation system in order to provide Europe with a high- (GANP) is designed to guide complementary and
+for the United States of America. performance ATM infrastructure. sector-wide air transport progress over 2016-2030
+This comprehensive initiative relies on and is approved triennially by the ICAO Council.
+2016 marked the completion of the first
+satellite navigation and advanced digital The GANP represents a rolling, 15-year strategic
+phase of SESAR research and innovation
+communications, to help improve methodology which leverages existing technologies
+(SESAR 1) and the delivery of mature
+and evolve the National Airspace System. and anticipates future developments based on an
+technological and operational solutions.
+harmonisation of SESAR and NextGen concepts
+The second phase (SESAR2020) will
+and state/industry agreed operational objectives.
+support the early deployment of major
+improvements, such as the initial-4D This structured approach provides a basis for sound
+concept, through very large scale investment strategies and will generate commitment
+demonstrations running from 2018 from states, equipment manufacturers, operators
+to equip more than 100 aircraft. and service providers.
+The advantages that harmonised ATM solutions would bring to worldwide
+interoperability has encouraged Airbus (along with other aircraft manufacturers)
+to strongly support the ICAO initiative to federate regional ATM modernisation
+programmes through the GANP.
+Fig. 1 - Leading ATM modernisation programmes
+06#TSAF
+60
+Air Traffic Management modernisation programmes
+Trajectory-Based
+Operations enable
+airlines to fly their
+preferred routes
+New concepts in aircraft operations - ready to deploy
+ICAO definition of Trajectory-
+Next generation Air Traffic Management system(s) will require more interactions
+Based Operations (TBO)
+and cooperation between the aircraft and the ground.
+By participating in regional modernisation programmes and ICAO harmonisation A concept enabling globally
+activities in the GANP, Airbus is ensuring that: consistent performance-based
+4D trajectory management by
+• The future operational concepts make the best use of existing and future aircraft
+sharing and managing trajectory
+capabilities and that these create value for airlines
+information. TBO will enhance
+• Air and ground development /deployment are synchronised planning and execution of efficient
+flights, reducing potential conflicts
+As a result, (and thanks to its work with SESAR in particular), Airbus has contributed
+and resolving upcoming network
+to progress on several topics, among which the following are ready for deployment
+and system demand/capacity
+and constitute breakthroughs in terms of aircraft operations, with significant benefits
+imbalances early. It covers ATM
+on ATM capacity, efficiency and safety:
+processes starting at the point an
+• Trajectory-Based Operations individual flight is being planned
+through flight execution to post
+• Ground Based Augmentation System
+flight activities.
+• Airport Surface Indicating and Alerting
+Trajectory-Based Operations (TBO)
+The overarching concept of ATM modernisation is the move from airspace-based
+operations (e.g. traffic separation based on current position and radar plot) to
+Trajectory-Based Operations, relying mainly on accurate flight planning data,
+and accurate predictions of aircraft positions (the 4D aircraft trajectory), shared
+and synchronised between all stakeholders, including the Network Manager,
+the Air Traffic Control Units, the Airlines Control Centre and the aircraft.
+Video
+PEGASE, Providing Effective
+Ground & Air data Sharing
+via Extended Projected Profile
+06#TSAF
+70
+Air Traffic Management modernisation programmes
+This paradigm shift will enable conflicting trajectories to be resolved upfront
+and the controller’s role will evolve from short term tactical control to more strategic
+and monitoring tasks.
+As part of the TBO concept, Initial-4D (i4D) and Extended Flight Plan (EFPL)
+have been developed over recent years to improve ATM predictability.
+While EFPL improves and supports mainly the flight planning phase,
+i4D contributes to improve flight predictions during the execution phase.
+1 2 Initial-4D
+Ground Based
+Extended
+3
+Augmentation System
+Flight Plan
+4 4
+Airport Surface Indicating and Alerting
+Graphic toolbox
+03.22.03
+1
+Extended Flight Plan (EFPL) Arrows
+A set of arrows has been developed to point out
+different stroke weights as well as dotted strokes.
+All three colour palettes can be used.
+Today, an aircraft operator’s flight plan EFPL as a new flight plan type will be aligned with the upcoming international standard
+deliv 2 ered through ICAO FPL 2012 ‘FF-ICE1’ and will mainly provide the following information:
+includes only limited information of
+• 4D trajectory (altitude, time, aircraft mass and speed at every waypoint)
+the 4D trajectory.
+Light Medium Bold
+• Flight specific performance data (optional information)
+Both the Network Manager and Air
+Traffic Control Units receive the flight • Unconstrained climb and descent profiles
+plan and recalculate its profile which
+may 3result in misaligned trajectories.
+Key parameters of the 4D trajectory, Expected benefits:
+or flight specific performance data are
+not all given to both parties who will tend • Potential decrease of 15% for the rate of rejected flight plans
+to exercise caution, often leading to a
+• More optimised trajectory computation and acceptance processes
+wrongly rejected or wrongly accepted
+4
+flight plan. • Alignment of airlines and ATM planned trajectories
+Therefore, the Operational Flight Plan • Enhancement of traffic predictions
+released to the crews in some cases
+• Improvement of demand/capacity network calculations
+does not provide the optimum vertical
+profile. This is due to the fact that the The flight dispatcher will have a better understanding of the errors
+trajectory is refined to get it accepted and will solve them more efficiently in the case of rejected flight plans
+by both parties. while the flight planning procedures should remain the same.
+Thanks to the sharing of Extended Deployment is expected to start in 2019 and will gradually integrate #03
+Flight Plan (EFPL) data during the Air Navigation Service Providers until 2021.
+Editorial
+planning phase, these misalignments
+line
+will gradually disappear.
+Airbus Brand Manual 2014
+Video
+Extended Flight Plan-2015
+validation exercise
+Top of Descent
+13:03:02
+With i4D there is a
+reduction in aircraft
+turn uncertainty.
+Arrival Airport
+13:18:04
+12:54:37
+12:45:30
+12:35:47 12:58:22
+12:20:03 Current uncertainty for Top of Climb and
+Top of Descent prediction by ground Air Traffic
+W3 W4 W5
+Top of Climb Control can be up to 100 Nautical Miles.
+12:04:18 W2
+i4D can reduce uncertainty by 90%.
+Waypoints
+W1
+Top of Climb
+Departure Airport
+11:13:40
+uncertainty with i4D
+uncertainty without i4D
+06#TSAF
+80
+1
+Air Traffic Management modernisation programmes
+2
+Initial-4D (i4D)
+During the flight execution phase, the aircraft downlinks the updated 4D
+trajectory information that augments the ground trajectory predictions.
+3 The European Commission has
+As shown in SESAR i4D demonstrations, the Flight Management System (FMS) mandated the ‘Initial Trajectory
+provides the most accu rate predictions relying on aircraft systems and sensors. information sharing’.
+This has been recognised in the European Commission mandating the ‘initial
+As part of the deployment plan,
+trajectory information-sharing’, i.e. mandating i4D for the airborne and ground
+45% of flights in Europe will be
+segments.
+operated by aircraft fitted with
+4
+With i4D, the aircraft Flight Management System computes flight trajectory the Initial-4D function in 2025.
+predictions, enhanced with estimates of altitude and time (4D trajectory).
+By 1st January 2026, ATC
+These predictions are updated with ATC clearances as the flight progresses
+systems in Europe will be able
+and benefit from real-time aircraft data (weight, cost index, actual wind…)
+to receive and use aircraft 4D
+specific to each individual flight. Then, these FMS trajectories are sent to ATC
+trajectory predictions sent via
+using datalink, (through Automatic Dependent Surveillance - Contract (ADS-C)),
+the datalink infrastructure.
+either on ATC request, or periodically or on event, where they are processed
+to augment ground trajectory predictions.
+06#TSAF
+90
+Graphic toolbox
+03.22.03
+Arrows
+A set of arrows has been developed to point out
+different stroke weights as well as dotted strokes.
+All three colour palettes can be used.
+Light Medium Bold
+Air Traffic Management modernisation programmes
+Expected benefits:
+• Reduction of aircraft delays by using ATC enhanced tools (better aircraft
+trajectory prediction, enhanced conflict detection…)
+• Reduction of fuel burn / CO2 emissions and noise (flying optimum trajectories
+including continuous climb and descent operations)
+• Increase of capacity due to better predictability of ATC sectors load, enabling
+a reduction of ATC margins while maintaining safety
+#03
+Editorial
+line
+Airbus Brand Manual 2014
+Longitudinal
+uncertainty
+Trajectory prediction
+with i4D
+and conflict detection without i4D
+improved thanks to
+initial-4D function
+Area of possible conflict
+is reduced (solid dark blue
+compared to dotted line)
+thanks to accurate
+and reliable projection
+provided with i4D
+Airbus and partners of the European ATM modernisation programme SESAR
+have been working on the research and prototyping phase of i4D, with initial
+demonstrations and flight trials performed in 2012 to validate the concept. The next
+step will be the full validation of the function in a real environment. This will be possible
+thanks to the very large-scale demonstrations planned in 2018/2019 with commercial
+revenue aircraft exchanging data with the Air Navigation Services of UK (NATS),
+Germany (DFS), Italy (ENAV) and Maastricht-controlled area (MUAC). As planned
+by the SESAR Pilot Common Project, this function will be fully operational in 2025
+on nearly half of the European flights.
+Outside Europe, Airbus has recently signed a contract with Chinese partners
+to promote the i4D technology. It is planned that in 2019, a China Southern Airlines
+A320neo equipped with i4D capable systems will fly in Chinese airspace with an
+i4D-equipped Air Traffic Control (ATC) centre.
+Video
+Further cooperation concerning i4D technology is being explored with other ATM
+i-4D, Introducing a new world partners.
+dimension of flight
+Using the Initial-4D function to support trajectory-based operations is foreseen
+as a game changer in Air Traffic Management, with an impact on aircraft systems
+limited to software upgrade.
+Operational benefits will get stronger as the ATC ground systems progressively
+extend use of data from the flight planning phase to arrival traffic sequencing.
+06#TSAF
+01
+1
+Graphic toolbox
+03.22.03
+Arrows
+A set of arrows has been developed to point out
+2
+different stroke weights as well as dotted strokes.
+All three colour palettes can be used.
+Air Traffic Management modernisation programmes
+Light Medium Bold
+3
+Ground Based Augmentation System (GBAS)
+The Ground-Based Augmentation System (GBAS) is a safety-critical system Expected benefits:
+that augments the Global Positioning System (GPS) and provides enhanced
+4
+levels of service that support all phases of approach, landing and departure.
+• GBAS provides a cost-efficient
+GBAS overcomes some Instrument Landing System (ILS) challenges and
+solution, since only one ground
+meets the more demanding needs of the future in a more cost-efficient way.
+station is needed to service multiple
+The function on board Airbus aircraft called GBAS Landing System (GLS) approaches to all runways at an
+respects an ‘ILS look-alike’ concept. It means that the pilots fly these airport and requires less maintenance
+approaches with the same type of Human Machine Interface in the cockpit and flight inspection compared
+as conventional ILS approaches. with ILS.
+Most Airbus aircraft types have been certified for existing GBAS CAT I • GBAS-optimised low visibility
+operations. operations primarily address busy
+airports which have capacity
+The SESAR programme has validated the development of GBAS to support
+limitations, as they need smaller #03
+low visibility operations (so-called CAT II/III).
+protection zones than with ILS.
+Editorial
+• GBAS advanced procedures can line
+directly support airports seeking Airbus Brand Manual 2014
+to address noise issues and to use
+efficient arrival paths.
+• With the ILS look-alike concept,
+GPS
+no additional flight crew training
+constellation
+is required.
+With regard to airports, GBAS advanced
+operations based on increased glide
+slopes and Multiple Runway Aiming
+Points are expected to:
+FAS &
+Final
+Approach
+Segment
+(FAS)
+•
+l
+p
+t
+R
+o
+h
+r
+e
+w
+r
+o
+e
+d
+b
+e
+s
+u
+r
+le
+h
+c
+t
+m
+o
+h
+e
+l
+e
+d
+s
+r
+,
+u
+s
+r i
+n
+d
+s
+w
+u
+k
+e
+a
+o
+y
+f
+t o
+w
+o
+d
+c
+a
+c
+i
+k
+s
+e
+u
+p
+p
+l
+v
+a
+a
+o
+c
+n
+r
+e
+t
+c
+e
+d
+y
+x
+r
+t
+e
+u
+im
+n
+n
+c
+w
+e
+o
+s
+a
+u
+y
+a
+n
+n
+te
+d
+r
+corrections
+• Increase runway throughput in low
+visibility conditions and adverse
+weather conditions by supporting
+reduced spacing on final approach
+VHF
+• Reduce noise concerns in the vicinity
+of airports through GBAS increased
+GBAS ground station at airport
+glide slopes and curved approaches
+Increased Glide Slope Multiple Runway Aiming Points
+M
+ax.
+IG
+S
+Conven
+IG
+tio
+S
+n
+p
+a
+r
+l
+o
+G
+c
+l
+e
+id
+d
+e
+u r (
+S
+4 e .
+lo
+49
+p
+°
+e
+) Conventional M
+G
+R
+lid
+A
+e
+P
+S
+p
+l
+r
+o
+o
+p
+c
+e
+edure
+Noise benefit Noise benefit
+CONCLUSION
+ATM modernisation is underway with key players, including Airbus, actively participating in both
+research and develop ment programmes around the world and in the industrialisation of new airborne
+capabilities required by ATM concepts, enabling safer operations in the future.
+The overall objective is to accelerate the transition to a performance-based ATM, allowing operators to fly their preferred trajectories. Airbus thereby supports the inclusion of ‘Best Equipped Best Served’
+operational incentives within the new ATM concepts in order to make current ATC practices (such as
+altitude constraints, holding stacks, tactical vectoring, time and fuel consuming open-loop instructions) the exception.
+Airbus is also urging for worldwide interoperability of the new ATM concepts in order to coordinate
+aircraft development, and enable seamless flight around the world. 06#TSAF
+11
+1
+2
+Graphic toolbox
+03.22.03
+Arrows
+A set of arrows has been developed to point out
+3
+different stroke weights as well as dotted strokes.
+All three colour palettes can be used.
+Air Traffic Management modernisation programmes
+Light Medium Bold
+4
+Airport Surface Indicating and Alerting (SURF-IA)
+Runway incursions are a major hazard with around 2 occurrences a day Expected benefits:
+in Europe. Most of these events could be avoided by providing flight crews
+with relevant information to make the right decision in a timely manner. SAFETY
+Runway Incursion Traffic Alert is a safety net which provides both an aural alert • Being primarily designed to prevent
+and an intuitive visual cue in the primary field of view of each pilot. It is visible high speed collisions with another
+whatever the situation in the vicinity of the runway. aircraft or vehicle, Runway Incursion
+Traffic Alert constitutes a major safety
+It requires Automatic Dependent Surveillance-Broadcast (ADS-B) In data
+enhancement in surface operations.
+(position, ground speed, altitude, direction) from aircraft or other vehicles in
+the vicinity, as well as airport runway data. No infrastructure or interaction • The prevention of situations of collision
+with ground is required. or quasi-collisions will also contribute to
+reducing the disruption of operations.
+#03
+Editorial
+line
+Airbus Brand Manual 2014
+ALERT
+Lining up
+Runway Incursion Traffic Alert is a safety
+net which provides both an aural alert
+and an intuitive visual cue in the primary
+ALERT field of view of each pilot.
+short final
+ALERT
+Starting take-off run
+Increased Glide Slope Multiple Runway Aiming Point
+M
+ax.
+IG
+S
+Conven
+IG
+tio
+S
+n
+p
+a
+r
+l
+o
+G
+c
+l
+e
+id
+d
+e
+u r (
+S
+4 e .
+lo
+49
+p
+°
+e
+) Conventional M
+G
+R
+lid
+A
+e
+P
+S
+p
+l
+r
+o
+o
+p
+c
+e
+edure
+Noise benefit Noise benefit
+RSC traceability
+Article by
+Marc BOZZOLO
+Business Development Manager
+Maintenance Programmes Engineering
+AIRBUS
+marc.bozzolo@airbus.com
+Removable Structural Components (RSC) – such as doors,
+flaps, slats – may be transferred between aircraft, resulting in
+a different utilisation profile than the airframe on which they were
+originally installed. Controlling and/or tracking maintenance
+requirements or limitations associated with these components
+are essential to ensure continuing airworthiness management.
+As the world fleet of aircraft grows and ages, movements
+of RSCs are increasing. The industry has recognised that more
+focus on the traceability of RSCs on and off the aircraft must
+be brought to the attention of operators, MROs (Maintenance,
+Repair and Overhaul organisations), suppliers and manufacturers
+to satisfy continuing airworthiness.
+06#TSAF
+21
+Removable Structural Components
+RSC traceability
+Some of these RSCs contribute
+to the airworthiness of the aircraft.
+Indeed, they may be subject to
+mandatory requirements, such as
+inspections, modifications, repairs
+or any other limitation (i.e.: Flight
+Cycles (FC), Flight Hours (FH)
+or calendar, weighing, etc.).
+The life monitoring and control
+of these structural parts and their
+instructions for continuing
+airworthiness is a need, especially
+when RSCs have been removed
+from the first aircraft on which
+they were installed. It ensures that
+these parts meet their associated
+mandated requirements and
+limitations, and ensures safe
+operation.
+06#TSAF
+31
+Traceability steps in the life cycle of components
+Component Component
+technical
+production
+justification
+and limitations
+- Component
+service goal
+Design
+justifications,
+maintenance
+requirements
+and limitations.
+Engineering
+Industrialisation/
+production
+- Component
+identification,
+Production
+marking and
+production
+tracking.
+Concessions
+if required
+Data
+Management
+Management
+of associated
+technical
+documentation
+Tech - Technical
+data documentation
+management
+adapted to RSCs (AMM,
+NTM, SB, SRM, ALS...).
+Delivery
+Component
+service life
+Support to operations Support to operations
+Support - New support or services - Propose new support
+proposals on demand. or services on demand.
+Repairs Repairs
+- RSC specificities - Consider
+Repairs
+vs Repair limitations RSC specificities
+considered. vs Repair limitations.
+Spares management Spares management
+Spares & out-of- - Parts availability - Parts availability
+production parts and traceability and traceability
+in case of used parts. in case of used parts.
+5380
+Tailcone
+ATA
+5530
+Removable Structural Components Vertical stabiliser
+Main RSCs (high level assemblies) that Airbus recommends controlling 5540
+Rudder assembly
+5450
+Pylon assembly
+Pylon to wing attachment links, pins and bearings
+Pylon to engine mounts attachment spigot fitting assy (applicable to A380 only) 5230
+Rear secondary structure Bulk cargo compartment 5520
+doors assembly Elevator assembly
+5450
+Aft pylon fixed fairing assembly
+Aft pylon movable fairing assembly
+Front pylon fairing assembly
+5220 5510
+Emergency exit doors assembly Horizontal stabiliser
+assembly
+5260
+Entrance stair door
+5230
+Cargo compartment 5750
+doors assembly Flaps
+Flap track carriage
+Flap track beam
+5770
+Spoilers
+5760
+5220
+Ailerons
+Escape hatch assembly
+(A350 only)
+5280 5730
+Centre landing gear doors Wing tip, winglets, sharklets
+5310
+Radome
+5280
+Main landing gear doors
+5220 (incl. leg fairing door)
+5740
+Emergency exit assembly
+Slats
+doors assembly
+Slats tracks
+7120 Droop nose assembly (A350 and A380 only)
+Forward engine mounts assembly Droop nose arms (A350 and A380 only)
+5210
+Rear engine mounts assembly
+Passenger / crew
+5240 Engine mounts thrust link assembly
+doors assembly
+Avionics access doors (Applicable to A380 and A350 only)
+Tracking recommended
+7110
+5280 7810
+Nose cowl / air intake
+Nose landing gear doors Exhaust nozzle assembly Economical or logistical related
+7110 7820 Some significant subassemblies do not contain
+Flight Control System or Primary Structure Elements
+Nacelle - fan cowls Fan exhaust cowl assembly
+but are routinely interchanged by operators.
+(Applicable to A380 only) Based on previous experience, it is preferable
+to control these elements to ease their management.
+7830 No transfer permitted
+Thrust reverser structure assembly
+without Airbus involvement
+06#TSAF
+41
+5380
+Tailcone
+ATA
+5530
+Removable Structural Components Vertical stabiliser
+Main RSCs (high level assemblies) that Airbus recommends controlling 5540
+Rudder assembly
+5450
+Pylon assembly
+Pylon to wing attachment links, pins and bearings
+Pylon to engine mounts attachment spigot fitting assy (applicable to A380 only) 5230
+Rear secondary structure Bulk cargo compartment 5520
+doors assembly Elevator assembly
+5450
+Aft pylon fixed fairing assembly
+Aft pylon movable fairing assembly
+Front pylon fairing assembly
+5220 5510
+Emergency exit doors assembly Horizontal stabiliser
+assembly
+5260
+Entrance stair door
+5230
+Cargo compartment 5750
+doors assembly Flaps
+Flap track carriage
+Flap track beam
+5770
+Spoilers
+5760
+5220
+Ailerons
+Escape hatch assembly
+(A350 only)
+5280 5730
+Centre landing gear doors Wing tip, winglets, sharklets
+5310
+Radome
+5280
+Main landing gear doors
+5220 (incl. leg fairing door)
+5740
+Emergency exit assembly
+Slats
+doors assembly
+Slats tracks
+7120 Droop nose assembly (A350 and A380 only)
+Forward engine mounts assembly Droop nose arms (A350 and A380 only)
+5210
+Rear engine mounts assembly
+Passenger / crew
+5240 Engine mounts thrust link assembly
+doors assembly
+Avionics access doors (Applicable to A380 and A350 only)
+Tracking recommended
+7110
+5280 7810
+Nose cowl / air intake
+Nose landing gear doors Exhaust nozzle assembly Economical or logistical related
+7110 7820 Some significant subassemblies do not contain
+Flight Control System or Primary Structure Elements
+Nacelle - fan cowls Fan exhaust cowl assembly
+but are routinely interchanged by operators.
+(Applicable to A380 only) Based on previous experience, it is preferable
+to control these elements to ease their management.
+7830 No transfer permitted
+Thrust reverser structure assembly
+without Airbus involvement
+06#TSAF
+51
+06#TSAF
+61
+RSC traceability
+Current context of continuing airworthiness regulations
+In accordance with applicable regulations, the continuing Due to different approaches used by airworthiness authorities,
+airworthiness record system put in place for each individual both operators and manufacturers have worked together
+aircraft (including components installed) is an operator in different industrial forums.
+responsibility.
+The Airworthiness Assurance Working Group (AAWG) jointly
+For example, an operator may control an RSC: with the Airline for America (A4A)) issued ATA Spec 120
+to provide recommendations and guidance to operators.
+• At aircraft level when RSCs follow the life of the aircraft
+Mandated limitations (Airworthiness Directive (AD) and
+• At component level when an RSC follows a different life
+Airworthiness Limitation Section (ALS)) are expressed at
+than the aircraft it was initially installed on
+component level. This implies controlling the component
+Whatever recording system an operator puts in place, parameters (Flight Cycles, Flight Hours, calendar, etc.)
+the control of these RSCs is an essential element to meet and means the history records of RSCs versus mandated
+mandatory maintenance requirements such as inspections requirements should be continuously maintained.
+or modifications, and/or component limitations such as repairs,
+This was further confirmed by the EASA and FAA representatives
+service goals or life limits.
+who contributed to the development of ATA Spec 120.
+An RSC can follow
+a different life than
+the aircraft on which
+itwas initially installed
+06#TSAF
+71
+RSC traceability
+Adapting RSC recording practices
+The industry has now recognised that, in order to satisfy continuing airworthiness,
+more focus on the traceability of RSCs must be brought to the attention of operators,
+Maintenance Repair and Overhaul organisations, suppliers and manufacturers.
+During Airbus structure task groups, as well as regional seminars and symposiums,
+it was determined that the industry may need to adapt some of its recording practices,
+especially in the frame of transfers of RSCs.
+Airbus therefore launched a comprehensive exercise in order to tackle the main aspects
+related to the traceability of RSCs, enhance its level of management and anticipate
+operators’ needs for support.
+A320 identification plate
+New support, communications and deliverables are expected to result from this
+exercise. For example:
+• Airbus has identified the baseline RSC list (high level assemblies) recommended
+for operator control, i.e.: doors, control surfaces, engine mounts, nacelles.
+This will be published in the 4th quarter of 2017.
+• Several In-Service Information (ISI) documents have been published by Airbus
+to provide operators with a methodology and guidance to rebuild the life of
+a component when its history has been partially or totally lost.
+• New supports are being developed by Airbus to retrieve component data back
+to its entry into service.
+• The Repair Design Approval Sheet (RDAS) review process on RSCs is being
+developed by Airbus.
+• Airbus is further confirming the robustness of the component tracking chain
+throughout the production line up to delivery to the customer.
+CONCLUSION
+The life cycle of a Removable Structural Component can be different from the life cycle of the aircraft
+on which it was originally installed, which can lead to de-synchronisation of airworthiness checks.
+The responsibility for the necessary RSC control and tracking is incumbent on the airline,
+and to this end ATA Spec 120 was recently published to provide guidance to operators.
+Airbus has identified the baseline RSC list that is recommended for operator control, has issued
+In-Service Information to provide operators with a method to rebuild the life of a component,
+and can offer on-demand specific support.
+The recommended baseline list of RSC will be issued via an OIT.
+06#TSAF
+81
+Aquarius
+Dealing with water in jet fuel
+Ask any airline and they will say that the drainage
+of water in their fuel tanks is one of the most costly
+maintenance burdens they face.
+Article by
+Roy DEAN
+Project Manager
+AIRBUS
+roy.r.dean@airbus.com
+Why is water drainage a costly
+maintenance burden?
+• The aircraft is cold on landing and any free water* in the fuel tanks will be frozen. * The term free water is used
+Consequently, it cannot be drained until it has thawed. This increases aircraft to contrast with tiny proportion
+downtime, often overnight, in a heated hangar or using heating blankets or other of water that has been dissolved
+heat sources to accelerate the thawing process. Apron and hangar space is very into the fuel.
+much in demand and costly.
+• Drainage of water results in small quantities of a fuel-water mixture that has to be
+disposed of by suitable means, which can be quite expensive.
+• Whilst the aircraft is on the ground, it is not in the sky earning money!
+Consequently anything that can reduce the cost of draining water or increase
+the time between events is welcomed by airlines.
+• Water can also lead to unwanted substances such as microbiological contamination,
+which can require maintenance with biocides or even deep cleaning.
+Some aircraft need draining more frequently than others, as specified in the AMM
+or agreed with the airline’s local airworthiness organisation, dependent on the
+environment of routes and fuel quality. It is possible to extend this interval if evidence
+can be given to show that alternative means have been utilised.
+Aquarius
+06#TSAF
+91
+Where does water come from?
+Water enters the aircraft tanks in two ways:
+• With the uplifted fuel. Filter water separators or filter monitors will reduce the free
+water to low levels but the supplied fuel will contain dissolved water. In hot climates
+this could be up to 100 parts-per-million (ppm). But as the ambient temperature
+reduces in flight, the dissolved water will separate from the fuel-water solution
+and become free water.
+Water solubility
+in jet fuel
+• In-breathing. As the aircraft ascends, the pressure will decrease and the vapours
+above the fuel in the tank will be expelled. As the fuel level decreases, the volume
+above the fuel will be replaced by air, and as the aircraft descends, more air will enter
+to fill the tank due to the reduced volume of vapours at the increased pressure.
+Since this will usually involve descending through clouds, the air will be very humid
+resulting in condensation and freezing on the cold surfaces inside the tank.
+On thawing, this ice will add to the free water at the bottom of the tank.
+emulov
+yb
+noillim-rep-strap
+:noitartnecnoC
+1000
+100
+10
+0
+0 20 40 60 80 100
+Temperature / °C
+Effects of water
+As well as carrying unnecessary additional weight, the presence of free water
+in the fuel tank is not good for a number of reasons.
+• An excessive amount of water may intersect one or more of the capacitance
+gauging probes resulting in ‘out of range’ gauging errors which at worst
+may prevent dispatch of the aircraft.
+• Water needs to be drained and disposed of, leading to increased maintenance
+and downtime costs.
+• Water will form ice on cooling and this ice may detach and may restrict or block
+the fuel supply to the engine. (This was the cause of the B777 incident at Heathrow
+in January 2008).
+• Water may result in additional corrosion in the fuel tanks.
+• The presence of water and fuel encourages the growth of microbiological
+proliferation. In extreme cases this would have to be cleaned either by shock
+biocide treatment or by manual in-tank cleaning.
+Aquarius
+The solution: INVERSE MICELLE
+Kerojet®Aquarius additive
+Many aircraft are equipped with low-level suction pickups that
+scavenge free water and feed it with the fuel to the engine but
+there is still a residual amount of water to be dealt with.
+Aquarius is an additive that has been developed to sequester
+the free water into the fuel.
+How does Aquarius work?
+Aquarius binds the water molecule into the fuel using a ‘micelle’
+(or molecular cage) rendering the water molecule physically inert.
+Kerojet® Aquarius will maintain the solubility of the dissolved water Water
+molecule
+in the aircraft fuel tanks down to the fuel’s freeze point.
+In addition, the Aquarius micelle cannot bind salts, bacteria or other
+contaminants that might usually be found in the water with the fuel,
+only the water molecule itself. The normal dose rate of Kerojet®
+Aquarius is 250ppm by volume and, depending on the type of fuel,
+temperature and humidity levels can increase the solubility of water
+hydrophilic
+to around 230ppm which is sufficient to handle the in-breathed (polar)
+moisture even at low tank levels.
+hydrophobic
+(nonpolar)
+ASTM D4054 Industry Fuel & Additive ‘clearing process’
+Revised
+specifications
+NO NO
+Tier 1 Tier 2 Tier 3 Tier 4
+Fuel/
+Tier 1 & 2 Final ASTM
+New fuel preliminary Properties Component/ Full research Additive Recommendation
+Test of Fit for
+or additive report acceptable rig/ engine/ report(s) test results validate for the Committee
+specification purpose
+for approval for engine/ materials aircraft suitability for to vote on
+properties testing
+testing aircraft testing testing use on engines/ its inclusion
+use aircraft in the fuel
+OEM review OEM review specification
+panel panel
+DATA REPORT Phase 1 review TESTING RECOMMENDATIONS Phase 2 review
+Note: Additives can also require specific equipment approval through each OEM (not shown)
+06#TSAF
+02
+06#TSAF
+12
+Aquarius
+Route to Approval of Kerojet® Aquarius
+Aquarius was invented by Palox Ltd The Airbus Corporate Innovation team has encouraged the development of Aquarius
+and has been licensed to BASF, one of since 2014, putting in place a Technical Co-operation Agreement to enable BASF
+the world’s leading chemical companies. and Palox (the inventor) to submit Kerojet® Aquarius to the ASTM for approval as
+Palox have invested heavily in the testing an additive for jet fuel. Airbus has continued to support this project as it has
+required by the American Society for progressed through the various milestones and as new unforeseen requirements
+Testing & Materials (ASTM) D4054 have emerged. The project is now in its final stages with ASTM approval and an
+process. This testing includes the usual anticipated final incorporation into the list of approved additives by early 2018.
+D1655 specification properties (density,
+Kerojet® Aquarius is at the stage where all Original Equipment Manufacturers
+viscosity, etc.) and D4054 Fit-for-
+(including Airbus, Boeing, Rolls Royce, Pratt & Whitney, GE and Honeywell), should
+purpose properties. In addition several
+read the D4054 research report summarising the results of all the test work and then
+tests have been carried out on engines
+vote whether or not Aquarius should be included in the D1655 specification.
+and Airbus has carried out extensive
+Currently, the OEMs are reviewing the report and submitting any questions/
+testing looking at the accretion of ice
+comments. An ASTM subcommittee will then vote on approving the additive. If this
+in cold fuel. Additionally Airbus has
+ballot is successful, a larger subcommittee will ballot its inclusion in the specification.
+carried out a confidence flight using
+These ballots are anticipated before end of 2017.
+A340-600 flight test aircraft MSN360
+to verify the calculations and rig test BASF plan to introduce Kerojet® Aquarius to the market in a phased approach,
+observations. starting with an in-service evaluation with Lufthansa to confirm the performance of
+the additive and optimise the dosing equipment.
+Aquarius will be metered into the fuel at refuel hence each airport served will require
+dosing equipment. BASF and Faudi* have developed a trailer-mounted dosing skid
+which interfaces with the refuel bowser to ensure that the Kerojet® Aquarius is dosed
+at the correct concentration.
+*Dosing equipment
+manufacturer
+ASTM D4054 Industry Fuel & Additive ‘clearing process’
+Revised
+specifications
+NO NO
+Tier 1 Tier 2 Tier 3 Tier 4
+Fuel/
+Tier 1 & 2 Final ASTM
+New fuel preliminary Properties Component/ Full research Additive Recommendation
+Test of Fit for
+or additive report acceptable rig/ engine/ report(s) test results validate for the Committee
+specification purpose
+for approval for engine/ materials aircraft suitability for to vote on
+properties testing
+testing aircraft testing testing use on engines/ its inclusion
+use aircraft in the fuel
+OEM review OEM review specification
+panel panel
+DATA REPORT Phase 1 review TESTING RECOMMENDATIONS Phase 2 review
+Note: Additives can also require specific equipment approval through each OEM (not shown)
+Aquarius
+06#TSAF
+22
+What has been Airbus’s role?
+Airbus was engaged in 2014 to investigate the effect of Aquarius on the threat of ice forming -
+a certification requirement following the B777 incident at Heathrow in 2008 - and any other fuel
+system level effects to support BASF conducting an in-service evaluation and to support the
+ASTM process for approval of the additive.
+Airbus was able to use its A330/A340 engine feed test rig at the fuel test facility at Airbus, UK.
+This is an actual size replica of ribs 1-4 of an A330 wing and features genuine A330 feed pumps.
+However, it is fabricated from steel and equipped with cooling facilities to allow its use under
+vacuum, simulating elevation up to 43,000 feet and temperatures down to and beyond -40°C.
+Several test runs were carried out using different concentrations of Aquarius and water to simulate
+various operating conditions following temperature profiles typical of long haul flights. It became
+clear that the use of Aquarius significantly improved the ice threat reducing the amount of ice
+deposited on the cold surfaces - the increased amount of water remained in solution rather than
+precipitating out as would occur without the use of Aquarius.
+Whilst there was little doubt that Aquarius would not increase the threat of ice formation, a remark
+by one of the rig operators, plus the observance of some white emulsions, led to further
+investigation.
+The operator, who had run many ice tests on this same test rig following the Heathrow crash,
+noted that the rig was much cleaner and suggested that the surfactant* nature of Aquarius
+had cleaned the test rig! Likewise, the formation of the emulsion was initially thought also to be
+a result of the surfactancy*. This led to much further laboratory work which showed that the *Also called: surface-active agent,
+a substance such as a detergent,
+emulsion formation was a result of the test method – at the end of the test most of the fuel and any
+that can reduce the surface tension
+liquid water is drained off and then any deposited ice is allowed to thaw, resulting in a mixture which of a liquid and thus allow it to foam
+is excessively high in water content. Laboratory tests have proved that this accumulation of or penetrate solids; a wetting
+agent.
+emulsion only occurred in a radically out-of-balance mixture which is excessively high in water, of
+the order of 50% water, which would never happen in-service. In flight, the water content is unlikely
+to exceed 250ppm (0.025%). In addition, measurements of the key transport properties of the
+emulsion have shown that they are no different to that of fuel or water.
+The remark about the cleaning of the test rig also needed investigation. Palox Ltd showed by theory
+that Aquarius could not act as a cleaning fluid. The rig operator explained that in previous
+campaigns the test rig needed cleaning every 5 or 6 tests due to build-up of microbial
+contamination and other interfacial debris due to the presence of free water. In the case of
+the Aquarius tests, the rig started and remained clean throughout the programme. This supported
+the observation that the use of Kerojet® Aquarius reduces the likelihood of microbial growth.
+A trailer-mounted
+dosing skid which
+interfaces with the
+refuel bowser to
+ensure that Aquarius
+is dosed at the correct
+concentration.
+Flight evaluation
+The original plan was to perform the in-service evaluation with Lufthansa using two
+A340-600 over a 6-month period of revenue service. However, in order to achieve
+this, airframe, equipment and engine suppliers would have to undertake a risk
+assessment and give clearance.
+As a result of their own previous engine tests and hearing of the cleaning effect/
+emulsions, the engine manufacturer required more evidence to support revenue flights
+with an unapproved additive. Consequently it was agreed to undertake some flight
+testing using an Airbus flight test aircraft, MSN360 rather than revenue flights - these
+will follow after ASTM approval.
+A series of ground tests were carried out using Aquarius at four times the normal
+dosage to investigate the possible cleaning effect. There was concern that
+the Aquarius dosed fuel would release any dirt and debris that may have accumulated
+in the aircraft fuel tanks. An internal inspection was carried out before and after
+the circulation and ground engine runs (Rejected Take Off tests). One wing was fuelled
+with Jet A-1 dosed with Aquarius while the remaining wing’s fuel did not contain
+the additive. Samples were taken from the water drain valves for laboratory analysis
+and particle counting. Since no increase in contamination was observed from
+the particle counting (dirt etc), a test flight was carried out over a 3-hour period.
+This featured the routine tests carried out in all flight test programmes (such as engine
+relight and gravity flow tests*). No difference was detected between the dosed and
+un-dosed wings. A final internal inspection showed no evidence of cleaning or of the
+formation of lasting emulsions. It was agreed that the flight test demonstrated that the
+concerns over cleaning and emulsion formation were unfounded.
+A bonus from the flight test
+BASF/Faudi took their dosing equipment
+to Airbus, France and were able to identify
+some minor improvements before going to
+a commercial operation with a flight test
+using the Aquarius dosed fuel.
+CONCLUSION
+Water in fuel tanks is a regular and costly maintenance burden for airlines. On freezing
+at altitude, this can even become a safety issue.
+A new jet fuel additive named Kerojet® Aquarius is being developed that allows free water
+at the bottom of fuel tanks to be absorbed by the fuel, then expelled through the engines.
+Aquarius has performed well on a test rig and in full engine/aircraft testing. The research
+report is now being analysed by OEMs before a final ballot. If the ballot goes through, Airbus
+and engine/APU suppliers would then be able to add Aquarius to the Consumable Materials
+List (CML) before using it on aircraft.
+06#TSAF
+32
+Aquarius
+*Engine relite, routine procedure
+carried out in flight test programmes
+involves switching off one of the engines
+in mid-air and switching it on again.
+Gravity flow tests check the flow
+of fuel without pump at different
+altitudes and angles
+06#TSAF
+42
+eQRH making the paperless
+cockpit a reality
+electronic Quick Reference Handbook
+Pilots used to be seen carrying a heavy flight bag on board Article by
+each time they flew. Then came digital transformation which Jaouad BERRAJAA
+eQRH Project Leader
+drastically reduced technical documentation and changed
+AIRBUS
+their ways of working. jaouad.berrajaa@airbus.com
+Today, the last step of digital transformation has been reached
+with the introduction of the electronic QRH (eQRH)
+in the cockpit.
+06#TSAF
+52
+eQRH
+Why go digital?
+To appreciate the main advantages of digital documentation over paper
+documentation, consider how a simple update to the Flight Operations manuals
+used to be done.
+Before digitalisation, Airbus used to print, prepare, and ship tons of paper documents
+at each update of the Flight Operations manuals and for each Airbus aircraft.
+The airline had to receive, prepare and update this paper documentation on each
+operated aircraft, for potentially hundreds of aircraft and thousands of pilots.
+Compare this laborious, costly, and risk-ridden method to the automated, instant,
+free, digital updates sent to the Electronic Flight Bag (EFB). And updates are only
+the beginning of the advantages of digitalisation; cockpit operations are also
+significantly enhanced: searching is instant rather than having to thumb through
+hundreds of pages, and hyperlinks direct pilots to relevant sections.
+Information is now given on a need-to-know basis.
+Timeline of paperless cockpit operation on Airbus aircraft
+2020
+2000 2005 2010 2015
+A380 A400M A350 A320
+A330
+A340
+Moving standards from paper to digital
+across the fleet
+Digitalisation of Flight Operations documentation is being adopted across all Airbus
+families, the more recent families having already integrated it from the start.
+Back in the 1980s, A320 and A330/A340 families were initially designed with a Flight
+Operations standard based on the use of paper documentation. Then, in the 1990s,
+Airbus started the transformation of most of this paper documentation into an
+electronic format.
+In 2005, Airbus implemented a new standard of Flight Operations on the A380.
+This standard was based on the use of electronic devices, namely EFB and ECAM
+(explained below) to compute aircraft performance, browse operational documentation
+and manage the flight. The A380 Flight Operations standard enhanced the cockpit
+Flight Operations and enabled significant cost savings in the management of the Flight
+Operations documentation. This same standard was then adopted for the Airbus
+A400M and A350.
+More recently, Airbus has introduced further enhancements to the A320 and A330/
+A340 families’ electronic documentation to be closer to the A380 and A350 standard.
+In fact, until end of 2016, most of the operational documentation of the A320 and
+A330/A340 families could be displayed and used on an Electronic Flight Bag (EFB).
+However, one operational document remained in paper format: The Quick Reference
+Handbook (QRH).
+The flight crews use this document to check aircraft operations in normal situations.
+They also use it to manage some abnormal situations that are not monitored by the
+Electronic Centralised Aircraft Monitoring (ECAM).
+In order to implement a paperless operational standard on A320 and A330/A340
+families, with full electronic documentation, the QRH can now be managed in a new
+EFB application: The electronic Quick Reference Handbook (eQRH).
+eQRH
+Flight Operations standards on A350 and A380
+The Flight Operations standard on the A350 and A380 is based on the use
+of electronic devices in the cockpit, instead of paper, as follows:
+• The Electronic Flight Bag (EFB) provides the flight crew with:
+- Performance applications to compute the aircraft loadsheet and performance
+in take-off, cruise and landing
+- A browser to access the Flight Operations documentation,
+e.g. Flight Crew Operating Manual (FCOM), Flight Crew Techniques
+Manual (FCTM), Minimum Equipment List (MEL)
+- Mission data, e.g. flight plan, navigation charts, flight folder
+• The checklists and procedures are managed on an avionic system:
+the ECAM. This system displays to the flight crew the normal checklists
+and abnormal / emergency procedures. The flight crew can interact with
+this system in order to manage these checklists and procedures.
+The ECAM system is part of the aircraft definition and is therefore part
+of the aircraft certification.
+A slim paper Quick Reference Handbook (QRH) is used for a very limited number
+of critical or specific procedures such as smoke-related procedures and emergency
+evacuation.
+The use of an EFB on A350 and A380 provides significant benefits in the cockpit
+operations and in the management of Flight Operations documentation.
+The flight crew benefits from many smart features, such as:
+• Enhanced documentation consultation thanks to the search function,
+the contextual access, the interactive display, the use of hyperlinks,
+coloured and more comprehensive illustrations, bookmarks, etc.
+• Integration of the EFB applications. For example, in case of an aircraft system
+failure, the performance applications can automatically take into account
+the corresponding performance penalties and provide the crew with the relevant
+performance computation for the take-off, cruise and landing.
+Not only the flight crew on board the aircraft benefit from this new standard
+of operations, but it also provides significant savings to the airlines in terms of time,
+logistics and cost to manage the documentation.
+The documentation updates are provided on the AirbusWorld portal and the operators
+can customise this documentation thanks to comprehensive electronic tools such
+as ADOC or FODM. Finally, the electronic documentation can be dispatched wirelessly
+to the flight crew tablets/laptops or to the aircraft. This electronic process replaces
+paper printing, thus reducing the preparation and distribution costs, and enhancing
+the ecological footprint of Airbus and operators.
+06#TSAF
+62
+On the A380 and A350, checklists and
+procedures are available in the ECAM
+06#TSAF
+72
+eQRH
+Initial Flight Operations standard on A320,
+A330/A340 families
+A320 and A330/A340 families were initially designed with a Flight Operations standard
+based on the use of paper documentation. Then, as laptops and tablets became
+standard in the 1990s and 2000s, most of the Flight Operations data was transformed
+from printed manuals to electronic operational documentation in Airbus’ pioneering
+EFB product: the Less Paper Cockpit (LPC). This first step of digitalisation included:
+• Loadsheet computation
+• Take-off and landing performance computation
+• The Flight Crew Operating Manual (FCOM) and the Master Minimum Equipment
+List (MMEL) in an electronic format
+Finally, after the development of eDOC concept (XML data) on A380 in the 2000s,
+Airbus generalised this concept on A320 and A330/A340 families with the ‘Less Paper
+Cockpit - New Generation’ (LPC-NG) and later with ‘FlySmart with Airbus’ on Windows
+and iPad. These Airbus EFB products brought the Flight Operations standard on A320
+and A330/A340 families closer to the A350 and A380. However, the management of
+the checklists and non-ECAM procedures remained in paper format inside the QRH.
+06#TSAF
+82
+eQRH
+New Flight Operations Standard on A320, A330/A340 families
+Airbus then launched a study in 2015 to digitalise the A320 and A330/A340 QRH, being the
+last paper document onboard these aircraft. The ambition was to get rid of the paper QRH
+and to provide flight crew with a smart way to electronically manage checklists and procedures,
+with two main objectives:
+• Enhance cockpit operations compared to the paper QRH
+• Alleviate the process for the operators to manage the QRH document
+The ECAM of the A320 and A330/A340 families could not be upgraded in the short or mid-term
+to replace the paper QRH as the ECAM is a certified system with a long development cycle
+inherent to avionics systems. In addition, the current A320 and A330/A340 ECAM technologies
+are not compatible with such an industrial step. The solution was therefore to replace the paper
+QRH operations in the cockpit by an EFB application.
+Airbus developed a demonstrator for iPad tablets to assess the feasibility of the concept.
+Thorough testing was conducted by flight test and training expert pilots, Human Factors experts
+and flight operations engineers. The European and American aviation authorities (EASA & FAA)
+were also involved in this assessment to ensure alignment from a regulation standpoint.
+These assessments, evaluations and discussions with the aviation authorities were conclusive
+and resulted in the launch of the definition of a new Flight Operations concept on A320 and A330/
+A340 families: a cockpit with no paper. This new concept is based on the following:
+• As on the A350 and A380, the FlySmart applications are used by the flight crew:
+- To compute the aircraft loadsheet and performance in all the flight phases
+(take-off, cruise, and landing)
+- To access the Flight Operations documentation (FCOM, FCTM, MEL, etc.)
+- To manage the mission (flight plan, navigation charts, flight folder)
+• The EFB includes a new application that enables the electronic management of the checklists
+and non-ECAM procedures: the electronic QRH (eQRH).
+The ambition was to define and validate the first concept of paperless cockpit (no paper) operations
+worldwide: the eQRH was on its way.
+Double-layer display mechanism In a normal operation (left), both the main
+layer and secondary layer are perfectly aligned, whereas spurious loss of data or spurious
+errors result in a misalignment of displayed data that is easily detectable by the flight crew.
+The error to the right illustrates the loss of one challenge/response line in the ‘main layer’.
+LDG GEAR UP LDG GEAR UP
+FLAPS RETRACTED FPALACPKSS RETRACTOEDN
+PACKS ON PACKS ON
+BARO REF SET (BOTH)
+BARO REF SET (BOTH)
+// END BARO REF // END SET (BOTH)
+Normal operation display
+06#TSAF
+92
+eQRH
+How the eQRH concept was developed
+Challenges and objectives of the eQRH concept:
+• Developing the eQRH concept presented a few serious challenges:
+- Regulation aspects: A specific assessment had to be performed to demonstrate
+to the EASA and the FAA that the eQRH met the requirements of the applicable
+regulation. The main objective was to demonstrate that the eQRH operations were
+at least equivalent to paper QRH operations in terms of ‘reliability, accessibility, and
+usability’ (EASA AMC 20-25 and FAA AC 120-76 C requirements).
+- Specific cockpit operations for the eQRH compared to other EFB applications:
+Most of the EFB operations rely on the use of the applications by both flight crew
+members and on the crosscheck to ensure a high reliability of the displayed information
+and results. The Standard Operating Procedures (SOP) of Airbus define two roles
+in the cockpit: the Pilot Flying (PF) who is in charge of flying the aircraft, and the Pilot
+Monitoring (PM) who is in charge of actively monitoring the flight parameters.
+The QRH operation is therefore based on a single pilot use: the Pilot Monitoring (PM)
+reads the procedures and checklists in the QRH while the Pilot Flying (PF) either
+checks the aircraft status or performs the requested actions.
+This specific method of operation means that the eQRH cannot rely on crosschecks
+to ensure the reliability of the displayed information. This operational constraint required
+a solution to ensure a high level of reliability of the displayed information.
+- QRH content: This was adapted to paper operations and part of it was therefore
+not fully compatible with electronic display and operations.
+• The eQRH had to respond to the following objectives:
+- Enhance cockpit operations thanks to electronic devices and ensure commonality
+of operations on all Airbus aircraft families
+- Ease the management of QRH updates without affecting savings.
+Therefore, the eQRH had to be compatible with the existing ground administration
+and update tools of the EFB
+- Avoid printing and shipping tons of paper every year
+Finding the solution
+To achieve these objectives, and to meet the challenges, the eQRH implements
+some new, innovative and smart features. For example, the eQRH includes
+the following:
+Reliability of the displayed information
+LDG GEAR UP LDG GEAR UP The eQRH display is based on a double-layer mechanism that enables the crew
+to detect spurious erroneous display of the data. In normal operations, both layers
+are displayed but only the main layer is visible to the crew. The secondary layer
+is perfectly hidden behind this main layer.
+FLAPS RETRACTED FPALACPKSS RETRACTOEDN
+Airbus demonstrated that spurious loss of data or spurious errors in the displayed
+data cannot coherently impact both layers. A shift between the two layers is easily
+PACKS ON PACKS ON
+detectable by the flight crew in this case and pilots are trained to use backup means
+(e.g. opposite pilot device or additional device in the cockpit) to continue the flight.
+BARO REF SET (BOTH) Airbus submitted a patent on this mechanism.
+BARO REF SET (BOTH)
+// END BARO REF // END SET (BOTH)
+Spurious erroneous display
+06#TSAF
+03
+eQRH
+The lighter, easier-to-use,
+automatically updated
+eQRH application
+gradually replaces
+the printed handbook
+Airbus aircraft commonality
+The eQRH benefits from the design of the A350 and A380 ECAM. Whenever
+applicable, the eQRH implements the same display, colour coding, and logics
+as the A350 and A380 ECAM. It remains also consistent with the A320 and
+A330/A340 ECAM. The eQRH is therefore fully in line with the Airbus cockpit
+philosophy.
+From paper to electronic
+New display features to ease operations
+Some smart display features are included in the eQRH application, such as:
+• The smart search function that displays only the procedures or checklists
+that contain the searched word in their title.
+• The shaded display of non-applicable exclusive conditions.
+The QRH content was also reviewed for the A320 and A330/A340 families to
+make it fully compatible with electronic display and operations. The objective
+was to keep only the ‘need to know’ information and to have an ECAM-like
+layout in the eQRH.
+For example:
+• The explanations that are not required for an immediate execution of the
+procedures were removed. This information is kept in the FCOM/FCTM for
+the crew to understand the procedural steps and intent, if necessary and
+when time permits.
+• The classification of the abnormal chapter of the QRH was reviewed to
+reference aircraft systems rather than ATA chapters. This provides more
+pilot-oriented information.
+• The performance section was set as applicable to paper QRH only. As the
+eQRH is meant to be associated with electronic performance computation,
+this section is therefore not displayed by the eQRH.
+• Hyperlinks were added in the procedures where reference to another
+procedure or operational data is provided.
+06#TSAF
+13
+eQRH
+Accessibility
+A rapid access mechanism is always The eQRH application and content went through extensive evaluations and
+displayed to the flight crew to enable validations, with Airbus flight test pilots, Training expert pilots and Human Factors
+quick access to some critical experts, in order to ensure a mature, operational and user-centric concept
+procedures like the Emergency of operations.
+Evacuation.
+In addition, Airbus involved end-users from four airlines in the development of
+This mechanism demonstrates to the the eQRH: Brussels Airlines, easyJet, South African Airways and Smart Lynx
+aviation authorities that the access to Airlines. These airlines provided Airbus with very useful feedback that was taken
+these specific procedures is even into account in the eQRH application.
+faster than in paper operations.
+Finally, the eQRH was evaluated by the European (EASA) and the American
+(FAA) aviation authorities. Early 2017, both authorities provided their status
+of satisfaction, respectively in the EASA Operational Evaluation Board (OEB)
+Report and in the FAA Operational Suitability Letters (OSL). Airbus also validated
+the eQRH application with the Civil Aviation Administration of China (CAAC).
+Having received validation by the aviation authorities, eQRH has been available
+since March 2017 and has already been delivered to over 90 customers so far.
+Link to the EASA
+OEB report
+*GLOSSARY
+ECAM - Electronic Centralised Aircraft Monitoring MEL - Minimum Equipment List
+EFB - Electronic Flight Bag OEB - Operational Evaluation Board
+eQRH - electronic Quick Reference Handbook OSL - Operational Suitability Letter
+FCOM - Flight Crew Operating Manual PF - Pilot Flying
+FCTM - Flight Crew Techniques Manual PM - Pilot Monitoring
+FODM - Flight Ops Documentation Manager QRH - Quick Reference Handbook
+LPC - Less Paper Cockpit SOP - Standard Operating Procedures
+LPC-NG - Less Paper Cockpit – New Generation
+CONCLUSION
+The eQRH provides a new Flight Operations standard, moving to full electronic Flight Operations.
+The eQRH is available today on the A320 and A330/A340 families. It is gradually being deployed
+on all Airbus commercial and military aircraft, including the next Airbus helicopter: The H160.
+As a long term objective, it will be upgraded to enable the management of other aircraft
+manufacturers’ QRHs.
+06#TSAF
+23
+Fleet-wide systems
+maintenance
+Priorities and status at a glance
+Article by
+Pascal CHABRIEL Nicolas ANDRE
+Field Service Manager Subject Matter Expert
+AIRBUS AIRBUS
+pascal.chabriel@airbus.com nicolas.n.andre@airbus.com
+Operators need to manage and follow up on numerous fault
+messages and maintenance tasks with different priorities
+across their fleet. Managing the sheer volume of tasks,
+deciding how to prioritise them and following up on each
+one’s status requires time and organisation.
+Close on-site collaboration between an operator and its local
+Airbus field service team resulted in an automated process
+contributing to a significant improvement of the Operational
+Reliability.
+The challenge for Maintenance Control Centres (MCC)
+and fleet management
+If too many repeat issues are left unattended for too long, there is an increasing
+risk of combined failures and operational disruptions. Tracking down every fault
+message assists in keeping an optimal OR. This is the permanent challenge for
+an airline’s Maintenance Control Centre (MCC) which needs to monitor its fleet
+and ensure all these faults are properly managed in a timely manner.
+Nowadays, MCC teams have to cope with stringent aircraft schedules, short
+transit times and aircraft operating away from the main base. At the same time,
+the fleet may generate system fault messages which have different priorities,
+inducing maintenance work in various statuses. In addition, with teams working
+on shifts, engineers may not always have a complete overview of fleet health.
+The accumulation of all these conditions makes it difficult for an MCC to achieve
+its task.
+Operational Reliability (OR)
+OR is the percentage of revenue flights which depart and arrive without incurring
+a delay. This is an indication of an aircraft’s profitability and a driver of passenger
+satisfaction. Achieving the highest Operational Reliability is therefore a priority,
+both for airlines and for Airbus. It is computed as follows:
+DY = Delay CN = Cancellation IFTB = In flight Turn Back DV = Diversion TO rev = Revenue Take-Off
+Enhancing Operational Reliability:
+The Qantas/Airbus cooperation
+Together, Qantas and Airbus developed a plan to enhance the Operational
+Reliability of the Qantas A380 fleet. One action was to integrate an Airbus Field
+Service Representative (FSR) - see insert - into the Qantas MCC to optimise
+fault management processes.
+Following an auditing period during which the FSR worked alongside the MCC
+engineers, the outcome showed that the MCC was struggling with tracking fleet
+fault messages and managing the associated maintenance work. An automated
+process seemed an ideal solution to optimise the task.
+06#TSAF
+33
+Fleet-wide systems maintenance
+DY + CN + IFTB + DV
+OR% = ( 1 - ) x 100
+TO rev
+Airbus Field Service
+The frontline contact for customers
+Mission:
+• Maintain high customer satisfaction
+• Represent Airbus Customer Services to all levels of the airline
+• Identify the airline’s technical priorities and other operational needs
+• Facilitate at Entry-Into-Service
+• Provide 24-hour technical assistance and AOG support
+• Maintain highest level of customer relationship
+• Ensure feedback to Airbus
+06#TSAF
+43
+Fleet-wide systems maintenance
+The Fault & Work Management (FWM) concept
+The MCC workflow was first translated into a process whereby the ‘life’ of a fault and
+its associated work were broken down into a series of statuses. This process provided
+a second level of prioritisation in addition to the classification of the fault messages.
+Workflow management process
+Fault Work Work Work Fault
+occurs launched assigned done fixed
+Review Open Assigned Monitor Closed
+The fault needs A work The work is The fault The fault
+Work
+to be reviewed is launched planned disappeared disappeared
+Status
+A work has MiS reference A target date Monitor during Monitor during Experience
+to be launched is entered is defined 15 flights 15 flights capitalised
+Fault
+Message
+Fault NOT RECEIVED in Post Flight Report If the fault remains after the work is done
+resume the process until the fault is fixed...
+Fault RECEIVED in Post Flight Report
+R O A M R O A M C
+This process was transformed into an algorithm to develop a software solution
+for implementation within the MCC. The programming language Visual Basic
+and the platform Excel were chosen to develop a prototype, as they were readily
+available on every workstation.
+How the Fault & Work Management was applied
+There were three basic requirements to meet the objectives of FWM:
+- The application had to be fed with fault messages sent by the aircraft via
+the Aircraft Communications Addressing and Reporting System (ACARS).
+This was achieved by connecting FWM to the AIRMAN-web database.
+- Qantas maintenance information needed gathering. For this, an automatic routine
+was created in the Qantas Maintenance Information System, which sent regular
+updates maintenance actions and pilot reports to FWM.
+- Last but not least, FWM had to work on a network so that all stakeholders
+(MCC team members, fleet management, technical services…) could access
+the data according to their profile. This was achieved by giving users access
+to a shared FWM database installed on the Qantas network.
+The FWM project involved teams from Airbus and Qantas, with support from their
+respective programme and fleet management. The MCC and FSR teams collaborated
+on the concept, design and development of the FWM application. The Qantas IT
+department assisted with the network implementation and the interface with
+the Maintenance Information System.
+06#TSAF
+53
+Fleet-wide systems maintenance
+To ensure successful integration into the Qantas MCC A380 process, the Human-
+Machine Interface (HMI) was designed to fulfil end-user requirements. As it was
+developed in close cooperation with Qantas MCC teams, it was exactly adapted
+to their needs:
+• Intuitive Fault & Work Management
+• All information available in a single display
+• One-click access to all functionalities
+Intuitive
+Fleet sweep Workflow Fault & Work
+Customisation process management management
+Fault dashboard
+prioratisation
+Toolbox Fleet Sweep Work Fault & Effect Messages Occurence Aircraft ATA Quick Views
+Cockpit Pending Minor
+1 2 3 Review Open ECAM Warning Class 4 Class 3 FleetA B C D E F All2122232425262728 Fuel SATCOM PWS
+? (Cabin) One Off
+Assign Monitor C (C la o s c s k p 1 it effect) Timer > 600 FH G H I J K L M N 293031323334353638 SCS APU Bleed leak
+Synchro A M Class 5 Class 6
+Closed Ignore Class 0 Priority > Low (Minor) Live O P Q R S T U V 44454649527i8i9i PCU Hyd filter NSS
+(Unknown effect)
+Last Work History Aircraft Code Class Message Source Event
+Date Status S Reference Date Information
+VCS 1 HIGH
+(FWD)1 SATCOM 1 BS NO ACTION 25-Dec-16 IGNORE
+SATCOM 1 BS NO ACTION 25-Dec-16 IGNORE
+SPDB 1
+SDF0 609FH BrSa T00AAOAN 29-Apr-16
+DSMS0 LOW BrSa T00AAOAN 29-Apr-16 REFER PREVIOUS T00A9D7Z 22APR16
+Work information
+(knowledge database
+building) All follow-up
+One click access to engineering, One click access Workflow Automatic
+information
+maintenance and tech log information to flight report process stamp signature
+provided in
+one single
+display
+The advantages of using Fault & Work Management
+Once implemented, the FWM application was quickly adopted by the MCC teams
+as it provided more efficiency and capacity inside their teamwork environment.
+The FWM concept allows constant monitoring of work over time and across MCC shifts.
+This concept also optimises work planning and prevents duplication. The filtering
+dashboard enables MCC engineers to ‘sweep’ the fleet fault messages faster
+and tackle them proactively according to priority. It was not long before the number
+of open fault messages over the fleet was reduced and consequently kept down
+to a manageable level.
+The FWM concept fulfils the airline fleet management business objectives by
+enhancing the management of maintenance actions and by reducing unnecessary
+component removals and maintenance burdens. Above all, it enables increased
+focus on fleet health and ultimately reduces the risk of operational disruption events,
+hence assisting in maintaining an optimum Operational Reliability.
+.ttA retteg Timer ? &
+( 15 Sectors )
+Priority
+VH-OQC 2121F3K1 5 FAN-RECIRC HP 4LD RH(300HG4) 88. 111888. 888888 29-Apr-16 R
+VH-OQC 2328F3M4 6 HDM-SATCOM 1(79RV1) 88. 288888. 888888 30-Apr-16 I
+VH-OQE 2328F3M4 6 HDM-SATCOM 1(79RV1) 2526. . 2526262622 30-Apr-16 I
+VH-OQE 2474F2MF 0 DIR-CIDS 3(100RH3) 8787. 7878787878. 28-Apr-16 R
+VH-OQE 2610F0EG 4 DIR-CIDS 3(100RH3) 1111. 1111111111. 28-Apr-16 M
+VH-OQE 5271F2N4 5 DIR-CIDS 3(100RH3) / AFDX NETWORK 8888. 8888888118. 28-Apr-16 M
+VH-OQE 2851F2NV 5 P/BSW-FUEL /CROSSFEED 4(2804YM) EOMS 1 HIGH 2222. 22 22222222 30-Apr-16 R
+06#TSAF
+63
+Fleet-wide systems maintenance
+Moving forward with fleet management
+On top of the fleet-sweeping feature, which enables better tracking and efficient
+management of issues, the FWM concept raises another question: How can
+capitalising on experience be made easier for airlines?
+Simplicity and efficiency - the keys to success
+Capitalising on experience is a key aspect to improving operations, but remains Skywise is Airbus’ open aviation
+complex to put in place and hard to maintain up-to-date. The main reason is the digital platform, aiming at centralising
+human factor. Indeed, the task of logging experience can be seen as a short-term and analysing data coming from
+waste of time if there is no direct added value or if it requires extra effort. the whole aviation ecosystem.
+Skywise provides a robust and
+Knowledge is spread throughout the whole maintenance organisation, from
+secured infrastructure coupled with
+mechanics and engineers to the MCC; however, information may not be stored
+best-in-class analytical environ ments
+or it may be long to retrieve. This results in investigations and decisions relying
+and tools to explore and visualise
+exclusively on the experience of the maintenance team on duty, as opposed to
+data. Some of the world’s most
+relying on the accumulated knowledge from the whole maintenance organisation.
+innovative airlines are already
+Experience may be available from different sources such as spreadsheets, locally benefiting from the platform to
+developed applications, Maintenance Information Systems (MIS) or software such as support their cross-do main digital
+AIRMAN-web. Unfortunately, there is no link between all these sources of information operations (Maintenance, Flight
+and no way to easily correlate both faults and work experience or to easily log Operations, Fleet manage ment,
+experience. Material management, Cabin,
+Passenger management, etc.).
+In the case of the FWM concept, a direct benefit for end-users of the ‘log experience’
+function is that it facilitates their work with a direct and rapid positive impact.
+The first steps
+The FWM concept success story with Qantas and the interest raised by the airline
+community have placed these principles at the core of future developments.
+Now that the concept has been proven with a customer, Airbus is preparing it for
+the market and is considering further opportunities to propose new ways to improve
+fleet performance.
+Airbus believes that, in order to bring more efficiency, such a capability must be
+integrated into daily software where experience can be shared and accessed by
+the whole maintenance organisation. In addition, such a concept could easily be
+extended to cover the MCC activities with real-time data to ease decision-making.
+FLEET SWEEP ?
+WORK STATUS ? EVENT RANK ? OCCURENCE ?
+1 2 3 A M
+R OA M C I W L 10 4 5 2 3 G P ONE OFF LIVE
+FLEET SWEEP ?
+WORK STATUS ? EVENT RANK ? OCCURENCE ?
+1 2 3 A M
+R OA M C I W L 1 0 4 5 2 3 G P ONE OFF LIVE
+The ‘Work Status’, the ‘Event Rank’
+and the ‘Occurrence’ contribute to the prioritisation.
+06#TSAF
+73
+Fleet-wide systems maintenance
+11:22 AM John DOE
+FLEET SWEEP ?
+WORK STATUS ? EVENT RANK ? OCCURENCE ?
+1 2 3 A M
+R O A M C I W L 1 0 4 5 2 3 G P ONE OFF LIVE
+QUICK FILTERS ? ATA A/C A/C Type
+FUEL SCS IPCU SATCOM APU HDYFDS PWS BL NSS ALLx ALLx ALLx
+44EVENTS & WORKS Search
+A/C CL Title History Date Status Reference Date Information
+3451 - XLB 23-Feb
+FW-XXC L RH SIDE COCKPIT LOUDSPEAKER INDP 6 22:58 R
+FW-XXC I 2 P 0 R 5 O 1 B F E 7 - 3 O 6 U T - E F R Q T M A S N K 2 RIGHT(42QT2) 4 1 8 8 2 2 3 2 - :5 F 8 eb R T0045WY 12-Feb F R a e u p l l t a i c s e s p ti r l o l b p e re . sent after wiring check.
+2051F73E - FQMS 2 23-Feb
+FW-XXC I PROBE-VENT TANK RIGHT(44QT2) 4 1 8 8 22:58 A T000XY3M 25-Feb Check wiring to probe.
+3471F00G - AESS0 23-Feb
+FW-XXC I RTU-1(75E1) / AESU-1(15E1) 4 1 8 88 22:58 O TO0073XY Check wiring RTU/AESU.
+FW-XXC I 3 A 4 E 7 5 1 U F -1 0 ( 1 1 M 5E - 1 A ) E550 42 1 2 2 2 2 2 3 2 - :5 F 8 eb O TO0073XY Check wiring RTU/AESU.
+FW-XXC W 3 A 4 E 7 5 1 U F -2 0 ( 1 1 N 5 E - 2 A ) E550 42 1 2 2 2 2 2 3 2 - :5 F 8 eb O TO0073XY Check wiring RTU/AESU.
+FW-XXC P E EN ve G n 2 t - P R P V R M SLOW TO CLOSE 4 1 1 2 2 3 2 - :5 F 8 eb A WO123456 25-Feb Replace PRV
+Future possibilities
+Airbus is now fine-tuning the concept with real-time data on A320 and A330 Family
+aircraft, with the participation of a low-cost airline in October 2017.
+The FWM concept is now taken as a basic principle of the next AIRMAN starting
+definition that will also benefit from the Skywise platform (see insert).
+The combination of both the Skywise digital platform capabilities, and the experience
+that could be captured on over 7,300 aircraft, could leverage and accelerate
+decision-making for MCCs by providing ‘Advice for Dispatch’ and ‘Possible Causes’
+prioritisation to improve fleet performance management.
+From the initial integration in the MCC and back office support, the concept will be
+extended thanks to Skywise to other areas such as structural issues, predictive
+events, logbook entries and servicing.
+CONCLUSION
+To help an operator manage fault messages and corresponding maintenance tasks
+across its fleet, Airbus developed a fault and work management function, thanks to
+a collaborative effort between the operator and the local Airbus field service team.
+The result was an automated prioritisation process which has facilitated fleet tracking
+for the operator and has contributed to significant Operational Reliability improvement.
+This function also presents advantages for other voluminous MCC data management
+areas such as structural issues, predictive events, logbook entries and servicing. It is now
+destined to be integrated in Airbus’ AIRMAN and Skywise digital platforms, bringing even
+greater capabilities for fleet management in the future.
+egatireH
+etaroproC
+subriA
+fo
+ysetruoc
+otohP
+FAST
+from the past
+There wouldn’t be any future
+without the experience of the past.
+A paperless cockpit?
+Almost 100 years ago, this Junkers F13 cockpit may have been ‘no paper’ - it was also ‘no electronics’!
+The primary navigational instruments were simply an airspeed indicator, an altimeter, a clock, and a compass.
+06#TSAF
+83
+06#TSAF
+34
+Around the clock, around the world
+Airbus has more than 300 field representatives, based in over 130 cities
+Technical, Material & Logistics
+USA/CANADA Airbus Technical AOG Centre (AIRTAC) Spares In-Flight orders outside the Americas:
+Tel: +1 703 834 3484 Tel: +33 (0)5 6193 3400 Tel: +49 (0)40 5076 4002
+Fax: +1 703 834 3464 Fax:+33 (0)5 6193 3500 Fax: +49 (0)40 5076 4012
+airtac@airbus.com ifd.spares@airbus.com
+CHINA
+Tel: +86 10 8048 6161 Ext. 5020 Spares AOG/Work Stoppage Spares related HMV issues outside the Americas:
+Fax: +86 10 8048 6162 • Outside the Americas: Tel: +49 (0)40 5076 4003
+Tel: +49 (0)40 5076 4001 Fax: +49 (0)40 5076 4013
+FIELD SERVICE SUPPORT Fax: +49 (0)40 5076 4011 hmv.spares@airbus.com
+ADMINISTRATION aog.spares@airbus.com
+Tel: +33 (0)5 6193 3936 Spares RTN/USR orders in the Americas:
+• In the Americas:
+Fax: +33 (0)5 6193 4964 Please contact your dedicated customer spares
+Tel: +1 70 3729 9000
+account representative
+Fax: +1 70 3729 4373
+csr.na@airbus.com
+aog.na@airbus.com
+Training centres
+Airbus Training Centre Airbus Training Centre Americas Training by Airbus Jakarta
+Toulouse, France Miami, Florida - U.S.A. antoine.renaud@airbus.com
+Tel: +33 (0)5 62 11 82 24 Tel: +1 (305) 871-3655 (switchboard)
+or +33 (0)5 61 93 39 75 Fax: +1 305 871 4649 Airbus Asia Training Centre Singapore
+Fax: +33 (0)5 6193 2094 miamicustomertrainingsales@airbus.com Tel: +65 6877 4300 (reception)
+training.commercial@airbus.com contact.info.aatc@airbus.com
+customercare.atc-europe@airbus.com Airbus Training Centre Beijing
+Tel: +86 10 80 48 63 40 - 3017/3016 Airbus Mexico Training Centre
+Airbus Maintenance + 86 10 80 48 65 Tel: +52 55 57 86 80 50
+Training Centre (communication and marketing)
+Hamburg, Germany Airbus Training Centre Bangalore training.commercial@airbus.com
+Tel: +49 (0)40 7438 8288 Tel: 91-080-6638230 (reception)
+Fax: +49 (0)40 7438 8598 Training by Airbus Korea,
+training.commercial@airbus.com Airbus Training Centre Delhi Seoul, South Korea
+atc.hamburg@airbus.com Tel: +91 9880065511 Tel: +82 (0)32 882 5425
+andrew.rapson@airbuskorea.com
+Training by Airbus Dubai,
+UAE - Airbus Middle East FZE Dubai
+Tel: +971 4 602 78 62
+mary-knoll.garcia@airbus.com
+06#TSAF
+93
+THE GROUND.
+FLY
+WE MAKE IT
+No matter how busy the flight, your
+passengers will feel like they’re in a
+world of their own thanks to our
+beautifully designed Airspace cabins.
+HD in-flight entertainment throughout,
+quieter, and with soothing LED ambient
+lighting, Airspace delivers first class
+comfort for every passenger. And not
+only is it available across our newest
+widebody fleet, it’s also being rolled
+out across our single aisle A320
+family too.
+Tranquility. We make it fly.
+14031_AIR_Airspace_Ad_297x210_MASTER_1.5.indd 1 19/09/2017 16:07
+STUDIO:Publicis London:2017:Airbus – B3051-003163-00:14031_Air_Services_Press_Master:SINGLE_PAGE_PRESS:14031_AIR_Airspace_Ad_297x210_MASTER_1.5
+19 SEPTEMBER 2017 12:38 PM | SIZE: 297X210MM | BLEED: 3MM | PUBLICATION: PRESS MTER | CODE:
+CUTTER LASER PMS APPROVAL
+14031_AIR_Airspace_Ad_297x210_MASTER_1.5

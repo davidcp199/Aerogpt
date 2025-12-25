@@ -1,0 +1,1654 @@
+Airbus technical magazine
+June 2013
+Special edition
+FAST
+Flight Airworthiness Support Technology
+TSAF
+20
+TSAF
+30
+Dear reader,
+Airbus technical magazine
+Nowadays everybody talks about innovation and
+at Airbus we really live and breathe it on a daily basis.
+However we believe that innovation is only worthwhile
+if it brings real value to our customers.
+FAST
+Going through the articles of this FAST special edition,
+you will see that the A350 XWB is ample evidence of this.
+FAST magazine is innovating too by introducing a free
+tablet application alongside the traditional paper version.
+The added value to you, the reader, is many fold:
+Articles are enriched with videos giving complementary Flight Airworthiness Support Technology
+information, diagrams are animated making them easier
+to understand, 3D images give a new dimension
+to technical drawings, hyperlinks ease navigation Special edition
+and so much more...
+Enjoy your reading and all the benefits
+of this innovative new media!
+Bruno PIQUET
+FAST magazine publisher
+Publisher: Bruno PIQUET
+Editor: Lucas BLUMENFELD
+Page layout: Daren BIRCHALL
+Looking good 04
+Communications A350 XWB: Eric EZELL
+An overview of the A350 XWB
+Cover: A350 XWB, rolling out the tail
+Dear Airbus friends, Photo by: L. LEPISSIER Zero test means 08
+Printer: Amadio
+We are very pleased to present you this FAST special A350 XWB edition. Working towards MSN001
+Authorisation for reprinting FAST magazine
+This magazine will give you a comprehensive overview of the A350 XWB (eXtra Wide articles should be requested from the editor Cockpit 12
+Body), the most efficient long range aircraft ever built.
+Tel: +33 (0)5 61 93 43 88 Clean lines and improved interactivity
+Intelligent by design, the A350 XWB is combining advanced aerodynamics,
+Fax: +33 (0)5 61 93 47 73
+innovative airframe technologies and optimized systems, while keeping a high
+e-mail: fast.magazine@airbus.com
+Cabin & cargo design 18
+degree of commonality with the Airbus family for the best operational performance.
+Extrawide benefits for passengers and crew
+FAST magazine is available on internet
+Having involved customers from an early stage of development, Airbus is offering
+www.airbus.com/support/publications
+an aircraft that will meet all their expectations and demonstrate unprecedented
+under ‘Quick references’ Structure 28
+maturity from day one. Its ‘eXtra Wide Body’ will provide a most comfortable cabin
+that will delight both passengers and crew. ISSN 1293-5476 The intelligent airframe design
+© AIRBUS S.A.S. 2013. AN EADS COMPANY
+But before we deliver this fantastic product to our customers, we have an extensive
+All rights reserved. Proprietary document Systems 32
+testing and certification period ahead of us. After the magic and the emotion of the
+first flight, we enter a phase where the A350 XWB faces the reality of flight. By taking delivery of this Magazine (hereafter ‘Magazine’), you accept on behalf The right alchemy
+of your company to comply with the following. No other property rights are granted
+by the delivery of this Magazine than the right to read it, for the sole purpose of
+All along the development phase, broad testing has been performed with our suppliers, information. This Magazine, its content, illustrations and photos shall not be modified Airline operations 36
+nor reproduced without prior written consent of Airbus S.A.S. This Magazine and the
+in our integration rigs and on flight simulators. It is now time to make sure that reality
+materials it contains shall not, in whole or in part, be sold, rented, or licensed to any
+Operability and maturity
+confirms calculations and that this outstanding aircraft delivers the expected third party subject to payment or not. This Magazine may contain market-sensitive
+or other information that is correct at the time of going to press. This information
+performance in terms of safety, efficiency, reliability, maturity and operability.
+involves a number of factors which could change over time, affecting the true public
+Customer involvement 44
+representation. Airbus assumes no obligation to update any information contained in
+We have written this success story all together, thanks to the confidence and the this document or with respect to the information described herein. The statements
+Didier EVRARD Fernando ALONSO made herein do not constitute an offer or form part of any contract. They are based on Airline Office and Customer Operations Seminars
+involvement of our customers, to the great team spirit, the dedication and the
+Head of A350 XWB Head of Flight Airbus information and are expressed in good faith but no warranty or representation
+passion of thousands of people at Airbus and at its partners all around the world. is given as to their accuracy. When additional information is required, Airbus S.A.S
+Programme & Integration Tests can be contacted to provide further details. Airbus S.A.S shall assume no liability for FAST from the past 46
+AIRBUS AIRBUS any damage in connection with the use of this Magazine and the materials it contains,
+We sincerely thank all the people who have trusted us and who have contributed,
+even if Airbus S.A.S has been advised of the likelihood of such damages. This licence Drawing from our experience
+directly or indirectly, to the development of this 21st century high-tech aircraft, is governed by French law and exclusive jurisdiction is given to the courts and tribunals
+of Toulouse (France) without prejudice to the right of Airbus to bring proceedings for
+for the benefit of airlines and passengers worldwide.
+infringement of copyright or any other intellectual property right in any other court of Worldwide field representation 47
+competent jurisdiction. Airbus, its logo, A300, A310, A318, A319, A320, A321, A330,
+Together, let’s go for the A350 XWB amazing eXperience! A340, A350 XWB, A380 and A400M are registered trademarks. Around the clock... around the world
+Photo copyright Airbus
+Photo credits: Airbus Photographic Library, Airbus Flight
+Test Photo Lab, EADS Corporate Heritage, ExM Company
+A350 XWB
+TSAF
+40
+TSAF
+50
+Looking good A350 XWB
+Airbus’ desire to perfectly align the A350 XWB with client needs
+is embodied in the expression used throughout the programme,
+‘Shaping efficiency’
+Its principal objectives are to create:
+• A complete market-matching family
+One aircraft in three sizes, for the 250 to 400 seats market
+allowing true long-range capability
+• 25% lower operating costs
+- Efficient design driving costs down by 25%
+- Reduction in fuel burn and CO2
+• A comfortable and efficient cabin
+- High comfort 9-abreast baseline economy class with 18” seat width
+- Crew-rest areas outside of revenue space
+- More revenue potential
+A new long range market-matching
+family of technically superior aircraft
+Looking good
+available in three class configurations
+An overview of the A350 XWB There’s a classic design expression Seats: 270
+that says ‘Form follows function’. Range: 8,500 NM (15,750 km)
+For this to be true, the function needs Wing span: 64.75 m (212 ft 5 in)
+As the A350 XWB programme to be correctly identified and what better Overall length: 60,54 m (198 ft 7 in)
+way to define what clients expect from Overall height: 17.05 m (55 ft 11 in)
+reaches the important and magical a brand new Airbus aircraft family Maximum Take-Off Weight: 259,000 kg
+phase of real flight, FAST presents than by asking them.
+the technological innovations
+Airbus used its latest aircraft, the A380,
+that will let this new Airbus as a starting reference, then asked client
+companies to join Airbus in order to Seats: 314
+family take to the skies.
+develop an aircraft that fits seamlessly Range: 8,100 NM (15,000 km)
+The least we can say is that into their existing fleets. Wing span: 64.75 m (212 ft 5 in)
+Listening attentively to what, for them, Overall length: 66.89 m (219 ft 5 in)
+it’s looking very good.
+constitutes the perfect aircraft has Overall height: 17.05 m (55 ft 11 in)
+allowed us to evaluate what pleased Maximum Take-Off Weight: 268,000 kg
+them most about the current Airbus
+offer and where their priorities lie
+for aircraft of this type.
+By building on success, the A350 XWB Seats: 350
+will not only retain commonality with Range: 8,400 NM (15,600 km)
+other Airbus aircraft but respond Wing span: 64.75 m (212 ft 5 in)
+perfectly to the needs of our customers. Overall length: 73.88 m (242 ft 5 in)
+Overall height: 17.08 m (56 ft)
+Maximum Take-Off Weight: 308,000 kg
+Every aspect of the A350 XWB’s
+design has been reviewed
+and improved to meet this
+impressive target.
+Even noise levels have been
+greatly reduced making it
+the most environmentally-
+friendly aircraft in its category.
+TSAF
+60
+TSAF
+70
+A350 XWB Looking good Looking good A350 XWB
+The A350 XWB is designed for eco-efficient operations
+Carbon-Fibre-Reinforced Polymer (CFRP)
+- no corrosion & fatigue tasks
+Departure Cruise Arrival
+• Wings
+• Centre wing box and keel beam
+Improving air quality Low fuel burn Latest technology
+• Tail cone
+NOx emissions up to 35% Only 69g CO2 /pax/km Continuous Descent Approach
+• Skin panels
+below the CAEP6 (CDA)
+Unlimited ETOPS • Frames, stringers and doublers
+(environment protection Required Time of Arrival
+(Extended-range Twin-engine • Doors (passenger & cargo)
+standard) (RTA)
+Operational Performance Standards)
+Latest technology Quieter aircraft Titanium - no corrosion tasks
+Latest technology
+Noise Abatement Departure Up to 14dB below ICAO
+Required Navigation Performance
+Procedure (NADP) Chapter 4 regulations • High load frames
+(RNP 0.1) to help optimize routes
+• Door surroundings 8% miscellaneous
+and approaches Efficient airport operations • Landing gear 19% Aluminium
+Brake To Vacate
+• Pylons
+(BTV)
+53%
+Light airframe using 6% Steel
+CFRP
+Composite
+53% composites
+14% Titanium
+25% less Eco-efficiency by design
+Cabin sized An optimized cross section
+• Having the lowest fuel burn engines also means
+- An extra large 220 inch (5.59 m) cross-section (armrest-to-armrest)
+operating costs lowest CO emissions per person per km
+2 for comfort - Wide windows
+• Quieter aircraft - Flat floor for greater comfort
+by design
+and growth
+Less pilot workload and training by design
+Adapted crew rest areas
+• Ergonomic flight deck (see page 12) - Cabin crew rest compartment with up to 8 cabin crew bunks
+• Commonality and innovation for lower pilot workload The A350 XWB Family takes - Crew rest space without using revenue space
+and reduced costs comfort and capacity - Secluded access and dedicated changing areas
+to a different level, for both
+Optimized wing efficiency by design passengers and crew. Flight crew rest compartment
+- Two flight crew bunks and a workstation
+• Mach 0.85 cruise speed, reduced flight time
+with secure access from the flight deck
+validated on the A380 programme and flight tests
+• Finest aerodynamics: reduced fuel burn, more range
+• Advanced high lift devices
+Optimized Turn Around Time
+• Commonality also means that no special Ground Support
+Equipment (GSE) is needed
+Less maintenance by design
+• Intelligent airframe using 53% composite materials
+• New 4-panel concept fuselage
+• Simple, robust more efficient systems
+building on A380 new generation systems
+New generation, fuel efficient long range engines
+• Lowest specific fuel consumption engines
+Zero
+test
+means
+TSAF
+80
+TSAF
+90
+Expanding suppliers’ parameters Initial testing
+Functional Integration Benches (FIB)
+With the advent of the Airbus New Supplier Policy (NSP), applied fully for the first
+time on the A350 XWB programme, Airbus has moved towards a greater reliance
+The first tools used by the Airbus Flight and Integration Test Centre to start integra-
+on its suppliers to test the systems that make up a modern aircraft. NSP has seen
+tion testing are a fleet of Functional Integration Benches (FIB). These benches
+a move towards giving suppliers responsibility for bigger work packages and
+cover almost the complete scope of the systems present on the aircraft with a
+importantly, for the integration of the various components and software within
+mixture of real hardware (systems under test) and models for systems not present.
+their responsibility together.
+The benches vary in complexity, but are all similar in architecture and are designed
+to test a ‘function’ on the aircraft. Examples include the ‘Fuel FIB’ where the
+Airbus’ role begins when systems, components and software from different
+complete functionality of the fuel gauging and management system will be tested.
+suppliers need to be integrated and made to work seamlessly together. This is
+Another example is the ‘Control and Guidance Integration FIB’ where the complete
+what is called ‘integration testing’ and is key to Airbus’ ability to develop mature
+flight control and auto-pilot system will be tested.
+aircraft, as expected by our customers – the airlines.
+These FIBs are equipped with real hardware which is updated regularly during the
+Before any testing has been done at Airbus, there have already been thousands
+development:
+of hours of testing performed by the suppliers. This testing starts with development
+• S0 standards for the FIB entry-into-service
+testing of prototype equipment for new technologies being introduced on the A350
+• S1 standards for Final Assembly Line testing,
+XWB. The testing then continues with component testing to demonstrate the
+• S2 standards for the first flight
+Before MSN001 even flies, performance and reliability of each component (qualification testing).
+• S3 standards for the aircraft’s entry-into-service.
+thousands of hours of testing Where a supplier is responsible for a complete system (or part of one) they
+will already have been performed continue with pre-integration testing of their system, including verifying interfaces
+The FIBs are also equipped with models provided by the suppliers of other systems
+and all potential scenarios for the with other systems through models provided by Airbus. During this phase of
+not present on each FIB to test the interfaces with these systems. On modern
+first flight will have been explored. testing, the supplier is in charge of performing the testing, but Airbus’ engineers
+aircraft like the A350 XWB, no system operates without connections and interfaces
+By the time the aircraft flies, are involved both to ensure the right testing is performed, but also to provide ad-
+with many other systems on the aircraft. Hence the Airbus integration strategy
+both the flight crew and the vice and support based on Airbus’ know-how built up over 40 years of experience.
+relies heavily on the quality and representativity of these models.
+engineers will already know the
+aircraft and its systems well. Once the pre-integration testing has reached a sufficient level of maturity, the first
+components and systems in their first standard (S0) are delivered to Airbus and the
+Of course, flight testing will always real work of integration testing begins. ‘Zero’ means
+bring some surprises but many of
+the issues will already have been Testing the aircraft on the ground
+seen and corrected even before the
+aircraft takes to the air. VERIFICATION & VALIDATION
+A key part of the Airbus integration strategy is also a series of ‘zero’ means.
+PROCEDURE These test rigs are a complete representation of the systems on the aircraft.
+These means are as close as we can possibly get to MSN001 – hence the name
+‘zero’ (MSN000) means.
+Final Functional High lift ‘zero’
+Concepts technical
+Computer verification
+& ergonomics integration on The high lift system is one of the most mechanically complex systems on the aircraft.
+mock-ups during flight assessments tests development The system comprises a complex series of mechanical drive-shafts, actuators
+aircraft
+and linkages that deploy the slat and flap systems for take-off and landing.
+Due to the potential to generate roll asymmetry that could not be controlled if
+deflections were different between left and right hand wings, the systems also Integration
+Research simulators comprises a complex detection system to lock the slats and flaps in place if a
+simulators (Zero test failure is detected. The A350 XWB high lift system also includes new technology
+means) with the Advanced Drop Hinge Flap (ADHF) system.
+The Airbus high lift ‘zero’ rig, located in Bremen (Germany), consists of a complete Piloted
+validation Functional left hand ‘wing’ with all the systems that will be found installed on MSN001.
+Development
+at aircraft Integration The aircraft structure is not present and is replaced by a steel structure to allow simulator
+level Benches the system to be installed and operated. The right hand wing is simulated by a
+high technology electro-hydraulic brake system. This test rig is used to perform
+many safety tests prior to the first flight to ensure safety. A number of tests are High lift system
+performed on this rig that would be too dangerous to perform in flight – deliberate
+failures of shafts or drive links, for example.
+The A350 XWB high lift ‘zero’ has been operational since late 2011 and was
+Validation/Integration System
+upgraded to full MSN001 configuration with real flaps installed in September 2012.
+at system level Integration
+Benches
+DEVELOPMENT INTEGRATION
+Equipment verification
+SUBRIA
+SREILPPUS
+Zero test means A350 XWB
+DESIGN TESTING
+Testing perimeter
+Validation of Validation/
+Human-Machine Integration
+Interface concepts at aircraft Article by
+& flight laws level
+Mark COUSIN
+Vice-President
+Head of Systems Validation/
+Integration Integration
+AIRBUS at function
+level
+TSAF
+01
+TSAF
+11
+A350 XWB Zero test means Zero test means A350 XWB
+Iron bird
+The iron bird, located in Toulouse
+(France) comprises of a complete
+hydraulic, electrical and flight control sys-
+tem installed exactly as on MSN001.
+Double side-stay landing gear
+As with the high lift and landing gear
+Landing gear ‘zero’ ‘zero’ test rigs, the aircraft structure
+is replaced by a large steel (iron) frame,
+The landing gear system is also a very complex hydro mechanical system which
+hence the name ‘iron bird’.
+is critical to aircraft safety. The A350 XWB landing gear also incorporates new
+The iron bird comprises the complete
+technologies like the double side-stay landing gear.
+systems right from power generation
+The Airbus landing gear ‘zero’ rig, located in Filton (UK), consists of a complete
+(aircraft hydraulic pumps and electrical
+landing gear system identical to those that will be found installed on MSN001.
+generators driven by industrial motors)
+The aircraft structure is not present and is replaced by a steel structure to allow
+through to power consumers (flight
+the system and landing gears to be installed and operated. This test rig is used
+control actuators, landing gear
+to perform many safety tests prior to the first flight to ensure safety – for example
+actuators, etc.).
+ensuring that the emergency free-fall (gravity) extension system will perform as
+intended.
+The iron bird has been operational
+since the end of 2010 when ‘pressure
+on’ was achieved. At this time there
+Cabin ‘zero’
+were many industrial parts used to
+The cabin systems are tested in cabin ‘zero’ in Hamburg (Germany). replace missing aircraft parts.
+Everything from the air distribution system to the In-Flight Entertainment (IFE) The iron bird has been progressively
+system and toilets must be tested. This is all done on a series of FIBs linked upgraded to incorporate all the real
+to a mock-up of the full A350 XWB fuselage and known as cabin ‘zero’. aircraft parts that can be found on
+Cabin ‘zero’ has been fully operational since early 2013 and will be used to perform MSN001. The iron bird is critical to
+a series of virtual cabin flights to test all the cabin systems prior to the first flight of ensuring integration between the major
+MSN002 (the first development aircraft with the full interior). systems on the aircraft and to perform
+During these virtual flights, airline cabin crews will be used to simulate the cabin many tests necessary to guarantee
+operational environment and ensure correct operation of all the cabin systems. the safety of the first flight.
+Iron bird
+Integration simulators From aircraft ‘zero’
+to MSN001
+The two integration simulators, located in Toulouse (France) consist of a full
+A350 XWB cockpit connected to the real aircraft computers that are found on the The final stage of integration testing
+real aircraft. The biggest difference between an integration simulator and the more before flying the aircraft is to connect
+common training simulator is that the real aircraft computers are installed rather the integration simulator to the iron
+than simulated. The primary purpose of these integration simulators is to ensure bird to create aircraft ‘zero’. In this
+that all the systems and computers work together – they have all been tested configuration, we test the systems
+individually before being installed, but comprehensive testing is needed to ensure from cockpit to tail. When the pilot
+all these complex systems work as designed. moves the side-stick in the cockpit,
+the command is processed by the
+The integration simulators are used for two main types of testing. The first category Flight Control Computers (Primary/
+of testing is specifically focussed on the integration of a given system with the other Secondary) and the commands trans-
+systems around it. The second type of testing is ‘operational testing’ where the mitted to the flight control actuators
+simulator is operated by a ‘crew’ in a simulation of events that could occur in flight. via the 1553 databus. The flight control
+During these tests, the overall performance of the entire aircraft is under scrutiny. actuator (EBHA) takes its hydraulic
+and electrical supply from the power
+The integration simulators have been operational since early 2012. Since February generated by the aircraft Engine Driven
+2013, the simulators have been configured in the MSN001’s first flight configuration hydraulic Pump (EDP) and Variable A350 XWB MSN001
+and have been performing the Virtual First Flight (VFF) campaign which will last Frequency electrical Generator (VFG).
+Integration simulator around three months. During the VFF campaign, the test teams have to simulate All equipment installed on aircraft ‘zero’
+all possible scenarios that could occur during the real first flight. Hence 100% of is identical to that installed on MSN001
+potential failure cases have to be simulated, the behaviour of the aircraft analyzed in the Final Assembly Line.
+and its systems checked – for example loss of electrical power (emergency electrical During the Virtual First Flight (VFF)
+configuration) or loss of engine power. tests, the MSN001 flight crews will be
+involved in many of the tests so that by
+the time they fly the aircraft, they will
+already have many hours of experience
+‘in flight’.
+TSAF
+21
+TSAF
+31
+The Article title The Article sub-title Cockpit A350 XWB
+Guy MAGRIN, Chief Test Pilot on the A350 XWB programme presents the
+A350 XWB
+On entering the cockpit of the A350 XWB, one is immediately struck
+by the clean lines and uncluttered displays presented to the pilots.
+Cockpit
+However, it is soon apparent that the familiar Airbus design philosophies
+are maintained throughout, giving the cockpit a typical Airbus family feel
+and making the Airbus pilot feel quickly at home.
+TSAF
+41
+TSAF
+51
+Cockpit A350 XWB
+A350 XWB
+Airbus develops its
+Cockpit cockpits based upon
+10 design principles:
+The pilot is responsible for safety
+with complete authority
+The A350 XWB takes the basic A380 concept, but improves the interface with Integrated and intuitive Electronic Flight Bag (EFB)
+and the means to exercise
+larger and better positioned screens, providing better visibility of information
+this authority
+The EFB is a standard laptop computer. However, its integrated Keyboard Cursor
+across the cockpit with improved and extended interactivity. In particular, the
+Control Unit (KCCU) can interact with the cockpit screens. Furthermore, it benefits
+design (using six identical screens) makes the task of sharing operational informa- Full control authority is given
+from the ‘OIS on centre’ function to improve crew coordination and share workload.
+tion between pilots much easier, while privileging information that corresponds to the pilot whilst avoiding
+to the given situation. Although completely integrated within the aircraft avionics system, it remains risk of danger or damage
+independent (class 2) allowing companies to develop and use their own proprietary to the aircraft
+applications.
+Using the A380 cockpit definition as a starting point the A350 XWB has integrated
+This integration does not endanger the security of the integrated avionics systems The cockpit has to be adapted
+several improvements and innovations.
+since there is a segregation of the two worlds, avionics and EFB. The organisation to a large variety of pilot
+experience and pilot abilities
+of the cockpit also allows pilots to place the laptop on the lateral surface. Hereby,
+Six identical large format screens
+the system fulfils the functionality of class 1, fully functional in standalone laptop
+Design priority is safety,
+The idea was to adopt a new large LCD (Liquid Crystal Display) screen layout mode in case of multiple failures. The A350 XWB is also able to communicate with
+then passenger comfort,
+with the lateral screens angled inwards, to allow excellent cross-cockpit visibility its home-base via classical ACARS (Aircraft Communication Assessing & Reporting then efficiency
+and optimum flexibility for displaying information. System) for data updates by Wi-Fi, wideband SATCOM (Satellite Communications)
+and cell phone. The interfaces are designed
+Onboard Information Systems’ (OIS) applications are adapted to the large screen to simplify crew tasks
+format whilst at the same time, there is the ability to present information on the Improved Electronic Centralized Aircraft Monitoring (ECAM) and to provide a rapidly
+comprehensible appreciation
+central screen (OIS on ‘centre’) vastly improving the sharing of information between
+The ECAM interface has been revisited with improved access to information of the state of the aircraft
+pilots. This configuration also provides a supplementary avionics page which
+(system pages, shortcuts, deferred and abnormal procedures). A dispatch function
+further improves cockpit efficiency.
+has been implemented to ease the crew’s workload during pre-flight dispatch. The automatics are considered
+as an aid to the crews
+The A350 XWB cockpit now separates the normal checklist from the ‘abnormal’.
+Extended pilot interactivity allows the pilots to use the cursor control to manage
+This separation now allows for the normal check lists to be followed without com-
+the external screens as well as the opposite Multi-Functional Display (MFD), should The interface must be adapted
+promising the sequence of the abnormal procedures being run. Isolating abnormal
+the need arise. In case of screen failure, automatic reconfiguration occurs for the to crew requirements
+situations improves readability, easing corrective procedure. For multiple failures,
+avionics pages. For one or two outer screen failures the OIS information can be and characteristics
+recovered manually on the lower centre screen. a priority system automatically provides the pilot with a recommended order of (both good and bad)
+responses. Failures affecting performance (landing, for example) are presented on
+Even losing three screens (which is highly improbable) does not severely impact
+Clean lines and optimized space the status page with automatic transfer of the failure impact to the performance The validation process
+the flight in progress, thanks to the ‘Push To Be Happy’ option which selects the
+applications for a correct computation by the crew (Airbus performance package only). must include consideration
+information displayed on screens.
+of error management
+The configuration of six identical large displays covering EFB and avionics does Crew communication
+not exist on any other large commercial airliner today. It provides a weight benefit has to remain easy
+(-30kg less than A380 screens), reduced electrical power consumption and
+improved dispatch reliability. The introduction of new
+functionalities and technologies
+has to be driven by an
+improvement in safety
+Styled looks of the A350 XWB cockpit windows A350 XWB overhead view
+or an operational advantage
+for the crews
+TSAF
+61
+TSAF
+71
+A350 XWB Cockpit Cockpit A350 XWB
+The training advantages
+Same Type
+Improved Flight Management System (FMS) Added value of Flight Operations 14 days A380
+Rating A340
+for general flight safety Commonality (FOC)
+Improvements and functions to anticipate certain failure scenarios are now
+and efficiency of operation
+included, significantly reducing the pilot’s workload. A long range mode is
+permanently available to ease fuel savings. The pilot can play a virtual scenario
+15 days
+such as single-engine failure or depressurization using the ‘What if’ function, to The AP/TCAS (Auto Pilot/Flight Director Traffic Same Type
+assess the capability of the aircraft following a degradation at any point along Collision Avoidance System) allows the aircraft to
+Rating A320
+the route. Similarly with any problem increasing aircraft drag (e.g.: spoiler fixed automatically respond to avoid conflictual 14
+2-3 days
+deployed), the Flight Management System (FMS) can be adjusted for fuel burn traffic based upon the Auto-Pilot.
+days
+to provide better predictions for the remainder of the flight. 10 days 7 days
+The FMS allows the crew to perform a variety of approaches whether based The TCAP (TCAS RA Prevention) 5 days
+upon conventional navigation aids or Diff GPS (Differential Global Positioning prevents unwanted alarms due to high vertical
+System) offering increased position accuracy up to RNP 0.1 (Required Navigation speeds prior to altitude capture when other traffic Same Type
+Performance). The ability to fly precise trajectories through difficult terrain or is in the vicinity. Rating A350
+11 days
+for noise abatement reasons has considerably improved.
+The ATSAW (Airborne Traffic Situation Awareness) Same Type
+Robust Auto-Pilot provides an improved awareness of traffic Rating A330 7 days
+in the vicinity with added value from ADS-B
+The Auto-Pilot (AP) has become more robust in the sense that it will remain (Automatic Dependent Surveillance – Broadcast )
+engaged, even following small excursions outside the flight envelope. information such as speed, call sign, turbulence
+In the case of a double engine failure/flame-out, the AP remains available category, etc., and also provides the facility for ITP 8 days
+reducing crew workload and thereby improving situational awareness. (In-Trail Procedures). Common Type Rating path
+Cross Crew Qualification path
+Voice communications have been improved
+with FANS (Future Air Navigation System) A and B
+capability data-link via SATCOM, VHF or HF.
+Monitoring frequencies received in the mailbox Cost-saving and better training
+A350 XWB Common Type
+can be loaded directly without the risk of
+a typing error. Rating (CTR) with the A330
+due to A350 XWB commonality
+In the case of a Windshear, Terrain or TCAS Airbus is pursuing regulatory approval
+warning, the display automatically adjusts of a Common Type Rating for the
+appropriately to provide an immediately A330 and A350 XWB.
+Realistic training for pilots
+understandable picture of the threat If granted, A330 pilots are expected to
+(AutoRange/AutoMode). The A350 XWB Airbus Pilot Transition (APT) training concept will benefit from qualify on the A350 XWB in 8 training
+If the crew has not selected the radar display increased scenario-based training sessions and increased realism. days without Full Flight Simulator time
+and a weather (Wx) threat is detected, the system Hands-on training by using the Full Flight Simulator (FFS) has been integrated and to then be able to fly both aircraft
+will automatically provide a ‘Weather Ahead’ alert. at an early stage in the course. Future A350 XWB pilots will also benefit from under a single license endorsement.
+a ‘flying school’ concept, promoting manual flying from FFS sessions dedicated
+Correct take-off speed is calculated (often
+to normal operations.
+the source of error) checking the coherence of
+This new generation of ‘learning by doing’ approach uses training tools such as:
+speed values, the geographic position and the Mixed Fleet Flying (MFF)
+• Self-study
+aircraft’s capacity to take-off in a safe manner.
+• Training with an instructor in a crew configuration
+Commonality means savings in
+Brake To Vacate/Runway Overrun Warning &
+• Systems knowledge flight crew training but it also allows
+Protection (BTV/ROW/ROP) systems from
+facilitates Mixed Fleet Flying.
+• Aircraft operations training: Computer Based Training (CBT)
+the A380 are further improved on the
+When designing a cockpit, commonality with the Airbus family It is practical and economical to
+and Part-Task Trainer (PTT)
+A350 XWB with the introduction of runway
+is always privileged. If modifications are undertaken they are let pilots fly several Airbus types.
+contamination levels. • Procedure operations (handling and manoeuvring)
+for the following reasons: MFF enhances flight crew profi-
+Furthermore, a specific interface allows
+ciency and increases productivity
+• Improvement of flight safety
+the crew to quickly check that the aircraft Cross Crew Qualification
+through greater rostering flexibility.
+• Changes in regulation or other aeronautical systems and processes is capable of landing on the runway available
+It also offers a more varied working
+The A350 XWB Cross Crew Qualification (CCQ), including Full Flight Simulator
+based on selected hypotheses.
+• Aircraft specifics sessions, will be available for the A320 Family, A340 and A380 pilots with anticipated environment, hence contributing to
+greater job satisfaction for pilots.
+• Feedback from operators durations of 11, 10 and 5 training days respectively.
+The standard length of a full A350 Type Rating training course for non-Airbus pilots
+• Improvement of passenger comfort
+will be 25 days (projected and subject to approval from the aviation authorities).
+• Improvements due to new technologies Airbus will also support airlines wishing to implement Mixed Fleet Flying with A350
+XWB and A320 Family, A340 or A380 aircraft.
+TSAF
+81
+TSAF
+91
+Cabin & cargo design
+Extra wide cabin of 221”
+between sidewalls
+A350 XWB forward cargo
+compartment with a seven
+track loading system
+L G
+1 A A 1
+G
+L C L
+2 A A 2
+G
+L L L L
+3 A A 3
+L L
+4 A A 4
+G
+A = Attendant seat
+C = Central stowage
+G = Galley
+L = Lavatory
+= Door
+TSAF
+02
+TSAF
+12
+A350 XWB Cabin & cargo design Cabin & cargo design A350 XWB
+Cabin
+‘Form follows function’ is a well proven principle
+in modern architecture and industrial design.
+& cargo
+The principle is that the shape of an object should be
+design primarily based upon its intended function or purpose.
+In aircraft cabin architecture the ‘form’ translates
+principally by the optimization of weight, seat count
+and payload while developing comfortable, safe and
+Article by
+efficient functionality.
+Stefan HIESENER 220 inches / 5.59 metres
+Vice-President (from armrest to armrest)
+A350 XWB
+Cabin & Cargo Requirements based engineering
+Cabin layout
+Architecture
+On the A350 XWB, the approach for the cabin design is ‘requirements based
+AIRBUS
+engineering’. A set of functional requirements and quantified performance Before a layout is completed, the revenue generating areas for the cabin and cargo
+targets was formulated by client companies and based on previous experience. compartment need to be defined. One of the first steps is starting with the seating
+They are the basis for the cabin interior including monuments and seats, the cabin arrangements. The key question is to find the right cross section.
+systems and cargo compartment. The A350 XWB fuselage has been designed to get the right balance between cabin
+They cover concerns such as safety and security, cabin comfort and efficiency, comfort and aircraft performance.
+cabin operations, maintenance and integration.
+The A350 XWB allows the installation of several seating configurations from
+One example of a top level operational requirement is commonality with the Airbus Premium seating with 4-abreast suites up to (theoretically) 10-abreast.
+family, which reduces crew training.
+A design driver for the cross section is the 3-3-3 seating
+A performance requirement is, for example, maximum seat count. In the case of arrangement. This optimum cross section maximizes A350-900
+the A350-900 there will be a maximum passenger capacity of 440. seating comfort giving each passenger an 18” seat
+standard cabin
+cushion while providing an acceptable aisle width
+configuration
+Cross section to perform cabin service.
+Clearance from the lining had to be added to ease 48 Business Class
+Using the operational and performance requirements, it was calculated that the installation of the outboard seats. (6-abreast seats)
+A350 XWB needs four door zones and at least three seating areas in between. The result is a 220” cross section. 267 Economy Class
+(9-abreast seats)
+for a total of 315 passengers
+Cargo compartment
+Figure 1: A350 XWB reference 9-abreast layout The lower half of the cross section is designed around the cargo compartments
+and the loading system. The A350-900 has three compartments, i.e.: the forward,
+aft and bulk compartments and can load up to 36 LD3 containers (see lower image
+on page 18) or 11 standard pallets of 96 inches. Special equipment is available for
+the transport of live animals, perishable goods, heavy pallets and vehicles.
+Door zones
+Adequate space around the doors allows a quick turn-around for boarding
+and catering. Most of these areas are at the junction of galleys, lavatories and crew
+equipment stowage. Each door area has a double Cabin Attendant Seat (CAS)
+and the A350 XWB offers up to 22 standard or high comfort positions.
+The area between the assist spaces of the exits and longitudinal aisles is a critical
+dimension for the cabin width, particularly in the conical areas of the fuselage.
+TSAF
+22
+TSAF
+32
+Cabin crew rest compartment
+Cabin & cargo design A350 XWB
+at the aft in the over-ceiling area
+Cabin crew
+rest facilities
+Flight crew
+rest facilities
+Crew rest facilities
+While the entire cabin arrangement has to be very flexible in terms of installation,
+the most forward and most aft door areas allow fixed positions for cabin items,
+making it the ideal place for crew rest compartments.
+Flight crew rest facilities directly accessible
+Two compartments are installed in the over-ceiling area without absorbing revenue
+from the cockpit with a secured entrance
+space in the cargo compartment or on the passenger floor.
+Galleys
+A further design driver of the door areas is the service concept of the airlines.
+The A350 XWB is designed for all service concepts, from high-density low-cost,
+Economy Class and Premium Economy to Business and First Class services; there
+are even customers who will offer VIP service.
+These concepts require a highly varying amount of catering and very different
+meal preparations, from a ‘home style’ kitchen to a ‘canteen style’ galley.
+Whatever the style, a very spacious, efficient integration is needed with Premium
+Class requiring sufficient work top surface and Tourist Class needing sufficient
+floor space to prepare service carts.
+The aft galley complex at ‘Door 4’ was designed in customer focus groups with
+mock-ups and catering tests. The result is a spacious and practical working area
+creating privacy for the crew.
+Latest technology insulated heating and refrigeration monuments maintain a well
+balanced working temperature in the crew area.
+TSAF
+42
+TSAF
+52
+A350 XWB Cabin & cargo design Cabin & cargo design A350 XWB
+Cabin systems
+The A350 XWB has a set of highly the well-being of the passengers
+integrated electronic, electric and and crew.
+mechanical cabin and cargo systems. The core of the Airbus cabin
+is the Cabin Intercommunication
+They include safety systems such as Data System (CIDS).
+the doors or the evacuation system,
+the water and waste system, electri- The CIDS of the A350 XWB controls
+cal galley equipment or the In-Flight all cabin systems with more than
+Entertainment. 40 applications.
+A much appreciated contributor to
+cabin comfort on the A350 XWB is The functionality and user interface
+the air conditioning system. Providing of the CIDS has been continuously
+a reduced altitude cabin air pressure developed since its introduction
+leading to more oxygen and improving on the A320.
+‘Pure Indulgence’
+Business Class design theme • Cabin illumination
+Cabin compartment • Air conditioning
+• PAX (Passenger) call
+The cabin compartment consists of the lining, furnishing and floor covering. • Passenger lighted signs
+• Reading lights
+The lining is basically everything surrounding the passenger: window panels,
+• IFE power
+overhead stowage compartments and ceilings.
+• Lavatory occupied signs
+• Smoke signalling
+The furnishing is basically all monuments, partitions and seats. Cabin systems like
+• Doors and slides
+the new full LED (Light Emitting Diode) mood lighting system, the passenger oxygen
+• Galley cooling
+system or the escape path marking are integrated into the cabin compartment.
+• Potable water indication
+Beyond functional requirements, the interior has to meet esthetic requirements, • Waste indication
+create spaciousness and provide practical ergonomics. • Cockpit door surveillance
+• Cabin interphone
+The trim and finish catalogue for A350 XWB is called ‘Canvas’. Among the seven • Passenger address
+design themes proposed are a wide range of standard and optional decorative • Boarding music
+surface materials, aligned to an overall neutral colour palette that is designed to
+• Crew signalling
+work in harmony with the new cabin mood lighting system.
+• Alerting system
+• Recorded announcements
+• Service interphone
+Cabin decor choice is focused on two key principles:
+In the A350 XWB cabin a simplified and
+• Using extensive market and consumer research to define design harmonized Human-Machine Interface
+themes that allow for the trim and finish materials to be harmonized (HMI) will be introduced. It has been
+into distinct collections within the cabin enhanced by the introduction of a touch
+screen control panel, digital handset and
+• Balancing customer differentiation requests with manufacturing display based passenger signs.
+constraints for standard lead time delivery
+Structure
+Main component partners
+- REAR FUSELAGE
+& EMPENNAGE
+- AFT FUSELAGE 8 - S 19 Internal structure
+- CENTRE FUSELAGE (Aciturri)
+- Pax & cargo doors
+- Pax & cargo doors (Eurocopter Deutschland) 9 - Vertical Tail Plane
+(Eurocopter Deutschland) - Floor panels (EADS-EFW) rudder (Harbin Hafei
+Airbus Composite
+- Floor panels (EADS-EFW)
+6 - S 16-18 Side shells Manufacturing Centre)
+3 - Main Landing Gear doors (Daher Socata) (Premium Aerotec GmbH) 10- Vertical Tail Plane box
+4 - Belly fairing (Alestis Aerospace) 7 - Rear pressure bulkhead 9 (Aciturri)
+(Premium Aerotec GmbH)
+5 - S 15 Shells (Spirit AeroSystems) 10 11- Horizontal Tail Plane
+(Aernnova)
+- FRONT FUSELAGE 12- S 19.1 Tailcone (Alestis)
+- Pax & cargo doors
+12
+(Eurocopter Deutschland) 11
+- Floor panels (EADS-EFW) 7 8
+6
+1 - S 11-12 Nose fuselage (Aerolia) 5
+2 - S 13-14 Fuselage
+(Premium Aerotec GmbH)
+2
+19 16
+15
+1 4 18 14
+3 17 13
+21
+23 - WINGS
+22 20 13- Winglet & wing tip (FACC)
+- POWERPLANT / 14- Ailerons (TAI)
+- PYLON
+15- Spoilers (FACC/CAC)
+20 - Trent XWB turbofan 16- Flaps (SABCA)
+(Rolls-Royce) - LANDING GEAR 17- Leading edge (Spirit)
+21 - P py y l l o o n n t f o ai r w in in g g p anels, 22- Nose Landing Gear 18- Droop nose (FACC/CAC)
+(Liebherr-Aerospace Lindenberg)
+rear fairing (CCA) 19- Trailing edge
+Rear secondary 23- Main Landing Gear (General Electrics/GKN)
+(Messier Buggati Dowty)
+structure (Socata)
+.deifilpmis
+si
+weiv
+siht
+,sesoprup
+noitartsulli
+roF
+Main deliverables
+BROUGHTON (UK) FILTON (UK)
+per Airbus site Wing box (pre-equipping) Wing
+Landing gear
+Fuel systems
+Development and/or Testing
+Manufacturing HAMBURG (Germany)
+Assembly and/or Equipping Cabin and fuselage
+Customer delivery Aft fuselage
+Forward fuselage
+Cabin and fuselage
+Customer definition centre
+NANTES (France)
+Centre wing box, keel beam, STADE (Germany)
+radome and air inlet
+Centre wing box, keel beam, Aft fuselage upper
+radome and air inlet and lower shells
+Wing upper cover
+Vertical tail plane
+SAINT-NAZAIRE (France)
+Vertical tail plane
+Front and centre fuselage
+Front and centre fuselage
+BREMEN (Germany)
+Cargo loading systems
+High lift
+Flaps
+GETAFE (Spain) Final Assembly Line
+Wing
+Horizontal tail plane
+Rear fuselage
+ILLESCAS (Spain)
+Wing lower cover
+S19 Full barrel skin
+TOULOUSE (France)
+SAINT-ELOI (France)
+Aircraft development
+Structure and systems Pylon, air inlet and nacelle integration
+PUERTO REAL (Spain) Final Assembly Line Aft pylon fairing
+Flight test Aft pylon fairing
+Horizontal tail plane boxes Customer delivery Pylon
+Philippe GROSBOIS Frederic GAIBLE
+Technical Executive A350 XWB
+Assistant A350 XWB Structure coordination
+Structure, AIRBUS AIRBUS TSAF
+62
+TSAF
+72
+Structure A350 XWB
+Structure
+Main airframe features
+A350 XWB design is classically split into its fuselage, wings and empennages
+Intelligent airframe design
+and each of them has benefited from experience gathered by Airbus concerning
+composite use. Empennages have long been made of CFRP; now with the benefit
+of in-service experience, their movable parts (rudder and elevator) are now made of
+monolithic structure thus improving their performance in operations. The experience
+with empennage has also led its use in the wing structure with a 32m long single
+If we still ask designers to show us how clever and creative they are, our era CFRP cover.
+has turned aviation design into an infinitely more subtle and complex game Rear and front spars are split into three pieces supporting both lower and upper
+where innovation is judged by its impact on quality, cost and performance. covers. The wing box structure consists of single piece CFRP top and bottom
+covers that are 32m long, front and rear CFRP spars which are manufactured
+in 3 pieces, internally the box is reinforced with metallic ribs. The main landing gear
+Around mid-2007, in order to answer customers’ requests for improved performance, the A350 XWB airframe design was
+is attached into the wing box through a forward pintle fitting on the rear spar
+revised, taking into account the latest developments in applying Carbon Fiber Reinforced Plastic (CFRP).
+and a rear pintle fitting on a gear beam. The gear beam is attached to the fuselage
+It was time to give birth to a concept that had been developed by designers a few years before: the intelligent airframe.
+inboard and rear spar outboard. A double-side stay is used to better assist in
+The result is an A350 XWB structure that not only uses the material properties of CFRP to achieve weight loss, but using taking braking and turning loads into the airframe structure.
+the flexibility of applying the material how and where it is required for robustness. For load-bearing sections CFRP and metal
+(mostly aluminium and titanium) has been used to address corrosion issues while meeting optimal operational targets. Corrosion
+An intelligent airframe is also one that is quicker and easier to maintain. Sections have been re-defined using monolithic
+carbon fibre technology as well as keeping a 4-panel assembly concept that as proved successful on metallic aircraft. At the concept phase, feedback from operators’ inflight experience allowed Airbus
+to define areas of the aircraft under threat of corrosion by various environmental
+conditions. The A350 XWB sets stringent criteria to combat this threat. CFRP
+which is not subject to corrosion, is used for 53% of the aircraft but in areas sub-
+ject to liquid aggression like the galley areas, traditional aluminium for seat rails
+has been replaced by titanium. In the same way, metallic frames in the lower part
+of the fuselage are made of titanium rather than aluminium.
+In addition, a design target has been set to limit maintenance inspections
+(i.e. from less than 15 minutes if performed every 3 months, up to a few hours
+if the task is required only once every 12 years).
+Finally, a dedicated group of specialists has been set-up in order to check that
+the design guidelines are followed and design teams are helped in meeting their
+objectives. The result of the work is through a specific material mix, increasing the
+use of titanium to 14% of the airframe structure’s mass, and for a CFRP to 53%.
+It will also result in an enlarged inspection interval, reaching 12 year inspection-free
+period for most areas.
+Fuselage design and assembly concept
+The pressurized fuselage is based on a classical and robust section assembly
+concept, but it has been optimized to take advantage of new CFRP technology.
+Each CFRP section is now made of 4 panels. Both circumferential and longitudinal
+dimensions of panels have been optimized in order to increase aircraft performance:
+• Circumferential joints are located far from heavy loaded areas like the wing
+to fuselage junction
+Installing the first A350 XWB tail
+• Junctions are also positioned away from main fuselage cut-outs, like passengers
+and cargo doors, both in longitudinal and circumferential directions
+• The type of junction (one shell overlapping the other or two shells assembled
+side-to-side) has also been optimized. These junctions offer more supporting
+structure to repair the aircraft in case of heavy damage
+Longer panels assembled together into four sections are considered more mature
+and more beneficial to aircraft than having only cylindrical sections.
+Structure robustness
+The damage tolerance of a structure is an integral part of airworthiness regulation
+and the CFRP fuselage has been subject to specific attention (see article in FAST
+No48). The resulting solution is in varying the thickness of the CFRP skin in areas
+where the aircraft structure is most frequently impacted. The skin thickness in the
+door surrounds is increased by a factor of 3 to 5 compared to areas with low risk.
+The result will be a structure that is less sensitive to impact damages than its
+metallic predecessors, whilst contributing to an overall improved performance.
+TSAF
+82
+TSAF
+92
+Structure A350 XWB
+Structure
+Savings by aggregating manufacturing jigs and tools
+The jigs and tools’ work packages for the A350 XWB were aggregated by a factor
+of 10 in comparison to those of the A380. Logically grouped work packages have
+been placed throughout Airbus’ European sites in order to harmonize industrial
+systems.
+As an example, pre-assembly jigs at different sites have been aggregated into one
+single contract, creating the ‘Design to Cost’ plateau, leading to a smoother flow
+for the assembly line. This new ‘Design to Cost’ concept required tight contract
+management. Together, manufacturers, engineers, A350 XWB programme managers
+and the general procurement team defined this new project and the contract
+management processes. Its constant aim was to improve quality, save time
+and reduce overall costs.
+Examples of reducing unexpected costs being detected early were:
+- An Airbus project management operating model structured by weekly
+‘4 Box Reviews’ and Change Review Boards (CRB).
+The lay-head of the - A supplier/Airbus contract management defined by monthly Contractual
+Advanced Fibre Placement Machine Commitment Reviews (CCR).
+Such preventive and collaborative approaches in change management were key in
+delivering constant performance throughout the A350 XWB’s challenging manu-
+facturing schedule. The same measures will also play their part in the A350 XWB’s
+ramp-up and convergence with the planned completion costs.
+An innovative One of the largest industrial challenges faced by the
+Ultrasonic – innovation in delamination
+A350 XWB programme was the integration of its composite
+industrial setup
+structural elements. Manufactured in numerous European How can the holes drilled in the A350 XWB’s composite fuselage be
+for a competitive inspected faster and more efficiently?
+Airbus sites, the elements are shipped to the Final
+This can be done thanks to ‘Percephone’, an ultrasonic inspection
+and sustainable Assembly Line in Toulouse (France). tool developed with EADS, allows the operator to check for possible
+delamination.
+With the advent of new tools and specific methods
+future A mini-tablet, a water spray container, daisy probes and ‘shoes’
+of applying the composite, this production platform of various diameters are provided in a kit to check delamination of the
+Environmental sustainability
+composite for the loss of cohesion between the plies when drilling holes
+of international proportions has been optimized with a green Final Assembly
+in the A350 XWB’s fuselage. Tested with success on the longitudinal holes
+to consolidate similar tasks, helping to achieve made in the centre section and the forward lower shell, this new technology Line in Toulouse (France)
+leads to substantial savings and an accurate control.
+ambitious cost reduction targets.
+This tool (supported by EADS Development), will allow the operators to In a bid to reduce its carbon footprint,
+check the drilled holes in a minute, giving them direct access to the results. Airbus has installed 22,000 square meters
+Advanced Fibre Placement Machine
+This tool kit saves eight days of training, and improves the traceability of photovoltaic solar panels on the roof
+The composite, known as Carbon Fibre Reinforced Plastic (CFPR), is used to make for the inspection of the 36,000 existing holes located on the forward of the A350 XWB Final Assembly Line,
+structural parts by laminating series of ribbons to create strong, corrosion-proof and and centre parts of the aircraft. to produce an equivalent of over half
+lightweight forms. Upstream work is required to create descriptions of the area to be of the building’s electricity needs.
+The largest skin manufacturing shop located at Airbus’ facility in Stade (Germany) inspected with representation of the drill templates, and to ‘feed them’ Functioning since September 2010,
+houses the ‘Advanced Fibre Placement Machine’, which produces the upper and into the software. Then, the operator only needs to spray a little water in the panels have produced 2 million kWh.
+lower shell of the A350 XWB. the hole to facilitate the coupling between the module and the hole which Even on a cloudy day their amorphous
+The rollers of its laying head simultaneously place 32 parallel CFRP tapes that are needs inspection, then aim the probe at the hole. The inspection results membrane which captures diffuse
+6.35mm wide and 1.27mm thick. They can be selected, laid and individually cut by are displayed in a visual representation with a coloured code: red if the radiation, generates around 20%
+the placement machine, allowing the production of highly complex forms. hole is delaminated, orange for contentious cases and green if the hole of full production.
+The 23 tonne lay-up jig moves it way towards the laying head ensuring the accura- is correct. The results of the diagnoses can be directly exported to the Maintenance-free, the installation will
+cy of the laminate structure, measuring up to 16.5m in length and 3.68m wide. supervision software (SPCvision) allowing automatic traceability. provide power for at least 20 years.
+Due to its highly sophisticated control system, the lay-up system not only manages
+complex forms, but also ensures that waste is kept to a minimum and that the weight
+is evenly optimized. It also allows to automatically integrate local reinforcement
+layers where required. The lightning protection layer is applied manually, afterwards.
+TSAF
+03
+TSAF
+13
+Structure A350 XWB
+TSAF
+23
+TSAF
+33
+Systems A350 XWB
+A350 XWB • On the A350 XWB, systems
+represent 70 work packages
+shared between 30 suppliers
+• More than 1.5 million signals
+systems,
+are treated between the systems
+on the A350 XWB
+the right
+• The A350 XWB has over
+2,500 different Part Numbers
+alchemy
+• Around 1,500 software routines
+are used for A350 XWB systems
+• Compared to the A380,
+the number of exchanged
+New functions where needed,
+parameters between the systems
+has increased by 40%
+commonality wherever possible
+by Philippe PALMER Deputy-Head of A350 XWB Systems & Testing AIRBUS
+According to Airbus’ A350 XWB A350 XWB systems: a real extended enterprise
+philosophy on innovation,
+systems family
+An earlier and widened supplier involvement Customer involvement in our design
+A350 XWB systems were
+concept
+designed by adding new A new policy, applied for the first time on the A350 XWB, has allowed involving Since 2010, our design teams have
+our main suppliers much earlier than we used to on previous programme hosted an airline office, which is very
+functionalities where it
+Same Part Numbers (PN), whatever developments. efficient in terms of including the way
+was bringing value to our the variants, have been privileged when Main suppliers were selected between mid-2007 and the end of 2008, customers intend to operate A350 XWB
+possible in order to allow a better spares’ allowing them to incorporate innovations. into our design.
+customers, while keeping
+management and overall airlines’ Thanks to their suggestions several
+maximum efficiency efficiency in terms of operating costs. This earlier involvement also allowed them to perform advanced integration maturity improvement initiatives that
+On the A350-1000, this has been tasks, even before Airbus could start their internal integration activities. have been implemented were made
+and commonality with the
+feasible on the majority of systems, This policy also allowed Airbus to reduce the amount of suppliers easier and more accurate (see Airline
+Airbus aircraft family. except for the ones directly linked to and streamlined performance management. Office page 45).
+the size of the variant.
+For example, the Main Landing Gear
+had to be different on the A350-1000,
+because of the Maximum Take-Off
+Systems simulation testing
+Weight (MTOW) increase, the Nose
+Landing Gear had to be reinforced due
+to heavier towing loads and the landing
+gear systems needed to be adapted to a
+6-wheel bogie.
+The flaps system is also different
+due to higher aerodynamic loads.
+For the rest, some systems have just
+been adapted, such as the venting
+system to cope with higher fuel quantity
+or some lighter software adaptations
+(using Pin Programming when possible).
+A350-900
+A350-1000
+TSAF
+43
+TSAF
+53
+A350 XWB Systems Systems A350 XWB
+Systems improvement for operability & performance
+Innovation has been pushed when bringing either performance
+or ownership costs improvement, while family concept solutions
+have been kept on areas where efficiency is already recognised.
+Avionics Flight controls and hydraulics
+• Larger cockpit screens have been developed keeping the cockpit concept commonality. • Implementation of the Modular Electronics’ (ME) concept to improve
+maintenance (Flight Control Remote Module Line Replaceable Item).
+• Automatic reconfiguration has been implemented which makes first low criticality failures transparent to the pilots.
+• Implementation of 1553 Bus for better robustness in a carbon fibre environment.
+• All communication related computers are now under a single supplier’s responsibility, improving the integration aspects.
+• Implementation of electronics’ driven devices allowing the improvement
+Common resources of the aircraft performance:
+• Within the IMA, the Common Remote Data Concentrators (CRDC) introduced on the A350 XWB have been spread - Differential Flap Setting (DFS): optimize cruise aerodynamic
+all across the aircraft, instead of Input/Output Modules (IOM) on the A380. They allow significant wiring simplification. efficiency and loads through the control of the wing centre
+of the lift position; inner and outer flaps are deflected differentially.
+• The introduction of the AFDX (Airborne Full Duplex Switched Ethernet), instead of the A429 and other types of
+intercommunications, was necessary to cope with the increased number of interconnections between the systems. - Variable Camber (VC): optimize the cruise aerodynamics’ efficiency
+This system, introduced on the A380, is integrally re-conducted on the A350 XWB. through the control of the wing camber by the flaps’ adaptation in position
+in or out during cruise.
+Electricity
+- Adaptive Dropped Hinge Flaps (ADHF) function: optimize high lift aerodynamic efficiency through the control
+• Integrated primary and secondary distribution centre in the Electrical Power Distribution System (EPDS), of the spoiler-flap gap.
+including remote control of circuit breakers and Auxiliary Power Unit (APU) starter/generator.
+Fuel
+• More use of solid-state power control technology on the A350 XWB, providing a modern method of power control
+management throughout the aircraft, which eliminates the need for individual circuit breakers in the cockpit, cabin • Simpler and easier fuel system: No trim tank, no transfer pump and a much simpler architecture for an improved
+and electronics’ bay. Direct Maintenance Cost (DMC).
+• All tanks are inerted (NB: read FAST N°44, Fuel Tank Inerting System – FTIS).
+FlySmart by Airbus - New Generation (FSA-NG)
+• The A350 XWB is now connected to the ground in real time, leading to a ‘paperless’ cockpit including the class 3
+Onboard Information System (OIS), Onboard Maintenance Terminal (OMT), Portable Maintenance Access Terminal
+(PMAT) and docking station. Airbus has generalized a new way to manage embedded software updates,
+more adapted to the quantity and size of the software (1,200 software Part Numbers on the A350 XWB).
+Airbus generalized the replacement of the Onboard Replacement Module (OBRM) with a data-loading capability.
+Maintenance now becomes ‘effect orientated’, avoiding undue and difficult to treat maintenance messages.
+Landing gear
+• Corrosion issues were addressed by increasing the use of titanium and low corrosion materials.
+• A double side-stay landing gear has been implemented.
+Cooling system
+• A basic supplemental cooling system is installed in the galleys.
+The life cycle of a Product Maturity Item (PMI)
+Maturity item acquisition Solution/ Implementation
+delevopment
+Lessons learned
+2,300 items processed
+and accounted in design
+Product findings
+Maturity network
+Test results screening
+(Engineering, Industrial
+with suppliers in place Implementation
+and Customer Services’
+Operability findings organisations) &
+Airline-like approach
+& validation
+Manufacturing
+Design offices
+Supply chain findings
+Transversal projects
+(leaks, seals, paint, etc.)
+Operability test campaign
+A collaborative platform: FAMOUS
+What is a PMI?
+A Product Maturity Item (PMI) is a technical
+subject which has an impact on the maturity
+and/or on the operability of the aircraft.
+The various sources for PMIs are:
+• The lessons learned from our previous
+Airbus programmes
+• The product findings resulting from the
+A350 XWB tests; laboratory test results,
+the Final Assembly Line and the flight tests
+• The results of maturity transverse projects
+(like seals’ damage avoidance, leaks
+avoidance, parasitic noise, etc.) or from
+operability test campaigns
+• The issues resulting from the airline-like
+operation with the flight test aircraft
+• The findings discovered during the
+manufacturing process
+• The maturity reviews with our suppliers
+TSAF
+63
+Airline operations A350 XWB
+Airline operations
+Operability & maturity
+A close collaboration between Airbus and its customers
+From the start, meeting our customers’ expectations in terms
+of fleet management and operational performance has been
+at the top of the agenda of the A350 XWB programme.
+This meant maximizing the reliability of the aircraft and its
+availability for revenue flights whilst making substantial savings.
+In order to achieve these objectives, we had to work differently
+throughout the development of the A350 XWB programme.
+New processes had to be implemented, not only within Airbus’
+Alain LEROUX
+Engineering, Industrial and Customer Services, but also
+A350 XWB
+Maturity Operability with our suppliers, with one thing always in mind:
+Integrator, AIRBUS
+design for airline operations.
+We started by carefully examining lessons learned from our previous programmes. This allowed our engineers to capitalize
+on operational experience accumulated on our A320, A330, A340 and A380 aircraft families. We made some determining
+architecture choices in order to drive a high level of reliability in operations.
+The aircraft will be equipped with an innovative feature for support called the ‘dispatch function’ which continuously assesses
+the operational performance of the aircraft and its compliance to the dispatch of the aircraft, in order to take corrective actions
+immediately, when necessary.
+With the first flight, we will be entering the final stage of our verification and validation process. Throughout the flight testing
+phase, we will operate the aircraft as close as possible to real-life airline conditions. The documents which support the aircraft
+operations, from now on and after its Entry-Into-Service, will be used by flight, cabin and maintenance operations’ teams.
+The documentation includes: Flight Crew and Cabin Crew Operating Manuals, Manufacturer Minimum Equipment List,
+Maintenance Procedures, Aircraft Fault Isolation Procedures, Maintenance Programme, Ground Support Equipment, etc.
+Guided by a clear set of objectives during the six years of development and which will continue after the A350 XWB’s Entry-
+Into-Service, we will deliver to our customers what they are expecting from the A350 XWB: maximum aircraft availability
+and reliability at an affordable cost.
+A new approach to maturity and operability
+A new way of working was set up during the development phase
+of the A350 XWB with:
+• A dedicated coordination team at programme level,
+accountable for Operational Reliability (OR) objectives,
+• A ‘maturity network’ of around 70 engineering specialists
+in all aircraft function domains,
+• The continuous assessment of the operational performance of the aircraft
+on all the test results through regular maturity meetings called TACT
+(Test Activity Control Team), with the participation of multi-functional teams,
+(airline representatives, Airbus’ Engineering and Customer Services’ teams,
+test engineers and pilots),
+• Systematic follow-up of all maturity items - referred to as a Product Maturity
+Item (PMI) - including their respective corrective actions thanks to a dedicated
+Electronic Data Processing (EDP) tool: FAMOUS (Forum for Aircraft Maturity
+and Operability Unified Stream),
+• Flight testing the aircraft as close as possible to real airline operations.
+TSAF
+73
+Airport operations
+Ensuring the A350 XWB integrates well into the current airport infrastructure is
+key for the successful operation of the aircraft. Aspects like obstacle clearances,
+manoeuvring, pavement loading and ground operations needed to be considered
+right from the beginning of the aircraft design process.
+The Airbus Airport Operations’ department has been involved from the definition
+of requirements with assessments at each major design milestone, to the setting
+up of test scenarios to ensure maturity. The experience and lessons learned from
+the A380 airport compatibility activities have been very valuable for the A350 XWB.
+Airside activities - the right size for existing airport infrastructure.
+Airbus has analyzed the impact of the A350 XWB key dimensions (wing span,
+fuselage length, landing gear wheel base and wheel track) on airports within its
+regulatory category (code E aircraft).
+As a result, Airbus demonstrated that the A350 XWB has the same good ground
+manoeuvering capability of comparable aircraft in service today. In addition, thanks
+to the 65m wingspan, the A350 XWB can be easily accommodated in a vast majority
+of current wide body gates.
+Airbus will conduct flight tests to ease the A350 XWB’s Entry Into Service by looking
+in advance at our customers’ destinations and alternate airports. In case one of
+these airports is not fully code E compliant, we will take advantage of the widely
+implemented operational standard processes to accommodate the A350 XWB
+without compromising safety (AACG, ICAO Circular 305).
+To ensure a mature product at EIS, a dedicated test campaign has been set-up in
+parallel with the flight test campaign. The purpose is to demonstrate the aircraft’s Pavement activities
+operability and the feasibility of the maintenance and dispatch procedures. Airbus analyzed the loads of comparable existing in-service aircraft in order
+This campaign has already started with tests performed on cabin ‘zero’ and on the to design the landing gear of the A350 XWB for pavement limit certifications
+aircraft ‘iron bird’ (read article ‘Zero test means’ page 08). in alternate airports.
+Ground operations activities
+Operational Reliability projection
+By using advanced 3D modelling, Airbus demonstrated at a very early stage
+the feasibility of using existing detailed Turn Around Time calculations, using
+the standard layout as well as customized cabin layouts.
+Design
+Turn Around Time (TAT)
+Test findings With the availability of the first flight test aircraft, the next step will be to run the
+various airport operational scenarios to validate both design and procedures.
+Using nominal as well as extreme operational scenarios will ensure, like for the
+Lessons learned
+A380, smooth operations from the first day of Entry-Into-Service.
+Positioning/Removal
+Activity 61 minutes
+Turn Around Time for the A350 XWB
+Critical path
+Improving maintenance
+0 10 20 30 40 50 60 70
+The A350 XWB design has been reviewed against lessons learned Disembarking/Boarding at L1
+from previous programmes. Transversal projects were created to ensure Disembarking/Boarding at L2
+that lessons learned were consistently applied throughout the programme. Headcounting
+Examples of projects include: Catering at R1
+Catering at R2
+• Seals - to improve their resistance to wear and damage,
+• Ram Air Inlets/ Ram Air Outlets - to improve their robustness to fatigue, Catering at R4
+• Parasitic noise - for passenger comfort, Cleaning
+• Painting - to improve the product aesthetics, key for airline branding.
+Cargo forward
+Cargo aft
+Testing the aircraft in an airline-like environment
+Bulk
+During the A350 XWB’s flight test campaign, particular attention Refuelling
+to the airline-like operation has been highlighted. Potable water servicing
+From the outset, an organisation set-up was put in place to ensure Toilet servicing
+that the flights and ground support related activities were performed
+as close as possible to a normal airline operation.
+)RO(
+ytilibaileR
+lanoitarepO
+Airline operations A350 XWB
+Operability test campaign
+Cabin Operations (Cabin Crew Operating Manual - CCOM)
+Airport Operations (Ground Handling Manual - GHM)
+Flight Ops (Standard Operating Procedures / Master Minimum Equipment List - SOP/MMEL)
+Unscheduled maintenance and maintainability demonstration
+Maintenance Operations
+Scheduled maintenance
+Validation Validation Validation
+on cabin ‘zero’ on ‘iron bird’ on flight test
+ICAO Code E
+ICAO ARFF Category 9
+EIS
++
+EIS
+Aircraft development timeframe 2 years
+Operational
+Reliability
+objectives
+Pre-flight activities Pre-flight activities
+Flight Flight
+Ops Ops
+Airline Production Flight Production Flight
+Airline-like
+Planning -like Test planning test
+Centre Planning centre testing planning
+testing
+MCC Maintenance Control Centre
+Use of Ground Support Equipment tools Use of Ground Support Equipment tools
+and airline documentation (AIRMAN, AMM, TSM...) and airline documentation such as
+AIRMAN-web, Aircraft Fault Isolation (AFI),
+Maintenance Procedures (MP), etc.
+TSAF
+83
+TSAF
+93
+Airline operations
+FAMOUS, the collaborative platform,
+allows providing the right assumption
+in terms of the prioritisation of solving
+the issue and gives a projection
+of the estimated Operational Reliability
+at the aircraft Entry-Into-Service.
+The A350 XWB will build on the advanced monitoring and diagnostics’ systems already developed
+for the Airbus aircraft families in-service. The A350 XWB will be fitted with an advanced Onboard
+Maintenance System (OMS), instead of a stand-alone Centralised Maintenance System (CMS).
+A330 maintenance features A350 XWB maintenance features
+Based on independent systems Software integrated on FSA-NG ACMS Aircraft Condition Monitoring System
+• CMC (CMS) • Centralized Maintenance System (CMS) CDLC Centralized Data Loading Connector
+CMC Central Maintenance Computer (CMS)
+• FDIMU (ACMS) • Aircraft Condition Monitoring System (ACMS)
+CMS Centralized Maintenance System
+• MDDU/CDLC • DLCS
+DLCS Data-Link Control System
+• Physical circuit breakers • PDMMF
+FDIMU Flight Data Interface Management Unit
+• Paper documentation • Onboard electronic documentation
+FSA-NG FlySmart by Airbus-New Generation
+• Paper logbook • e-Logbook
+MCDU Multi-purpose Control Display Unit
+Marc VIRILLI • Enhanced navigation
+MDDU Multi-purpose Disk Drive Unit/
+Airline Operations through hyperlinks
+OMT Onboard Maintenance Terminal
+Technical Manager
+> Access through MCDU > Access through OMT PDMMF Power Distribution Monitoring
+AIRBUS
+and Maintenance Function
+TSAF
+04
+Airline operations A350 XWB
+TSAF
+14
+Unscheduled maintenance
+Onboard Maintenance System and advanced diagnostics
+The crew is informed of functional degradations through
+consequential effects which will be handled at the end
+of the flight by a mechanic, based on their association with
+maintenance messages in the Post Flight Report (PFR).
+The A350 XWB is designed in such a way that no maintenance
+message is triggered if no effect impacts flight, cabin
+or maintenance operations.
+This allows the maintenance staff to isolate the important
+fault messages and concentrate on their final troubleshooting
+solution using interactive links in the main maintenance
+technical data, such as the Aircraft Fault Isolation (AFI)
+and the Maintenance Procedures (MP).
+As proved with the A380, the Onboard Maintenance System
+(OMS) reduces the time for fault-findings and fault-isolation,
+with less potential for non-routine work and with a reduction
+in terms of No-Fault Found (NFF) removal rate. An estimation
+has been made revealing that the A350 XWB’s NFF removal
+rate will be reduced by 50% compared to current generation
+aircraft.
+The consequences of this will become visible in terms
+of reduced spares and line maintenance man-hours.
+Functional degradation
+Cockpit Cabin Maintenance
+Electronic Centralized Flight Onboard
+Aircraft Monitoring Attendant Maintenance
+(ECAM) Panel (FAP) Terminal (OMT)
+spO
+thgilF
+ecnanetniaM
+Airline operations
+ECAM function OPS library
+Lists dispatch messages
+application
+on the dispatch page
+Eases entry into MMEL
+with dispatch Provides alerting means
+messages for dispatch message
+Dispatch detection
+function
+ACARS Logbook
+Maintenance
+application
+Control Centre
+Maintenance function
+Pre-fills defect
+(MCC)
+reports with
+Automatically
+dispatch
+dispatches Provides data for unscheduled
+messages
+AFI (former Trouble-Shooting Manual - TSM) messages maintenance (via the CMS)
+to the MCC
+Provides the PFR with dispatch messages
+As part of its new advanced Onboard Maintenance System (OMS), the A350 XWB adds another feature which allows the
+reduction of fault-findings and fault-isolation time, the so-called ‘dispatch function’. This function, posted for the pilots,
+consists of cockpit messages which have an impact on the aircraft dispatch (linked to the Master Minimum Equipment
+List - MMEL). A dispatch message indicates that the MMEL must be consulted for dispatch, and each one is used
+as the entry point into the MMEL.
+The advantage is to have a clear and single link between the root cause and associated dispatch consequences,
+thus reducing unnecessary messages and troubleshooting time.
+Operational information/warnings during the flight itself do not automatically generate dispatch messages. This means
+MP (former Aircraft Maintenance Manual - AMM)
+that the crew will see a dispatch message during the flight, only if they wish to see it, in the dedicated ‘dispatch’ page.
+Moreover, as per other Airbus aircraft, the A350 XWB will fully benefit from the AIRMAN (AIRcraft Maintenance ANalysis) solution.
+The parameters of all the principal onboard systems will be available in real time at the operator’s preferred location, as for
+example the operator’s Maintenance Control Centre (MCC). This allows engineering and maintenance staff to gain access
+to aircraft data such as failure and/or warning messages while the aircraft is still flying. Not only does AIRMAN assist
+real-time troubleshooting but also proactive maintenance and failure anticipation, allowing maintenance staff to be ready
+for component replacement well before the aircraft lands at its final destination.
+TSAF
+24
+Airline Scheduled maintenance A350 XWB maintenance
+The A350 XWB Maintenance Review Board Report delivered
+and structure training
+operations
+During a meeting organized in January 2013, the A350 XWB Industry Steering
+Committee (ISC) delivered the first draft of the Maintenance Review Board Report
+A new aircraft, A350 XWB maintenance training will use the proven efficiency and success
+to the ISC members and Maintenance Review Board (MRB).
+of the Airbus Competence Training (ACT) concept. This operationally-orientated
+stronger training concept, scenario-based concept is focused on a ‘learning by doing’ approach.
+The A350 XWB maintenance programme highly benefits from the composite
+Courseware has been optimized with an in-depth Training Need Analysis (TNA) of
+structures and the new system technologies through a significant reduction in the
+new training tools, 1,200 maintenance tasks.
+number of tasks and a general increase of the intervals. Thanks to the A350 XWB’s
+design innovations and to the maintenance programme philosophy approach,
+extended commonality, By extracting the corresponding training objectives and focusing on the ‘need to
+analysis results show a reduction of about 45% for scheduled maintenance
+know’, the A350 XWB course duration was reduced by 20% compared to initial
+man-hours, over a 12 year heavy maintenance visit cycle.
+same family approach. estimates based on previous aircraft experience. The A350 XWB mechanics/
+avionics full Type Rating course takes eight weeks. A specific two-day course on
+In addition to the reduction of man-hours required, the A350 XWB maintenance
+new technologies has been designed to bridge the gap with previous generation
+programme provides increased aircraft availabilities extending the periods between
+aircraft to start cross qualification.
+‘high ground time’ tasks. For example, the A350 XWB’s cabin floor structure
+design and its selected new materials have permitted increasing the inspection
+The new Airbus-developed A350 XWB ACT trainer includes an interactive virtual
+interval for the tasks which necessitate the removal of the toilets and galleys,
+aircraft and a virtual cockpit. It will allow both theory (with animated system
+from 6 years to 12 years.
+descriptions) and practice of troubleshooting and maintenance tasks.
+Based on optimized simulation scenarios, this light, versatile concept runs on
+Another major contribution to the aircraft availability is the capability to schedule
+a laptop, making it available at airline facilities.
+an A-check light maintenance at 1,200 FH (Flight Hours).
+Moreover, those tasks are quick and easy to perform and depending on the
+Successful and proven Airbus structure courses will now include A350 XWB
+operator’s decision to schedule those tasks, they may be done during their
+composite material specificities for both theoretical and practical training,
+standard weekly maintenance, achieving an even higher A-check interval.
+and the different modules will integrate perfectly into each stage of the damage
+By the end of this year, Airbus will organize a set of maintenance working group
+assessment and repair workflow. Courses will be available on site, supported
+meetings to perform a final review with the customers and the aviation authorities,
+by training kits for practical exercises, and in different training centres,
+to update the analysis dossiers in the frame of the finalisation of the MRB report
+and in Airbus training centres.
+for the approval scheduled mid-2014.
+Virtual Aircraft Walk Around
+maintenance training software
+takes you directly to the part
+Radio Frequency The A350 XWB is the
+world’s first commercial
+IDentification aircraft to enter into service
+with permanent RFID tags.
+technology
+The A350 XWB makes extensive use
+(RFID)
+of this technology. Over 2,000 avionics,
+systems and cabin parts are delivered
+by suppliers with Radio Frequency
+IDentification (RFID) tags attached.
+RFID technology allows remote reading
+and writing of component data from
+a handheld device. This provides
+significant maintenance benefits,
+such as a quicker and more reliable
+management of part information.
+The large quantity of memory incorpo-
+rated in each RFID tag allows storage
+of the complete detailed history of the
+part to which it is attached.
+This high-memory RFID technology,
+pioneered and developed by Airbus,
+is now an industry standard (read FAST
+magazine No 47). TSAF
+34
+Airline operations A350 XWB
+TSAF
+44
+TSAF
+54
+Customer involvement A350 XWB
+COS events
+Customer
+2010 2011 2012 2013 2014 2015
+• Technical data • Airport operations • e-Operations • Maintenence • Maintenance • Maintenance
+involvement • Maintenance • Maintenance • Cabin crew & engineering & engineering & engineering
+operations • Structure
+• e-Operations • Technical data
+• Powerplant • Powerplant
+• Maintenance
+& extended (jointly with COS themes
+• e-Operations mechanical -1000 CFG)
+Technical data, powerplant
+A joint approach from design • Training systems • Avionics flight operations, ground operations,
+& simulation perimeter & electrics
+to in-service operations cabin maintenance and structure
+• Powerplant
+Customer involvement is key to a programme’s success. • Flight deck
+& flight ops
+That is why Airbus decided to involve customers in a joint
+approach to the A350 XWB’s development from the early
+The Airline Office
+stages of the programme design to in-service operations.
+The suppliers have been systematically involved in collective
+Alberto GRANDE
+Launched in March 2011, the Airline Office has brought customers’ operational expertise into the A350 XWB programme
+reviews with our customers, as this integrated approach Airline Operations
+and contributed to the development, verification and optimisation of Airbus Customer Services deliverables.
+Readiness Manager
+was essential to a successful Entry-Into-Service.
+AIRBUS
+Team members from Cathay Pacific, Finnair, Qatar Airways, TAP Portugal, United Airlines and US Airways include launch
+customers with varying size orders and types of operations. Working together at the A350 XWB central plateau in Toulouse,
+France, the team members remain connected to their respective airlines and proudly represent the community of A350 XWB
+customers.
+Between 2007 and 2010, a series of Customer Focus Groups joined the contribution of 180 people from potential
+customers’ companies to the design definition.
+The Airline Office aims at optimizing the operability of the aircraft and the support deliverables, bringing customers’ operational
+expertise into the A350 XWB development teams. For instance, it ensures that complexity, time-consumption or costs are kept
+Then, to continue collective reviews while focusing on the optimisation of the future operations and the preparation of the EIS
+to a minimum for airlines in terms of technical activities such as maintenance, repairs or cabin operations. Its role is also to
+of the A350 XWB, Airbus introduced the Customer Operations Seminar (COS), opened the full-time Toulouse-based Airline
+prepare and ease airlines’ aircraft EIS, favouring commonality with the A330 and A380 where appropriate and recommending
+Office (France), started the Extended Airline Office remote collaboration forum and lately, defined the generic roadmap
+innovation where possible. The main objectives for 2013 are to continue supporting operational test campaigns, to continue
+for bilateral discussions.
+preparing an A350-900 mature EIS in 2014, and to contribute to the A350-1000 development.
+COS are conducted with clear objectives of both customer and Airbus readiness, anticipation of in-service programme issues
+and mitigation plans through a proactive collaboration.
+A win-win situation for both the A350 XWB programme and its customers, the Airline Office corresponds perfectly with Airbus’
+innovative ways of working. Customers carrying out in-depth work on the product before delivery, bringing valuable skills and
+Customer expertise on a wide range of topics and giving Airbus employees a constructive insight of real life operations. This new relation-
+ship has entailed a real change of mindset both from customers and Airbus employees.
+Bilateral: Operations
+Quotes from Airline Office representatives:
+Joint Airbus and customer adjusted
+Seminars
+EIS preparation.
+Airline Office:
+Customer Operation Seminars (COS) are a communication channel with the global
+Currently six airline representatives A350 XWB community (customers, suppliers and Airbus teams). The main objective is
+embedded in the A350 XWB consistent and transparent communication for sharing general information, engag- “...a very valuable project “...gaining a clear “...when we help to find a solution “...our responsibility
+programme teams. ing customers in optimizing future aircraft operations and paving the way to EIS. for airlines since we are understanding which adds no cost or weight to the aircraft is to see EIS issues
+Held regularly since late 2010, 14 COS have gathered different groups of airline close to the source of the end-to-end, there is a great feeling of accomplishment, before they arise and
+Extended Airline Office: representatives depending on the operational domain (maintenance & engineering, and we can get all the design, production and we know that we have helped then help to envision
+Online participation of selected ground & flight operations, technical data, training, powerplant, e-operations, necessary information and maturity the A350 XWB become solutions”
+airline customers together cabin operations, etc). to prepare for EIS” process” an even better aircraft”
+with the Airline Office through
+a collaborative platform, As a result, more than 500 participants from 34 airlines as well as
+representing the community participants from 16 different suppliers exchanged with Airbus specialists their
+of airline customers. operational expertise. Field visits are organized ahead of the presented domain The Extended Airline Office
+to have a full scale view.
+Customer Operations Seminars:
+Communication channel with the For example, the ‘Structure’ COS held in February 2013, provided an update on At the request of several customers, Airbus is extending and complementing customer contribution to the A350 XWB by
+global A350 XWB community, in-service composite structure management: damage assessment, non-destructive means of the A350 XWB Extended Airline Office. This will be a collaborative and interactive forum for sharing operational
+per airline operations domain. testing, repairs, painting, training, etc. In particular, customers had the opportunity expertise with the off-site participation of a selected number of additional A350 XWB customer airlines, together with the
+General information to engage to use the first prototype tool for damage assessment by line mechanics, which sup- six current members of the A350 XWB Airline Office.
+the customers in optimizing future plied valuable feedback for Airbus. The customers appreciated the visit to the major Mainly focused on the maintenance, engineering and flight operations’ domains, it will focus on the anticipation of potential
+aircraft operations and paving static test of the A350 XWB (MSN5000) integrated in its impressive test facilities. in-service issues and the final development, verification and optimization of the support deliverables.
+the way to EIS.
+FAST
+from the PAST
+There wouldn’t be any future
+without the experience of the past.
+Planning for the future
+We never stop asking ourselves
+‘How can we design this better?’
+As technology evolves new solutions become
+available to make the flying experience, more
+comfortable, more profitable, more reliable,
+cleaner, quieter and above-all safer.
+But as much as our customers appreciate
+these ongoing improvements they will eventually
+expect more.
+At Airbus we’re well aware that today’s innovation
+is tomorrow’s ‘old hat’ !
+TSAF
+64
+baL
+otohP
+tseT
+thgilF
+subriA
+eht
+fo
+ysetruoC
+TSAF
+74
+Airbus Customer Services
+Around the clock... around the world
+More than 240 field representatives based in over 110 cities
+WORLDWIDE TECHNICAL, MATERIAL & LOGISTICS TRAINING CENTRES
+Tel: +33 (0)5 6719 1980 Airbus Technical AOG Centre (AIRTAC) Airbus Training Centre
+Fax: +33 (0)5 6193 1818 Tel: +33 (0)5 6193 3400 Toulouse, France
+Fax:+33 (0)5 6193 3500 Tel: +33 (0)5 6193 3333
+USA/CANADA
+airtac@airbus.com Fax: +33 (0)5 6193 2094
+Tel: +1 703 834 3484
+Spares AOG/Work Stoppage Airbus Maintenance
+Fax: +1 703 834 3464
+• Outside the Americas: Training Centre
+CHINA Tel: +49 (0)40 5076 4001 Hamburg, Germany
+Fax: +49 (0)40 5076 4011 Tel: +49 (0)40 7438 8288
+Tel: +86 10 8048 6161 Ext. 5020
+aog.spares@airbus.com Fax: +49 (0)40 7438 8588
+Fax: +86 10 8048 6162
+• In the Americas:
+Airbus Training Centre Americas
+FIELD SERVICE SUPPORT Tel: +1 70 3729 9000
+Miami, Florida - U.S.A.
+ADMINISTRATION Fax: +1 70 3729 4373
+Tel: +1 305 871 3655
+aog.na@airbus.com
+Tel: +33 (0)5 6719 0413
+Fax: +1 305 871 4649
+Fax: +33 (0)5 6193 4964
+Spares In-Flight orders outside the Americas:
+Tel: +49 (0)40 5076 4002
+Fax: +49 (0)40 5076 4012
+ifd.spares@airbus.com
+Spares related HMV issues outside the Americas:
+Tel: +49 (0)40 5076 4003
+Fax: +49 (0)40 5076 4013
+hmv.spares@airbus.com
+Spares RTN/USR orders in the Americas:
+Please contact your dedicated customer spares
+account representative csr.na@airbus.com
+Efficiency now has a shape
+13h00 - 13th May 2013
+Roll-out of the A350 XWB
+MSN001
+www.airbus.com
+skramedart
+deretsiger
+era
+seman
+tcudorp
+eht
+dna
+ogol
+sti
+,subriA

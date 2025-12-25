@@ -1,0 +1,1957 @@
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+5
+4
+T
+S
+A
+F
+FAST
+45
+D E C E M B E R 2 0 0 9
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+JD UE LC YE M 2B 0E 0R 7 2 0 0 9
+4405
+F L I G H T
+A I R W O R T H I N E S S
+S U P P O R T
+T E C H N O L O G Y
+Introducingmoreeco-efficient
+chemicaltreatmentsforaircraftstructure
+Towardsachromate-freeAirbus
+FrançoisMUSEUX
+RalfTHEILMANN
+AirbusnewAutoPilot/FlightDirector
+TCASmode
+Publisher:BrunoPIQUET
+EnhancingflightsafetyduringTCASmanoeuvres
+Editor:LucasBLUMENFELD
+PauleBOTARGUES
+Pagelayout:Quat’coul
+Cover: A320FamilyAir&Bleed
+PartssuspendedonracksafterTSAanodizing
+workinggroupactivities
+(courtesyofAEROLIAFRANCE)
+PhotobyChromoOuest Fromengineeringtoairlineculture
+AuthorizationforreprintofFASTmagazinearticlesshouldberequested GillesJUAN
+fromtheeditorattheFASTmagazinee-mailaddressgivenbelow
+ClaireAMSELLEM
+CustomerServicesCommunications
+Tel:+33(0)561934388
+Fax:+33(0)561934773 A300-600ExtendedServiceGoal
+e-mail:fast.magazine@airbus.com
+Printer:Amadio Enablinglongerlastingoperation
+AndréDELANNOY
+FASTmagazinemaybereadonInternet
+http://www.airbus.com/en/services/publications/ Jean-MichelPASCUAL
+ISSN1293-5476
+A300
+©AIRBUSS.A.S.2009.ANEADSCOMPANY
+Allrightsreserved.Proprietarydocument Firstroll-out
+Bytakingdeliveryofthismagazine(hereafter“magazine”),youacceptonbehalfof
+yourcompanytocomplywiththefollowing.Nootherpropertyrightsaregrantedbythe CustomerServices
+deliveryofthismagazinethantherighttoreadit,forthesolepurposeofinformation.
+This magazine, its content, illustrations and photos shall not be modified nor Events
+reproducedwithoutpriorwrittenconsentofAirbusS.A.S.Thismagazineandthe
+materialsitcontainsshallnot,inwholeorinpart,besold,rented,orlicensedtoany
+CustomerServicesWorldwide
+thirdpartysubjecttopaymentornot.Thismagazinemaycontainmarket-sensitiveor
+otherinformationthatiscorrectatthetimeofgoingtopress.Thisinformationinvolves Aroundtheclock...Aroundtheworld
+a number of factors which could change over time, affecting the true public
+representation.Airbusassumesnoobligationtoupdateanyinformationcontainedin
+thisdocumentorwithrespecttotheinformationdescribedherein.Thestatements
+madehereindonotconstituteanofferorformpartofanycontract.Theyarebasedon
+Airbusinformationandareexpressedingoodfaithbutnowarrantyorrepresentation
+isgivenastotheiraccuracy.Whenadditionalinformationisrequired,AirbusS.A.Scan
+becontactedtoprovidefurtherdetails.AirbusS.A.Sshallassumenoliabilityforany
+damageinconnectionwiththeuseofthismagazineandthematerialsitcontains,even
+ifAirbusS.A.Shasbeenadvisedofthelikelihoodofsuchdamages.Thislicenceis
+governedbyFrenchlawandexclusivejurisdictionisgiventothecourtsandtribunalsof
+Toulouse(France)withoutprejudicetotherightofAirbustobringproceedingsfor
+infringementofcopyrightoranyotherintellectualpropertyrightinanyothercourtof
+competentjurisdiction.
+Airbus,itslogo,A300,A310,A318,A319,A320,A321,A330,
+A340,A350,A380andA400Mareregisteredtrademarks.
+E
+N
+I
+Z
+A
+G
+A
+M
+L
+A
+C
+I
+N
+H
+C
+E
+T
+S
+U
+B
+R
+I
+A
+54TSAF
+2
+10
+16
+22
+31
+32
+33
+ThisissueofFASTmagazinehasbeenprinted
+onpaperproducedwithoutusingchlorine,toreduce
+PhotocopyrightAirbus
+Photocredits: wasteandhelpconservenaturalresources.
+AirbusPhotographicLibrary,exmcompany,AirbusOperationsS.A.S. Everylittlehelps!
+1
+54TSAF
+MOREECO-EFFICIENTCHEMICALTREATMENTSFORAIRCRAFTSTRUCTURE-TOWARDSACHROMATE-FREEAIRBUS
+Introducing
+more eco-efficient
+chemical treatments for
+aircraft structure
+Towards a chromate-free Airbus
+The future of the aircraft industry’s impact on the anticipatingthefutureregulatoryframeworkatthe
+environmentisparamounttoAirbus,continuously earliest possible stage in design, rather than
+searching for more eco-efficient values, from the implementing reactive solutions, has proved to be
+firststepofthedesignandthroughouttheaircraft’s the most appropriate response to the various
+entire life cycle (see figure 1). Airbus integrated growing environmental challenges. Therefore,
+eco-efficiencyvaluesintoitscorestrategyandwas Airbus has launched initiatives to progressively
+the first aeronautical company to obtain the ISO replacethemosthazardoussubstancesandproces-
+14001 environmental certification for all its ses.ThisarticleintroducestheAirbusroadmapfor
+European Union (EU) manufacturing sites and replacing chromate containing materials and pro-
+product related activities. Proactive approach, cesseswithmoreenvironmentallyfriendlyones.
+FrançoisMUSEUX RalfTHEILMANN
+Expert ACFProjectManager
+MaterialsandTechnologies EngineeringStructure
+AirbusCustomerServices MaterialsandProcesses
+AirbusEngineering
+2
+54TSAF
+MOREECO-EFFICIENTCHEMICALTREATMENTSFORAIRCRAFTSTRUCTURE-TOWARDSACHROMATE-FREEAIRBUS
+Aircraftlifecycle
+figure1
+Inventingnewbestpractices
+todisassembleandrecycle
+end-of-life Investinginresearchto
+design
+aircraft
+cleaneraircraft
+Optimizing
+aircraftoperations
+Managingthe
+andmaintenanceforenhanced supplychain
+environmentalperformance
+forasharedvision
+ofenvironmental
+responsibility
+n o t e s
+Mitigatingtheimpactof
+manufacturing
+ontheenvironmentthanks Chromiumisachemical
+tocleanertechnologies
+elementthathasthesymbolCr
+andprocesses
+andatomicnumber24.Itis
+asteely-grey,lustrous,hardmetal
+Chromate usage
+thattakesahighpolishandhas
+ahighmeltingpoint.Thename
+Among a number of initiatives in chromium trioxide, zinc and po- oftheelementisderivedfrom
+thatrespect,theAirbusChromate- tassiumchromate),areoftenfound theGreekword‘chroma’meaning
+Free (ACF) project aims to innumerousprocessessuchas: colour;manyofitscompounds
+progressively develop new eco- •Surfacetreatmentapplications: beingintenselycoloured.
+efficient alternatives to all appli- -Chromicacidanodising,
+cations and processes using -Acidicetching(pickling), Hexavalentchromiumrefers
+chromates(seefigure2)andoffer -Conversioncoatings, tochemicalcompoundsthat
+these new solutions widely, -Hardchromeplating. containtheelementchromium
+bringing an overall benefit •Paintingandbondingprocesses: inthe+6oxidationstate.Usually
+throughout the life cycle of the -Externalandinternalpainting, suchcompoundsarechromium
+aircraft,includingformaintenance -Bondingprimer, trioxideorthechromicacid
+operations. -Sealants. ordichromicacid.Chromatesalts
+•Andotheradditional haveayellowishcolour,
+The ACF project involves all applications: dichromatesaltsareorange.
+stakeholders and the milestones -Electricalandelectronic ChromiumVIcompounds
+for elimination of chromates. applications. areasynonymforChromium
+Comprehensive research studies Hexavalent:Cr(VI).
+have been conducted for years. The hazardous properties of these
+The ACF project was initiated in substances and the resultant
+2006 to ensure that mature regulatory pressure for repla-
+alternative options and technical cement have recently reinforced ACFroadmap
+solutions be available for all theneedtoreplacethemwithless
+Airbus programmes without hazardoussubstances.
+compromising technical perfor-
+figure2
+manceandquality.
+F
+ch
+o
+r
+r
+om
+ov
+iu
+e
+m
+r 50
+has
+yea
+b
+r
+e
+s
+e
+,
+n
+he
+u
+x
+s
+a
+e
+v
+d
+ale
+a
+n
+s
+t decrease
+corrosion-inhibiting compounds
+ofchrom
+with the protection of metallic atesuse
+surfaces as one of its most
+important applications. Thanks to
+chromates, the protection was
+ensured for the 30-year aircraft
+lifespan without compromising
+flight safety, even in extremely
+severe conditions. Chromates
+2006 2007 2008 2009 2010 2011
+(such as strontium chromate,
+3
+54TSAF
+MOREECO-EFFICIENTCHEMICALTREATMENTSFORAIRCRAFTSTRUCTURE-TOWARDSACHROMATE-FREEAIRBUS
+The main They are already subject to a
+formal ban under the European
+regulatory
+Directive 2002/95/EC so called
+framework RoHS (Restriction of Hazardous
+Substances) for electronic and
+Numerous regulations in various electrical equipment, even if on-
+countries and regions now strictly boardequipmentistodayexcluded
+restrict the use, production, fromthescopeofRoHS.Stringent
+storage, elimination or marketing occupational health and safety
+ofchromates. requirements also regulate expo-
+suretothesechemicals.Chromates
+In Europe, most of the chromates are already banned within the
+are considered as highly automotivesector.
+hazardous, with very high con-
+cerns according to the newly Since 2006, the new Occupational
+adopted REACH* European Safety and Health Administration
+regulation (EC n°1907/2006). (OSHA*) regulation introduced in
+Chromate compounds will the USA regarding hexavalent
+certainly be subject to formal and chromium, has considerably low-
+time limited authorization for ered the Permissible Exposure
+further use (sodium chromate has Limit(PEL)forairborneexposure
+recently been introduced in the inducingverystrictcontrolsofthe
+REACH* candidate list by the exposuretothischemical.
+EuropeanChemicalsAgency).
+i n f o r m a t i o n
+*REACH (Registration, *OSHA
+Evaluation,Authorisation (Occupational Safety
+and restriction and Health Administration)
+of Chemicals TheUnitedStatesOSHAisanagency
+- EC n°1907/2006) oftheUnitedStatesDepartment
+Thisnewregulationaimstoimprove ofLabor.Itsmissionistoprevent
+healthandenvironmentprotection work-relatedinjuries,illnesses,
+whilemaintainingcompetitiveness,and anddeathsbyissuingandenforcing
+enhancingtheinnovativecapabilityof rules(calledstandards)forworkplace
+theEUchemicalsindustry.REACHwill safetyandhealth.
+furthermoregivegreaterresponsibility Cal/OSHAregulation:
+toindustrytomanagetherisksfrom http://www.dir.ca.gov/
+chemicalsandtoprovidesafety OSHAwebsite:
+informationthatwillbepassed http://www.osha.gov/index.html
+downthesupplychain. http://www.osha.gov/SLTC/
+REACHwebsite: hexavalentchromium/index.html
+http://ec.europa.eu/environment/chemi OSHAHexavalentChromium:
+cals/reach/reach_intro.htm http://www.osha.gov/SLTC/
+AirbusREACHguidelines: hexavalentchromium/index.html
+http://www.airbus.com/en/corporate/
+ethics/environment/
+4
+54TSAF
+MOREECO-EFFICIENTCHEMICALTREATMENTSFORAIRCRAFTSTRUCTURE-TOWARDSACHROMATE-FREEAIRBUS
+Towards
+ApplicationsorTechnologies Thestatusisreflectingmainlyresearchand
+elimination
+developmentactivities-qualificationand
+industrializationtimeframesaredepending
+of chromates:
+onthesubjectandarecurrentlyunderplanning.
+The Airbus
+PicklingofAluminium Chromate-freesolutionalreadyinusesince2006:
+Chromate-Free ChromicAcidAnodising(CAA) •ForcorrosionprotectionTartaricSulphuricAcid(TSA)anodising
+hasbeenalreadyimplementedasthenewstandardinseveral
+(ACF) project Airbusplantsandisbeingsuccessfullydeployed
+withinthesupplychain,
+•PhosphoricSulphuricAcid(PSA)anodisingaspre-treatmentprior
+Airbus, jointly with all concerned tostructuralmetalbondingisreadyforqualificationbyAirbus.
+stakeholders, is introducing new ChemicalConversionCoating(CCC) Chromiumtrivalentbasedproductshavebeenidentified
+asthemostpromisingtechnologytoreplace
+chromate-free applications, while
+currentchromium-loadedCCCprocesses.
+maintaining compliance with
+Basicprimer Toensuretheintegrityoftheaircraft,structuralprimer
+applicable regulations and imple- Bondingprimer andbondingprimerhavechallengingrequirements
+menting the most efficient forlong-termstability.Majorimprovementshavebeenachieved
+measurestocontrolemissionsand overthelast2-4years.
+Externalpaint Chromate-freeexternalpaintsystemsweredevelopedforA380
+protect against exposure to
+applicationandarealreadystate-of-the-artforexternalpaint
+chromates. Actions are also
+intheaerospaceindustry.
+managingthetransitionforaircraft Picklingofsteel Chromate-freepicklingprocessisavailabletoensurecorrosion
+maintenance operations to be resistanceforausteniticandmartensiticsteel,including
+made during the complete life themostsensitiveabove0.8%carbon.
+Hard-chromereplacement Severalcoatingsareavailabletoreplacehard-chrome.
+cycle of all existing fleets in full
+Afirstbatchofpartsisclosetoimplementationinproduction.
+compliancewithregulations.
+Sealantsandjointingcompounds Chromate-freeproductsareavailableandcurrentlytestedunder
+operationalconditions.Airbusqualificationisfinalized.
+GENERALOVERVIEWOFACF Fastenercoatings Abatchofalternativesolutionsisunderscreeningtoidentify
+thebestperformingsolution.Technicalmaturity(selection
+ACFisorganizedinseveraltopics ofthebestcandidate)isexpectedbeginningof2010.
+Systemitems Airbuswithstakeholdersisanalysingstandardpartsandequipment
+for the different fields of
+toevaluatepossiblesubstitutionsolutions.
+technologies (applications or
+technologies) concerned by the
+replacement. An overview of the
+different ACF topics and their
+current status is given in the right
+handsidetable.
+Airbusiscoveringallthedifferent Breakdownofpartswithchromate
+perapplicationortechnology
+applications, with a special focus
+figure3
+on those with the highest
+percentage of chromates, which 11%% 3311%% CAAreplacement
+are used in production or applied CCCreplacement
+on the aircraft. The main topics 222%%% Basicprimer
+ChromateAcidAnodising(CAA), 31%%% Bondingprimer
+basic primer and external paints, Externalpaints
+represent approximately 90% of 222%%%% 333333%%%% Otherstopics
+chromate use within Airbus as
+showninfigure3.
+The following describes CAA,
+basic primer and external paints
+with their current status in details
+andtheeffortnecessarytodevelop
+alternativesolutions.
+5
+54TSAF
+MOREECO-EFFICIENTCHEMICALTREATMENTSFORAIRCRAFTSTRUCTURE-TOWARDSACHROMATE-FREEAIRBUS
+Surfacetreatmentbaths-figure4 TSAtreatedparts-figure5
+CHROMICACIDANODISING surface treatment prior to appli-
+Keytechnicalrequirements (CAA)REPLACEMENT cation of a corrosion-inhibiting
+foranodisingprocesses primer.
+The Chromic Acid Anodising
+figure6 process will result in the The PSA process is similar to the
+electrochemical growth of an CAA and TSA process with a
+aluminium oxide/hydroxide layer modified morphology specific for
+byinteractionofacleanaluminium bondingapplications.
+Corrosion
+surface with a chromic acid based
+immersion bath and an applied The main managed properties are
+voltage between the parts and a corrosion resistance, paint adhe-
+suitablecathode. sion, fatigue, and quality of the
+Morphology
+coating.
+Filmthickness Fatigue
+The oxide layer produced by the
+process has a good corrosion As shown in figure 6, the key
+resistance when sealed or primed, technical requirement for the
+Adhesion
+providing a good paint and anodising processes of aluminium
+adhesive adhesion in unsealed isabalancebetweenthreecriteria:
+conditions. •Theadhesionwitha
+homogeneousporosity,
+Within Airbus Chromate-Free, •Thecorrosionresistance
+Airbus developed two alternative dependingontheporosity,
+processesofthealuminiumsurface •Thefatigueproperties.
+treatment:
+•TSA-TartaricSulphuricacid ThemorphologyofTSA,CAAand
+Anodisingforcorrosion PSA surfaces are pointed out on
+protection, figure8.
+•PSA-PhosphoricSulphuricacid
+Anodisingforstructural Fatigue properties are a generic
+bonding. requirement for structural alumi-
+nium parts. As already known
+TSA and CAA are similar for CAA the anodising and/or
+processes. They are an elec- relevant pre-treatment processes
+trochemical process used for both reduce the fatigue performance
+generating an aluminium oxide in comparison to non-treated
+layer for corrosion protection and aluminiumparts.
+6
+7
+54TSAF
+MOREECO-EFFICIENTCHEMICALTREATMENTSFORAIRCRAFTSTRUCTURE-TOWARDSACHROMATE-FREEAIRBUS
+It is important that replacement requirements, and their perfor-
+processes will have similar or mance compared to CAA are as
+better fatigue performances when follows:
+tested to compare to today’s
+standardCAA.Thefatigueperfor- •Racking:
+mance of TSA and PSA has been Theprocedureisequivalentto
+tested and showed equivalence to CAA.
+CAA(seefigure7).
+•Tankmaterials:
+A further requirement was the TheTSA/PSAprocesscanbe
+morphologyshowninfigure8.The runinthesameinstallationsas
+morphologyofbothanodicfilmsis CAAwithonlyminor
+a regularly structured open porous modifications.Tankandpiping
+aluminium-oxide, which is produ- materials(includinglining)shall
+cedbytheprocessandprovidesthe beresistanttophosphoricand
+protectionrequired. sulphuricacid(normallythecase
+forCAAbaths).Residualsof
+The table below shows the CAAdonotjeopardize
+parameters investigated during the TSA/PSAperformance.
+process development phase. In
+comparison to CAA, the TSA or •Fungalcontamination:
+PSAprocesshasareducedprocess TheTSA/PSAelectrolytesare
+timeandanodisingtemperature. lesstoxicthanCAAandfungus
+This leads to an improvement in growthinthetreatmentline
+eco-efficiency by decreasing time cannotbeexcluded.The
+andenergyconsumptionandoffers installationofpreventive
+acapacityincrease. measures(e.g.filters,UV-lamps)
+Manufacturing needs forTSA and isrecommended.
+PSA were also one of the main
+CAA TSA PSA Without
+NumberofcyclesN
+CAA PSA TSA
+Filmthickness 3…5micromillimetre 1…5micromillimetre 3…5micromillimetre
+Temperature 40°C 28…32°C 37…43°C
+Processtime 45min 20…25min 20…25min
+Voltage 40Vor21V 15….20V 13…15V
+7
+)aPM(a
+edutilpmassertS
+MorphologycomparisonofTSA,
+CAAandPSA
+figure8
+TSA
+CAA
+PSA
+Fatiguestrengthtest
+(comparisonofCAA,TSAandPSA)
+figure7
+54TSAF
+MOREECO-EFFICIENTCHEMICALTREATMENTSFORAIRCRAFTSTRUCTURE-TOWARDSACHROMATE-FREEAIRBUS
+BASICPRIMER
+Structuralbasic
+protectionsystem
+A common effort betweenAirbus
+figure9 and its paint suppliers has led to
+significant progress in the struc-
+tural protection system in the last
+two years. This topic has the
+highest priority in the Airbus
+Internaltopcoat
+Basicprimer Chromate-Freeproject.
+TSA
+To ensure integrity of the aircraft
+structure, structural primer has
+Structuralprimer+anodising(TSA)=basicprotection
+challengingrequirementsforlong-
+termstability.Itisplannedtohave
+Internaltopcoat Anodising(TSA) chromate-free basic primer
+Basicprimer Aluminiumalloy productsreadyforqualificationby
+theendof2010.
+Thestructuralprotectionsystemis
+dividedintobasicprotectionanda
+Externalpaintsystem
+topcoat. The basic protection is
+oncustomizedarea
+performed with TSA and a basic
+primer(figure9).
+figure10
+EXTERNALPAINT
+The external paint is applied on
+Externaltopcoat
+thebasicprotection.chromate-free
+external paint systems were
+Intermediatecoat developed and qualified forA380
+Externalprimer
+application and are already state-
+of-the-art in the aerospace
+industry.
+The new Airbus technique brings
+Externaltopcoat Externalprimer
+Intermediatecoat(optional) additional environmental benefits
+duetotheuseoflesssolventsand
+fewer coats.This technique which
+issimilartotheoneusedinthecar
+8
+54TSAF
+MOREECO-EFFICIENTCHEMICALTREATMENTSFORAIRCRAFTSTRUCTURE-TOWARDSACHROMATE-FREEAIRBUS
+industry, requires just two coats Airbus is applying the most
+with dramatically reduced paint modern and best eco-efficient
+volumes, and drying times down techniques for its aircraft painting
+from12totwohours. process better than the Best
+A colour coat and a clear coat or available REFerence Technologies
+varnish, are applied onto a (BREF) defined under the
+chromate-freeprimer. European Integrated Pollution
+Prevention and Control (IPPC)
+The process also reduces the directive
+amount of repainting and cleaning (http://eippcb.jrc.ec.europa.eu/).
+required during the lifetime of in-
+serviceaircraft
+(http://www.airbus.com/en/
+presscentre/pressreleases/
+pressreleases_items/07_12_14
+_eco_efficient_painting.html).
+CONTACTDETAILS
+FrançoisMUSEUX RalfTHEILMANN
+Expert ACFProjectManager
+MaterialsandTechnologies EngineeringStructure
+AirbusCustomerServices MaterialsandProcesses
+Tel:+33(0)562118063 AirbusEngineering
+francois.museux@airbus.com Tel:+49(42)15383621
+ralf.theilmann@airbus.com
+Conclusion
+Airbusapproachtointroducemore trackeitherintheproductionprocesses
+eco-efficientchemicalsandprocesses ortheproductinvolved.
+ispartofitscommitmenttoenvironmental Thankstomajorinvestmentsand
+protectionandsustainabilityasa mobilisationofallstakeholders,any
+responsibleleadingindustry.Airbus relevantactionsandnecessaryefforts
+believesthatresearchandimplementation toachieveitsfinalgoaltodeliver
+ofmoreenvironmentallyfriendlyoptions acompletelyChromeVIfreeaircraft
+arenotonlybetterfortheenvironment willbeundertakenthroughthisambitious
+itselfbutmustbeseenasareal ACFproject.
+opportunitytobringadditionalvalues
+tocompanies,andadditional Airbuswillofferallnewlydeveloped
+characteristicsfortheproducts chromate-freematerialsandprocesses
+wedelivertoourcustomers. toitssuppliers,progressively
+Asignificantsteptowardschromate-free assoonasqualified.Informationaswell
+hasbeenachievedwiththereplacement asrequiredsupportarebeingconsidered
+ofChromiumVIforsurfacetreatment tohelpthesupplychaintotakeallactions
+applications:Usingthenewdeveloped forasuccessfulimplementationwithin
+TSA/PSAprocesses,ChromiumVIcould theirownfacilities.
+bealreadyreducedbyapproximately
+30%.Thissolutionoffersanimprovement Alldecidedreplacementswouldbe
+ineco-efficiencybydecreasingtime implementedforallaircraftandspares
+andenergyconsumptionandmayoffer tobedelivered.FortheA350XWBrelevant
+capacityincrease. solutionswillbetakenintoaccountfor
+thenewdesignasappropriate.Asfurther
+Takingintoaccounttheresultsalready progresswillbemade,Airbuswillregularly
+implementedofanother30%reduction informthecustomercommunityofthese
+fortheexternalpaints,Airbushasreduced throughanyrelevantCustomerServices
+theuseofhexavalentchromiumby publicationandwebsite
+approximately60%(seefigure3).Airbus (http://www.airbus.com/en/corporate/ethic
+roadmaptoeliminateChromeVIison s/environment/eco-news/).
+9
+AIRBUSNEWAUTOPILOT/FLIGHTDIRECTORTCASMODE-ENHANCINGFLIGHTSAFETYDURINGTCASMANOEUVRES
+54TSAF
+Airbus new
+Auto Pilot/Flight
+DirectorTCAS mode
+Enhancing flight safety
+during TCAS manoeuvres
+The ‘Traffic Alert and Collision Avoidance (ATC), therefore jeopardizing the aircraft and its
+System’-knownas‘TCAS’hasbeenintroducedin passengers’safety. In a context of continuous in-
+the90storeducetherisksassociatedwithmid-air crease of traffic, the new proposed Airbus Auto
+collisionthreats.Todaythissafetygoalhasglobally Pilot/FlightDirector(AP/FD)TCASmodeaimsat
+been reached. However, in-service feedback significantlyenhancingsafetybysupportingpilots
+showed that surprise and stress induced byTCAS to fly avoidance manoeuvres requested byTCAS.
+Resolution Advisories (RA) may lead to non- After a short reminder on the TCAS operations
+optimumcrewresponse,resultinginundueaircraft beforeAP/FDTCASmodedeployment,thisarticle
+altitude deviations, injuries in the cabin, lack of willpresenttheAP/FDTCASmodeconceptandits
+proper communication with Air Traffic Control numerousexpectedbenefits.
+PauleBOTARGUES
+AP/FDTCASProjectLeader
+AutoFlightSystemResearch&Development
+Multi-ProgrammeProjectLeader
+FlightControl&AutomaticFlightControlsystems
+10
+54TSAF
+AIRBUSNEWAUTOPILOT/FLIGHTDIRECTORTCASMODE-ENHANCINGFLIGHTSAFETYDURINGTCASMANOEUVRES
+Reminder on
+n o t e s
+TCAS operations
+TCAS system
+before AP/FD
+The‘TrafficAlertandCollision thatanaircraft’sdistanceorclosure
+TCAS mode
+AvoidanceSystem’(TCAS) ratebecomescritical,itgenerates
+deployment isdesignedtoscanfor,detect, auralandvisualannunciations
+andinterrogatethetransponders forthepilots.Since2000,TCAS
+ofotheraircraftinthenearby ismandatoryonallaircrafttypes
+TRAFFICADVISORY(TA)
+airspacevicinity.WhenTCASdetects whichcarrymorethan30passengers.
+When the TCAS considers an
+aircraft to be a potential threat, it
+generates a first level of alert
+calledTrafficAdvisory (TA).This NavigationDisplayincaseofTCASTA
+advisory aims at alerting pilots on
+criticalintruder’sposition.TAsare
+indicatedtothecrewby:
+•Anauralmessage:“Traffic,
+Traffic”,
+•Specificambercuesonthe
+NavigationDisplay,which
+highlightthecriticalintruder’s
+position.
+Nospecificactionisexpectedfrom
+thecrewfollowingaTA.
+RESOLUTIONADVISORY(RA)
+If the risk of collision becomes
+more critical, theTCAS triggers a
+stronger level of alert called
+Resolution Advisory (RA), which
+proposes a vertical avoidance
+TCASRAPrimaryFlightDisplay(PFD)
+manoeuvre (in most cases a TA withoutAP/FDTCASmode
+willbetriggeredpriortoaRA).
+AResolutionAdvisoryisindicated
+Redareaindicatingtheforbiddenverticalspeeddomain
+tothepilotsby:
+•Anauralmessagespecifying
+thetypeofverticalmanoeuvre
+toperform(“Climb”,“Descent”,
+“Maintain”,“Adjust”,
+“Monitor”,etc.),
+•Greenandredzonesonthe
+VerticalSpeedIndicator(VSI)
+"AdjustV/S,
+materializingthe‘fly-to’and
+adjust"
+‘forbidden’verticalspeedareas,
+•Specificredcuesonthe
+NavigationDisplaymaterializing
+thethreataircraft.
+In order to fly the avoidance
+manoeuvrerequiredbytheRA,the
+pilot has to disconnect both the
+Auto Pilot (AP) and Flight
+Directors (FD), and to adjust the This unfamiliar flying technique
+pitchattitudeoftheaircraftsoasto increases the stress level already
+reach the proper Vertical Speed induced by the triggering of the
+(V/S)indicatedontheVSI. ResolutionAdvisory.
+11
+AIRBUSNEWAUTOPILOT/FLIGHTDIRECTORTCASMODE-ENHANCINGFLIGHTSAFETYDURINGTCASMANOEUVRES
+54TSAF
+AP/FD TCAS •IfbothAPandFDareOFF,
+theFDbarswillautomatically
+mode concept
+reappearwithTCASmode
+guidingasabove.
+The AP/FD TCAS mode concept
+was born following an in-depth Depending on the kind of alert
+analysis of needs expressed by triggeredbytheTCAS,theAP/FD
+airlinepilots,humanfactorstudies TCAS mode will have the
+linked to the TCAS system and followingbehaviour:
+recommendationsgivenbyairwor-
+thiness authorities, which high- •IncaseofTrafficAdvisory(TA),
+lighted the relevance of a new theAP/FDTCASmodeis
+means to support pilots flying automaticallyarmed,inorder
+TCASRA. tobringcrewawarenessonthe
+The new AP/FD TCAS mode TCASmodeengagementifthe
+completes the existing TCAS TAwouldturnintoanRA.
+functionality by implementing a
+TCAS vertical guidance feature •IncaseofcorrectiveRA
+intotheAutoFlightcomputer.This (“CLIMB”,“DESCEND”,
+new mode controls the Vertical “ADJUST”,etc.auralalerts),the
+Speed (V/S) of the aircraft on a aircraftverticalspeedisinitially
+vertical speed target - acquired withintheredVSIzone.The
+fromTCAS-adaptedtoeachRA. requirementisthentoflyoutof
+•WiththeAutoPilot(AP) thisredzonetoreachtheboundary
+engaged,itallowsthepilottofly ofthered/greenV/Szone.
+theTCASRAmanoeuvre Consequently:
+n o t e s automatically, -TheTCASverticalmode
+•WiththeAPdisengaged,the engages.Itensuresavertical
+pilotcanmanuallyflytheTCAS guidancetoaverticalspeed
+Atanytime,thecrewkeeps
+RAmanoeuvrebyfollowingthe targetequaltothered/green
+thecapabilitytodisconnect
+FlightDirector(FD)pitchbar boundaryvalueonVSI(to
+theAPandtheFD,torespond
+guidance. minimizealtitudedeviation)
+manuallytotheRAbyflying
+±200ft/minwithinthegreen
+accordingtothe‘conventional’
+It has to be considered as an add- verticalspeedzone,with
+TCASprocedure(i.e.manually
+on to the existing TCAS features apitchauthorityincreased
+controllingtheverticalspeed
+(traffic on Navigation Display, upto0.3gloadfactor,
+byreferringtoTCASindications
+aural alerts, vertical speed green -Allpreviouslyarmedvertical
+ontheverticalspeedscale).
+/redzonesmaterializingtheRAon modesareautomatically
+theVerticalSpeedIndicator). disarmed,exceptthealtitude
+capturemode(ALT*)when
+IncaseofaTCASRA,theAP/FD thealtitudecaptureiscompliant
+TCAS mode will automatically withtheRA(i.e.when0ft/mn
+trigger: isnotwithintheredVSIzone,
+•IfbothAPandFDareengaged, asfor‘ADJUSTV/S’RA).In
+theAP/FDverticalmodereverts thosecases,ifthealtitude
+toTCASmode,whichprovides captureconditionsaremet
+thenecessaryguidanceforthe whileinTCASmode,
+APtoautomaticallyflythe itwillallowsafelycapturing
+TCASmanoeuvre, thetargetedflightlevel
+•IftheAPisdisengagedandFD (seefigurepage14-Safe
+areengaged,theTCASmode altitudecapturewithAP/FD
+automaticallyengagesasthe TCASmode),
+newFDguidance.TheFD -TheAutoThrustengages
+pitchbarprovidesan inspeedcontrolmode
+unambiguousordertothepilot, (SPEED/MACH)toensure
+whosimplyhastocentrethe asafespeedduring
+pitchbar,tobringtheV/S themanoeuvre,
+oftheaircraftontheV/Starget -Thecurrentlateraltrajectory
+(greenzone), ismaintained.
+12
+54TSAF
+AIRBUSNEWAUTOPILOT/FLIGHTDIRECTORTCASMODE-ENHANCINGFLIGHTSAFETYDURINGTCASMANOEUVRES
+•IncaseofpreventiveRA •Onceclearofconflict,vertical
+(e.g.“MONITORV/S”aural navigationisresumedasfollows:
+alert),theaircraftverticalspeed -TheAP/FDverticalmode
+isinitiallyoutoftheredVSI revertstotheverticalspeed
+zone.Therequirementisthento (V/S)mode,withasmooth
+maintainthecurrentvertical verticalspeedtargettowards
+speed. theFlightControlUnit(FCU)
+Consequently: targetaltitude.TheALT
+-TheTCASverticalmode (altitude)modeisarmed
+engagestomaintainthesafe toreachtheFCUtarget
+currentaircraftverticalspeed altitude(AirTrafficControl
+target, clearedaltitude),
+-Allpreviouslyarmedvertical -Ifanaltitudecaptureoccurred
+modesareautomatically inthecourseofaTCASRA
+disarmed,exceptthealtitude event,once‘clearofconflict’,
+capturemode(ALT*). theAP/FDverticalmode
+Indeed,levelling-offduring revertstothealtitudecapture
+apreventiveRAwillalways mode(ALT*)ortothealtitude
+maintaintheverticalspeed holdmode(ALT),
+outsideoftheredVSIarea. -thecurrentlateraltrajectory
+So,ifthealtitudecapture ismaintained.
+conditionsaremetwhilethe
+TCASmodeisengaged,itwill PFDuponacorrectiveTCASRAwithAP/FDTCASmode
+allowtosafelycapturethe
+targetedlevel,thuspreventing
+anunduealtitudeexcursion,
+-TheAutoThrustengages
+inspeedcontrolmode
+(SPEED/MACH)toensure
+asafespeedduringthe
+manoeuvre,
+"AdjustV/S,
+-Thecurrentlateraltrajectory adjust"
+ismaintained.
+FlightModeAnnunciatorandVerticalSpeedIndicator Clearof
+duringaTCASsequencewithAP/FDTCASmode Adjust conflict
+V/S
+Traffic Climb
+Traffic Climb
+ALTCRZ ALTCRZ TCAS TCAS V/S-1000
+ALT
+TCAS
+0 0 0 0 0 0 0
+13
+AIRBUSNEWAUTOPILOT/FLIGHTDIRECTORTCASMODE-ENHANCINGFLIGHTSAFETYDURINGTCASMANOEUVRES
+54TSAF
+Operational and techniquewhenaRAis
+received.Indeedthepilot
+safety benefits
+nolongerneedstodisengage
+theAutoPilotorFlightDirectors
+OPERATIONALBENEFITS beforeconductingtheTCAS
+manoeuvres.
+The operational benefits of the WhentheTCASmodeengages,
+AP/FD TCAS mode solution are theproceduresimplyconsistsin
+numerous. The system addresses lettingtheAutoPilotconductthe
+most of the concerns raised by in- avoidancemanoeuvre(ifAuto
+lineexperiencefeedbacksuchas: Pilotengaged)orinmanual
+•Itprovidesanunambiguous flyingtheFDbars,which
+flyingordertothepilot, smoothlyguidesontheproper
+•Theflyingorderisadjustedto verticalspeedtarget.TheVSI
+theseverityoftheRA;itthus becominginbothcasesa
+reducestherisksofoverreaction ‘monitoring’device,itallows
+bythecrew,minimizesthe checkingthattheproposed
+deviationsfromtrajectories TCASguidanceproperlyleadsor
+n o t e s
+initiallyclearedbyAirTraffic maintainstheaircraft’svertical
+Control(ATC)-preventingthe speedoutsidetheredVSIzone.
+ForAirTrafficControllers(ATC) riskofanewRAtriggeredwith
+theAP/FDTCASmode anotheraircraftandadaptsthe By reducing the crew’s workload
+istotallytransparentinterms loadfactorofthemanoeuvre, and stress level, theAP/FDTCAS
+ofexpectedaircraftreactions. •Itpreventsunduealtitude modeshouldthereforesignificantly
+crossingwhenaltitudecapture reduce:
+iscompliantwiththeRA •Inappropriatereactionsincase
+(seefigurebelow), ofRA(late,over,oropposite
+•TheavailabilityoftheAP/FD reactions),
+TCASmodemakesitpossible •Misbehaviourswhen‘clearof
+todefinesimpleprocedures conflict’,
+fortheaircrews,eliminatingany •Lackofadequatecommunications
+disruptionintheirflying withATC.
+Safealtitudecapture
+withAP/FDTCASmode
+FL270
+Clearof
+Safetymarginincreased conflict
+FL260(selectedlevel)
+AdjustV/S ALT*
+TCAS
+ALT
+0
+Traffic TCAS Sub-modeALT*
+Traffic ALT
+0 0
+CLB
+ALT
+TCAS
+CLB TCASmodeinitiallyreducestheV/S
+ALT andthencapturestheALTlevelselected
+14
+15
+54TSAF
+AIRBUSNEWAUTOPILOT/FLIGHTDIRECTORTCASMODE-ENHANCINGFLIGHTSAFETYDURINGTCASMANOEUVRES
+SAFETYBENEFITS forforwardfit)oneveryaircraft
+oftheEuropeanairspace.
+To assess the safety benefits •Fromanaircraftperspective,
+carriedbytheAP/FDTCASmode, conclusionsarethataircraft
+Airbus requested Egis-Avia/ equippedwiththeAP/FDTCAS
+Sofreavia specialists (experts in modefunctionwillhaveamuch
+charge of safety performance lesserriskofcollisionthan
+assessment of Airborne Collision aircraftnotequippedwith
+Avoidance System - ACAS) to theAP/FDTCASmode:Their
+perform a safety performance safetywillbeincreasedbymore
+analysis using the same methods thanafactor‘2’.
+and tools that supported previous
+ACASstudiesinEurope. Certification
+schedule
+Based on the encounter model
+methodology,thegoalofthisstudy
+was to assess the effects of the The newAP/FDTCAS mode was
+introduction of the AP/FD TCAS approved and certified by the
+mode function in the European European Aviation Safety Agency
+airspace, both from a global (EASA) for operations on the
+airspace perspective and from a A380inAugust2009.
+fittedaircraftperspective.
+The discussion with the Federal
+The conclusions of this safety Aviation Authority (FAA) is in
+study are thatAP/FDTCAS mode progress.
+will significantly improve the
+safetyintheEuropeanairspace: TheAP/FDTCAS mode will also
+•Fromaglobalairspace become available for retrofit on
+perspective,withanassumption other Airbus Fly-By-Wire aircraft
+of7%ofaircraftequipped inthecomingmonths.Airbusfleet
+withtheAP/FDTCASfunction certification of the AP/FD TCAS
+only,theexpectedbenefits modefunctionisexpected:
+areequivalenttothebenefits •OntheA320Familyfromend
+expectedwiththefull 2010toend2011,depending
+deploymentofthefuture ontheaircrafttype, CONTACTDETAILS
+improvedTCASIIversion7.1 •OntheA330/A340Familyfrom
+PauleBOTARGUES
+(thetargetistohaveevery September2010toend2011,
+AP/FDTCASProjectLeader
+equipmentcertifiedby2012 dependingontheaircrafttype. AutoFlightSystemResearch
+&Development
+Multi-ProgrammeProjectLeader
+FlightControl&Automatic
+FlightControlsystems
+Tel:+33(0)561187451
+Fax:+33(0)561939410
+Conclusion paule.botargues@airbus.com
+WiththeAP/FDTCASmode,Airbus functionalityduringthedevelopment
+hasreachedanewstepimprovingflight phase:Itwasperceivedasaverysimple
+safety.Byprovidingpromptandaccurate andintuitivesolution,fullyconsistent
+responsestoTCASalertsituations, withtheAirbuscockpitandAutoFlight
+thankstotheAutoPilotortotheFlight systemphilosophy,anddefinitively
+Director,thisnewsystemwillallow deemedasamajorsafetyimprovement.
+significantsafetybenefitstotheaircraft
+anditspassengers. Thefirstofalonglistofaircraftequipped
+Numerousairlinepilotswereoffered withAP/FDTCASmodehasjusttakenoff
+theopportunitytotestthisnewAirbus lastNovember2009.
+15
+A320FAMILYAIR&BLEEDWORKINGGROUPACTIVITIES-FROMENGINEERINGTOAIRLINECULTURE
+54TSAF
+A320 Family
+Air & Bleed working
+group activities
+From engineering to airline culture
+Thebleedairandtheairconditioningsystemsare quantify the returns on their investments, and
+among the drivers of Operational Interruptions aboveall,theabilitytoassesstheimpacts.Thanks
+(OI). Improving their respective reliability totheseworkinggroups,theairlinesarenowable
+performances was the A320 Family main issue to use economic assessments fromAirbus based
+priority set by the operators to Airbus. This on rates of OI as a decision tool for solution
+objective was achieved thanks to the 3D concept selections. This clearly shows the Airbus move
+“Discuss, Decide, Deliver” and to the associated fromanengineeringculturetoanairlineculture.
+“worktogether”whichinvolvedsuppliers,Airbus Thefollowingarticledescribestheworkachievedto
+and the aircraft operators (including aircraft select the best solutions and describes what has
+maintenance). The discussion was expected to beenlearntfromthisverypragmatic,innovativeand
+onlybetechnicalbutitquicklyappearedthatthe collaborative approach praised by Airbus
+paramount need of the airlines was the ability to operators.
+GillesJUAN ClaireAMSELLEM
+GroupManager Engineer
+AirConditioningSystems/Engineering Pneumatics,IceandFire
+AirbusCustomerServices ProtectionSystems
+AirbusCustomerServices
+16
+54TSAF
+A320FAMILYAIR&BLEEDWORKINGGROUPACTIVITIES-FROMENGINEERINGTOAIRLINECULTURE
+AirConditioningSystemdescription
+g l o s s a r y
+Bleed air system
+Forthepressureregulation:
+Toaircraftsystems
+description IPCV:IntermediatePressurebleed
+BMC CheckValve(IPCV)
+OVERBOARD Temp HPV:HighPressurebleedValve
+The bleed air system gets air from PCE TCTTLT OPV:OverPressureValve
+the pneumatic air sources (aircraft
+OPV FAV PRV:PressureRegulatorbleedValve
+engines, Auxiliary Power Unit TOSTARTER
+VALVE commandedbyaTLT(Temperature
+APU and ground air source) and
+LimitationThermostat)
+supplies the air regulated in pylon
+Nacelle
+pressure and temperature through
+PRV Forthetemperatureregulation:
+ductstotheusersystems(wingice
+PCE:Pre-CoolerExchanger
+protection,airconditioning,engine IPCV HPV FAV:FanAirValve
+starting, hydraulic reservoir
+FAN commandedbyaTCT(Temperature
+pressurization and pressurized
+HP ControlThermostat)
+IP
+water). The bleed air system is
+installedinthenacelleandpylonof
+Forthesystemmonitoring:
+eachengineasdecribedinfigure1.
+BMC:BleedMonitoringComputer
+figure1
+17
+A320FAMILYAIR&BLEEDWORKINGGROUPACTIVITIES-FROMENGINEERINGTOAIRLINECULTURE
+The reason for Engineering
+these working culture versus
+group activities airline culture for
+a better OI trend
+The air conditioning system
+(ATA21) and the bleed air system
+With an engineering approach,
+(ATA36) are subject to a high
+eachtimeanin-serviceissuearises
+number of Operational Inter-
+and requires an improvement, the
+ruptions(OI).
+necessary engineering work aims
+at proposing the best technical
+An OI is a technical delay that is
+solution. Some of the key
+greaterthan15minutes.Itincludes
+questions such as “What is the
+flight diversions, in-flight turn
+cost?”, “What are the real
+backsandabortedtake-offs.
+benefits?”thatanairlinewillhave
+Since theA320 Family Entry-Into-
+are not fully answered. Many
+Servicein1988,manyeffortshave
+solutions which would help to
+beenmadeandthebenefitsofnew
+improve the systems’ reliability
+technologies have been taken into
+performancesarethennotselected
+considerationtodesignmorerobust
+by the airlines. Time and money
+and simplified systems. This is
+are spent by Airbus and the
+reflectedinthepositiveOItrendat
+suppliersforpoorbenefits.
+aircraft level, but can still be
+improved at some systems’ level
+A ‘working together’ approach
+which was the purpose of the
+which encompasses all aspects
+workinggroup.
+(technical, economical, etc.) has
+been required to satisfy all of the
+involved parties and it is presently
+Workinggroupactivities what this working group has
+highlighted.
+Working process
+Workinggroup
+The first innovation consisted in
+Airbuscost involving aircraft operators, more
+benefitmodel than ever, in the setting of the
+working group objectives, as well
+as defining and validating the
+performanceobjectives.
+Solutions, An important step was the
+reviewand acknowledgement that improving
+selection
+EFFECTIVENESS
+the systems’performance was not
+COST
+BENEFITS
+only a matter of upgrading the
+system components, under the
+PERFORMANCE
+suppliers’ responsibility, but also
+improving the system integration
+ATTRACTIVENESS
+in the aircraft, under Airbus
+NO
+Solutions leadership, in the manner the
+available YES systemisoperatedandmaintained
+ATA21 SOLUTIONS by the aircraft operators. It was
+ATA36
+NOTSELECTED soon understood that sharing
+experience and combining efforts
+SOLUTIONS
+of the three main stakeholders
+SELECTED
+(airlines,suppliersandAirbus)was
+akeyconditionofsuccess. 54TSAF
+18
+A320FAMILYAIR&BLEEDWORKINGGROUPACTIVITIES-FROMENGINEERINGTOAIRLINECULTURE
+Theworkinggroupapproach:
+Decide Deliver
+Thethreemainsteps
+(or resolution phase): (or implementation phase):
+Itconsistsindetaileddiscussions Itconsistsinprogressiveembodiment
+andinthesharingofexperience ofthesolutionsinthefleet
+leadingtotheidentification andthereportofearlybenefits.
+oftheimprovementsolutions. ThisphaseinvolvedAirbusand/or
+•Whichsolutions? Liebherrvisitstoindividualoperators
+Toanswertheconcerns,several andallowedsharingresultsvia
+solutionshavebeenproposed theA320FAIR-ISP(ForumforAirline
+suchasanAirbusmodification, IssuesResolution-In-Service
+apreventivemaintenancetask, Problems)webforum,accessible
+atrouble-shootingtask, on-linetoalltheA320Family
+Discuss
+anoperationalprocedure,etc. operators(alldeliverables
+•Howwerethesolutions oftheworkinggroupcanalsobe
+(or scoping phase):
+validated? consultedintheFAIR-ISPforum
+Itconsistsinidentifyingthekey Tovalidatethesolutions,itwas onAirbusWorld).
+issuestoberesolvedand requiredtohavetheanswerto
+theperformanceimprovement thefollowingquestions:
+objectives.Thiswasdonewith 1-“Isiteffective?”
+theuseofaquestionnaire 2-“Doesitreducethenumber
+andthevalidationofthescope ofOIandwhatarethe
+intheinitialface-to-face benefits?” i n f o r m a t i o n
+workshopheldinToulouseinApril 3-“Whatisthecost?”
+Typical bleed failure
+2008.Twoadditionalworkshops
+wereconductedwiththe Byansweringthesequestions,the scenario
+participationofmorethan30 workinggroupparticipantswere Thedualbleedlosseventsusually
+worldwideoperators,withthe thenabletoratethesolutionsand happenwhenonebleedfails,resulting
+mainsystemsupplier(Liebherr), onlythebestratedoneshave intheremainingbleedontheother
+aswellasteleconference/web- beenselected,takingalsointo enginetocompensateforit.
+exchangesessionsincludingup accountthesolutionswhich Theaugmentedflowofwarmairfrom
+to10operatorspercall. broughtsignificantreductioninOI. theenginecoreleadstoacorrespond-
+ingincreaseintheflowofcoldair
+fromtheFantothePre-Cooler
+Exchanger(PCE).Incaseofoneengine
+bleedloss,theremainingbleedfails
+whentheFanAirValve(FAV)doesnot
+letenoughcoldairreachthePCE.
+Thiscausesthetemperaturedown-
+streamofthePCEtoreachthe260°C
+(500°F)over-temperaturethreshold,
+whichinducestheautomaticclosure
+ofthebleedsystem.Thisexcessive
+riseintemperatureiscausedmainly
+byeither:
+•LeakageoftheTemperatureControl
+Thermostat(TCT)toFAVsenseline,
+•TCTdrift/failure,
+•OrFAVleakage/failure.
+Note:In-serviceexperiencehasshown
+thattherootcauseofover-
+temperatureisoftenlinked
+toacombinationoftheabovefactors.
+Otherpossiblecausesare:
+•Temperaturesensorfailure,
+•Wiringfailure. 54TSAF
+19
+A320FAMILYAIR&BLEEDWORKINGGROUPACTIVITIES-FROMENGINEERINGTOAIRLINECULTURE
+54TSAF
+Solutions selected
+The solutions selected by the •Airbusdocumentation,
+working group fall into four main •Operationalprocedure.
+categories:
+•Airbusmodification, SOMEEXAMPLESOFSELECTED
+•Componentspreventive SOLUTIONS:
+maintenance,
+1 2 3 4
+Aircraft Operational Preventive Airbus
+modification procedure maintenance documentation
+Solution
+TAPRVpressure AEVCcircuit FCV751series Preventive
+tappingportmodification breakerprocedure overhaul/softime bleedsystemhealthcheck
+monitoringprocedure
+OIgain%
+2 2to3 2 10
+(ROM)
+Presenceofwater AVNCSSYSFAULT Requestfor Procedure
+insidethevalve onground preventivemaintenance toanticipatebleed
+duetowater withoutfailuremessage toanticipate failureinorderto
+Rootcause
+accumulation duringelectrical FCVfailure performpreventive
+intotheduct. powertransfer maintenance
+Valvecannotopen
+Inabilitytoregulate Aircraftreturntogate Iffailurebefore Aircraftreturntogate
+anoptimizedcabin fortrouble-shooting take-offdeactivation fortrouble-shooting
+Consequence temperature toallow ofthevalve toallowaircraftdispatch
+withpossibilityof aircraftdispatch inclosedposition Operationalrestrictions
+passengersdiscomfort fornextflight
+Modificationdeveloped C/Bresetfromcockpit Differentintervalsfor AMMandTSMtasks
+1
+byoneoperatorand asperFCOMtoavoid preventivemaintenance fordetailedtesting
+Modification proveneffective.Modification aircraftreturntogate. definedwithassociated ofeachcomponent
+contents ofthetappingporttoavoid Procedureonlyapplicable benefits.Choicegiven oftheEBASincluding
+valvewateringress onground toselectthemost thesenselinesfor
+appropriateinterval minorleakage
+Liquidwater
+g l o s s a r y
+AEVC:AvionicsEquipmentVentilationController FCV:FlowControlValve
+AVNCSSYSFAULT:AvionicsSystemFault OI:OperationalInterruption
+AMM:AircraftMaintenanceManual ROM:RoughOrderofMagnitude
+C/B:CircuitBreaker TAPRV:TrimAirPressureRegulatingValve
+EBAS:EngineBleedAirSystem TSM:Trouble-ShootingManual
+FCOM:FlightCrewOperationManual
+20
+21
+54TSAF
+A320FAMILYAIR&BLEEDWORKINGGROUPACTIVITIES-FROMENGINEERINGTOAIRLINECULTURE
+Bleedairsystempackages
+Achievements
+OperationalInterruptions
+and deliverables reductionlevel ATA36configuration1
+(fleetaverage) (MSNbelow#900)
+70
+Third significant innovation was HIGH
+64.5%
+theideaofpackagingthesolutions. 60
+Thiswasdonefortworeasons. Newbleed
+system
+Thefirstreasonistechnical:Some 50
+solutions complement each other 42% MEDIUMHIGH
+40
+and embodying them all at once HPVandPRV
+scheduled
+provides more benefits than with 30 MEDIUMLOW maintenance
+29.7%
+thesimplesumofeachsolution.
+HPVsolenoidchange,Bleedsystemtraining
+The second reason is all about 20
+Healthcheck monitoring
+decisionmaking:The‘Air&Bleed LOW
+13.7%
+10
+Working Group’ packages are PRVupgrade,PRVgraphiteseals,HPVupgrade,PRVgraphiteseals,
+TARGET
+definedinsuchwaythatoperators TCTupgrade(DBL),TLTshifting(DBL),Maintenanceprocedures
+can decide for a small effort and
+Lessthan1year Between2to4years Morethan5years
+canhopeareasonableperformance
+improvementwithashortpayback PAYBACKPERIOD
+period, or they can go for a larger
+PRV:PressureRegulatingValve
+effort and expect a greater MASTER provides ‘Top Fleet HPV:HighPressureValve
+performance improvement with a Solutions’ that increase aircraft TCT:TemperatureControlThermostat
+longer ‘payback’ period (see availability and reduce operating TLT:TemperatureLimitationThermostat
+DBL:DualBleedLoss
+packagesinchart). costs. These MASTER solutions
+are:
+Lessons learnt •Technicallyproven:
+Demonstratedbyactual
+and added value
+in-serviceexperience,
+•Economicallyefficient:
+Before the launch of the working Demonstratedthroughacost
+group, activities were already benefitmodelwithapayback
+running between airlines and periodoflessthanfiveyears,
+Airbustofindthepropermeansto •Widelyapplicable:
+inform about the cost and the Embodimentpossibleonalarge
+benefitsofagivensolution. numberofaircraft. CONTACTDETAILS
+‘WISE Main Adopted Solutions
+GillesJUAN
+and Tips’, also called MASTER,
+GroupManager
+has been developed and is now
+AirConditioning
+available to the airlines through Systems/Engineering
+AirbusWorld. AirbusCustomerServices
+Tel:+33(0)552110290
+Fax:+33(0)561934425
+gilles.juan@airbus.com
+Conclusion
+ToreducethenumberofOperational ofsolutionsforagivenoperator.
+Interruptions(OI)causedbybleedair Allindividualsolutionsaredocumented
+andairconditioningsystems,solution (SIL21-152andSIL36-057)andAirbus
+packagesareproposedtakinginto hasthecapabilitytoperformcustomized
+accounttechnicalandeconomic computationofthecost/benefitresults
+embodimentdecisiondata.Thishasbeen foreachindividualsituation,uponrequest.
+achievedthankstothecombination Thesepositiveresultshaveledcustomers
+ofaninnovativewayofworkingaltogether torequestAirbustolaunchsimilar
+withairlines,suppliersandAirbus,while initiativesinotheraircraftareas.Working
+implementinganinnovativeapproach groupsonATA27(FlightControls)
+toin-serviceissues.Theworkinggroup andATA29(Hydraulics)weresuchas
+packagesallowindividualcustomization launchedinDecember2009.
+21
+A300-600EXTENDEDSERVICEGOAL-ENABLINGLONGERLASTINGOPERATION
+54TSAF
+A300-600
+Extended Service Goal
+Enabling longer lasting operation
+Commercial aircraft design is defined such that Validity (LOV) represents the only limitation for
+with proper maintenance, the operational service aircraft operations. In the late 1990s, it became
+life of the aircraft is not limited. For design and obvious that A300 - B2 and B4, A300-600 and
+certification, a Design Service Goal (DSG) is A310 aircraft were going to reach the original
+defined in Flight Cycles (FC) and Flight Hours DSG within the following years. Consequently,
+(FH) such as it will reflect the expected average Airbus launched the Extended Service Goal
+utilization of the aircraft model over 20 years of (ESG) study which aimed at extending the
+normalairlineservice.TheDSGisnotalifelimit initially defined LOV of the Maintenance
+butonlyareferencefordesignandcertification. Programme to cover the evolution of the
+ItisAirbuspolicytolimitthevalidityoftheinitial A300/A310Familyfleet.
+Maintenance Programme to the DSG. Since the This article describes howAirbus has integrated
+aircraft is only allowed to operate with an theESGstudyresultsfortheA300-600passenger
+approvedMaintenanceProgramme,thisLimitOf version,coveringbothstructuresandsystems.
+AndréDELANNOY Jean-MichelPASCUAL
+Part1:Structures Part2:Systems
+ManagerDesignandAnalysis DeputyHeadofSystems
+A300/A310&A330/A340Families A300/A310FamilyProgramme
+Programmes/CoCStructure AirbusEngineering
+AirbusEngineering
+22
+54TSAF
+22
+A300-600EXTENDEDSERVICEGOAL-ENABLINGLONGERLASTINGOPERATION
+Part 1: Structures
+Initialspectra
+SSERTS
+TIME
+54TSAF
+BASICAIRCRAFTSTRUCTUREDESIGN
+ANDCERTIFICATION
+Forcertification,extensiveFatigue
+and Damage Tolerance (F&DT)
+analysis supported by testing are
+performed to substantiate the
+structure. The F&DT analysis
+consists in demonstrating that the
+designobjectivesaremetincluding
+onadequatescatterfactors.
+Thisrequiresto:
+•Defineagoal,calledbyAirbus
+theDesignServiceGoal(DSG),
+•Determinetheflight-by-flight
+spectra:Fatigueloadsand
+spectraforoccurrence
+distributionsareprescribedin
+termsofflightandground
+manoeuvres,andatmospheric
+gustsandturbulences.Anumber
+offlightprofilesaredetermined
+torepresentthevariousspectra
+expectedin-servicecombined
+withdifferentflightlengths. •Supporttheanalysisbytesting:
+Thoseloads,combinedwiththe FromcoupontoFullScale
+cabinpressure,reflectarealistic FatigueTest(FSFT),ahugeset
+loadingoftheairframefor ofdataisgatheredtosupport
+severaltypesofground/air/ theF&DTanalysis.These
+groundcycles.Fromthose differenttypesoftesting
+profiles,atypicalspectra canbeexpressed
+expectedin-serviceisusedto intermsofpyramid
+establishthebasisoftheanalysis ofteststovalidate
+conductedforcertification, maindesign
+•Evaluatethedamagingeffectof principles
+thosefatigueloadsandspectra, andto
+calculatedthroughtheF&DT validate
+analysis:Theinternalstress theinternal
+distributionsduetothefatigue stress
+loadsandtypicalspectraare distribution.
+calculatedusingFiniteElement Residual A300FiniteElementModels
+Models(FEM)analysismethods. strengthtests
+FromtheFEMoutputs,detailed arealsoperformedby
+F&DTanalysesareperformed introducingdifferenttypes
+forthecompleteaircraft ofrealisticdamages,either
+structurejustification.Tobeable attheendofthefatiguetests,
+toconsidervariationofthose ormainlyinthestatictest
+loadsandspectra,comparatively specimen,
+tothetypicalspectra,asetof •DefinetheappropriateFSFT
+parametricstudiesisconducted loadingsequencesbyusingthe
+forthevarioussignificant setofflightprofilesrepresenting
+parameters(range,centreof thevariousfatigueloadsand
+gravity,payload,fuelatlanding, spectraexpectedinservice
+etc.), combinedwithinternalpressure.
+23
+54TSAF
+A300-600EXTENDEDSERVICEGOAL-ENABLINGLONGERLASTINGOPERATION
+FatigueandDamageTolerance F&DT analysis ensures that the
+(F&DT)tests’objectivesareto: anticipated service life can
+•ValidatetheF&DTanalysis reasonablybeattained,andthatthe
+conducted, structure has a good level of
+•Showthatthedesignobjectives damage tolerance in terms of
+aremetbasedonadequate damage propagation and residual
+scatterfactors, strength. The above approach,
+•Earlyidentifyweakpoints supporting the initial F&DT
+intheprimarystructure,hence analysiswithacompletesetofFull
+determineassoonaspossible Scale Fatigue Tests (FSFT) on a
+correctiveactionsonproduction representative ‘structure’ under
+andin-serviceaircraft,before realistic flight-by-flight loading,
+theyappearinservice, allows implementing a reliable
+•Validateinspectionmethods structureMaintenanceProgramme.
+thatareproposedinthe
+MaintenanceProgramme, INITIAL MAINTENANCE PROGRAMME
+•Validaterepairsolutions. DEFINITION
+Pyramidoftests 1/FATIGUEANDACCIDENTAL
+DAMAGE
+Based on the above analysis
+supported by tests, appropriate
+FullScaleTests Full maintenanceactionsaredefinedin
+Tovalidateinternalstressdistribution ScaleTest the initial Maintenance Program-
+me, approved by Airworthiness
+Authorities,toensurethatanytype
+ofdamageinitiatedintheairframe
+due to whatever reasons are
+Details/Elements-Tests Details/
+detected and repaired before they
+Tovalidatemaindesignprinciples ElementsTests
+becomecritical.
+All the items that need an action
+CouponTests
+Todeterminematerialallowables before the Design Service Goal
+CouponTests
+andproperties (DSG),orthatarelifelimited(safe
+lifeitemslikelandinggears)-and
+in that case that have a limit
+beyond which the part must be
+replaced-arelistedintheAirwor-
+thinessLimitationSections(ALS).
+A300FullScaleFatigueTests.
+It is Airbus policy to limit the
+Simulatedflights
+validity of the initial Mainte-
+nance Programme to the DSG
+(LOV=DSG).
+2/CORROSION
+EF2:96000flights*
+Corrosion is monitored by
+scheduled maintenance actions.
+EF3:106000flights*
+Those actions are recorded in the
+Corrosion Prevention and Control
+Programme (CPCP). On the
+contraryofthefatiguetaskswhich
+EF1:135000flights are driven by the number of
+FC/FH,thecorrosionrelatedtasks
+EF4:140000flights
+aretimedependant.Theaimofthe
+*additionalpressuresimulated
+CPCP is to control the level of
+EF=EssaisFatigue/FatigueTests
+corrosioninthefleettonotexceed
+24
+54TSAF
+A300-600EXTENDEDSERVICEGOAL-ENABLINGLONGERLASTINGOPERATION
+an‘acceptablelevel’.TheCPCPis
+i n f o r m a t i o n
+thusregularlyadaptedtothefleet’s
+needs and findings, using regular Regulation requirements
+in-service surveys. In case of
+(Fatigue & Damage Tolerance - F&DT)
+significant corrosion findings,
+appropriate instructions are defi- TheJAR/FAR25.571Amendment54 OnetypicalexampleistheAAWG
+ned: thatintroducedthedamagetolerance (AirworthinessAssuranceWorking
+•Repairs-aimedatresumingthe principles,wasnotapplicable Group).Amajorstructuralaccident
+structureoriginalstrengthlevel, fortheA300certification.However, triggeredtheindustryworkinggroup
+•Modifications-toimprove thedesignandthedefinition toreviewtheWidespreadFatigue
+thecorrosionresistanceinorder oftheMaintenanceProgrammehave Damage(WFD)andcrackturning
+toreducetheriskoffuture beenbasedonthedamagetolerance phenomena.
+findings. principlessincethebeginning.Due Therecommendationscomingout
+tothis,Airbusobtainedfrom oftheseactivitieswereintegratedin
+THEEXTENDEDSERVICEGOAL(ESG) AirworthinessAuthoritiesthevalidation Airbusapproachassoonasavailable,
+ofthisamendment’scompliance evenbeforebecomingmandatory.
+As the Airbus fleet grows in age, forA300-600aircraft. Morerecently,theFAA(FederalAviation
+Airbus prepares ageing aircraft FollowingtheissueofF&DT Authority)requested‘DamageTolerance
+activitiestoensurethattherespec- requirements,severalinitiativeswere DataforRepairsandAlterations’,
+tive Maintenance Programmes are launchedbytherulemakingauthorities effectivesince11January2008,
+validated beyond DSG before the toreviewandupdatetherequirements, toenforcemanufacturerssupporting
+leadaircraftreachesit. inordertoproperlyincorporate operatorsinshowingcompliance
+availableexperience(in-serviceevents, totheAASR(AgeingAircraft
+ESG study does not impact on the incidentsoraccidents) SafetyRule).
+F&DTcertification,butESGstudy intotheapplicableF&DTapproach.
+consists in re-validating and upda-
+ting the approved Maintenance Weight (LW), centre of gravity
+Programme, and when necessary, positions, etc. The review of the
+defining additional maintenance utilization may also lead to the
+actions taking into account in- update of the Maintenance Pro-
+service and test experiences, to gramme. For efficiency reasons,
+ensureitsvaliditybeyondtheDSG. both, fleet surveys inputs and the
+extension of LOV study, are done
+Such actions are typical concurrently.
+inspectionsthatbecameapplicable The voluntary consideration of
+aftertheinitial‘LOV=DSG’orare Widespread Fatigue Damage
+terminating maintenance actions (WFD) recommended methods
+(modifications) to reduce the may also lead to revise and add
+inspection burden.This covers the maintenance requirements. As for
+F&DT and Accidental Damages the initialType Certification (TC), Teardownprogramme
+inspections. The CPCP does not the revised F&DT analysis is forA300MSN008
+needtobereviewedintheframeof supported by the extensive
+the ESG, because it is time experimentalinformationresulting
+dependant and already regularly from the A300/A310 Family test
+adapted to the fleet’s needs and pyramid(FSFTA300andA310).It
+findings. is supplemented by additional
+To ensure that the fatigue mission informationon:
+assumptions are conservatively •In-serviceevents,
+covering real fleet usage, fleet •Moreaccurateteardownofthe
+surveys(onaflight-by-flightbasis) initialFullScaleFatigueTest,
+are necessary to gather possible •Additionaltesting.
+usageevolutionforthewholefleet. On top, alternate means may also
+The aim of this regular exercise is be necessary to support or refine
+to check, and if necessary, update theanalysisinspecificareaslike:
+the considered ‘typical loading •Teardownofanagedaircraft
+spectraexpectedinservice’. (orpartsofit),
+Typical parameters considered are: •Additionalone-timeinspections
+flighttime,payload,fuelquantities, ofaircraftreachingtheLOV,
+Take-Off Weight (TOW), Landing •DetailedFiniteElementModels.
+25
+UPS:UnitedParcelServices-FDX:FederalExpress-GF:GeneralFreighter *ESG
+54TSAF
+A300-600EXTENDEDSERVICEGOAL-ENABLINGLONGERLASTINGOPERATION
+Centresectionteardown-example:Landinggearattachment
+For operations beyond the Design All these life extension activities
+Service Goal (DSG), Airbus conducted on the various
+committedtodemonstrate: A300/A310 Family models allo-
+•Thecontinuousvalidityofthe wed to increase the Limit of
+MaintenanceProgramme, Validity (LOV) of the certified
+•ThatWidespreadFatigue Maintenance Programmes beyond
+Damage(WFD)isnotexpected theinitialDSG.
+tooccur,followingthe
+recommendationsofthe ESG2 activity has been launched
+AirworthinessAssurance fortheA300-600passengermodel
+WorkingGroup(AAWG)and topreservefleetoperationsbeyond
+draftNPA20-10/AC91-56B,and 2011. It aims at extending the
+inanticipationofregulatory currentLOVto1000FC/89000FH.
+texts. Existing F&DT analysis, FSFT
+tear down findings, additional
+The first Extended Service Goal testing and tear down of retired
+(ESG1) study was launched in the aircraft parts, refined Finite
+late 1990s, with the aimto protect Element Models, together with in-
+the A300 and A300-600 fleet service experience, were used to
+beyond2002.Resultsofthisstudy support the refined analysis
+were presented to the operators in conducted to validate and update
+2002. A310 ESG has been the Maintenance Programme de-
+CurrentapprovedLOVbased
+developed, and presented to the monstration up to the new LOV=
+onF&DTanalysisandtesting
+ope-ratorsin2005. ESG2.
+Aircrafttypeseries DSG LimitofValidity(LOV)
+A300 B2 48,000FC/51,840FH 60,000FC/65,000FH*
+B4-100 40,000FC/53,200FH 57,000FC/76,000FH*
+B4-200 34,000FC/70,720FH 57,000FC/118,000FH*
+A310 -200 30,000FC/67,500FH 45,000FC/105,000FH*
+-300 40,000FC/60,000FH 40,000FC/116,000FH
+A300B4-600/B4-600R(passengeraircraft) 35,000FC/60000FH 42,500FC/89,000FH*
+A300-600pax+C4-600,C4-600RvariantF, 30,000FC/67,500FH 42,500FC/89,000FH*
+F4-605RPremod12699(FDX1)
+A300F4-600REIS>2000(UPS,GF&FDX2) 30,000FC/67,500FH 30,000FC/67,500FH*
+26
+A300-600EXTENDEDSERVICEGOAL-ENABLINGLONGERLASTINGOPERATION
+54TSAF
+27
+SSERTS
+REVISEDLOADSANDREFINED 2)Areaswithnoexperience
+SPECTRA ofcrackinitiation,neitherinthe
+FSFT(evenpostteardown),
+New fleet surveys have been norin-serviceandnotyeta
+carried out resulting in particular dedicated/detailedinspectionitem
+inanincreaseoffuelatlandingof intheMaintenanceProgramme. Refinedspectra
+2.5 tons on passenger aircraft. An
+improvedspectrahasbeendefined, Forsomesecondcategoryareas,
+with the aim to refine Fatigue and detailedinspectionsofahightime
+DamageTolerance (F&DT) analy- in-serviceaircraftareperformed
+sisofgroundperturbations,lateral inordertobettervalidateand
+gust and dynamic landings, consolidatethestressanalysis.
+especially on Centre Wing Box, MSN341teardownisusedas
+consi-dering experience from complementarydatatothe
+recent otherprogrammes. theoreticalstressanalysis.
+ADDITIONALTESTINGAND
+STRUCTURALPARTSTEARDOWN
+TIME
+ESG2studytakesobviouslybenefit
+of the ESG1 analyses, which are
+complementedbymeansof:
+•Additionalstressanalysestaking
+intoaccountnewin-servicedata
+andanimprovedfatiguespectra,
+•Coupontests,
+•Teardowninspectionofanold
+aircraft,followingparts’
+recoveriesofMSN341.
+THEMSN341TEARDOWNAIMS
+ESG2 F&DT analysis covers the
+whole structure but the dedicated
+approachmaydifferinfunctionof
+theareas:
+1)Areaswellknownbecause
+ofexistingFSFTorin-service
+crack/deepstressanalysisand
+detailedinspectionprogrammes.
+Dataaresufficienttoextendthe
+analysisintheframeofESG2.
+Additionalteardownandrefined
+FiniteElementAnalysis
+SSERTS
+Initialspectra
+TIME
+A300/A310Familywing
+andcenterfuselageFEM
+54TSAF
+A300-600EXTENDEDSERVICEGOAL-ENABLINGLONGERLASTINGOPERATION
+Part 2: Systems
+DESIGNSERVICEGOALEXTENSION ForoperationbeyondDSG,Airbus
+committed:
+For the system’s certification, •Toensurethatoperatingbeyond
+extensiveanalysesandtestingwere theoriginalcertifiedLimitOf
+performed to substantiate the Validity(LOV)doesnotimpact
+DesignServiceGoal(DSG)attwo onthecompliancewiththe
+Hydraulictestbench differentlevels: requirementsasdefinedbythe
+endurancetestsatsystemlevel •Firstly,duringthequalification TypeCertification(TC)basis
+ofthecomponentsorthesystem (JAR/FAR25.1309and
+atsupplierlevel, JAR/FAR25.1529mainly),
+•Secondly,duringtheintegration •Toprovideapolicyforthe
+ofthosecomponentswithinthe establishmentofthesystems’
+systemataircraftlevel. justificationfortheageing
+aircrafttomaintaincompliance
+For the qualification of the withapplicablerequirements.
+component, endurance and fatigue
+tests are performed to support the The goal of this ESG study is to
+theoretical analyses which have demonstrate,forthesystems,close
+been used at the beginning of the totwicetheoriginalDSGinterms
+design phase to develop the of Flight Hours (FH) and Flight
+component. Cycles (FC). A summary is given
+At aircraft level, all these in the systems DSG/ESG chart
+SpoilerActuatorfatiguetest
+components are integrated within below.
+the system and are tested. Endu-
+rance tests are performed on the SYSTEMPOLICYDESCRIPTION
+IronBird(aircraftzero)inorderto
+checkthegoodbehaviourofallthe This system policy has been
+systems working together. This defined in 1990, at the beginning
+Iron Bird is fully representative of of the ESG for the A300/A310
+theaircraftandincludesalsoallthe Familyprogrammeandisalsoused
+components fitted within the to extend the DSG to all other
+enginesandthelandinggears. Airbusprogrammes.
+At Entry-Into-Service, all the
+systemsarequalifiedforaDSGof Anagreementhasbeenfoundwith
+20 years according to the Main- the European airworthiness autho-
+tenance Programme. Appropriate ritiesonthreeageingparametersto
+maintenance actions are defined be addressed as part of the ESG
+within the Maintenance Planning study for mechanical and for
+Document (MPD) in order to hydraulic-mechanicalcomponents:
+guaranty the safety and reliability •Corrosion,
+objectives. All the components •Wearorerosion,
+which are life limited are defined •Fatigue.
+in the Airworthiness Limitation Thetwofirstones(corrosion,wear
+Sections (ALS) and must be and erosion) can be adequately
+replacedinthatcase. monitored by scheduled mainte-
+nance actions like Maintenance
+Review Board (MRB) tasks,Time
+SystemsDSG/ESG
+Between Overhaul (TBO) items,
+zone inspections or functional
+Aircraft DSG ESG
+tests. These maintenance actions
+are regularly performed and when
+A300 B2/B4 FC 26,000 57,000
+corrosion or wear is detected, the
+FH 40,000 118,000
+component is replaced. In the
+A310 FC 26,000 45,000 opposite, fatigue damages cannot
+bemonitored.Therefore,aspecific
+FH 40,000 116,000
+studyhasbeenperformedinorder
+A300-600 FC 26,000 51,000
+to select the equipment which are
+FH 40,000 89,000
+sensitivetofatigue.
+28
+54TSAF
+A300-600EXTENDEDSERVICEGOAL-ENABLINGLONGERLASTINGOPERATION
+Electronic and avionic equipment •Test:
+are not considered in the analysis. DDPupdatescanbeperformed
+In-service experience and repair byreviewingtheexistingfatigue
+analyses have not shown any analysisorthroughnew n o t e s
+increase of components’ failure extendedfatiguetests.
+ratesontheoldestcomputers. Ifidenticalequipmentisused Weibull
+onotherprogrammeswitha
+Reliabilitytheoryallowing
+EQUIPMENTSELECTION justifiedhigherDSG,thiscould
+topredicttheage-relatedfailure
+beusedtojustifytheextension
+kineticsforasystemofgiven
+The list is built by selecting clearance,
+architecture-reliabilitystructure
+components which failures are •Statisticalanalysis:
+-andgivenreliabilityofits
+involved in Failure Conditions Basedonin-serviceexperience
+components.
+(FC) classified ‘hazardous’ or anduseofstatisticaladequate
+‘catastrophic’ in the existing lawsas‘Weibull’(seenote)
+SystemSafetyAssessment(SSA). laws,failurerateextrapolation
+Only ‘significant’ contributing canbeperformed-thenew
+components to a FC are to be extrapolatedfailureratesbeing
+considered. For example, if a thenusedfortheSSAreview.
+component experiences a degra-
+dation of its failure rate such that SYSTEMSAFETYASSESSMENT
+this rate should be equal or above REVIEWSANDUPDATESIF
+1E-²/FHtoimpairtheglobalsafety NECESSARY
+objectives, then it is considered
+that the normal continued All SSAs have to be reviewed and
+airworthiness process will detect updated to take into account the
+the failure rate degradation, well new in-service goal for failures
+before it could lead to safety thatarehiddenfortheaircraftlife,
+issues. as well as updated failure rates, if
+any (extrapolated failure rates by
+LIFEEXTENSIONANALYSIS ‘Weibull’ law, or updated further
+in-serviceexperiencereviews).
+For equipment which have been
+selectedassensitivetofatigueand Additional maintenance tasks
+having Declaration of Design and couldbeneededtocomplywiththe
+Performances (DDP) indicating a safetyobjectives.
+life limit lower than the one
+expected for the extension, life IronBird-systemsintegrationtest
+endurancetestataircraftlevel
+extension activities have to be
+conducted.
+The life extension demonstration
+can be performed by using the
+followingmethods:
+•Engineeringanalysis:
+Takingintoaccountforexample
+failuremodecharacteristics,
+existingdesignprecautionsand
+maintenancetasksaswellas
+detectionmeansandin-service
+experience,
+•Staticstressanalysis:
+Identificationofmargins
+betweendesignloadsand
+normaloperationalloads.
+Incaseofahighmargin,fatigue
+isnotconsideredrelevantlike,
+forexample,mechanicalcontrol
+linkagesorelasticcomponents,
+29
+54TSAF
+A300-600EXTENDEDSERVICEGOAL-ENABLINGLONGERLASTINGOPERATION
+OUTCOMEOFTHELIFEEXTENSION found necessary to be added to
+ANALYSIS ensure safety objectives, this will
+be introduced in Airworthiness
+If the analysis exercise points out
+LimitationSections(ALS)Part4.
+that some equipment are affected
+byalifelimitataircraftlevel,orif Theanalysiscouldbesummarized
+additional maintenance tasks are asfollows:
+Listofequipment,PartNumber,Supplier,DesignAssuranceLevel(DAL)
+Segregationofequipmentbytypes:Mechanical/HydromechanicalorElectronic/Avionic/Electrical
+Mechanical/Hydromechanical Electronic/Avionic/Electrical
+No Notageing
+DALAorB*
+sensitive
+Equipmentforwhich
+failuremodeisinvolved
+Yes Equipment(whateverDAL)forwhichfailurerate
+inHAZorCATFailure No
+degradationcouldimpairsafetyobjectivesof
+Condition(SSAcheck)
+HAZorCATFC(SSAcheck)
+Yes
+Yes
+Yes=adegradation:
+- Thatisnotdetectablebyan
+Listofequipmenttoconsider existingtestormaintenanceaction
+No - Whichimpairssafetyobjectives
+whenthefailurerateislower
+than1E-02
+Lifeextensionanalysis
+(tests,statisticalanalysis,etc.)
+SSAreviewwithextendedaircraftlife&failureratesupdate,ifany.Verificationofcompliancewithsafetyobjectives
+SSA:SystemSafetyAssessment
+DAL:DevelopmentAssuranceLevel
+-TheDevelopmentAssuranceLeveldefinestherequiredactivities
+togiveadequateconfidencethatthedesignwillsatisfythepurchaser CONTACTDETAILS
+requirements.
+-TheDevelopmentAssuranceLeveloftheequipmentisdetermined ForStructures: ForSystems:
+onlybytheaircraftmanufacturer.
+AndréDELANNOY Jean-MichelPASCUAL
+Thechosenlevelisbasedonsafetyclassification.
+ManagerDesignandAnalysis DeputyHeadofSystems
+Classificationapplicabletotherelevantsystemorequipment:
+DALAiffailureconditionclassification=Catastrophic(CAT) A300/A310&A330/A340Families A300/A310FamilyProgramme
+DALBiffailureconditionclassification=Hazardous(HAZ)/SevereMajor Programmes/CoCStructure AirbusEngineering
+DALCiffailureconditionclassification=Major(MAJ) AirbusEngineering Tel:+33(0)561185658
+Tel:+33(0)561933074 Fax:+33(0)561934828
+Fax:+33(0)561933810 jean-michel.pascual@airbus.com
+andre.delannoy@airbus.com
+Conclusion
+Considerableeffortshavebeenspent willbeabletocontinueoperating
+intermsofanalysis/testingandevaluation theirA300B4-600/B4-600Raircraft
+ofthein-serviceexperiencetodefine beyondthefirstExtendedServiceGoal,
+andincorporatetheresultsofthe enablingthemtotakebenefitfromthe
+ExtendedServiceGoal2studyintothe additionalrevenuethatcanbegenerated
+MaintenanceProgrammeoftheA300-600. fromESG1toESG2.TheStructureTask
+Theincorporationoflatestavailableusage Group(STG)isworkingasanactiveforum
+information,togetherwiththereview forageingaircraftactivities.Theresults
+oftheFullScaleFatigueTest,additional ofESG2analysesandtheirconsequences
+teardown,in-servicefindingswereused ontheMaintenanceProgrammewillbe
+asinputsfortheESG2study. presentedtotheoperatorsduringtheSTG
+ThankstoAirbuscontinuousinvolvement meetingwhichwillbeheldinApril2010.
+toimproveitsproducts,ourcustomers
+30
+A300-FIRSTROLL-OUT
+The first A300
+54TSAF
+The Airbus A300 is a short to medium-range widebody
+aircraft. It was the first product of the Airbus consortium
+of European aerospace companies, wholly owned today by
+EADS.
+The construction of the A300 began in September 1969. The
+first two aircraft were designated A300B1 and the first
+(F-WUAB) made its maiden flight on 28 October 1972, the
+second following on 5 February 1973. These were followed
+by the first pair of A300B2s, considered as the production
+model.
+Complete aircraft sections were manufactured by
+consortium partners all over Europe. These were airlifted
+to the final assembly line at Toulouse-Blagnac by the
+AeroSpace Super Guppy aircraft. The General Electric CF6
+turbo-fan was chosen as the main powerplant, but any
+engine in the same class could be substituted on
+production models according to the customer wishes. The
+cylindrical fuselage could accommodate seating layouts
+from 220 to a maximum of 336 passengers.
+The European certification was granted on 15 March 1974,
+followed by the U.S. certification on 30 May. Air France
+then started the first airline service between Paris
+and London. The A300-600 first flew in July 1983, and has
+been the major production version since, the last A300B4
+leaving the production line late 1984. Versions include
+the A300-600R with increased take-off weight and tail
+plane trim tank for long-range operations, and the A300-
+600 Convertible passenger/cargo version.
+The A300 ceased production in July 2007, along with the
+smaller A310. Today, the evolution of the A300/A310 Family
+Maintenance Programme through the Extended Service Goal
+(see article page 22) enables the operators to benefit from
+the addition revenue that can be generated from the
+extended life of the aircraft.
+31
+egatireH
+etaroproC
+SDAE
+fo
+ysetruoC
+Customer Services
+events
+Just happened market conditions. Airbus received very
+positive feedback by the customers and
+OutcomeoftheA300/A310Familysymposium participants. The main outcome from the
+TheA300/A310Familysymposiumtookplace caucus was concerning the specific needs and
+in Bangkok mid-November with 30 different requirementsfromthelessors.
+airlines, 18 MRO (Maintenance Repair &
+Coming soon
+Overhaul) organizations and suppliers.
+Altogether, 138 participants were gathered
+AirbusCorporateJetlinerForum
+allowing productive and fruitful discussions,
+The nextAirbus Corporate Jetliner forum will
+either during the main meeting sessions or
+take place in Dubai, United Arab Emirates,
+during networking breaks.The prime goals of
+from8to10March2010.Thisyearlyeventis
+the A300/A310 Family symposium were as
+a valuable opportunity for our customers and
+always, two-way communication leading to an
+operators to be updated on the latest
+evermoresafeandefficientfleetmanagement
+developments inAirbus Corporate Jets and to
+but also to clearly focus on economic long-
+meetandnetworkwitheachother.
+term operation. Therefore, the symposium
+agenda was built on the three main themes
+The6thTechnicalDatasymposium
+being long-term support initiatives, main fleet
+The sixth Technical Data Symposium will be
+issuesreviewandservicesproposedbyAirbus
+organizedfrom5to8April2010inBangkok,
+to allow aircraft operation at the lowest
+Thailand.This event will gather persons from
+possiblemaintenancecost.
+airlines,MRO(MaintenanceRepairOverhaul)
+Charles CHAMPION (Executive Vice
+organizationsandsuppliers.
+President Airbus Customer Services) awarded
+Thethemeselectedwillbe:"Deliverinnovative
+fiveoperatorsfortheir2008-2009Operational
+solutions". Our symposium will encompass
+Excellence, namely MNG Cargo Airlines for
+presentationssuchastheTechnicalDatavision
+A300B2/B4,AirTransatforA310,KoreanAir
+and strategy, products, future changes,
+for A300-600, Air Hong Kong for freighter
+innovation, A350 aircraft, as well as product
+fleet and finally, a special award was given to
+demonstrationsandinteractiveworkshopswith
+ThaiAirwaysasamarkofrecognitionfortheir
+thecustomersonspecificsubjects.
+kindhospitalityinBangkok.
+Last but not least, the 2009 operator caucus A330/A340Familysymposium
+session, co-chaired by Mr. Supanit The next A330/A340 Family symposium will
+CHANTARASIRI (Thai Airways Director beheldfrom31Mayto3June2010inBerlin,
+Engineering)andMr.CemAKIN(ULSAirline Germany.Airbus will propose a basic agenda
+Cargo,TechnicalManager)wasrunefficiently. in February that may be augmented with your
+After a one-hour discussion, the operators suggestions. As usual, adequate facilities will
+endedupwithaclearprioritizedroadmapthat be available for side meetings and break-out
+will be used as a valuable baseline for the sessions.
+comingyears. FormalinvitationswillbesentinFebruary.
+Theprimefunctionofthismeetingistoenable
+The6thLeasingSupportconference two-way communication regarding actual in-
+Airbus 6th Leasing Support conference, service issues affecting A330/A340 Family
+recently held in Dublin, was a great success operations, as well as topics of more general
+gathering 38 leasing companies coming from interest (forthcoming regulatory requirements,
+all over the world, despite the actual difficult industryinitiatives,maintenancecosts,etc.).
+54TSAF
+32
+54TSAF
+CUSTOMERSERVICESWORLDWIDE AROUNDTHECLOCK... AROUNDTHEWORLD
+WORLDWIDE
+BruceJONES
+SeniorVicePresident
+Services&CustomerSupport
+CustomerServices Bangalore
+Tel:+33(0)567191980
+Fax:+33(0)561931818
+USA/CANADA
+TomANDERSON
+SeniorVicePresident
+CustomerServices
+Tel:+1(703)8343484
+Fax:+1(703)8343464
+CHINA
+PierreSTEFFEN ServicesandCustomer Support centres
+SeniorVicePresident Training centres
+CustomerServices&InternalOperations MaterialLogisticscentres / Regional warehouses
+Tel:+861080486161Ext5020 ResidentCustomer Support Managers (RCSM)
+Fax:+861080486162 RCSMlocation Country RCSMlocation Country
+RESIDENTCUSTOMERSUPPORTADMINISTRATION AbuDhabi UnitedArabEmirates LosAngeles UnitedStatesofAmerica
+Algiers Algeria Louisville UnitedStatesofAmerica
+Jean-BernardGALY,
+Al-Manamah Bahrain Luton UnitedKingdom
+DirectorResidentCustomerSupportAdministration Almaty Kazakhstan Luxembourg Luxembourg
+Tel:+33(0)567190413 Amman Jordan Macau S.A.R.China
+Fax:+33(0)561934964 Amsterdam Netherlands Madrid Spain
+Athens Greece Manchester UnitedKingdom
+TECHNICAL,MATERIALLOGISTICS Atlanta UnitedStatesofAmerica Manilla Philippines
+&TRAININGSUPPORT Auckland NewZealand Marrakech Morocco
+AirbushasitsmainMaterialLogisticscentre Bangkok Thailand Mauritius Mauritius
+inHamburg,andregionalwarehouses Barcelona Spain Melbourne Australia
+Beijing China Memphis UnitedStatesofAmerica
+inFrankfurt,WashingtonD.C.,Dubai,Beijing,
+Beirut Lebanon MexicoCity Mexico
+ShanghaiandSingapore. Berlin Germany Miami UnitedStatesofAmerica
+Bogota Colombia Milan Italy
+Airbusoperates24hoursadayeveryday.
+Bratislava Slovakia Minneapolis UnitedStatesofAmerica
+AirbusTechnicalAOGCentre(AIRTAC) Bucharest Romania Montreal Canada
+Tel:+33(0)561933400 Budapest Hungary Moscow Russia
+BuenosAires Argentina Mumbai India
+Fax:+33(0)561933500
+Cairo Egypt Muscat Oman
+airtac@airbus.com
+Casablanca Morocco Nanjing China
+SparesAOGsinNorthAmericashouldbe Changchun China NewYork UnitedStatesofAmerica
+addressedto: Charlotte UnitedStatesofAmerica Noumea NewCaledonia
+Chengdu China PalmadeMallorca Spain
+Tel:+1(703)7299000
+Chicago UnitedStatesofAmerica Paris France
+Fax:+1(703)7294373 Cologne Germany Paro Bhutan
+SparesAOGsoutsideNorthAmerica Colombo SriLanka Philadelphia UnitedStatesofAmerica
+shouldbeaddressedto: Copenhagen Denmark Phoenix UnitedStatesofAmerica
+Damascus Syria Prague CzechRepublic
+Tel:+49(40)50764001
+Delhi India Riyadh SaudiArabia
+Fax:+49(40)50764011 Denver UnitedStatesofAmerica Roma Italy
+aog.spares@airbus.com Dhaka Bangladesh SanFrancisco UnitedStatesofAmerica
+Doha Qatar SanSalvador ElSalvador
+SparesrelatedHMVissuesoutside
+Dubai UnitedArabEmirates Sana’a Yemen
+NorthAmericashouldbeaddressedto:
+Dublin Ireland Santiago Chile
+Tel:+49(40)50764003 Dusseldorf Germany SaoPaulo Brazil
+Fax:+49(40)50764013 FortLauderdale UnitedStatesofAmerica Seoul SouthKorea
+hmv.spares@airbus.com Frankfurt Germany Shanghai China
+Guangzhou China Sharjah UnitedArabEmirates
+AirbusTrainingCentreToulouse,France
+Guayaquil Ecuador Shenyang China
+Tel:+33(0)561933333 Haikou China Shenzhen China
+Fax:+33(0)561932094 Hamburg Germany Singapore Singapore
+Hangzhou China Sofia Bulgaria
+AirbusMaintenanceTrainingCentre
+Hanoi Vietnam Sydney Australia
+Hamburg,Germany Helsinki Finland Taipei Taiwan
+Tel: +49(40)74388288 HongKong S.A.R.China Tashkent Uzbekistan
+Fax:+49(40)74388588 Honolulu UnitedStatesofAmerica Tehran Iran
+Indianapolis UnitedStatesofAmerica TelAviv Israel
+AirbusTrainingsubsidiaries
+Istanbul Turkey Tirana Albania
+Miami,Florida-U.S.A. Jakarta Indonesia Tokyo Japan
+Tel:+1(305)8713655 Jeddah SaudiArabia Toluca Mexico
+Fax:+1(305)8714649 Johannesburg SouthAfrica Toronto Canada
+Karachi Pakistan Tripoli Libya
+Beijing,China
+Kita-Kyushu Japan Tunis Tunisia
+Tel:+861080486340 KualaLumpur Malaysia Vienna Austria
+Fax:+861080486576 KuwaitCity Kuwait Washington UnitedStatesofAmerica
+Lagos Nigeria Wuhan China
+Bangalore,India(Maintenancetraining)
+Lanzhou China Xi'an China
+Tel: +33(0)561933333
+Larnaca Cyprus Yekaterinburg Russia
+Fax:+33(0)561932094 Lisbon Portugal Zurich Switzerland
+London UnitedKingdom 33
