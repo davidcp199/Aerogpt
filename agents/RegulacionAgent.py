@@ -161,6 +161,7 @@ def regulation_action(state: AgentState) -> AgentState:
 
         # Guardar respuesta en el estado
         state.regulation = regulation_data
+        
 
         # Decidir si es crítico o no
         try:

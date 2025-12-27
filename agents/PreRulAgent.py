@@ -113,7 +113,7 @@ def pre_rul_action(state):
             state.messages.append(AIMessage(content=f"Nueva medición registrada. ({len(state.pre_rul_data)} filas acumuladas). ¿Quiere Calcular RUL ahora?"))
             state.update_memory("PreRUL", f"Nueva medición registrada ({len(state.pre_rul_data)} filas)")
             state.needs_followup = False
-            state.next_agent = "PreRUL"
+            state.next_agent = None
             return state
 
         elif "calculate" in action_lower:
@@ -122,6 +122,7 @@ def pre_rul_action(state):
                 return state
 
             state.messages.append(AIMessage(content="Calculando RUL con histórico actual..."))
+            
             state.needs_followup = True
             state.next_agent = "RUL"
             return state
@@ -133,7 +134,7 @@ def pre_rul_action(state):
                 df_str = state.pre_rul_data.to_string(index=False)
                 state.messages.append(AIMessage(content=f"Estado actual de mediciones:\n{df_str}"))
             state.needs_followup = False
-            state.next_agent = "PreRUL"
+            state.next_agent = None
             return state
 
         elif "reset" in action_lower:
@@ -161,7 +162,7 @@ def pre_rul_action(state):
                 state.messages.append(AIMessage(content="Datos reseteados a cero."))
                 state.update_memory("PreRUL", "Datos reseteados a cero")
             state.needs_followup = False
-            state.next_agent = "PreRUL"
+            state.next_agent = None
             return state
 
         elif "chat" in action_lower:
@@ -170,7 +171,7 @@ def pre_rul_action(state):
             state.messages.append(AIMessage(content=chat_response.content))
             state.update_memory("PreRUL", chat_response.content)
             state.needs_followup = False
-            state.next_agent = "PreRUL"
+            state.next_agent = None
             return state
 
         elif "exit" in action_lower:
@@ -183,12 +184,12 @@ def pre_rul_action(state):
         else:
             state.messages.append(AIMessage(content="No entendí la acción. Responde 'Update', 'Calculate', 'Status' o 'Exit'."))
             state.needs_followup = False
-            state.next_agent = "PreRUL"
+            state.next_agent = None
             return state
 
     except Exception as e:
         logger.exception("Error en pre_rul_action: %s", e)
         state.messages.append(AIMessage(content="No pude procesar tu solicitud. Por favor indícame qué deseas hacer."))
         state.needs_followup = False
-        state.next_agent = "PreRUL"
+        state.next_agent = None
         return state

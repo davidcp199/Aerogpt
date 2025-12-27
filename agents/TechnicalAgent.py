@@ -113,6 +113,7 @@ def technical_action(state):
 
         state.messages.append(AIMessage(content=response_text))
         state.update_memory("Tecnico", response_text)
+        
 
         # Decide si se envia a agente Criticidad
         decision = (DECIDE_CRITICALITY | llm_deterministic).invoke(

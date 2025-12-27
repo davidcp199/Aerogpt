@@ -81,6 +81,7 @@ def rul_action(state):
 
         state.messages.append(AIMessage(content=text))
         state.update_memory("RUL", text)
+        
 
         # Si el motor está crítico, ir a agente Criticidad
         if isinstance(predicted_RUL, (int, float)) and predicted_RUL < 20:

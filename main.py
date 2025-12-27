@@ -71,6 +71,8 @@ def reset_state_iteration(state: AgentState):
 def save_history(state: AgentState):
     agent = state.source
     if agent:
+        if agent not in state.history_by_agent:
+            state.history_by_agent[agent] = []
         snapshot = {}
         for attr in ["regulation", "criticidad", "reparacion", "pre_rul_data"]:
             val = getattr(state, attr, None)
@@ -78,6 +80,7 @@ def save_history(state: AgentState):
                 snapshot[attr] = val
         if snapshot:
             state.history_by_agent[agent].append(snapshot)
+
 
 # ==============================================
 # Funciones de impresión
@@ -141,6 +144,23 @@ def main_loop():
             user_input = input("Pregunta del usuario ('stop' para salir): ")
             if user_input.lower() == "stop":
                 break
+
+            # Comandos especiales de depuración
+            if user_input.lower() == "show history":
+                print("\n=== HISTORIAL POR AGENTE ===")
+                for agent, entries in state.history_by_agent.items():
+                    print(f"\n--- {agent} ---")
+                    if entries:
+                        for i, entry in enumerate(entries):
+                            print(f"{i+1}: {entry}")
+                    else:
+                        print("Sin entradas")
+                continue  # no enviar al grafo
+
+            if user_input.lower() == "show conversation":
+                print("\n=== RESUMEN DE CONVERSACIÓN ===")
+                print(state.conversation_summary or "Sin resumen aún")
+                continue  # no enviar al grafo
 
             reset_state_iteration(state)
             state.messages.append(HumanMessage(content=user_input))

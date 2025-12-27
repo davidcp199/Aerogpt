@@ -155,11 +155,8 @@ def criticidad_action(state: AgentState) -> AgentState:
             context=context
         )
 
-        # Llamada al LLM determinista
         response = llm_deterministic.invoke(prompt)
-        # Se asume que devuelve JSON con la estructura final
-        criticidad_data = response.content  # string JSON
-        import json
+        criticidad_data = response.content
         try:
             criticidad_json = json.loads(criticidad_data)
         except Exception as e:
@@ -186,6 +183,7 @@ def criticidad_action(state: AgentState) -> AgentState:
             state.next_agent = None
 
         print(f"Análisis criticidad generado. Severidad: {severity}. Dispatch permitido: {state.dispatch_allowed}")
+        
         return state
 
     except Exception as e:

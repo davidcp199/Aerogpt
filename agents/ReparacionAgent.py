@@ -1,4 +1,4 @@
-# ReparacionAgent.py
+import json
 import logging
 from pathlib import Path
 from typing import List, Dict
@@ -22,8 +22,7 @@ VECTORSTORES = {
     "ASRS": BASE_DIR / "data" / "vectorStores" / "asrs_store",
     "SDR": BASE_DIR / "data" / "vectorStores" / "sdr_store",
     "REGULATORY": BASE_DIR / "data" / "vectorStores" / "regulatory_store",
-    "TECHNICAL": BASE_DIR / "data" / "vectorStores" / "technical_store",
-    "FAST": BASE_DIR / "data" / "vectorStores" / "fast_store",
+    "TECHNICAL": BASE_DIR / "data" / "vectorStores" / "technical_store"
 }
 
 EMBEDDINGS = OpenAIEmbeddings()
@@ -140,9 +139,8 @@ def reparacion_action(state: AgentState) -> AgentState:
 
         response = llm_creative.invoke(prompt)
         raw_text = response.content.strip()
-
-        # Intentar parsear JSON
-        import json
+        
+        # parsear JSON
         try:
             reparacion_data = json.loads(raw_text)
         except Exception as e:
@@ -155,6 +153,7 @@ def reparacion_action(state: AgentState) -> AgentState:
         # Guardar en state
         state.reparacion = reparacion_data
         state.messages.append(AIMessage(content=f"Recomendaciones de reparación generadas para el sistema {system}."))
+        
 
         # Seguimiento
         state.needs_followup = False
