@@ -10,7 +10,6 @@ from langchain_core.messages import HumanMessage, AIMessage
 from agents.State import AgentState
 import tools.extract_cmapss
 
-
 warnings.filterwarnings("ignore")
 
 # ==============================================
@@ -28,26 +27,76 @@ logger.info("Iniciando AeroGPT")
 # Construcción del grafo y estado inicial
 # ==============================================
 graph = GraphBuilder().build()
-
 state = AgentState(messages=[])
+
+# ==============================================
+# Memoria histórica avanzada por agente
+# ==============================================
+if not hasattr(state, "history_by_agent"):
+    state.history_by_agent = {
+        "Regulacion": [],
+        "Criticidad": [],
+        "Reparacion": [],
+        "Tecnico": [],
+        "RUL": [],
+        "PreRUL": [],
+        "General": []
+    }
+
+# ==============================================
+# Reset selectivo de estado por iteración
+# ==============================================
+def reset_state_iteration(state: AgentState):
+    """
+    Resetea solo los atributos de agentes por iteración
+    para evitar contaminación de la pregunta anterior.
+    No se toca pre_rul_data para que los datos de RUL persistan.
+    """
+    agent_attrs = ["regulation", "criticidad", "reparacion",
+                   "dispatch_allowed", "needs_followup", "next_agent", "source"]
+    
+    for attr in agent_attrs:
+        if attr in ["dispatch_allowed", "needs_followup"]:
+            setattr(state, attr, False)
+        elif attr == "next_agent":
+            setattr(state, attr, None)
+        else:
+            setattr(state, attr, None)
+
+
+
+# ==============================================
+# Guardar resultados en historial por agente
+# ==============================================
+def save_history(state: AgentState):
+    agent = state.source
+    if agent:
+        snapshot = {}
+        for attr in ["regulation", "criticidad", "reparacion", "pre_rul_data"]:
+            val = getattr(state, attr, None)
+            if val is not None:
+                snapshot[attr] = val
+        if snapshot:
+            state.history_by_agent[agent].append(snapshot)
 
 # ==============================================
 # Funciones de impresión
 # ==============================================
-def print_regulation(state: AgentState):
+def print_agent_results(state: AgentState):
+    """
+    Imprime resultados de la iteración actual y los mensajes AI.
+    """
     if state.regulation:
         print("\n=== REGULACIÓN ===")
         print(f"Aplicabilidad: {state.regulation.get('applicability')}")
         print(f"Aeronave afectada: {state.regulation.get('aircraft_applicability')}")
         print(f"Dispatch relevante: {state.regulation.get('dispatch_relevance')}")
-        print("Regulaciones citadas:")
         for reg in state.regulation.get("regulations", []):
             print(f" - {reg['authority']} {reg['reference']}: {reg['constraint']}")
         print(f"Limitaciones operacionales: {state.regulation.get('operational_limitations')}")
         print(f"Riesgo de cumplimiento: {state.regulation.get('compliance_risk')}")
         print(f"Resumen: {state.regulation.get('summary')}\n")
 
-def print_criticidad(state: AgentState):
     if state.criticidad:
         print("\n=== CRITICIDAD ===")
         print(f"Sistema afectado: {state.criticidad.get('affected_system')}")
@@ -58,7 +107,6 @@ def print_criticidad(state: AgentState):
         print(f"Recomendaciones: {state.criticidad.get('recommendations')}")
         print(f"Dispatch permitido: {state.dispatch_allowed}\n")
 
-def print_reparacion(state: AgentState):
     if state.reparacion:
         print("\n=== REPARACIÓN ===")
         print(f"Sistema afectado: {state.reparacion.get('system_affected')}")
@@ -74,11 +122,13 @@ def print_reparacion(state: AgentState):
         if notes:
             print(f"Notas: {notes}\n")
 
-def print_ai_messages(state: AgentState):
+    # Mensajes AI
     ia_msgs = [m for m in state.messages if isinstance(m, AIMessage)]
-    for msg in ia_msgs:
-        print(msg.content)
-    # Limpiar mensajes de IA antiguos
+    if ia_msgs:
+        print("\n=== Mensajes AI ===")
+        for msg in ia_msgs:
+            print(msg.content)
+    # Limpiar solo mensajes AI de la iteración actual
     state.messages = [m for m in state.messages if isinstance(m, HumanMessage)]
 
 # ==============================================
@@ -92,10 +142,11 @@ def main_loop():
             if user_input.lower() == "stop":
                 break
 
+            reset_state_iteration(state)
             state.messages.append(HumanMessage(content=user_input))
-            result = graph.invoke(state)
 
-            logger.debug(f"DEBUG result type: {type(result)}")
+            # Ejecutar grafo
+            result = graph.invoke(state)
 
             # Normalizar AgentState
             if isinstance(result, AgentState):
@@ -109,13 +160,13 @@ def main_loop():
             else:
                 logger.warning("El grafo devolvió un tipo inesperado, usando state previo")
 
-            # Impresión organizada
-            print_regulation(state)
-            print_criticidad(state)
-            print_reparacion(state)
-            print_ai_messages(state)
+            # Guardar en historial
+            save_history(state)
 
-        print("AeroGPT terminado.")
+            # Imprimir resultados
+            print_agent_results(state)
+
+        print("\nAeroGPT terminado.")
 
     except KeyboardInterrupt:
         print("\nSaliendo...")

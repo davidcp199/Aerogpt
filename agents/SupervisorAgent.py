@@ -107,6 +107,7 @@ def supervisor_action(state):
          break
 
     try:
+        print("entrando en supervisor LLM con user_msg y last_ai_msg:", user_msg, last_ai_msg)
         chain = PROMPT_SUPERVISOR | llm_deterministic
         response = chain.invoke({
          "user_message": user_msg,

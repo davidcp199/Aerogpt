@@ -1,6 +1,6 @@
 from pydantic import BaseModel, field_validator, Field
 import pandas as pd
-from typing import Optional, List, Dict
+from typing import Optional, List, Dict, Any
 from langchain_core.messages import BaseMessage
 
 class AgentState(BaseModel):
@@ -23,8 +23,17 @@ class AgentState(BaseModel):
     criticidad_sources: Optional[List[str]] = None
     dispatch_allowed: Optional[bool] = None
 
-    # NUEVO: estado de reparacion
     reparacion: Optional[dict] = None
+
+    history_by_agent: Dict[str, List[dict]] = {
+        "Regulacion": [],
+        "Criticidad": [],
+        "Reparacion": [],
+        "Tecnico": [],
+        "RUL": [],
+        "PreRUL": [],
+        "General": []
+    }
 
     @field_validator("pre_rul_data", mode="before")
     def convert_to_df(cls, v):
