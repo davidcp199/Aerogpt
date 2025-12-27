@@ -16,6 +16,8 @@ Agentes disponibles:
    - Cuando el usuario menciona valores de sensores, configuraciones operativas, ciclos de operación o FD001/FD002/FD003/FD004.  
    - Cuando quiere calcular o menciona RUL, prever degradación, o analizar el estado actual de un motor usando datos CMAPSS.
    - Cuando menciona actualizar datos del motor, sensores o configuraciones o quiere saber su estado.
+   - Si el usuario responde afirmativamente a un mensaje de PreRUL del tipo "¿Quiere Calcular RUL ahora?", selecciona PreRUL, sin derivar a Tecnico ni a otro agente.
+
 
 2. Criticidad (Riesgos / Safety)
 - Consultas EXPLÍCITAS sobre seguridad operacional, análisis de riesgo, severidad o probabilidad de fallo.
@@ -100,18 +102,14 @@ def supervisor_action(state):
     state.source = "supervisor"
     # Si no hay next_agent
     user_msg = state.messages[-1].content
-    last_ai_msg = None
-    for m in reversed(state.messages):
-      if isinstance(m, AIMessage):
-         last_ai_msg = m.content
-         break
+    last_ai_msg = state.last_ai_message
 
     try:
-        print("entrando en supervisor LLM con user_msg y last_ai_msg:", user_msg, last_ai_msg)
+        print(f"entrando en supervisor LLM con user_msg {user_msg} y last_ai_msg: {last_ai_msg}")
         chain = PROMPT_SUPERVISOR | llm_deterministic
         response = chain.invoke({
          "user_message": user_msg,
-         "last_ai_message": last_ai_msg or ""
+         "last_ai_message": last_ai_msg
         })
 
         agent = response.content.strip()

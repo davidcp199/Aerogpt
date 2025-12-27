@@ -65,11 +65,7 @@ def pre_rul_action(state):
             state.pre_rul_data = pd.DataFrame()
             print("Inicializando DataFrame vacío para medidas CMAPSS...")
 
-        last_ai_msg = None
-        for m in reversed(state.messages):
-            if isinstance(m, AIMessage):
-                last_ai_msg = m.content
-                break
+        last_ai_msg = state.last_ai_message
 
         # LLM Accion
         chain = PROMPT_PRE_RUL | llm_deterministic

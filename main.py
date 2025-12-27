@@ -128,6 +128,7 @@ def print_agent_results(state: AgentState):
     # Mensajes AI
     ia_msgs = [m for m in state.messages if isinstance(m, AIMessage)]
     if ia_msgs:
+        state.last_ai_message = ia_msgs[-1].content
         print("\n=== Mensajes AI ===")
         for msg in ia_msgs:
             print(msg.content)
