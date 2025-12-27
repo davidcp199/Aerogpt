@@ -19,6 +19,14 @@ class AgentState(BaseModel):
     conversation_summary: str = ""
     last_agent_output: Dict[str, str] = Field(default_factory=dict)
 
+    regulation: dict | None = None
+    criticidad: str | None = None
+    criticidad_sources: list[str] = []
+
+    dispatch_allowed: Optional[bool] = None
+    criticidad: Optional[dict] = None
+    criticidad_sources: Optional[List[str]] = None
+
     @field_validator("pre_rul_data", mode="before")
     def convert_to_df(cls, v):
         if isinstance(v, dict):
