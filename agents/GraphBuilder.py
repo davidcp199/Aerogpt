@@ -55,6 +55,6 @@ class GraphBuilder:
         graph.add_conditional_edges("Regulacion", self.followup_decision)
         graph.add_conditional_edges("PreRUL", self.followup_decision)
         graph.add_conditional_edges("RUL", self.followup_decision)
-
-        graph.add_edge("Criticidad", END)
+        graph.add_conditional_edges("Reparacion", self.followup_decision)
+        graph.add_conditional_edges("Criticidad", self.followup_decision)
         return graph.compile()

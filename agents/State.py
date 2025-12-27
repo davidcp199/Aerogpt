@@ -3,7 +3,6 @@ import pandas as pd
 from typing import Optional, List, Dict
 from langchain_core.messages import BaseMessage
 
-
 class AgentState(BaseModel):
     model_config = {
         "arbitrary_types_allowed": True
@@ -19,18 +18,18 @@ class AgentState(BaseModel):
     conversation_summary: str = ""
     last_agent_output: Dict[str, str] = Field(default_factory=dict)
 
-    regulation: dict | None = None
-    criticidad: str | None = None
-    criticidad_sources: list[str] = []
-
-    dispatch_allowed: Optional[bool] = None
+    regulation: Optional[dict] = None
     criticidad: Optional[dict] = None
     criticidad_sources: Optional[List[str]] = None
+    dispatch_allowed: Optional[bool] = None
+
+    # NUEVO: estado de reparacion
+    reparacion: Optional[dict] = None
 
     @field_validator("pre_rul_data", mode="before")
     def convert_to_df(cls, v):
         if isinstance(v, dict):
-            return pd.DataFrame([v])  # lo convierte automáticamente
+            return pd.DataFrame([v])
         return v
     
     def update_memory(self, agent_name: str, output: str):
@@ -47,4 +46,3 @@ class AgentState(BaseModel):
         max_len = 3000
         if len(self.conversation_summary) > max_len:
             self.conversation_summary = self.conversation_summary[-max_len:]
-

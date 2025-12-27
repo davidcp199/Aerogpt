@@ -8,6 +8,8 @@ from utils.llm_provider import paths_config, settings_config
 from agents.GraphBuilder import GraphBuilder
 from langchain_core.messages import HumanMessage, AIMessage
 from agents.State import AgentState
+import tools.extract_cmapss
+
 
 warnings.filterwarnings("ignore")
 
@@ -18,10 +20,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 if ROOT not in sys.path:
     sys.path.append(ROOT)
 
-# Cargar configs
 model_cfg, paths_cfg, settings_cfg = load_all_configs(ROOT)
-
-# Logger
 logger = setup_logger("AeroGPT", level=settings_cfg["settings"].get("logging_level", "DEBUG"))
 logger.info("Iniciando AeroGPT")
 
@@ -30,19 +29,13 @@ logger.info("Iniciando AeroGPT")
 # ==============================================
 graph = GraphBuilder().build()
 
-state = AgentState(
-    messages=[],
-    decision=None,
-    next_agent=None,
-    needs_followup=False,
-    pre_rul_data=None
-)
+state = AgentState(messages=[])
 
 # ==============================================
 # Funciones de impresión
 # ==============================================
 def print_regulation(state: AgentState):
-    if hasattr(state, "regulation") and state.regulation:
+    if state.regulation:
         print("\n=== REGULACIÓN ===")
         print(f"Aplicabilidad: {state.regulation.get('applicability')}")
         print(f"Aeronave afectada: {state.regulation.get('aircraft_applicability')}")
@@ -54,9 +47,8 @@ def print_regulation(state: AgentState):
         print(f"Riesgo de cumplimiento: {state.regulation.get('compliance_risk')}")
         print(f"Resumen: {state.regulation.get('summary')}\n")
 
-
 def print_criticidad(state: AgentState):
-    if hasattr(state, "criticidad") and state.criticidad:
+    if state.criticidad:
         print("\n=== CRITICIDAD ===")
         print(f"Sistema afectado: {state.criticidad.get('affected_system')}")
         print(f"Fase de vuelo: {state.criticidad.get('flight_phase')}")
@@ -66,6 +58,21 @@ def print_criticidad(state: AgentState):
         print(f"Recomendaciones: {state.criticidad.get('recommendations')}")
         print(f"Dispatch permitido: {state.dispatch_allowed}\n")
 
+def print_reparacion(state: AgentState):
+    if state.reparacion:
+        print("\n=== REPARACIÓN ===")
+        print(f"Sistema afectado: {state.reparacion.get('system_affected')}")
+        print(f"Fase de vuelo: {state.reparacion.get('flight_phase')}")
+        print(f"Severidad: {state.reparacion.get('severity')}")
+        print("Acciones recomendadas:")
+        for action in state.reparacion.get('recommended_actions', []):
+            print(f" - {action}")
+        print("Referencias:")
+        for ref in state.reparacion.get('references', []):
+            print(f" - {ref}")
+        notes = state.reparacion.get('notes')
+        if notes:
+            print(f"Notas: {notes}\n")
 
 def print_ai_messages(state: AgentState):
     ia_msgs = [m for m in state.messages if isinstance(m, AIMessage)]
@@ -78,7 +85,7 @@ def print_ai_messages(state: AgentState):
 # Bucle principal
 # ==============================================
 def main_loop():
-    global state  # <-- Declaración al inicio
+    global state
     try:
         while True:
             user_input = input("Pregunta del usuario ('stop' para salir): ")
@@ -86,13 +93,11 @@ def main_loop():
                 break
 
             state.messages.append(HumanMessage(content=user_input))
-
-            # Ejecutar grafo
             result = graph.invoke(state)
 
             logger.debug(f"DEBUG result type: {type(result)}")
 
-            # Normalizar: reconstruir AgentState si devuelve dict
+            # Normalizar AgentState
             if isinstance(result, AgentState):
                 state = result
             elif isinstance(result, dict):
@@ -104,9 +109,10 @@ def main_loop():
             else:
                 logger.warning("El grafo devolvió un tipo inesperado, usando state previo")
 
-            # Imprimir todo de forma organizada
+            # Impresión organizada
             print_regulation(state)
             print_criticidad(state)
+            print_reparacion(state)
             print_ai_messages(state)
 
         print("AeroGPT terminado.")
@@ -116,7 +122,6 @@ def main_loop():
         logger.info("Interrupción por teclado, cerrando.")
     except Exception as e:
         logger.exception("Error inesperado en main.py: %s", e)
-
 
 # ==============================================
 # Entrada

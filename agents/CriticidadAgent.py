@@ -178,8 +178,9 @@ def criticidad_action(state: AgentState) -> AgentState:
 
         # Decidir si seguir con otro agente
         if severity in ["HIGH", "CRITICAL"]:
+            print(">>> Criticidad alta detectada, se requiere seguimiento.")
             state.needs_followup = True
-            state.next_agent = "AccionCorrectiva"
+            state.next_agent = "Reparacion"
         else:
             state.needs_followup = False
             state.next_agent = None
