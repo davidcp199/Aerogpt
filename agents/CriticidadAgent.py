@@ -50,7 +50,6 @@ def load_store(path: Path) -> FAISS | None:
         logger.exception("Error cargando FAISS store: %s", e)
         return None
 
-
 STORES = {
     name: store
     for name, path in VECTORSTORES.items()
@@ -93,7 +92,9 @@ def build_context(docs: List[Document]) -> str:
         blocks.append(f"[{source}]\n{d.page_content}")
     return "\n\n".join(blocks)
 
-
+# ============================================================
+# PROMPT EN ESPAÑOL
+# ============================================================
 
 CRITICIDAD_PROMPT = """
 Eres un ingeniero experto en seguridad y confiabilidad aeronáutica.
@@ -110,10 +111,16 @@ Debes:
 - Evitar especulación fuera de los datos proporcionados
 
 Pregunta:
-{{question}}
+{question}
 
 Evidencia:
-{{context}}
+{context}
+
+Información adicional:
+- Histórico reciente de mensajes: {history}
+- Estado de RUL: {rul_info}
+- Información de Regulación: {regulation_info}
+- Información Técnica: {tecnico_info}
 
 Proporciona un análisis estructurado en JSON con las siguientes claves:
 - affected_system
@@ -126,10 +133,6 @@ Proporciona un análisis estructurado en JSON con las siguientes claves:
 
 # ============================================================
 # AGENTE CRITICIDAD
-# ============================================================
-
-# ============================================================
-# LANGGRAPH NODE
 # ============================================================
 
 def criticidad_action(state: AgentState) -> AgentState:
@@ -147,16 +150,43 @@ def criticidad_action(state: AgentState) -> AgentState:
             state.next_agent = None
             return state
 
+        # Recuperar contexto
         docs = retrieve_context(question)
         context = build_context(docs)
 
+        # Histórico reciente
+        history = "\n".join(
+            [f"{m.content}" for m in state.messages[-5:] if isinstance(m, AIMessage)]
+        ) or "No hay histórico reciente."
+
+        # Información de RUL
+        rul_info = ""
+        if isinstance(state.rul, dict):
+            rul_info = f"RUL estimado: {state.rul.get('predicted_RUL', 'No disponible')} ciclos. {state.rul.get('text', '')}"
+        elif isinstance(state.rul, str):
+            rul_info = state.rul
+        else:
+            rul_info = "No hay información de RUL."
+
+        # Información de Regulación y Técnico
+        regulation_info = getattr(state, "regulation", "No disponible")
+        tecnico_info = getattr(state, "tecnico", "No disponible")
+
+        # Construir prompt
         prompt = CRITICIDAD_PROMPT.format(
             question=question,
-            context=context
+            context=context,
+            history=history,
+            rul_info=rul_info,
+            regulation_info=regulation_info,
+            tecnico_info=tecnico_info
         )
 
+        # Llamar al LLM determinista
         response = llm_deterministic.invoke(prompt)
         criticidad_data = response.content
+
+        # Parsear JSON
         try:
             criticidad_json = json.loads(criticidad_data)
         except Exception as e:
@@ -167,13 +197,15 @@ def criticidad_action(state: AgentState) -> AgentState:
 
         # Guardar directamente en el estado
         state.criticidad = criticidad_json
-        # Asignar dispatch_allowed según la severidad
+
+        # Asignar dispatch_allowed según severidad
         severity = criticidad_json.get("severity", "").upper()
         state.dispatch_allowed = severity in ["LOW", "MEDIUM"]
 
+        # Actualizar memoria
         state.update_memory("Criticidad", json.dumps(criticidad_json, ensure_ascii=False))
 
-        # Decidir si seguir con otro agente
+        # Decidir siguiente agente
         if severity in ["HIGH", "CRITICAL"]:
             print(">>> Criticidad alta detectada, se requiere seguimiento.")
             state.needs_followup = True
@@ -183,7 +215,7 @@ def criticidad_action(state: AgentState) -> AgentState:
             state.next_agent = "Final"
 
         print(f"Análisis criticidad generado. Severidad: {severity}. Dispatch permitido: {state.dispatch_allowed}")
-        
+
         return state
 
     except Exception as e:

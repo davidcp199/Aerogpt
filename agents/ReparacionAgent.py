@@ -52,56 +52,31 @@ for name, path in VECTORSTORES.items():
         STORES[name] = store_instance
 
 # ============================================================
-# Recuperación de contexto
-# ============================================================
-def retrieve_context(system: str, flight_phase: str, severity: str, user_query: str) -> List[Document]:
-    query = f"{user_query} | Sistema: {system} | Fase: {flight_phase} | Severidad: {severity}"
-    retrieved: List[Document] = []
-
-    for store_name, store in STORES.items():
-        try:
-            docs = store.max_marginal_relevance_search(
-                query=query,
-                k=K,
-                fetch_k=20,
-                lambda_mult=0.7
-            )
-            retrieved.extend(docs)
-        except Exception as e:
-            logger.warning(f"Error buscando en store {store_name}: {e}")
-
-    return retrieved
-
-def build_context(docs: List[Document]) -> str:
-    blocks = []
-    for d in docs:
-        source = d.metadata.get("source", "UNKNOWN")
-        blocks.append(f"[{source}]\n{d.page_content}")
-    return "\n\n".join(blocks)
-
-# ============================================================
-# Prompt Reparación
+# Prompt Reparación actualizado
 # ============================================================
 REPARACION_PROMPT = ChatPromptTemplate.from_template(
 """
 Eres un ingeniero de mantenimiento aeronáutico experto.
 
-Debes generar recomendaciones de reparación, inspección o mitigación técnica
-basándote en la información disponible.
+Genera recomendaciones de reparación, inspección o mitigación técnica
+basándote en toda la información disponible:
 
-Contexto posible:
-- Puede existir un análisis previo de criticidad
-- O puede tratarse de una consulta directa de troubleshooting sin análisis de safety
+- Análisis previo de criticidad
+- Información de RUL
+- Información regulatoria
+- Información técnica
+- Histórico reciente de mensajes del usuario
+
+Si la criticidad es CRITICAL o RUL cercano a fin de vida, debes generar
+acciones correctivas inmediatas y no devolver "NO PROCEDEN REPARACIÓN CORRECTIVA".
 
 Si no hay información suficiente:
 - Proporciona acciones genéricas de diagnóstico (AMM / FIM / TSM)
-- Indica claramente supuestos y limitaciones
+- Indica supuestos y limitaciones
 
-El JSON debe ser válido según el estándar RFC 8259.
+El JSON debe ser válido según RFC 8259.
 No uses saltos de línea dentro de strings.
-No incluyas texto fuera del JSON.
-
-Devuelve EXCLUSIVAMENTE un objeto JSON con esta estructura:
+Devuelve exclusivamente un objeto JSON con la estructura:
 
 {{
   "system_affected": "{system}",
@@ -119,35 +94,13 @@ Devuelve EXCLUSIVAMENTE un objeto JSON con esta estructura:
   "notes": "Supuestos realizados y observaciones técnicas"
 }}
 
-REGLAS CRÍTICAS:
-Está PROHIBIDO asumir sistemas, ATA chapters o modos de fallo no mencionados explícitamente
-en el contexto o en el análisis previo.
-
-Si no se identifica ningún fallo, degradación, aviso técnico, ni condición anómala,
-o si el contexto indica operación normal (por ejemplo RUL alto, parámetros dentro de rango),
-DEBES devolver el siguiente JSON indicando que NO procede reparación correctiva.
-
-En ese caso, el JSON DEBE ser exactamente:
-
-{{
-  "system_affected": "N/A",
-  "flight_phase": "N/A",
-  "severity": "NONE",
-  "recommended_actions": [
-    "No se requiere reparación correctiva.",
-    "Continuar operación normal según programa de mantenimiento.",
-    "Mantener monitoreo de tendencias e inspecciones preventivas (MPD)."
-  ],
-  "references": [
-    "MPD",
-    "Manual de mantenimiento del motor"
-  ],
-  "notes": "No se han identificado fallos ni condiciones anómalas que requieran intervención."
-}}
-
-
 Información disponible:
-{context}
+- Contexto de documentos: {{context}}
+- Análisis Criticidad: {{criticidad_info}}
+- RUL: {{rul_info}}
+- Regulación: {{regulation_info}}
+- Información Técnica: {{tecnico_info}}
+- Histórico reciente: {{history}}
 """
 )
 
@@ -156,73 +109,94 @@ Información disponible:
 # ============================================================
 def reparacion_action(state: AgentState) -> AgentState:
     """
-    Genera recomendaciones de reparación:
-    - Desde criticidad (flujo safety)
-    - O directamente como troubleshooting técnico
+    Genera recomendaciones de reparación basadas en:
+    Criticidad, RUL, Regulación, Información técnica y contexto histórico
     """
     print(">>> Ejecutando acción REPARACION")
     logger.info(">>> REPARACION")
     state.source = "Reparacion"
 
-    # --------------------------------------------------------
-    # Determinar origen
-    # --------------------------------------------------------
-    if state.criticidad:
-        system = state.criticidad.get("affected_system", "Desconocido")
-        flight_phase = state.criticidad.get("flight_phase", "Desconocida")
-        severity = state.criticidad.get("severity", "MEDIUM")
-    else:
-        logger.info("Reparacion sin criticidad previa (modo troubleshooting)")
-        system = "No especificado"
-        flight_phase = "UNKNOWN"
-        severity = "MEDIUM"
-
-    user_query = state.messages[-1].content
-
     try:
-        docs = retrieve_context(system, flight_phase, severity, user_query)
-        context = build_context(docs)
+        # --------------------------------------------------------
+        # Extraer contexto principal
+        # --------------------------------------------------------
+        system = state.criticidad.get("affected_system", "Desconocido") if state.criticidad else "No especificado"
+        flight_phase = state.criticidad.get("flight_phase", "Desconocida") if state.criticidad else "UNKNOWN"
+        severity = state.criticidad.get("severity", "MEDIUM").upper() if state.criticidad else "MEDIUM"
 
+        user_query = state.messages[-1].content
+
+        # --------------------------------------------------------
+        # Construir contexto integrado
+        # --------------------------------------------------------
+        context_blocks = []
+
+        if state.criticidad:
+            context_blocks.append(f"[CRITICIDAD]\n{json.dumps(state.criticidad, ensure_ascii=False, indent=2)}")
+        if state.rul:
+            context_blocks.append(f"[RUL]\n{state.rul}")
+        if getattr(state, "regulation", None):
+            context_blocks.append(f"[REGULACION]\n{json.dumps(state.regulation, ensure_ascii=False, indent=2)}")
+        if getattr(state, "tecnico", None):
+            context_blocks.append(f"[TECNICO]\n{json.dumps(state.tecnico, ensure_ascii=False, indent=2)}")
+        # Histórico reciente de mensajes
+        history = "\n".join([m.content for m in state.messages[-5:]])  # últimos 5 mensajes
+        context_blocks.append(f"[HISTORICO]\n{history}")
+
+        context_str = "\n\n".join(context_blocks)
+
+        # --------------------------------------------------------
+        # Recuperar documentos vectorstores
+        # --------------------------------------------------------
+        docs = []
+        for store_name, store in STORES.items():
+            try:
+                retrieved_docs = store.max_marginal_relevance_search(
+                    query=f"{user_query} | Sistema: {system} | Fase: {flight_phase} | Severidad: {severity}",
+                    k=K,
+                    fetch_k=20,
+                    lambda_mult=0.7
+                )
+                docs.extend(retrieved_docs)
+            except Exception as e:
+                logger.warning(f"Error buscando en store {store_name}: {e}")
+
+        for d in docs:
+            source = d.metadata.get("source", "UNKNOWN")
+            context_str += f"\n\n[{source}]\n{d.page_content}"
+
+        # --------------------------------------------------------
+        # Invocar LLM
+        # --------------------------------------------------------
         chain = REPARACION_PROMPT | llm_creative
         response = chain.invoke({
             "system": system,
             "flight_phase": flight_phase,
             "severity": severity,
-            "context": context
+            "context": context_str,
+            "criticidad_info": json.dumps(state.criticidad, ensure_ascii=False) if state.criticidad else "",
+            "rul_info": state.rul or "",
+            "regulation_info": json.dumps(state.regulation, ensure_ascii=False) if getattr(state, "regulation", None) else "",
+            "tecnico_info": json.dumps(state.tecnico, ensure_ascii=False) if getattr(state, "tecnico", None) else "",
+            "history": history
         })
 
         raw_text = response.content.strip()
-
-        # ----------------------------------------------------
-        # Limpieza defensiva del output
-        # ----------------------------------------------------
         if raw_text.startswith("```"):
-            raw_text = raw_text.strip("`")
-            raw_text = raw_text.replace("json", "", 1).strip()
+            raw_text = raw_text.strip("`").replace("json", "", 1).strip()
 
-        # ----------------------------------------------------
-        # Parseo JSON
-        # ----------------------------------------------------
+        # Parseo JSON defensivo
         try:
             reparacion_data = json.loads(raw_text)
-        except json.JSONDecodeError as e:
-            logger.error("JSON inválido devuelto por LLM:\n%s", raw_text)
+        except json.JSONDecodeError:
             state.messages.append(
-                AIMessage(
-                    content=(
-                        "He generado recomendaciones técnicas, pero el formato "
-                        "estructurado no pudo validarse correctamente. "
-                        "¿Desea que lo reformule?"
-                    )
-                )
+                AIMessage(content="He generado recomendaciones técnicas, pero el formato JSON no pudo validarse. Solicite reformulación.")
             )
             state.needs_followup = False
             state.next_agent = None
             return state
 
-        # ----------------------------------------------------
         # Guardar resultado
-        # ----------------------------------------------------
         state.reparacion = reparacion_data
         state.messages.append(
             AIMessage(content=f"Recomendaciones de reparación generadas:\n{json.dumps(reparacion_data, indent=2)}")
@@ -234,9 +208,7 @@ def reparacion_action(state: AgentState) -> AgentState:
 
     except Exception as e:
         logger.exception("Error interno en ReparacionAgent: %s", e)
-        state.messages.append(
-            AIMessage(content="Error interno al generar recomendaciones de reparación.")
-        )
+        state.messages.append(AIMessage(content="Error interno al generar recomendaciones de reparación."))
         state.needs_followup = False
         state.next_agent = None
         return state

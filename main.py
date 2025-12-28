@@ -108,6 +108,25 @@ def print_final_response(state: AgentState):
         print(ia_msgs[-1].content)
 
 # ==============================================
+# Detección de nuevo caso
+# ==============================================
+def is_new_case(user_text: str) -> bool:
+    triggers = [
+        "nuevo motor",
+        "nuevo avión",
+        "otro motor",
+        "otro avión",
+        "caso nuevo",
+        "equipo distinto",
+        "empezar de cero",
+        "motor diferente",
+        "avión diferente"
+    ]
+    text = user_text.lower()
+    return any(t in text for t in triggers)
+
+
+# ==============================================
 # Bucle principal
 # ==============================================
 def main_loop():
@@ -134,6 +153,16 @@ def main_loop():
                 print("\n=== RESUMEN DE CONVERSACIÓN ===")
                 print(state.conversation_summary or "Sin resumen aún")
                 continue
+
+            # --- RESET DE CONTEXTO POR NUEVO CASO ---
+            if is_new_case(user_input):
+                print(">>> Nuevo caso detectado. Limpiando estado técnico.")
+                logger.info("Nuevo caso detectado. Limpiando estado técnico.")
+
+                state.rul = None
+                state.criticidad = None
+                state.reparacion = None
+                state.regulation = None
 
             # Reset de estado por iteración
             reset_state_iteration(state)

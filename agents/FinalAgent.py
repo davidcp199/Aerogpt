@@ -7,37 +7,60 @@ from agents.State import AgentState
 logger = logging.getLogger(__name__)
 
 FINAL_AGENT_PROMPT = ChatPromptTemplate.from_template("""
-Eres un asistente experto en aviación, mantenimiento y normativa aeronáutica.
+Eres un asistente experto en aviación, certificación aeronáutica, normativa EASA/FAA
+y mantenimiento aeronáutico.
 
-Tu tarea:
-1. Responder a la pregunta del usuario de manera clara, profesional y concisa.
-2. Integrar información relevante de los agentes disponibles:
-   - Regulación
-   - Criticidad
-   - Reparación
-   - RUL
-   - Técnico
-3. Solo incluir información que sea **relevante para la pregunta del usuario**.
-4. Diferencia claramente entre:
-   - Observaciones técnicas o de estado actual
-   - Recomendaciones prácticas o acciones preventivas
-5. No incluyas información irrelevante o que no aplique al contexto de la pregunta.
-6. Si no hay datos de reparación o criticidad relevantes, omítelos.
-7. Siempre mantén un tono profesional, en español y accesible para tripulación y personal técnico.
-8. Siempre que haya informacion de RUL, inclúyela si es relevante para la pregunta del usuario, idicando el RUL calculado al principio siempre.
-9. No inventes información ni hagas suposiciones no basadas en los datos proporcionados, los únicos datos que puedes usar es la información de los agentes y tu la sintetizas.
+Tu función es generar UNA RESPUESTA FINAL COMPLETA Y ADAPTADA A LA INTENCIÓN DEL USUARIO,
+basándote exclusivamente en la información proporcionada por los agentes.
 
-Pregunta del usuario:
+PRINCIPIO CLAVE
+Antes de responder, debes razonar internamente:
+- Qué tipo de pregunta hace el usuario: regulatoria, técnica, operativa o mixta.
+- Qué información es relevante y cuál debe ignorarse por completo.
+- Si hay datos disponibles de la fuente relevante, debes exponerlos casi completos para enriquecer la respuesta.
+- Información secundaria (criticidad, RUL, reparaciones) se puede incluir solo si es coherente y aporta valor al contexto.
+
+TIPOS DE PREGUNTA (clasificación implícita)
+1. Regulación pura → definiciones, límites, certificación
+2. Regulación aplicada → normativa con implicaciones operativas
+3. Técnica descriptiva → funcionamiento de sistemas
+4. Técnica con estado → análisis técnico con criticidad
+5. Caso operacional completo → RUL + criticidad + acciones
+
+JERARQUÍA DE FUENTES
+- Regulación pura → Regulación (exclusiva)
+- Regulación aplicada → Regulación (principal) + Criticidad/Acciones solo si aportan valor
+- Técnica descriptiva → Técnico
+- Técnica con estado → Técnico > Criticidad > Reparación
+- Caso completo → RUL > Criticidad > Reparación > Regulación
+
+REGLAS ESTRICTAS
+1. NO inventes contexto operativo que el usuario no haya dado.
+2. No incluyas información irrelevante o contradictoria que no aporte valor ni se corresponda con la intención de la pregunta.
+3. Prioriza siempre la fuente más relevante según la jerarquía definida.
+4. Si hay datos en la fuente prioritaria, preséntalos completos y estructurados para enriquecer la respuesta.
+5. Mantén precisión normativa: CS-33/FAR33 para motores, CS-25/FAR25 para aeronaves, ORO/CAT/MEL/AFM según aplique.
+6. La respuesta debe adaptarse a la pregunta: explicación, definición normativa, aclaración técnica o análisis operativo según corresponda.
+
+FORMATO DE RESPUESTA
+- Adáptalo a la pregunta.
+- Incluye secciones solo si aportan valor.
+- Prioriza la fuente más relevante y muestra su información casi completa.
+- Información secundaria (criticidad, reparaciones, RUL) solo si es coherente con la intención de la pregunta.
+- No propongas acciones si no han sido solicitadas explícitamente.
+
+PREGUNTA DEL USUARIO
 {user_question}
 
-Información disponible de agentes:
+INFORMACIÓN DISPONIBLE DE AGENTES
 Regulación: {regulation_info}
+RUL: {rul_info}
+Técnico: {technical_info}
 Criticidad: {criticality_info}
 Reparación: {repair_info}
-RUL: {rul_info}
-
-Genera la respuesta final en lenguaje natural, estructurada y coherente.
 """)
+
+
 
 
 def final_action(state):
@@ -53,15 +76,20 @@ def final_action(state):
     try:
         user_question = state.messages[-1].content
 
-        regulation_info = getattr(state, "regulation", "No disponible")
-        criticality_info = getattr(state, "criticidad", "No disponible")
-        repair_info = getattr(state, "reparacion", "No disponible")
+        regulation_info = getattr(state, "regulation", None)
+        criticality_info = getattr(state, "criticidad", None)
+        repair_info = getattr(state, "reparacion", None)
+
+        # RUL
         rul_state = getattr(state, "rul", None)
         if isinstance(rul_state, dict):
-            rul_info = f"RUL estimado: {rul_state.get('predicted_RUL', 'No disponible')} ciclos. {rul_state.get('text', '')}"
+            rul_info = f"RUL estimado: {rul_state.get('predicted_RUL')} ciclos. {rul_state.get('text', '')}"
         else:
-            rul_info = rul_state or "No disponible"
+            rul_info = rul_state
 
+
+        # TÉCNICO (CLAVE PARA EVITAR EL ERROR)
+        technical_info = getattr(state, "tecnico", None)
 
         chain = FINAL_AGENT_PROMPT | llm_creative
         response = chain.invoke({
@@ -69,26 +97,28 @@ def final_action(state):
             "regulation_info": regulation_info,
             "criticality_info": criticality_info,
             "repair_info": repair_info,
-            "rul_info": rul_info
+            "rul_info": rul_info,
+            "technical_info": technical_info
         })
 
         print("==============================Entrando en FinalAgent, respuesta generada.=========================================")
-        print(f"regulation_info: {regulation_info}")
-        print(f"criticality_info: {criticality_info}")
-        print(f"repair_info: {repair_info}")
-        print(f"rul_info: {rul_info}")
+        print(f"----> regulation_info: {regulation_info} \n")
+        print(f"----> criticality_info: {criticality_info} \n")
+        print(f"----> repair_info: {repair_info} \n")
+        print(f"----> rul_info: {rul_info} \n")
+        print(f"----> technical_info: {technical_info} \n")
         print("==============================SALIENDO en FinalAgent, respuesta generada.=========================================")
-
 
         state.messages.append(AIMessage(content=response.content.strip()))
         state.needs_followup = False
         state.next_agent = None
         return state
 
-
     except Exception as e:
         logger.exception("Error interno en FinalAgent: %s", e)
-        state.messages.append(AIMessage(content=f"Error generando respuesta final: {e}"))
+        state.messages.append(
+            AIMessage(content=f"Error generando respuesta final: {e}")
+        )
         state.needs_followup = False
         state.next_agent = None
         return state
