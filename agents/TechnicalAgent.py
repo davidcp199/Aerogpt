@@ -78,7 +78,6 @@ def technical_action(state):
     logger.info(">>> TECNICO")
     state.source = "Tecnico"
 
-
     try:
         question = state.messages[-1].content
         if not question:
@@ -145,8 +144,8 @@ def technical_action(state):
             state.needs_followup = True
             state.next_agent = "Criticidad"
         else:
-            state.needs_followup = False
-            state.next_agent = None
+            state.needs_followup = True
+            state.next_agent = "Final"
         return state
 
 

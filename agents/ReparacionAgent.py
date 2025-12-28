@@ -162,6 +162,7 @@ def reparacion_action(state: AgentState) -> AgentState:
     """
     print(">>> Ejecutando acción REPARACION")
     logger.info(">>> REPARACION")
+    state.source = "Reparacion"
 
     # --------------------------------------------------------
     # Determinar origen
@@ -227,8 +228,8 @@ def reparacion_action(state: AgentState) -> AgentState:
             AIMessage(content=f"Recomendaciones de reparación generadas:\n{json.dumps(reparacion_data, indent=2)}")
         )
 
-        state.needs_followup = False
-        state.next_agent = None
+        state.needs_followup = True
+        state.next_agent = "Final"
         return state
 
     except Exception as e:

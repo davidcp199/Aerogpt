@@ -11,42 +11,55 @@ logger = logging.getLogger(__name__)
 # --- Prompt para decidir acción ---
 PROMPT_PRE_RUL = ChatPromptTemplate.from_template(
     """
-Eres un asistente experto en motores aeronáuticos y en CMAPSS.
-Analiza el último mensaje del usuario y decide la acción correcta.
+Eres un asistente experto en motores aeronáuticos y en el dataset CMAPSS para predicción de RUL.
 
-- "Update" → si el usuario menciona nuevos valores de sensores, configuraciones, unidad, ciclos, o motor (FD), aunque diga calcular, si menciona datos de este tipo devolver este valor.
-- "Calculate" → solo si el usuario quiere calcular el RUL explícitamente y **no hay nuevos valores a registrar, no menciona nuevos sensores ni configuraciones**.
-    Si de entrada tenemos Nueva medición registrada. (X filas acumuladas). ¿Quiere Calcular RUL ahora? y se responde de manera afirmativa, tambien es correcto devolver "Calculate".
-- "Status" → si quiere ver el historial de mediciones acumuladas, si quiere que le enseñe los datos del motor hasta ahora.
-- "Reset" → si quiere reiniciar los datos o indicar un nuevo motor.
-- "Exit" → si el usuario quiere finalizar la sesión.
-- "Chat" → si el mensaje es general o no tiene relación con actualizar/calcular/exit.
+Tu tarea es analizar el último mensaje del usuario y decidir **una sola acción prioritaria** de acuerdo con las siguientes reglas:
 
-**Importante**: Si el usuario menciona cualquier valor concreto de sensor/configuración, se debe elegir "Update" incluso si dice "calcular RUL".
+1. **Update** → Si el usuario menciona **nuevos valores de sensores, configuraciones, unidad, ciclos o motor**, incluso si también menciona calcular el RUL.  
+2. **Calculate** → Solo si el usuario quiere calcular el RUL explícitamente **y no hay nuevos datos a registrar**.  
+3. **Status** → Si el usuario quiere ver el historial de mediciones acumuladas o los datos del motor hasta ahora.
+4. **Reset** → Si quiere reiniciar los datos o indicar un nuevo motor.
+5. **Exit** → Si el usuario quiere finalizar la sesión.
+6. **Chat** → Para mensajes generales o preguntas técnicas sobre motores, degradación o RUL que no impliquen ninguna acción de registro o cálculo.
 
-Último mensaje de IA (si existe): {last_ai_message}
+**Importante**:
+- Prioridad: si hay datos de sensor mencionados, aunque ponga calcular el RUL, se debe devolver "Update" o "Reset", el que corresponda, Nunca "Calculate" para estos casos.
+- Devuelve SOLO una palabra EXACTA: "Update", "Calculate", "Status", "Reset", "Exit", "Chat".
+- No agregues explicaciones ni texto adicional.
+
 Último mensaje del usuario:
 {user_message}
 
-Responde SOLO con una de las siguientes palabras EXACTAS (sin explicaciones ni texto adicional): "Update", "Calculate", "Status", "Reset", "Exit", "Chat".
 """
 )
 
+
 # --- Prompt para chat ---
 PROMPT_CHAT = ChatPromptTemplate.from_template(
-    """
-Eres un asistente experto en motores aeronáuticos y en el dataset CMAPSS para predicción de RUL.
-Responde de forma clara, concisa y técnica a cualquier pregunta del usuario sobre motores, sensores, degradación o predicción de RUL.
+"""
+Eres un asistente experto en motores aeronáuticos y en el dataset CMAPSS para predicción de RUL (Remaining Useful Life).
 
-Instrucciones:
-- Mantén el contexto de CMAPSS y RUL aunque el usuario pregunte algo general.
+Instrucciones generales:
+- Responde de forma clara, concisa y técnica a cualquier pregunta sobre motores, sensores, degradación o predicción de RUL.
 - Nunca inventes valores de sensores ni datos de RUL.
-- Al final de tu respuesta, recuerda al usuario las posibles acciones que puede hacer a continuación: "Update" para actualizar datos, "Calculate" para calcular la RUL, o "Exit" para finalizar la sesión.
+- Mantén el contexto de CMAPSS y RUL aunque la pregunta sea general.
+- Al final de tu respuesta, recuerda al usuario las posibles acciones que puede hacer a continuación: 
+  "Update" para actualizar datos, "Calculate" para calcular la RUL, o "Exit" para finalizar la sesión.
+
+Información sobre la predicción de RUL:
+- El RUL se calcula a partir de una **secuencia de datos históricos fila por fila**.
+- Cada fila contiene:
+    * 3 configuraciones operativas del motor.
+    * 21 mediciones de sensores etiquetadas como s_1, s_2, ..., s_21.
+    * Identificador de unidad y tiempo de ciclos de operación.
+- Para obtener predicciones precisas, se recomienda tener **al menos 30 filas acumuladas** de datos por motor.
+- Si hay menos de 30 filas, se puede generar un historial sintético, pero esto reduce la precisión de la predicción.
 
 Mensaje del usuario:
 {user_message}
 """
 )
+
 
 def pre_rul_action(state):
     """
@@ -57,6 +70,7 @@ def pre_rul_action(state):
     """
     print("<<<PRERUL")
     state.source = "PreRUL"
+    
     try:
         last_user_msg = state.messages[-1].content if state.messages else ""
 
@@ -65,13 +79,10 @@ def pre_rul_action(state):
             state.pre_rul_data = pd.DataFrame()
             print("Inicializando DataFrame vacío para medidas CMAPSS...")
 
-        last_ai_msg = state.last_ai_message
-
         # LLM Accion
         chain = PROMPT_PRE_RUL | llm_deterministic
         response = chain.invoke({
-         "user_message": last_user_msg,
-         "last_ai_message": last_ai_msg or ""
+         "user_message": last_user_msg
         })
         action = response.content.strip()
 

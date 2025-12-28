@@ -12,7 +12,36 @@ PROMPT_RUL_RESPONSE = ChatPromptTemplate.from_template(
 Eres un asistente experto en mantenimiento de motores aeronáuticos.
 Se te entrega la siguiente información:
 - Predicción RUL del motor: {predicted_RUL} ciclos
-- Valores de sensores: {sensor_values}
+- Valores de sensores y configuraciones: {sensor_values}
+
+Las columnas corresponden a:
+- Configuraciones del motor:
+  - `setting1`: Ajuste de flujo de aire del compresor
+  - `setting2`: Ajuste de presión de combustible
+  - `setting3`: Posición de la válvula de geometría variable
+- Sensores:
+  - `comp_pressure1` (s1): Presión en la etapa 1 del compresor
+  - `comp_pressure2` (s2): Presión en la etapa 2 del compresor
+  - `comp_temp1` (s3): Temperatura en la etapa 1 del compresor
+  - `comp_temp2` (s4): Temperatura en la etapa 2 del compresor
+  - `comp_vibration` (s5): Vibración del compresor
+  - `hpc_pressure` (s6): Presión en la cámara de alta presión (HPC)
+  - `hpc_temp` (s7): Temperatura en la cámara de alta presión
+  - `fan_speed_core` (s8): Velocidad del fan del núcleo
+  - `fan_speed_lpc` (s9): Velocidad del fan de baja presión (LPC)
+  - `turbine_temp` (s10): Temperatura en la turbina de alta presión
+  - `turbine_vibration` (s11): Vibración en la turbina
+  - `fuel_flow` (s12): Flujo de combustible
+  - `oil_pressure` (s13): Presión de aceite
+  - `oil_temp` (s14): Temperatura de aceite
+  - `exhaust_temp` (s15): Temperatura de gases de escape
+  - `bleed_air` (s16): Flujo de bleed air
+  - `core_speed` (s17): Velocidad del núcleo
+  - `lpc_exit_temp` (s18): Temperatura a la salida del LPC
+  - `hpc_exit_temp` (s19): Temperatura a la salida del HPC
+  - `vibration_fan` (s20): Vibración del fan
+  - `fuel_valve_pos` (s21): Posición de la válvula de combustible
+
 Instrucciones:
 1. Evalúa el nivel de desgaste del motor según RUL:
    - RUL > 80: "Desgaste bajo. Continuar operación normal."
@@ -20,17 +49,25 @@ Instrucciones:
    - RUL > 20: "Desgaste significativo. Evaluar inspección avanzada."
    - RUL > 5 : "Riesgo elevado. Requiere monitorización constante."
    - RUL <=5 : "ALERTA CRÍTICA: Recomendada retirada inmediata del motor."
+
 2. Detecta degradación asociada a sensores clave:
-   - Temperatura / Compresor: s_3
-   - Presión HPC: s_4
-   - Vibraciones: s_7
-   - Fan speed / núcleo: s_9
-   - Fuel flow: s_14
-3. Traduce patrones a modos de fallo probables (usa lenguaje claro y conciso).
+   - Temperatura / Compresor: `comp_temp1` (s3)
+   - Presión HPC: `hpc_pressure` (s6)
+   - Vibraciones: `comp_vibration` (s5)
+   - Fan speed / núcleo: `fan_speed_core` (s8)
+   - Fuel flow: `fuel_flow` (s12)
+
+3. **Al redactar la respuesta**, no es necesario mencionar todos los sensores. Solo describe:
+   - Los sensores que muestran degradación significativa
+   - Los sensores más importantes para entender el estado del motor
+   - Patrones relevantes para cada situación concreta
+
+4. Traduce los patrones a modos de fallo probables usando lenguaje claro y conciso.
 
 Formato de salida: texto profesional, sin JSON.
 """
 )
+
 
 
 def rul_action(state):
@@ -41,14 +78,15 @@ def rul_action(state):
     - Genera explicaciones
     """
     print(">>>RUL")
+    logger.info(">>> RUL AGENT")
     state.source = "RUL"
 
     try:
         # Comprobar que hay datos acumulados
         if state.pre_rul_data is None or len(state.pre_rul_data) == 0:
             state.messages.append(AIMessage(content="No hay datos para calcular el RUL. Añada datos de configuracion y sensores del motor primero."))
-            state.needs_followup = True
-            state.next_agent = "PreRUL"
+            state.needs_followup = False
+            state.next_agent = None
             return state
 
         df_user = state.pre_rul_data
@@ -61,15 +99,16 @@ def rul_action(state):
         except Exception as e:
             logger.exception("Error en predict_RUL: %s", e)
             state.messages.append(AIMessage(content=f"Error al calcular la RUL: {e}"))
-            state.needs_followup = True
-            state.next_agent = "PreRUL"
+            state.needs_followup = False
+            state.next_agent = None
             return state
 
         predicted_RUL = pred.get("predicted_RUL", None)
+        print(f"----->Predicted RUL: {predicted_RUL}")
         if predicted_RUL is None:
             state.messages.append(AIMessage(content="El modelo no devolvió una predicción válida."))
-            state.needs_followup = True
-            state.next_agent = "PreRUL"
+            state.needs_followup = False
+            state.next_agent = None
             return state
 
         sensor_values = df_user.iloc[-1].to_dict()
@@ -81,6 +120,11 @@ def rul_action(state):
 
         state.messages.append(AIMessage(content=text))
         state.update_memory("RUL", text)
+        state.rul = {
+            "predicted_RUL": predicted_RUL,
+            "text": text
+        }
+
         
 
         # Si el motor está crítico, ir a agente Criticidad
@@ -88,14 +132,12 @@ def rul_action(state):
             state.needs_followup = True
             state.next_agent = "Criticidad"
         else:
-            state.needs_followup = False
-            state.next_agent = None
+            state.needs_followup = True
+            state.next_agent = "Final"
 
         return state
 
     except Exception as e:
         logger.exception("Error en rul_action (RUL): %s", e)
         state.messages.append(AIMessage(content=f"Error interno del agente RUL: {e}"))
-        state.needs_followup = True
-        state.next_agent = "PreRUL"
         return state

@@ -93,9 +93,7 @@ def build_context(docs: List[Document]) -> str:
         blocks.append(f"[{source}]\n{d.page_content}")
     return "\n\n".join(blocks)
 
-# ============================================================
-# PROMPT EN ESPAÑOL
-# ============================================================
+
 
 CRITICIDAD_PROMPT = """
 Eres un ingeniero experto en seguridad y confiabilidad aeronáutica.
@@ -136,6 +134,8 @@ Proporciona un análisis estructurado en JSON con las siguientes claves:
 
 def criticidad_action(state: AgentState) -> AgentState:
     print(">>> Ejecutando acción CRITICIDAD")
+    logger.info(">>> CRITICIDAD AGENT")
+    state.source = "Criticidad"
 
     try:
         question = state.messages[-1].content
@@ -179,8 +179,8 @@ def criticidad_action(state: AgentState) -> AgentState:
             state.needs_followup = True
             state.next_agent = "Reparacion"
         else:
-            state.needs_followup = False
-            state.next_agent = None
+            state.needs_followup = True
+            state.next_agent = "Final"
 
         print(f"Análisis criticidad generado. Severidad: {severity}. Dispatch permitido: {state.dispatch_allowed}")
         

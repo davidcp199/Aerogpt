@@ -43,6 +43,9 @@ def general_action(state):
     - conversation_summary completo
     - outputs recientes de los agentes, configurable mediante AGENT_HISTORY_LIMIT
     """
+    state.source = "General"
+    state.needs_followup = True
+    state.next_agent = "Final"
     try:
         # Usar conversation_summary si existe, sino construir desde mensajes
         conversation_summary = getattr(state, "conversation_summary", "")
@@ -73,7 +76,7 @@ def general_action(state):
             "user_message": user_msg
         })
 
-        print(f"entrando en GeneralAgent LLM con user_msg {user_msg}, agents_history: {agents_history}, conversation_summary: {conversation_summary}")
+        #print(f"entrando en GeneralAgent LLM con user_msg {user_msg}, agents_history: {agents_history}, conversation_summary: {conversation_summary}")
 
         content = response.content.strip()
         state.messages.append(AIMessage(content=content))
@@ -83,4 +86,6 @@ def general_action(state):
         logger.exception("Error en GeneralAgent: %s", e)
         fallback_msg = "Lo siento, no pude procesar tu solicitud correctamente."
         state.messages.append(AIMessage(content=fallback_msg))
+        state.needs_followup = False
+        state.next_agent = None
         return state

@@ -9,22 +9,25 @@ class AgentState(BaseModel):
     }
 
     messages: List[BaseMessage]
-    pre_rul_data: Optional[pd.DataFrame] = None
-    modelo_seleccionado: Optional[str] = "FD001"
+
     decision: Optional[str] = None
     next_agent: Optional[str] = None
     needs_followup: bool = False
     source: Optional[str] = None
-    last_ai_message: Optional[str] = None
     conversation_summary: str = ""
     last_agent_output: Dict[str, str] = Field(default_factory=dict)
 
     regulation: Optional[dict] = None
+    
     criticidad: Optional[dict] = None
     criticidad_sources: Optional[List[str]] = None
     dispatch_allowed: Optional[bool] = None
 
     reparacion: Optional[dict] = None
+
+    rul: Optional[dict] = None
+    pre_rul_data: Optional[pd.DataFrame] = None
+    modelo_seleccionado: Optional[str] = "FD001"
 
     history_by_agent: Dict[str, List[dict]] = {
         "Regulacion": [],

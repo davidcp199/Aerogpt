@@ -141,8 +141,6 @@ def regulation_action(state: AgentState) -> AgentState:
             state.messages.append(
                 AIMessage(content="No se ha proporcionado ninguna pregunta para analizar regulación.")
             )
-            state.needs_followup = False
-            state.next_agent = None
             return state
 
         # Cargar vectorstore regulatorio
@@ -213,8 +211,8 @@ def regulation_action(state: AgentState) -> AgentState:
                 state.needs_followup = True
                 state.next_agent = "Criticidad"
             else:
-                state.needs_followup = False
-                state.next_agent = None
+                state.needs_followup = True
+                state.next_agent = "Final"
 
         except Exception as e:
             logger.exception("Error clasificando criticidad normativa: %s", e)
