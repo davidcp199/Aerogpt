@@ -69,17 +69,53 @@ RESPUESTA:
 
 DECIDE_COMPLIANCE_IMPACT = ChatPromptTemplate.from_template(
 """
-Clasifica el siguiente análisis normativo:
+Eres un experto en normativa aeronáutica y safety operacional.
 
-- CRITICO → si existe incumplimiento normativo con impacto potencial en seguridad operacional
-- NO_CRITICO → si es solo informativo o interpretativo
+Tu tarea es clasificar si el análisis normativo implica CRITICIDAD OPERACIONAL REAL.
 
-Análisis:
+Clasificación:
+
+CRITICO:
+- Existe un INCUMPLIMIENTO explícito de la normativa
+- Se describe una operación fuera de límites certificados
+- Hay impacto directo o inmediato en la seguridad del vuelo
+- Se menciona una condición MEL / CDL / Dispatch NO conforme
+- Se describe una situación real, actual o inminente
+
+SIN_CRITICIDAD:
+- La consulta es puramente informativa, descriptiva o interpretativa
+- Se explican límites normativos sin indicar que se han superado
+- No hay operación real ni escenario de incumplimiento
+- Es una pregunta teórica, formativa o de referencia
+- No se menciona ningún evento, fallo o violación normativa
+
+IMPORTANTE:
+- Nunca clasifiques como CRITICO una consulta que solo pregunta del tipo "cuál es la regulación" o "qué dice la normativa".
+- La existencia de límites de seguridad NO implica criticidad por sí sola.
+
+REGLA CLAVE:
+Si la consulta es informativa, descriptiva o académica, y NO describe una operación real,
+evento, fallo, desviación o incumplimiento, DEBES:
+
+- Establecer "aircraft_applicability": false
+- Establecer "dispatch_relevance": false
+- Establecer "compliance_risk": "LOW"
+- Indicar claramente en el summary que NO existe impacto operacional ni necesidad de acción.
+
+PROHIBIDO inferir incumplimientos, escenarios operacionales o violaciones normativas
+si el usuario no los describe explícitamente.
+
+
+Análisis normativo:
 {analysis}
 
-Responde SOLO con: CRITICO o NO_CRITICO
+Responde SOLO con una palabra, sin explicaciones:
+
+CRITICO
+SIN_CRITICIDAD
 """
 )
+
 
 # ============================================================
 # AGENT ACTION

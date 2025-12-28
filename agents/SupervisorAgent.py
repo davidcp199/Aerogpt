@@ -65,7 +65,10 @@ Agentes disponibles:
 - No añadas explicaciones ni comentarios adicionales.  
 - No inventes categorías.
 
-Último mensaje de IA (si existe): {last_ai_message}
+Último mensaje de IA (si existe):
+{last_ai_message}
+Lo anterior, Último mensaje de IA, solo es importante para contexto o si se hace pregunta final,
+lo importante es lo siguiente, el Mensaje del usuario.
 Mensaje del usuario: {user_message}
 
 - Si una pregunta puede responderse mediante análisis técnico del sistema antes de evaluar riesgos,
