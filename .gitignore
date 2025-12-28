@@ -1,6 +1,7 @@
 .env
 Cosas.txt
-C:\Users\David\Documents\AeroGPT\data\vectorStores
+data/vectorStores/
+*.faiss
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
