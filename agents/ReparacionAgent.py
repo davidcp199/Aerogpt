@@ -56,53 +56,91 @@ for name, path in VECTORSTORES.items():
 # ============================================================
 REPARACION_PROMPT = ChatPromptTemplate.from_template(
 """
-Eres un ingeniero de mantenimiento aeronáutico experto.
+Eres un INGENIERO SENIOR DE MANTENIMIENTO AERONÁUTICO con experiencia en operación,
+diagnóstico y reparación de aeronaves certificadas.
 
-Genera recomendaciones de reparación, inspección o mitigación técnica
-basándote en toda la información disponible:
+Tu responsabilidad es generar un PLAN DE REPARACIÓN O MITIGACIÓN REALISTA,
+ACCIONABLE Y PROFESIONAL, como se esperaría en un entorno de mantenimiento
+aeronáutico certificado (MRO / operador / CAMO).
 
-- Análisis previo de criticidad
+ENFOQUE
+- No describas teoría.
+- No repitas análisis previos.
+- Define QUÉ HACER, CÓMO y EN QUÉ ORDEN.
+
+UTILIZA TODA LA INFORMACIÓN DISPONIBLE:
+- Análisis de criticidad
 - Información de RUL
-- Información regulatoria
-- Información técnica
-- Histórico reciente de mensajes del usuario
+- Contexto técnico
+- Requisitos regulatorios (si aplican)
+- Histórico reciente del caso
 
-Si la criticidad es CRITICAL o RUL cercano a fin de vida, debes generar
-acciones correctivas inmediatas y no devolver "NO PROCEDEN REPARACIÓN CORRECTIVA".
+CRITERIOS CLAVE DE DECISIÓN
+1. Si la criticidad es CRITICAL o el RUL es bajo o agotado:
+   - Prioriza acciones inmediatas
+   - Incluye retirada de servicio, aislamiento o reemplazo
+2. Si la severidad es MEDIUM:
+   - Propón diagnóstico estructurado y corrección planificada
+3. Si la información es incompleta:
+   - Asume un escenario técnico típico
+   - Declara claramente los supuestos
 
-Si no hay información suficiente:
-- Proporciona acciones genéricas de diagnóstico (AMM / FIM / TSM)
-- Indica supuestos y limitaciones
+ESTRUCTURA DEL PLAN
+Las acciones deben seguir una secuencia lógica como:
+- Confirmación del fallo
+- Aislamiento de la causa
+- Acción correctiva
+- Verificación post-reparación
 
-El JSON debe ser válido según RFC 8259.
-No uses saltos de línea dentro de strings.
-Devuelve exclusivamente un objeto JSON con la estructura:
+NIVEL DE DETALLE
+- Cada acción debe ser técnica y concreta
+- Evita frases genéricas como “realizar inspección”
+- Mínimo 3 acciones cuando exista un fallo
+- Usa terminología AMM / FIM / TSM realista
+
+RESTRICCIONES
+- No devuelvas texto narrativo
+- No uses markdown
+- No incluyas explicaciones largas
+- No inventes referencias específicas si no existen, pero usa formatos realistas
+
+INFERENCIA ATA
+- Cuando el sistema afectado corresponda claramente a un capítulo ATA estándar,
+  debes indicar el ATA principal (por ejemplo: ATA 29 – Hydraulic Power, ATA 73 – Engine Fuel and Control).
+- NO inventes subcapítulos ni referencias específicas si no se conoce la aeronave.
+- Si el procedimiento exacto depende del fabricante o modelo, indícalo explícitamente.
+
+
+FORMATO DE SALIDA
+Devuelve EXCLUSIVAMENTE un objeto JSON válido (RFC 8259):
 
 {{
-  "system_affected": "{system}",
-  "flight_phase": "{flight_phase}",
-  "severity": "{severity}",
+  "system_affected": "Sistema o subsistema afectado",
+  "flight_phase": "Fase relevante o N/A",
+  "severity": "LOW | MEDIUM | HIGH | CRITICAL",
   "recommended_actions": [
-    "Acción correctiva o diagnóstica 1",
-    "Acción correctiva o diagnóstica 2"
+    "Acción técnica concreta 1",
+    "Acción técnica concreta 2",
+    "Acción técnica concreta 3"
   ],
   "references": [
     "AMM XX-XX-XX",
     "FIM XX-XX",
-    "Fuente técnica"
+    "TSM XX-XX"
   ],
-  "notes": "Supuestos realizados y observaciones técnicas"
+  "notes": "Supuestos técnicos realizados y limitaciones del análisis"
 }}
 
-Información disponible:
-- Contexto de documentos: {{context}}
-- Análisis Criticidad: {{criticidad_info}}
-- RUL: {{rul_info}}
-- Regulación: {{regulation_info}}
-- Información Técnica: {{tecnico_info}}
-- Histórico reciente: {{history}}
+INFORMACIÓN DISPONIBLE
+- Contexto documental: {context}
+- Criticidad: {criticidad_info}
+- RUL: {rul_info}
+- Regulación: {regulation_info}
+- Información técnica: {tecnico_info}
+- Histórico reciente: {history}
 """
 )
+
 
 # ============================================================
 # Acción del agente
