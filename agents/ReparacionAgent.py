@@ -150,9 +150,10 @@ def reparacion_action(state: AgentState) -> AgentState:
     Genera recomendaciones de reparación basadas en:
     Criticidad, RUL, Regulación, Información técnica y contexto histórico
     """
-    print(">>> Ejecutando acción REPARACION")
+    # print(">>> Ejecutando acción REPARACION")
     logger.info(">>> REPARACION")
     state.source = "Reparacion"
+    state.emit("\n---> REPARACION AGENT", level="debug")
 
     try:
         # --------------------------------------------------------
@@ -230,6 +231,7 @@ def reparacion_action(state: AgentState) -> AgentState:
             state.messages.append(
                 AIMessage(content="He generado recomendaciones técnicas, pero el formato JSON no pudo validarse. Solicite reformulación.")
             )
+            state.emit("\nError parseando JSON de recomendaciones de reparación.", level="user")
             state.needs_followup = False
             state.next_agent = None
             return state
@@ -239,7 +241,7 @@ def reparacion_action(state: AgentState) -> AgentState:
         state.messages.append(
             AIMessage(content=f"Recomendaciones de reparación generadas:\n{json.dumps(reparacion_data, indent=2)}")
         )
-
+        state.emit(f"\nRecomendaciones de reparación generadas:\n{json.dumps(reparacion_data, indent=2)}", level="debug")
         state.needs_followup = True
         state.next_agent = "Final"
         return state
@@ -247,6 +249,7 @@ def reparacion_action(state: AgentState) -> AgentState:
     except Exception as e:
         logger.exception("Error interno en ReparacionAgent: %s", e)
         state.messages.append(AIMessage(content="Error interno al generar recomendaciones de reparación."))
+        state.emit(f"\nError interno al generar recomendaciones de reparación: {e}", level="user")    
         state.needs_followup = False
         state.next_agent = None
         return state

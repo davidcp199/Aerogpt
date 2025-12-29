@@ -69,7 +69,8 @@ def final_action(state):
     - Integra información de otros agentes
     - Responde a la pregunta del usuario
     """
-    print(">>>FINAL")
+    # print(">>>FINAL Agent")
+    state.emit("\n---> FINAL AGENT", level="debug")
     logger.info(">>> FINAL AGENT")
     state.source = "Final"
 
@@ -110,6 +111,7 @@ def final_action(state):
         print("==============================SALIENDO en FinalAgent, respuesta generada.=========================================")
 
         state.messages.append(AIMessage(content=response.content.strip()))
+        state.emit(response.content.strip(), level="user")
         state.needs_followup = False
         state.next_agent = None
         return state
@@ -119,6 +121,7 @@ def final_action(state):
         state.messages.append(
             AIMessage(content=f"Error generando respuesta final: {e}")
         )
+        state.emit(f"\nError generando respuesta final: {e}", level="user")   
         state.needs_followup = False
         state.next_agent = None
         return state

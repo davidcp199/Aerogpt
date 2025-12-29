@@ -46,6 +46,7 @@ def general_action(state):
     state.source = "General"
     state.needs_followup = True
     state.next_agent = "Final"
+    state.emit("\n---> GENERAL AGENT", level="debug")
     try:
         # Usar conversation_summary si existe, sino construir desde mensajes
         conversation_summary = getattr(state, "conversation_summary", "")
@@ -80,6 +81,7 @@ def general_action(state):
 
         content = response.content.strip()
         state.messages.append(AIMessage(content=content))
+        state.emit(content, level="user")
         return state
 
     except Exception as e:

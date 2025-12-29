@@ -74,9 +74,10 @@ def technical_action(state):
     - Decide siguiente agente (si procede).
     """
 
-    print(">>>TECNICO")
+    # print(">>>TECNICO")
     logger.info(">>> TECNICO")
     state.source = "Tecnico"
+    state.emit("\n---> TECNICO AGENT", level="debug")
 
     try:
         question = state.messages[-1].content
@@ -131,6 +132,8 @@ def technical_action(state):
 
         state.messages.append(AIMessage(content=response_text))
         state.update_memory("Tecnico", response_text)
+        state.tecnico = response_text
+        state.emit(response_text, level="user")
         
 
         # Decide si se envia a agente Criticidad
@@ -140,7 +143,7 @@ def technical_action(state):
         decision = decision.strip().upper()
 
         if "CRITICO" in decision:
-            print(">>> Derivando a CRITICIDAD desde TÉCNICO")
+            # print(">>> Derivando a CRITICIDAD desde TÉCNICO")
             state.needs_followup = True
             state.next_agent = "Criticidad"
         else:
@@ -152,6 +155,7 @@ def technical_action(state):
     except Exception as e:
         logger.exception("Error interno en technical_action: %s", e)
         state.messages.append(AIMessage(content=f"Error interno en agente técnico: {e}"))
+        state.emit(f"\nError interno en agente técnico: {e}", level="user")
         state.needs_followup = False
         state.next_agent = None
         return state

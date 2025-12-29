@@ -136,7 +136,8 @@ Proporciona un análisis estructurado en JSON con las siguientes claves:
 # ============================================================
 
 def criticidad_action(state: AgentState) -> AgentState:
-    print(">>> Ejecutando acción CRITICIDAD")
+    # print(">>> Ejecutando acción CRITICIDAD")
+    state.emit("\n---> CRITICIDAD AGENT", level="debug")
     logger.info(">>> CRITICIDAD AGENT")
     state.source = "Criticidad"
 
@@ -146,6 +147,7 @@ def criticidad_action(state: AgentState) -> AgentState:
             state.messages.append(
                 AIMessage(content="No se ha proporcionado ninguna pregunta técnica para analizar.")
             )
+            state.emit("\nNo se ha proporcionado ninguna pregunta técnica para analizar.", level="user")
             state.needs_followup = False
             state.next_agent = None
             return state
@@ -191,6 +193,7 @@ def criticidad_action(state: AgentState) -> AgentState:
             criticidad_json = json.loads(criticidad_data)
         except Exception as e:
             state.messages.append(AIMessage(content=f"Error parseando JSON de criticidad: {e}"))
+            state.emit(f"\nError parseando JSON de criticidad: {e}", level="user")    
             state.needs_followup = False
             state.next_agent = None
             return state
@@ -207,14 +210,16 @@ def criticidad_action(state: AgentState) -> AgentState:
 
         # Decidir siguiente agente
         if severity in ["HIGH", "CRITICAL"]:
-            print(">>> Criticidad alta detectada, se requiere seguimiento.")
+            # print(">>> Criticidad alta detectada, se requiere seguimiento.")
+            state.emit("\nCriticidad alta detectada, se requiere seguimiento.", level="debug")
             state.needs_followup = True
             state.next_agent = "Reparacion"
         else:
             state.needs_followup = True
             state.next_agent = "Final"
 
-        print(f"Análisis criticidad generado. Severidad: {severity}. Dispatch permitido: {state.dispatch_allowed}")
+        # print(f"Análisis criticidad generado. Severidad: {severity}. Dispatch permitido: {state.dispatch_allowed}")
+        state.emit(f"\nAnálisis criticidad generado. Severidad: {severity}. Dispatch permitido: {state.dispatch_allowed}", level="debug")  
 
         return state
 
@@ -222,6 +227,7 @@ def criticidad_action(state: AgentState) -> AgentState:
         import traceback
         traceback.print_exc()
         state.messages.append(AIMessage(content=f"Error interno en criticidad_action: {e}"))
+        state.emit(f"\nError interno en criticidad_action: {e}", level="user")
         state.needs_followup = False
         state.next_agent = None
         return state

@@ -77,14 +77,16 @@ def rul_action(state):
     - Calcula RUL
     - Genera explicaciones
     """
-    print(">>>RUL")
+    # print(">>>RUL")
     logger.info(">>> RUL AGENT")
     state.source = "RUL"
+    state.emit("\n---> RUL AGENT", level="debug")
 
     try:
         # Comprobar que hay datos acumulados
         if state.pre_rul_data is None or len(state.pre_rul_data) == 0:
             state.messages.append(AIMessage(content="No hay datos para calcular el RUL. Añada datos de configuracion y sensores del motor primero."))
+            state.emit("\nNo hay datos para calcular el RUL. Añada datos de configuracion y sensores del motor primero.", level="user")
             state.needs_followup = False
             state.next_agent = None
             return state
@@ -99,14 +101,17 @@ def rul_action(state):
         except Exception as e:
             logger.exception("Error en predict_RUL: %s", e)
             state.messages.append(AIMessage(content=f"Error al calcular la RUL: {e}"))
+            state.emit(f"\nError al calcular la RUL: {e}", level="user")
             state.needs_followup = False
             state.next_agent = None
             return state
 
         predicted_RUL = pred.get("predicted_RUL", None)
-        print(f"----->Predicted RUL: {predicted_RUL}")
+        #print(f"----->Predicted RUL: {predicted_RUL}")
+        state.emit(f"\nPredicted RUL: {predicted_RUL}", level="debug")
         if predicted_RUL is None:
             state.messages.append(AIMessage(content="El modelo no devolvió una predicción válida."))
+            state.emit("\nEl modelo no devolvió una predicción válida.", level="user")
             state.needs_followup = False
             state.next_agent = None
             return state
@@ -125,8 +130,6 @@ def rul_action(state):
             "text": text
         }
 
-        
-
         # Si el motor está crítico, ir a agente Criticidad
         if isinstance(predicted_RUL, (int, float)) and predicted_RUL < 20:
             state.needs_followup = True
@@ -140,4 +143,5 @@ def rul_action(state):
     except Exception as e:
         logger.exception("Error en rul_action (RUL): %s", e)
         state.messages.append(AIMessage(content=f"Error interno del agente RUL: {e}"))
+        state.emit(f"\nError interno del agente RUL: {e}", level="user")
         return state

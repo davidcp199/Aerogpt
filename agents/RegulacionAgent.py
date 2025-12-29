@@ -130,9 +130,10 @@ def regulation_action(state: AgentState) -> AgentState:
     - Decide siguiente agente (Criticidad) si es crítico.
     """
 
-    print(">>> REGULACION")
+    # print(">>> REGULACION")
     logger.info(">>> REGULACION")
     state.source = "Regulacion"
+    state.emit("\n---> REGULACION AGENT", level="debug")
 
     try:
         # Obtener pregunta del usuario
@@ -141,6 +142,7 @@ def regulation_action(state: AgentState) -> AgentState:
             state.messages.append(
                 AIMessage(content="No se ha proporcionado ninguna pregunta para analizar regulación.")
             )
+            state.emit("\nNo se ha proporcionado ninguna pregunta para analizar regulación.", level="user")
             return state
 
         # Cargar vectorstore regulatorio
@@ -151,6 +153,7 @@ def regulation_action(state: AgentState) -> AgentState:
         except Exception as e:
             logger.exception("Error cargando vectorstore regulatorio: %s", e)
             state.messages.append(AIMessage(content="Error cargando normativa FAA/EASA."))
+            state.emit("\nError cargando normativa FAA/EASA.", level="user")
             state.needs_followup = False
             state.next_agent = None
             return state
@@ -167,6 +170,7 @@ def regulation_action(state: AgentState) -> AgentState:
         except Exception as e:
             logger.exception("Error en similarity_search (regulación): %s", e)
             state.messages.append(AIMessage(content="Error recuperando información de normativa FAA/EASA."))
+            state.emit("\nError recuperando información de normativa FAA/EASA.", level="user")
             state.needs_followup = False
             state.next_agent = None
             return state
@@ -189,12 +193,15 @@ def regulation_action(state: AgentState) -> AgentState:
         except Exception as e:
             logger.exception("Error generando análisis normativo: %s", e)
             state.messages.append(AIMessage(content="Error generando análisis normativo."))
+            state.emit("\nError generando análisis normativo.", level="user")
             state.needs_followup = False
             state.next_agent = None
             return state
 
         # Guardar respuesta en el estado
         state.regulation = regulation_data
+        state.messages.append(AIMessage(content=f"Análisis normativo generado:\n{raw_response_str}"))
+        state.emit(f"\nAnálisis normativo generado:\n{raw_response_str}", level="debug")
         
 
         # Decidir si es crítico o no
@@ -216,6 +223,7 @@ def regulation_action(state: AgentState) -> AgentState:
 
         except Exception as e:
             logger.exception("Error clasificando criticidad normativa: %s", e)
+            state.emit("\nError clasificando criticidad normativa.", level="user")
             state.needs_followup = False
             state.next_agent = None
 
@@ -224,6 +232,7 @@ def regulation_action(state: AgentState) -> AgentState:
     except Exception as e:
         logger.exception("Error interno en regulation_action: %s", e)
         state.messages.append(AIMessage(content=f"Error interno en agente de regulación: {e}"))
+        state.emit(f"\nError interno en agente de regulación: {e}", level="user")
         state.needs_followup = False
         state.next_agent = None
         return state

@@ -122,6 +122,7 @@ def supervisor_action(state):
 
     except Exception as e:
         logger.exception("Error en supervisor LLM: %s", e)
+        state.emit(f"\nError interno en SupervisorAgent: {e}", level="user")
         state.next_agent = None
         agent = None
    

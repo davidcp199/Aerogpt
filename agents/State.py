@@ -1,6 +1,7 @@
+from email.mime import text
 from pydantic import BaseModel, field_validator, Field
 import pandas as pd
-from typing import Optional, List, Dict, Any
+from typing import Optional, List, Dict, Any, Literal
 from langchain_core.messages import BaseMessage
 
 class AgentState(BaseModel):
@@ -16,6 +17,9 @@ class AgentState(BaseModel):
     source: Optional[str] = None
     conversation_summary: str = ""
     last_agent_output: Dict[str, str] = Field(default_factory=dict)
+    
+    output_buffer: List[str] = Field(default_factory=list)
+    debug_buffer: List[str] = Field(default_factory=list)
 
     regulation: Optional[dict] = None
     
@@ -28,6 +32,8 @@ class AgentState(BaseModel):
     rul: Optional[dict] = None
     pre_rul_data: Optional[pd.DataFrame] = None
     modelo_seleccionado: Optional[str] = "FD001"
+
+    tecnico: Optional[str] = None
 
     history_by_agent: Dict[str, List[dict]] = {
         "Regulacion": [],
@@ -59,3 +65,14 @@ class AgentState(BaseModel):
         max_len = 3000
         if len(self.conversation_summary) > max_len:
             self.conversation_summary = self.conversation_summary[-max_len:]
+
+    # Método para capturar las salidas de los agentes    
+    def emit(self, text: str, level: Literal["user","debug"]="user"):
+        """
+        level="user" → para UI
+        level="debug" → para decisiones internas, más transparente
+        """
+        if level == "user":
+            self.output_buffer.append(text)
+        else:
+            self.debug_buffer.append(text)
