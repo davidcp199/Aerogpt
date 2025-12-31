@@ -34,6 +34,8 @@ class AgentState(BaseModel):
     modelo_seleccionado: Optional[str] = "FD001"
 
     tecnico: Optional[str] = None
+    final_response: Optional[str] = None
+    general_notes: Optional[str] = None
 
     history_by_agent: Dict[str, List[dict]] = {
         "Regulacion": [],
@@ -42,7 +44,8 @@ class AgentState(BaseModel):
         "Tecnico": [],
         "RUL": [],
         "PreRUL": [],
-        "General": []
+        "General": [],
+        "Final": []
     }
 
     @field_validator("pre_rul_data", mode="before")

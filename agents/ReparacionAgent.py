@@ -112,6 +112,7 @@ INFERENCIA ATA
 
 
 FORMATO DE SALIDA
+IMPORTANTE: No incluyas ningún texto antes o después del JSON. Solo devuelve un JSON válido.
 Devuelve EXCLUSIVAMENTE un objeto JSON válido (RFC 8259):
 
 {{

@@ -49,12 +49,7 @@ def general_action(state):
     state.emit("\n---> GENERAL AGENT", level="debug")
     try:
         # Usar conversation_summary si existe, sino construir desde mensajes
-        conversation_summary = getattr(state, "conversation_summary", "")
-        if not conversation_summary:
-            conversation_summary = "\n".join([
-                f"Humano: {m.content}" if isinstance(m, HumanMessage) else f"IA: {m.content}"
-                for m in state.messages
-            ])
+        conversation_summary = getattr(state, "conversation_summary", "No hay histórico reciente.")
 
         # Construir resumen de outputs recientes de los agentes
         agents_history_list = []
@@ -77,11 +72,12 @@ def general_action(state):
             "user_message": user_msg
         })
 
-        #print(f"entrando en GeneralAgent LLM con user_msg {user_msg}, agents_history: {agents_history}, conversation_summary: {conversation_summary}")
+        print(f">>>>>>>>>>>>>>>>>>>>>entrando en GeneralAgent LLM con user_msg {user_msg}, agents_history: {agents_history}, conversation_summary: {conversation_summary}")
 
         content = response.content.strip()
         state.messages.append(AIMessage(content=content))
         state.emit(content, level="user")
+        state.general_notes = content
         return state
 
     except Exception as e:

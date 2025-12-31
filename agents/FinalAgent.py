@@ -100,19 +100,20 @@ def final_action(state):
             "technical_info": technical_info
         })
 
-        print("==============================Entrando en FinalAgent, respuesta generada.=========================================")
-        print(f"----> regulation_info: {regulation_info} \n")
-        print(f"----> criticality_info: {criticality_info} \n")
-        print(f"----> repair_info: {repair_info} \n")
-        print(f"----> rul_info: {rul_info} \n")
-        print(f"----> technical_info: {technical_info} \n")
-        print("==============================SALIENDO en FinalAgent, respuesta generada.=========================================")
+        # print("==============================Entrando en FinalAgent, respuesta generada.=========================================")
+        # print(f"----> regulation_info: {regulation_info} \n")
+        # print(f"----> criticality_info: {criticality_info} \n")
+        # print(f"----> repair_info: {repair_info} \n")
+        # print(f"----> rul_info: {rul_info} \n")
+        # print(f"----> technical_info: {technical_info} \n")
+        # print("==============================SALIENDO en FinalAgent, respuesta generada.=========================================")
 
         state.messages.append(AIMessage(content=response.content.strip()))
         state.emit(response.content.strip(), level="user")
 
         # Actualizar conversation_summary usando update_memory
         state.update_memory(response.content.strip())
+        state.final_response = response.content.strip()
 
 
 

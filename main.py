@@ -87,6 +87,8 @@ FIELD_AGENT_MAP = {
     "pre_rul_data": "PreRUL",
     "rul": "RUL",
     "tecnico": "Tecnico",
+    "final_response": "Final",
+    "general_notes": "General"
 }
 
 def save_history(state: AgentState):
