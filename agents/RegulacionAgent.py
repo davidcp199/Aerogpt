@@ -201,7 +201,7 @@ def regulation_action(state: AgentState) -> AgentState:
         # Guardar respuesta en el estado
         state.regulation = regulation_data
         state.messages.append(AIMessage(content=f"Análisis normativo generado:\n{raw_response_str}"))
-        state.emit(f"\nAnálisis normativo generado:\n{raw_response_str}", level="debug")
+        state.emit(f"\nAnálisis normativo generado", level="debug")
         
 
         # Decidir si es crítico o no

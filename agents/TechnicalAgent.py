@@ -133,7 +133,8 @@ def technical_action(state):
         state.messages.append(AIMessage(content=response_text))
         # state.update_memory("Tecnico", response_text)
         state.tecnico = response_text
-        state.emit(response_text, level="user")
+        #state.emit(response_text, level="user")
+        state.emit(f"\nAnálisis técnico generado", level="debug")
         
 
         # Decide si se envia a agente Criticidad

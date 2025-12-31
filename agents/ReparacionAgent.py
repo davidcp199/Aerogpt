@@ -241,7 +241,7 @@ def reparacion_action(state: AgentState) -> AgentState:
         state.messages.append(
             AIMessage(content=f"Recomendaciones de reparación generadas:\n{json.dumps(reparacion_data, indent=2)}")
         )
-        state.emit(f"\nRecomendaciones de reparación generadas:\n{json.dumps(reparacion_data, indent=2)}", level="debug")
+        state.emit(f"\nRecomendaciones de reparación generadas, referencias {reparacion_data.get('references', 'No hay referencias')}", level="debug")
         state.needs_followup = True
         state.next_agent = "Final"
         return state

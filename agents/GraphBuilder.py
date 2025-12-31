@@ -19,8 +19,8 @@ class GraphBuilder:
         """Decide el siguiente agente basado en la decisión interna"""
         #print(f">>> Decision interna del nodo: {state.decision}")
         #print(f">>> Siguiente nodo: {state.next_agent or 'END'}")
-        state.emit(f"\n>>> Decision interna del nodo: {state.decision}", level="debug")
-        state.emit(f"\n>>> Siguiente nodo: {state.next_agent or 'END'}", level="debug")
+        #state.emit(f"\n>>> Decision interna del nodo: {state.decision}", level="debug")
+        #state.emit(f"\n>>> Siguiente nodo: {state.next_agent or 'END'}", level="debug")
         if state.decision in ["PreRUL", "RUL", "Criticidad", "Reparacion", "Regulacion", "Tecnico", "General", "Final"]:
             state.next_agent = None
             return state.decision

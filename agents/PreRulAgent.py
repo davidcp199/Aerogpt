@@ -90,7 +90,7 @@ def pre_rul_action(state):
         action_lower = action.lower()
         # print("--------")
         # print(action_lower)
-        state.emit(f"\nPreRUL Decided action: {action}", level="debug")
+        state.emit(f"\nPreRUL Accion decidida: {action}", level="debug")
 
         if "update" in action_lower:
             tool_response = ToolRegistry.invoke("extract_cmapss", message=last_user_msg)
