@@ -10,6 +10,7 @@ from agents.GraphBuilder import GraphBuilder
 from langchain_core.messages import HumanMessage, AIMessage
 from agents.State import AgentState
 from tools import extract_cmapss
+import pandas as pd
 
 warnings.filterwarnings("ignore")
 
@@ -97,11 +98,20 @@ def save_history(state: AgentState):
         if val is None:
             continue
 
+        # Convertir DataFrame a lista de dicts
+        if isinstance(val, pd.DataFrame):
+            val_to_save = val.to_dict(orient="records")
+        else:
+            val_to_save = val
+
         history = state.history_by_agent.setdefault(agent, [])
 
-        entry = {field: val}
+        entry = {field: val_to_save}
+
+        # Evitar duplicados
         if entry not in history:
             history.append(entry)
+
 
 
 
