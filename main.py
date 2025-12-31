@@ -61,6 +61,7 @@ def reset_state_iteration(state: AgentState):
         "regulation",
         "criticidad",
         "reparacion",
+        "tecnico",
         "dispatch_allowed",
         "needs_followup",
         "next_agent",
@@ -78,22 +79,29 @@ def reset_state_iteration(state: AgentState):
 # ==============================================
 # Guardar resultados en historial por agente
 # ==============================================
+
+FIELD_AGENT_MAP = {
+    "regulation": "Regulacion",
+    "criticidad": "Criticidad",
+    "reparacion": "Reparacion",
+    "pre_rul_data": "PreRUL",
+    "rul": "RUL",
+    "tecnico": "Tecnico",
+}
+
 def save_history(state: AgentState):
-    agent = state.source
-    if not agent:
-        return
+    for field, agent in FIELD_AGENT_MAP.items():
+        val = getattr(state, field, None)
+        if val is None:
+            continue
 
-    if agent not in state.history_by_agent:
-        state.history_by_agent[agent] = []
+        history = state.history_by_agent.setdefault(agent, [])
 
-    snapshot = {}
-    for attr in ["regulation", "criticidad", "reparacion", "pre_rul_data", "rul"]:
-        val = getattr(state, attr, None)
-        if val is not None:
-            snapshot[attr] = val
+        entry = {field: val}
+        if entry not in history:
+            history.append(entry)
 
-    if snapshot:
-        state.history_by_agent[agent].append(snapshot)
+
 
 # ==============================================
 # Impresión SOLO de la respuesta final

@@ -200,6 +200,7 @@ def criticidad_action(state: AgentState) -> AgentState:
 
         # Guardar directamente en el estado
         state.criticidad = criticidad_json
+        state.emit(f"\nAnálisis de criticidad generado: {json.dumps(criticidad_json, ensure_ascii=False)}", level="debug")
 
         # Asignar dispatch_allowed según severidad
         severity = criticidad_json.get("severity", "").upper()

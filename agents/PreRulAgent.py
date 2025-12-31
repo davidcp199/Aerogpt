@@ -122,6 +122,7 @@ def pre_rul_action(state):
             state.messages.append(AIMessage(content=f"Nueva medición registrada. ({len(state.pre_rul_data)} filas acumuladas). ¿Quiere Calcular RUL ahora?"))
             state.update_memory("PreRUL", f"Nueva medición registrada ({len(state.pre_rul_data)} filas)")
             state.emit(f"\nNueva medición registrada. ({len(state.pre_rul_data)} filas acumuladas).", level="user")
+            state.emit(f"\nDatos actuales:\n{state.pre_rul_data}", level="debug")
             state.needs_followup = False
             state.next_agent = None
             return state
@@ -170,6 +171,7 @@ def pre_rul_action(state):
                 state.modelo_seleccionado = parsed.get("modelo_seleccionado", "FD001")
                 state.messages.append(AIMessage(content="Datos reseteados y nueva medición registrada."))
                 state.emit("\nDatos reseteados y nueva medición registrada.", level="user")
+                state.emit(f"\nDatos actuales:\n{state.pre_rul_data}", level="debug")
             else:
                 # solo reset
                 state.pre_rul_data = pd.DataFrame()

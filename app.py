@@ -23,24 +23,7 @@ st.title("✈️ AeroGPT")
 st.caption("Asistente inteligente para análisis aeronáutico")
 
 # ==============================================
-# Sidebar: configuración
-# ==============================================
-with st.sidebar:
-    st.subheader("Configuración")
-
-    show_debug = st.checkbox(
-        "🔧 Mostrar decisiones internas",
-        value=True
-    )
-
-    if st.button("🧹 Limpiar conversación"):
-        for key in ["chat", "state"]:
-            if key in st.session_state:
-                del st.session_state[key]
-        st.rerun()
-
-# ==============================================
-# Inicialización de estado persistente
+# Inicialización de session_state (UNA SOLA VEZ)
 # ==============================================
 if "state" not in st.session_state:
     st.session_state.state = AgentState(messages=[])
@@ -58,13 +41,50 @@ if "state" not in st.session_state:
 if "chat" not in st.session_state:
     st.session_state.chat = []
 
+if "show_history_by_agent" not in st.session_state:
+    st.session_state.show_history_by_agent = False
+
+if "show_debug" not in st.session_state:
+    st.session_state.show_debug = True
+
 state = st.session_state.state
 
 # ==============================================
-# Función de procesamiento principal
+# Sidebar – CONFIGURACIÓN (solo widgets)
 # ==============================================
-def process_input(user_input: str, show_debug: bool):
-    global state
+with st.sidebar:
+    st.subheader("Configuración")
+
+    st.checkbox(
+        "🔧 Mostrar decisiones internas",
+        key="show_debug"
+    )
+
+    st.checkbox(
+        "📜 Mostrar historial por agente",
+        key="show_history_by_agent"
+    )
+
+    if st.button("🧹 Limpiar conversación"):
+        st.session_state.chat = []
+        st.session_state.state = AgentState(messages=[])
+        st.session_state.state.history_by_agent = {
+            "Regulacion": [],
+            "Criticidad": [],
+            "Reparacion": [],
+            "Tecnico": [],
+            "RUL": [],
+            "PreRUL": [],
+            "General": [],
+            "Final": []
+        }
+        st.stop()  # corta ejecución sin rerun explícito
+
+# ==============================================
+# Función principal de procesamiento
+# ==============================================
+def process_input(user_input: str) -> str:
+    state = st.session_state.state
 
     # --- NUEVO CASO ---
     if is_new_case(user_input):
@@ -73,12 +93,13 @@ def process_input(user_input: str, show_debug: bool):
         state.criticidad = None
         state.reparacion = None
         state.regulation = None
+        state.tecnico = None
 
-    # --- RESET DE BUFFERS ---
+    # --- RESET BUFFERS ---
     state.output_buffer = []
     state.debug_buffer = []
 
-    # --- RESET DE ESTADO POR ITERACIÓN ---
+    # --- RESET ITERACIÓN ---
     reset_state_iteration(state)
 
     # --- MENSAJE HUMANO ---
@@ -90,25 +111,24 @@ def process_input(user_input: str, show_debug: bool):
     if isinstance(result, AgentState):
         state = result
     elif isinstance(result, dict):
-        state = AgentState(**result)
+        for k, v in result.items():
+            setattr(state, k, v)
     else:
-        raise TypeError(f"Resultado inesperado del grafo: {type(result)}")
+        raise TypeError(f"Resultado inesperado: {type(result)}")
 
-    # --- HISTORIAL ---
+    # --- GUARDAR HISTORIAL ---
     save_history(state)
 
-    # --- LIMPIAR MENSAJES IA ---
+    # --- LIMPIAR IA (mantener humanos) ---
     state.messages = [
         m for m in state.messages if isinstance(m, HumanMessage)
     ]
 
     # --- CONSTRUIR RESPUESTA ---
-    response_parts = []
+    parts = []
 
-    # 1) DEBUG (DECISIONES INTERNAS)
-    if show_debug and state.debug_buffer:
-        debug_text = "\n".join(state.debug_buffer)
-        response_parts.append(
+    if st.session_state.show_debug and state.debug_buffer:
+        parts.append(
             f"""
 <div style="
     color:#6c757d;
@@ -119,38 +139,18 @@ def process_input(user_input: str, show_debug: bool):
     border-left:4px solid #adb5bd;
 ">
 <strong>Decisiones internas</strong><br><br>
-<pre style="
-    margin:0;
-    color:#6c757d;
-    background-color:transparent;
-">{debug_text}</pre>
+<pre style="margin:0;">{chr(10).join(state.debug_buffer)}</pre>
 </div>
 """
         )
 
-    # 2) SALIDA USUARIO (FinalAgent)
     if state.output_buffer:
-        response_parts.append("\n".join(state.output_buffer))
+        parts.append("\n".join(state.output_buffer))
     else:
-        response_parts.append("⚠️ El proceso terminó sin salida.")
-
-    final_response = "\n\n".join(response_parts)
+        parts.append("⚠️ El proceso terminó sin salida.")
 
     st.session_state.state = state
-    return final_response
-
-# ==============================================
-# Input del usuario
-# ==============================================
-user_input = st.chat_input("Escribe tu consulta")
-
-if user_input:
-    st.session_state.chat.append(("user", user_input))
-
-    with st.spinner("Pensando…"):
-        response = process_input(user_input, show_debug)
-
-    st.session_state.chat.append(("assistant", response))
+    return "\n\n".join(parts)
 
 # ==============================================
 # Render del chat
@@ -160,10 +160,37 @@ for role, msg in st.session_state.chat:
         st.markdown(msg, unsafe_allow_html=True)
 
 # ==============================================
-# Sidebar: historial por agente
+# Input del usuario (SIN rerun)
 # ==============================================
-with st.sidebar:
-    if st.checkbox("📜 Mostrar historial por agente"):
+user_input = st.chat_input("Escribe tu consulta")
+
+if user_input:
+    # Usuario
+    st.session_state.chat.append(("user", user_input))
+    with st.chat_message("user"):
+        st.markdown(user_input)
+
+    # Asistente
+    with st.chat_message("assistant"):
+        placeholder = st.empty()
+        placeholder.markdown(
+            "<div style='color:#6c757d; font-style:italic;'>Pensando…</div>",
+            unsafe_allow_html=True
+        )
+
+        response = process_input(user_input)
+        placeholder.markdown(response, unsafe_allow_html=True)
+
+    st.session_state.chat.append(("assistant", response))
+
+# ==============================================
+# Sidebar – HISTORIAL POR AGENTE (render)
+# ==============================================
+if st.session_state.show_history_by_agent:
+    with st.sidebar:
+        st.divider()
+        st.subheader("Historial por agente")
+
         for agent, entries in state.history_by_agent.items():
             st.markdown(f"### {agent}")
             if entries:
