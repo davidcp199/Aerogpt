@@ -178,9 +178,8 @@ def reparacion_action(state: AgentState) -> AgentState:
             context_blocks.append(f"[REGULACION]\n{json.dumps(state.regulation, ensure_ascii=False, indent=2)}")
         if getattr(state, "tecnico", None):
             context_blocks.append(f"[TECNICO]\n{json.dumps(state.tecnico, ensure_ascii=False, indent=2)}")
-        # Histórico reciente de mensajes
-        history = "\n".join([m.content for m in state.messages[-5:]])  # últimos 5 mensajes
-        context_blocks.append(f"[HISTORICO]\n{history}")
+        # Histórico de mensajes
+        history = getattr(state, "conversation_summary", "No hay histórico reciente.")
 
         context_str = "\n\n".join(context_blocks)
 

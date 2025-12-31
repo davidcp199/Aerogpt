@@ -124,7 +124,7 @@ def rul_action(state):
         }).content.strip()
 
         state.messages.append(AIMessage(content=text))
-        state.update_memory("RUL", text)
+        # state.update_memory("RUL", text)
         state.rul = {
             "predicted_RUL": predicted_RUL,
             "text": text

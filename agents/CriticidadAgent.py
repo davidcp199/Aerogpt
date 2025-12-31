@@ -122,6 +122,7 @@ Información adicional:
 - Información de Regulación: {regulation_info}
 - Información Técnica: {tecnico_info}
 
+IMPORTANTE: No incluyas ningún texto antes o después del JSON. Solo devuelve un JSON válido.
 Proporciona un análisis estructurado en JSON con las siguientes claves:
 - affected_system
 - flight_phase
@@ -156,10 +157,9 @@ def criticidad_action(state: AgentState) -> AgentState:
         docs = retrieve_context(question)
         context = build_context(docs)
 
-        # Histórico reciente
-        history = "\n".join(
-            [f"{m.content}" for m in state.messages[-5:] if isinstance(m, AIMessage)]
-        ) or "No hay histórico reciente."
+        # Histórico completo desde conversation_summary
+        history = getattr(state, "conversation_summary", "No hay histórico reciente.")
+
 
         # Información de RUL
         rul_info = ""
@@ -207,7 +207,7 @@ def criticidad_action(state: AgentState) -> AgentState:
         state.dispatch_allowed = severity in ["LOW", "MEDIUM"]
 
         # Actualizar memoria
-        state.update_memory("Criticidad", json.dumps(criticidad_json, ensure_ascii=False))
+        # state.update_memory("Criticidad", json.dumps(criticidad_json, ensure_ascii=False))
 
         # Decidir siguiente agente
         if severity in ["HIGH", "CRITICAL"]:

@@ -16,7 +16,7 @@ class AgentState(BaseModel):
     needs_followup: bool = False
     source: Optional[str] = None
     conversation_summary: str = ""
-    last_agent_output: Dict[str, str] = Field(default_factory=dict)
+    #last_agent_output: Dict[str, str] = Field(default_factory=dict)
     
     output_buffer: List[str] = Field(default_factory=list)
     debug_buffer: List[str] = Field(default_factory=list)
@@ -24,7 +24,7 @@ class AgentState(BaseModel):
     regulation: Optional[dict] = None
     
     criticidad: Optional[dict] = None
-    criticidad_sources: Optional[List[str]] = None
+    #criticidad_sources: Optional[List[str]] = None
     dispatch_allowed: Optional[bool] = None
 
     reparacion: Optional[dict] = None
@@ -51,20 +51,22 @@ class AgentState(BaseModel):
             return pd.DataFrame([v])
         return v
     
-    def update_memory(self, agent_name: str, output: str):
+    def update_memory(self, output: str):
         """
-        Actualiza la memoria del estado después de que un agente responde.
+        Actualiza el resumen de conversación solo con la salida final.
+        Limita el tamaño a 3000 caracteres.
         """
-        # Guardar salida del agente
-        self.last_agent_output[agent_name] = output
-
-        # Actualizar resumen de conversación
-        self.conversation_summary += f"\n{agent_name}: {output}"
+        # Concatenar salida
+        if self.conversation_summary:
+            self.conversation_summary += "\n" + output
+        else:
+            self.conversation_summary = output
 
         # Limitar tamaño
         max_len = 3000
         if len(self.conversation_summary) > max_len:
             self.conversation_summary = self.conversation_summary[-max_len:]
+
 
     # Método para capturar las salidas de los agentes    
     def emit(self, text: str, level: Literal["user","debug"]="user"):

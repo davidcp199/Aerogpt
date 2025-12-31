@@ -181,7 +181,7 @@ def regulation_action(state: AgentState) -> AgentState:
             raw_response = chain.invoke({
                 "context": context,
                 "question": question,
-                "conversation_summary": state.conversation_summary
+                "conversation_summary": getattr(state, "conversation_summary", "No hay histórico reciente.")
             })
             # Asegurarse de que raw_response es string
             if hasattr(raw_response, "content"):

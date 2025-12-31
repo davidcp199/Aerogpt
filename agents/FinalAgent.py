@@ -88,8 +88,6 @@ def final_action(state):
         else:
             rul_info = rul_state
 
-
-        # TÉCNICO (CLAVE PARA EVITAR EL ERROR)
         technical_info = getattr(state, "tecnico", None)
 
         chain = FINAL_AGENT_PROMPT | llm_creative
@@ -112,6 +110,12 @@ def final_action(state):
 
         state.messages.append(AIMessage(content=response.content.strip()))
         state.emit(response.content.strip(), level="user")
+
+        # Actualizar conversation_summary usando update_memory
+        state.update_memory(response.content.strip())
+
+
+
         state.needs_followup = False
         state.next_agent = None
         return state

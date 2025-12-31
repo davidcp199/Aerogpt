@@ -120,7 +120,7 @@ def pre_rul_action(state):
             state.modelo_seleccionado = parsed.get("modelo_seleccionado", state.modelo_seleccionado)
 
             state.messages.append(AIMessage(content=f"Nueva medición registrada. ({len(state.pre_rul_data)} filas acumuladas). ¿Quiere Calcular RUL ahora?"))
-            state.update_memory("PreRUL", f"Nueva medición registrada ({len(state.pre_rul_data)} filas)")
+            # state.update_memory("PreRUL", f"Nueva medición registrada ({len(state.pre_rul_data)} filas)")
             state.emit(f"\nNueva medición registrada. ({len(state.pre_rul_data)} filas acumuladas).", level="user")
             state.emit(f"\nDatos actuales:\n{state.pre_rul_data}", level="debug")
             state.needs_followup = False
@@ -178,7 +178,7 @@ def pre_rul_action(state):
                 state.modelo_seleccionado = "FD001"
                 state.messages.append(AIMessage(content="Datos reseteados a cero."))
                 state.emit("\nDatos reseteados a cero.", level="user")
-                state.update_memory("PreRUL", "Datos reseteados a cero")
+                # state.update_memory("PreRUL", "Datos reseteados a cero")
             state.needs_followup = False
             state.next_agent = None
             return state
@@ -187,7 +187,7 @@ def pre_rul_action(state):
             chat_chain = PROMPT_CHAT | llm_deterministic
             chat_response = chat_chain.invoke({"user_message": last_user_msg})
             state.messages.append(AIMessage(content=chat_response.content))
-            state.update_memory("PreRUL", chat_response.content)
+            # state.update_memory("PreRUL", chat_response.content)
             state.emit(chat_response.content, level="user")
             state.needs_followup = False
             state.next_agent = None
