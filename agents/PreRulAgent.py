@@ -104,7 +104,7 @@ def pre_rul_action(state):
             # Crear fila con valores
             fila = {
                 "unidad": parsed.get("unidad", 0),
-                "tiempo_ciclos": parsed.get("tiempo_ciclos", 0),
+                "tiempo_ciclos": (len(state.pre_rul_data) + 1) if state.pre_rul_data is not None else 1,
                 "setting_1": parsed.get("configuraciones_operativas", [0,0,0])[0],
                 "setting_2": parsed.get("configuraciones_operativas", [0,0,0])[1],
                 "setting_3": parsed.get("configuraciones_operativas", [0,0,0])[2],
@@ -122,7 +122,7 @@ def pre_rul_action(state):
             state.messages.append(AIMessage(content=f"Nueva medición registrada. ({len(state.pre_rul_data)} filas acumuladas). ¿Quiere Calcular RUL ahora?"))
             # state.update_memory("PreRUL", f"Nueva medición registrada ({len(state.pre_rul_data)} filas)")
             state.emit(f"\nNueva medición registrada. ({len(state.pre_rul_data)} filas acumuladas).", level="user")
-            state.emit(f"\nDatos actuales:\n{state.pre_rul_data}", level="debug")
+            state.emit(f"\nModelo seleccionado: {state.modelo_seleccionado}\n - Estado actual de mediciones:\n{state.pre_rul_data}", level="debug")
             state.needs_followup = False
             state.next_agent = None
             return state
@@ -134,7 +134,7 @@ def pre_rul_action(state):
                 return state
 
             state.messages.append(AIMessage(content="Calculando RUL con histórico actual..."))
-            state.emit("\nCalculando RUL con histórico actual...", level="user")
+            state.emit(f"\nCalculando RUL con histórico actual y modelo {state.modelo_seleccionado}", level="debug")
             
             state.needs_followup = True
             state.next_agent = "RUL"
@@ -146,8 +146,8 @@ def pre_rul_action(state):
                 state.emit("\nNo hay datos registrados todavía.", level="user")
             else:
                 df_str = state.pre_rul_data.to_string(index=False)
-                state.messages.append(AIMessage(content=f"Estado actual de mediciones:\n{df_str}"))
-                state.emit(f"\nEstado actual de mediciones:\n{df_str}", level="user")
+                state.messages.append(AIMessage(content=f"Modelo seleccionado: {state.modelo_seleccionado}\n - Estado actual de mediciones:\n{df_str}"))
+                state.emit(f"ESTADO ACTUAL DEL MOTOR PARA CÁLCULO DE RUL: ", level="user")
             state.needs_followup = False
             state.next_agent = None
             return state
@@ -157,9 +157,10 @@ def pre_rul_action(state):
             if "nuevo motor" in last_user_msg.lower() or "nuevo" in last_user_msg.lower() or "update" in last_user_msg.lower():
                 tool_response = ToolRegistry.invoke("extract_cmapss", message=last_user_msg)
                 parsed = json.loads(tool_response)
+                # Sobrescribir tiempo_ciclos con el número de filas actuales
                 fila = {
                     "unidad": parsed.get("unidad", 0),
-                    "tiempo_ciclos": parsed.get("tiempo_ciclos", 0),
+                    "tiempo_ciclos": 1,
                     "setting_1": parsed.get("configuraciones_operativas", [0,0,0])[0],
                     "setting_2": parsed.get("configuraciones_operativas", [0,0,0])[1],
                     "setting_3": parsed.get("configuraciones_operativas", [0,0,0])[2],
@@ -171,7 +172,7 @@ def pre_rul_action(state):
                 state.modelo_seleccionado = parsed.get("modelo_seleccionado", "FD001")
                 state.messages.append(AIMessage(content="Datos reseteados y nueva medición registrada."))
                 state.emit("\nDatos reseteados y nueva medición registrada.", level="user")
-                state.emit(f"\nDatos actuales:\n{state.pre_rul_data}", level="debug")
+                #state.emit(f"\nDatos actuales:\n{state.pre_rul_data}", level="debug")
             else:
                 # solo reset
                 state.pre_rul_data = pd.DataFrame()

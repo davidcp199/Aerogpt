@@ -20,7 +20,7 @@ Extraer únicamente la información explícita mencionada por el usuario sobre e
 - Devuelve JSON válido, sin texto adicional.
 
 DATOS A EXTRAER:
-1. unidad (int, si no se menciona → 0)
+1. unidad (int, si no se menciona → 1)
 2. tiempo_ciclos (int, si no se menciona → 0)
 3. configuraciones_operativas: lista de tres valores [setting_1, setting_2, setting_3] (si falta alguno → 0)
 4. mediciones_sensores: objeto con los 21 sensores "s_1" .. "s_21" (si el usuario menciona alguno, asigna ese valor; si no → 0)

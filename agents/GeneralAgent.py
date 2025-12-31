@@ -72,8 +72,6 @@ def general_action(state):
             "user_message": user_msg
         })
 
-        print(f">>>>>>>>>>>>>>>>>>>>>entrando en GeneralAgent LLM con user_msg {user_msg}, agents_history: {agents_history}, conversation_summary: {conversation_summary}")
-
         content = response.content.strip()
         state.messages.append(AIMessage(content=content))
         state.emit(content, level="user")

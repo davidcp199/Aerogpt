@@ -181,7 +181,62 @@ if user_input:
         response = process_input(user_input)
         placeholder.markdown(response, unsafe_allow_html=True)
 
+        # ============================================
+        # MOSTRAR SOLO TABLA SI EL PRERUL DECIDIÓ STATUS
+        # ============================================
+        state = st.session_state.state
+        if state.pre_rul_data is not None and not state.pre_rul_data.empty:
+            # Revisar si la última acción fue 'status' en debug_buffer
+            if any("PreRUL Accion decidida: Status" in line for line in state.debug_buffer):
+                fd_actual = state.modelo_seleccionado or "FD001"
+
+                # Convertir DataFrame a tabla HTML con scroll horizontal
+                df_html = state.pre_rul_data.to_html(
+                    index=False,
+                    border=1,
+                    justify="center",
+                    classes="motor-table"
+                )
+
+                html_content = f"""
+                <div>
+                    <b style="color:white;">(FD: {fd_actual})</b><br><br>
+                    <div style="overflow-x:auto; max-width:100%;">
+                        {df_html}
+                    </div>
+                    <style>
+                        table.motor-table {{
+                            border-collapse: collapse;
+                            width: 100%;
+                            font-family: Arial, sans-serif;
+                            font-size: 0.9em;
+                            color: white;  /* Texto de la tabla */
+                            background-color: #1e1e1e; /* Fondo de la tabla */
+                        }}
+                        table.motor-table th, table.motor-table td {{
+                            border: 1px solid #555; /* Bordes más claros para fondo oscuro */
+                            padding: 5px;
+                            text-align: center;
+                        }}
+                        table.motor-table th {{
+                            background-color: #333; /* Encabezado más oscuro */
+                            color: #fff; /* Texto encabezado */
+                        }}
+                        table.motor-table tr:nth-child(even) {{
+                            background-color: #2a2a2a; /* Filas pares */
+                        }}
+                        table.motor-table tr:nth-child(odd) {{
+                            background-color: #1e1e1e; /* Filas impares */
+                        }}
+                    </style>
+                </div>
+                """
+
+
+                st.markdown(html_content, unsafe_allow_html=True)
+
     st.session_state.chat.append(("assistant", response))
+
 
 # ==============================================
 # Sidebar – HISTORIAL POR AGENTE (render)
