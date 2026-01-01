@@ -228,13 +228,29 @@ def reparacion_action(state: AgentState) -> AgentState:
         try:
             reparacion_data = json.loads(raw_text)
         except json.JSONDecodeError:
-            state.messages.append(
-                AIMessage(content="He generado recomendaciones técnicas, pero el formato JSON no pudo validarse. Solicite reformulación.")
-            )
-            state.emit("\nError parseando JSON de recomendaciones de reparación.", level="user")
-            state.needs_followup = False
-            state.next_agent = None
-            return state
+            import re
+
+            match = re.search(r"\{[\s\S]*\}", raw_text)
+            if match:
+                try:
+                    reparacion_data = json.loads(match.group(0))
+                except json.JSONDecodeError:
+                    state.messages.append(
+                        AIMessage(content="He generado recomendaciones técnicas, pero el formato JSON no pudo validarse. Solicite reformulación.")
+                    )
+                    state.emit("\nError parseando JSON de recomendaciones de reparación.", level="user")
+                    state.needs_followup = False
+                    state.next_agent = None
+                    return state
+            else:
+                state.messages.append(
+                    AIMessage(content="He generado recomendaciones técnicas, pero no se pudo extraer un JSON válido.")
+                )
+                state.emit("\nNo se encontró bloque JSON en la respuesta del modelo.", level="user")
+                state.needs_followup = False
+                state.next_agent = None
+                return state
+
 
         # Guardar resultado
         state.reparacion = reparacion_data
