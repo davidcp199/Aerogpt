@@ -15,7 +15,7 @@ class AgentState(BaseModel):
     next_agent: Optional[str] = None
     needs_followup: bool = False
     source: Optional[str] = None
-    conversation_summary: str = ""
+    conversation_summary: Optional[str] = None
     #last_agent_output: Dict[str, str] = Field(default_factory=dict)
     
     output_buffer: List[str] = Field(default_factory=list)

@@ -49,6 +49,45 @@ if not hasattr(state, "history_by_agent"):
         "Final": []
     }
 
+
+# ==============================================
+# Reset completo del estado
+# ==============================================
+
+def reset_full_case(state: AgentState):
+    # Historial
+    state.history_by_agent = {
+        "Regulacion": [],
+        "Criticidad": [],
+        "Reparacion": [],
+        "Tecnico": [],
+        "RUL": [],
+        "PreRUL": [],
+        "General": [],
+        "Final": []
+    }
+
+    # Conversación
+    state.conversation_summary = None
+    state.messages = []
+
+    # Estados de agentes
+    state.regulation = None
+    state.criticidad = None
+    state.dispatch_allowed = None
+    state.reparacion = None
+    state.rul = None
+    state.pre_rul_data = None
+    state.modelo_seleccionado = "FD001"
+    state.tecnico = None
+    state.final_response = None
+    state.general_notes = None
+
+    # Buffers
+    state.output_buffer = []
+    state.debug_buffer = []
+
+
 # ==============================================
 # Reset selectivo de estado por iteración
 # ==============================================
@@ -179,10 +218,7 @@ def main_loop():
                 print(">>> Nuevo caso detectado. Limpiando estado técnico.")
                 logger.info("Nuevo caso detectado. Limpiando estado técnico.")
 
-                state.rul = None
-                state.criticidad = None
-                state.reparacion = None
-                state.regulation = None
+                reset_full_case(state)
 
             # Reset de estado por iteración
             reset_state_iteration(state)

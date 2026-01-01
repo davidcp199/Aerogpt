@@ -7,7 +7,8 @@ from main import (
     AgentState,
     is_new_case,
     reset_state_iteration,
-    save_history
+    save_history,
+    reset_full_case
 )
 
 # ==============================================
@@ -66,7 +67,6 @@ with st.sidebar:
     )
 
     if st.button("🧹 Limpiar conversación"):
-        st.session_state.chat = []
         st.session_state.state = AgentState(messages=[])
         st.session_state.state.history_by_agent = {
             "Regulacion": [],
@@ -78,7 +78,10 @@ with st.sidebar:
             "General": [],
             "Final": []
         }
-        st.stop()  # corta ejecución sin rerun explícito
+        st.session_state.chat = []
+        st.rerun()
+
+
 
 # ==============================================
 # Función principal de procesamiento
@@ -86,18 +89,14 @@ with st.sidebar:
 def process_input(user_input: str) -> str:
     state = st.session_state.state
 
-    # --- NUEVO CASO ---
-    if is_new_case(user_input):
-        state.emit("\n---> Nuevo caso detectado. Limpiando estado.", level="debug")
-        state.rul = None
-        state.criticidad = None
-        state.reparacion = None
-        state.regulation = None
-        state.tecnico = None
-
     # --- RESET BUFFERS ---
     state.output_buffer = []
     state.debug_buffer = []
+
+    # --- NUEVO CASO ---
+    if is_new_case(user_input):
+        reset_full_case(state)
+        state.emit("\n🔄 Nuevo caso detectado. Estado técnico limpiado.", level="debug")
 
     # --- RESET ITERACIÓN ---
     reset_state_iteration(state)
