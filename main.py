@@ -12,6 +12,14 @@ from agents.State import AgentState
 from tools import extract_cmapss
 import pandas as pd
 
+from utils.state_utils import (
+    is_new_case,
+    reset_state_iteration,
+    reset_full_case,
+    save_history
+)
+
+
 warnings.filterwarnings("ignore")
 
 # ==============================================
@@ -49,111 +57,6 @@ if not hasattr(state, "history_by_agent"):
         "Final": []
     }
 
-
-# ==============================================
-# Reset completo del estado
-# ==============================================
-
-def reset_full_case(state: AgentState):
-    # Historial
-    state.history_by_agent = {
-        "Regulacion": [],
-        "Criticidad": [],
-        "Reparacion": [],
-        "Tecnico": [],
-        "RUL": [],
-        "PreRUL": [],
-        "General": [],
-        "Final": []
-    }
-
-    # Conversación
-    state.conversation_summary = None
-    state.messages = []
-
-    # Estados de agentes
-    state.regulation = None
-    state.criticidad = None
-    state.dispatch_allowed = None
-    state.reparacion = None
-    state.rul = None
-    state.pre_rul_data = None
-    state.modelo_seleccionado = "FD001"
-    state.tecnico = None
-    state.final_response = None
-    state.general_notes = None
-
-    # Buffers
-    state.output_buffer = []
-    state.debug_buffer = []
-
-
-# ==============================================
-# Reset selectivo de estado por iteración
-# ==============================================
-def reset_state_iteration(state: AgentState):
-    """
-    Resetea solo los atributos de agentes por iteración
-    para evitar contaminación de la pregunta anterior.
-    No se toca pre_rul_data para que los datos de RUL persistan.
-    """
-    agent_attrs = [
-        "regulation",
-        "criticidad",
-        "reparacion",
-        "tecnico",
-        "dispatch_allowed",
-        "needs_followup",
-        "next_agent",
-        "source"
-    ]
-
-    for attr in agent_attrs:
-        if attr in ["dispatch_allowed", "needs_followup"]:
-            setattr(state, attr, False)
-        elif attr == "next_agent":
-            setattr(state, attr, None)
-        else:
-            setattr(state, attr, None)
-
-# ==============================================
-# Guardar resultados en historial por agente
-# ==============================================
-
-FIELD_AGENT_MAP = {
-    "regulation": "Regulacion",
-    "criticidad": "Criticidad",
-    "reparacion": "Reparacion",
-    "pre_rul_data": "PreRUL",
-    "rul": "RUL",
-    "tecnico": "Tecnico",
-    "final_response": "Final",
-    "general_notes": "General"
-}
-
-def save_history(state: AgentState):
-    for field, agent in FIELD_AGENT_MAP.items():
-        val = getattr(state, field, None)
-        if val is None:
-            continue
-
-        # Convertir DataFrame a lista de dicts
-        if isinstance(val, pd.DataFrame):
-            val_to_save = val.to_dict(orient="records")
-        else:
-            val_to_save = val
-
-        history = state.history_by_agent.setdefault(agent, [])
-
-        entry = {field: val_to_save}
-
-        # Evitar duplicados
-        if entry not in history:
-            history.append(entry)
-
-
-
-
 # ==============================================
 # Impresión SOLO de la respuesta final
 # ==============================================
@@ -165,24 +68,6 @@ def print_final_response(state: AgentState):
     if ia_msgs:
         print("\n=== RESPUESTA ===\n")
         print(ia_msgs[-1].content)
-
-# ==============================================
-# Detección de nuevo caso
-# ==============================================
-def is_new_case(user_text: str) -> bool:
-    triggers = [
-        "nuevo motor",
-        "nuevo avión",
-        "otro motor",
-        "otro avión",
-        "caso nuevo",
-        "equipo distinto",
-        "empezar de cero",
-        "motor diferente",
-        "avión diferente"
-    ]
-    text = user_text.lower()
-    return any(t in text for t in triggers)
 
 
 # ==============================================
