@@ -1,17 +1,9 @@
-# ============================================================
-# pipeline_faa_easa.py
-# Pipeline completo: PDFs FAA/EASA -> TXT -> Chunks -> Pickles
-# ============================================================
-
 import os
 from pathlib import Path
 from ingest_pdfs import process_pdf_folder
 from chunker import chunk_text_folder
 
-# ============================================================
-# CONFIGURACIÓN DE RUTAS
-# ============================================================
-BASE_DIR = Path(__file__).resolve().parents[2]  # AeroGPT/
+BASE_DIR = Path(__file__).resolve().parents[2]
 RAW_PDF_PATHS = {
     "FAA_ACs": BASE_DIR / "data" / "raw" / "FAA_ACs",
     "EASA": BASE_DIR / "data" / "raw" / "EASA"
@@ -24,7 +16,7 @@ os.makedirs(PROCESSED_PATH, exist_ok=True)
 os.makedirs(METADATA_PATH, exist_ok=True)
 
 # ============================================================
-# PASO 1: Convertir PDFs a TXT
+# Convertir PDFs a TXT
 # ============================================================
 print("==> Paso 1: Extracción de PDFs a TXT")
 for key, path in RAW_PDF_PATHS.items():
@@ -34,7 +26,7 @@ for key, path in RAW_PDF_PATHS.items():
     process_pdf_folder(path, out_folder)
 
 # ============================================================
-# PASO 2: Crear chunks y guardar pickles
+# Crear chunks y guardar pickles
 # ============================================================
 print("\n==> Paso 2: Chunking y creación de pickles")
 for key in RAW_PDF_PATHS.keys():
@@ -43,4 +35,4 @@ for key in RAW_PDF_PATHS.keys():
     chunk_text_folder(input_folder, output_pickle)
     print(f"[OK] Pickle generado: {output_pickle}")
 
-print("\n✅ Pipeline FAA/EASA completado. Pickles listos para Criticidad Agent.")
+print("\nPipeline FAA/EASA completado. Pickles listos para Criticidad Agent.")

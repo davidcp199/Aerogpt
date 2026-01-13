@@ -1,6 +1,8 @@
 from langchain_core.prompts import ChatPromptTemplate
 from utils.llm_provider import llm_deterministic
 import logging
+from langchain_core.messages import AIMessage
+
 
 logger = logging.getLogger(__name__)
 
@@ -84,10 +86,6 @@ Opciones válidas:
 - General
 """
 )
-
-
-
-from langchain_core.messages import AIMessage
 
 def supervisor_action(state):
     """

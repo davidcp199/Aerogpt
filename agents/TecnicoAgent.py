@@ -27,9 +27,6 @@ EXCLUSIVAMENTE explicativa o informativa.
 Si no hay indicios de fallo, deja explícitamente indicado:
 "No se identifica ninguna condición de fallo ni necesidad de acción correctiva."
 
-IMPORTANTE:
-Una explicación técnica o descriptiva NO es crítica si no hay fallo real descrito.
-
 
 NO debes:
 - Diagnosticar fallos
@@ -60,6 +57,8 @@ Clasifica el siguiente análisis técnico como:
 Análisis:
 {analysis}
 
+IMPORTANTE:
+Una explicación técnica o descriptiva NO es crítica si no hay fallo real descrito.
 Responde SOLO con: CRITICO o NO_CRITICO
 """
 )

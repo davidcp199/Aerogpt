@@ -1,6 +1,5 @@
 # ============================================================
-# ingest_criticidad.py
-# Ingestión global para Criticidad Agent: ASRS, SDR, FAA, EASA, TECH
+# Ingestión global Criticidad Agent: ASRS, SDR, FAA, EASA, TECH
 # ============================================================
 
 import pickle
@@ -10,17 +9,14 @@ from langchain_community.vectorstores import FAISS
 from utils.llm_provider import paths_config
 from langchain_openai import OpenAIEmbeddings
 
-# ============================================================
-# CONFIGURACIÓN DE RUTAS
-# ============================================================
-BASE_DIR = Path(__file__).resolve().parents[2]  # AeroGPT/
+BASE_DIR = Path(__file__).resolve().parents[2]
 METADATA_DIR = BASE_DIR / "data" / "metadata"
 VECTORSTORE_DIR = BASE_DIR / "data" / "vectorStores"
 CRITICIDAD_PATH = VECTORSTORE_DIR / "criticidad_store"
 
 EMBEDDINGS = OpenAIEmbeddings()
 
-# Pickles esperados
+# Pickles
 PICKLES = {
     "ASRS": VECTORSTORE_DIR / "asrs_store" / "asrs_docs.pkl",
     "SDR": VECTORSTORE_DIR / "sdr_store" / "sdr_docs.pkl",
@@ -29,9 +25,7 @@ PICKLES = {
     "TECH": METADATA_DIR / "tech_chunks.pkl"
 }
 
-# ============================================================
-# FUNCIONES
-# ============================================================
+
 def load_docs_from_pickle(pickle_path: Path, source_name: str):
     """Carga documentos desde pickle y añade metadata de origen"""
     if not pickle_path.exists():
@@ -66,9 +60,8 @@ def create_global_vectorstore(documents, out_path: Path):
     vectorstore.save_local(out_path)
     print(f"[OK] Criticidad vectorstore creado: {out_path}, documentos: {len(documents)}")
 
-# ============================================================
-# MAIN
-# ============================================================
+
+
 def main():
     print("=== Ingestión global para Criticidad Agent ===")
     all_docs = []

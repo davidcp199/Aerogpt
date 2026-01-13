@@ -7,7 +7,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error
 from pathlib import Path
 
-BASE_DIR = Path(__file__).resolve().parents[1]  # AEROGPT/
+BASE_DIR = Path(__file__).resolve().parents[1]
 
 CSV_DIR = BASE_DIR / "results" / "CMAPSS" / "GRU"
 MODEL_DIR = BASE_DIR / "models" / "cmapss"

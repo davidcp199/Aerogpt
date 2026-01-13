@@ -6,9 +6,7 @@ from langchain_community.vectorstores import FAISS
 from utils.llm_provider import paths_config
 from langchain_openai import OpenAIEmbeddings
 
-# ====================================================
-# CONFIGURACIÓN DE RUTAS
-# ====================================================
+
 BASE_DIR = Path(__file__).resolve().parents[2]
 RAW_DIR = BASE_DIR / "data" / "raw" / "SDR"
 VECTOR_DIR = BASE_DIR / "data" / "vectorStores" / "sdr_store"
@@ -16,9 +14,7 @@ OUT_DOCS = VECTOR_DIR / "sdr_docs.pkl"
 
 EMBEDDINGS = OpenAIEmbeddings()
 
-# ====================================================
 # COLUMNAS RELEVANTES SDR
-# ====================================================
 FIELDS = {
     "ocn": "OperatorControlNumber",
     "submission_date": "SubmissionDate",
@@ -31,9 +27,7 @@ FIELDS = {
     "how_discovered": "HowDiscoveredCode",
 }
 
-# ====================================================
-# HELPERS
-# ====================================================
+
 def load_excel(path: Path) -> pd.DataFrame:
     return pd.read_excel(path, engine="openpyxl")
 
@@ -74,9 +68,8 @@ def build_document(row) -> Document | None:
 
     return Document(page_content=text, metadata=metadata)
 
-# ====================================================
-# MAIN
-# ====================================================
+
+
 def main():
     VECTOR_DIR.mkdir(parents=True, exist_ok=True)
     docs = []

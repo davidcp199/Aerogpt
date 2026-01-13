@@ -1,8 +1,7 @@
-# Funciones para procesar PDFs y guardarlos como .txt
-
 import os
 from extract_text import extract_text_from_pdf
 
+# Funciones para procesar PDFs y guardarlos como .txt
 def process_pdf_folder(input_folder, output_folder):
     os.makedirs(output_folder, exist_ok=True)
     for root, _, files in os.walk(input_folder):

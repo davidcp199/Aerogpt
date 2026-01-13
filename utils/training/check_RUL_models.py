@@ -9,7 +9,7 @@ import torch
 import torch.nn as nn
 from pathlib import Path
 
-BASE_PATH = Path(__file__).resolve().parents[2]  # AEROGPT/
+BASE_PATH = Path(__file__).resolve().parents[2]
 
 RAW_PATH = BASE_PATH / "data" / "raw" / "CMAPSS"
 MODEL_PATH = BASE_PATH / "models" / "cmapss"

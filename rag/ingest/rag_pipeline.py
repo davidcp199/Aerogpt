@@ -1,12 +1,10 @@
-# Pipeline completo: PDFs -> Chunks -> Vectorstores
-
 import os
 from ingest_pdfs import process_pdf_folder
 from chunker import chunk_text_folder
 from build_vectorstores import create_vectorstore
 from pathlib import Path
 
-BASE_DIR = Path(__file__).resolve().parents[2]  # AEROGPT/
+BASE_DIR = Path(__file__).resolve().parents[2]
 
 RAW_PDF_PATHS = {
     "FAA_ACs": BASE_DIR / "data" / "raw" / "FAA_ACs",
@@ -56,4 +54,4 @@ create_vectorstore(
     vectorstore_path=os.path.join(VECTORSTORE_PATH, "technical_store")
 )
 
-print("\n✅ Pipeline completo finalizado. Vectorstores listos para RAG.")
+print("\nPipeline completo finalizado. Vectorstores listos para RAG.")

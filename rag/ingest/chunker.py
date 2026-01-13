@@ -1,8 +1,7 @@
-# Divide texto en chunks y los guarda en pickle
-
 import os
 import pickle
 
+# Divide texto en chunks y los guarda en pickle
 def chunk_text(text, chunk_size=1200, overlap=150):
     chunks = []
     start = 0

@@ -121,7 +121,7 @@ def expand_history_to_30(df):
 def preprocess_user_data(df, scaler):
     df = df.copy()
 
-    # aseguramos que tiene todas las columnas
+    # asegurar que tiene todas las columnas
     missing_cols = set(FEATURE_COLS) - set(df.columns)
     if missing_cols:
         raise ValueError(f"Faltan columnas requeridas: {missing_cols}")
@@ -153,7 +153,7 @@ def make_window(df, window_size=30):
 def predict_RUL(user_df, base_path, fd="FD001"):
     model, scaler, device = load_model(base_path, fd)
 
-    # Expandir la historia
+    # Expandir
     user_df = expand_history_to_30(user_df)
 
     df_clean = preprocess_user_data(user_df, scaler)

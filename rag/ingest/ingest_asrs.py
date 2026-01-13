@@ -6,9 +6,7 @@ from langchain_community.vectorstores import FAISS
 from utils.llm_provider import paths_config
 from langchain_openai import OpenAIEmbeddings
 
-# ====================================================
-# CONFIGURACIÓN DE RUTAS
-# ====================================================
+
 BASE_DIR = Path(__file__).resolve().parents[2]
 RAW_DIR = BASE_DIR / "data" / "raw" / "ASRS"
 VECTOR_DIR = BASE_DIR / "data" / "vectorStores" / "asrs_store"
@@ -16,9 +14,7 @@ OUT_DOCS = VECTOR_DIR / "asrs_docs.pkl"
 
 EMBEDDINGS = OpenAIEmbeddings()
 
-# ====================================================
 # COLUMNAS RELEVANTES
-# ====================================================
 FIELDS = {
     "acn": "ACN",
     "aircraft": "Aircraft 1.Make Model Name",
@@ -33,9 +29,7 @@ FIELDS = {
     "synopsis": "Report 1.Synopsis",
 }
 
-# ====================================================
-# HELPERS
-# ====================================================
+
 def load_excel(path: Path) -> pd.DataFrame:
     df = pd.read_excel(path, header=[0, 1], engine="openpyxl")
     df.columns = [f"{a}.{b}" if str(b) != "nan" else f"{a}" for a, b in df.columns]
@@ -77,9 +71,8 @@ def build_document(row) -> Document | None:
 
     return Document(page_content=text, metadata=metadata)
 
-# ====================================================
-# MAIN
-# ====================================================
+
+
 def main():
     VECTOR_DIR.mkdir(parents=True, exist_ok=True)
     docs = []

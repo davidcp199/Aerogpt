@@ -162,7 +162,7 @@ for role, msg in st.session_state.chat:
         st.markdown(msg, unsafe_allow_html=True)
 
 # ==============================================
-# Input del usuario (SIN rerun)
+# Input del usuario
 # ==============================================
 user_input = st.chat_input("Escribe tu consulta")
 
