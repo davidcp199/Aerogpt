@@ -95,9 +95,9 @@ def generate_synthetic_history(row, length=30):
 def expand_history_to_30(df):
     """
     Expande el dataframe del usuario hasta 30 filas.
-    - Si tiene 1 fila → genera 30 totalmente sintéticas.
-    - Si tiene entre 2 y 29 → añade filas sintéticas hasta llegar a 30.
-    - Si tiene ≥ 30 → usa las últimas 30.
+    - Si tiene 1 fila -> genera 30 totalmente sintéticas.
+    - Si tiene entre 2 y 29 -> añade filas sintéticas hasta llegar a 30.
+    - Si tiene ≥ 30 -> usa las últimas 30.
     """
     n = len(df)
 

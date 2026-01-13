@@ -54,8 +54,8 @@ RESPUESTA:
 DECIDE_CRITICALITY = ChatPromptTemplate.from_template(
 """
 Clasifica el siguiente análisis técnico como:
-- CRITICO → si implica riesgo de seguridad o impacto operacional significativo
-- NO_CRITICO → si es solo informativo o técnico
+- CRITICO -> si implica riesgo de seguridad o impacto operacional significativo
+- NO_CRITICO -> si es solo informativo o técnico
 
 Análisis:
 {analysis}

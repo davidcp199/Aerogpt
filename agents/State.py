@@ -72,8 +72,8 @@ class AgentState(BaseModel):
     # Capturar las salidas de los agentes    
     def emit(self, text: str, level: Literal["user","debug"]="user"):
         """
-        level="user" → para UI
-        level="debug" → para decisiones internas
+        level="user" -> para UI
+        level="debug" -> para decisiones internas
         """
         if level == "user":
             self.output_buffer.append(text)

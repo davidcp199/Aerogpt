@@ -16,6 +16,6 @@ def process_pdf_folder(input_folder, output_folder):
                         text = extract_text_from_pdf(pdf_path)
                         with open(txt_path, "w", encoding="utf-8") as out_file:
                             out_file.write(text)
-                        print(f"[OK] {f} → {txt_path}")
+                        print(f"[OK] {f} -> {txt_path}")
                     except Exception as e:
                         print(f"[ERROR] {f} -> {e}")
