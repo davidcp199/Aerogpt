@@ -61,15 +61,12 @@ Reparación: {repair_info}
 """)
 
 
-
-
 def final_action(state):
     """
     Acción del agente Final:
     - Integra información de otros agentes
     - Responde a la pregunta del usuario
     """
-    # print(">>>FINAL Agent")
     state.emit("\n---> FINAL AGENT", level="debug")
     logger.info(">>> FINAL AGENT")
     state.source = "Final"
@@ -81,7 +78,6 @@ def final_action(state):
         criticality_info = getattr(state, "criticidad", None)
         repair_info = getattr(state, "reparacion", None)
 
-        # RUL
         rul_state = getattr(state, "rul", None)
         if isinstance(rul_state, dict):
             rul_info = f"RUL estimado: {rul_state.get('predicted_RUL')} ciclos. {rul_state.get('text', '')}"
@@ -100,22 +96,11 @@ def final_action(state):
             "technical_info": technical_info
         })
 
-        # print("==============================Entrando en FinalAgent, respuesta generada.=========================================")
-        # print(f"----> regulation_info: {regulation_info} \n")
-        # print(f"----> criticality_info: {criticality_info} \n")
-        # print(f"----> repair_info: {repair_info} \n")
-        # print(f"----> rul_info: {rul_info} \n")
-        # print(f"----> technical_info: {technical_info} \n")
-        # print("==============================SALIENDO en FinalAgent, respuesta generada.=========================================")
-
         state.messages.append(AIMessage(content=response.content.strip()))
         state.emit(response.content.strip(), level="user")
 
-        # Actualizar conversation_summary usando update_memory
         state.update_memory(response.content.strip())
         state.final_response = response.content.strip()
-
-
 
         state.needs_followup = False
         state.next_agent = None

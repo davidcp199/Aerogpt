@@ -1,5 +1,4 @@
-# Crea vectorstore FAISS para RAG a partir de chunks
-
+# Crea vectorstore FAISS para RAG a partir de chunks almacenados en archivos pickle.
 import pickle
 import os
 from langchain_community.vectorstores import FAISS

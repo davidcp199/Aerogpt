@@ -5,9 +5,12 @@ import numpy as np
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error
+from pathlib import Path
 
-CSV_DIR = r"C:\Users\David\Documents\AeroGPT\results\CMAPSS\GRU"
-MODEL_DIR = r"C:\Users\David\Documents\AeroGPT\models\cmapss"
+BASE_DIR = Path(__file__).resolve().parents[1]  # AEROGPT/
+
+CSV_DIR = BASE_DIR / "results" / "CMAPSS" / "GRU"
+MODEL_DIR = BASE_DIR / "models" / "cmapss"
 
 def nasa_score(y_true, y_pred):
     e = y_pred - y_true

@@ -9,10 +9,9 @@ from agents.State import AgentState
 
 logger = logging.getLogger(__name__)
 
-# ============================================================
-# PROMPTS
-# ============================================================
 
+
+# Este es el esquema JSON que debe seguir la respuesta del agente de regulación
 REGULATION_SCHEMA_DESCRIPTION = """
 Devuelve EXCLUSIVAMENTE un objeto JSON con la siguiente estructura:
 
@@ -38,7 +37,7 @@ Devuelve EXCLUSIVAMENTE un objeto JSON con la siguiente estructura:
 NO añadas texto fuera del JSON.
 """
 
-
+# Prompt de generación de análisis normativo
 PROMPT_REGULACION = ChatPromptTemplate.from_template(
     f"""
 Eres un asistente experto en regulación aeronáutica (FAA & EASA).
@@ -66,7 +65,7 @@ RESPUESTA:
 """
 )
 
-
+# Prompt para decidir si el análisis normativo implica criticidad operacional
 DECIDE_COMPLIANCE_IMPACT = ChatPromptTemplate.from_template(
 """
 Eres un experto en normativa aeronáutica y safety operacional.
@@ -117,10 +116,6 @@ SIN_CRITICIDAD
 )
 
 
-# ============================================================
-# AGENT ACTION
-# ============================================================
-
 def regulation_action(state: AgentState) -> AgentState:
     """
     Agente de regulación FAA/EASA:
@@ -130,13 +125,11 @@ def regulation_action(state: AgentState) -> AgentState:
     - Decide siguiente agente (Criticidad) si es crítico.
     """
 
-    # print(">>> REGULACION")
     logger.info(">>> REGULACION")
     state.source = "Regulacion"
     state.emit("\n---> REGULACION AGENT", level="debug")
 
     try:
-        # Obtener pregunta del usuario
         question = state.messages[-1].content
         if not question:
             state.messages.append(
@@ -198,7 +191,6 @@ def regulation_action(state: AgentState) -> AgentState:
             state.next_agent = None
             return state
 
-        # Guardar respuesta en el estado
         state.regulation = regulation_data
         state.messages.append(AIMessage(content=f"Análisis normativo generado:\n{raw_response_str}"))
         state.emit(f"\nAnálisis normativo generado", level="debug")

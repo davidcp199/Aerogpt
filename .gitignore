@@ -2,7 +2,6 @@
 Cosas.txt
 data/vectorStores/
 *.faiss
-Memoria.docx
 prueba.py
 
 # Byte-compiled / optimized / DLL files

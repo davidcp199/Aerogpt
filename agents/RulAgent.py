@@ -68,8 +68,6 @@ Formato de salida: texto profesional, sin JSON.
 """
 )
 
-
-
 def rul_action(state):
     """
     Acción del agente RUL:
@@ -77,7 +75,6 @@ def rul_action(state):
     - Calcula RUL
     - Genera explicaciones
     """
-    # print(">>>RUL")
     logger.info(">>> RUL AGENT")
     state.source = "RUL"
     state.emit("\n---> RUL AGENT", level="debug")
@@ -107,7 +104,6 @@ def rul_action(state):
             return state
 
         predicted_RUL = pred.get("predicted_RUL", None)
-        #print(f"----->Predicted RUL: {predicted_RUL}")
         state.emit(f"\nPredicted RUL: {predicted_RUL}", level="debug")
         if predicted_RUL is None:
             state.messages.append(AIMessage(content="El modelo no devolvió una predicción válida."))
@@ -124,7 +120,6 @@ def rul_action(state):
         }).content.strip()
 
         state.messages.append(AIMessage(content=text))
-        # state.update_memory("RUL", text)
         state.rul = {
             "predicted_RUL": predicted_RUL,
             "text": text

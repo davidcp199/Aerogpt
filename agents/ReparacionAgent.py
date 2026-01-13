@@ -14,9 +14,7 @@ from agents.State import AgentState
 
 logger = logging.getLogger(__name__)
 
-# ============================================================
-# Configuración paths y vectorstores
-# ============================================================
+
 BASE_DIR = Path(paths_config["paths"]["base"])
 
 VECTORSTORES = {
@@ -52,7 +50,7 @@ for name, path in VECTORSTORES.items():
         STORES[name] = store_instance
 
 # ============================================================
-# Prompt Reparación actualizado
+# Prompt Reparación
 # ============================================================
 REPARACION_PROMPT = ChatPromptTemplate.from_template(
 """
@@ -143,32 +141,24 @@ INFORMACIÓN DISPONIBLE
 )
 
 
-# ============================================================
-# Acción del agente
-# ============================================================
 def reparacion_action(state: AgentState) -> AgentState:
     """
     Genera recomendaciones de reparación basadas en:
     Criticidad, RUL, Regulación, Información técnica y contexto histórico
     """
-    # print(">>> Ejecutando acción REPARACION")
     logger.info(">>> REPARACION")
     state.source = "Reparacion"
     state.emit("\n---> REPARACION AGENT", level="debug")
 
     try:
-        # --------------------------------------------------------
         # Extraer contexto principal
-        # --------------------------------------------------------
         system = state.criticidad.get("affected_system", "Desconocido") if state.criticidad else "No especificado"
         flight_phase = state.criticidad.get("flight_phase", "Desconocida") if state.criticidad else "UNKNOWN"
         severity = state.criticidad.get("severity", "MEDIUM").upper() if state.criticidad else "MEDIUM"
 
         user_query = state.messages[-1].content
 
-        # --------------------------------------------------------
         # Construir contexto integrado
-        # --------------------------------------------------------
         context_blocks = []
 
         if state.criticidad:
@@ -179,14 +169,11 @@ def reparacion_action(state: AgentState) -> AgentState:
             context_blocks.append(f"[REGULACION]\n{json.dumps(state.regulation, ensure_ascii=False, indent=2)}")
         if getattr(state, "tecnico", None):
             context_blocks.append(f"[TECNICO]\n{json.dumps(state.tecnico, ensure_ascii=False, indent=2)}")
-        # Histórico de mensajes
-        history = getattr(state, "conversation_summary", "No hay histórico reciente.")
 
+        history = getattr(state, "conversation_summary", "No hay histórico reciente.")
         context_str = "\n\n".join(context_blocks)
 
-        # --------------------------------------------------------
         # Recuperar documentos vectorstores
-        # --------------------------------------------------------
         docs = []
         for store_name, store in STORES.items():
             try:
@@ -204,9 +191,7 @@ def reparacion_action(state: AgentState) -> AgentState:
             source = d.metadata.get("source", "UNKNOWN")
             context_str += f"\n\n[{source}]\n{d.page_content}"
 
-        # --------------------------------------------------------
-        # Invocar LLM
-        # --------------------------------------------------------
+        # Llamar al LLM
         chain = REPARACION_PROMPT | llm_creative
         response = chain.invoke({
             "system": system,
@@ -224,7 +209,7 @@ def reparacion_action(state: AgentState) -> AgentState:
         if raw_text.startswith("```"):
             raw_text = raw_text.strip("`").replace("json", "", 1).strip()
 
-        # Parseo JSON defensivo
+        # Parseo JSON
         try:
             reparacion_data = json.loads(raw_text)
         except json.JSONDecodeError:

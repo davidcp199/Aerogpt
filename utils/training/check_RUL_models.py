@@ -7,11 +7,14 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import mean_absolute_error
 import torch
 import torch.nn as nn
+from pathlib import Path
 
-BASE_PATH = r"C:\Users\U68976\Documents\Mis documentos\GYM\TFM\AAA"
-RAW_PATH = r"C:\Users\David\Documents\AeroGPT\data\raw\CMAPSS"
-MODEL_PATH = r"C:\Users\David\Documents\AeroGPT\models\cmapss"
-FIG_PATH = r"C:\Users\David\Documents\AeroGPT\results\CMAPSS\GRU"
+BASE_PATH = Path(__file__).resolve().parents[2]  # AEROGPT/
+
+RAW_PATH = BASE_PATH / "data" / "raw" / "CMAPSS"
+MODEL_PATH = BASE_PATH / "models" / "cmapss"
+FIG_PATH = BASE_PATH / "results" / "CMAPSS" / "GRU"
+
 os.makedirs(FIG_PATH, exist_ok=True)
 
 WINDOW_SIZE = 30

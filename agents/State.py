@@ -16,7 +16,6 @@ class AgentState(BaseModel):
     needs_followup: bool = False
     source: Optional[str] = None
     conversation_summary: Optional[str] = None
-    #last_agent_output: Dict[str, str] = Field(default_factory=dict)
     
     output_buffer: List[str] = Field(default_factory=list)
     debug_buffer: List[str] = Field(default_factory=list)
@@ -24,7 +23,6 @@ class AgentState(BaseModel):
     regulation: Optional[dict] = None
     
     criticidad: Optional[dict] = None
-    #criticidad_sources: Optional[List[str]] = None
     dispatch_allowed: Optional[bool] = None
 
     reparacion: Optional[dict] = None
@@ -71,11 +69,11 @@ class AgentState(BaseModel):
             self.conversation_summary = self.conversation_summary[-max_len:]
 
 
-    # Método para capturar las salidas de los agentes    
+    # Capturar las salidas de los agentes    
     def emit(self, text: str, level: Literal["user","debug"]="user"):
         """
         level="user" → para UI
-        level="debug" → para decisiones internas, más transparente
+        level="debug" → para decisiones internas
         """
         if level == "user":
             self.output_buffer.append(text)

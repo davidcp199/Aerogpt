@@ -6,7 +6,7 @@ import logging
 logger = logging.getLogger(__name__)
 
 # Variable global para controlar cuántas entradas recientes por agente incluir
-AGENT_HISTORY_LIMIT = None  # None = todas, o un número entero para limitar
+AGENT_HISTORY_LIMIT = None
 
 PROMPT_GENERAL = ChatPromptTemplate.from_template(
 """

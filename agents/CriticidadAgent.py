@@ -1,7 +1,3 @@
-# ============================================================
-# CriticidadAgent.py
-# ============================================================
-
 from pathlib import Path
 from typing import List
 import json
@@ -16,10 +12,6 @@ from utils.llm_provider import llm_deterministic, paths_config
 from agents.State import AgentState
 
 logger = logging.getLogger(__name__)
-
-# ============================================================
-# CONFIGURACIÓN
-# ============================================================
 
 BASE_DIR = Path(paths_config["paths"]["base"])
 
@@ -73,7 +65,6 @@ def retrieve_context(question: str, system: str = None, flight_phase: str = None
             fetch_k=K*4,
             lambda_mult=0.7
         )
-        # Filtrado por metadata si aplica
         if system or flight_phase or far_part:
             docs = [
                 d for d in docs
@@ -92,9 +83,7 @@ def build_context(docs: List[Document]) -> str:
         blocks.append(f"[{source}]\n{d.page_content}")
     return "\n\n".join(blocks)
 
-# ============================================================
-# PROMPT EN ESPAÑOL
-# ============================================================
+
 
 CRITICIDAD_PROMPT = """
 Eres un ingeniero experto en seguridad y confiabilidad aeronáutica.
@@ -132,12 +121,7 @@ Proporciona un análisis estructurado en JSON con las siguientes claves:
 - recommendations
 """
 
-# ============================================================
-# AGENTE CRITICIDAD
-# ============================================================
-
 def criticidad_action(state: AgentState) -> AgentState:
-    # print(">>> Ejecutando acción CRITICIDAD")
     state.emit("\n---> CRITICIDAD AGENT", level="debug")
     logger.info(">>> CRITICIDAD AGENT")
     state.source = "Criticidad"
@@ -157,7 +141,7 @@ def criticidad_action(state: AgentState) -> AgentState:
         docs = retrieve_context(question)
         context = build_context(docs)
 
-        # Histórico completo desde conversation_summary
+        # Histórico completo
         history = getattr(state, "conversation_summary", "No hay histórico reciente.")
 
 
@@ -174,7 +158,7 @@ def criticidad_action(state: AgentState) -> AgentState:
         regulation_info = getattr(state, "regulation", "No disponible")
         tecnico_info = getattr(state, "tecnico", "No disponible")
 
-        # Construir prompt
+        # prompt
         prompt = CRITICIDAD_PROMPT.format(
             question=question,
             context=context,
@@ -184,7 +168,7 @@ def criticidad_action(state: AgentState) -> AgentState:
             tecnico_info=tecnico_info
         )
 
-        # Llamar al LLM determinista
+        # Llamar al LLM
         response = llm_deterministic.invoke(prompt)
         criticidad_data = response.content
 
@@ -200,18 +184,13 @@ def criticidad_action(state: AgentState) -> AgentState:
 
         # Guardar directamente en el estado
         state.criticidad = criticidad_json
-        #state.emit(f"\nAnálisis de criticidad generado: {json.dumps(criticidad_json, ensure_ascii=False)}", level="debug")
 
         # Asignar dispatch_allowed según severidad
         severity = criticidad_json.get("severity", "").upper()
         state.dispatch_allowed = severity in ["LOW", "MEDIUM"]
 
-        # Actualizar memoria
-        # state.update_memory("Criticidad", json.dumps(criticidad_json, ensure_ascii=False))
-
         # Decidir siguiente agente
         if severity in ["HIGH", "CRITICAL"]:
-            # print(">>> Criticidad alta detectada, se requiere seguimiento.")
             state.emit("\nCriticidad alta detectada, se requiere seguimiento.", level="debug")
             state.needs_followup = True
             state.next_agent = "Reparacion"
@@ -219,7 +198,6 @@ def criticidad_action(state: AgentState) -> AgentState:
             state.needs_followup = True
             state.next_agent = "Final"
 
-        # print(f"Análisis criticidad generado. Severidad: {severity}. Dispatch permitido: {state.dispatch_allowed}")
         state.emit(f"\nAnálisis criticidad generado. Severidad: {severity}. Dispatch permitido: {state.dispatch_allowed}", level="debug")  
 
         return state

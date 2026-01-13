@@ -1,4 +1,3 @@
-# GraphBuilder.py
 from langgraph.graph import StateGraph, START, END
 from agents.State import AgentState
 from agents.SupervisorAgent import supervisor_action
@@ -7,7 +6,7 @@ from agents.CriticidadAgent import criticidad_action
 from agents.ReparacionAgent import reparacion_action
 from agents.RegulacionAgent import regulation_action
 from agents.GeneralAgent import general_action
-from agents.TechnicalAgent import technical_action
+from agents.TecnicoAgent import technical_action
 from agents.PreRulAgent import pre_rul_action
 from agents.FinalAgent import final_action
 
@@ -17,10 +16,6 @@ class GraphBuilder:
 
     def supervisor_decision(self, state: AgentState):
         """Decide el siguiente agente basado en la decisión interna"""
-        #print(f">>> Decision interna del nodo: {state.decision}")
-        #print(f">>> Siguiente nodo: {state.next_agent or 'END'}")
-        #state.emit(f"\n>>> Decision interna del nodo: {state.decision}", level="debug")
-        #state.emit(f"\n>>> Siguiente nodo: {state.next_agent or 'END'}", level="debug")
         if state.decision in ["PreRUL", "RUL", "Criticidad", "Reparacion", "Regulacion", "Tecnico", "General", "Final"]:
             state.next_agent = None
             return state.decision
@@ -29,7 +24,6 @@ class GraphBuilder:
     def followup_decision(self, state: AgentState):
         """
         Si un agente indica que se necesita otro agente, devuelve el siguiente nodo.
-        No sobrescribe el state.
         """
         if state.needs_followup and state.next_agent:
             next_node = state.next_agent

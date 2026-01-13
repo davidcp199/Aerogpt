@@ -3,22 +3,21 @@ import numpy as np
 import pandas as pd
 import joblib
 import matplotlib.pyplot as plt
-
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_squared_error, mean_absolute_error
-
 import torch
 from torch import nn
 from torch.autograd import Variable
+from pathlib import Path
 
+BASE_PATH = Path(__file__).resolve().parents[2] / "data" / "CMAPSS"
+RAW_PATH = BASE_PATH / "raw_5"
+MODEL_PATH = BASE_PATH / "models_5"
+FIG_PATH = BASE_PATH / "figures_5"
 
-BASE_PATH = r"C:\Users\David\Documents\Master-Big-Data-Data-Sciencee-e-Inteligencia-Artificial\TFM\AeroGPT\data\CMAPSS"
-RAW_PATH = os.path.join(BASE_PATH, "raw_5")
-MODEL_PATH = os.path.join(BASE_PATH, "models_5")
-FIG_PATH = os.path.join(BASE_PATH, "figures_5")
+MODEL_PATH.mkdir(parents=True, exist_ok=True)
+FIG_PATH.mkdir(parents=True, exist_ok=True)
 
-os.makedirs(MODEL_PATH, exist_ok=True)
-os.makedirs(FIG_PATH, exist_ok=True)
 
 FD_LIST = ["FD001", "FD002", "FD003", "FD004"]
 WINDOW_SIZE = 30

@@ -63,11 +63,13 @@ Mensaje del usuario:
 def pre_rul_action(state):
     """
     Gestiona la conversación con el usuario:
-    - Identifica acción: Update, Calculate, Exit o Chat
+    - Identifica acción: Update, Calculate, Status, Reset, Chat
     - Update: extrae nuevos valores y añade al DataFrame
     - Calculate: va al cálculo de RUL si hay datos
+    - Status: muestra el estado actual de datos
+    - Reset: reinicia datos o inicia nuevo motor
+    - Chat: responde preguntas sobre RUL/CMAPSS
     """
-    # print("<<<PRERUL")
     state.source = "PreRUL"
     state.emit("\n---> PRE RUL AGENT", level="debug")
     
@@ -77,7 +79,6 @@ def pre_rul_action(state):
         # Inicializar DataFrame si no existe
         if state.pre_rul_data is None:
             state.pre_rul_data = pd.DataFrame()
-            #print("Inicializando DataFrame vacío para medidas CMAPSS...")
             state.emit("\nInicializando DataFrame vacío para medidas CMAPSS...", level="debug")
 
         # LLM Accion
@@ -88,8 +89,6 @@ def pre_rul_action(state):
         action = response.content.strip()
 
         action_lower = action.lower()
-        # print("--------")
-        # print(action_lower)
         state.emit(f"\nPreRUL Accion decidida: {action}", level="debug")
 
         if "update" in action_lower:
@@ -120,7 +119,6 @@ def pre_rul_action(state):
             state.modelo_seleccionado = parsed.get("modelo_seleccionado", state.modelo_seleccionado)
 
             state.messages.append(AIMessage(content=f"Nueva medición registrada. ({len(state.pre_rul_data)} filas acumuladas). ¿Quiere Calcular RUL ahora?"))
-            # state.update_memory("PreRUL", f"Nueva medición registrada ({len(state.pre_rul_data)} filas)")
             state.emit(f"\nNueva medición registrada. ({len(state.pre_rul_data)} filas acumuladas).", level="user")
             state.emit(f"\nModelo seleccionado: {state.modelo_seleccionado}\n - Estado actual de mediciones:\n{state.pre_rul_data}", level="debug")
             state.needs_followup = False
@@ -172,14 +170,12 @@ def pre_rul_action(state):
                 state.modelo_seleccionado = parsed.get("modelo_seleccionado", "FD001")
                 state.messages.append(AIMessage(content="Datos reseteados y nueva medición registrada."))
                 state.emit("\nDatos reseteados y nueva medición registrada.", level="user")
-                #state.emit(f"\nDatos actuales:\n{state.pre_rul_data}", level="debug")
             else:
                 # solo reset
                 state.pre_rul_data = pd.DataFrame()
                 state.modelo_seleccionado = "FD001"
                 state.messages.append(AIMessage(content="Datos reseteados a cero."))
                 state.emit("\nDatos reseteados a cero.", level="user")
-                # state.update_memory("PreRUL", "Datos reseteados a cero")
             state.needs_followup = False
             state.next_agent = None
             return state
@@ -188,7 +184,6 @@ def pre_rul_action(state):
             chat_chain = PROMPT_CHAT | llm_deterministic
             chat_response = chat_chain.invoke({"user_message": last_user_msg})
             state.messages.append(AIMessage(content=chat_response.content))
-            # state.update_memory("PreRUL", chat_response.content)
             state.emit(chat_response.content, level="user")
             state.needs_followup = False
             state.next_agent = None

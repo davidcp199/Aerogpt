@@ -74,7 +74,6 @@ def technical_action(state):
     - Decide siguiente agente (si procede).
     """
 
-    # print(">>>TECNICO")
     logger.info(">>> TECNICO")
     state.source = "Tecnico"
     state.emit("\n---> TECNICO AGENT", level="debug")
@@ -131,9 +130,7 @@ def technical_action(state):
             return state
 
         state.messages.append(AIMessage(content=response_text))
-        # state.update_memory("Tecnico", response_text)
         state.tecnico = response_text
-        #state.emit(response_text, level="user")
         state.emit(f"\nAnálisis técnico generado", level="debug")
         
 
@@ -144,7 +141,6 @@ def technical_action(state):
         decision = decision.strip().upper()
 
         if "CRITICO" in decision:
-            # print(">>> Derivando a CRITICIDAD desde TÉCNICO")
             state.needs_followup = True
             state.next_agent = "Criticidad"
         else:

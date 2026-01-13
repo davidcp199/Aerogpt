@@ -4,17 +4,20 @@ import os
 from ingest_pdfs import process_pdf_folder
 from chunker import chunk_text_folder
 from build_vectorstores import create_vectorstore
+from pathlib import Path
 
+BASE_DIR = Path(__file__).resolve().parents[2]  # AEROGPT/
 
 RAW_PDF_PATHS = {
-    "FAA_ACs": r"C:\Users\David\Documents\AeroGPT\data\raw\FAA_ACs",
-    "EASA": r"C:\Users\David\Documents\AeroGPT\data\raw\EASA",
-    "Airbus_FAST": r"C:\Users\David\Documents\AeroGPT\data\raw\Airbus_FAST"
+    "FAA_ACs": BASE_DIR / "data" / "raw" / "FAA_ACs",
+    "EASA": BASE_DIR / "data" / "raw" / "EASA",
+    "Airbus_FAST": BASE_DIR / "data" / "raw" / "Airbus_FAST",
 }
 
-PROCESSED_PATH = r"C:\Users\David\Documents\AeroGPT\data\processed"
-METADATA_PATH = r"C:\Users\David\Documents\AeroGPT\data\metadata"
-VECTORSTORE_PATH = r"C:\Users\David\Documents\AeroGPT\data\vectorStores"
+PROCESSED_PATH = BASE_DIR / "data" / "processed"
+METADATA_PATH = BASE_DIR / "data" / "metadata"
+VECTORSTORE_PATH = BASE_DIR / "data" / "vectorStores"
+
 
 os.makedirs(PROCESSED_PATH, exist_ok=True)
 os.makedirs(METADATA_PATH, exist_ok=True)
