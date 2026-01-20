@@ -1,7 +1,7 @@
 .env
 Cosas.txt
-data/vectorStores/
-*.faiss
+#data/vectorStores/
+#*.faiss
 prueba.py
 
 # Byte-compiled / optimized / DLL files
