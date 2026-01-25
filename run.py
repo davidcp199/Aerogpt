@@ -11,7 +11,7 @@ from pathlib import Path
 VENV_NAME = "AEROGPT_ENV"
 VENV_PATH = Path(VENV_NAME)
 
-CONFIG_YAML = Path("config/requirements.yaml")  # tu archivo .yaml con paquetes
+CONFIG_YAML = Path("config/requirements.yaml")
 
 def check_python_version():
     """Verifica que la versión de Python sea >= 3.8"""
