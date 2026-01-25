@@ -2,6 +2,7 @@
 Cosas.txt
 #data/vectorStores/
 #*.faiss
+AEROGPT_ENV/
 prueba.py
 
 # Byte-compiled / optimized / DLL files
