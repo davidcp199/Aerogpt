@@ -108,11 +108,17 @@ INFERENCIA ATA
 - NO inventes subcapítulos ni referencias específicas si no se conoce la aeronave.
 - Si el procedimiento exacto depende del fabricante o modelo, indícalo explícitamente.
 
+INFORMACIÓN DISPONIBLE
+- Contexto documental: {context}
+- Criticidad: {criticidad_info}
+- RUL: {rul_info}
+- Regulación: {regulation_info}
+- Información técnica: {tecnico_info}
+- Histórico reciente: {history}
 
-FORMATO DE SALIDA
-IMPORTANTE: No incluyas ningún texto antes o después del JSON. Solo devuelve un JSON válido.
-Devuelve EXCLUSIVAMENTE un objeto JSON válido (RFC 8259):
+IMPORTANTE: No incluyas ningún texto antes o después del JSON. Solo devuelve exclusivamente un JSON válido.
 
+EJEMPLO DE SALIDA ESPERADA:
 {{
   "system_affected": "Sistema o subsistema afectado",
   "flight_phase": "Fase relevante o N/A",
@@ -129,14 +135,6 @@ Devuelve EXCLUSIVAMENTE un objeto JSON válido (RFC 8259):
   ],
   "notes": "Supuestos técnicos realizados y limitaciones del análisis"
 }}
-
-INFORMACIÓN DISPONIBLE
-- Contexto documental: {context}
-- Criticidad: {criticidad_info}
-- RUL: {rul_info}
-- Regulación: {regulation_info}
-- Información técnica: {tecnico_info}
-- Histórico reciente: {history}
 """
 )
 
