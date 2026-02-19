@@ -49,17 +49,36 @@ RESPUESTA:
 )
 
 DECIDE_CRITICALITY = ChatPromptTemplate.from_template(
-"""
-Clasifica el siguiente análisis técnico como:
-- CRITICO -> si implica riesgo de seguridad o impacto operacional significativo
-- NO_CRITICO -> si es solo informativo o técnico
-
-Análisis:
-{analysis}
-
-IMPORTANTE:
-Una explicación técnica o descriptiva NO es crítica si no hay fallo real descrito.
-Responde SOLO con: CRITICO o NO_CRITICO
+    """  
+Eres un experto en seguridad operacional aeronáutica.  
+  
+Clasifica la siguiente interacción (pregunta + análisis técnico) como:  
+- CRITICO -> si implica riesgo de seguridad o impacto operacional significativo  
+- SIN_CRITICIDAD -> si es solo informativo, descriptivo o técnico sin fallo real  
+  
+PREGUNTA DEL USUARIO:  
+{question}  
+  
+Análisis técnico generado:  
+{analysis}  
+  
+CRITERIOS CLAROS:  
+CRITICO:  
+- La pregunta describe un síntoma, alerta (ECAM/EICAS), desviación de parámetros, fallo real o condición anómala.
+- No es una pregunta informativa o teórica del tipo ¿Cómo funciona...?, sino que se refiere a una situación real o inminente.  
+- El análisis confirma un riesgo operativo, seguridad o limitación de dispatch.  
+- Se menciona una condición real, actual o inminente que requiere acción.  
+  
+SIN_CRITICIDAD:  
+- La pregunta es explicativa, teórica o de referencia ("cómo funciona", "qué dice el manual").  
+- El análisis es descriptivo sin identificar fallo ni necesidad de acción.  
+- No hay evento, fallo ni desviación operativa descrita.  
+  
+IMPORTANTE:  
+- Una explicación técnica NO es crítica si no hay fallo real descrito.  
+- No infieras criticidad si la pregunta solo busca información general.  
+  
+Responde ÚNICAMENTE con: CRITICO o SIN_CRITICIDAD  
 """
 )
 
@@ -134,9 +153,11 @@ def technical_action(state):
         
 
         # Decide si se envia a agente Criticidad
-        decision = (DECIDE_CRITICALITY | llm_deterministic).invoke(
-            {"analysis": response_text}
-        ).content.strip()
+        decision = (DECIDE_CRITICALITY | llm_deterministic).invoke({
+            "question": question,
+             "analysis": response_text
+            
+        }).content.strip()
         decision = decision.strip().upper()
 
         if "CRITICO" in decision:

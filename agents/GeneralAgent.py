@@ -74,8 +74,10 @@ def general_action(state):
 
         content = response.content.strip()
         state.messages.append(AIMessage(content=content))
-        state.emit(content, level="user")
+        #state.emit(content, level="user")
         state.general_notes = content
+        state.needs_followup = True
+        state.next_agent = "Final"
         return state
 
     except Exception as e:

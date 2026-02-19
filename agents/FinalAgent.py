@@ -15,7 +15,7 @@ basándote exclusivamente en la información proporcionada por los agentes.
 
 PRINCIPIO CLAVE
 Antes de responder, debes razonar internamente:
-- Qué tipo de pregunta hace el usuario: regulatoria, técnica, operativa o mixta.
+- Qué tipo de pregunta hace el usuario: general, regulatoria, técnica, operativa o mixta.
 - Qué información es relevante y cuál debe ignorarse por completo.
 - Si hay datos disponibles de la fuente relevante, debes exponerlos casi completos para enriquecer la respuesta.
 - Información secundaria (criticidad, RUL, reparaciones) se puede incluir solo si es coherente y aporta valor al contexto.
@@ -25,13 +25,15 @@ TIPOS DE PREGUNTA (clasificación implícita)
 2. Regulación aplicada -> normativa con implicaciones operativas
 3. Técnica descriptiva -> funcionamiento de sistemas
 4. Técnica con estado -> análisis técnico con criticidad
-5. Caso operacional completo -> RUL + criticidad + acciones
+5. Caso general -> preguntas amplias sobre aviación, procedimientos, conceptos, resumenes, etc.
+6. Caso operacional completo -> RUL + criticidad + acciones
 
 JERARQUÍA DE FUENTES
 - Regulación pura -> Regulación (exclusiva)
 - Regulación aplicada -> Regulación (principal) + Criticidad/Acciones solo si aportan valor
 - Técnica descriptiva -> Técnico
 - Técnica con estado -> Técnico > Criticidad > Reparación
+- Caso general -> General
 - Caso completo -> RUL > Criticidad > Reparación > Regulación
 
 REGLAS ESTRICTAS
@@ -58,6 +60,7 @@ RUL: {rul_info}
 Técnico: {technical_info}
 Criticidad: {criticality_info}
 Reparación: {repair_info}
+General: {general_info}
 """)
 
 
@@ -77,6 +80,7 @@ def final_action(state):
         regulation_info = getattr(state, "regulation", None)
         criticality_info = getattr(state, "criticidad", None)
         repair_info = getattr(state, "reparacion", None)
+        general_info = getattr(state, "general_notes", None)
 
         rul_state = getattr(state, "rul", None)
         if isinstance(rul_state, dict):
@@ -93,7 +97,8 @@ def final_action(state):
             "criticality_info": criticality_info,
             "repair_info": repair_info,
             "rul_info": rul_info,
-            "technical_info": technical_info
+            "technical_info": technical_info,
+            "general_info": general_info
         })
 
         state.messages.append(AIMessage(content=response.content.strip()))
